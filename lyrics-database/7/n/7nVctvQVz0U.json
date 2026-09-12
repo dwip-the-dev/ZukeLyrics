@@ -1,0 +1,3026 @@
+{
+  "videoId": "7nVctvQVz0U",
+  "title": "The Fate of Ophelia",
+  "artist": "Taylor Swift",
+  "duration": -1,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:11.190\" end=\"00:14.899\" ttm:agent=\"v1\">\n        <span begin=\"00:11.190\" end=\"00:11.397\">I<\/span>\n        <span begin=\"00:11.397\" end=\"00:11.701\">heard<\/span>\n        <span begin=\"00:11.701\" end=\"00:11.951\">you<\/span>\n        <span begin=\"00:11.951\" end=\"00:13.199\">calling<\/span>\n        <span begin=\"00:13.466\" end=\"00:13.663\">on<\/span>\n        <span begin=\"00:13.663\" end=\"00:13.919\">the<\/span>\n        <span begin=\"00:13.919\" end=\"00:14.899\">megaphone<\/span>\n      <\/p>\n      <p begin=\"00:15.030\" end=\"00:19.648\" ttm:agent=\"v1\">\n        <span begin=\"00:15.034\" end=\"00:15.277\">You<\/span>\n        <span begin=\"00:15.277\" end=\"00:15.735\">wanna<\/span>\n        <span begin=\"00:15.735\" end=\"00:16.251\">see<\/span>\n        <span begin=\"00:16.251\" end=\"00:16.753\">me<\/span>\n        <span begin=\"00:16.753\" end=\"00:17.500\">all<\/span>\n        <span begin=\"00:17.500\" end=\"00:19.648\">alone<\/span>\n      <\/p>\n      <p begin=\"00:20.880\" end=\"00:22.582\" ttm:agent=\"v1\">\n        <span begin=\"00:20.882\" end=\"00:21.242\">As<\/span>\n        <span begin=\"00:21.242\" end=\"00:21.637\">legend<\/span>\n        <span begin=\"00:21.637\" end=\"00:21.869\">has<\/span>\n        <span begin=\"00:21.869\" end=\"00:22.085\">it,<\/span>\n        <span begin=\"00:22.085\" end=\"00:22.582\">you<\/span>\n      <\/p>\n      <p begin=\"00:22.850\" end=\"00:24.580\" ttm:agent=\"v1\">\n        <span begin=\"00:22.850\" end=\"00:23.130\">Are<\/span>\n        <span begin=\"00:23.130\" end=\"00:23.413\">quite<\/span>\n        <span begin=\"00:23.413\" end=\"00:23.613\">the<\/span>\n        <span begin=\"00:23.613\" end=\"00:24.580\">pyro<\/span>\n      <\/p>\n      <p begin=\"00:24.780\" end=\"00:28.565\" ttm:agent=\"v1\">\n        <span begin=\"00:24.780\" end=\"00:24.964\">You<\/span>\n        <span begin=\"00:24.964\" end=\"00:25.137\">light<\/span>\n        <span begin=\"00:25.137\" end=\"00:25.407\">the<\/span>\n        <span begin=\"00:25.407\" end=\"00:25.932\">match<\/span>\n        <span begin=\"00:25.932\" end=\"00:26.399\">to<\/span>\n        <span begin=\"00:26.399\" end=\"00:27.116\">watch<\/span>\n        <span begin=\"00:27.116\" end=\"00:27.415\">it<\/span>\n        <span begin=\"00:27.415\" end=\"00:28.565\">blow<\/span>\n      <\/p>\n      <p begin=\"00:28.640\" end=\"00:32.136\" ttm:agent=\"v1\">\n        <span begin=\"00:28.642\" end=\"00:28.824\">And<\/span>\n        <span begin=\"00:28.824\" end=\"00:29.104\">if<\/span>\n        <span begin=\"00:29.104\" end=\"00:29.338\">you&apos;d<\/span>\n        <span begin=\"00:29.338\" end=\"00:30.138\">never<\/span>\n        <span begin=\"00:30.138\" end=\"00:31.072\">come<\/span>\n        <span begin=\"00:31.072\" end=\"00:31.354\">for<\/span>\n        <span begin=\"00:31.354\" end=\"00:32.136\">me<\/span>\n      <\/p>\n      <p begin=\"00:32.420\" end=\"00:36.208\" ttm:agent=\"v1\">\n        <span begin=\"00:32.424\" end=\"00:32.677\">I<\/span>\n        <span begin=\"00:32.677\" end=\"00:33.145\">might&apos;ve<\/span>\n        <span begin=\"00:33.145\" end=\"00:33.396\">drowned<\/span>\n        <span begin=\"00:33.396\" end=\"00:33.644\">in<\/span>\n        <span begin=\"00:33.644\" end=\"00:33.977\">the<\/span>\n        <span begin=\"00:33.977\" end=\"00:36.208\">melancholy<\/span>\n      <\/p>\n      <p begin=\"00:36.370\" end=\"00:40.866\" ttm:agent=\"v1\">\n        <span begin=\"00:36.376\" end=\"00:36.573\">I<\/span>\n        <span begin=\"00:36.573\" end=\"00:36.811\">swore<\/span>\n        <span begin=\"00:36.811\" end=\"00:37.091\">my<\/span>\n        <span begin=\"00:37.091\" end=\"00:37.821\">loyalty<\/span>\n        <span begin=\"00:37.821\" end=\"00:38.056\">to<\/span>\n        <span begin=\"00:38.056\" end=\"00:38.675\">me,<\/span>\n        <span begin=\"00:38.832\" end=\"00:39.560\">myself,<\/span>\n        <span begin=\"00:39.776\" end=\"00:40.045\">and<\/span>\n        <span begin=\"00:40.045\" end=\"00:40.866\">I<\/span>\n      <\/p>\n      <p begin=\"00:36.370\" end=\"00:41.259\" role=\"x-bg\">\n        <span begin=\"00:38.477\" end=\"00:39.110\">(Me,<\/span>\n        <span begin=\"00:39.313\" end=\"00:39.995\">myself,<\/span>\n        <span begin=\"00:40.420\" end=\"00:41.259\">I)<\/span>\n      <\/p>\n      <p begin=\"00:40.860\" end=\"00:46.312\" ttm:agent=\"v1\">\n        <span begin=\"00:40.863\" end=\"00:41.226\">Right<\/span>\n        <span begin=\"00:41.226\" end=\"00:41.642\">before<\/span>\n        <span begin=\"00:41.642\" end=\"00:41.966\">you<\/span>\n        <span begin=\"00:41.966\" end=\"00:42.525\">lit<\/span>\n        <span begin=\"00:42.591\" end=\"00:43.124\">my<\/span>\n        <span begin=\"00:43.124\" end=\"00:44.122\">sky<\/span>\n        <span begin=\"00:44.122\" end=\"00:46.312\">up<\/span>\n      <\/p>\n      <p begin=\"00:46.870\" end=\"00:49.930\" ttm:agent=\"v1\">\n        <span begin=\"00:46.879\" end=\"00:47.343\">All<\/span>\n        <span begin=\"00:47.343\" end=\"00:47.740\">that<\/span>\n        <span begin=\"00:47.740\" end=\"00:47.975\">time,<\/span>\n        <span begin=\"00:47.975\" end=\"00:48.178\">I<\/span>\n        <span begin=\"00:48.178\" end=\"00:48.428\">sat<\/span>\n        <span begin=\"00:48.428\" end=\"00:48.940\">alone<\/span>\n        <span begin=\"00:48.940\" end=\"00:49.143\">in<\/span>\n        <span begin=\"00:49.143\" end=\"00:49.367\">my<\/span>\n        <span begin=\"00:49.367\" end=\"00:49.930\">tower<\/span>\n      <\/p>\n      <p begin=\"00:49.930\" end=\"00:51.858\" ttm:agent=\"v1\">\n        <span begin=\"00:49.930\" end=\"00:50.178\">You<\/span>\n        <span begin=\"00:50.178\" end=\"00:50.354\">were<\/span>\n        <span begin=\"00:50.354\" end=\"00:50.658\">just<\/span>\n        <span begin=\"00:50.658\" end=\"00:51.199\">honing<\/span>\n        <span begin=\"00:51.199\" end=\"00:51.370\">your<\/span>\n        <span begin=\"00:51.370\" end=\"00:51.858\">powers<\/span>\n      <\/p>\n      <p begin=\"00:51.850\" end=\"00:55.079\" ttm:agent=\"v1\">\n        <span begin=\"00:51.858\" end=\"00:52.141\">Now<\/span>\n        <span begin=\"00:52.141\" end=\"00:52.331\">I<\/span>\n        <span begin=\"00:52.331\" end=\"00:52.536\">can<\/span>\n        <span begin=\"00:52.536\" end=\"00:53.045\">see<\/span>\n        <span begin=\"00:53.045\" end=\"00:53.312\">it<\/span>\n        <span begin=\"00:53.312\" end=\"00:55.079\">all<\/span>\n      <\/p>\n      <p begin=\"00:51.850\" end=\"00:56.396\" role=\"x-bg\">\n        <span begin=\"00:54.311\" end=\"00:55.007\">(See<\/span>\n        <span begin=\"00:55.007\" end=\"00:55.324\">it<\/span>\n        <span begin=\"00:55.324\" end=\"00:56.396\">all)<\/span>\n      <\/p>\n      <p begin=\"00:56.490\" end=\"00:59.653\" ttm:agent=\"v1\">\n        <span begin=\"00:56.495\" end=\"00:56.924\">Late<\/span>\n        <span begin=\"00:56.924\" end=\"00:57.327\">one<\/span>\n        <span begin=\"00:57.327\" end=\"00:57.577\">night,<\/span>\n        <span begin=\"00:57.577\" end=\"00:57.852\">you<\/span>\n        <span begin=\"00:57.852\" end=\"00:58.076\">dug<\/span>\n        <span begin=\"00:58.076\" end=\"00:58.321\">me<\/span>\n        <span begin=\"00:58.321\" end=\"00:58.612\">out<\/span>\n        <span begin=\"00:58.612\" end=\"00:58.823\">of<\/span>\n        <span begin=\"00:58.823\" end=\"00:59.060\">my<\/span>\n        <span begin=\"00:59.060\" end=\"00:59.305\">grave<\/span>\n        <span begin=\"00:59.305\" end=\"00:59.653\">and<\/span>\n      <\/p>\n      <p begin=\"00:59.650\" end=\"01:01.762\" ttm:agent=\"v1\">\n        <span begin=\"00:59.653\" end=\"01:00.064\">Saved<\/span>\n        <span begin=\"01:00.064\" end=\"01:00.296\">my<\/span>\n        <span begin=\"01:00.296\" end=\"01:00.546\">heart<\/span>\n        <span begin=\"01:00.546\" end=\"01:00.813\">from<\/span>\n        <span begin=\"01:00.813\" end=\"01:01.045\">the<\/span>\n        <span begin=\"01:01.045\" end=\"01:01.362\">fate<\/span>\n        <span begin=\"01:01.362\" end=\"01:01.762\">of<\/span>\n      <\/p>\n      <p begin=\"01:01.790\" end=\"01:05.501\" ttm:agent=\"v1\">\n        <span begin=\"01:01.791\" end=\"01:05.501\">Ophelia<\/span>\n      <\/p>\n      <p begin=\"01:01.790\" end=\"01:05.452\" role=\"x-bg\">\n        <span begin=\"01:03.520\" end=\"01:05.452\">(Ophelia)<\/span>\n      <\/p>\n      <p begin=\"01:05.450\" end=\"01:06.519\" ttm:agent=\"v1\">\n        <span begin=\"01:05.452\" end=\"01:05.693\">Keep<\/span>\n        <span begin=\"01:05.693\" end=\"01:05.861\">it<\/span>\n        <span begin=\"01:05.861\" end=\"01:06.009\">one<\/span>\n        <span begin=\"01:06.009\" end=\"01:06.519\">hundred<\/span>\n      <\/p>\n      <p begin=\"01:06.620\" end=\"01:09.502\" ttm:agent=\"v1\">\n        <span begin=\"01:06.620\" end=\"01:06.834\">On<\/span>\n        <span begin=\"01:06.834\" end=\"01:07.053\">the<\/span>\n        <span begin=\"01:07.053\" end=\"01:07.575\">land,<\/span>\n        <span begin=\"01:07.901\" end=\"01:08.114\">the<\/span>\n        <span begin=\"01:08.114\" end=\"01:08.618\">sea,<\/span>\n        <span begin=\"01:08.800\" end=\"01:08.957\">the<\/span>\n        <span begin=\"01:08.957\" end=\"01:09.502\">sky<\/span>\n      <\/p>\n      <p begin=\"01:06.620\" end=\"01:09.403\" role=\"x-bg\">\n        <span begin=\"01:07.356\" end=\"01:08.212\">(Land,<\/span>\n        <span begin=\"01:08.488\" end=\"01:09.403\">sea)<\/span>\n      <\/p>\n      <p begin=\"01:09.520\" end=\"01:11.673\" ttm:agent=\"v1\">\n        <span begin=\"01:09.520\" end=\"01:09.952\">Pledge<\/span>\n        <span begin=\"01:09.952\" end=\"01:10.485\">allegiance<\/span>\n        <span begin=\"01:10.485\" end=\"01:10.717\">to<\/span>\n        <span begin=\"01:10.717\" end=\"01:10.968\">your<\/span>\n        <span begin=\"01:10.968\" end=\"01:11.673\">hands<\/span>\n      <\/p>\n      <p begin=\"01:11.670\" end=\"01:13.371\" ttm:agent=\"v1\">\n        <span begin=\"01:11.673\" end=\"01:12.006\">Your<\/span>\n        <span begin=\"01:12.006\" end=\"01:12.524\">team,<\/span>\n        <span begin=\"01:12.609\" end=\"01:12.838\">your<\/span>\n        <span begin=\"01:12.838\" end=\"01:13.371\">vibes<\/span>\n      <\/p>\n      <p begin=\"01:13.370\" end=\"01:15.356\" ttm:agent=\"v1\">\n        <span begin=\"01:13.371\" end=\"01:13.620\">Don&apos;t<\/span>\n        <span begin=\"01:13.620\" end=\"01:13.820\">care<\/span>\n        <span begin=\"01:13.820\" end=\"01:14.071\">where<\/span>\n        <span begin=\"01:14.071\" end=\"01:14.338\">the<\/span>\n        <span begin=\"01:14.338\" end=\"01:14.588\">hell<\/span>\n        <span begin=\"01:14.588\" end=\"01:14.823\">you<\/span>\n        <span begin=\"01:14.823\" end=\"01:15.356\">been<\/span>\n      <\/p>\n      <p begin=\"01:13.370\" end=\"01:15.912\" role=\"x-bg\">\n        <span begin=\"01:15.212\" end=\"01:15.912\">(Been)<\/span>\n      <\/p>\n      <p begin=\"01:15.520\" end=\"01:17.076\" ttm:agent=\"v1\">\n        <span begin=\"01:15.521\" end=\"01:15.709\">&apos;Cause<\/span>\n        <span begin=\"01:15.709\" end=\"01:16.381\">now,<\/span>\n        <span begin=\"01:16.381\" end=\"01:16.672\">you&apos;re<\/span>\n        <span begin=\"01:16.672\" end=\"01:17.076\">mine<\/span>\n      <\/p>\n      <p begin=\"01:15.520\" end=\"01:16.846\" role=\"x-bg\">\n        <span begin=\"01:16.148\" end=\"01:16.846\">(Now)<\/span>\n      <\/p>\n      <p begin=\"01:17.070\" end=\"01:19.124\" ttm:agent=\"v1\">\n        <span begin=\"01:17.076\" end=\"01:17.289\">It&apos;s<\/span>\n        <span begin=\"01:17.289\" end=\"01:17.537\">&apos;bout<\/span>\n        <span begin=\"01:17.537\" end=\"01:17.769\">to<\/span>\n        <span begin=\"01:17.769\" end=\"01:18.020\">be<\/span>\n        <span begin=\"01:18.020\" end=\"01:18.204\">the<\/span>\n        <span begin=\"01:18.204\" end=\"01:18.673\">sleepless<\/span>\n        <span begin=\"01:18.673\" end=\"01:19.124\">night<\/span>\n      <\/p>\n      <p begin=\"01:19.220\" end=\"01:22.121\" ttm:agent=\"v1\">\n        <span begin=\"01:19.224\" end=\"01:19.398\">You&apos;ve<\/span>\n        <span begin=\"01:19.398\" end=\"01:19.669\">been<\/span>\n        <span begin=\"01:19.669\" end=\"01:20.352\">dreaming<\/span>\n        <span begin=\"01:20.352\" end=\"01:22.121\">of<\/span>\n      <\/p>\n      <p begin=\"01:22.120\" end=\"01:24.959\" ttm:agent=\"v1\">\n        <span begin=\"01:22.121\" end=\"01:22.365\">The<\/span>\n        <span begin=\"01:22.365\" end=\"01:22.760\">fate<\/span>\n        <span begin=\"01:22.777\" end=\"01:23.210\">of<\/span>\n        <span begin=\"01:23.351\" end=\"01:24.959\">Ophelia<\/span>\n      <\/p>\n      <p begin=\"01:26.670\" end=\"01:30.324\" ttm:agent=\"v1\">\n        <span begin=\"01:26.679\" end=\"01:26.935\">The<\/span>\n        <span begin=\"01:26.935\" end=\"01:27.468\">eldest<\/span>\n        <span begin=\"01:27.468\" end=\"01:28.506\">daughter<\/span>\n        <span begin=\"01:28.818\" end=\"01:29.090\">of<\/span>\n        <span begin=\"01:29.090\" end=\"01:29.303\">a<\/span>\n        <span begin=\"01:29.303\" end=\"01:30.324\">nobleman<\/span>\n      <\/p>\n      <p begin=\"01:30.550\" end=\"01:35.588\" ttm:agent=\"v1\">\n        <span begin=\"01:30.557\" end=\"01:31.336\">Ophelia<\/span>\n        <span begin=\"01:31.336\" end=\"01:31.783\">lived<\/span>\n        <span begin=\"01:31.783\" end=\"01:32.234\">in<\/span>\n        <span begin=\"01:32.234\" end=\"01:35.588\">fantasy<\/span>\n      <\/p>\n      <p begin=\"01:35.640\" end=\"01:40.074\" ttm:agent=\"v1\">\n        <span begin=\"01:35.640\" end=\"01:35.851\">But<\/span>\n        <span begin=\"01:35.851\" end=\"01:36.392\">love<\/span>\n        <span begin=\"01:36.392\" end=\"01:36.676\">was<\/span>\n        <span begin=\"01:36.676\" end=\"01:36.960\">a<\/span>\n        <span begin=\"01:36.960\" end=\"01:37.525\">cold<\/span>\n        <span begin=\"01:37.525\" end=\"01:38.271\">bed<\/span>\n        <span begin=\"01:38.425\" end=\"01:38.696\">full<\/span>\n        <span begin=\"01:38.696\" end=\"01:38.939\">of<\/span>\n        <span begin=\"01:38.939\" end=\"01:40.074\">scorpions<\/span>\n      <\/p>\n      <p begin=\"01:40.170\" end=\"01:44.041\" ttm:agent=\"v1\">\n        <span begin=\"01:40.174\" end=\"01:40.362\">The<\/span>\n        <span begin=\"01:40.362\" end=\"01:40.895\">venom<\/span>\n        <span begin=\"01:40.895\" end=\"01:41.461\">stole<\/span>\n        <span begin=\"01:41.461\" end=\"01:41.878\">her<\/span>\n        <span begin=\"01:41.878\" end=\"01:44.041\">sanity<\/span>\n      <\/p>\n      <p begin=\"01:44.200\" end=\"01:47.524\" ttm:agent=\"v1\">\n        <span begin=\"01:44.207\" end=\"01:44.414\">And<\/span>\n        <span begin=\"01:44.414\" end=\"01:44.594\">if<\/span>\n        <span begin=\"01:44.594\" end=\"01:44.794\">you&apos;d<\/span>\n        <span begin=\"01:44.794\" end=\"01:45.545\">never<\/span>\n        <span begin=\"01:45.545\" end=\"01:46.378\">come<\/span>\n        <span begin=\"01:46.378\" end=\"01:46.612\">for<\/span>\n        <span begin=\"01:46.612\" end=\"01:47.524\">me<\/span>\n      <\/p>\n      <p begin=\"01:44.200\" end=\"01:49.289\" role=\"x-bg\">\n        <span begin=\"01:45.655\" end=\"01:47.591\">(Come<\/span>\n        <span begin=\"01:47.591\" end=\"01:47.860\">for<\/span>\n        <span begin=\"01:47.860\" end=\"01:49.289\">me)<\/span>\n      <\/p>\n      <p begin=\"01:47.920\" end=\"01:51.775\" ttm:agent=\"v1\">\n        <span begin=\"01:47.924\" end=\"01:48.252\">I<\/span>\n        <span begin=\"01:48.252\" end=\"01:48.668\">might&apos;ve<\/span>\n        <span begin=\"01:48.668\" end=\"01:49.185\">lingered<\/span>\n        <span begin=\"01:49.185\" end=\"01:49.519\">in<\/span>\n        <span begin=\"01:49.519\" end=\"01:51.775\">purgatory<\/span>\n      <\/p>\n      <p begin=\"01:51.820\" end=\"01:56.130\" ttm:agent=\"v1\">\n        <span begin=\"01:51.821\" end=\"01:52.036\">You<\/span>\n        <span begin=\"01:52.036\" end=\"01:52.370\">wrap<\/span>\n        <span begin=\"01:52.370\" end=\"01:52.719\">around<\/span>\n        <span begin=\"01:52.719\" end=\"01:52.970\">me<\/span>\n        <span begin=\"01:52.970\" end=\"01:53.186\">like<\/span>\n        <span begin=\"01:53.186\" end=\"01:53.418\">a<\/span>\n        <span begin=\"01:53.418\" end=\"01:54.104\">chain,<\/span>\n        <span begin=\"01:54.330\" end=\"01:54.562\">a<\/span>\n        <span begin=\"01:54.562\" end=\"01:55.024\">crown,<\/span>\n        <span begin=\"01:55.212\" end=\"01:55.431\">a<\/span>\n        <span begin=\"01:55.431\" end=\"01:56.130\">vine<\/span>\n      <\/p>\n      <p begin=\"01:51.820\" end=\"01:56.649\" role=\"x-bg\">\n        <span begin=\"01:53.870\" end=\"01:54.604\">(Chain,<\/span>\n        <span begin=\"01:54.902\" end=\"01:55.619\">crown,<\/span>\n        <span begin=\"01:55.945\" end=\"01:56.649\">vine)<\/span>\n      <\/p>\n      <p begin=\"01:56.300\" end=\"02:02.001\" ttm:agent=\"v1\">\n        <span begin=\"01:56.304\" end=\"01:56.908\">Pulling<\/span>\n        <span begin=\"01:56.908\" end=\"01:57.208\">me<\/span>\n        <span begin=\"01:57.208\" end=\"01:58.208\">into<\/span>\n        <span begin=\"01:58.208\" end=\"01:58.843\">the<\/span>\n        <span begin=\"01:58.843\" end=\"02:02.001\">fire<\/span>\n      <\/p>\n      <p begin=\"02:02.220\" end=\"02:05.316\" ttm:agent=\"v1\">\n        <span begin=\"02:02.226\" end=\"02:02.725\">All<\/span>\n        <span begin=\"02:02.725\" end=\"02:03.191\">that<\/span>\n        <span begin=\"02:03.191\" end=\"02:03.426\">time,<\/span>\n        <span begin=\"02:03.426\" end=\"02:03.642\">I<\/span>\n        <span begin=\"02:03.642\" end=\"02:03.975\">sat<\/span>\n        <span begin=\"02:03.975\" end=\"02:04.493\">alone<\/span>\n        <span begin=\"02:04.493\" end=\"02:04.703\">in<\/span>\n        <span begin=\"02:04.703\" end=\"02:04.923\">my<\/span>\n        <span begin=\"02:04.923\" end=\"02:05.316\">tower<\/span>\n      <\/p>\n      <p begin=\"02:05.400\" end=\"02:07.362\" ttm:agent=\"v1\">\n        <span begin=\"02:05.401\" end=\"02:05.679\">You<\/span>\n        <span begin=\"02:05.679\" end=\"02:05.871\">were<\/span>\n        <span begin=\"02:05.871\" end=\"02:06.137\">just<\/span>\n        <span begin=\"02:06.137\" end=\"02:06.705\">honing<\/span>\n        <span begin=\"02:06.705\" end=\"02:06.921\">your<\/span>\n        <span begin=\"02:06.921\" end=\"02:07.362\">powers<\/span>\n      <\/p>\n      <p begin=\"02:07.360\" end=\"02:10.533\" ttm:agent=\"v1\">\n        <span begin=\"02:07.362\" end=\"02:07.586\">Now<\/span>\n        <span begin=\"02:07.586\" end=\"02:07.794\">I<\/span>\n        <span begin=\"02:07.794\" end=\"02:08.000\">can<\/span>\n        <span begin=\"02:08.000\" end=\"02:08.514\">see<\/span>\n        <span begin=\"02:08.514\" end=\"02:08.781\">it<\/span>\n        <span begin=\"02:08.781\" end=\"02:10.533\">all<\/span>\n      <\/p>\n      <p begin=\"02:07.360\" end=\"02:11.723\" role=\"x-bg\">\n        <span begin=\"02:09.806\" end=\"02:10.465\">(See<\/span>\n        <span begin=\"02:10.465\" end=\"02:10.731\">it<\/span>\n        <span begin=\"02:10.731\" end=\"02:11.723\">all)<\/span>\n      <\/p>\n      <p begin=\"02:11.930\" end=\"02:15.222\" ttm:agent=\"v1\">\n        <span begin=\"02:11.938\" end=\"02:12.423\">Late<\/span>\n        <span begin=\"02:12.423\" end=\"02:12.898\">one<\/span>\n        <span begin=\"02:12.898\" end=\"02:13.114\">night,<\/span>\n        <span begin=\"02:13.114\" end=\"02:13.365\">you<\/span>\n        <span begin=\"02:13.365\" end=\"02:13.597\">dug<\/span>\n        <span begin=\"02:13.597\" end=\"02:13.879\">me<\/span>\n        <span begin=\"02:13.879\" end=\"02:14.130\">out<\/span>\n        <span begin=\"02:14.130\" end=\"02:14.346\">of<\/span>\n        <span begin=\"02:14.346\" end=\"02:14.565\">my<\/span>\n        <span begin=\"02:14.565\" end=\"02:14.781\">grave<\/span>\n        <span begin=\"02:14.781\" end=\"02:15.222\">and<\/span>\n      <\/p>\n      <p begin=\"02:15.220\" end=\"02:17.179\" ttm:agent=\"v1\">\n        <span begin=\"02:15.222\" end=\"02:15.555\">Saved<\/span>\n        <span begin=\"02:15.555\" end=\"02:15.806\">my<\/span>\n        <span begin=\"02:15.806\" end=\"02:16.073\">heart<\/span>\n        <span begin=\"02:16.073\" end=\"02:16.307\">from<\/span>\n        <span begin=\"02:16.307\" end=\"02:16.555\">the<\/span>\n        <span begin=\"02:16.555\" end=\"02:16.739\">fate<\/span>\n        <span begin=\"02:16.739\" end=\"02:17.179\">of<\/span>\n      <\/p>\n      <p begin=\"02:17.270\" end=\"02:20.905\" ttm:agent=\"v1\">\n        <span begin=\"02:17.276\" end=\"02:20.905\">Ophelia<\/span>\n      <\/p>\n      <p begin=\"02:17.270\" end=\"02:21.465\" role=\"x-bg\">\n        <span begin=\"02:19.131\" end=\"02:21.465\">(Ophelia)<\/span>\n      <\/p>\n      <p begin=\"02:20.860\" end=\"02:22.064\" ttm:agent=\"v1\">\n        <span begin=\"02:20.864\" end=\"02:21.168\">Keep<\/span>\n        <span begin=\"02:21.168\" end=\"02:21.397\">it<\/span>\n        <span begin=\"02:21.397\" end=\"02:21.605\">one<\/span>\n        <span begin=\"02:21.605\" end=\"02:22.064\">hundred<\/span>\n      <\/p>\n      <p begin=\"02:22.060\" end=\"02:25.015\" ttm:agent=\"v1\">\n        <span begin=\"02:22.064\" end=\"02:22.264\">On<\/span>\n        <span begin=\"02:22.264\" end=\"02:22.493\">the<\/span>\n        <span begin=\"02:22.493\" end=\"02:23.162\">land,<\/span>\n        <span begin=\"02:23.259\" end=\"02:23.509\">the<\/span>\n        <span begin=\"02:23.509\" end=\"02:24.047\">sea,<\/span>\n        <span begin=\"02:24.259\" end=\"02:24.475\">the<\/span>\n        <span begin=\"02:24.475\" end=\"02:25.015\">sky<\/span>\n      <\/p>\n      <p begin=\"02:22.060\" end=\"02:25.020\" role=\"x-bg\">\n        <span begin=\"02:22.937\" end=\"02:23.637\">(Land,<\/span>\n        <span begin=\"02:24.005\" end=\"02:25.020\">sea)<\/span>\n      <\/p>\n      <p begin=\"02:24.970\" end=\"02:27.053\" ttm:agent=\"v1\">\n        <span begin=\"02:24.971\" end=\"02:25.295\">Pledge<\/span>\n        <span begin=\"02:25.295\" end=\"02:25.935\">allegiance<\/span>\n        <span begin=\"02:25.935\" end=\"02:26.167\">to<\/span>\n        <span begin=\"02:26.167\" end=\"02:26.401\">your<\/span>\n        <span begin=\"02:26.401\" end=\"02:27.053\">hands<\/span>\n      <\/p>\n      <p begin=\"02:27.150\" end=\"02:28.933\" ttm:agent=\"v1\">\n        <span begin=\"02:27.152\" end=\"02:27.416\">Your<\/span>\n        <span begin=\"02:27.416\" end=\"02:27.960\">team,<\/span>\n        <span begin=\"02:28.165\" end=\"02:28.380\">your<\/span>\n        <span begin=\"02:28.380\" end=\"02:28.933\">vibes<\/span>\n      <\/p>\n      <p begin=\"02:28.930\" end=\"02:30.869\" ttm:agent=\"v1\">\n        <span begin=\"02:28.933\" end=\"02:29.196\">Don&apos;t<\/span>\n        <span begin=\"02:29.196\" end=\"02:29.388\">care<\/span>\n        <span begin=\"02:29.388\" end=\"02:29.601\">where<\/span>\n        <span begin=\"02:29.601\" end=\"02:29.852\">the<\/span>\n        <span begin=\"02:29.852\" end=\"02:30.102\">hell<\/span>\n        <span begin=\"02:30.102\" end=\"02:30.353\">you<\/span>\n        <span begin=\"02:30.353\" end=\"02:30.869\">been<\/span>\n      <\/p>\n      <p begin=\"02:28.930\" end=\"02:31.369\" role=\"x-bg\">\n        <span begin=\"02:30.704\" end=\"02:31.369\">(Been)<\/span>\n      <\/p>\n      <p begin=\"02:31.070\" end=\"02:32.567\" ttm:agent=\"v1\">\n        <span begin=\"02:31.071\" end=\"02:31.282\">&apos;Cause<\/span>\n        <span begin=\"02:31.282\" end=\"02:31.829\">now,<\/span>\n        <span begin=\"02:31.964\" end=\"02:32.216\">you&apos;re<\/span>\n        <span begin=\"02:32.216\" end=\"02:32.567\">mine<\/span>\n      <\/p>\n      <p begin=\"02:31.070\" end=\"02:32.464\" role=\"x-bg\">\n        <span begin=\"02:31.693\" end=\"02:32.464\">(Now)<\/span>\n      <\/p>\n      <p begin=\"02:32.560\" end=\"02:34.607\" ttm:agent=\"v1\">\n        <span begin=\"02:32.567\" end=\"02:32.823\">It&apos;s<\/span>\n        <span begin=\"02:32.823\" end=\"02:32.978\">&apos;bout<\/span>\n        <span begin=\"02:32.978\" end=\"02:33.194\">to<\/span>\n        <span begin=\"02:33.194\" end=\"02:33.394\">be<\/span>\n        <span begin=\"02:33.394\" end=\"02:33.594\">the<\/span>\n        <span begin=\"02:33.594\" end=\"02:34.194\">sleepless<\/span>\n        <span begin=\"02:34.194\" end=\"02:34.607\">night<\/span>\n      <\/p>\n      <p begin=\"02:34.600\" end=\"02:37.631\" ttm:agent=\"v1\">\n        <span begin=\"02:34.607\" end=\"02:34.863\">You&apos;ve<\/span>\n        <span begin=\"02:34.863\" end=\"02:35.146\">been<\/span>\n        <span begin=\"02:35.146\" end=\"02:35.962\">dreaming<\/span>\n        <span begin=\"02:35.962\" end=\"02:37.631\">of<\/span>\n      <\/p>\n      <p begin=\"02:37.630\" end=\"02:40.437\" ttm:agent=\"v1\">\n        <span begin=\"02:37.631\" end=\"02:37.850\">The<\/span>\n        <span begin=\"02:37.850\" end=\"02:38.243\">fate<\/span>\n        <span begin=\"02:38.399\" end=\"02:38.771\">of<\/span>\n        <span begin=\"02:38.844\" end=\"02:40.437\">Ophelia<\/span>\n      <\/p>\n      <p begin=\"02:39.670\" end=\"02:41.654\" ttm:agent=\"v1\">\n        <span begin=\"02:39.677\" end=\"02:40.050\">&apos;Tis<\/span>\n        <span begin=\"02:40.050\" end=\"02:40.333\">locked<\/span>\n        <span begin=\"02:40.333\" end=\"02:40.834\">inside<\/span>\n        <span begin=\"02:40.834\" end=\"02:41.066\">my<\/span>\n        <span begin=\"02:41.066\" end=\"02:41.654\">memory<\/span>\n      <\/p>\n      <p begin=\"02:41.650\" end=\"02:43.538\" ttm:agent=\"v1\">\n        <span begin=\"02:41.654\" end=\"02:41.891\">And<\/span>\n        <span begin=\"02:41.891\" end=\"02:42.425\">only<\/span>\n        <span begin=\"02:42.425\" end=\"02:42.656\">you<\/span>\n        <span begin=\"02:42.656\" end=\"02:43.075\">possess<\/span>\n        <span begin=\"02:43.075\" end=\"02:43.257\">the<\/span>\n        <span begin=\"02:43.257\" end=\"02:43.538\">key<\/span>\n      <\/p>\n      <p begin=\"02:43.550\" end=\"02:45.680\" ttm:agent=\"v1\">\n        <span begin=\"02:43.555\" end=\"02:43.877\">No<\/span>\n        <span begin=\"02:43.877\" end=\"02:44.365\">longer<\/span>\n        <span begin=\"02:44.365\" end=\"02:44.879\">drowning<\/span>\n        <span begin=\"02:44.879\" end=\"02:45.130\">and<\/span>\n        <span begin=\"02:45.130\" end=\"02:45.680\">deceived<\/span>\n      <\/p>\n      <p begin=\"02:45.740\" end=\"02:47.522\" ttm:agent=\"v1\">\n        <span begin=\"02:45.748\" end=\"02:46.140\">All<\/span>\n        <span begin=\"02:46.140\" end=\"02:46.495\">because<\/span>\n        <span begin=\"02:46.495\" end=\"02:46.727\">you<\/span>\n        <span begin=\"02:46.727\" end=\"02:46.977\">came<\/span>\n        <span begin=\"02:46.977\" end=\"02:47.180\">for<\/span>\n        <span begin=\"02:47.180\" end=\"02:47.522\">me<\/span>\n      <\/p>\n      <p begin=\"02:47.700\" end=\"02:49.421\" ttm:agent=\"v1\">\n        <span begin=\"02:47.704\" end=\"02:48.077\">Locked<\/span>\n        <span begin=\"02:48.077\" end=\"02:48.512\">inside<\/span>\n        <span begin=\"02:48.512\" end=\"02:48.779\">my<\/span>\n        <span begin=\"02:48.779\" end=\"02:49.421\">memory<\/span>\n      <\/p>\n      <p begin=\"02:49.480\" end=\"02:51.369\" ttm:agent=\"v1\">\n        <span begin=\"02:49.489\" end=\"02:49.677\">And<\/span>\n        <span begin=\"02:49.677\" end=\"02:50.133\">only<\/span>\n        <span begin=\"02:50.133\" end=\"02:50.352\">you<\/span>\n        <span begin=\"02:50.352\" end=\"02:50.784\">possess<\/span>\n        <span begin=\"02:50.784\" end=\"02:50.968\">the<\/span>\n        <span begin=\"02:50.968\" end=\"02:51.369\">key<\/span>\n      <\/p>\n      <p begin=\"02:51.360\" end=\"02:53.323\" ttm:agent=\"v1\">\n        <span begin=\"02:51.369\" end=\"02:51.577\">No<\/span>\n        <span begin=\"02:51.577\" end=\"02:52.086\">longer<\/span>\n        <span begin=\"02:52.086\" end=\"02:52.603\">drowning<\/span>\n        <span begin=\"02:52.603\" end=\"02:52.822\">and<\/span>\n        <span begin=\"02:52.822\" end=\"02:53.323\">deceived<\/span>\n      <\/p>\n      <p begin=\"02:53.470\" end=\"02:58.156\" ttm:agent=\"v1\">\n        <span begin=\"02:53.472\" end=\"02:53.866\">All<\/span>\n        <span begin=\"02:53.866\" end=\"02:54.357\">because<\/span>\n        <span begin=\"02:54.357\" end=\"02:54.573\">you<\/span>\n        <span begin=\"02:54.573\" end=\"02:54.957\">came<\/span>\n        <span begin=\"02:54.957\" end=\"02:55.357\">for<\/span>\n        <span begin=\"02:55.357\" end=\"02:58.156\">me<\/span>\n      <\/p>\n      <p begin=\"02:58.370\" end=\"03:01.504\" ttm:agent=\"v1\">\n        <span begin=\"02:58.370\" end=\"02:58.861\">All<\/span>\n        <span begin=\"02:58.861\" end=\"02:59.311\">that<\/span>\n        <span begin=\"02:59.311\" end=\"02:59.578\">time,<\/span>\n        <span begin=\"02:59.578\" end=\"02:59.793\">I<\/span>\n        <span begin=\"02:59.793\" end=\"03:00.127\">sat<\/span>\n        <span begin=\"03:00.127\" end=\"03:00.594\">alone<\/span>\n        <span begin=\"03:00.594\" end=\"03:00.810\">in<\/span>\n        <span begin=\"03:00.810\" end=\"03:01.061\">my<\/span>\n        <span begin=\"03:01.061\" end=\"03:01.504\">tower<\/span>\n      <\/p>\n      <p begin=\"03:01.600\" end=\"03:03.476\" ttm:agent=\"v1\">\n        <span begin=\"03:01.605\" end=\"03:01.861\">You<\/span>\n        <span begin=\"03:01.861\" end=\"03:02.013\">were<\/span>\n        <span begin=\"03:02.013\" end=\"03:02.264\">just<\/span>\n        <span begin=\"03:02.264\" end=\"03:02.816\">honing<\/span>\n        <span begin=\"03:02.816\" end=\"03:02.970\">your<\/span>\n        <span begin=\"03:02.970\" end=\"03:03.476\">powers<\/span>\n      <\/p>\n      <p begin=\"03:03.470\" end=\"03:06.738\" ttm:agent=\"v1\">\n        <span begin=\"03:03.476\" end=\"03:03.695\">Now<\/span>\n        <span begin=\"03:03.695\" end=\"03:03.929\">I<\/span>\n        <span begin=\"03:03.929\" end=\"03:04.196\">can<\/span>\n        <span begin=\"03:04.196\" end=\"03:04.729\">see<\/span>\n        <span begin=\"03:04.729\" end=\"03:04.996\">it<\/span>\n        <span begin=\"03:04.996\" end=\"03:06.738\">all<\/span>\n      <\/p>\n      <p begin=\"03:03.470\" end=\"03:07.797\" role=\"x-bg\">\n        <span begin=\"03:05.565\" end=\"03:05.779\">(I<\/span>\n        <span begin=\"03:05.779\" end=\"03:05.976\">can<\/span>\n        <span begin=\"03:05.976\" end=\"03:06.621\">see<\/span>\n        <span begin=\"03:06.621\" end=\"03:06.872\">it<\/span>\n        <span begin=\"03:06.872\" end=\"03:07.797\">all)<\/span>\n      <\/p>\n      <p begin=\"03:07.940\" end=\"03:11.361\" ttm:agent=\"v1\">\n        <span begin=\"03:07.949\" end=\"03:08.536\">Late<\/span>\n        <span begin=\"03:08.536\" end=\"03:09.034\">one<\/span>\n        <span begin=\"03:09.034\" end=\"03:09.269\">night,<\/span>\n        <span begin=\"03:09.269\" end=\"03:09.501\">you<\/span>\n        <span begin=\"03:09.501\" end=\"03:09.736\">dug<\/span>\n        <span begin=\"03:09.736\" end=\"03:09.968\">me<\/span>\n        <span begin=\"03:09.968\" end=\"03:10.234\">out<\/span>\n        <span begin=\"03:10.234\" end=\"03:10.485\">of<\/span>\n        <span begin=\"03:10.485\" end=\"03:10.717\">my<\/span>\n        <span begin=\"03:10.717\" end=\"03:10.952\">grave<\/span>\n        <span begin=\"03:10.952\" end=\"03:11.361\">and<\/span>\n      <\/p>\n      <p begin=\"03:11.360\" end=\"03:13.250\" ttm:agent=\"v1\">\n        <span begin=\"03:11.361\" end=\"03:11.644\">Saved<\/span>\n        <span begin=\"03:11.644\" end=\"03:11.892\">my<\/span>\n        <span begin=\"03:11.892\" end=\"03:12.193\">heart<\/span>\n        <span begin=\"03:12.193\" end=\"03:12.488\">from<\/span>\n        <span begin=\"03:12.488\" end=\"03:12.690\">the<\/span>\n        <span begin=\"03:12.690\" end=\"03:12.914\">fate<\/span>\n        <span begin=\"03:12.914\" end=\"03:13.250\">of<\/span>\n      <\/p>\n      <p begin=\"03:13.350\" end=\"03:16.925\" ttm:agent=\"v1\">\n        <span begin=\"03:13.350\" end=\"03:16.925\">Ophelia<\/span>\n      <\/p>\n      <p begin=\"03:16.920\" end=\"03:18.130\" ttm:agent=\"v1\">\n        <span begin=\"03:16.925\" end=\"03:17.154\">Keep<\/span>\n        <span begin=\"03:17.154\" end=\"03:17.329\">it<\/span>\n        <span begin=\"03:17.329\" end=\"03:17.696\">one<\/span>\n        <span begin=\"03:17.696\" end=\"03:18.130\">hundred<\/span>\n      <\/p>\n      <p begin=\"03:18.190\" end=\"03:21.282\" ttm:agent=\"v1\">\n        <span begin=\"03:18.195\" end=\"03:18.439\">On<\/span>\n        <span begin=\"03:18.439\" end=\"03:18.682\">the<\/span>\n        <span begin=\"03:18.682\" end=\"03:19.338\">land,<\/span>\n        <span begin=\"03:19.444\" end=\"03:19.718\">the<\/span>\n        <span begin=\"03:19.718\" end=\"03:20.250\">sea,<\/span>\n        <span begin=\"03:20.420\" end=\"03:20.638\">the<\/span>\n        <span begin=\"03:20.638\" end=\"03:21.282\">sky<\/span>\n      <\/p>\n      <p begin=\"03:18.190\" end=\"03:20.794\" role=\"x-bg\">\n        <span begin=\"03:19.038\" end=\"03:19.621\">(Land,<\/span>\n        <span begin=\"03:19.951\" end=\"03:20.167\">the<\/span>\n        <span begin=\"03:20.167\" end=\"03:20.794\">sea)<\/span>\n      <\/p>\n      <p begin=\"03:21.060\" end=\"03:23.344\" ttm:agent=\"v1\">\n        <span begin=\"03:21.060\" end=\"03:21.359\">Pledge<\/span>\n        <span begin=\"03:21.359\" end=\"03:21.999\">allegiance<\/span>\n        <span begin=\"03:21.999\" end=\"03:22.249\">to<\/span>\n        <span begin=\"03:22.249\" end=\"03:22.516\">your<\/span>\n        <span begin=\"03:22.516\" end=\"03:23.344\">hands<\/span>\n      <\/p>\n      <p begin=\"03:21.060\" end=\"03:23.759\" role=\"x-bg\">\n        <span begin=\"03:22.740\" end=\"03:23.047\">(Your<\/span>\n        <span begin=\"03:23.047\" end=\"03:23.759\">hands)<\/span>\n      <\/p>\n      <p begin=\"03:23.340\" end=\"03:24.989\" ttm:agent=\"v1\">\n        <span begin=\"03:23.344\" end=\"03:23.584\">Your<\/span>\n        <span begin=\"03:23.584\" end=\"03:24.069\">team,<\/span>\n        <span begin=\"03:24.256\" end=\"03:24.512\">your<\/span>\n        <span begin=\"03:24.512\" end=\"03:24.989\">vibes<\/span>\n      <\/p>\n      <p begin=\"03:24.980\" end=\"03:26.895\" ttm:agent=\"v1\">\n        <span begin=\"03:24.989\" end=\"03:25.285\">Don&apos;t<\/span>\n        <span begin=\"03:25.285\" end=\"03:25.504\">care<\/span>\n        <span begin=\"03:25.504\" end=\"03:25.770\">where<\/span>\n        <span begin=\"03:25.770\" end=\"03:26.021\">the<\/span>\n        <span begin=\"03:26.021\" end=\"03:26.288\">hell<\/span>\n        <span begin=\"03:26.288\" end=\"03:26.520\">you<\/span>\n        <span begin=\"03:26.520\" end=\"03:26.895\">been<\/span>\n      <\/p>\n      <p begin=\"03:24.980\" end=\"03:27.716\" role=\"x-bg\">\n        <span begin=\"03:26.785\" end=\"03:27.716\">(Been)<\/span>\n      <\/p>\n      <p begin=\"03:27.150\" end=\"03:28.671\" ttm:agent=\"v1\">\n        <span begin=\"03:27.154\" end=\"03:27.472\">&apos;Cause<\/span>\n        <span begin=\"03:27.472\" end=\"03:27.970\">now,<\/span>\n        <span begin=\"03:28.171\" end=\"03:28.430\">you&apos;re<\/span>\n        <span begin=\"03:28.430\" end=\"03:28.671\">mine<\/span>\n      <\/p>\n      <p begin=\"03:27.150\" end=\"03:28.666\" role=\"x-bg\">\n        <span begin=\"03:27.759\" end=\"03:27.973\">(&apos;Cause<\/span>\n        <span begin=\"03:27.973\" end=\"03:28.666\">now)<\/span>\n      <\/p>\n      <p begin=\"03:28.670\" end=\"03:30.706\" ttm:agent=\"v1\">\n        <span begin=\"03:28.671\" end=\"03:28.919\">It&apos;s<\/span>\n        <span begin=\"03:28.919\" end=\"03:29.066\">&apos;bout<\/span>\n        <span begin=\"03:29.066\" end=\"03:29.314\">to<\/span>\n        <span begin=\"03:29.314\" end=\"03:29.514\">be<\/span>\n        <span begin=\"03:29.514\" end=\"03:29.682\">the<\/span>\n        <span begin=\"03:29.682\" end=\"03:30.247\">sleepless<\/span>\n        <span begin=\"03:30.247\" end=\"03:30.706\">night<\/span>\n      <\/p>\n      <p begin=\"03:30.800\" end=\"03:33.860\" ttm:agent=\"v1\">\n        <span begin=\"03:30.807\" end=\"03:31.003\">You&apos;ve<\/span>\n        <span begin=\"03:31.003\" end=\"03:31.304\">been<\/span>\n        <span begin=\"03:31.304\" end=\"03:32.022\">dreaming<\/span>\n        <span begin=\"03:32.022\" end=\"03:33.860\">of<\/span>\n      <\/p>\n      <p begin=\"03:33.860\" end=\"03:36.579\" ttm:agent=\"v1\">\n        <span begin=\"03:33.860\" end=\"03:34.083\">The<\/span>\n        <span begin=\"03:34.083\" end=\"03:34.439\">fate<\/span>\n        <span begin=\"03:34.491\" end=\"03:34.879\">of<\/span>\n        <span begin=\"03:34.987\" end=\"03:36.579\">Ophelia<\/span>\n      <\/p>\n      <p begin=\"03:37.340\" end=\"03:39.944\" ttm:agent=\"v1\">\n        <span begin=\"03:37.340\" end=\"03:37.583\">You<\/span>\n        <span begin=\"03:37.583\" end=\"03:37.857\">saved<\/span>\n        <span begin=\"03:37.857\" end=\"03:38.057\">my<\/span>\n        <span begin=\"03:38.057\" end=\"03:38.441\">heart<\/span>\n        <span begin=\"03:38.441\" end=\"03:38.641\">from<\/span>\n        <span begin=\"03:38.641\" end=\"03:38.825\">the<\/span>\n        <span begin=\"03:38.825\" end=\"03:39.308\">fate<\/span>\n        <span begin=\"03:39.308\" end=\"03:39.944\">of<\/span>\n      <\/p>\n      <p begin=\"03:40.420\" end=\"03:43.346\" ttm:agent=\"v1\">\n        <span begin=\"03:40.428\" end=\"03:43.346\">Ophelia<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 11190,
+      "endTime": 14899,
+      "text": "I heard you calling on the megaphone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 11190,
+          "endTime": 11397,
+          "word": "I"
+        },
+        {
+          "startTime": 11397,
+          "endTime": 11701,
+          "word": "heard"
+        },
+        {
+          "startTime": 11701,
+          "endTime": 11951,
+          "word": "you"
+        },
+        {
+          "startTime": 11951,
+          "endTime": 13199,
+          "word": "calling"
+        },
+        {
+          "startTime": 13466,
+          "endTime": 13663,
+          "word": "on"
+        },
+        {
+          "startTime": 13663,
+          "endTime": 13919,
+          "word": "the"
+        },
+        {
+          "startTime": 13919,
+          "endTime": 14899,
+          "word": "megaphone"
+        }
+      ]
+    },
+    {
+      "time": 15030,
+      "endTime": 19648,
+      "text": "You wanna see me all alone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15034,
+          "endTime": 15277,
+          "word": "You"
+        },
+        {
+          "startTime": 15277,
+          "endTime": 15735,
+          "word": "wanna"
+        },
+        {
+          "startTime": 15735,
+          "endTime": 16251,
+          "word": "see"
+        },
+        {
+          "startTime": 16251,
+          "endTime": 16753,
+          "word": "me"
+        },
+        {
+          "startTime": 16753,
+          "endTime": 17500,
+          "word": "all"
+        },
+        {
+          "startTime": 17500,
+          "endTime": 19648,
+          "word": "alone"
+        }
+      ]
+    },
+    {
+      "time": 20880,
+      "endTime": 22582,
+      "text": "As legend has it, you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 20882,
+          "endTime": 21242,
+          "word": "As"
+        },
+        {
+          "startTime": 21242,
+          "endTime": 21637,
+          "word": "legend"
+        },
+        {
+          "startTime": 21637,
+          "endTime": 21869,
+          "word": "has"
+        },
+        {
+          "startTime": 21869,
+          "endTime": 22085,
+          "word": "it,"
+        },
+        {
+          "startTime": 22085,
+          "endTime": 22582,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 22850,
+      "endTime": 24580,
+      "text": "Are quite the pyro",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 22850,
+          "endTime": 23130,
+          "word": "Are"
+        },
+        {
+          "startTime": 23130,
+          "endTime": 23413,
+          "word": "quite"
+        },
+        {
+          "startTime": 23413,
+          "endTime": 23613,
+          "word": "the"
+        },
+        {
+          "startTime": 23613,
+          "endTime": 24580,
+          "word": "pyro"
+        }
+      ]
+    },
+    {
+      "time": 24780,
+      "endTime": 28565,
+      "text": "You light the match to watch it blow",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24780,
+          "endTime": 24964,
+          "word": "You"
+        },
+        {
+          "startTime": 24964,
+          "endTime": 25137,
+          "word": "light"
+        },
+        {
+          "startTime": 25137,
+          "endTime": 25407,
+          "word": "the"
+        },
+        {
+          "startTime": 25407,
+          "endTime": 25932,
+          "word": "match"
+        },
+        {
+          "startTime": 25932,
+          "endTime": 26399,
+          "word": "to"
+        },
+        {
+          "startTime": 26399,
+          "endTime": 27116,
+          "word": "watch"
+        },
+        {
+          "startTime": 27116,
+          "endTime": 27415,
+          "word": "it"
+        },
+        {
+          "startTime": 27415,
+          "endTime": 28565,
+          "word": "blow"
+        }
+      ]
+    },
+    {
+      "time": 28640,
+      "endTime": 32136,
+      "text": "And if you'd never come for me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28642,
+          "endTime": 28824,
+          "word": "And"
+        },
+        {
+          "startTime": 28824,
+          "endTime": 29104,
+          "word": "if"
+        },
+        {
+          "startTime": 29104,
+          "endTime": 29338,
+          "word": "you'd"
+        },
+        {
+          "startTime": 29338,
+          "endTime": 30138,
+          "word": "never"
+        },
+        {
+          "startTime": 30138,
+          "endTime": 31072,
+          "word": "come"
+        },
+        {
+          "startTime": 31072,
+          "endTime": 31354,
+          "word": "for"
+        },
+        {
+          "startTime": 31354,
+          "endTime": 32136,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 32420,
+      "endTime": 36208,
+      "text": "I might've drowned in the melancholy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32424,
+          "endTime": 32677,
+          "word": "I"
+        },
+        {
+          "startTime": 32677,
+          "endTime": 33145,
+          "word": "might've"
+        },
+        {
+          "startTime": 33145,
+          "endTime": 33396,
+          "word": "drowned"
+        },
+        {
+          "startTime": 33396,
+          "endTime": 33644,
+          "word": "in"
+        },
+        {
+          "startTime": 33644,
+          "endTime": 33977,
+          "word": "the"
+        },
+        {
+          "startTime": 33977,
+          "endTime": 36208,
+          "word": "melancholy"
+        }
+      ]
+    },
+    {
+      "time": 36370,
+      "endTime": 40866,
+      "text": "I swore my loyalty to me, myself, and I",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36376,
+          "endTime": 36573,
+          "word": "I"
+        },
+        {
+          "startTime": 36573,
+          "endTime": 36811,
+          "word": "swore"
+        },
+        {
+          "startTime": 36811,
+          "endTime": 37091,
+          "word": "my"
+        },
+        {
+          "startTime": 37091,
+          "endTime": 37821,
+          "word": "loyalty"
+        },
+        {
+          "startTime": 37821,
+          "endTime": 38056,
+          "word": "to"
+        },
+        {
+          "startTime": 38056,
+          "endTime": 38675,
+          "word": "me,"
+        },
+        {
+          "startTime": 38832,
+          "endTime": 39560,
+          "word": "myself,"
+        },
+        {
+          "startTime": 39776,
+          "endTime": 40045,
+          "word": "and"
+        },
+        {
+          "startTime": 40045,
+          "endTime": 40866,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 36370,
+      "endTime": 41259,
+      "text": "(Me, myself, I)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 38477,
+          "endTime": 39110,
+          "word": "(Me,"
+        },
+        {
+          "startTime": 39313,
+          "endTime": 39995,
+          "word": "myself,"
+        },
+        {
+          "startTime": 40420,
+          "endTime": 41259,
+          "word": "I)"
+        }
+      ]
+    },
+    {
+      "time": 40860,
+      "endTime": 46312,
+      "text": "Right before you lit my sky up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40863,
+          "endTime": 41226,
+          "word": "Right"
+        },
+        {
+          "startTime": 41226,
+          "endTime": 41642,
+          "word": "before"
+        },
+        {
+          "startTime": 41642,
+          "endTime": 41966,
+          "word": "you"
+        },
+        {
+          "startTime": 41966,
+          "endTime": 42525,
+          "word": "lit"
+        },
+        {
+          "startTime": 42591,
+          "endTime": 43124,
+          "word": "my"
+        },
+        {
+          "startTime": 43124,
+          "endTime": 44122,
+          "word": "sky"
+        },
+        {
+          "startTime": 44122,
+          "endTime": 46312,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 46870,
+      "endTime": 49930,
+      "text": "All that time, I sat alone in my tower",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46879,
+          "endTime": 47343,
+          "word": "All"
+        },
+        {
+          "startTime": 47343,
+          "endTime": 47740,
+          "word": "that"
+        },
+        {
+          "startTime": 47740,
+          "endTime": 47975,
+          "word": "time,"
+        },
+        {
+          "startTime": 47975,
+          "endTime": 48178,
+          "word": "I"
+        },
+        {
+          "startTime": 48178,
+          "endTime": 48428,
+          "word": "sat"
+        },
+        {
+          "startTime": 48428,
+          "endTime": 48940,
+          "word": "alone"
+        },
+        {
+          "startTime": 48940,
+          "endTime": 49143,
+          "word": "in"
+        },
+        {
+          "startTime": 49143,
+          "endTime": 49367,
+          "word": "my"
+        },
+        {
+          "startTime": 49367,
+          "endTime": 49930,
+          "word": "tower"
+        }
+      ]
+    },
+    {
+      "time": 49930,
+      "endTime": 51858,
+      "text": "You were just honing your powers",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49930,
+          "endTime": 50178,
+          "word": "You"
+        },
+        {
+          "startTime": 50178,
+          "endTime": 50354,
+          "word": "were"
+        },
+        {
+          "startTime": 50354,
+          "endTime": 50658,
+          "word": "just"
+        },
+        {
+          "startTime": 50658,
+          "endTime": 51199,
+          "word": "honing"
+        },
+        {
+          "startTime": 51199,
+          "endTime": 51370,
+          "word": "your"
+        },
+        {
+          "startTime": 51370,
+          "endTime": 51858,
+          "word": "powers"
+        }
+      ]
+    },
+    {
+      "time": 51850,
+      "endTime": 55079,
+      "text": "Now I can see it all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51858,
+          "endTime": 52141,
+          "word": "Now"
+        },
+        {
+          "startTime": 52141,
+          "endTime": 52331,
+          "word": "I"
+        },
+        {
+          "startTime": 52331,
+          "endTime": 52536,
+          "word": "can"
+        },
+        {
+          "startTime": 52536,
+          "endTime": 53045,
+          "word": "see"
+        },
+        {
+          "startTime": 53045,
+          "endTime": 53312,
+          "word": "it"
+        },
+        {
+          "startTime": 53312,
+          "endTime": 55079,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 51850,
+      "endTime": 56396,
+      "text": "(See it all)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 54311,
+          "endTime": 55007,
+          "word": "(See"
+        },
+        {
+          "startTime": 55007,
+          "endTime": 55324,
+          "word": "it"
+        },
+        {
+          "startTime": 55324,
+          "endTime": 56396,
+          "word": "all)"
+        }
+      ]
+    },
+    {
+      "time": 56490,
+      "endTime": 59653,
+      "text": "Late one night, you dug me out of my grave and",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56495,
+          "endTime": 56924,
+          "word": "Late"
+        },
+        {
+          "startTime": 56924,
+          "endTime": 57327,
+          "word": "one"
+        },
+        {
+          "startTime": 57327,
+          "endTime": 57577,
+          "word": "night,"
+        },
+        {
+          "startTime": 57577,
+          "endTime": 57852,
+          "word": "you"
+        },
+        {
+          "startTime": 57852,
+          "endTime": 58076,
+          "word": "dug"
+        },
+        {
+          "startTime": 58076,
+          "endTime": 58321,
+          "word": "me"
+        },
+        {
+          "startTime": 58321,
+          "endTime": 58612,
+          "word": "out"
+        },
+        {
+          "startTime": 58612,
+          "endTime": 58823,
+          "word": "of"
+        },
+        {
+          "startTime": 58823,
+          "endTime": 59060,
+          "word": "my"
+        },
+        {
+          "startTime": 59060,
+          "endTime": 59305,
+          "word": "grave"
+        },
+        {
+          "startTime": 59305,
+          "endTime": 59653,
+          "word": "and"
+        }
+      ]
+    },
+    {
+      "time": 59650,
+      "endTime": 61762,
+      "text": "Saved my heart from the fate of",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59653,
+          "endTime": 60064,
+          "word": "Saved"
+        },
+        {
+          "startTime": 60064,
+          "endTime": 60296,
+          "word": "my"
+        },
+        {
+          "startTime": 60296,
+          "endTime": 60546,
+          "word": "heart"
+        },
+        {
+          "startTime": 60546,
+          "endTime": 60813,
+          "word": "from"
+        },
+        {
+          "startTime": 60813,
+          "endTime": 61045,
+          "word": "the"
+        },
+        {
+          "startTime": 61045,
+          "endTime": 61362,
+          "word": "fate"
+        },
+        {
+          "startTime": 61362,
+          "endTime": 61762,
+          "word": "of"
+        }
+      ]
+    },
+    {
+      "time": 61790,
+      "endTime": 65501,
+      "text": "Ophelia",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 61791,
+          "endTime": 65501,
+          "word": "Ophelia"
+        }
+      ]
+    },
+    {
+      "time": 61790,
+      "endTime": 65452,
+      "text": "(Ophelia)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 63520,
+          "endTime": 65452,
+          "word": "(Ophelia)"
+        }
+      ]
+    },
+    {
+      "time": 65450,
+      "endTime": 66519,
+      "text": "Keep it one hundred",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65452,
+          "endTime": 65693,
+          "word": "Keep"
+        },
+        {
+          "startTime": 65693,
+          "endTime": 65861,
+          "word": "it"
+        },
+        {
+          "startTime": 65861,
+          "endTime": 66009,
+          "word": "one"
+        },
+        {
+          "startTime": 66009,
+          "endTime": 66519,
+          "word": "hundred"
+        }
+      ]
+    },
+    {
+      "time": 66620,
+      "endTime": 69502,
+      "text": "On the land, the sea, the sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66620,
+          "endTime": 66834,
+          "word": "On"
+        },
+        {
+          "startTime": 66834,
+          "endTime": 67053,
+          "word": "the"
+        },
+        {
+          "startTime": 67053,
+          "endTime": 67575,
+          "word": "land,"
+        },
+        {
+          "startTime": 67901,
+          "endTime": 68114,
+          "word": "the"
+        },
+        {
+          "startTime": 68114,
+          "endTime": 68618,
+          "word": "sea,"
+        },
+        {
+          "startTime": 68800,
+          "endTime": 68957,
+          "word": "the"
+        },
+        {
+          "startTime": 68957,
+          "endTime": 69502,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 66620,
+      "endTime": 69403,
+      "text": "(Land, sea)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 67356,
+          "endTime": 68212,
+          "word": "(Land,"
+        },
+        {
+          "startTime": 68488,
+          "endTime": 69403,
+          "word": "sea)"
+        }
+      ]
+    },
+    {
+      "time": 69520,
+      "endTime": 71673,
+      "text": "Pledge allegiance to your hands",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69520,
+          "endTime": 69952,
+          "word": "Pledge"
+        },
+        {
+          "startTime": 69952,
+          "endTime": 70485,
+          "word": "allegiance"
+        },
+        {
+          "startTime": 70485,
+          "endTime": 70717,
+          "word": "to"
+        },
+        {
+          "startTime": 70717,
+          "endTime": 70968,
+          "word": "your"
+        },
+        {
+          "startTime": 70968,
+          "endTime": 71673,
+          "word": "hands"
+        }
+      ]
+    },
+    {
+      "time": 71670,
+      "endTime": 73371,
+      "text": "Your team, your vibes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 71673,
+          "endTime": 72006,
+          "word": "Your"
+        },
+        {
+          "startTime": 72006,
+          "endTime": 72524,
+          "word": "team,"
+        },
+        {
+          "startTime": 72609,
+          "endTime": 72838,
+          "word": "your"
+        },
+        {
+          "startTime": 72838,
+          "endTime": 73371,
+          "word": "vibes"
+        }
+      ]
+    },
+    {
+      "time": 73370,
+      "endTime": 75356,
+      "text": "Don't care where the hell you been",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 73371,
+          "endTime": 73620,
+          "word": "Don't"
+        },
+        {
+          "startTime": 73620,
+          "endTime": 73820,
+          "word": "care"
+        },
+        {
+          "startTime": 73820,
+          "endTime": 74071,
+          "word": "where"
+        },
+        {
+          "startTime": 74071,
+          "endTime": 74338,
+          "word": "the"
+        },
+        {
+          "startTime": 74338,
+          "endTime": 74588,
+          "word": "hell"
+        },
+        {
+          "startTime": 74588,
+          "endTime": 74823,
+          "word": "you"
+        },
+        {
+          "startTime": 74823,
+          "endTime": 75356,
+          "word": "been"
+        }
+      ]
+    },
+    {
+      "time": 73370,
+      "endTime": 75912,
+      "text": "(Been)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 75212,
+          "endTime": 75912,
+          "word": "(Been)"
+        }
+      ]
+    },
+    {
+      "time": 75520,
+      "endTime": 77076,
+      "text": "'Cause now, you're mine",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 75521,
+          "endTime": 75709,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 75709,
+          "endTime": 76381,
+          "word": "now,"
+        },
+        {
+          "startTime": 76381,
+          "endTime": 76672,
+          "word": "you're"
+        },
+        {
+          "startTime": 76672,
+          "endTime": 77076,
+          "word": "mine"
+        }
+      ]
+    },
+    {
+      "time": 75520,
+      "endTime": 76846,
+      "text": "(Now)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 76148,
+          "endTime": 76846,
+          "word": "(Now)"
+        }
+      ]
+    },
+    {
+      "time": 77070,
+      "endTime": 79124,
+      "text": "It's 'bout to be the sleepless night",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 77076,
+          "endTime": 77289,
+          "word": "It's"
+        },
+        {
+          "startTime": 77289,
+          "endTime": 77537,
+          "word": "'bout"
+        },
+        {
+          "startTime": 77537,
+          "endTime": 77769,
+          "word": "to"
+        },
+        {
+          "startTime": 77769,
+          "endTime": 78020,
+          "word": "be"
+        },
+        {
+          "startTime": 78020,
+          "endTime": 78204,
+          "word": "the"
+        },
+        {
+          "startTime": 78204,
+          "endTime": 78673,
+          "word": "sleepless"
+        },
+        {
+          "startTime": 78673,
+          "endTime": 79124,
+          "word": "night"
+        }
+      ]
+    },
+    {
+      "time": 79220,
+      "endTime": 82121,
+      "text": "You've been dreaming of",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 79224,
+          "endTime": 79398,
+          "word": "You've"
+        },
+        {
+          "startTime": 79398,
+          "endTime": 79669,
+          "word": "been"
+        },
+        {
+          "startTime": 79669,
+          "endTime": 80352,
+          "word": "dreaming"
+        },
+        {
+          "startTime": 80352,
+          "endTime": 82121,
+          "word": "of"
+        }
+      ]
+    },
+    {
+      "time": 82120,
+      "endTime": 84959,
+      "text": "The fate of Ophelia",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 82121,
+          "endTime": 82365,
+          "word": "The"
+        },
+        {
+          "startTime": 82365,
+          "endTime": 82760,
+          "word": "fate"
+        },
+        {
+          "startTime": 82777,
+          "endTime": 83210,
+          "word": "of"
+        },
+        {
+          "startTime": 83351,
+          "endTime": 84959,
+          "word": "Ophelia"
+        }
+      ]
+    },
+    {
+      "time": 86670,
+      "endTime": 90324,
+      "text": "The eldest daughter of a nobleman",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 86679,
+          "endTime": 86935,
+          "word": "The"
+        },
+        {
+          "startTime": 86935,
+          "endTime": 87468,
+          "word": "eldest"
+        },
+        {
+          "startTime": 87468,
+          "endTime": 88506,
+          "word": "daughter"
+        },
+        {
+          "startTime": 88818,
+          "endTime": 89090,
+          "word": "of"
+        },
+        {
+          "startTime": 89090,
+          "endTime": 89303,
+          "word": "a"
+        },
+        {
+          "startTime": 89303,
+          "endTime": 90324,
+          "word": "nobleman"
+        }
+      ]
+    },
+    {
+      "time": 90550,
+      "endTime": 95588,
+      "text": "Ophelia lived in fantasy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90557,
+          "endTime": 91336,
+          "word": "Ophelia"
+        },
+        {
+          "startTime": 91336,
+          "endTime": 91783,
+          "word": "lived"
+        },
+        {
+          "startTime": 91783,
+          "endTime": 92234,
+          "word": "in"
+        },
+        {
+          "startTime": 92234,
+          "endTime": 95588,
+          "word": "fantasy"
+        }
+      ]
+    },
+    {
+      "time": 95640,
+      "endTime": 100074,
+      "text": "But love was a cold bed full of scorpions",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95640,
+          "endTime": 95851,
+          "word": "But"
+        },
+        {
+          "startTime": 95851,
+          "endTime": 96392,
+          "word": "love"
+        },
+        {
+          "startTime": 96392,
+          "endTime": 96676,
+          "word": "was"
+        },
+        {
+          "startTime": 96676,
+          "endTime": 96960,
+          "word": "a"
+        },
+        {
+          "startTime": 96960,
+          "endTime": 97525,
+          "word": "cold"
+        },
+        {
+          "startTime": 97525,
+          "endTime": 98271,
+          "word": "bed"
+        },
+        {
+          "startTime": 98425,
+          "endTime": 98696,
+          "word": "full"
+        },
+        {
+          "startTime": 98696,
+          "endTime": 98939,
+          "word": "of"
+        },
+        {
+          "startTime": 98939,
+          "endTime": 100074,
+          "word": "scorpions"
+        }
+      ]
+    },
+    {
+      "time": 100170,
+      "endTime": 104041,
+      "text": "The venom stole her sanity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 100174,
+          "endTime": 100362,
+          "word": "The"
+        },
+        {
+          "startTime": 100362,
+          "endTime": 100895,
+          "word": "venom"
+        },
+        {
+          "startTime": 100895,
+          "endTime": 101461,
+          "word": "stole"
+        },
+        {
+          "startTime": 101461,
+          "endTime": 101878,
+          "word": "her"
+        },
+        {
+          "startTime": 101878,
+          "endTime": 104041,
+          "word": "sanity"
+        }
+      ]
+    },
+    {
+      "time": 104200,
+      "endTime": 107524,
+      "text": "And if you'd never come for me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104207,
+          "endTime": 104414,
+          "word": "And"
+        },
+        {
+          "startTime": 104414,
+          "endTime": 104594,
+          "word": "if"
+        },
+        {
+          "startTime": 104594,
+          "endTime": 104794,
+          "word": "you'd"
+        },
+        {
+          "startTime": 104794,
+          "endTime": 105545,
+          "word": "never"
+        },
+        {
+          "startTime": 105545,
+          "endTime": 106378,
+          "word": "come"
+        },
+        {
+          "startTime": 106378,
+          "endTime": 106612,
+          "word": "for"
+        },
+        {
+          "startTime": 106612,
+          "endTime": 107524,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 104200,
+      "endTime": 109289,
+      "text": "(Come for me)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 105655,
+          "endTime": 107591,
+          "word": "(Come"
+        },
+        {
+          "startTime": 107591,
+          "endTime": 107860,
+          "word": "for"
+        },
+        {
+          "startTime": 107860,
+          "endTime": 109289,
+          "word": "me)"
+        }
+      ]
+    },
+    {
+      "time": 107920,
+      "endTime": 111775,
+      "text": "I might've lingered in purgatory",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107924,
+          "endTime": 108252,
+          "word": "I"
+        },
+        {
+          "startTime": 108252,
+          "endTime": 108668,
+          "word": "might've"
+        },
+        {
+          "startTime": 108668,
+          "endTime": 109185,
+          "word": "lingered"
+        },
+        {
+          "startTime": 109185,
+          "endTime": 109519,
+          "word": "in"
+        },
+        {
+          "startTime": 109519,
+          "endTime": 111775,
+          "word": "purgatory"
+        }
+      ]
+    },
+    {
+      "time": 111820,
+      "endTime": 116130,
+      "text": "You wrap around me like a chain, a crown, a vine",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 111821,
+          "endTime": 112036,
+          "word": "You"
+        },
+        {
+          "startTime": 112036,
+          "endTime": 112370,
+          "word": "wrap"
+        },
+        {
+          "startTime": 112370,
+          "endTime": 112719,
+          "word": "around"
+        },
+        {
+          "startTime": 112719,
+          "endTime": 112970,
+          "word": "me"
+        },
+        {
+          "startTime": 112970,
+          "endTime": 113186,
+          "word": "like"
+        },
+        {
+          "startTime": 113186,
+          "endTime": 113418,
+          "word": "a"
+        },
+        {
+          "startTime": 113418,
+          "endTime": 114104,
+          "word": "chain,"
+        },
+        {
+          "startTime": 114330,
+          "endTime": 114562,
+          "word": "a"
+        },
+        {
+          "startTime": 114562,
+          "endTime": 115024,
+          "word": "crown,"
+        },
+        {
+          "startTime": 115212,
+          "endTime": 115431,
+          "word": "a"
+        },
+        {
+          "startTime": 115431,
+          "endTime": 116130,
+          "word": "vine"
+        }
+      ]
+    },
+    {
+      "time": 111820,
+      "endTime": 116649,
+      "text": "(Chain, crown, vine)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 113870,
+          "endTime": 114604,
+          "word": "(Chain,"
+        },
+        {
+          "startTime": 114902,
+          "endTime": 115619,
+          "word": "crown,"
+        },
+        {
+          "startTime": 115945,
+          "endTime": 116649,
+          "word": "vine)"
+        }
+      ]
+    },
+    {
+      "time": 116300,
+      "endTime": 122001,
+      "text": "Pulling me into the fire",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116304,
+          "endTime": 116908,
+          "word": "Pulling"
+        },
+        {
+          "startTime": 116908,
+          "endTime": 117208,
+          "word": "me"
+        },
+        {
+          "startTime": 117208,
+          "endTime": 118208,
+          "word": "into"
+        },
+        {
+          "startTime": 118208,
+          "endTime": 118843,
+          "word": "the"
+        },
+        {
+          "startTime": 118843,
+          "endTime": 122001,
+          "word": "fire"
+        }
+      ]
+    },
+    {
+      "time": 122220,
+      "endTime": 125316,
+      "text": "All that time, I sat alone in my tower",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 122226,
+          "endTime": 122725,
+          "word": "All"
+        },
+        {
+          "startTime": 122725,
+          "endTime": 123191,
+          "word": "that"
+        },
+        {
+          "startTime": 123191,
+          "endTime": 123426,
+          "word": "time,"
+        },
+        {
+          "startTime": 123426,
+          "endTime": 123642,
+          "word": "I"
+        },
+        {
+          "startTime": 123642,
+          "endTime": 123975,
+          "word": "sat"
+        },
+        {
+          "startTime": 123975,
+          "endTime": 124493,
+          "word": "alone"
+        },
+        {
+          "startTime": 124493,
+          "endTime": 124703,
+          "word": "in"
+        },
+        {
+          "startTime": 124703,
+          "endTime": 124923,
+          "word": "my"
+        },
+        {
+          "startTime": 124923,
+          "endTime": 125316,
+          "word": "tower"
+        }
+      ]
+    },
+    {
+      "time": 125400,
+      "endTime": 127362,
+      "text": "You were just honing your powers",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125401,
+          "endTime": 125679,
+          "word": "You"
+        },
+        {
+          "startTime": 125679,
+          "endTime": 125871,
+          "word": "were"
+        },
+        {
+          "startTime": 125871,
+          "endTime": 126137,
+          "word": "just"
+        },
+        {
+          "startTime": 126137,
+          "endTime": 126705,
+          "word": "honing"
+        },
+        {
+          "startTime": 126705,
+          "endTime": 126921,
+          "word": "your"
+        },
+        {
+          "startTime": 126921,
+          "endTime": 127362,
+          "word": "powers"
+        }
+      ]
+    },
+    {
+      "time": 127360,
+      "endTime": 130533,
+      "text": "Now I can see it all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127362,
+          "endTime": 127586,
+          "word": "Now"
+        },
+        {
+          "startTime": 127586,
+          "endTime": 127794,
+          "word": "I"
+        },
+        {
+          "startTime": 127794,
+          "endTime": 128000,
+          "word": "can"
+        },
+        {
+          "startTime": 128000,
+          "endTime": 128514,
+          "word": "see"
+        },
+        {
+          "startTime": 128514,
+          "endTime": 128781,
+          "word": "it"
+        },
+        {
+          "startTime": 128781,
+          "endTime": 130533,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 127360,
+      "endTime": 131723,
+      "text": "(See it all)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 129806,
+          "endTime": 130465,
+          "word": "(See"
+        },
+        {
+          "startTime": 130465,
+          "endTime": 130731,
+          "word": "it"
+        },
+        {
+          "startTime": 130731,
+          "endTime": 131723,
+          "word": "all)"
+        }
+      ]
+    },
+    {
+      "time": 131930,
+      "endTime": 135222,
+      "text": "Late one night, you dug me out of my grave and",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131938,
+          "endTime": 132423,
+          "word": "Late"
+        },
+        {
+          "startTime": 132423,
+          "endTime": 132898,
+          "word": "one"
+        },
+        {
+          "startTime": 132898,
+          "endTime": 133114,
+          "word": "night,"
+        },
+        {
+          "startTime": 133114,
+          "endTime": 133365,
+          "word": "you"
+        },
+        {
+          "startTime": 133365,
+          "endTime": 133597,
+          "word": "dug"
+        },
+        {
+          "startTime": 133597,
+          "endTime": 133879,
+          "word": "me"
+        },
+        {
+          "startTime": 133879,
+          "endTime": 134130,
+          "word": "out"
+        },
+        {
+          "startTime": 134130,
+          "endTime": 134346,
+          "word": "of"
+        },
+        {
+          "startTime": 134346,
+          "endTime": 134565,
+          "word": "my"
+        },
+        {
+          "startTime": 134565,
+          "endTime": 134781,
+          "word": "grave"
+        },
+        {
+          "startTime": 134781,
+          "endTime": 135222,
+          "word": "and"
+        }
+      ]
+    },
+    {
+      "time": 135220,
+      "endTime": 137179,
+      "text": "Saved my heart from the fate of",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 135222,
+          "endTime": 135555,
+          "word": "Saved"
+        },
+        {
+          "startTime": 135555,
+          "endTime": 135806,
+          "word": "my"
+        },
+        {
+          "startTime": 135806,
+          "endTime": 136073,
+          "word": "heart"
+        },
+        {
+          "startTime": 136073,
+          "endTime": 136307,
+          "word": "from"
+        },
+        {
+          "startTime": 136307,
+          "endTime": 136555,
+          "word": "the"
+        },
+        {
+          "startTime": 136555,
+          "endTime": 136739,
+          "word": "fate"
+        },
+        {
+          "startTime": 136739,
+          "endTime": 137179,
+          "word": "of"
+        }
+      ]
+    },
+    {
+      "time": 137270,
+      "endTime": 140905,
+      "text": "Ophelia",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137276,
+          "endTime": 140905,
+          "word": "Ophelia"
+        }
+      ]
+    },
+    {
+      "time": 137270,
+      "endTime": 141465,
+      "text": "(Ophelia)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 139131,
+          "endTime": 141465,
+          "word": "(Ophelia)"
+        }
+      ]
+    },
+    {
+      "time": 140860,
+      "endTime": 142064,
+      "text": "Keep it one hundred",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140864,
+          "endTime": 141168,
+          "word": "Keep"
+        },
+        {
+          "startTime": 141168,
+          "endTime": 141397,
+          "word": "it"
+        },
+        {
+          "startTime": 141397,
+          "endTime": 141605,
+          "word": "one"
+        },
+        {
+          "startTime": 141605,
+          "endTime": 142064,
+          "word": "hundred"
+        }
+      ]
+    },
+    {
+      "time": 142060,
+      "endTime": 145015,
+      "text": "On the land, the sea, the sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142064,
+          "endTime": 142264,
+          "word": "On"
+        },
+        {
+          "startTime": 142264,
+          "endTime": 142493,
+          "word": "the"
+        },
+        {
+          "startTime": 142493,
+          "endTime": 143162,
+          "word": "land,"
+        },
+        {
+          "startTime": 143259,
+          "endTime": 143509,
+          "word": "the"
+        },
+        {
+          "startTime": 143509,
+          "endTime": 144047,
+          "word": "sea,"
+        },
+        {
+          "startTime": 144259,
+          "endTime": 144475,
+          "word": "the"
+        },
+        {
+          "startTime": 144475,
+          "endTime": 145015,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 142060,
+      "endTime": 145020,
+      "text": "(Land, sea)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 142937,
+          "endTime": 143637,
+          "word": "(Land,"
+        },
+        {
+          "startTime": 144005,
+          "endTime": 145020,
+          "word": "sea)"
+        }
+      ]
+    },
+    {
+      "time": 144970,
+      "endTime": 147053,
+      "text": "Pledge allegiance to your hands",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144971,
+          "endTime": 145295,
+          "word": "Pledge"
+        },
+        {
+          "startTime": 145295,
+          "endTime": 145935,
+          "word": "allegiance"
+        },
+        {
+          "startTime": 145935,
+          "endTime": 146167,
+          "word": "to"
+        },
+        {
+          "startTime": 146167,
+          "endTime": 146401,
+          "word": "your"
+        },
+        {
+          "startTime": 146401,
+          "endTime": 147053,
+          "word": "hands"
+        }
+      ]
+    },
+    {
+      "time": 147150,
+      "endTime": 148933,
+      "text": "Your team, your vibes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147152,
+          "endTime": 147416,
+          "word": "Your"
+        },
+        {
+          "startTime": 147416,
+          "endTime": 147960,
+          "word": "team,"
+        },
+        {
+          "startTime": 148165,
+          "endTime": 148380,
+          "word": "your"
+        },
+        {
+          "startTime": 148380,
+          "endTime": 148933,
+          "word": "vibes"
+        }
+      ]
+    },
+    {
+      "time": 148930,
+      "endTime": 150869,
+      "text": "Don't care where the hell you been",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 148933,
+          "endTime": 149196,
+          "word": "Don't"
+        },
+        {
+          "startTime": 149196,
+          "endTime": 149388,
+          "word": "care"
+        },
+        {
+          "startTime": 149388,
+          "endTime": 149601,
+          "word": "where"
+        },
+        {
+          "startTime": 149601,
+          "endTime": 149852,
+          "word": "the"
+        },
+        {
+          "startTime": 149852,
+          "endTime": 150102,
+          "word": "hell"
+        },
+        {
+          "startTime": 150102,
+          "endTime": 150353,
+          "word": "you"
+        },
+        {
+          "startTime": 150353,
+          "endTime": 150869,
+          "word": "been"
+        }
+      ]
+    },
+    {
+      "time": 148930,
+      "endTime": 151369,
+      "text": "(Been)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 150704,
+          "endTime": 151369,
+          "word": "(Been)"
+        }
+      ]
+    },
+    {
+      "time": 151070,
+      "endTime": 152567,
+      "text": "'Cause now, you're mine",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 151071,
+          "endTime": 151282,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 151282,
+          "endTime": 151829,
+          "word": "now,"
+        },
+        {
+          "startTime": 151964,
+          "endTime": 152216,
+          "word": "you're"
+        },
+        {
+          "startTime": 152216,
+          "endTime": 152567,
+          "word": "mine"
+        }
+      ]
+    },
+    {
+      "time": 151070,
+      "endTime": 152464,
+      "text": "(Now)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 151693,
+          "endTime": 152464,
+          "word": "(Now)"
+        }
+      ]
+    },
+    {
+      "time": 152560,
+      "endTime": 154607,
+      "text": "It's 'bout to be the sleepless night",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 152567,
+          "endTime": 152823,
+          "word": "It's"
+        },
+        {
+          "startTime": 152823,
+          "endTime": 152978,
+          "word": "'bout"
+        },
+        {
+          "startTime": 152978,
+          "endTime": 153194,
+          "word": "to"
+        },
+        {
+          "startTime": 153194,
+          "endTime": 153394,
+          "word": "be"
+        },
+        {
+          "startTime": 153394,
+          "endTime": 153594,
+          "word": "the"
+        },
+        {
+          "startTime": 153594,
+          "endTime": 154194,
+          "word": "sleepless"
+        },
+        {
+          "startTime": 154194,
+          "endTime": 154607,
+          "word": "night"
+        }
+      ]
+    },
+    {
+      "time": 154600,
+      "endTime": 157631,
+      "text": "You've been dreaming of",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 154607,
+          "endTime": 154863,
+          "word": "You've"
+        },
+        {
+          "startTime": 154863,
+          "endTime": 155146,
+          "word": "been"
+        },
+        {
+          "startTime": 155146,
+          "endTime": 155962,
+          "word": "dreaming"
+        },
+        {
+          "startTime": 155962,
+          "endTime": 157631,
+          "word": "of"
+        }
+      ]
+    },
+    {
+      "time": 157630,
+      "endTime": 160437,
+      "text": "The fate of Ophelia",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157631,
+          "endTime": 157850,
+          "word": "The"
+        },
+        {
+          "startTime": 157850,
+          "endTime": 158243,
+          "word": "fate"
+        },
+        {
+          "startTime": 158399,
+          "endTime": 158771,
+          "word": "of"
+        },
+        {
+          "startTime": 158844,
+          "endTime": 160437,
+          "word": "Ophelia"
+        }
+      ]
+    },
+    {
+      "time": 159670,
+      "endTime": 161654,
+      "text": "'Tis locked inside my memory",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159677,
+          "endTime": 160050,
+          "word": "'Tis"
+        },
+        {
+          "startTime": 160050,
+          "endTime": 160333,
+          "word": "locked"
+        },
+        {
+          "startTime": 160333,
+          "endTime": 160834,
+          "word": "inside"
+        },
+        {
+          "startTime": 160834,
+          "endTime": 161066,
+          "word": "my"
+        },
+        {
+          "startTime": 161066,
+          "endTime": 161654,
+          "word": "memory"
+        }
+      ]
+    },
+    {
+      "time": 161650,
+      "endTime": 163538,
+      "text": "And only you possess the key",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161654,
+          "endTime": 161891,
+          "word": "And"
+        },
+        {
+          "startTime": 161891,
+          "endTime": 162425,
+          "word": "only"
+        },
+        {
+          "startTime": 162425,
+          "endTime": 162656,
+          "word": "you"
+        },
+        {
+          "startTime": 162656,
+          "endTime": 163075,
+          "word": "possess"
+        },
+        {
+          "startTime": 163075,
+          "endTime": 163257,
+          "word": "the"
+        },
+        {
+          "startTime": 163257,
+          "endTime": 163538,
+          "word": "key"
+        }
+      ]
+    },
+    {
+      "time": 163550,
+      "endTime": 165680,
+      "text": "No longer drowning and deceived",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 163555,
+          "endTime": 163877,
+          "word": "No"
+        },
+        {
+          "startTime": 163877,
+          "endTime": 164365,
+          "word": "longer"
+        },
+        {
+          "startTime": 164365,
+          "endTime": 164879,
+          "word": "drowning"
+        },
+        {
+          "startTime": 164879,
+          "endTime": 165130,
+          "word": "and"
+        },
+        {
+          "startTime": 165130,
+          "endTime": 165680,
+          "word": "deceived"
+        }
+      ]
+    },
+    {
+      "time": 165740,
+      "endTime": 167522,
+      "text": "All because you came for me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165748,
+          "endTime": 166140,
+          "word": "All"
+        },
+        {
+          "startTime": 166140,
+          "endTime": 166495,
+          "word": "because"
+        },
+        {
+          "startTime": 166495,
+          "endTime": 166727,
+          "word": "you"
+        },
+        {
+          "startTime": 166727,
+          "endTime": 166977,
+          "word": "came"
+        },
+        {
+          "startTime": 166977,
+          "endTime": 167180,
+          "word": "for"
+        },
+        {
+          "startTime": 167180,
+          "endTime": 167522,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 167700,
+      "endTime": 169421,
+      "text": "Locked inside my memory",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 167704,
+          "endTime": 168077,
+          "word": "Locked"
+        },
+        {
+          "startTime": 168077,
+          "endTime": 168512,
+          "word": "inside"
+        },
+        {
+          "startTime": 168512,
+          "endTime": 168779,
+          "word": "my"
+        },
+        {
+          "startTime": 168779,
+          "endTime": 169421,
+          "word": "memory"
+        }
+      ]
+    },
+    {
+      "time": 169480,
+      "endTime": 171369,
+      "text": "And only you possess the key",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 169489,
+          "endTime": 169677,
+          "word": "And"
+        },
+        {
+          "startTime": 169677,
+          "endTime": 170133,
+          "word": "only"
+        },
+        {
+          "startTime": 170133,
+          "endTime": 170352,
+          "word": "you"
+        },
+        {
+          "startTime": 170352,
+          "endTime": 170784,
+          "word": "possess"
+        },
+        {
+          "startTime": 170784,
+          "endTime": 170968,
+          "word": "the"
+        },
+        {
+          "startTime": 170968,
+          "endTime": 171369,
+          "word": "key"
+        }
+      ]
+    },
+    {
+      "time": 171360,
+      "endTime": 173323,
+      "text": "No longer drowning and deceived",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 171369,
+          "endTime": 171577,
+          "word": "No"
+        },
+        {
+          "startTime": 171577,
+          "endTime": 172086,
+          "word": "longer"
+        },
+        {
+          "startTime": 172086,
+          "endTime": 172603,
+          "word": "drowning"
+        },
+        {
+          "startTime": 172603,
+          "endTime": 172822,
+          "word": "and"
+        },
+        {
+          "startTime": 172822,
+          "endTime": 173323,
+          "word": "deceived"
+        }
+      ]
+    },
+    {
+      "time": 173470,
+      "endTime": 178156,
+      "text": "All because you came for me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 173472,
+          "endTime": 173866,
+          "word": "All"
+        },
+        {
+          "startTime": 173866,
+          "endTime": 174357,
+          "word": "because"
+        },
+        {
+          "startTime": 174357,
+          "endTime": 174573,
+          "word": "you"
+        },
+        {
+          "startTime": 174573,
+          "endTime": 174957,
+          "word": "came"
+        },
+        {
+          "startTime": 174957,
+          "endTime": 175357,
+          "word": "for"
+        },
+        {
+          "startTime": 175357,
+          "endTime": 178156,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 178370,
+      "endTime": 181504,
+      "text": "All that time, I sat alone in my tower",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 178370,
+          "endTime": 178861,
+          "word": "All"
+        },
+        {
+          "startTime": 178861,
+          "endTime": 179311,
+          "word": "that"
+        },
+        {
+          "startTime": 179311,
+          "endTime": 179578,
+          "word": "time,"
+        },
+        {
+          "startTime": 179578,
+          "endTime": 179793,
+          "word": "I"
+        },
+        {
+          "startTime": 179793,
+          "endTime": 180127,
+          "word": "sat"
+        },
+        {
+          "startTime": 180127,
+          "endTime": 180594,
+          "word": "alone"
+        },
+        {
+          "startTime": 180594,
+          "endTime": 180810,
+          "word": "in"
+        },
+        {
+          "startTime": 180810,
+          "endTime": 181061,
+          "word": "my"
+        },
+        {
+          "startTime": 181061,
+          "endTime": 181504,
+          "word": "tower"
+        }
+      ]
+    },
+    {
+      "time": 181600,
+      "endTime": 183476,
+      "text": "You were just honing your powers",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181605,
+          "endTime": 181861,
+          "word": "You"
+        },
+        {
+          "startTime": 181861,
+          "endTime": 182013,
+          "word": "were"
+        },
+        {
+          "startTime": 182013,
+          "endTime": 182264,
+          "word": "just"
+        },
+        {
+          "startTime": 182264,
+          "endTime": 182816,
+          "word": "honing"
+        },
+        {
+          "startTime": 182816,
+          "endTime": 182970,
+          "word": "your"
+        },
+        {
+          "startTime": 182970,
+          "endTime": 183476,
+          "word": "powers"
+        }
+      ]
+    },
+    {
+      "time": 183470,
+      "endTime": 186738,
+      "text": "Now I can see it all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 183476,
+          "endTime": 183695,
+          "word": "Now"
+        },
+        {
+          "startTime": 183695,
+          "endTime": 183929,
+          "word": "I"
+        },
+        {
+          "startTime": 183929,
+          "endTime": 184196,
+          "word": "can"
+        },
+        {
+          "startTime": 184196,
+          "endTime": 184729,
+          "word": "see"
+        },
+        {
+          "startTime": 184729,
+          "endTime": 184996,
+          "word": "it"
+        },
+        {
+          "startTime": 184996,
+          "endTime": 186738,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 183470,
+      "endTime": 187797,
+      "text": "(I can see it all)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 185565,
+          "endTime": 185779,
+          "word": "(I"
+        },
+        {
+          "startTime": 185779,
+          "endTime": 185976,
+          "word": "can"
+        },
+        {
+          "startTime": 185976,
+          "endTime": 186621,
+          "word": "see"
+        },
+        {
+          "startTime": 186621,
+          "endTime": 186872,
+          "word": "it"
+        },
+        {
+          "startTime": 186872,
+          "endTime": 187797,
+          "word": "all)"
+        }
+      ]
+    },
+    {
+      "time": 187940,
+      "endTime": 191361,
+      "text": "Late one night, you dug me out of my grave and",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 187949,
+          "endTime": 188536,
+          "word": "Late"
+        },
+        {
+          "startTime": 188536,
+          "endTime": 189034,
+          "word": "one"
+        },
+        {
+          "startTime": 189034,
+          "endTime": 189269,
+          "word": "night,"
+        },
+        {
+          "startTime": 189269,
+          "endTime": 189501,
+          "word": "you"
+        },
+        {
+          "startTime": 189501,
+          "endTime": 189736,
+          "word": "dug"
+        },
+        {
+          "startTime": 189736,
+          "endTime": 189968,
+          "word": "me"
+        },
+        {
+          "startTime": 189968,
+          "endTime": 190234,
+          "word": "out"
+        },
+        {
+          "startTime": 190234,
+          "endTime": 190485,
+          "word": "of"
+        },
+        {
+          "startTime": 190485,
+          "endTime": 190717,
+          "word": "my"
+        },
+        {
+          "startTime": 190717,
+          "endTime": 190952,
+          "word": "grave"
+        },
+        {
+          "startTime": 190952,
+          "endTime": 191361,
+          "word": "and"
+        }
+      ]
+    },
+    {
+      "time": 191360,
+      "endTime": 193250,
+      "text": "Saved my heart from the fate of",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 191361,
+          "endTime": 191644,
+          "word": "Saved"
+        },
+        {
+          "startTime": 191644,
+          "endTime": 191892,
+          "word": "my"
+        },
+        {
+          "startTime": 191892,
+          "endTime": 192193,
+          "word": "heart"
+        },
+        {
+          "startTime": 192193,
+          "endTime": 192488,
+          "word": "from"
+        },
+        {
+          "startTime": 192488,
+          "endTime": 192690,
+          "word": "the"
+        },
+        {
+          "startTime": 192690,
+          "endTime": 192914,
+          "word": "fate"
+        },
+        {
+          "startTime": 192914,
+          "endTime": 193250,
+          "word": "of"
+        }
+      ]
+    },
+    {
+      "time": 193350,
+      "endTime": 196925,
+      "text": "Ophelia",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 193350,
+          "endTime": 196925,
+          "word": "Ophelia"
+        }
+      ]
+    },
+    {
+      "time": 196920,
+      "endTime": 198130,
+      "text": "Keep it one hundred",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 196925,
+          "endTime": 197154,
+          "word": "Keep"
+        },
+        {
+          "startTime": 197154,
+          "endTime": 197329,
+          "word": "it"
+        },
+        {
+          "startTime": 197329,
+          "endTime": 197696,
+          "word": "one"
+        },
+        {
+          "startTime": 197696,
+          "endTime": 198130,
+          "word": "hundred"
+        }
+      ]
+    },
+    {
+      "time": 198190,
+      "endTime": 201282,
+      "text": "On the land, the sea, the sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 198195,
+          "endTime": 198439,
+          "word": "On"
+        },
+        {
+          "startTime": 198439,
+          "endTime": 198682,
+          "word": "the"
+        },
+        {
+          "startTime": 198682,
+          "endTime": 199338,
+          "word": "land,"
+        },
+        {
+          "startTime": 199444,
+          "endTime": 199718,
+          "word": "the"
+        },
+        {
+          "startTime": 199718,
+          "endTime": 200250,
+          "word": "sea,"
+        },
+        {
+          "startTime": 200420,
+          "endTime": 200638,
+          "word": "the"
+        },
+        {
+          "startTime": 200638,
+          "endTime": 201282,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 198190,
+      "endTime": 200794,
+      "text": "(Land, the sea)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 199038,
+          "endTime": 199621,
+          "word": "(Land,"
+        },
+        {
+          "startTime": 199951,
+          "endTime": 200167,
+          "word": "the"
+        },
+        {
+          "startTime": 200167,
+          "endTime": 200794,
+          "word": "sea)"
+        }
+      ]
+    },
+    {
+      "time": 201060,
+      "endTime": 203344,
+      "text": "Pledge allegiance to your hands",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 201060,
+          "endTime": 201359,
+          "word": "Pledge"
+        },
+        {
+          "startTime": 201359,
+          "endTime": 201999,
+          "word": "allegiance"
+        },
+        {
+          "startTime": 201999,
+          "endTime": 202249,
+          "word": "to"
+        },
+        {
+          "startTime": 202249,
+          "endTime": 202516,
+          "word": "your"
+        },
+        {
+          "startTime": 202516,
+          "endTime": 203344,
+          "word": "hands"
+        }
+      ]
+    },
+    {
+      "time": 201060,
+      "endTime": 203759,
+      "text": "(Your hands)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 202740,
+          "endTime": 203047,
+          "word": "(Your"
+        },
+        {
+          "startTime": 203047,
+          "endTime": 203759,
+          "word": "hands)"
+        }
+      ]
+    },
+    {
+      "time": 203340,
+      "endTime": 204989,
+      "text": "Your team, your vibes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 203344,
+          "endTime": 203584,
+          "word": "Your"
+        },
+        {
+          "startTime": 203584,
+          "endTime": 204069,
+          "word": "team,"
+        },
+        {
+          "startTime": 204256,
+          "endTime": 204512,
+          "word": "your"
+        },
+        {
+          "startTime": 204512,
+          "endTime": 204989,
+          "word": "vibes"
+        }
+      ]
+    },
+    {
+      "time": 204980,
+      "endTime": 206895,
+      "text": "Don't care where the hell you been",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 204989,
+          "endTime": 205285,
+          "word": "Don't"
+        },
+        {
+          "startTime": 205285,
+          "endTime": 205504,
+          "word": "care"
+        },
+        {
+          "startTime": 205504,
+          "endTime": 205770,
+          "word": "where"
+        },
+        {
+          "startTime": 205770,
+          "endTime": 206021,
+          "word": "the"
+        },
+        {
+          "startTime": 206021,
+          "endTime": 206288,
+          "word": "hell"
+        },
+        {
+          "startTime": 206288,
+          "endTime": 206520,
+          "word": "you"
+        },
+        {
+          "startTime": 206520,
+          "endTime": 206895,
+          "word": "been"
+        }
+      ]
+    },
+    {
+      "time": 204980,
+      "endTime": 207716,
+      "text": "(Been)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 206785,
+          "endTime": 207716,
+          "word": "(Been)"
+        }
+      ]
+    },
+    {
+      "time": 207150,
+      "endTime": 208671,
+      "text": "'Cause now, you're mine",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 207154,
+          "endTime": 207472,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 207472,
+          "endTime": 207970,
+          "word": "now,"
+        },
+        {
+          "startTime": 208171,
+          "endTime": 208430,
+          "word": "you're"
+        },
+        {
+          "startTime": 208430,
+          "endTime": 208671,
+          "word": "mine"
+        }
+      ]
+    },
+    {
+      "time": 207150,
+      "endTime": 208666,
+      "text": "('Cause now)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 207759,
+          "endTime": 207973,
+          "word": "('Cause"
+        },
+        {
+          "startTime": 207973,
+          "endTime": 208666,
+          "word": "now)"
+        }
+      ]
+    },
+    {
+      "time": 208670,
+      "endTime": 210706,
+      "text": "It's 'bout to be the sleepless night",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 208671,
+          "endTime": 208919,
+          "word": "It's"
+        },
+        {
+          "startTime": 208919,
+          "endTime": 209066,
+          "word": "'bout"
+        },
+        {
+          "startTime": 209066,
+          "endTime": 209314,
+          "word": "to"
+        },
+        {
+          "startTime": 209314,
+          "endTime": 209514,
+          "word": "be"
+        },
+        {
+          "startTime": 209514,
+          "endTime": 209682,
+          "word": "the"
+        },
+        {
+          "startTime": 209682,
+          "endTime": 210247,
+          "word": "sleepless"
+        },
+        {
+          "startTime": 210247,
+          "endTime": 210706,
+          "word": "night"
+        }
+      ]
+    },
+    {
+      "time": 210800,
+      "endTime": 213860,
+      "text": "You've been dreaming of",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 210807,
+          "endTime": 211003,
+          "word": "You've"
+        },
+        {
+          "startTime": 211003,
+          "endTime": 211304,
+          "word": "been"
+        },
+        {
+          "startTime": 211304,
+          "endTime": 212022,
+          "word": "dreaming"
+        },
+        {
+          "startTime": 212022,
+          "endTime": 213860,
+          "word": "of"
+        }
+      ]
+    },
+    {
+      "time": 213860,
+      "endTime": 216579,
+      "text": "The fate of Ophelia",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 213860,
+          "endTime": 214083,
+          "word": "The"
+        },
+        {
+          "startTime": 214083,
+          "endTime": 214439,
+          "word": "fate"
+        },
+        {
+          "startTime": 214491,
+          "endTime": 214879,
+          "word": "of"
+        },
+        {
+          "startTime": 214987,
+          "endTime": 216579,
+          "word": "Ophelia"
+        }
+      ]
+    },
+    {
+      "time": 217340,
+      "endTime": 219944,
+      "text": "You saved my heart from the fate of",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 217340,
+          "endTime": 217583,
+          "word": "You"
+        },
+        {
+          "startTime": 217583,
+          "endTime": 217857,
+          "word": "saved"
+        },
+        {
+          "startTime": 217857,
+          "endTime": 218057,
+          "word": "my"
+        },
+        {
+          "startTime": 218057,
+          "endTime": 218441,
+          "word": "heart"
+        },
+        {
+          "startTime": 218441,
+          "endTime": 218641,
+          "word": "from"
+        },
+        {
+          "startTime": 218641,
+          "endTime": 218825,
+          "word": "the"
+        },
+        {
+          "startTime": 218825,
+          "endTime": 219308,
+          "word": "fate"
+        },
+        {
+          "startTime": 219308,
+          "endTime": 219944,
+          "word": "of"
+        }
+      ]
+    },
+    {
+      "time": 220420,
+      "endTime": 223346,
+      "text": "Ophelia",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 220428,
+          "endTime": 223346,
+          "word": "Ophelia"
+        }
+      ]
+    }
+  ]
+}
