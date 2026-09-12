@@ -20,6 +20,16 @@
     "path": "lyrics-database/5/v/5vOid-7uBdQ.json"
   },
   {
+    "videoId": "5eZjEIk8voE",
+    "title": "ACELERADA (Super Slowed)",
+    "artist": "MXZI, sma$her",
+    "duration": 62,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 27,
+    "path": "lyrics-database/5/e/5eZjEIk8voE.json"
+  },
+  {
     "videoId": "GkI9X5g9nKc",
     "title": "Whine in Brazil",
     "artist": "Ichiss",
@@ -80,6 +90,16 @@
     "path": "lyrics-database/l/j/ljAH6jNaApU.json"
   },
   {
+    "videoId": "vBynw9Isr28",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga",
+    "duration": 270,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 55,
+    "path": "lyrics-database/v/B/vBynw9Isr28.json"
+  },
+  {
     "videoId": "dQw4w9WgXcQ",
     "title": "Never Gonna Give You Up",
     "artist": "Rick Astley",
@@ -110,6 +130,16 @@
     "path": "lyrics-database/7/n/7nVctvQVz0U.json"
   },
   {
+    "videoId": "ekr2nIex040",
+    "title": "APT.",
+    "artist": "ROSÉ, Bruno Mars",
+    "duration": 174,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 80,
+    "path": "lyrics-database/e/k/ekr2nIex040.json"
+  },
+  {
     "videoId": "gCYcHz2k5x0",
     "title": "Animals",
     "artist": "Martin Garrix",
@@ -130,6 +160,16 @@
     "path": "lyrics-database/E/t/EtHBkSIrRok.json"
   },
   {
+    "videoId": "2cnloO84LA0",
+    "title": "DIA DELÍCIA",
+    "artist": "Nakama, Mc Staff, ΣP",
+    "duration": 76,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 19,
+    "path": "lyrics-database/2/c/2cnloO84LA0.json"
+  },
+  {
     "videoId": "kebBJT8NVyM",
     "title": "Aro Kichhu Khan Na Hoy Rahite Kachhe - Mono",
     "artist": "Sandhya Mukherjee",
@@ -148,6 +188,16 @@
     "syncedType": "word",
     "linesCount": 43,
     "path": "lyrics-database/P/k/Pkh8UtuejGw.json"
+  },
+  {
+    "videoId": "QGsevnbItdU",
+    "title": "How It's Done",
+    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI",
+    "duration": 184,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 54,
+    "path": "lyrics-database/Q/G/QGsevnbItdU.json"
   },
   {
     "videoId": "rzJV_VEl-0k",
@@ -180,6 +230,16 @@
     "path": "lyrics-database/f/J/fJ9rUzIMcZQ.json"
   },
   {
+    "videoId": "co-TFLbaZAE",
+    "title": "Gabriela",
+    "artist": "KATSEYE",
+    "duration": 198,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 70,
+    "path": "lyrics-database/c/o/co-TFLbaZAE.json"
+  },
+  {
     "videoId": "cWGTuYkzv_s",
     "title": "tame impala - loser (lyrics)",
     "artist": "Lyrical Tunes",
@@ -190,6 +250,16 @@
     "path": "lyrics-database/c/W/cWGTuYkzv_s.json"
   },
   {
+    "videoId": "NT4eF9YsYnM",
+    "title": "PASSO BEM SOLTO (Slowed)",
+    "artist": "ATLXS",
+    "duration": 117,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 45,
+    "path": "lyrics-database/N/T/NT4eF9YsYnM.json"
+  },
+  {
     "videoId": "0vPdpUiVWi8",
     "title": "Kendrick Lamar - luther (Lyrics) ft. SZA",
     "artist": "Creative Chaos",
@@ -198,6 +268,46 @@
     "syncedType": "word",
     "linesCount": 51,
     "path": "lyrics-database/0/v/0vPdpUiVWi8.json"
+  },
+  {
+    "videoId": "CgCVZdcKcqY",
+    "title": "JUMP",
+    "artist": "BLACKPINK",
+    "duration": 194,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 43,
+    "path": "lyrics-database/C/g/CgCVZdcKcqY.json"
+  },
+  {
+    "videoId": "yebNIHKAC4A",
+    "title": "Golden",
+    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI",
+    "duration": 199,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 46,
+    "path": "lyrics-database/y/e/yebNIHKAC4A.json"
+  },
+  {
+    "videoId": "V9PVRfjEBTI",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "duration": 231,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 44,
+    "path": "lyrics-database/V/9/V9PVRfjEBTI.json"
+  },
+  {
+    "videoId": "Ve_a9CXjlQc",
+    "title": "“Takedown” KPop Demon Hunters (Soundtrack from the Netflix Film) | HUNTR/X",
+    "artist": "KPop Demon Hunters Cast, REI AMI, EJAE, HUNTR/X",
+    "duration": 182,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 80,
+    "path": "lyrics-database/V/e/Ve_a9CXjlQc.json"
   },
   {
     "videoId": "VKC_hzJ3jzg",
@@ -278,5 +388,15 @@
     "syncedType": "word",
     "linesCount": 77,
     "path": "lyrics-database/W/N/WNmsURkR2-w.json"
+  },
+  {
+    "videoId": "JgDNFQ2RaLQ",
+    "title": "Sapphire",
+    "artist": "Ed Sheeran",
+    "duration": 184,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 63,
+    "path": "lyrics-database/J/g/JgDNFQ2RaLQ.json"
   }
 ]
