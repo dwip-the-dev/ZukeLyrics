@@ -1,0 +1,2882 @@
+{
+  "videoId": "JgDNFQ2RaLQ",
+  "title": "Sapphire",
+  "artist": "Ed Sheeran",
+  "duration": 184,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.000\" end=\"00:03.380\">\n        <span begin=\"00:00.000\" end=\"00:01.257\">You&apos;re <\/span>\n        <span begin=\"00:01.257\" end=\"00:03.380\">glowing<\/span>\n      <\/p>\n      <p begin=\"00:03.380\" end=\"00:06.940\">\n        <span begin=\"00:03.380\" end=\"00:03.808\">You <\/span>\n        <span begin=\"00:03.808\" end=\"00:04.665\">colour <\/span>\n        <span begin=\"00:04.665\" end=\"00:05.093\">and <\/span>\n        <span begin=\"00:05.093\" end=\"00:06.015\">fracture <\/span>\n        <span begin=\"00:06.015\" end=\"00:06.443\">the <\/span>\n        <span begin=\"00:06.443\" end=\"00:06.940\">light<\/span>\n      <\/p>\n      <p begin=\"00:06.940\" end=\"00:10.960\">\n        <span begin=\"00:06.940\" end=\"00:07.686\">You <\/span>\n        <span begin=\"00:07.686\" end=\"00:08.547\">can&apos;t <\/span>\n        <span begin=\"00:08.547\" end=\"00:09.351\">help <\/span>\n        <span begin=\"00:09.351\" end=\"00:10.097\">but <\/span>\n        <span begin=\"00:10.097\" end=\"00:10.960\">shine<\/span>\n      <\/p>\n      <p begin=\"00:10.960\" end=\"00:13.400\">\n        <span begin=\"00:10.960\" end=\"00:11.570\">And <\/span>\n        <span begin=\"00:11.570\" end=\"00:12.086\">I <\/span>\n        <span begin=\"00:12.086\" end=\"00:12.742\">know <\/span>\n        <span begin=\"00:12.742\" end=\"00:13.400\">that<\/span>\n      <\/p>\n      <p begin=\"00:13.400\" end=\"00:17.360\">\n        <span begin=\"00:13.400\" end=\"00:13.885\">You <\/span>\n        <span begin=\"00:13.885\" end=\"00:14.818\">carry <\/span>\n        <span begin=\"00:14.818\" end=\"00:15.303\">the <\/span>\n        <span begin=\"00:15.303\" end=\"00:15.863\">world <\/span>\n        <span begin=\"00:15.863\" end=\"00:16.311\">on <\/span>\n        <span begin=\"00:16.311\" end=\"00:16.834\">your <\/span>\n        <span begin=\"00:16.834\" end=\"00:17.360\">back<\/span>\n      <\/p>\n      <p begin=\"00:17.360\" end=\"00:21.950\">\n        <span begin=\"00:17.360\" end=\"00:18.115\">But <\/span>\n        <span begin=\"00:18.115\" end=\"00:18.928\">look <\/span>\n        <span begin=\"00:18.928\" end=\"00:19.625\">at <\/span>\n        <span begin=\"00:19.625\" end=\"00:20.380\">you <\/span>\n        <span begin=\"00:20.380\" end=\"00:21.950\">tonight<\/span>\n      <\/p>\n      <p begin=\"00:21.950\" end=\"00:24.720\">\n        <span begin=\"00:21.950\" end=\"00:22.321\">The <\/span>\n        <span begin=\"00:22.321\" end=\"00:22.949\">lights, <\/span>\n        <span begin=\"00:22.949\" end=\"00:23.348\">your <\/span>\n        <span begin=\"00:23.348\" end=\"00:23.919\">face, <\/span>\n        <span begin=\"00:23.919\" end=\"00:24.318\">your <\/span>\n        <span begin=\"00:24.318\" end=\"00:24.720\">eyes<\/span>\n      <\/p>\n      <p begin=\"00:24.720\" end=\"00:31.080\">\n        <span begin=\"00:24.720\" end=\"00:26.628\">Exploding <\/span>\n        <span begin=\"00:26.628\" end=\"00:27.312\">like <\/span>\n        <span begin=\"00:27.312\" end=\"00:29.220\">fireworks <\/span>\n        <span begin=\"00:29.220\" end=\"00:29.807\">in <\/span>\n        <span begin=\"00:29.807\" end=\"00:30.443\">the <\/span>\n        <span begin=\"00:30.443\" end=\"00:31.080\">sky<\/span>\n      <\/p>\n      <p begin=\"00:31.080\" end=\"00:31.770\">\n        <span begin=\"00:31.080\" end=\"00:31.770\">Sapphire<\/span>\n      <\/p>\n      <p begin=\"00:31.770\" end=\"00:33.640\">\n        <span begin=\"00:31.770\" end=\"00:32.078\">Touching <\/span>\n        <span begin=\"00:32.078\" end=\"00:32.210\">on <\/span>\n        <span begin=\"00:32.210\" end=\"00:32.364\">your <\/span>\n        <span begin=\"00:32.364\" end=\"00:32.628\">body <\/span>\n        <span begin=\"00:32.628\" end=\"00:32.903\">while <\/span>\n        <span begin=\"00:32.903\" end=\"00:33.079\">you&apos;re <\/span>\n        <span begin=\"00:33.079\" end=\"00:33.376\">pushing <\/span>\n        <span begin=\"00:33.376\" end=\"00:33.508\">on <\/span>\n        <span begin=\"00:33.508\" end=\"00:33.640\">me<\/span>\n      <\/p>\n      <p begin=\"00:33.640\" end=\"00:36.200\">\n        <span begin=\"00:33.640\" end=\"00:33.874\">Don&apos;t <\/span>\n        <span begin=\"00:33.874\" end=\"00:34.076\">you <\/span>\n        <span begin=\"00:34.076\" end=\"00:34.278\">end <\/span>\n        <span begin=\"00:34.278\" end=\"00:34.480\">the <\/span>\n        <span begin=\"00:34.480\" end=\"00:34.963\">party, <\/span>\n        <span begin=\"00:34.963\" end=\"00:35.134\">I <\/span>\n        <span begin=\"00:35.134\" end=\"00:35.368\">could <\/span>\n        <span begin=\"00:35.368\" end=\"00:35.555\">do <\/span>\n        <span begin=\"00:35.555\" end=\"00:35.773\">this <\/span>\n        <span begin=\"00:35.773\" end=\"00:35.975\">all <\/span>\n        <span begin=\"00:35.975\" end=\"00:36.200\">week<\/span>\n      <\/p>\n      <p begin=\"00:36.200\" end=\"00:38.670\">\n        <span begin=\"00:36.200\" end=\"00:36.386\">We&apos;ll <\/span>\n        <span begin=\"00:36.386\" end=\"00:36.534\">be <\/span>\n        <span begin=\"00:36.534\" end=\"00:36.869\">dancing <\/span>\n        <span begin=\"00:36.869\" end=\"00:37.042\">till <\/span>\n        <span begin=\"00:37.042\" end=\"00:37.203\">the <\/span>\n        <span begin=\"00:37.203\" end=\"00:37.612\">morning, <\/span>\n        <span begin=\"00:37.612\" end=\"00:37.760\">go <\/span>\n        <span begin=\"00:37.760\" end=\"00:37.908\">to <\/span>\n        <span begin=\"00:37.908\" end=\"00:38.143\">bed, <\/span>\n        <span begin=\"00:38.143\" end=\"00:38.291\">we <\/span>\n        <span begin=\"00:38.291\" end=\"00:38.477\">won&apos;t <\/span>\n        <span begin=\"00:38.477\" end=\"00:38.670\">sleep<\/span>\n      <\/p>\n      <p begin=\"00:38.670\" end=\"00:41.720\">\n        <span begin=\"00:38.670\" end=\"00:39.318\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"00:39.318\" end=\"00:39.772\">ਚਮਕੇ <\/span>\n        <span begin=\"00:39.772\" end=\"00:40.291\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"00:40.291\" end=\"00:40.745\">ਵਰਗੀ <\/span>\n        <span begin=\"00:40.745\" end=\"00:41.720\">(Sapphire)<\/span>\n      <\/p>\n      <p begin=\"00:41.720\" end=\"00:43.800\">\n        <span begin=\"00:41.720\" end=\"00:42.062\">Touching <\/span>\n        <span begin=\"00:42.062\" end=\"00:42.208\">on <\/span>\n        <span begin=\"00:42.208\" end=\"00:42.379\">your <\/span>\n        <span begin=\"00:42.379\" end=\"00:42.672\">body <\/span>\n        <span begin=\"00:42.672\" end=\"00:42.977\">while <\/span>\n        <span begin=\"00:42.977\" end=\"00:43.172\">you&apos;re <\/span>\n        <span begin=\"00:43.172\" end=\"00:43.502\">pushing <\/span>\n        <span begin=\"00:43.502\" end=\"00:43.648\">on <\/span>\n        <span begin=\"00:43.648\" end=\"00:43.800\">me<\/span>\n      <\/p>\n      <p begin=\"00:43.800\" end=\"00:46.360\">\n        <span begin=\"00:43.800\" end=\"00:44.034\">Don&apos;t <\/span>\n        <span begin=\"00:44.034\" end=\"00:44.236\">you <\/span>\n        <span begin=\"00:44.236\" end=\"00:44.438\">end <\/span>\n        <span begin=\"00:44.438\" end=\"00:44.640\">the <\/span>\n        <span begin=\"00:44.640\" end=\"00:45.123\">party, <\/span>\n        <span begin=\"00:45.123\" end=\"00:45.294\">I <\/span>\n        <span begin=\"00:45.294\" end=\"00:45.528\">could <\/span>\n        <span begin=\"00:45.528\" end=\"00:45.715\">do <\/span>\n        <span begin=\"00:45.715\" end=\"00:45.933\">this <\/span>\n        <span begin=\"00:45.933\" end=\"00:46.135\">all <\/span>\n        <span begin=\"00:46.135\" end=\"00:46.360\">week<\/span>\n      <\/p>\n      <p begin=\"00:46.360\" end=\"00:48.800\">\n        <span begin=\"00:46.360\" end=\"00:46.543\">We&apos;ll <\/span>\n        <span begin=\"00:46.543\" end=\"00:46.690\">be <\/span>\n        <span begin=\"00:46.690\" end=\"00:47.021\">dancing <\/span>\n        <span begin=\"00:47.021\" end=\"00:47.192\">till <\/span>\n        <span begin=\"00:47.192\" end=\"00:47.351\">the <\/span>\n        <span begin=\"00:47.351\" end=\"00:47.755\">morning, <\/span>\n        <span begin=\"00:47.755\" end=\"00:47.902\">go <\/span>\n        <span begin=\"00:47.902\" end=\"00:48.049\">to <\/span>\n        <span begin=\"00:48.049\" end=\"00:48.281\">bed, <\/span>\n        <span begin=\"00:48.281\" end=\"00:48.428\">we <\/span>\n        <span begin=\"00:48.428\" end=\"00:48.611\">won&apos;t <\/span>\n        <span begin=\"00:48.611\" end=\"00:48.800\">sleep<\/span>\n      <\/p>\n      <p begin=\"00:48.800\" end=\"00:52.640\">\n        <span begin=\"00:48.800\" end=\"00:50.000\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"00:50.000\" end=\"00:50.840\">ਚਮਕੇ <\/span>\n        <span begin=\"00:50.840\" end=\"00:51.800\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"00:51.800\" end=\"00:52.640\">ਵਰਗੀ<\/span>\n      <\/p>\n      <p begin=\"00:52.640\" end=\"00:54.240\">\n        <span begin=\"00:52.640\" end=\"00:52.817\">Look <\/span>\n        <span begin=\"00:52.817\" end=\"00:52.994\">what <\/span>\n        <span begin=\"00:52.994\" end=\"00:53.146\">we <\/span>\n        <span begin=\"00:53.146\" end=\"00:53.412\">found, <\/span>\n        <span begin=\"00:53.412\" end=\"00:53.729\">Karma <\/span>\n        <span begin=\"00:53.729\" end=\"00:54.071\">reached <\/span>\n        <span begin=\"00:54.071\" end=\"00:54.240\">out<\/span>\n      <\/p>\n      <p begin=\"00:54.240\" end=\"00:56.920\">\n        <span begin=\"00:54.240\" end=\"00:54.652\">Into <\/span>\n        <span begin=\"00:54.652\" end=\"00:54.875\">our <\/span>\n        <span begin=\"00:54.875\" end=\"00:55.149\">hearts <\/span>\n        <span begin=\"00:55.149\" end=\"00:55.372\">and <\/span>\n        <span begin=\"00:55.372\" end=\"00:55.818\">pulled <\/span>\n        <span begin=\"00:55.818\" end=\"00:56.024\">us <\/span>\n        <span begin=\"00:56.024\" end=\"00:56.230\">to <\/span>\n        <span begin=\"00:56.230\" end=\"00:56.453\">our <\/span>\n        <span begin=\"00:56.453\" end=\"00:56.693\">feet <\/span>\n        <span begin=\"00:56.693\" end=\"00:56.920\">now<\/span>\n      <\/p>\n      <p begin=\"00:56.920\" end=\"00:59.510\">\n        <span begin=\"00:56.920\" end=\"00:57.162\">You <\/span>\n        <span begin=\"00:57.162\" end=\"00:57.534\">know, <\/span>\n        <span begin=\"00:57.534\" end=\"00:57.776\">the <\/span>\n        <span begin=\"00:57.776\" end=\"00:58.055\">truth <\/span>\n        <span begin=\"00:58.055\" end=\"00:58.278\">is <\/span>\n        <span begin=\"00:58.278\" end=\"00:58.501\">we <\/span>\n        <span begin=\"00:58.501\" end=\"00:58.780\">could <\/span>\n        <span begin=\"00:58.780\" end=\"00:59.510\">disappear<\/span>\n      <\/p>\n      <p begin=\"00:59.510\" end=\"01:02.240\">\n        <span begin=\"00:59.510\" end=\"01:00.406\">Anywhere, <\/span>\n        <span begin=\"01:00.406\" end=\"01:00.650\">as <\/span>\n        <span begin=\"01:00.650\" end=\"01:00.935\">long <\/span>\n        <span begin=\"01:00.935\" end=\"01:01.179\">as <\/span>\n        <span begin=\"01:01.179\" end=\"01:01.403\">I <\/span>\n        <span begin=\"01:01.403\" end=\"01:01.667\">got <\/span>\n        <span begin=\"01:01.667\" end=\"01:01.931\">you <\/span>\n        <span begin=\"01:01.931\" end=\"01:02.240\">there<\/span>\n      <\/p>\n      <p begin=\"01:02.240\" end=\"01:04.680\">\n        <span begin=\"01:02.240\" end=\"01:02.511\">When <\/span>\n        <span begin=\"01:02.511\" end=\"01:02.762\">the <\/span>\n        <span begin=\"01:02.762\" end=\"01:03.013\">sun <\/span>\n        <span begin=\"01:03.013\" end=\"01:03.400\">dies, <\/span>\n        <span begin=\"01:03.400\" end=\"01:03.671\">till <\/span>\n        <span begin=\"01:03.671\" end=\"01:03.922\">the <\/span>\n        <span begin=\"01:03.922\" end=\"01:04.173\">day <\/span>\n        <span begin=\"01:04.173\" end=\"01:04.680\">shines<\/span>\n      <\/p>\n      <p begin=\"01:04.680\" end=\"01:07.310\">\n        <span begin=\"01:04.680\" end=\"01:04.943\">When <\/span>\n        <span begin=\"01:04.943\" end=\"01:05.187\">I&apos;m <\/span>\n        <span begin=\"01:05.187\" end=\"01:05.450\">with <\/span>\n        <span begin=\"01:05.450\" end=\"01:05.806\">you, <\/span>\n        <span begin=\"01:05.806\" end=\"01:06.313\">there&apos;s <\/span>\n        <span begin=\"01:06.313\" end=\"01:06.557\">not <\/span>\n        <span begin=\"01:06.557\" end=\"01:07.045\">enough <\/span>\n        <span begin=\"01:07.045\" end=\"01:07.310\">time<\/span>\n      <\/p>\n      <p begin=\"01:07.310\" end=\"01:09.630\">\n        <span begin=\"01:07.310\" end=\"01:07.497\">You <\/span>\n        <span begin=\"01:07.497\" end=\"01:07.684\">are <\/span>\n        <span begin=\"01:07.684\" end=\"01:07.856\">my <\/span>\n        <span begin=\"01:07.856\" end=\"01:08.086\">spring <\/span>\n        <span begin=\"01:08.086\" end=\"01:08.547\">flower, <\/span>\n        <span begin=\"01:08.547\" end=\"01:08.950\">watching <\/span>\n        <span begin=\"01:08.950\" end=\"01:09.137\">you <\/span>\n        <span begin=\"01:09.137\" end=\"01:09.439\">bloom, <\/span>\n        <span begin=\"01:09.439\" end=\"01:09.630\">wow<\/span>\n      <\/p>\n      <p begin=\"01:09.630\" end=\"01:12.190\">\n        <span begin=\"01:09.630\" end=\"01:09.841\">We <\/span>\n        <span begin=\"01:09.841\" end=\"01:10.070\">are <\/span>\n        <span begin=\"01:10.070\" end=\"01:10.882\">surrounded, <\/span>\n        <span begin=\"01:10.882\" end=\"01:11.111\">but <\/span>\n        <span begin=\"01:11.111\" end=\"01:11.305\">I <\/span>\n        <span begin=\"01:11.305\" end=\"01:11.534\">can <\/span>\n        <span begin=\"01:11.534\" end=\"01:11.957\">only <\/span>\n        <span begin=\"01:11.957\" end=\"01:12.190\">see<\/span>\n      <\/p>\n      <p begin=\"01:12.190\" end=\"01:14.960\">\n        <span begin=\"01:12.190\" end=\"01:12.561\">The <\/span>\n        <span begin=\"01:12.561\" end=\"01:13.189\">lights, <\/span>\n        <span begin=\"01:13.189\" end=\"01:13.588\">your <\/span>\n        <span begin=\"01:13.588\" end=\"01:14.159\">face, <\/span>\n        <span begin=\"01:14.159\" end=\"01:14.558\">your <\/span>\n        <span begin=\"01:14.558\" end=\"01:14.960\">eyes<\/span>\n      <\/p>\n      <p begin=\"01:14.960\" end=\"01:20.810\">\n        <span begin=\"01:14.960\" end=\"01:16.715\">Exploding <\/span>\n        <span begin=\"01:16.715\" end=\"01:17.345\">like <\/span>\n        <span begin=\"01:17.345\" end=\"01:19.100\">fireworks <\/span>\n        <span begin=\"01:19.100\" end=\"01:19.640\">in <\/span>\n        <span begin=\"01:19.640\" end=\"01:20.225\">the <\/span>\n        <span begin=\"01:20.225\" end=\"01:20.810\">sky<\/span>\n      <\/p>\n      <p begin=\"01:20.810\" end=\"01:22.320\">\n        <span begin=\"01:20.810\" end=\"01:22.320\">Sapphire<\/span>\n      <\/p>\n      <p begin=\"01:22.320\" end=\"01:24.190\">\n        <span begin=\"01:22.320\" end=\"01:22.628\">Touching <\/span>\n        <span begin=\"01:22.628\" end=\"01:22.760\">on <\/span>\n        <span begin=\"01:22.760\" end=\"01:22.914\">your <\/span>\n        <span begin=\"01:22.914\" end=\"01:23.178\">body <\/span>\n        <span begin=\"01:23.178\" end=\"01:23.453\">while <\/span>\n        <span begin=\"01:23.453\" end=\"01:23.629\">you&apos;re <\/span>\n        <span begin=\"01:23.629\" end=\"01:23.926\">pushing <\/span>\n        <span begin=\"01:23.926\" end=\"01:24.058\">on <\/span>\n        <span begin=\"01:24.058\" end=\"01:24.190\">me<\/span>\n      <\/p>\n      <p begin=\"01:24.190\" end=\"01:26.480\">\n        <span begin=\"01:24.190\" end=\"01:24.399\">Don&apos;t <\/span>\n        <span begin=\"01:24.399\" end=\"01:24.580\">you <\/span>\n        <span begin=\"01:24.580\" end=\"01:24.761\">end <\/span>\n        <span begin=\"01:24.761\" end=\"01:24.942\">the <\/span>\n        <span begin=\"01:24.942\" end=\"01:25.374\">party, <\/span>\n        <span begin=\"01:25.374\" end=\"01:25.527\">I <\/span>\n        <span begin=\"01:25.527\" end=\"01:25.736\">could <\/span>\n        <span begin=\"01:25.736\" end=\"01:25.903\">do <\/span>\n        <span begin=\"01:25.903\" end=\"01:26.098\">this <\/span>\n        <span begin=\"01:26.098\" end=\"01:26.279\">all <\/span>\n        <span begin=\"01:26.279\" end=\"01:26.480\">week<\/span>\n      <\/p>\n      <p begin=\"01:26.480\" end=\"01:29.310\">\n        <span begin=\"01:26.480\" end=\"01:26.693\">We&apos;ll <\/span>\n        <span begin=\"01:26.693\" end=\"01:26.863\">be <\/span>\n        <span begin=\"01:26.863\" end=\"01:27.246\">dancing <\/span>\n        <span begin=\"01:27.246\" end=\"01:27.445\">till <\/span>\n        <span begin=\"01:27.445\" end=\"01:27.629\">the <\/span>\n        <span begin=\"01:27.629\" end=\"01:28.098\">morning, <\/span>\n        <span begin=\"01:28.098\" end=\"01:28.268\">go <\/span>\n        <span begin=\"01:28.268\" end=\"01:28.438\">to <\/span>\n        <span begin=\"01:28.438\" end=\"01:28.708\">bed, <\/span>\n        <span begin=\"01:28.708\" end=\"01:28.878\">we <\/span>\n        <span begin=\"01:28.878\" end=\"01:29.091\">won&apos;t <\/span>\n        <span begin=\"01:29.091\" end=\"01:29.310\">sleep<\/span>\n      <\/p>\n      <p begin=\"01:29.310\" end=\"01:32.360\">\n        <span begin=\"01:29.310\" end=\"01:29.958\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"01:29.958\" end=\"01:30.412\">ਚਮਕੇ <\/span>\n        <span begin=\"01:30.412\" end=\"01:30.931\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"01:30.931\" end=\"01:31.385\">ਵਰਗੀ <\/span>\n        <span begin=\"01:31.385\" end=\"01:32.360\">(Sapphire)<\/span>\n      <\/p>\n      <p begin=\"01:32.360\" end=\"01:34.560\">\n        <span begin=\"01:32.360\" end=\"01:32.722\">Touching <\/span>\n        <span begin=\"01:32.722\" end=\"01:32.877\">on <\/span>\n        <span begin=\"01:32.877\" end=\"01:33.058\">your <\/span>\n        <span begin=\"01:33.058\" end=\"01:33.368\">body <\/span>\n        <span begin=\"01:33.368\" end=\"01:33.691\">while <\/span>\n        <span begin=\"01:33.691\" end=\"01:33.898\">you&apos;re <\/span>\n        <span begin=\"01:33.898\" end=\"01:34.247\">pushing <\/span>\n        <span begin=\"01:34.247\" end=\"01:34.402\">on <\/span>\n        <span begin=\"01:34.402\" end=\"01:34.560\">me<\/span>\n      <\/p>\n      <p begin=\"01:34.560\" end=\"01:37.440\">\n        <span begin=\"01:34.560\" end=\"01:34.823\">Don&apos;t <\/span>\n        <span begin=\"01:34.823\" end=\"01:35.051\">you <\/span>\n        <span begin=\"01:35.051\" end=\"01:35.279\">end <\/span>\n        <span begin=\"01:35.279\" end=\"01:35.507\">the <\/span>\n        <span begin=\"01:35.507\" end=\"01:36.051\">party, <\/span>\n        <span begin=\"01:36.051\" end=\"01:36.244\">I <\/span>\n        <span begin=\"01:36.244\" end=\"01:36.507\">could <\/span>\n        <span begin=\"01:36.507\" end=\"01:36.717\">do <\/span>\n        <span begin=\"01:36.717\" end=\"01:36.962\">this <\/span>\n        <span begin=\"01:36.962\" end=\"01:37.190\">all <\/span>\n        <span begin=\"01:37.190\" end=\"01:37.440\">week<\/span>\n      <\/p>\n      <p begin=\"01:37.440\" end=\"01:39.920\">\n        <span begin=\"01:37.440\" end=\"01:37.626\">We&apos;ll <\/span>\n        <span begin=\"01:37.626\" end=\"01:37.775\">be <\/span>\n        <span begin=\"01:37.775\" end=\"01:38.111\">dancing <\/span>\n        <span begin=\"01:38.111\" end=\"01:38.285\">till <\/span>\n        <span begin=\"01:38.285\" end=\"01:38.447\">the <\/span>\n        <span begin=\"01:38.447\" end=\"01:38.858\">morning, <\/span>\n        <span begin=\"01:38.858\" end=\"01:39.007\">go <\/span>\n        <span begin=\"01:39.007\" end=\"01:39.156\">to <\/span>\n        <span begin=\"01:39.156\" end=\"01:39.392\">bed, <\/span>\n        <span begin=\"01:39.392\" end=\"01:39.541\">we <\/span>\n        <span begin=\"01:39.541\" end=\"01:39.727\">won&apos;t <\/span>\n        <span begin=\"01:39.727\" end=\"01:39.920\">sleep<\/span>\n      <\/p>\n      <p begin=\"01:39.920\" end=\"01:43.480\">\n        <span begin=\"01:39.920\" end=\"01:40.677\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"01:40.677\" end=\"01:41.207\">ਚਮਕੇ <\/span>\n        <span begin=\"01:41.207\" end=\"01:41.812\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"01:41.812\" end=\"01:42.342\">ਵਰਗੀ <\/span>\n        <span begin=\"01:42.342\" end=\"01:43.480\">(Sapphire)<\/span>\n      <\/p>\n      <p begin=\"01:43.480\" end=\"01:45.600\">\n        <span begin=\"01:43.480\" end=\"01:44.126\">(ਮਹਿਰੂਨੀ <\/span>\n        <span begin=\"01:44.126\" end=\"01:44.557\">ਦੋ <\/span>\n        <span begin=\"01:44.557\" end=\"01:45.024\">ਨੈਣ <\/span>\n        <span begin=\"01:45.024\" end=\"01:45.600\">ਲੁਭਾਏ)<\/span>\n      <\/p>\n      <p begin=\"01:45.600\" end=\"01:47.800\">\n        <span begin=\"01:45.600\" end=\"01:45.989\">(ਚਾਂਦਨੀ <\/span>\n        <span begin=\"01:45.989\" end=\"01:46.447\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"01:46.447\" end=\"01:46.813\">ਚਮਕਾਏ) <\/span>\n        <span begin=\"01:46.813\" end=\"01:47.179\">You&apos;re <\/span>\n        <span begin=\"01:47.179\" end=\"01:47.800\">glowing<\/span>\n      <\/p>\n      <p begin=\"01:47.800\" end=\"01:50.210\">\n        <span begin=\"01:47.800\" end=\"01:48.275\">(ਨੂਰ <\/span>\n        <span begin=\"01:48.275\" end=\"01:48.682\">ਦਾ <\/span>\n        <span begin=\"01:48.682\" end=\"01:49.191\">ਮੈਨੂੰ <\/span>\n        <span begin=\"01:49.191\" end=\"01:49.666\">ਘੁੱਟ <\/span>\n        <span begin=\"01:49.666\" end=\"01:50.210\">ਪਿਲਾਏ)<\/span>\n      <\/p>\n      <p begin=\"01:50.210\" end=\"01:52.360\">\n        <span begin=\"01:50.210\" end=\"01:51.060\">(ਜਿੰਦੜੀ <\/span>\n        <span begin=\"01:51.060\" end=\"01:51.659\">ਬਣ <\/span>\n        <span begin=\"01:51.659\" end=\"01:52.360\">ਜਾਏ)<\/span>\n      <\/p>\n      <p begin=\"01:52.360\" end=\"01:55.050\">\n        <span begin=\"01:52.360\" end=\"01:52.740\">You&apos;re <\/span>\n        <span begin=\"01:52.740\" end=\"01:53.382\">glowing <\/span>\n        <span begin=\"01:53.382\" end=\"01:53.786\">(ਅੰਬਰਾਂ <\/span>\n        <span begin=\"01:53.786\" end=\"01:54.071\">ਦੀ <\/span>\n        <span begin=\"01:54.071\" end=\"01:54.380\">ਤੂੰ <\/span>\n        <span begin=\"01:54.380\" end=\"01:54.713\">ਝਾਲਰ <\/span>\n        <span begin=\"01:54.713\" end=\"01:55.050\">ਪਾਏ)<\/span>\n      <\/p>\n      <p begin=\"01:55.050\" end=\"01:57.000\">\n        <span begin=\"01:55.050\" end=\"01:55.191\">You <\/span>\n        <span begin=\"01:55.191\" end=\"01:55.474\">colour <\/span>\n        <span begin=\"01:55.474\" end=\"01:55.615\">and <\/span>\n        <span begin=\"01:55.615\" end=\"01:55.920\">fracture <\/span>\n        <span begin=\"01:55.920\" end=\"01:56.061\">the <\/span>\n        <span begin=\"01:56.061\" end=\"01:56.224\">light <\/span>\n        <span begin=\"01:56.224\" end=\"01:56.409\">(ਬਦਲ਼ਾਂ <\/span>\n        <span begin=\"01:56.409\" end=\"01:56.539\">ਦੇ <\/span>\n        <span begin=\"01:56.539\" end=\"01:56.691\">ਲੱਠੇ <\/span>\n        <span begin=\"01:56.691\" end=\"01:56.832\">ਸੂਟ <\/span>\n        <span begin=\"01:56.832\" end=\"01:57.000\">ਬਣਾਏ)<\/span>\n      <\/p>\n      <p begin=\"01:57.000\" end=\"02:02.220\">\n        <span begin=\"01:57.000\" end=\"01:57.464\">But <\/span>\n        <span begin=\"01:57.464\" end=\"01:57.964\">look <\/span>\n        <span begin=\"01:57.964\" end=\"01:58.393\">at <\/span>\n        <span begin=\"01:58.393\" end=\"01:58.857\">you <\/span>\n        <span begin=\"01:58.857\" end=\"01:59.822\">tonight <\/span>\n        <span begin=\"01:59.822\" end=\"02:00.429\">(ਕਿਰਣਾਂ <\/span>\n        <span begin=\"02:00.429\" end=\"02:00.893\">ਨੂੰ <\/span>\n        <span begin=\"02:00.893\" end=\"02:01.679\">ਰੰਗ-ਰੂਪ <\/span>\n        <span begin=\"02:01.679\" end=\"02:02.220\">ਛਡਾਏ)<\/span>\n      <\/p>\n      <p begin=\"02:02.220\" end=\"02:02.710\">\n        <span begin=\"02:02.220\" end=\"02:02.334\">(ਮੋਰਣੀ <\/span>\n        <span begin=\"02:02.334\" end=\"02:02.419\">ਬਣ <\/span>\n        <span begin=\"02:02.419\" end=\"02:02.519\">ਜਾਏ) <\/span>\n        <span begin=\"02:02.519\" end=\"02:02.710\">Sapphire<\/span>\n      <\/p>\n      <p begin=\"02:02.710\" end=\"02:04.920\">\n        <span begin=\"02:02.710\" end=\"02:03.262\">ਪਲਕਾਂ <\/span>\n        <span begin=\"02:03.262\" end=\"02:03.851\">ਉਠਾਵਤੇ <\/span>\n        <span begin=\"02:03.851\" end=\"02:04.403\">ਹਨੇਰੇ <\/span>\n        <span begin=\"02:04.403\" end=\"02:04.920\">ਘਟਦੇ<\/span>\n      <\/p>\n      <p begin=\"02:04.920\" end=\"02:07.360\">\n        <span begin=\"02:04.920\" end=\"02:05.496\">ਉਂਗਲਾ’ਚ <\/span>\n        <span begin=\"02:05.496\" end=\"02:05.970\">ਪਾਕੇ <\/span>\n        <span begin=\"02:05.970\" end=\"02:06.410\">ਤੂੰ <\/span>\n        <span begin=\"02:06.410\" end=\"02:06.850\">ਧਨਕ <\/span>\n        <span begin=\"02:06.850\" end=\"02:07.360\">ਫਿਰਦੀ<\/span>\n      <\/p>\n      <p begin=\"02:07.360\" end=\"02:09.830\">\n        <span begin=\"02:07.360\" end=\"02:07.668\">ਕਿਵੇ <\/span>\n        <span begin=\"02:07.668\" end=\"02:07.954\">ਰੱਬ <\/span>\n        <span begin=\"02:07.954\" end=\"02:08.218\">ਨੇ <\/span>\n        <span begin=\"02:08.218\" end=\"02:08.482\">ਦੋ <\/span>\n        <span begin=\"02:08.482\" end=\"02:08.790\">ਨੈਨਾ <\/span>\n        <span begin=\"02:08.790\" end=\"02:09.076\">ਉਤੇ <\/span>\n        <span begin=\"02:09.076\" end=\"02:09.384\">ਨੀਲਮ <\/span>\n        <span begin=\"02:09.384\" end=\"02:09.830\">ਜਾੜੇ?<\/span>\n      <\/p>\n      <p begin=\"02:09.830\" end=\"02:12.640\">\n        <span begin=\"02:09.830\" end=\"02:10.427\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"02:10.427\" end=\"02:10.845\">ਚਮਕੇ <\/span>\n        <span begin=\"02:10.845\" end=\"02:11.323\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"02:11.323\" end=\"02:11.741\">ਵਰਗੀ <\/span>\n        <span begin=\"02:11.741\" end=\"02:12.640\">(Sapphire)<\/span>\n      <\/p>\n      <p begin=\"02:12.640\" end=\"02:14.840\">\n        <span begin=\"02:12.640\" end=\"02:13.002\">Touching <\/span>\n        <span begin=\"02:13.002\" end=\"02:13.157\">on <\/span>\n        <span begin=\"02:13.157\" end=\"02:13.338\">your <\/span>\n        <span begin=\"02:13.338\" end=\"02:13.648\">body <\/span>\n        <span begin=\"02:13.648\" end=\"02:13.971\">while <\/span>\n        <span begin=\"02:13.971\" end=\"02:14.178\">you&apos;re <\/span>\n        <span begin=\"02:14.178\" end=\"02:14.527\">pushing <\/span>\n        <span begin=\"02:14.527\" end=\"02:14.682\">on <\/span>\n        <span begin=\"02:14.682\" end=\"02:14.840\">me<\/span>\n      <\/p>\n      <p begin=\"02:14.840\" end=\"02:17.360\">\n        <span begin=\"02:14.840\" end=\"02:15.070\">Don&apos;t <\/span>\n        <span begin=\"02:15.070\" end=\"02:15.269\">you <\/span>\n        <span begin=\"02:15.269\" end=\"02:15.468\">end <\/span>\n        <span begin=\"02:15.468\" end=\"02:15.667\">the <\/span>\n        <span begin=\"02:15.667\" end=\"02:16.143\">party, <\/span>\n        <span begin=\"02:16.143\" end=\"02:16.312\">I <\/span>\n        <span begin=\"02:16.312\" end=\"02:16.542\">could <\/span>\n        <span begin=\"02:16.542\" end=\"02:16.726\">do <\/span>\n        <span begin=\"02:16.726\" end=\"02:16.941\">this <\/span>\n        <span begin=\"02:16.941\" end=\"02:17.140\">all <\/span>\n        <span begin=\"02:17.140\" end=\"02:17.360\">week<\/span>\n      <\/p>\n      <p begin=\"02:17.360\" end=\"02:20.150\">\n        <span begin=\"02:17.360\" end=\"02:17.570\">We&apos;ll <\/span>\n        <span begin=\"02:17.570\" end=\"02:17.738\">be <\/span>\n        <span begin=\"02:17.738\" end=\"02:18.116\">dancing <\/span>\n        <span begin=\"02:18.116\" end=\"02:18.312\">till <\/span>\n        <span begin=\"02:18.312\" end=\"02:18.494\">the <\/span>\n        <span begin=\"02:18.494\" end=\"02:18.956\">morning, <\/span>\n        <span begin=\"02:18.956\" end=\"02:19.124\">go <\/span>\n        <span begin=\"02:19.124\" end=\"02:19.292\">to <\/span>\n        <span begin=\"02:19.292\" end=\"02:19.558\">bed, <\/span>\n        <span begin=\"02:19.558\" end=\"02:19.726\">we <\/span>\n        <span begin=\"02:19.726\" end=\"02:19.936\">won&apos;t <\/span>\n        <span begin=\"02:19.936\" end=\"02:20.150\">sleep<\/span>\n      <\/p>\n      <p begin=\"02:20.150\" end=\"02:22.900\">\n        <span begin=\"02:20.150\" end=\"02:20.735\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"02:20.735\" end=\"02:21.144\">ਚਮਕੇ <\/span>\n        <span begin=\"02:21.144\" end=\"02:21.612\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"02:21.612\" end=\"02:22.021\">ਵਰਗੀ <\/span>\n        <span begin=\"02:22.021\" end=\"02:22.900\">(Sapphire)<\/span>\n      <\/p>\n      <p begin=\"02:22.900\" end=\"02:24.940\">\n        <span begin=\"02:22.900\" end=\"02:23.112\">Touching <\/span>\n        <span begin=\"02:23.112\" end=\"02:23.203\">on <\/span>\n        <span begin=\"02:23.203\" end=\"02:23.309\">your <\/span>\n        <span begin=\"02:23.309\" end=\"02:23.491\">body <\/span>\n        <span begin=\"02:23.491\" end=\"02:23.680\">while <\/span>\n        <span begin=\"02:23.680\" end=\"02:23.801\">you&apos;re <\/span>\n        <span begin=\"02:23.801\" end=\"02:24.005\">pushing <\/span>\n        <span begin=\"02:24.005\" end=\"02:24.096\">on <\/span>\n        <span begin=\"02:24.096\" end=\"02:24.187\">me <\/span>\n        <span begin=\"02:24.187\" end=\"02:24.293\">(The <\/span>\n        <span begin=\"02:24.293\" end=\"02:24.459\">lights, <\/span>\n        <span begin=\"02:24.459\" end=\"02:24.565\">your <\/span>\n        <span begin=\"02:24.565\" end=\"02:24.716\">face, <\/span>\n        <span begin=\"02:24.716\" end=\"02:24.822\">your <\/span>\n        <span begin=\"02:24.822\" end=\"02:24.940\">eyes)<\/span>\n      <\/p>\n      <p begin=\"02:24.940\" end=\"02:27.380\">\n        <span begin=\"02:24.940\" end=\"02:25.118\">Don&apos;t <\/span>\n        <span begin=\"02:25.118\" end=\"02:25.272\">you <\/span>\n        <span begin=\"02:25.272\" end=\"02:25.426\">end <\/span>\n        <span begin=\"02:25.426\" end=\"02:25.580\">the <\/span>\n        <span begin=\"02:25.580\" end=\"02:25.948\">party, <\/span>\n        <span begin=\"02:25.948\" end=\"02:26.078\">I <\/span>\n        <span begin=\"02:26.078\" end=\"02:26.256\">could <\/span>\n        <span begin=\"02:26.256\" end=\"02:26.398\">do <\/span>\n        <span begin=\"02:26.398\" end=\"02:26.564\">this <\/span>\n        <span begin=\"02:26.564\" end=\"02:26.718\">all <\/span>\n        <span begin=\"02:26.718\" end=\"02:26.884\">week <\/span>\n        <span begin=\"02:26.884\" end=\"02:27.380\">(Exploding)<\/span>\n      <\/p>\n      <p begin=\"02:27.380\" end=\"02:29.940\">\n        <span begin=\"02:27.380\" end=\"02:27.511\">We&apos;ll <\/span>\n        <span begin=\"02:27.511\" end=\"02:27.616\">be <\/span>\n        <span begin=\"02:27.616\" end=\"02:27.852\">dancing <\/span>\n        <span begin=\"02:27.852\" end=\"02:27.974\">till <\/span>\n        <span begin=\"02:27.974\" end=\"02:28.087\">the <\/span>\n        <span begin=\"02:28.087\" end=\"02:28.376\">morning, <\/span>\n        <span begin=\"02:28.376\" end=\"02:28.481\">go <\/span>\n        <span begin=\"02:28.481\" end=\"02:28.586\">to <\/span>\n        <span begin=\"02:28.586\" end=\"02:28.752\">bed, <\/span>\n        <span begin=\"02:28.752\" end=\"02:28.857\">we <\/span>\n        <span begin=\"02:28.857\" end=\"02:28.988\">won&apos;t <\/span>\n        <span begin=\"02:28.988\" end=\"02:29.119\">sleep <\/span>\n        <span begin=\"02:29.119\" end=\"02:29.250\">(Like <\/span>\n        <span begin=\"02:29.250\" end=\"02:29.591\">fireworks <\/span>\n        <span begin=\"02:29.591\" end=\"02:29.696\">in <\/span>\n        <span begin=\"02:29.696\" end=\"02:29.809\">the <\/span>\n        <span begin=\"02:29.809\" end=\"02:29.940\">sky)<\/span>\n      <\/p>\n      <p begin=\"02:29.940\" end=\"02:32.940\">\n        <span begin=\"02:29.940\" end=\"02:30.578\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"02:30.578\" end=\"02:31.024\">ਚਮਕੇ <\/span>\n        <span begin=\"02:31.024\" end=\"02:31.534\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"02:31.534\" end=\"02:31.980\">ਵਰਗੀ <\/span>\n        <span begin=\"02:31.980\" end=\"02:32.940\">(Sapphire)<\/span>\n      <\/p>\n      <p begin=\"02:32.940\" end=\"02:35.020\">\n        <span begin=\"02:32.940\" end=\"02:33.156\">Touching <\/span>\n        <span begin=\"02:33.156\" end=\"02:33.248\">on <\/span>\n        <span begin=\"02:33.248\" end=\"02:33.356\">your <\/span>\n        <span begin=\"02:33.356\" end=\"02:33.541\">body <\/span>\n        <span begin=\"02:33.541\" end=\"02:33.734\">while <\/span>\n        <span begin=\"02:33.734\" end=\"02:33.857\">you&apos;re <\/span>\n        <span begin=\"02:33.857\" end=\"02:34.065\">pushing <\/span>\n        <span begin=\"02:34.065\" end=\"02:34.157\">on <\/span>\n        <span begin=\"02:34.157\" end=\"02:34.249\">me <\/span>\n        <span begin=\"02:34.249\" end=\"02:34.357\">(The <\/span>\n        <span begin=\"02:34.357\" end=\"02:34.527\">lights, <\/span>\n        <span begin=\"02:34.527\" end=\"02:34.635\">your <\/span>\n        <span begin=\"02:34.635\" end=\"02:34.789\">face, <\/span>\n        <span begin=\"02:34.789\" end=\"02:34.897\">your <\/span>\n        <span begin=\"02:34.897\" end=\"02:35.020\">eyes)<\/span>\n      <\/p>\n      <p begin=\"02:35.020\" end=\"02:37.590\">\n        <span begin=\"02:35.020\" end=\"02:35.208\">Don&apos;t <\/span>\n        <span begin=\"02:35.208\" end=\"02:35.370\">you <\/span>\n        <span begin=\"02:35.370\" end=\"02:35.532\">end <\/span>\n        <span begin=\"02:35.532\" end=\"02:35.694\">the <\/span>\n        <span begin=\"02:35.694\" end=\"02:36.082\">party, <\/span>\n        <span begin=\"02:36.082\" end=\"02:36.219\">I <\/span>\n        <span begin=\"02:36.219\" end=\"02:36.407\">could <\/span>\n        <span begin=\"02:36.407\" end=\"02:36.557\">do <\/span>\n        <span begin=\"02:36.557\" end=\"02:36.732\">this <\/span>\n        <span begin=\"02:36.732\" end=\"02:36.894\">all <\/span>\n        <span begin=\"02:36.894\" end=\"02:37.069\">week <\/span>\n        <span begin=\"02:37.069\" end=\"02:37.590\">(Exploding)<\/span>\n      <\/p>\n      <p begin=\"02:37.590\" end=\"02:40.060\">\n        <span begin=\"02:37.590\" end=\"02:37.716\">We&apos;ll <\/span>\n        <span begin=\"02:37.716\" end=\"02:37.817\">be <\/span>\n        <span begin=\"02:37.817\" end=\"02:38.045\">dancing <\/span>\n        <span begin=\"02:38.045\" end=\"02:38.163\">till <\/span>\n        <span begin=\"02:38.163\" end=\"02:38.272\">the <\/span>\n        <span begin=\"02:38.272\" end=\"02:38.551\">morning, <\/span>\n        <span begin=\"02:38.551\" end=\"02:38.652\">go <\/span>\n        <span begin=\"02:38.652\" end=\"02:38.753\">to <\/span>\n        <span begin=\"02:38.753\" end=\"02:38.913\">bed, <\/span>\n        <span begin=\"02:38.913\" end=\"02:39.014\">we <\/span>\n        <span begin=\"02:39.014\" end=\"02:39.140\">won&apos;t <\/span>\n        <span begin=\"02:39.140\" end=\"02:39.266\">sleep <\/span>\n        <span begin=\"02:39.266\" end=\"02:39.392\">(Like <\/span>\n        <span begin=\"02:39.392\" end=\"02:39.721\">fireworks <\/span>\n        <span begin=\"02:39.721\" end=\"02:39.822\">in <\/span>\n        <span begin=\"02:39.822\" end=\"02:39.931\">the <\/span>\n        <span begin=\"02:39.931\" end=\"02:40.060\">sky)<\/span>\n      <\/p>\n      <p begin=\"02:40.060\" end=\"02:43.030\">\n        <span begin=\"02:40.060\" end=\"02:40.691\">ਚਮ-ਚਮ <\/span>\n        <span begin=\"02:40.691\" end=\"02:41.133\">ਚਮਕੇ <\/span>\n        <span begin=\"02:41.133\" end=\"02:41.638\">ਸਿਤਾਰੇ <\/span>\n        <span begin=\"02:41.638\" end=\"02:42.080\">ਵਰਗੀ <\/span>\n        <span begin=\"02:42.080\" end=\"02:43.030\">(Sapphire)<\/span>\n      <\/p>\n      <p begin=\"02:43.030\" end=\"02:46.260\">\n        <span begin=\"02:43.030\" end=\"02:43.462\">The <\/span>\n        <span begin=\"02:43.462\" end=\"02:44.194\">lights, <\/span>\n        <span begin=\"02:44.194\" end=\"02:44.660\">your <\/span>\n        <span begin=\"02:44.660\" end=\"02:45.325\">face, <\/span>\n        <span begin=\"02:45.325\" end=\"02:45.791\">your <\/span>\n        <span begin=\"02:45.791\" end=\"02:46.260\">eyes<\/span>\n      <\/p>\n      <p begin=\"02:46.260\" end=\"02:52.800\">\n        <span begin=\"02:46.260\" end=\"02:48.222\">Exploding <\/span>\n        <span begin=\"02:48.222\" end=\"02:48.926\">like <\/span>\n        <span begin=\"02:48.926\" end=\"02:50.888\">fireworks <\/span>\n        <span begin=\"02:50.888\" end=\"02:51.491\">in <\/span>\n        <span begin=\"02:51.491\" end=\"02:52.145\">the <\/span>\n        <span begin=\"02:52.145\" end=\"02:52.800\">sky<\/span>\n      <\/p>\n      <p begin=\"02:52.800\" end=\"02:57.800\">\n        <span begin=\"02:52.800\" end=\"02:57.800\">Sapphire<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 0,
+      "endTime": 3380,
+      "text": "You're glowing",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 1257,
+          "word": "You're "
+        },
+        {
+          "startTime": 1257,
+          "endTime": 3380,
+          "word": "glowing"
+        }
+      ]
+    },
+    {
+      "time": 3380,
+      "endTime": 6940,
+      "text": "You colour and fracture the light",
+      "words": [
+        {
+          "startTime": 3380,
+          "endTime": 3808,
+          "word": "You "
+        },
+        {
+          "startTime": 3808,
+          "endTime": 4665,
+          "word": "colour "
+        },
+        {
+          "startTime": 4665,
+          "endTime": 5093,
+          "word": "and "
+        },
+        {
+          "startTime": 5093,
+          "endTime": 6015,
+          "word": "fracture "
+        },
+        {
+          "startTime": 6015,
+          "endTime": 6443,
+          "word": "the "
+        },
+        {
+          "startTime": 6443,
+          "endTime": 6940,
+          "word": "light"
+        }
+      ]
+    },
+    {
+      "time": 6940,
+      "endTime": 10960,
+      "text": "You can't help but shine",
+      "words": [
+        {
+          "startTime": 6940,
+          "endTime": 7686,
+          "word": "You "
+        },
+        {
+          "startTime": 7686,
+          "endTime": 8547,
+          "word": "can't "
+        },
+        {
+          "startTime": 8547,
+          "endTime": 9351,
+          "word": "help "
+        },
+        {
+          "startTime": 9351,
+          "endTime": 10097,
+          "word": "but "
+        },
+        {
+          "startTime": 10097,
+          "endTime": 10960,
+          "word": "shine"
+        }
+      ]
+    },
+    {
+      "time": 10960,
+      "endTime": 13400,
+      "text": "And I know that",
+      "words": [
+        {
+          "startTime": 10960,
+          "endTime": 11570,
+          "word": "And "
+        },
+        {
+          "startTime": 11570,
+          "endTime": 12086,
+          "word": "I "
+        },
+        {
+          "startTime": 12086,
+          "endTime": 12742,
+          "word": "know "
+        },
+        {
+          "startTime": 12742,
+          "endTime": 13400,
+          "word": "that"
+        }
+      ]
+    },
+    {
+      "time": 13400,
+      "endTime": 17360,
+      "text": "You carry the world on your back",
+      "words": [
+        {
+          "startTime": 13400,
+          "endTime": 13885,
+          "word": "You "
+        },
+        {
+          "startTime": 13885,
+          "endTime": 14818,
+          "word": "carry "
+        },
+        {
+          "startTime": 14818,
+          "endTime": 15303,
+          "word": "the "
+        },
+        {
+          "startTime": 15303,
+          "endTime": 15863,
+          "word": "world "
+        },
+        {
+          "startTime": 15863,
+          "endTime": 16311,
+          "word": "on "
+        },
+        {
+          "startTime": 16311,
+          "endTime": 16834,
+          "word": "your "
+        },
+        {
+          "startTime": 16834,
+          "endTime": 17360,
+          "word": "back"
+        }
+      ]
+    },
+    {
+      "time": 17360,
+      "endTime": 21950,
+      "text": "But look at you tonight",
+      "words": [
+        {
+          "startTime": 17360,
+          "endTime": 18115,
+          "word": "But "
+        },
+        {
+          "startTime": 18115,
+          "endTime": 18928,
+          "word": "look "
+        },
+        {
+          "startTime": 18928,
+          "endTime": 19625,
+          "word": "at "
+        },
+        {
+          "startTime": 19625,
+          "endTime": 20380,
+          "word": "you "
+        },
+        {
+          "startTime": 20380,
+          "endTime": 21950,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 21950,
+      "endTime": 24720,
+      "text": "The lights, your face, your eyes",
+      "words": [
+        {
+          "startTime": 21950,
+          "endTime": 22321,
+          "word": "The "
+        },
+        {
+          "startTime": 22321,
+          "endTime": 22949,
+          "word": "lights, "
+        },
+        {
+          "startTime": 22949,
+          "endTime": 23348,
+          "word": "your "
+        },
+        {
+          "startTime": 23348,
+          "endTime": 23919,
+          "word": "face, "
+        },
+        {
+          "startTime": 23919,
+          "endTime": 24318,
+          "word": "your "
+        },
+        {
+          "startTime": 24318,
+          "endTime": 24720,
+          "word": "eyes"
+        }
+      ]
+    },
+    {
+      "time": 24720,
+      "endTime": 31080,
+      "text": "Exploding like fireworks in the sky",
+      "words": [
+        {
+          "startTime": 24720,
+          "endTime": 26628,
+          "word": "Exploding "
+        },
+        {
+          "startTime": 26628,
+          "endTime": 27312,
+          "word": "like "
+        },
+        {
+          "startTime": 27312,
+          "endTime": 29220,
+          "word": "fireworks "
+        },
+        {
+          "startTime": 29220,
+          "endTime": 29807,
+          "word": "in "
+        },
+        {
+          "startTime": 29807,
+          "endTime": 30443,
+          "word": "the "
+        },
+        {
+          "startTime": 30443,
+          "endTime": 31080,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 31080,
+      "endTime": 31770,
+      "text": "Sapphire",
+      "words": [
+        {
+          "startTime": 31080,
+          "endTime": 31770,
+          "word": "Sapphire"
+        }
+      ]
+    },
+    {
+      "time": 31770,
+      "endTime": 33640,
+      "text": "Touching on your body while you're pushing on me",
+      "words": [
+        {
+          "startTime": 31770,
+          "endTime": 32078,
+          "word": "Touching "
+        },
+        {
+          "startTime": 32078,
+          "endTime": 32210,
+          "word": "on "
+        },
+        {
+          "startTime": 32210,
+          "endTime": 32364,
+          "word": "your "
+        },
+        {
+          "startTime": 32364,
+          "endTime": 32628,
+          "word": "body "
+        },
+        {
+          "startTime": 32628,
+          "endTime": 32903,
+          "word": "while "
+        },
+        {
+          "startTime": 32903,
+          "endTime": 33079,
+          "word": "you're "
+        },
+        {
+          "startTime": 33079,
+          "endTime": 33376,
+          "word": "pushing "
+        },
+        {
+          "startTime": 33376,
+          "endTime": 33508,
+          "word": "on "
+        },
+        {
+          "startTime": 33508,
+          "endTime": 33640,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 33640,
+      "endTime": 36200,
+      "text": "Don't you end the party, I could do this all week",
+      "words": [
+        {
+          "startTime": 33640,
+          "endTime": 33874,
+          "word": "Don't "
+        },
+        {
+          "startTime": 33874,
+          "endTime": 34076,
+          "word": "you "
+        },
+        {
+          "startTime": 34076,
+          "endTime": 34278,
+          "word": "end "
+        },
+        {
+          "startTime": 34278,
+          "endTime": 34480,
+          "word": "the "
+        },
+        {
+          "startTime": 34480,
+          "endTime": 34963,
+          "word": "party, "
+        },
+        {
+          "startTime": 34963,
+          "endTime": 35134,
+          "word": "I "
+        },
+        {
+          "startTime": 35134,
+          "endTime": 35368,
+          "word": "could "
+        },
+        {
+          "startTime": 35368,
+          "endTime": 35555,
+          "word": "do "
+        },
+        {
+          "startTime": 35555,
+          "endTime": 35773,
+          "word": "this "
+        },
+        {
+          "startTime": 35773,
+          "endTime": 35975,
+          "word": "all "
+        },
+        {
+          "startTime": 35975,
+          "endTime": 36200,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 36200,
+      "endTime": 38670,
+      "text": "We'll be dancing till the morning, go to bed, we won't sleep",
+      "words": [
+        {
+          "startTime": 36200,
+          "endTime": 36386,
+          "word": "We'll "
+        },
+        {
+          "startTime": 36386,
+          "endTime": 36534,
+          "word": "be "
+        },
+        {
+          "startTime": 36534,
+          "endTime": 36869,
+          "word": "dancing "
+        },
+        {
+          "startTime": 36869,
+          "endTime": 37042,
+          "word": "till "
+        },
+        {
+          "startTime": 37042,
+          "endTime": 37203,
+          "word": "the "
+        },
+        {
+          "startTime": 37203,
+          "endTime": 37612,
+          "word": "morning, "
+        },
+        {
+          "startTime": 37612,
+          "endTime": 37760,
+          "word": "go "
+        },
+        {
+          "startTime": 37760,
+          "endTime": 37908,
+          "word": "to "
+        },
+        {
+          "startTime": 37908,
+          "endTime": 38143,
+          "word": "bed, "
+        },
+        {
+          "startTime": 38143,
+          "endTime": 38291,
+          "word": "we "
+        },
+        {
+          "startTime": 38291,
+          "endTime": 38477,
+          "word": "won't "
+        },
+        {
+          "startTime": 38477,
+          "endTime": 38670,
+          "word": "sleep"
+        }
+      ]
+    },
+    {
+      "time": 38670,
+      "endTime": 41720,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ (Sapphire)",
+      "words": [
+        {
+          "startTime": 38670,
+          "endTime": 39318,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 39318,
+          "endTime": 39772,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 39772,
+          "endTime": 40291,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 40291,
+          "endTime": 40745,
+          "word": "ਵਰਗੀ "
+        },
+        {
+          "startTime": 40745,
+          "endTime": 41720,
+          "word": "(Sapphire)"
+        }
+      ]
+    },
+    {
+      "time": 41720,
+      "endTime": 43800,
+      "text": "Touching on your body while you're pushing on me",
+      "words": [
+        {
+          "startTime": 41720,
+          "endTime": 42062,
+          "word": "Touching "
+        },
+        {
+          "startTime": 42062,
+          "endTime": 42208,
+          "word": "on "
+        },
+        {
+          "startTime": 42208,
+          "endTime": 42379,
+          "word": "your "
+        },
+        {
+          "startTime": 42379,
+          "endTime": 42672,
+          "word": "body "
+        },
+        {
+          "startTime": 42672,
+          "endTime": 42977,
+          "word": "while "
+        },
+        {
+          "startTime": 42977,
+          "endTime": 43172,
+          "word": "you're "
+        },
+        {
+          "startTime": 43172,
+          "endTime": 43502,
+          "word": "pushing "
+        },
+        {
+          "startTime": 43502,
+          "endTime": 43648,
+          "word": "on "
+        },
+        {
+          "startTime": 43648,
+          "endTime": 43800,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 43800,
+      "endTime": 46360,
+      "text": "Don't you end the party, I could do this all week",
+      "words": [
+        {
+          "startTime": 43800,
+          "endTime": 44034,
+          "word": "Don't "
+        },
+        {
+          "startTime": 44034,
+          "endTime": 44236,
+          "word": "you "
+        },
+        {
+          "startTime": 44236,
+          "endTime": 44438,
+          "word": "end "
+        },
+        {
+          "startTime": 44438,
+          "endTime": 44640,
+          "word": "the "
+        },
+        {
+          "startTime": 44640,
+          "endTime": 45123,
+          "word": "party, "
+        },
+        {
+          "startTime": 45123,
+          "endTime": 45294,
+          "word": "I "
+        },
+        {
+          "startTime": 45294,
+          "endTime": 45528,
+          "word": "could "
+        },
+        {
+          "startTime": 45528,
+          "endTime": 45715,
+          "word": "do "
+        },
+        {
+          "startTime": 45715,
+          "endTime": 45933,
+          "word": "this "
+        },
+        {
+          "startTime": 45933,
+          "endTime": 46135,
+          "word": "all "
+        },
+        {
+          "startTime": 46135,
+          "endTime": 46360,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 46360,
+      "endTime": 48800,
+      "text": "We'll be dancing till the morning, go to bed, we won't sleep",
+      "words": [
+        {
+          "startTime": 46360,
+          "endTime": 46543,
+          "word": "We'll "
+        },
+        {
+          "startTime": 46543,
+          "endTime": 46690,
+          "word": "be "
+        },
+        {
+          "startTime": 46690,
+          "endTime": 47021,
+          "word": "dancing "
+        },
+        {
+          "startTime": 47021,
+          "endTime": 47192,
+          "word": "till "
+        },
+        {
+          "startTime": 47192,
+          "endTime": 47351,
+          "word": "the "
+        },
+        {
+          "startTime": 47351,
+          "endTime": 47755,
+          "word": "morning, "
+        },
+        {
+          "startTime": 47755,
+          "endTime": 47902,
+          "word": "go "
+        },
+        {
+          "startTime": 47902,
+          "endTime": 48049,
+          "word": "to "
+        },
+        {
+          "startTime": 48049,
+          "endTime": 48281,
+          "word": "bed, "
+        },
+        {
+          "startTime": 48281,
+          "endTime": 48428,
+          "word": "we "
+        },
+        {
+          "startTime": 48428,
+          "endTime": 48611,
+          "word": "won't "
+        },
+        {
+          "startTime": 48611,
+          "endTime": 48800,
+          "word": "sleep"
+        }
+      ]
+    },
+    {
+      "time": 48800,
+      "endTime": 52640,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ",
+      "words": [
+        {
+          "startTime": 48800,
+          "endTime": 50000,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 50000,
+          "endTime": 50840,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 50840,
+          "endTime": 51800,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 51800,
+          "endTime": 52640,
+          "word": "ਵਰਗੀ"
+        }
+      ]
+    },
+    {
+      "time": 52640,
+      "endTime": 54240,
+      "text": "Look what we found, Karma reached out",
+      "words": [
+        {
+          "startTime": 52640,
+          "endTime": 52817,
+          "word": "Look "
+        },
+        {
+          "startTime": 52817,
+          "endTime": 52994,
+          "word": "what "
+        },
+        {
+          "startTime": 52994,
+          "endTime": 53146,
+          "word": "we "
+        },
+        {
+          "startTime": 53146,
+          "endTime": 53412,
+          "word": "found, "
+        },
+        {
+          "startTime": 53412,
+          "endTime": 53729,
+          "word": "Karma "
+        },
+        {
+          "startTime": 53729,
+          "endTime": 54071,
+          "word": "reached "
+        },
+        {
+          "startTime": 54071,
+          "endTime": 54240,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 54240,
+      "endTime": 56920,
+      "text": "Into our hearts and pulled us to our feet now",
+      "words": [
+        {
+          "startTime": 54240,
+          "endTime": 54652,
+          "word": "Into "
+        },
+        {
+          "startTime": 54652,
+          "endTime": 54875,
+          "word": "our "
+        },
+        {
+          "startTime": 54875,
+          "endTime": 55149,
+          "word": "hearts "
+        },
+        {
+          "startTime": 55149,
+          "endTime": 55372,
+          "word": "and "
+        },
+        {
+          "startTime": 55372,
+          "endTime": 55818,
+          "word": "pulled "
+        },
+        {
+          "startTime": 55818,
+          "endTime": 56024,
+          "word": "us "
+        },
+        {
+          "startTime": 56024,
+          "endTime": 56230,
+          "word": "to "
+        },
+        {
+          "startTime": 56230,
+          "endTime": 56453,
+          "word": "our "
+        },
+        {
+          "startTime": 56453,
+          "endTime": 56693,
+          "word": "feet "
+        },
+        {
+          "startTime": 56693,
+          "endTime": 56920,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 56920,
+      "endTime": 59510,
+      "text": "You know, the truth is we could disappear",
+      "words": [
+        {
+          "startTime": 56920,
+          "endTime": 57162,
+          "word": "You "
+        },
+        {
+          "startTime": 57162,
+          "endTime": 57534,
+          "word": "know, "
+        },
+        {
+          "startTime": 57534,
+          "endTime": 57776,
+          "word": "the "
+        },
+        {
+          "startTime": 57776,
+          "endTime": 58055,
+          "word": "truth "
+        },
+        {
+          "startTime": 58055,
+          "endTime": 58278,
+          "word": "is "
+        },
+        {
+          "startTime": 58278,
+          "endTime": 58501,
+          "word": "we "
+        },
+        {
+          "startTime": 58501,
+          "endTime": 58780,
+          "word": "could "
+        },
+        {
+          "startTime": 58780,
+          "endTime": 59510,
+          "word": "disappear"
+        }
+      ]
+    },
+    {
+      "time": 59510,
+      "endTime": 62240,
+      "text": "Anywhere, as long as I got you there",
+      "words": [
+        {
+          "startTime": 59510,
+          "endTime": 60406,
+          "word": "Anywhere, "
+        },
+        {
+          "startTime": 60406,
+          "endTime": 60650,
+          "word": "as "
+        },
+        {
+          "startTime": 60650,
+          "endTime": 60935,
+          "word": "long "
+        },
+        {
+          "startTime": 60935,
+          "endTime": 61179,
+          "word": "as "
+        },
+        {
+          "startTime": 61179,
+          "endTime": 61403,
+          "word": "I "
+        },
+        {
+          "startTime": 61403,
+          "endTime": 61667,
+          "word": "got "
+        },
+        {
+          "startTime": 61667,
+          "endTime": 61931,
+          "word": "you "
+        },
+        {
+          "startTime": 61931,
+          "endTime": 62240,
+          "word": "there"
+        }
+      ]
+    },
+    {
+      "time": 62240,
+      "endTime": 64680,
+      "text": "When the sun dies, till the day shines",
+      "words": [
+        {
+          "startTime": 62240,
+          "endTime": 62511,
+          "word": "When "
+        },
+        {
+          "startTime": 62511,
+          "endTime": 62762,
+          "word": "the "
+        },
+        {
+          "startTime": 62762,
+          "endTime": 63013,
+          "word": "sun "
+        },
+        {
+          "startTime": 63013,
+          "endTime": 63400,
+          "word": "dies, "
+        },
+        {
+          "startTime": 63400,
+          "endTime": 63671,
+          "word": "till "
+        },
+        {
+          "startTime": 63671,
+          "endTime": 63922,
+          "word": "the "
+        },
+        {
+          "startTime": 63922,
+          "endTime": 64173,
+          "word": "day "
+        },
+        {
+          "startTime": 64173,
+          "endTime": 64680,
+          "word": "shines"
+        }
+      ]
+    },
+    {
+      "time": 64680,
+      "endTime": 67310,
+      "text": "When I'm with you, there's not enough time",
+      "words": [
+        {
+          "startTime": 64680,
+          "endTime": 64943,
+          "word": "When "
+        },
+        {
+          "startTime": 64943,
+          "endTime": 65187,
+          "word": "I'm "
+        },
+        {
+          "startTime": 65187,
+          "endTime": 65450,
+          "word": "with "
+        },
+        {
+          "startTime": 65450,
+          "endTime": 65806,
+          "word": "you, "
+        },
+        {
+          "startTime": 65806,
+          "endTime": 66313,
+          "word": "there's "
+        },
+        {
+          "startTime": 66313,
+          "endTime": 66557,
+          "word": "not "
+        },
+        {
+          "startTime": 66557,
+          "endTime": 67045,
+          "word": "enough "
+        },
+        {
+          "startTime": 67045,
+          "endTime": 67310,
+          "word": "time"
+        }
+      ]
+    },
+    {
+      "time": 67310,
+      "endTime": 69630,
+      "text": "You are my spring flower, watching you bloom, wow",
+      "words": [
+        {
+          "startTime": 67310,
+          "endTime": 67497,
+          "word": "You "
+        },
+        {
+          "startTime": 67497,
+          "endTime": 67684,
+          "word": "are "
+        },
+        {
+          "startTime": 67684,
+          "endTime": 67856,
+          "word": "my "
+        },
+        {
+          "startTime": 67856,
+          "endTime": 68086,
+          "word": "spring "
+        },
+        {
+          "startTime": 68086,
+          "endTime": 68547,
+          "word": "flower, "
+        },
+        {
+          "startTime": 68547,
+          "endTime": 68950,
+          "word": "watching "
+        },
+        {
+          "startTime": 68950,
+          "endTime": 69137,
+          "word": "you "
+        },
+        {
+          "startTime": 69137,
+          "endTime": 69439,
+          "word": "bloom, "
+        },
+        {
+          "startTime": 69439,
+          "endTime": 69630,
+          "word": "wow"
+        }
+      ]
+    },
+    {
+      "time": 69630,
+      "endTime": 72190,
+      "text": "We are surrounded, but I can only see",
+      "words": [
+        {
+          "startTime": 69630,
+          "endTime": 69841,
+          "word": "We "
+        },
+        {
+          "startTime": 69841,
+          "endTime": 70070,
+          "word": "are "
+        },
+        {
+          "startTime": 70070,
+          "endTime": 70882,
+          "word": "surrounded, "
+        },
+        {
+          "startTime": 70882,
+          "endTime": 71111,
+          "word": "but "
+        },
+        {
+          "startTime": 71111,
+          "endTime": 71305,
+          "word": "I "
+        },
+        {
+          "startTime": 71305,
+          "endTime": 71534,
+          "word": "can "
+        },
+        {
+          "startTime": 71534,
+          "endTime": 71957,
+          "word": "only "
+        },
+        {
+          "startTime": 71957,
+          "endTime": 72190,
+          "word": "see"
+        }
+      ]
+    },
+    {
+      "time": 72190,
+      "endTime": 74960,
+      "text": "The lights, your face, your eyes",
+      "words": [
+        {
+          "startTime": 72190,
+          "endTime": 72561,
+          "word": "The "
+        },
+        {
+          "startTime": 72561,
+          "endTime": 73189,
+          "word": "lights, "
+        },
+        {
+          "startTime": 73189,
+          "endTime": 73588,
+          "word": "your "
+        },
+        {
+          "startTime": 73588,
+          "endTime": 74159,
+          "word": "face, "
+        },
+        {
+          "startTime": 74159,
+          "endTime": 74558,
+          "word": "your "
+        },
+        {
+          "startTime": 74558,
+          "endTime": 74960,
+          "word": "eyes"
+        }
+      ]
+    },
+    {
+      "time": 74960,
+      "endTime": 80810,
+      "text": "Exploding like fireworks in the sky",
+      "words": [
+        {
+          "startTime": 74960,
+          "endTime": 76715,
+          "word": "Exploding "
+        },
+        {
+          "startTime": 76715,
+          "endTime": 77345,
+          "word": "like "
+        },
+        {
+          "startTime": 77345,
+          "endTime": 79100,
+          "word": "fireworks "
+        },
+        {
+          "startTime": 79100,
+          "endTime": 79640,
+          "word": "in "
+        },
+        {
+          "startTime": 79640,
+          "endTime": 80225,
+          "word": "the "
+        },
+        {
+          "startTime": 80225,
+          "endTime": 80810,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 80810,
+      "endTime": 82320,
+      "text": "Sapphire",
+      "words": [
+        {
+          "startTime": 80810,
+          "endTime": 82320,
+          "word": "Sapphire"
+        }
+      ]
+    },
+    {
+      "time": 82320,
+      "endTime": 84190,
+      "text": "Touching on your body while you're pushing on me",
+      "words": [
+        {
+          "startTime": 82320,
+          "endTime": 82628,
+          "word": "Touching "
+        },
+        {
+          "startTime": 82628,
+          "endTime": 82760,
+          "word": "on "
+        },
+        {
+          "startTime": 82760,
+          "endTime": 82914,
+          "word": "your "
+        },
+        {
+          "startTime": 82914,
+          "endTime": 83178,
+          "word": "body "
+        },
+        {
+          "startTime": 83178,
+          "endTime": 83453,
+          "word": "while "
+        },
+        {
+          "startTime": 83453,
+          "endTime": 83629,
+          "word": "you're "
+        },
+        {
+          "startTime": 83629,
+          "endTime": 83926,
+          "word": "pushing "
+        },
+        {
+          "startTime": 83926,
+          "endTime": 84058,
+          "word": "on "
+        },
+        {
+          "startTime": 84058,
+          "endTime": 84190,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 84190,
+      "endTime": 86480,
+      "text": "Don't you end the party, I could do this all week",
+      "words": [
+        {
+          "startTime": 84190,
+          "endTime": 84399,
+          "word": "Don't "
+        },
+        {
+          "startTime": 84399,
+          "endTime": 84580,
+          "word": "you "
+        },
+        {
+          "startTime": 84580,
+          "endTime": 84761,
+          "word": "end "
+        },
+        {
+          "startTime": 84761,
+          "endTime": 84942,
+          "word": "the "
+        },
+        {
+          "startTime": 84942,
+          "endTime": 85374,
+          "word": "party, "
+        },
+        {
+          "startTime": 85374,
+          "endTime": 85527,
+          "word": "I "
+        },
+        {
+          "startTime": 85527,
+          "endTime": 85736,
+          "word": "could "
+        },
+        {
+          "startTime": 85736,
+          "endTime": 85903,
+          "word": "do "
+        },
+        {
+          "startTime": 85903,
+          "endTime": 86098,
+          "word": "this "
+        },
+        {
+          "startTime": 86098,
+          "endTime": 86279,
+          "word": "all "
+        },
+        {
+          "startTime": 86279,
+          "endTime": 86480,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 86480,
+      "endTime": 89310,
+      "text": "We'll be dancing till the morning, go to bed, we won't sleep",
+      "words": [
+        {
+          "startTime": 86480,
+          "endTime": 86693,
+          "word": "We'll "
+        },
+        {
+          "startTime": 86693,
+          "endTime": 86863,
+          "word": "be "
+        },
+        {
+          "startTime": 86863,
+          "endTime": 87246,
+          "word": "dancing "
+        },
+        {
+          "startTime": 87246,
+          "endTime": 87445,
+          "word": "till "
+        },
+        {
+          "startTime": 87445,
+          "endTime": 87629,
+          "word": "the "
+        },
+        {
+          "startTime": 87629,
+          "endTime": 88098,
+          "word": "morning, "
+        },
+        {
+          "startTime": 88098,
+          "endTime": 88268,
+          "word": "go "
+        },
+        {
+          "startTime": 88268,
+          "endTime": 88438,
+          "word": "to "
+        },
+        {
+          "startTime": 88438,
+          "endTime": 88708,
+          "word": "bed, "
+        },
+        {
+          "startTime": 88708,
+          "endTime": 88878,
+          "word": "we "
+        },
+        {
+          "startTime": 88878,
+          "endTime": 89091,
+          "word": "won't "
+        },
+        {
+          "startTime": 89091,
+          "endTime": 89310,
+          "word": "sleep"
+        }
+      ]
+    },
+    {
+      "time": 89310,
+      "endTime": 92360,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ (Sapphire)",
+      "words": [
+        {
+          "startTime": 89310,
+          "endTime": 89958,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 89958,
+          "endTime": 90412,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 90412,
+          "endTime": 90931,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 90931,
+          "endTime": 91385,
+          "word": "ਵਰਗੀ "
+        },
+        {
+          "startTime": 91385,
+          "endTime": 92360,
+          "word": "(Sapphire)"
+        }
+      ]
+    },
+    {
+      "time": 92360,
+      "endTime": 94560,
+      "text": "Touching on your body while you're pushing on me",
+      "words": [
+        {
+          "startTime": 92360,
+          "endTime": 92722,
+          "word": "Touching "
+        },
+        {
+          "startTime": 92722,
+          "endTime": 92877,
+          "word": "on "
+        },
+        {
+          "startTime": 92877,
+          "endTime": 93058,
+          "word": "your "
+        },
+        {
+          "startTime": 93058,
+          "endTime": 93368,
+          "word": "body "
+        },
+        {
+          "startTime": 93368,
+          "endTime": 93691,
+          "word": "while "
+        },
+        {
+          "startTime": 93691,
+          "endTime": 93898,
+          "word": "you're "
+        },
+        {
+          "startTime": 93898,
+          "endTime": 94247,
+          "word": "pushing "
+        },
+        {
+          "startTime": 94247,
+          "endTime": 94402,
+          "word": "on "
+        },
+        {
+          "startTime": 94402,
+          "endTime": 94560,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 94560,
+      "endTime": 97440,
+      "text": "Don't you end the party, I could do this all week",
+      "words": [
+        {
+          "startTime": 94560,
+          "endTime": 94823,
+          "word": "Don't "
+        },
+        {
+          "startTime": 94823,
+          "endTime": 95051,
+          "word": "you "
+        },
+        {
+          "startTime": 95051,
+          "endTime": 95279,
+          "word": "end "
+        },
+        {
+          "startTime": 95279,
+          "endTime": 95507,
+          "word": "the "
+        },
+        {
+          "startTime": 95507,
+          "endTime": 96051,
+          "word": "party, "
+        },
+        {
+          "startTime": 96051,
+          "endTime": 96244,
+          "word": "I "
+        },
+        {
+          "startTime": 96244,
+          "endTime": 96507,
+          "word": "could "
+        },
+        {
+          "startTime": 96507,
+          "endTime": 96717,
+          "word": "do "
+        },
+        {
+          "startTime": 96717,
+          "endTime": 96962,
+          "word": "this "
+        },
+        {
+          "startTime": 96962,
+          "endTime": 97190,
+          "word": "all "
+        },
+        {
+          "startTime": 97190,
+          "endTime": 97440,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 97440,
+      "endTime": 99920,
+      "text": "We'll be dancing till the morning, go to bed, we won't sleep",
+      "words": [
+        {
+          "startTime": 97440,
+          "endTime": 97626,
+          "word": "We'll "
+        },
+        {
+          "startTime": 97626,
+          "endTime": 97775,
+          "word": "be "
+        },
+        {
+          "startTime": 97775,
+          "endTime": 98111,
+          "word": "dancing "
+        },
+        {
+          "startTime": 98111,
+          "endTime": 98285,
+          "word": "till "
+        },
+        {
+          "startTime": 98285,
+          "endTime": 98447,
+          "word": "the "
+        },
+        {
+          "startTime": 98447,
+          "endTime": 98858,
+          "word": "morning, "
+        },
+        {
+          "startTime": 98858,
+          "endTime": 99007,
+          "word": "go "
+        },
+        {
+          "startTime": 99007,
+          "endTime": 99156,
+          "word": "to "
+        },
+        {
+          "startTime": 99156,
+          "endTime": 99392,
+          "word": "bed, "
+        },
+        {
+          "startTime": 99392,
+          "endTime": 99541,
+          "word": "we "
+        },
+        {
+          "startTime": 99541,
+          "endTime": 99727,
+          "word": "won't "
+        },
+        {
+          "startTime": 99727,
+          "endTime": 99920,
+          "word": "sleep"
+        }
+      ]
+    },
+    {
+      "time": 99920,
+      "endTime": 103480,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ (Sapphire)",
+      "words": [
+        {
+          "startTime": 99920,
+          "endTime": 100677,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 100677,
+          "endTime": 101207,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 101207,
+          "endTime": 101812,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 101812,
+          "endTime": 102342,
+          "word": "ਵਰਗੀ "
+        },
+        {
+          "startTime": 102342,
+          "endTime": 103480,
+          "word": "(Sapphire)"
+        }
+      ]
+    },
+    {
+      "time": 103480,
+      "endTime": 105600,
+      "text": "(ਮਹਿਰੂਨੀ ਦੋ ਨੈਣ ਲੁਭਾਏ)",
+      "words": [
+        {
+          "startTime": 103480,
+          "endTime": 104126,
+          "word": "(ਮਹਿਰੂਨੀ "
+        },
+        {
+          "startTime": 104126,
+          "endTime": 104557,
+          "word": "ਦੋ "
+        },
+        {
+          "startTime": 104557,
+          "endTime": 105024,
+          "word": "ਨੈਣ "
+        },
+        {
+          "startTime": 105024,
+          "endTime": 105600,
+          "word": "ਲੁਭਾਏ)"
+        }
+      ]
+    },
+    {
+      "time": 105600,
+      "endTime": 107800,
+      "text": "(ਚਾਂਦਨੀ ਚਮ-ਚਮ ਚਮਕਾਏ) You're glowing",
+      "words": [
+        {
+          "startTime": 105600,
+          "endTime": 105989,
+          "word": "(ਚਾਂਦਨੀ "
+        },
+        {
+          "startTime": 105989,
+          "endTime": 106447,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 106447,
+          "endTime": 106813,
+          "word": "ਚਮਕਾਏ) "
+        },
+        {
+          "startTime": 106813,
+          "endTime": 107179,
+          "word": "You're "
+        },
+        {
+          "startTime": 107179,
+          "endTime": 107800,
+          "word": "glowing"
+        }
+      ]
+    },
+    {
+      "time": 107800,
+      "endTime": 110210,
+      "text": "(ਨੂਰ ਦਾ ਮੈਨੂੰ ਘੁੱਟ ਪਿਲਾਏ)",
+      "words": [
+        {
+          "startTime": 107800,
+          "endTime": 108275,
+          "word": "(ਨੂਰ "
+        },
+        {
+          "startTime": 108275,
+          "endTime": 108682,
+          "word": "ਦਾ "
+        },
+        {
+          "startTime": 108682,
+          "endTime": 109191,
+          "word": "ਮੈਨੂੰ "
+        },
+        {
+          "startTime": 109191,
+          "endTime": 109666,
+          "word": "ਘੁੱਟ "
+        },
+        {
+          "startTime": 109666,
+          "endTime": 110210,
+          "word": "ਪਿਲਾਏ)"
+        }
+      ]
+    },
+    {
+      "time": 110210,
+      "endTime": 112360,
+      "text": "(ਜਿੰਦੜੀ ਬਣ ਜਾਏ)",
+      "words": [
+        {
+          "startTime": 110210,
+          "endTime": 111060,
+          "word": "(ਜਿੰਦੜੀ "
+        },
+        {
+          "startTime": 111060,
+          "endTime": 111659,
+          "word": "ਬਣ "
+        },
+        {
+          "startTime": 111659,
+          "endTime": 112360,
+          "word": "ਜਾਏ)"
+        }
+      ]
+    },
+    {
+      "time": 112360,
+      "endTime": 115050,
+      "text": "You're glowing (ਅੰਬਰਾਂ ਦੀ ਤੂੰ ਝਾਲਰ ਪਾਏ)",
+      "words": [
+        {
+          "startTime": 112360,
+          "endTime": 112740,
+          "word": "You're "
+        },
+        {
+          "startTime": 112740,
+          "endTime": 113382,
+          "word": "glowing "
+        },
+        {
+          "startTime": 113382,
+          "endTime": 113786,
+          "word": "(ਅੰਬਰਾਂ "
+        },
+        {
+          "startTime": 113786,
+          "endTime": 114071,
+          "word": "ਦੀ "
+        },
+        {
+          "startTime": 114071,
+          "endTime": 114380,
+          "word": "ਤੂੰ "
+        },
+        {
+          "startTime": 114380,
+          "endTime": 114713,
+          "word": "ਝਾਲਰ "
+        },
+        {
+          "startTime": 114713,
+          "endTime": 115050,
+          "word": "ਪਾਏ)"
+        }
+      ]
+    },
+    {
+      "time": 115050,
+      "endTime": 117000,
+      "text": "You colour and fracture the light (ਬਦਲ਼ਾਂ ਦੇ ਲੱਠੇ ਸੂਟ ਬਣਾਏ)",
+      "words": [
+        {
+          "startTime": 115050,
+          "endTime": 115191,
+          "word": "You "
+        },
+        {
+          "startTime": 115191,
+          "endTime": 115474,
+          "word": "colour "
+        },
+        {
+          "startTime": 115474,
+          "endTime": 115615,
+          "word": "and "
+        },
+        {
+          "startTime": 115615,
+          "endTime": 115920,
+          "word": "fracture "
+        },
+        {
+          "startTime": 115920,
+          "endTime": 116061,
+          "word": "the "
+        },
+        {
+          "startTime": 116061,
+          "endTime": 116224,
+          "word": "light "
+        },
+        {
+          "startTime": 116224,
+          "endTime": 116409,
+          "word": "(ਬਦਲ਼ਾਂ "
+        },
+        {
+          "startTime": 116409,
+          "endTime": 116539,
+          "word": "ਦੇ "
+        },
+        {
+          "startTime": 116539,
+          "endTime": 116691,
+          "word": "ਲੱਠੇ "
+        },
+        {
+          "startTime": 116691,
+          "endTime": 116832,
+          "word": "ਸੂਟ "
+        },
+        {
+          "startTime": 116832,
+          "endTime": 117000,
+          "word": "ਬਣਾਏ)"
+        }
+      ]
+    },
+    {
+      "time": 117000,
+      "endTime": 122220,
+      "text": "But look at you tonight (ਕਿਰਣਾਂ ਨੂੰ ਰੰਗ-ਰੂਪ ਛਡਾਏ)",
+      "words": [
+        {
+          "startTime": 117000,
+          "endTime": 117464,
+          "word": "But "
+        },
+        {
+          "startTime": 117464,
+          "endTime": 117964,
+          "word": "look "
+        },
+        {
+          "startTime": 117964,
+          "endTime": 118393,
+          "word": "at "
+        },
+        {
+          "startTime": 118393,
+          "endTime": 118857,
+          "word": "you "
+        },
+        {
+          "startTime": 118857,
+          "endTime": 119822,
+          "word": "tonight "
+        },
+        {
+          "startTime": 119822,
+          "endTime": 120429,
+          "word": "(ਕਿਰਣਾਂ "
+        },
+        {
+          "startTime": 120429,
+          "endTime": 120893,
+          "word": "ਨੂੰ "
+        },
+        {
+          "startTime": 120893,
+          "endTime": 121679,
+          "word": "ਰੰਗ-ਰੂਪ "
+        },
+        {
+          "startTime": 121679,
+          "endTime": 122220,
+          "word": "ਛਡਾਏ)"
+        }
+      ]
+    },
+    {
+      "time": 122220,
+      "endTime": 122710,
+      "text": "(ਮੋਰਣੀ ਬਣ ਜਾਏ) Sapphire",
+      "words": [
+        {
+          "startTime": 122220,
+          "endTime": 122334,
+          "word": "(ਮੋਰਣੀ "
+        },
+        {
+          "startTime": 122334,
+          "endTime": 122419,
+          "word": "ਬਣ "
+        },
+        {
+          "startTime": 122419,
+          "endTime": 122519,
+          "word": "ਜਾਏ) "
+        },
+        {
+          "startTime": 122519,
+          "endTime": 122710,
+          "word": "Sapphire"
+        }
+      ]
+    },
+    {
+      "time": 122710,
+      "endTime": 124920,
+      "text": "ਪਲਕਾਂ ਉਠਾਵਤੇ ਹਨੇਰੇ ਘਟਦੇ",
+      "words": [
+        {
+          "startTime": 122710,
+          "endTime": 123262,
+          "word": "ਪਲਕਾਂ "
+        },
+        {
+          "startTime": 123262,
+          "endTime": 123851,
+          "word": "ਉਠਾਵਤੇ "
+        },
+        {
+          "startTime": 123851,
+          "endTime": 124403,
+          "word": "ਹਨੇਰੇ "
+        },
+        {
+          "startTime": 124403,
+          "endTime": 124920,
+          "word": "ਘਟਦੇ"
+        }
+      ]
+    },
+    {
+      "time": 124920,
+      "endTime": 127360,
+      "text": "ਉਂਗਲਾ’ਚ ਪਾਕੇ ਤੂੰ ਧਨਕ ਫਿਰਦੀ",
+      "words": [
+        {
+          "startTime": 124920,
+          "endTime": 125496,
+          "word": "ਉਂਗਲਾ’ਚ "
+        },
+        {
+          "startTime": 125496,
+          "endTime": 125970,
+          "word": "ਪਾਕੇ "
+        },
+        {
+          "startTime": 125970,
+          "endTime": 126410,
+          "word": "ਤੂੰ "
+        },
+        {
+          "startTime": 126410,
+          "endTime": 126850,
+          "word": "ਧਨਕ "
+        },
+        {
+          "startTime": 126850,
+          "endTime": 127360,
+          "word": "ਫਿਰਦੀ"
+        }
+      ]
+    },
+    {
+      "time": 127360,
+      "endTime": 129830,
+      "text": "ਕਿਵੇ ਰੱਬ ਨੇ ਦੋ ਨੈਨਾ ਉਤੇ ਨੀਲਮ ਜਾੜੇ?",
+      "words": [
+        {
+          "startTime": 127360,
+          "endTime": 127668,
+          "word": "ਕਿਵੇ "
+        },
+        {
+          "startTime": 127668,
+          "endTime": 127954,
+          "word": "ਰੱਬ "
+        },
+        {
+          "startTime": 127954,
+          "endTime": 128218,
+          "word": "ਨੇ "
+        },
+        {
+          "startTime": 128218,
+          "endTime": 128482,
+          "word": "ਦੋ "
+        },
+        {
+          "startTime": 128482,
+          "endTime": 128790,
+          "word": "ਨੈਨਾ "
+        },
+        {
+          "startTime": 128790,
+          "endTime": 129076,
+          "word": "ਉਤੇ "
+        },
+        {
+          "startTime": 129076,
+          "endTime": 129384,
+          "word": "ਨੀਲਮ "
+        },
+        {
+          "startTime": 129384,
+          "endTime": 129830,
+          "word": "ਜਾੜੇ?"
+        }
+      ]
+    },
+    {
+      "time": 129830,
+      "endTime": 132640,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ (Sapphire)",
+      "words": [
+        {
+          "startTime": 129830,
+          "endTime": 130427,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 130427,
+          "endTime": 130845,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 130845,
+          "endTime": 131323,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 131323,
+          "endTime": 131741,
+          "word": "ਵਰਗੀ "
+        },
+        {
+          "startTime": 131741,
+          "endTime": 132640,
+          "word": "(Sapphire)"
+        }
+      ]
+    },
+    {
+      "time": 132640,
+      "endTime": 134840,
+      "text": "Touching on your body while you're pushing on me",
+      "words": [
+        {
+          "startTime": 132640,
+          "endTime": 133002,
+          "word": "Touching "
+        },
+        {
+          "startTime": 133002,
+          "endTime": 133157,
+          "word": "on "
+        },
+        {
+          "startTime": 133157,
+          "endTime": 133338,
+          "word": "your "
+        },
+        {
+          "startTime": 133338,
+          "endTime": 133648,
+          "word": "body "
+        },
+        {
+          "startTime": 133648,
+          "endTime": 133971,
+          "word": "while "
+        },
+        {
+          "startTime": 133971,
+          "endTime": 134178,
+          "word": "you're "
+        },
+        {
+          "startTime": 134178,
+          "endTime": 134527,
+          "word": "pushing "
+        },
+        {
+          "startTime": 134527,
+          "endTime": 134682,
+          "word": "on "
+        },
+        {
+          "startTime": 134682,
+          "endTime": 134840,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 134840,
+      "endTime": 137360,
+      "text": "Don't you end the party, I could do this all week",
+      "words": [
+        {
+          "startTime": 134840,
+          "endTime": 135070,
+          "word": "Don't "
+        },
+        {
+          "startTime": 135070,
+          "endTime": 135269,
+          "word": "you "
+        },
+        {
+          "startTime": 135269,
+          "endTime": 135468,
+          "word": "end "
+        },
+        {
+          "startTime": 135468,
+          "endTime": 135667,
+          "word": "the "
+        },
+        {
+          "startTime": 135667,
+          "endTime": 136143,
+          "word": "party, "
+        },
+        {
+          "startTime": 136143,
+          "endTime": 136312,
+          "word": "I "
+        },
+        {
+          "startTime": 136312,
+          "endTime": 136542,
+          "word": "could "
+        },
+        {
+          "startTime": 136542,
+          "endTime": 136726,
+          "word": "do "
+        },
+        {
+          "startTime": 136726,
+          "endTime": 136941,
+          "word": "this "
+        },
+        {
+          "startTime": 136941,
+          "endTime": 137140,
+          "word": "all "
+        },
+        {
+          "startTime": 137140,
+          "endTime": 137360,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 137360,
+      "endTime": 140150,
+      "text": "We'll be dancing till the morning, go to bed, we won't sleep",
+      "words": [
+        {
+          "startTime": 137360,
+          "endTime": 137570,
+          "word": "We'll "
+        },
+        {
+          "startTime": 137570,
+          "endTime": 137738,
+          "word": "be "
+        },
+        {
+          "startTime": 137738,
+          "endTime": 138116,
+          "word": "dancing "
+        },
+        {
+          "startTime": 138116,
+          "endTime": 138312,
+          "word": "till "
+        },
+        {
+          "startTime": 138312,
+          "endTime": 138494,
+          "word": "the "
+        },
+        {
+          "startTime": 138494,
+          "endTime": 138956,
+          "word": "morning, "
+        },
+        {
+          "startTime": 138956,
+          "endTime": 139124,
+          "word": "go "
+        },
+        {
+          "startTime": 139124,
+          "endTime": 139292,
+          "word": "to "
+        },
+        {
+          "startTime": 139292,
+          "endTime": 139558,
+          "word": "bed, "
+        },
+        {
+          "startTime": 139558,
+          "endTime": 139726,
+          "word": "we "
+        },
+        {
+          "startTime": 139726,
+          "endTime": 139936,
+          "word": "won't "
+        },
+        {
+          "startTime": 139936,
+          "endTime": 140150,
+          "word": "sleep"
+        }
+      ]
+    },
+    {
+      "time": 140150,
+      "endTime": 142900,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ (Sapphire)",
+      "words": [
+        {
+          "startTime": 140150,
+          "endTime": 140735,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 140735,
+          "endTime": 141144,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 141144,
+          "endTime": 141612,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 141612,
+          "endTime": 142021,
+          "word": "ਵਰਗੀ "
+        },
+        {
+          "startTime": 142021,
+          "endTime": 142900,
+          "word": "(Sapphire)"
+        }
+      ]
+    },
+    {
+      "time": 142900,
+      "endTime": 144940,
+      "text": "Touching on your body while you're pushing on me (The lights, your face, your eyes)",
+      "words": [
+        {
+          "startTime": 142900,
+          "endTime": 143112,
+          "word": "Touching "
+        },
+        {
+          "startTime": 143112,
+          "endTime": 143203,
+          "word": "on "
+        },
+        {
+          "startTime": 143203,
+          "endTime": 143309,
+          "word": "your "
+        },
+        {
+          "startTime": 143309,
+          "endTime": 143491,
+          "word": "body "
+        },
+        {
+          "startTime": 143491,
+          "endTime": 143680,
+          "word": "while "
+        },
+        {
+          "startTime": 143680,
+          "endTime": 143801,
+          "word": "you're "
+        },
+        {
+          "startTime": 143801,
+          "endTime": 144005,
+          "word": "pushing "
+        },
+        {
+          "startTime": 144005,
+          "endTime": 144096,
+          "word": "on "
+        },
+        {
+          "startTime": 144096,
+          "endTime": 144187,
+          "word": "me "
+        },
+        {
+          "startTime": 144187,
+          "endTime": 144293,
+          "word": "(The "
+        },
+        {
+          "startTime": 144293,
+          "endTime": 144459,
+          "word": "lights, "
+        },
+        {
+          "startTime": 144459,
+          "endTime": 144565,
+          "word": "your "
+        },
+        {
+          "startTime": 144565,
+          "endTime": 144716,
+          "word": "face, "
+        },
+        {
+          "startTime": 144716,
+          "endTime": 144822,
+          "word": "your "
+        },
+        {
+          "startTime": 144822,
+          "endTime": 144940,
+          "word": "eyes)"
+        }
+      ]
+    },
+    {
+      "time": 144940,
+      "endTime": 147380,
+      "text": "Don't you end the party, I could do this all week (Exploding)",
+      "words": [
+        {
+          "startTime": 144940,
+          "endTime": 145118,
+          "word": "Don't "
+        },
+        {
+          "startTime": 145118,
+          "endTime": 145272,
+          "word": "you "
+        },
+        {
+          "startTime": 145272,
+          "endTime": 145426,
+          "word": "end "
+        },
+        {
+          "startTime": 145426,
+          "endTime": 145580,
+          "word": "the "
+        },
+        {
+          "startTime": 145580,
+          "endTime": 145948,
+          "word": "party, "
+        },
+        {
+          "startTime": 145948,
+          "endTime": 146078,
+          "word": "I "
+        },
+        {
+          "startTime": 146078,
+          "endTime": 146256,
+          "word": "could "
+        },
+        {
+          "startTime": 146256,
+          "endTime": 146398,
+          "word": "do "
+        },
+        {
+          "startTime": 146398,
+          "endTime": 146564,
+          "word": "this "
+        },
+        {
+          "startTime": 146564,
+          "endTime": 146718,
+          "word": "all "
+        },
+        {
+          "startTime": 146718,
+          "endTime": 146884,
+          "word": "week "
+        },
+        {
+          "startTime": 146884,
+          "endTime": 147380,
+          "word": "(Exploding)"
+        }
+      ]
+    },
+    {
+      "time": 147380,
+      "endTime": 149940,
+      "text": "We'll be dancing till the morning, go to bed, we won't sleep (Like fireworks in the sky)",
+      "words": [
+        {
+          "startTime": 147380,
+          "endTime": 147511,
+          "word": "We'll "
+        },
+        {
+          "startTime": 147511,
+          "endTime": 147616,
+          "word": "be "
+        },
+        {
+          "startTime": 147616,
+          "endTime": 147852,
+          "word": "dancing "
+        },
+        {
+          "startTime": 147852,
+          "endTime": 147974,
+          "word": "till "
+        },
+        {
+          "startTime": 147974,
+          "endTime": 148087,
+          "word": "the "
+        },
+        {
+          "startTime": 148087,
+          "endTime": 148376,
+          "word": "morning, "
+        },
+        {
+          "startTime": 148376,
+          "endTime": 148481,
+          "word": "go "
+        },
+        {
+          "startTime": 148481,
+          "endTime": 148586,
+          "word": "to "
+        },
+        {
+          "startTime": 148586,
+          "endTime": 148752,
+          "word": "bed, "
+        },
+        {
+          "startTime": 148752,
+          "endTime": 148857,
+          "word": "we "
+        },
+        {
+          "startTime": 148857,
+          "endTime": 148988,
+          "word": "won't "
+        },
+        {
+          "startTime": 148988,
+          "endTime": 149119,
+          "word": "sleep "
+        },
+        {
+          "startTime": 149119,
+          "endTime": 149250,
+          "word": "(Like "
+        },
+        {
+          "startTime": 149250,
+          "endTime": 149591,
+          "word": "fireworks "
+        },
+        {
+          "startTime": 149591,
+          "endTime": 149696,
+          "word": "in "
+        },
+        {
+          "startTime": 149696,
+          "endTime": 149809,
+          "word": "the "
+        },
+        {
+          "startTime": 149809,
+          "endTime": 149940,
+          "word": "sky)"
+        }
+      ]
+    },
+    {
+      "time": 149940,
+      "endTime": 152940,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ (Sapphire)",
+      "words": [
+        {
+          "startTime": 149940,
+          "endTime": 150578,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 150578,
+          "endTime": 151024,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 151024,
+          "endTime": 151534,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 151534,
+          "endTime": 151980,
+          "word": "ਵਰਗੀ "
+        },
+        {
+          "startTime": 151980,
+          "endTime": 152940,
+          "word": "(Sapphire)"
+        }
+      ]
+    },
+    {
+      "time": 152940,
+      "endTime": 155020,
+      "text": "Touching on your body while you're pushing on me (The lights, your face, your eyes)",
+      "words": [
+        {
+          "startTime": 152940,
+          "endTime": 153156,
+          "word": "Touching "
+        },
+        {
+          "startTime": 153156,
+          "endTime": 153248,
+          "word": "on "
+        },
+        {
+          "startTime": 153248,
+          "endTime": 153356,
+          "word": "your "
+        },
+        {
+          "startTime": 153356,
+          "endTime": 153541,
+          "word": "body "
+        },
+        {
+          "startTime": 153541,
+          "endTime": 153734,
+          "word": "while "
+        },
+        {
+          "startTime": 153734,
+          "endTime": 153857,
+          "word": "you're "
+        },
+        {
+          "startTime": 153857,
+          "endTime": 154065,
+          "word": "pushing "
+        },
+        {
+          "startTime": 154065,
+          "endTime": 154157,
+          "word": "on "
+        },
+        {
+          "startTime": 154157,
+          "endTime": 154249,
+          "word": "me "
+        },
+        {
+          "startTime": 154249,
+          "endTime": 154357,
+          "word": "(The "
+        },
+        {
+          "startTime": 154357,
+          "endTime": 154527,
+          "word": "lights, "
+        },
+        {
+          "startTime": 154527,
+          "endTime": 154635,
+          "word": "your "
+        },
+        {
+          "startTime": 154635,
+          "endTime": 154789,
+          "word": "face, "
+        },
+        {
+          "startTime": 154789,
+          "endTime": 154897,
+          "word": "your "
+        },
+        {
+          "startTime": 154897,
+          "endTime": 155020,
+          "word": "eyes)"
+        }
+      ]
+    },
+    {
+      "time": 155020,
+      "endTime": 157590,
+      "text": "Don't you end the party, I could do this all week (Exploding)",
+      "words": [
+        {
+          "startTime": 155020,
+          "endTime": 155208,
+          "word": "Don't "
+        },
+        {
+          "startTime": 155208,
+          "endTime": 155370,
+          "word": "you "
+        },
+        {
+          "startTime": 155370,
+          "endTime": 155532,
+          "word": "end "
+        },
+        {
+          "startTime": 155532,
+          "endTime": 155694,
+          "word": "the "
+        },
+        {
+          "startTime": 155694,
+          "endTime": 156082,
+          "word": "party, "
+        },
+        {
+          "startTime": 156082,
+          "endTime": 156219,
+          "word": "I "
+        },
+        {
+          "startTime": 156219,
+          "endTime": 156407,
+          "word": "could "
+        },
+        {
+          "startTime": 156407,
+          "endTime": 156557,
+          "word": "do "
+        },
+        {
+          "startTime": 156557,
+          "endTime": 156732,
+          "word": "this "
+        },
+        {
+          "startTime": 156732,
+          "endTime": 156894,
+          "word": "all "
+        },
+        {
+          "startTime": 156894,
+          "endTime": 157069,
+          "word": "week "
+        },
+        {
+          "startTime": 157069,
+          "endTime": 157590,
+          "word": "(Exploding)"
+        }
+      ]
+    },
+    {
+      "time": 157590,
+      "endTime": 160060,
+      "text": "We'll be dancing till the morning, go to bed, we won't sleep (Like fireworks in the sky)",
+      "words": [
+        {
+          "startTime": 157590,
+          "endTime": 157716,
+          "word": "We'll "
+        },
+        {
+          "startTime": 157716,
+          "endTime": 157817,
+          "word": "be "
+        },
+        {
+          "startTime": 157817,
+          "endTime": 158045,
+          "word": "dancing "
+        },
+        {
+          "startTime": 158045,
+          "endTime": 158163,
+          "word": "till "
+        },
+        {
+          "startTime": 158163,
+          "endTime": 158272,
+          "word": "the "
+        },
+        {
+          "startTime": 158272,
+          "endTime": 158551,
+          "word": "morning, "
+        },
+        {
+          "startTime": 158551,
+          "endTime": 158652,
+          "word": "go "
+        },
+        {
+          "startTime": 158652,
+          "endTime": 158753,
+          "word": "to "
+        },
+        {
+          "startTime": 158753,
+          "endTime": 158913,
+          "word": "bed, "
+        },
+        {
+          "startTime": 158913,
+          "endTime": 159014,
+          "word": "we "
+        },
+        {
+          "startTime": 159014,
+          "endTime": 159140,
+          "word": "won't "
+        },
+        {
+          "startTime": 159140,
+          "endTime": 159266,
+          "word": "sleep "
+        },
+        {
+          "startTime": 159266,
+          "endTime": 159392,
+          "word": "(Like "
+        },
+        {
+          "startTime": 159392,
+          "endTime": 159721,
+          "word": "fireworks "
+        },
+        {
+          "startTime": 159721,
+          "endTime": 159822,
+          "word": "in "
+        },
+        {
+          "startTime": 159822,
+          "endTime": 159931,
+          "word": "the "
+        },
+        {
+          "startTime": 159931,
+          "endTime": 160060,
+          "word": "sky)"
+        }
+      ]
+    },
+    {
+      "time": 160060,
+      "endTime": 163030,
+      "text": "ਚਮ-ਚਮ ਚਮਕੇ ਸਿਤਾਰੇ ਵਰਗੀ (Sapphire)",
+      "words": [
+        {
+          "startTime": 160060,
+          "endTime": 160691,
+          "word": "ਚਮ-ਚਮ "
+        },
+        {
+          "startTime": 160691,
+          "endTime": 161133,
+          "word": "ਚਮਕੇ "
+        },
+        {
+          "startTime": 161133,
+          "endTime": 161638,
+          "word": "ਸਿਤਾਰੇ "
+        },
+        {
+          "startTime": 161638,
+          "endTime": 162080,
+          "word": "ਵਰਗੀ "
+        },
+        {
+          "startTime": 162080,
+          "endTime": 163030,
+          "word": "(Sapphire)"
+        }
+      ]
+    },
+    {
+      "time": 163030,
+      "endTime": 166260,
+      "text": "The lights, your face, your eyes",
+      "words": [
+        {
+          "startTime": 163030,
+          "endTime": 163462,
+          "word": "The "
+        },
+        {
+          "startTime": 163462,
+          "endTime": 164194,
+          "word": "lights, "
+        },
+        {
+          "startTime": 164194,
+          "endTime": 164660,
+          "word": "your "
+        },
+        {
+          "startTime": 164660,
+          "endTime": 165325,
+          "word": "face, "
+        },
+        {
+          "startTime": 165325,
+          "endTime": 165791,
+          "word": "your "
+        },
+        {
+          "startTime": 165791,
+          "endTime": 166260,
+          "word": "eyes"
+        }
+      ]
+    },
+    {
+      "time": 166260,
+      "endTime": 172800,
+      "text": "Exploding like fireworks in the sky",
+      "words": [
+        {
+          "startTime": 166260,
+          "endTime": 168222,
+          "word": "Exploding "
+        },
+        {
+          "startTime": 168222,
+          "endTime": 168926,
+          "word": "like "
+        },
+        {
+          "startTime": 168926,
+          "endTime": 170888,
+          "word": "fireworks "
+        },
+        {
+          "startTime": 170888,
+          "endTime": 171491,
+          "word": "in "
+        },
+        {
+          "startTime": 171491,
+          "endTime": 172145,
+          "word": "the "
+        },
+        {
+          "startTime": 172145,
+          "endTime": 172800,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 172800,
+      "endTime": 177800,
+      "text": "Sapphire",
+      "words": [
+        {
+          "startTime": 172800,
+          "endTime": 177800,
+          "word": "Sapphire"
+        }
+      ]
+    }
+  ]
+}
