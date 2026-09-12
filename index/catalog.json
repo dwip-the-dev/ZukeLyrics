@@ -1,5 +1,15 @@
 [
   {
+    "videoId": "Y3jq_WIHP9k",
+    "title": "Dai Dai (SPINALL Remix)",
+    "artist": "Shakira, Burna Boy, SPINALL",
+    "duration": 223,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 78,
+    "path": "lyrics-database/Y/3/Y3jq_WIHP9k.json"
+  },
+  {
     "videoId": "ljAH6jNaApU",
     "title": "BbY WOW",
     "artist": "KAROL G, Judeline, & rusowsky",
@@ -38,5 +48,15 @@
     "syncedType": "word",
     "linesCount": 4,
     "path": "lyrics-database/b/y/by4SYYWlhVE.json"
+  },
+  {
+    "videoId": "aGGXYOyXaC0",
+    "title": "Alyssa Grace - bloodstream (Lyrics)",
+    "artist": "NewMelody",
+    "duration": 178,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 51,
+    "path": "lyrics-database/a/G/aGGXYOyXaC0.json"
   }
 ]
