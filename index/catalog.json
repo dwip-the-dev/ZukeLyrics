@@ -50,6 +50,16 @@
     "path": "lyrics-database/d/Q/dQw4w9WgXcQ.json"
   },
   {
+    "videoId": "EtHBkSIrRok",
+    "title": "LE SSERAFIM, ILLIT, KATSEYE - ICONIC BY MISTAKE (Lyrics)",
+    "artist": "Trillex Music Group",
+    "duration": 179,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 79,
+    "path": "lyrics-database/E/t/EtHBkSIrRok.json"
+  },
+  {
     "videoId": "fJ9rUzIMcZQ",
     "title": "Bohemian Rhapsody",
     "artist": "Queen",
@@ -108,5 +118,15 @@
     "syncedType": "word",
     "linesCount": 53,
     "path": "lyrics-database/U/D/UDVLn4Xvyz8.json"
+  },
+  {
+    "videoId": "WNmsURkR2-w",
+    "title": "Taylor Swift - The Fate of Ophelia",
+    "artist": "LatinHype",
+    "duration": 227,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 77,
+    "path": "lyrics-database/W/N/WNmsURkR2-w.json"
   }
 ]
