@@ -158,6 +158,62 @@ class TestZukeConverter(unittest.TestCase):
         self.assertIn('<p begin="00:01.000" end="00:05.000">', back_ttml)
         self.assertIn('<span begin="00:01.000" end="00:02.500">Hello </span>', back_ttml)
 
+    def test_agents_and_duets(self):
+        # Test TTML with ttm:agent and duet parsing
+        ttml_duet = """<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <body>
+    <div>
+      <p begin="00:10.000" end="00:15.000" ttm:agent="Freddie Mercury">
+        <span>Is this the real life?</span>
+      </p>
+      <p begin="00:15.500" end="00:20.000" ttm:agent="v2" role="x-bg">
+        <span>(Let me go!)</span>
+      </p>
+    </div>
+  </body>
+</tt>"""
+        zlf = ZukeConverter.ttml_to_zlf(ttml_duet, video_id="duet123")
+        self.assertEqual(len(zlf["lines"]), 2)
+        line1 = zlf["lines"][0]
+        self.assertEqual(line1["agent"], "Freddie Mercury")
+        self.assertFalse(line1.get("isDuet", False))
+
+        line2 = zlf["lines"][1]
+        self.assertEqual(line2["agent"], "v2")
+        self.assertTrue(line2["isDuet"])
+        self.assertTrue(line2["isBackground"])
+
+        # Convert back to TTML and check preservation
+        back_ttml = ZukeConverter.zlf_to_ttml(zlf)
+        self.assertIn('ttm:agent="Freddie Mercury"', back_ttml)
+        self.assertIn('ttm:agent="v2"', back_ttml)
+        self.assertIn('role="x-bg"', back_ttml)
+
+    def test_romanization_and_translations(self):
+        ttml_jp = """<tt xmlns="http://www.w3.org/ns/ttml">
+  <body>
+    <div>
+      <p begin="00:05.000" end="00:09.000">
+        <span role="x-roman">Yoru ni kakeru</span>
+        <span role="x-translation">Racing into the night</span>
+        <span begin="00:05.000" end="00:07.000">夜に</span>
+        <span begin="00:07.000" end="00:09.000">駆ける</span>
+      </p>
+    </div>
+  </body>
+</tt>"""
+        zlf = ZukeConverter.ttml_to_zlf(ttml_jp, video_id="yoasobi123")
+        line = zlf["lines"][0]
+        self.assertEqual(line["text"], "夜に 駆ける")
+        self.assertEqual(line["romanization"], "Yoru ni kakeru")
+        self.assertEqual(line["translation"], "Racing into the night")
+        self.assertEqual(len(line["words"]), 2)
+
+        # Convert back to TTML and verify romanization and translation spans
+        back_ttml = ZukeConverter.zlf_to_ttml(zlf)
+        self.assertIn('<span role="x-roman">Yoru ni kakeru</span>', back_ttml)
+        self.assertIn('<span role="x-translation">Racing into the night</span>', back_ttml)
+
     def test_srt_conversion(self):
         zlf_sample = {
             "lines": [

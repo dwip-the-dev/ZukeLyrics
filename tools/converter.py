@@ -85,6 +85,27 @@ class ZukeConverter:
             start_ms = parse_lrc_timestamp(time_match.group(1), time_match.group(2), time_match.group(3))
             content = line[time_match.end():].strip()
 
+            # Extract tags: {agent:...}, {bg}, {roman:...}, {trans:...}
+            agent_match = re.search(r"\{agent:([^}]+)\}", content, re.IGNORECASE)
+            agent = agent_match.group(1).strip() if agent_match else None
+            if agent:
+                content = content.replace(agent_match.group(0), "").strip()
+
+            bg_match = re.search(r"\{bg\}", content, re.IGNORECASE)
+            is_bg = bool(bg_match)
+            if is_bg:
+                content = content.replace(bg_match.group(0), "").strip()
+
+            roman_match = re.search(r"\{roman:([^}]+)\}", content, re.IGNORECASE)
+            roman = roman_match.group(1).strip() if roman_match else None
+            if roman:
+                content = content.replace(roman_match.group(0), "").strip()
+
+            trans_match = re.search(r"\{trans:([^}]+)\}", content, re.IGNORECASE)
+            trans = trans_match.group(1).strip() if trans_match else None
+            if trans:
+                content = content.replace(trans_match.group(0), "").strip()
+
             # Check for enhanced inline rich sync: <00:12.34>word1 <00:13.10>word2
             rich_matches = list(RICH_WORD_REGEX.finditer(content))
             words = []
@@ -103,11 +124,22 @@ class ZukeConverter:
                 clean_text = content
 
             if clean_text:
-                parsed_entries.append({
+                entry_dict = {
                     "time": start_ms,
                     "text": clean_text,
                     "words": words
-                })
+                }
+                if agent:
+                    entry_dict["agent"] = agent
+                    if "v2" in agent.lower():
+                        entry_dict["isDuet"] = True
+                if is_bg:
+                    entry_dict["isBackground"] = True
+                if roman:
+                    entry_dict["romanization"] = roman
+                if trans:
+                    entry_dict["translation"] = trans
+                parsed_entries.append(entry_dict)
 
         # Calculate line endTimes
         has_word_sync = any(len(e["words"]) > 0 for e in parsed_entries)
@@ -133,9 +165,13 @@ class ZukeConverter:
 
     @staticmethod
     def ttml_to_zlf(ttml_text, video_id="unknown", title="Unknown Title", artist="Unknown Artist"):
-        p_pattern = re.compile(r"<p\b([^>]*)>(.*?)</p>", re.DOTALL)
-        span_pattern = re.compile(r"<span\b([^>]*)>(.*?)</span>(\s*)", re.DOTALL)
+        p_pattern = re.compile(r"<p\b([^>]*)>(.*?)</p>", re.DOTALL | re.IGNORECASE)
+        span_pattern = re.compile(r"<span\b([^>]*)>(.*?)</span>(\s*)", re.DOTALL | re.IGNORECASE)
         attr_pattern = re.compile(r'(\w+(?::\w+)?)=["\']([^"\']*)["\']')
+
+        # Check for romanization or translation spans
+        roman_pattern = re.compile(r'<span[^>]*role=["\'](?:x-roman|romanization)["\'][^>]*>(.*?)</span>', re.DOTALL | re.IGNORECASE)
+        trans_pattern = re.compile(r'<span[^>]*role=["\'](?:x-translation|translation)["\'][^>]*>(.*?)</span>', re.DOTALL | re.IGNORECASE)
 
         lines = []
         for p_match in p_pattern.finditer(ttml_text):
@@ -145,13 +181,25 @@ class ZukeConverter:
             p_attrs = dict(attr_pattern.findall(p_attrs_raw))
             begin_ms = parse_iso_or_clock_time(p_attrs.get("begin", "0"))
             end_ms = parse_iso_or_clock_time(p_attrs.get("end", "0"))
-            agent = p_attrs.get("ttm:agent", p_attrs.get("agent", ""))
-            is_duet = "v2" in agent.lower()
+            agent = p_attrs.get("ttm:agent", p_attrs.get("agent", "")).strip() or None
+            is_duet = agent is not None and "v2" in agent.lower()
+            is_bg = "x-bg" in p_attrs.get("role", "") or "x-bg" in p_content
+
+            # Extract romanization / translation if present in <p>
+            roman_match = roman_pattern.search(p_content)
+            romanization = re.sub(r"<[^>]+>", "", roman_match.group(1)).strip() if roman_match else None
+
+            trans_match = trans_pattern.search(p_content)
+            translation = re.sub(r"<[^>]+>", "", trans_match.group(1)).strip() if trans_match else None
+
+            # Remove roman/translation spans from main lyrics stream
+            clean_p_content = roman_pattern.sub("", p_content)
+            clean_p_content = trans_pattern.sub("", clean_p_content)
 
             words = []
             text_builder = []
 
-            for s_match in span_pattern.finditer(p_content):
+            for s_match in span_pattern.finditer(clean_p_content):
                 s_attrs_raw = s_match.group(1)
                 s_text = re.sub(r"<[^>]+>", "", s_match.group(2)).strip()
                 trailing = s_match.group(3)
@@ -171,7 +219,7 @@ class ZukeConverter:
             if words:
                 full_text = re.sub(r"\s+", " ", "".join(text_builder)).strip()
             else:
-                full_text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", p_content)).strip()
+                full_text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", clean_p_content)).strip()
 
             if full_text:
                 line_obj = {
@@ -181,8 +229,16 @@ class ZukeConverter:
                 }
                 if words:
                     line_obj["words"] = words
+                if agent:
+                    line_obj["agent"] = agent
                 if is_duet:
                     line_obj["isDuet"] = True
+                if is_bg:
+                    line_obj["isBackground"] = True
+                if romanization:
+                    line_obj["romanization"] = romanization
+                if translation:
+                    line_obj["translation"] = translation
                 lines.append(line_obj)
 
         has_word_sync = any("words" in l and len(l["words"]) > 0 for l in lines)
@@ -199,14 +255,28 @@ class ZukeConverter:
     @staticmethod
     def zlf_to_ttml(zlf_data):
         lines = zlf_data.get("lines", [])
-        sb = ['<tt xmlns="http://www.w3.org/ns/ttml">', '  <body>', '    <div>']
+        sb = ['<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">', '  <body>', '    <div>']
 
         for line in lines:
             b_str = ms_to_timestamp(line["time"])
             e_str = ms_to_timestamp(line["endTime"])
-            agent_attr = ' ttm:agent="v2"' if line.get("isDuet") else ""
+            agent = line.get("agent")
+            agent_attr = f' ttm:agent="{agent}"' if agent else (' ttm:agent="v2"' if line.get("isDuet") else "")
+            bg_attr = ' role="x-bg"' if line.get("isBackground") else ""
 
-            sb.append(f'      <p begin="{b_str}" end="{e_str}"{agent_attr}>')
+            sb.append(f'      <p begin="{b_str}" end="{e_str}"{agent_attr}{bg_attr}>')
+            
+            # Write romanization and translation if present
+            roman = line.get("romanization") or line.get("romanized")
+            if roman:
+                r_escaped = roman.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+                sb.append(f'        <span role="x-roman">{r_escaped}</span>')
+
+            trans = line.get("translation")
+            if trans:
+                t_escaped = trans.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+                sb.append(f'        <span role="x-translation">{t_escaped}</span>')
+
             words = line.get("words", [])
             if words:
                 for w in words:

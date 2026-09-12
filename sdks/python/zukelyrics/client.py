@@ -49,6 +49,44 @@ class ZukeLyricsClient:
                 continue
         return False
 
+    def get_catalog(self) -> List[Dict[str, Any]]:
+        base = f"https://cdn.jsdelivr.net/gh/{self.owner}/{self.repo}@{self.branch}/index/catalog.json"
+        try:
+            req = urllib.request.Request(base, headers={"User-Agent": "ZukeLyrics-Python-SDK"})
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                if resp.status == 200:
+                    return json.loads(resp.read().decode("utf-8"))
+        except Exception:
+            pass
+        return []
+
+    def search(self, query: str) -> List[Dict[str, Any]]:
+        base = f"https://cdn.jsdelivr.net/gh/{self.owner}/{self.repo}@{self.branch}/index/search-index.json"
+        try:
+            req = urllib.request.Request(base, headers={"User-Agent": "ZukeLyrics-Python-SDK"})
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                if resp.status == 200:
+                    data = json.loads(resp.read().decode("utf-8"))
+                    q_lower = query.lower().strip()
+                    return [
+                        item for item in data.get("tracks", [])
+                        if q_lower in item.get("searchKey", "") or q_lower in item.get("title", "").lower() or q_lower in item.get("artist", "").lower()
+                    ]
+        except Exception:
+            pass
+        return []
+
+    def get_stats(self) -> Dict[str, Any]:
+        base = f"https://cdn.jsdelivr.net/gh/{self.owner}/{self.repo}@{self.branch}/api/v1/stats.json"
+        try:
+            req = urllib.request.Request(base, headers={"User-Agent": "ZukeLyrics-Python-SDK"})
+            with urllib.request.urlopen(req, timeout=8) as resp:
+                if resp.status == 200:
+                    return json.loads(resp.read().decode("utf-8"))
+        except Exception:
+            pass
+        return {}
+
     def upload_lyrics(self, payload: Dict[str, Any], token: Optional[str] = None) -> bool:
         active_token = token or self.token
         if not active_token:

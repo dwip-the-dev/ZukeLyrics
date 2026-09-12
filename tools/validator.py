@@ -23,15 +23,25 @@ def validate_zlf_file(file_path):
     except Exception as e:
         return False, [f"File read error: {e}"], []
 
-    # Required top-level fields
-    required_fields = ["videoId", "title", "artist", "syncedType", "lines"]
-    for field in required_fields:
+    # Required top-level fields (support videoId or id)
+    video_id = data.get("videoId") or data.get("id")
+    if not video_id:
+        errors.append("Missing required field: 'videoId' (or 'id')")
+
+    for field in ["title", "artist"]:
         if field not in data:
             errors.append(f"Missing required field: '{field}'")
 
     synced_type = data.get("syncedType")
+    if not synced_type and "hasWordSync" in data:
+        synced_type = "word" if data["hasWordSync"] else "line"
+
     if synced_type not in ["word", "line", "plain", "instrumental"]:
         errors.append(f"Invalid syncedType: '{synced_type}'. Must be 'word', 'line', 'plain', or 'instrumental'")
+
+    if "lines" not in data:
+        errors.append("Missing required field: 'lines'")
+        return False, errors, warnings
 
     lines = data.get("lines", [])
     if not isinstance(lines, list):
@@ -66,6 +76,38 @@ def validate_zlf_file(file_path):
                 warnings.append(f"Line [{line_idx}]: time ({l_time}ms) is out of chronological order (prev line was {prev_line_time}ms)")
             prev_line_time = l_time
 
+        # Validate agent, isDuet, isBackground
+        agent = line.get("agent")
+        if agent is not None and not isinstance(agent, str):
+            errors.append(f"Line [{line_idx}]: 'agent' must be a string")
+
+        is_duet = line.get("isDuet")
+        if is_duet is not None and not isinstance(is_duet, bool):
+            errors.append(f"Line [{line_idx}]: 'isDuet' must be a boolean")
+
+        is_bg = line.get("isBackground")
+        if is_bg is not None and not isinstance(is_bg, bool):
+            errors.append(f"Line [{line_idx}]: 'isBackground' must be a boolean")
+
+        # Validate translation and translations dictionary
+        trans = line.get("translation")
+        if trans is not None and not isinstance(trans, str):
+            errors.append(f"Line [{line_idx}]: 'translation' must be a string")
+
+        translations = line.get("translations")
+        if translations is not None:
+            if not isinstance(translations, dict):
+                errors.append(f"Line [{line_idx}]: 'translations' must be an object (key-value mapping of lang to translated text)")
+            else:
+                for lang_key, trans_val in translations.items():
+                    if not isinstance(lang_key, str) or not isinstance(trans_val, str):
+                        errors.append(f"Line [{line_idx}]: 'translations' entry '{lang_key}' must have string key and string value")
+
+        # Validate romanization / romanized
+        roman = line.get("romanization") or line.get("romanized")
+        if roman is not None and not isinstance(roman, str):
+            errors.append(f"Line [{line_idx}]: 'romanization' / 'romanized' must be a string")
+
         # Validate words if present
         words = line.get("words")
         if words is not None:
@@ -94,6 +136,12 @@ def validate_zlf_file(file_path):
                         if w_start < prev_word_end:
                             warnings.append(f"Line [{line_idx}] Word [{w_idx}] ('{w_token}'): starts at {w_start}ms before previous word ended at {prev_word_end}ms")
                         prev_word_end = w_end
+
+                        # Check word containment within line boundaries (with slight 200ms grace window for vocal reverb)
+                        if l_time is not None and w_start < l_time - 200:
+                            warnings.append(f"Line [{line_idx}] Word [{w_idx}] ('{w_token}'): starts ({w_start}ms) before line starts ({l_time}ms)")
+                        if l_end is not None and w_end > l_end + 300:
+                            warnings.append(f"Line [{line_idx}] Word [{w_idx}] ('{w_token}'): ends ({w_end}ms) after line ends ({l_end}ms)")
 
     is_valid = len(errors) == 0
     return is_valid, errors, warnings

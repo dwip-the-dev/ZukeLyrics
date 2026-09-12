@@ -1,13 +1,13 @@
 [
   {
-    "videoId": "dQw4w9WgXcQ",
-    "title": "Never Gonna Give You Up",
-    "artist": "Rick Astley",
-    "duration": 213,
-    "language": "en",
+    "videoId": "by4SYYWlhVE",
+    "title": "夜に駆ける (Racing into the Night)",
+    "artist": "YOASOBI",
+    "duration": 261,
+    "language": "ja",
     "syncedType": "word",
-    "linesCount": 12,
-    "path": "lyrics-database/d/Q/dQw4w9WgXcQ.json"
+    "linesCount": 4,
+    "path": "lyrics-database/b/y/by4SYYWlhVE.json"
   },
   {
     "videoId": "fJ9rUzIMcZQ",
@@ -18,5 +18,15 @@
     "syncedType": "word",
     "linesCount": 7,
     "path": "lyrics-database/f/J/fJ9rUzIMcZQ.json"
+  },
+  {
+    "videoId": "dQw4w9WgXcQ",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "duration": 213,
+    "language": "en",
+    "syncedType": "word",
+    "linesCount": 12,
+    "path": "lyrics-database/d/Q/dQw4w9WgXcQ.json"
   }
 ]

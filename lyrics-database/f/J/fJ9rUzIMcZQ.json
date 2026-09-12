@@ -14,6 +14,7 @@
     {
       "time": 700,
       "endTime": 4200,
+      "agent": "Freddie Mercury",
       "text": "Is this the real life?",
       "words": [
         { "startTime": 700, "endTime": 1200, "word": "Is " },
@@ -26,6 +27,7 @@
     {
       "time": 4500,
       "endTime": 8400,
+      "agent": "Freddie Mercury",
       "text": "Is this just fantasy?",
       "words": [
         { "startTime": 4500, "endTime": 4900, "word": "Is " },
@@ -37,6 +39,7 @@
     {
       "time": 8600,
       "endTime": 14200,
+      "agent": "Freddie Mercury",
       "text": "Caught in a landslide, no escape from reality",
       "words": [
         { "startTime": 8600, "endTime": 9200, "word": "Caught " },
@@ -52,6 +55,7 @@
     {
       "time": 14500,
       "endTime": 20400,
+      "agent": "Freddie Mercury",
       "text": "Open your eyes, look up to the skies and see",
       "words": [
         { "startTime": 14500, "endTime": 15200, "word": "Open " },
@@ -69,6 +73,7 @@
     {
       "time": 20700,
       "endTime": 26500,
+      "agent": "Freddie Mercury",
       "text": "I'm just a poor boy, I need no sympathy",
       "words": [
         { "startTime": 20700, "endTime": 21200, "word": "I'm " },
@@ -85,26 +90,31 @@
     {
       "time": 26800,
       "endTime": 29800,
-      "text": "Because I'm easy come, easy go",
-      "isDuet": false,
+      "agent": "Chorus",
+      "isDuet": true,
+      "isBackground": true,
+      "text": "(Because I'm easy come, easy go)",
       "words": [
-        { "startTime": 26800, "endTime": 27200, "word": "Because " },
+        { "startTime": 26800, "endTime": 27200, "word": "(Because " },
         { "startTime": 27200, "endTime": 27600, "word": "I'm " },
         { "startTime": 27600, "endTime": 28100, "word": "easy " },
         { "startTime": 28100, "endTime": 28600, "word": "come, " },
         { "startTime": 28600, "endTime": 29100, "word": "easy " },
-        { "startTime": 29100, "endTime": 29800, "word": "go" }
+        { "startTime": 29100, "endTime": 29800, "word": "go)" }
       ]
     },
     {
       "time": 30000,
       "endTime": 33100,
-      "text": "Little high, little low",
+      "agent": "Chorus",
+      "isDuet": true,
+      "isBackground": true,
+      "text": "(Little high, little low)",
       "words": [
-        { "startTime": 30000, "endTime": 30500, "word": "Little " },
+        { "startTime": 30000, "endTime": 30500, "word": "(Little " },
         { "startTime": 30500, "endTime": 31200, "word": "high, " },
         { "startTime": 31200, "endTime": 31800, "word": "little " },
-        { "startTime": 31800, "endTime": 33100, "word": "low" }
+        { "startTime": 31800, "endTime": 33100, "word": "low)" }
       ]
     }
   ]

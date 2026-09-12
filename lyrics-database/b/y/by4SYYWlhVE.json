@@ -1,0 +1,89 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dwip-the-dev/ZukeLyrics/main/schemas/zlf-v1.schema.json",
+  "version": 1,
+  "videoId": "by4SYYWlhVE",
+  "title": "夜に駆ける (Racing into the Night)",
+  "artist": "YOASOBI",
+  "album": "THE BOOK",
+  "duration": 261,
+  "language": "ja",
+  "source": "Zuke-Community",
+  "syncedType": "word",
+  "hasWordSync": true,
+  "lines": [
+    {
+      "time": 250,
+      "endTime": 4100,
+      "agent": "ikura",
+      "text": "沈むように溶けてゆくように",
+      "romanization": "Shizumu you ni tokete yuku you ni",
+      "romanized": "Shizumu you ni tokete yuku you ni",
+      "translation": "As if sinking, as if melting away",
+      "translations": {
+        "en": "As if sinking, as if melting away",
+        "es": "Como hundiéndose, como desvaneciéndose"
+      },
+      "words": [
+        { "startTime": 250, "endTime": 800, "word": "沈む" },
+        { "startTime": 800, "endTime": 1200, "word": "ように" },
+        { "startTime": 1200, "endTime": 2200, "word": "溶けて" },
+        { "startTime": 2200, "endTime": 3100, "word": "ゆく" },
+        { "startTime": 3100, "endTime": 4100, "word": "ように" }
+      ]
+    },
+    {
+      "time": 4300,
+      "endTime": 8400,
+      "agent": "ikura",
+      "text": "二人だけの空が広がる夜に",
+      "romanization": "Futari dake no sora ga hirogaru yoru ni",
+      "romanized": "Futari dake no sora ga hirogaru yoru ni",
+      "translation": "Into the night where only the sky of the two of us spreads",
+      "translations": {
+        "en": "Into the night where only the sky of the two of us spreads"
+      },
+      "words": [
+        { "startTime": 4300, "endTime": 5100, "word": "二人" },
+        { "startTime": 5100, "endTime": 5600, "word": "だけの" },
+        { "startTime": 5600, "endTime": 6400, "word": "空が" },
+        { "startTime": 6400, "endTime": 7400, "word": "広がる" },
+        { "startTime": 7400, "endTime": 8400, "word": "夜に" }
+      ]
+    },
+    {
+      "time": 8600,
+      "endTime": 13200,
+      "agent": "ikura",
+      "text": "「さよなら」だけだった",
+      "romanization": "\"Sayonara\" dake datta",
+      "romanized": "\"Sayonara\" dake datta",
+      "translation": "It was just a \"goodbye\"",
+      "translations": {
+        "en": "It was just a \"goodbye\""
+      },
+      "words": [
+        { "startTime": 8600, "endTime": 9400, "word": "「さよなら」" },
+        { "startTime": 9400, "endTime": 10800, "word": "だけ" },
+        { "startTime": 10800, "endTime": 13200, "word": "だった" }
+      ]
+    },
+    {
+      "time": 13500,
+      "endTime": 18200,
+      "agent": "ikura",
+      "text": "その一言で全てが伝わった",
+      "romanization": "Sono hitokoto de subete ga tsutawatta",
+      "romanized": "Sono hitokoto de subete ga tsutawatta",
+      "translation": "With just that one word, everything was conveyed",
+      "translations": {
+        "en": "With just that one word, everything was conveyed"
+      },
+      "words": [
+        { "startTime": 13500, "endTime": 14100, "word": "その" },
+        { "startTime": 14100, "endTime": 15000, "word": "一言で" },
+        { "startTime": 15000, "endTime": 16200, "word": "全てが" },
+        { "startTime": 16200, "endTime": 18200, "word": "伝わった" }
+      ]
+    }
+  ]
+}

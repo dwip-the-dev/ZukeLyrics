@@ -21,6 +21,15 @@
       "description": "Schema version number.",
       "default": 1
     },
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Alias for videoId."
+    },
+    "hasWordSync": {
+      "type": "boolean",
+      "description": "True if track contains word-level synchronization data."
+    },
     "videoId": {
       "type": "string",
       "minLength": 1,
@@ -107,9 +116,20 @@
             "type": "string",
             "description": "Optional translated text for the line."
           },
+          "translations": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            },
+            "description": "Optional dictionary of translated lines keyed by ISO language code."
+          },
           "romanization": {
             "type": "string",
             "description": "Optional romanized pronunciation (e.g. Romaji, Pinyin, Revised Romanization)."
+          },
+          "romanized": {
+            "type": "string",
+            "description": "Alias for romanization."
           },
           "isDuet": {
             "type": "boolean",
