@@ -1,13 +1,13 @@
 {
-  "totalTracks": 16,
-  "wordSynced": 16,
+  "totalTracks": 17,
+  "wordSynced": 17,
   "lineSynced": 0,
   "plain": 0,
   "instrumental": 0,
   "languages": {
-    "und": 13,
+    "und": 14,
     "en": 2,
     "ja": 1
   },
-  "uniqueArtists": 15
+  "uniqueArtists": 16
 }
