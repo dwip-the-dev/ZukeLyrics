@@ -1,0 +1,48 @@
+name: 🎵 Submit Word-Synced Lyrics
+description: Submit a new word-by-word or line-synced lyrics dataset for automated ingestion
+title: "[SUBMIT] "
+labels: ["lyrics-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the open-source **ZukeLyrics** database!
+        Fill out the track details below and paste your JSON (or LRC/TTML) payload.
+  - type: input
+    id: videoId
+    attributes:
+      label: YouTube Video ID
+      description: The 11-character YouTube video ID (e.g., dQw4w9WgXcQ).
+      placeholder: dQw4w9WgXcQ
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Song Title
+      placeholder: Never Gonna Give You Up
+    validations:
+      required: true
+  - type: input
+    id: artist
+    attributes:
+      label: Artist Name
+      placeholder: Rick Astley
+    validations:
+      required: true
+  - type: textarea
+    id: payload
+    attributes:
+      label: ZLF JSON Payload
+      description: Paste the complete ZLF JSON code block below.
+      render: json
+      placeholder: |
+        {
+          "videoId": "...",
+          "title": "...",
+          "artist": "...",
+          "syncedType": "word",
+          "lines": [...]
+        }
+    validations:
+      required: true

@@ -1,0 +1,32 @@
+name: ✏️ Report Lyrics Correction
+description: Report a typo or out-of-sync timestamp in an existing lyrics file
+title: "[CORRECTION] "
+labels: ["correction"]
+body:
+  - type: input
+    id: videoId
+    attributes:
+      label: YouTube Video ID
+      placeholder: dQw4w9WgXcQ
+    validations:
+      required: true
+  - type: input
+    id: song
+    attributes:
+      label: Song Title & Artist
+      placeholder: Rick Astley - Never Gonna Give You Up
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs correction?
+      description: Specify whether timestamps are offset, a line is misheard, or words are misaligned.
+    validations:
+      required: true
+  - type: textarea
+    id: correctedPayload
+    attributes:
+      label: Corrected JSON Payload (Optional)
+      description: If you have the fixed JSON, paste it here.
+      render: json

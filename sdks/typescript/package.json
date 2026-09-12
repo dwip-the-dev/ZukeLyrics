@@ -1,0 +1,25 @@
+{
+  "name": "zukelyrics",
+  "version": "1.0.0",
+  "description": "Official TypeScript/JavaScript client for the decentralized ZukeLyrics word-synced lyrics database.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "lyrics",
+    "word-sync",
+    "karaoke",
+    "lrc",
+    "ttml",
+    "zukelyrics",
+    "music"
+  ],
+  "author": "dwip-the-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwip-the-dev/ZukeLyrics.git"
+  }
+}

@@ -1,0 +1,32 @@
+name: Rebuild Catalog & Indexes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'lyrics-database/**'
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rebuild Indexes and Catalog
+        run: |
+          python3 tools/index_builder.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated: Rebuild search index & catalog [skip ci]"
+          file_pattern: "index/* api/v1/*"

@@ -1,0 +1,124 @@
+name: Automated Lyrics Issue Gateway
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  process-submission:
+    if: startsWith(github.event.issue.title, '[SUBMIT]') || contains(github.event.issue.labels.*.name, 'lyrics-submission')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Parse and Process Payload
+        id: parser
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const body = context.payload.issue.body || '';
+            const match = body.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+
+            if (!match) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.issue.number,
+                body: '⚠️ **Submission Error**: No valid JSON code block found in issue description. Please wrap your ZLF payload in ```json ... ```.'
+              });
+              return;
+            }
+
+            let payload;
+            try {
+              payload = JSON.parse(match[1]);
+            } catch (e) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.issue.number,
+                body: `❌ **JSON Parse Error**: Failed to parse payload: \`${e.message}\`.`
+              });
+              return;
+            }
+
+            const videoId = payload.videoId;
+            if (!videoId) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.issue.number,
+                body: '❌ **Schema Error**: `videoId` is missing in the payload.'
+              });
+              return;
+            }
+
+            // Determine target hash path
+            const clean = videoId.trim();
+            const c1 = (clean.length > 0 && /^[a-zA-Z0-9]$/.test(clean[0])) ? clean[0] : '_';
+            const c2 = (clean.length > 1 && /^[a-zA-Z0-9]$/.test(clean[1])) ? clean[1] : '_';
+            const targetDir = path.join('lyrics-database', c1, c2);
+            const targetFile = path.join(targetDir, `${clean}.json`);
+
+            fs.mkdirSync(targetDir, { recursive: true });
+            fs.writeFileSync(targetFile, JSON.stringify(payload, null, 2), 'utf-8');
+
+            core.setOutput('targetFile', targetFile);
+            core.setOutput('videoId', clean);
+            core.setOutput('title', payload.title || 'Unknown Title');
+            core.setOutput('artist', payload.artist || 'Unknown Artist');
+
+      - name: Validate Generated File
+        id: validate
+        if: steps.parser.outputs.targetFile != ''
+        run: |
+          python3 tools/validator.py "${{ steps.parser.outputs.targetFile }}"
+
+      - name: Commit File and Close Issue
+        if: steps.parser.outputs.targetFile != '' && success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const targetFile = '${{ steps.parser.outputs.targetFile }}';
+            const videoId = '${{ steps.parser.outputs.videoId }}';
+            const title = '${{ steps.parser.outputs.title }}';
+            const artist = '${{ steps.parser.outputs.artist }}';
+
+            // Commit via git
+            const exec = require('@actions/exec');
+            await exec.exec('git config --global user.name "ZukeLyrics Bot"');
+            await exec.exec('git config --global user.email "bot@zukelyrics.community"');
+            await exec.exec(`git add ${targetFile}`);
+            await exec.exec(`git commit -m "Add word-synced lyrics for ${title} - ${artist} [${videoId}]"`);
+            await exec.exec('git push');
+
+            const cdnUrl = `https://cdn.jsdelivr.net/gh/${context.repo.owner}/${context.repo.repo}@main/${targetFile}`;
+            const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/${targetFile}`;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: `🎉 **Successfully Published!**\n\nThe lyrics for **${title}** by **${artist}** have been validated and committed to the global database!\n\n- **Database Path**: \`${targetFile}\`\n- **Fast CDN**: [jsDelivr CDN](${cdnUrl})\n- **Raw URL**: [GitHub Raw](${rawUrl})\n\nThank you for contributing to open-source music lyrics! 🎵`
+            });
+
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              state: 'closed'
+            });

@@ -1,0 +1,173 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dwip-the-dev/ZukeLyrics/main/schemas/zlf-v1.schema.json",
+  "version": 1,
+  "videoId": "dQw4w9WgXcQ",
+  "title": "Never Gonna Give You Up",
+  "artist": "Rick Astley",
+  "album": "Whenever You Need Somebody",
+  "duration": 213,
+  "isrc": "GBARL8700041",
+  "language": "en",
+  "source": "Zuke-Community",
+  "syncedType": "word",
+  "lines": [
+    {
+      "time": 18200,
+      "endTime": 22400,
+      "text": "We're no strangers to love",
+      "words": [
+        { "startTime": 18200, "endTime": 18600, "word": "We're " },
+        { "startTime": 18600, "endTime": 18950, "word": "no " },
+        { "startTime": 18950, "endTime": 19800, "word": "strangers " },
+        { "startTime": 19800, "endTime": 20200, "word": "to " },
+        { "startTime": 20200, "endTime": 22400, "word": "love" }
+      ]
+    },
+    {
+      "time": 22800,
+      "endTime": 27100,
+      "text": "You know the rules and so do I",
+      "words": [
+        { "startTime": 22800, "endTime": 23200, "word": "You " },
+        { "startTime": 23200, "endTime": 23600, "word": "know " },
+        { "startTime": 23600, "endTime": 23950, "word": "the " },
+        { "startTime": 23950, "endTime": 24800, "word": "rules " },
+        { "startTime": 24800, "endTime": 25200, "word": "and " },
+        { "startTime": 25200, "endTime": 25600, "word": "so " },
+        { "startTime": 25600, "endTime": 26000, "word": "do " },
+        { "startTime": 26000, "endTime": 27100, "word": "I" }
+      ]
+    },
+    {
+      "time": 27300,
+      "endTime": 31500,
+      "text": "A full commitment's what I'm thinking of",
+      "words": [
+        { "startTime": 27300, "endTime": 27550, "word": "A " },
+        { "startTime": 27550, "endTime": 27900, "word": "full " },
+        { "startTime": 27900, "endTime": 28800, "word": "commitment's " },
+        { "startTime": 28800, "endTime": 29200, "word": "what " },
+        { "startTime": 29200, "endTime": 29600, "word": "I'm " },
+        { "startTime": 29600, "endTime": 30300, "word": "thinking " },
+        { "startTime": 30300, "endTime": 31500, "word": "of" }
+      ]
+    },
+    {
+      "time": 31800,
+      "endTime": 36100,
+      "text": "You wouldn't get this from any other guy",
+      "words": [
+        { "startTime": 31800, "endTime": 32100, "word": "You " },
+        { "startTime": 32100, "endTime": 32600, "word": "wouldn't " },
+        { "startTime": 32600, "endTime": 32950, "word": "get " },
+        { "startTime": 32950, "endTime": 33400, "word": "this " },
+        { "startTime": 33400, "endTime": 33800, "word": "from " },
+        { "startTime": 33800, "endTime": 34300, "word": "any " },
+        { "startTime": 34300, "endTime": 34900, "word": "other " },
+        { "startTime": 34900, "endTime": 36100, "word": "guy" }
+      ]
+    },
+    {
+      "time": 36300,
+      "endTime": 42500,
+      "text": "I just wanna tell you how I'm feeling",
+      "words": [
+        { "startTime": 36300, "endTime": 36600, "word": "I " },
+        { "startTime": 36600, "endTime": 37100, "word": "just " },
+        { "startTime": 37100, "endTime": 37600, "word": "wanna " },
+        { "startTime": 37600, "endTime": 38100, "word": "tell " },
+        { "startTime": 38100, "endTime": 38600, "word": "you " },
+        { "startTime": 38600, "endTime": 39100, "word": "how " },
+        { "startTime": 39100, "endTime": 39600, "word": "I'm " },
+        { "startTime": 39600, "endTime": 42500, "word": "feeling" }
+      ]
+    },
+    {
+      "time": 42800,
+      "endTime": 45100,
+      "text": "Gotta make you understand",
+      "words": [
+        { "startTime": 42800, "endTime": 43300, "word": "Gotta " },
+        { "startTime": 43300, "endTime": 43700, "word": "make " },
+        { "startTime": 43700, "endTime": 44100, "word": "you " },
+        { "startTime": 44100, "endTime": 45100, "word": "understand" }
+      ]
+    },
+    {
+      "time": 45300,
+      "endTime": 49800,
+      "text": "Never gonna give you up",
+      "words": [
+        { "startTime": 45300, "endTime": 45900, "word": "Never " },
+        { "startTime": 45900, "endTime": 46400, "word": "gonna " },
+        { "startTime": 46400, "endTime": 47200, "word": "give " },
+        { "startTime": 47200, "endTime": 47700, "word": "you " },
+        { "startTime": 47700, "endTime": 49800, "word": "up" }
+      ]
+    },
+    {
+      "time": 50000,
+      "endTime": 54200,
+      "text": "Never gonna let you down",
+      "words": [
+        { "startTime": 50000, "endTime": 50600, "word": "Never " },
+        { "startTime": 50600, "endTime": 51100, "word": "gonna " },
+        { "startTime": 51100, "endTime": 51900, "word": "let " },
+        { "startTime": 51900, "endTime": 52400, "word": "you " },
+        { "startTime": 52400, "endTime": 54200, "word": "down" }
+      ]
+    },
+    {
+      "time": 54400,
+      "endTime": 58900,
+      "text": "Never gonna run around and desert you",
+      "words": [
+        { "startTime": 54400, "endTime": 55000, "word": "Never " },
+        { "startTime": 55000, "endTime": 55500, "word": "gonna " },
+        { "startTime": 55500, "endTime": 56100, "word": "run " },
+        { "startTime": 56100, "endTime": 56700, "word": "around " },
+        { "startTime": 56700, "endTime": 57100, "word": "and " },
+        { "startTime": 57100, "endTime": 57700, "word": "desert " },
+        { "startTime": 57700, "endTime": 58900, "word": "you" }
+      ]
+    },
+    {
+      "time": 59100,
+      "endTime": 63400,
+      "text": "Never gonna make you cry",
+      "words": [
+        { "startTime": 59100, "endTime": 59700, "word": "Never " },
+        { "startTime": 59700, "endTime": 60200, "word": "gonna " },
+        { "startTime": 60200, "endTime": 61000, "word": "make " },
+        { "startTime": 61000, "endTime": 61500, "word": "you " },
+        { "startTime": 61500, "endTime": 63400, "word": "cry" }
+      ]
+    },
+    {
+      "time": 63600,
+      "endTime": 67800,
+      "text": "Never gonna say goodbye",
+      "words": [
+        { "startTime": 63600, "endTime": 64200, "word": "Never " },
+        { "startTime": 64200, "endTime": 64700, "word": "gonna " },
+        { "startTime": 64700, "endTime": 65500, "word": "say " },
+        { "startTime": 65500, "endTime": 67800, "word": "goodbye" }
+      ]
+    },
+    {
+      "time": 68000,
+      "endTime": 73200,
+      "text": "Never gonna tell a lie and hurt you",
+      "words": [
+        { "startTime": 68000, "endTime": 68600, "word": "Never " },
+        { "startTime": 68600, "endTime": 69100, "word": "gonna " },
+        { "startTime": 69100, "endTime": 69700, "word": "tell " },
+        { "startTime": 69700, "endTime": 70000, "word": "a " },
+        { "startTime": 70000, "endTime": 70600, "word": "lie " },
+        { "startTime": 70600, "endTime": 71100, "word": "and " },
+        { "startTime": 71100, "endTime": 71800, "word": "hurt " },
+        { "startTime": 71800, "endTime": 73200, "word": "you" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/dwip-the-dev/ZukeLyrics/main/schemas/zlf-v1.schema.json",
+  "title": "ZukeLyrics Format (ZLF) v1",
+  "description": "Standardized, high-precision, word-by-word synchronized lyrics format for decentralized music applications.",
+  "type": "object",
+  "required": [
+    "videoId",
+    "title",
+    "artist",
+    "syncedType",
+    "lines"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Reference URL to the JSON schema."
+    },
+    "version": {
+      "type": "integer",
+      "description": "Schema version number.",
+      "default": 1
+    },
+    "videoId": {
+      "type": "string",
+      "minLength": 1,
+      "description": "YouTube video ID, clean alphanumeric string used as the primary lookup key."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Clean track title."
+    },
+    "artist": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Primary artist or comma-separated artists."
+    },
+    "album": {
+      "type": "string",
+      "description": "Album title if known."
+    },
+    "duration": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Track duration in seconds."
+    },
+    "isrc": {
+      "type": "string",
+      "description": "International Standard Recording Code."
+    },
+    "spotifyId": {
+      "type": "string",
+      "description": "Spotify Track ID."
+    },
+    "mbid": {
+      "type": "string",
+      "description": "MusicBrainz Recording ID."
+    },
+    "language": {
+      "type": "string",
+      "description": "ISO 639-1 two-letter language code (e.g., 'en', 'es', 'ja', 'ko')."
+    },
+    "source": {
+      "type": "string",
+      "description": "Origin of alignment or transcription (e.g., 'Zuke-Community', 'AMLL', 'LRCLIB-Aligned', 'Manual')."
+    },
+    "syncedType": {
+      "type": "string",
+      "enum": ["word", "line", "plain", "instrumental"],
+      "description": "Synchronization fidelity level: 'word' for syllable/word-by-word karaoke, 'line' for line-synced, 'plain' for unsynced text, 'instrumental' for tracks without vocals."
+    },
+    "rawTtml": {
+      "type": "string",
+      "description": "Full TTML XML source representation if available."
+    },
+    "rawLrc": {
+      "type": "string",
+      "description": "Full LRC source representation if available."
+    },
+    "lines": {
+      "type": "array",
+      "description": "Sequential ordered array of lyric lines.",
+      "items": {
+        "type": "object",
+        "required": [
+          "time",
+          "endTime",
+          "text"
+        ],
+        "properties": {
+          "time": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Line start timestamp in milliseconds."
+          },
+          "endTime": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Line end timestamp in milliseconds."
+          },
+          "text": {
+            "type": "string",
+            "description": "Clean lyric text for the line."
+          },
+          "translation": {
+            "type": "string",
+            "description": "Optional translated text for the line."
+          },
+          "romanization": {
+            "type": "string",
+            "description": "Optional romanized pronunciation (e.g. Romaji, Pinyin, Revised Romanization)."
+          },
+          "isDuet": {
+            "type": "boolean",
+            "description": "Whether this line is performed by secondary singer or in duet mode.",
+            "default": false
+          },
+          "isBackground": {
+            "type": "boolean",
+            "description": "Whether this line represents background vocals or ad-libs.",
+            "default": false
+          },
+          "agent": {
+            "type": "string",
+            "description": "Vocalist identifier (e.g., 'v1', 'v2', 'bg')."
+          },
+          "words": {
+            "type": "array",
+            "description": "Word/syllable-level timing entries for karaoke rendering.",
+            "items": {
+              "type": "object",
+              "required": [
+                "startTime",
+                "endTime",
+                "word"
+              ],
+              "properties": {
+                "startTime": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "description": "Word start timestamp in milliseconds."
+                },
+                "endTime": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "description": "Word end timestamp in milliseconds."
+                },
+                "word": {
+                  "type": "string",
+                  "description": "Word or syllable token (including trailing space if applicable)."
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

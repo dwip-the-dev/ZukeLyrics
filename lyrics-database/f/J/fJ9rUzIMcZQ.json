@@ -1,0 +1,111 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dwip-the-dev/ZukeLyrics/main/schemas/zlf-v1.schema.json",
+  "version": 1,
+  "videoId": "fJ9rUzIMcZQ",
+  "title": "Bohemian Rhapsody",
+  "artist": "Queen",
+  "album": "A Night at the Opera",
+  "duration": 354,
+  "isrc": "GBUM71029606",
+  "language": "en",
+  "source": "Zuke-Community",
+  "syncedType": "word",
+  "lines": [
+    {
+      "time": 700,
+      "endTime": 4200,
+      "text": "Is this the real life?",
+      "words": [
+        { "startTime": 700, "endTime": 1200, "word": "Is " },
+        { "startTime": 1200, "endTime": 1600, "word": "this " },
+        { "startTime": 1600, "endTime": 1900, "word": "the " },
+        { "startTime": 1900, "endTime": 2800, "word": "real " },
+        { "startTime": 2800, "endTime": 4200, "word": "life?" }
+      ]
+    },
+    {
+      "time": 4500,
+      "endTime": 8400,
+      "text": "Is this just fantasy?",
+      "words": [
+        { "startTime": 4500, "endTime": 4900, "word": "Is " },
+        { "startTime": 4900, "endTime": 5300, "word": "this " },
+        { "startTime": 5300, "endTime": 5800, "word": "just " },
+        { "startTime": 5800, "endTime": 8400, "word": "fantasy?" }
+      ]
+    },
+    {
+      "time": 8600,
+      "endTime": 14200,
+      "text": "Caught in a landslide, no escape from reality",
+      "words": [
+        { "startTime": 8600, "endTime": 9200, "word": "Caught " },
+        { "startTime": 9200, "endTime": 9600, "word": "in " },
+        { "startTime": 9600, "endTime": 9900, "word": "a " },
+        { "startTime": 9900, "endTime": 11200, "word": "landslide, " },
+        { "startTime": 11200, "endTime": 11700, "word": "no " },
+        { "startTime": 11700, "endTime": 12500, "word": "escape " },
+        { "startTime": 12500, "endTime": 12900, "word": "from " },
+        { "startTime": 12900, "endTime": 14200, "word": "reality" }
+      ]
+    },
+    {
+      "time": 14500,
+      "endTime": 20400,
+      "text": "Open your eyes, look up to the skies and see",
+      "words": [
+        { "startTime": 14500, "endTime": 15200, "word": "Open " },
+        { "startTime": 15200, "endTime": 15600, "word": "your " },
+        { "startTime": 15600, "endTime": 16500, "word": "eyes, " },
+        { "startTime": 16500, "endTime": 17200, "word": "look " },
+        { "startTime": 17200, "endTime": 17600, "word": "up " },
+        { "startTime": 17600, "endTime": 17900, "word": "to " },
+        { "startTime": 17900, "endTime": 18200, "word": "the " },
+        { "startTime": 18200, "endTime": 19200, "word": "skies " },
+        { "startTime": 19200, "endTime": 19600, "word": "and " },
+        { "startTime": 19600, "endTime": 20400, "word": "see" }
+      ]
+    },
+    {
+      "time": 20700,
+      "endTime": 26500,
+      "text": "I'm just a poor boy, I need no sympathy",
+      "words": [
+        { "startTime": 20700, "endTime": 21200, "word": "I'm " },
+        { "startTime": 21200, "endTime": 21700, "word": "just " },
+        { "startTime": 21700, "endTime": 22000, "word": "a " },
+        { "startTime": 22000, "endTime": 22500, "word": "poor " },
+        { "startTime": 22500, "endTime": 23400, "word": "boy, " },
+        { "startTime": 23400, "endTime": 23800, "word": "I " },
+        { "startTime": 23800, "endTime": 24300, "word": "need " },
+        { "startTime": 24300, "endTime": 24800, "word": "no " },
+        { "startTime": 24800, "endTime": 26500, "word": "sympathy" }
+      ]
+    },
+    {
+      "time": 26800,
+      "endTime": 29800,
+      "text": "Because I'm easy come, easy go",
+      "isDuet": false,
+      "words": [
+        { "startTime": 26800, "endTime": 27200, "word": "Because " },
+        { "startTime": 27200, "endTime": 27600, "word": "I'm " },
+        { "startTime": 27600, "endTime": 28100, "word": "easy " },
+        { "startTime": 28100, "endTime": 28600, "word": "come, " },
+        { "startTime": 28600, "endTime": 29100, "word": "easy " },
+        { "startTime": 29100, "endTime": 29800, "word": "go" }
+      ]
+    },
+    {
+      "time": 30000,
+      "endTime": 33100,
+      "text": "Little high, little low",
+      "words": [
+        { "startTime": 30000, "endTime": 30500, "word": "Little " },
+        { "startTime": 30500, "endTime": 31200, "word": "high, " },
+        { "startTime": 31200, "endTime": 31800, "word": "little " },
+        { "startTime": 31800, "endTime": 33100, "word": "low" }
+      ]
+    }
+  ]
+}

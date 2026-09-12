@@ -1,0 +1,22 @@
+[
+  {
+    "videoId": "fJ9rUzIMcZQ",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "duration": 354,
+    "language": "en",
+    "syncedType": "word",
+    "linesCount": 7,
+    "path": "lyrics-database/f/J/fJ9rUzIMcZQ.json"
+  },
+  {
+    "videoId": "dQw4w9WgXcQ",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "duration": 213,
+    "language": "en",
+    "syncedType": "word",
+    "linesCount": 12,
+    "path": "lyrics-database/d/Q/dQw4w9WgXcQ.json"
+  }
+]
