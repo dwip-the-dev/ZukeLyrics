@@ -1,0 +1,1583 @@
+{
+  "videoId": "uvY8fdgezLQ",
+  "title": "Midnight Sun",
+  "artist": "Zara Larsson",
+  "duration": 188,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:13.370\" end=\"00:14.496\" ttm:agent=\"v1\">\n        <span begin=\"00:13.377\" end=\"00:13.580\">No<\/span>\n        <span begin=\"00:13.580\" end=\"00:14.496\">nightmares<\/span>\n      <\/p>\n      <p begin=\"00:15.390\" end=\"00:17.195\" ttm:agent=\"v1\">\n        <span begin=\"00:15.391\" end=\"00:15.655\">When<\/span>\n        <span begin=\"00:15.655\" end=\"00:15.887\">you<\/span>\n        <span begin=\"00:15.887\" end=\"00:16.071\">can<\/span>\n        <span begin=\"00:16.071\" end=\"00:16.254\">still<\/span>\n        <span begin=\"00:16.254\" end=\"00:16.439\">see<\/span>\n        <span begin=\"00:16.439\" end=\"00:16.623\">the<\/span>\n        <span begin=\"00:16.623\" end=\"00:17.195\">light<\/span>\n      <\/p>\n      <p begin=\"00:19.770\" end=\"00:20.595\" ttm:agent=\"v1\">\n        <span begin=\"00:19.779\" end=\"00:20.038\">Can&apos;t<\/span>\n        <span begin=\"00:20.038\" end=\"00:20.206\">find<\/span>\n        <span begin=\"00:20.206\" end=\"00:20.595\">me<\/span>\n      <\/p>\n      <p begin=\"00:21.560\" end=\"00:23.634\" ttm:agent=\"v1\">\n        <span begin=\"00:21.565\" end=\"00:21.802\">I&apos;m<\/span>\n        <span begin=\"00:21.802\" end=\"00:21.986\">not<\/span>\n        <span begin=\"00:21.986\" end=\"00:22.170\">in<\/span>\n        <span begin=\"00:22.170\" end=\"00:22.354\">the<\/span>\n        <span begin=\"00:22.354\" end=\"00:22.770\">city<\/span>\n        <span begin=\"00:22.770\" end=\"00:23.634\">tonight<\/span>\n      <\/p>\n      <p begin=\"00:24.940\" end=\"00:28.756\" ttm:agent=\"v1\">\n        <span begin=\"00:24.940\" end=\"00:25.180\">I<\/span>\n        <span begin=\"00:25.180\" end=\"00:25.380\">like<\/span>\n        <span begin=\"00:25.380\" end=\"00:25.564\">your<\/span>\n        <span begin=\"00:25.564\" end=\"00:26.364\">playlist,<\/span>\n        <span begin=\"00:26.364\" end=\"00:26.783\">boy,<\/span>\n        <span begin=\"00:26.783\" end=\"00:26.983\">turn<\/span>\n        <span begin=\"00:26.983\" end=\"00:27.215\">it<\/span>\n        <span begin=\"00:27.215\" end=\"00:27.399\">up<\/span>\n        <span begin=\"00:27.399\" end=\"00:27.583\">a<\/span>\n        <span begin=\"00:27.583\" end=\"00:27.932\">little<\/span>\n        <span begin=\"00:27.932\" end=\"00:28.756\">louder<\/span>\n      <\/p>\n      <p begin=\"00:28.750\" end=\"00:32.399\" ttm:agent=\"v1\">\n        <span begin=\"00:28.756\" end=\"00:29.135\">Road&apos;s<\/span>\n        <span begin=\"00:29.135\" end=\"00:29.794\">empty,<\/span>\n        <span begin=\"00:30.004\" end=\"00:30.220\">so<\/span>\n        <span begin=\"00:30.220\" end=\"00:30.404\">you<\/span>\n        <span begin=\"00:30.404\" end=\"00:30.569\">drive<\/span>\n        <span begin=\"00:30.569\" end=\"00:30.753\">a<\/span>\n        <span begin=\"00:30.753\" end=\"00:31.169\">little<\/span>\n        <span begin=\"00:31.169\" end=\"00:32.399\">faster<\/span>\n      <\/p>\n      <p begin=\"00:33.040\" end=\"00:36.621\" ttm:agent=\"v1\">\n        <span begin=\"00:33.048\" end=\"00:33.200\">Ain&apos;t<\/span>\n        <span begin=\"00:33.200\" end=\"00:33.517\">taken<\/span>\n        <span begin=\"00:33.517\" end=\"00:34.027\">nothing<\/span>\n        <span begin=\"00:34.027\" end=\"00:34.562\">tonight,<\/span>\n        <span begin=\"00:34.562\" end=\"00:34.826\">but<\/span>\n        <span begin=\"00:34.826\" end=\"00:35.112\">I&apos;m<\/span>\n        <span begin=\"00:35.112\" end=\"00:35.629\">feeling<\/span>\n        <span begin=\"00:35.629\" end=\"00:35.861\">so<\/span>\n        <span begin=\"00:35.861\" end=\"00:36.621\">high<\/span>\n      <\/p>\n      <p begin=\"00:37.380\" end=\"00:41.417\" ttm:agent=\"v1\">\n        <span begin=\"00:37.382\" end=\"00:37.849\">Show<\/span>\n        <span begin=\"00:37.849\" end=\"00:38.201\">my<\/span>\n        <span begin=\"00:38.201\" end=\"00:39.115\">tan<\/span>\n        <span begin=\"00:39.115\" end=\"00:39.833\">lines,<\/span>\n        <span begin=\"00:39.833\" end=\"00:41.417\">low-rise<\/span>\n      <\/p>\n      <p begin=\"00:41.410\" end=\"00:43.682\" ttm:agent=\"v1\">\n        <span begin=\"00:41.417\" end=\"00:43.052\">Rooftop<\/span>\n        <span begin=\"00:43.052\" end=\"00:43.682\">down<\/span>\n      <\/p>\n      <p begin=\"00:43.860\" end=\"00:49.164\" ttm:agent=\"v1\">\n        <span begin=\"00:43.866\" end=\"00:44.645\">It&apos;s<\/span>\n        <span begin=\"00:44.645\" end=\"00:46.261\">golden<\/span>\n        <span begin=\"00:46.261\" end=\"00:46.861\">hour<\/span>\n        <span begin=\"00:47.045\" end=\"00:47.479\">all<\/span>\n        <span begin=\"00:47.479\" end=\"00:47.845\">the<\/span>\n        <span begin=\"00:47.845\" end=\"00:49.164\">time<\/span>\n      <\/p>\n      <p begin=\"00:50.560\" end=\"00:54.171\" ttm:agent=\"v1\">\n        <span begin=\"00:50.562\" end=\"00:50.823\">It&apos;s<\/span>\n        <span begin=\"00:50.823\" end=\"00:50.989\">that<\/span>\n        <span begin=\"00:50.989\" end=\"00:51.706\">midnight<\/span>\n        <span begin=\"00:51.706\" end=\"00:52.607\">sun-kissed<\/span>\n        <span begin=\"00:52.607\" end=\"00:52.789\">skin<\/span>\n        <span begin=\"00:52.789\" end=\"00:53.255\">under<\/span>\n        <span begin=\"00:53.255\" end=\"00:53.423\">the<\/span>\n        <span begin=\"00:53.423\" end=\"00:53.823\">red<\/span>\n        <span begin=\"00:53.823\" end=\"00:54.171\">sky<\/span>\n      <\/p>\n      <p begin=\"00:54.170\" end=\"00:56.413\" ttm:agent=\"v1\">\n        <span begin=\"00:54.171\" end=\"00:54.670\">Laying<\/span>\n        <span begin=\"00:54.670\" end=\"00:54.854\">on<\/span>\n        <span begin=\"00:54.854\" end=\"00:54.987\">your<\/span>\n        <span begin=\"00:54.987\" end=\"00:55.371\">chest<\/span>\n        <span begin=\"00:55.371\" end=\"00:55.838\">like<\/span>\n        <span begin=\"00:55.838\" end=\"00:56.413\">this<\/span>\n      <\/p>\n      <p begin=\"00:56.510\" end=\"00:58.664\" ttm:agent=\"v1\">\n        <span begin=\"00:56.513\" end=\"00:56.854\">Hold<\/span>\n        <span begin=\"00:56.854\" end=\"00:57.036\">me<\/span>\n        <span begin=\"00:57.036\" end=\"00:57.220\">like<\/span>\n        <span begin=\"00:57.220\" end=\"00:57.388\">the<\/span>\n        <span begin=\"00:57.388\" end=\"00:57.854\">pebbles<\/span>\n        <span begin=\"00:57.854\" end=\"00:58.036\">in<\/span>\n        <span begin=\"00:58.036\" end=\"00:58.204\">your<\/span>\n        <span begin=\"00:58.204\" end=\"00:58.664\">hand<\/span>\n      <\/p>\n      <p begin=\"00:58.660\" end=\"01:00.583\" ttm:agent=\"v1\">\n        <span begin=\"00:58.664\" end=\"00:59.491\">Initials<\/span>\n        <span begin=\"00:59.491\" end=\"00:59.624\">in<\/span>\n        <span begin=\"00:59.624\" end=\"00:59.808\">the<\/span>\n        <span begin=\"00:59.808\" end=\"01:00.208\">sand,<\/span>\n        <span begin=\"01:00.208\" end=\"01:00.583\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:00.580\" end=\"01:02.802\" ttm:agent=\"v1\">\n        <span begin=\"01:00.583\" end=\"01:01.007\">Summer<\/span>\n        <span begin=\"01:01.007\" end=\"01:01.372\">isn&apos;t<\/span>\n        <span begin=\"01:01.372\" end=\"01:02.223\">over<\/span>\n        <span begin=\"01:02.223\" end=\"01:02.802\">yet<\/span>\n      <\/p>\n      <p begin=\"01:03.180\" end=\"01:05.397\" ttm:agent=\"v1\">\n        <span begin=\"01:03.187\" end=\"01:04.190\">Skinny-dipping<\/span>\n        <span begin=\"01:04.190\" end=\"01:04.342\">with<\/span>\n        <span begin=\"01:04.342\" end=\"01:04.504\">your<\/span>\n        <span begin=\"01:04.504\" end=\"01:04.955\">heart<\/span>\n        <span begin=\"01:04.955\" end=\"01:05.397\">out<\/span>\n      <\/p>\n      <p begin=\"01:05.390\" end=\"01:06.932\" ttm:agent=\"v1\">\n        <span begin=\"01:05.397\" end=\"01:05.659\">It&apos;s<\/span>\n        <span begin=\"01:05.659\" end=\"01:05.825\">my<\/span>\n        <span begin=\"01:05.825\" end=\"01:06.193\">favorite<\/span>\n        <span begin=\"01:06.193\" end=\"01:06.558\">part<\/span>\n        <span begin=\"01:06.558\" end=\"01:06.932\">now<\/span>\n      <\/p>\n      <p begin=\"01:06.930\" end=\"01:08.948\" ttm:agent=\"v1\">\n        <span begin=\"01:06.932\" end=\"01:07.175\">We<\/span>\n        <span begin=\"01:07.175\" end=\"01:07.359\">ain&apos;t<\/span>\n        <span begin=\"01:07.359\" end=\"01:07.724\">gotta<\/span>\n        <span begin=\"01:07.724\" end=\"01:08.124\">tell<\/span>\n        <span begin=\"01:08.124\" end=\"01:08.527\">no<\/span>\n        <span begin=\"01:08.527\" end=\"01:08.948\">one<\/span>\n      <\/p>\n      <p begin=\"01:09.460\" end=\"01:22.235\" ttm:agent=\"v1\">\n        <span begin=\"01:09.466\" end=\"01:09.690\">A<\/span>\n        <span begin=\"01:09.690\" end=\"01:11.607\">never-ending<\/span>\n        <span begin=\"01:11.607\" end=\"01:13.150\">midnight<\/span>\n        <span begin=\"01:13.150\" end=\"01:22.235\">sun<\/span>\n      <\/p>\n      <p begin=\"01:22.230\" end=\"01:29.193\" ttm:agent=\"v1\">\n        <span begin=\"01:22.235\" end=\"01:22.432\">A<\/span>\n        <span begin=\"01:22.432\" end=\"01:24.366\">never-ending<\/span>\n        <span begin=\"01:24.366\" end=\"01:25.914\">midnight<\/span>\n        <span begin=\"01:25.914\" end=\"01:29.193\">sun<\/span>\n      <\/p>\n      <p begin=\"01:32.910\" end=\"01:33.997\" ttm:agent=\"v1\">\n        <span begin=\"01:32.914\" end=\"01:33.997\">Connected<\/span>\n      <\/p>\n      <p begin=\"01:34.880\" end=\"01:36.743\" ttm:agent=\"v1\">\n        <span begin=\"01:34.882\" end=\"01:35.079\">I&apos;m<\/span>\n        <span begin=\"01:35.079\" end=\"01:35.231\">so<\/span>\n        <span begin=\"01:35.231\" end=\"01:35.461\">in<\/span>\n        <span begin=\"01:35.461\" end=\"01:35.679\">touch<\/span>\n        <span begin=\"01:35.679\" end=\"01:35.994\">with<\/span>\n        <span begin=\"01:35.994\" end=\"01:36.229\">it<\/span>\n        <span begin=\"01:36.229\" end=\"01:36.743\">all<\/span>\n      <\/p>\n      <p begin=\"01:38.930\" end=\"01:40.182\" ttm:agent=\"v1\">\n        <span begin=\"01:38.934\" end=\"01:39.315\">Feel<\/span>\n        <span begin=\"01:39.315\" end=\"01:40.182\">protected<\/span>\n      <\/p>\n      <p begin=\"01:41.430\" end=\"01:43.216\" ttm:agent=\"v1\">\n        <span begin=\"01:41.431\" end=\"01:41.740\">By<\/span>\n        <span begin=\"01:41.740\" end=\"01:41.991\">the<\/span>\n        <span begin=\"01:41.991\" end=\"01:42.124\">moon<\/span>\n        <span begin=\"01:42.124\" end=\"01:42.295\">and<\/span>\n        <span begin=\"01:42.295\" end=\"01:42.460\">the<\/span>\n        <span begin=\"01:42.460\" end=\"01:43.216\">stars<\/span>\n      <\/p>\n      <p begin=\"01:44.390\" end=\"01:47.882\" ttm:agent=\"v1\">\n        <span begin=\"01:44.399\" end=\"01:44.615\">I&apos;m<\/span>\n        <span begin=\"01:44.615\" end=\"01:45.031\">walking<\/span>\n        <span begin=\"01:45.031\" end=\"01:45.850\">barefoot,<\/span>\n        <span begin=\"01:45.850\" end=\"01:46.033\">feel<\/span>\n        <span begin=\"01:46.033\" end=\"01:46.202\">the<\/span>\n        <span begin=\"01:46.202\" end=\"01:46.634\">grass<\/span>\n        <span begin=\"01:46.634\" end=\"01:46.818\">in<\/span>\n        <span begin=\"01:46.818\" end=\"01:47.215\">between<\/span>\n        <span begin=\"01:47.215\" end=\"01:47.388\">my<\/span>\n        <span begin=\"01:47.388\" end=\"01:47.882\">toes<\/span>\n      <\/p>\n      <p begin=\"01:47.880\" end=\"01:52.113\" ttm:agent=\"v1\">\n        <span begin=\"01:47.882\" end=\"01:48.628\">Bombshell<\/span>\n        <span begin=\"01:48.628\" end=\"01:49.095\">wind<\/span>\n        <span begin=\"01:49.095\" end=\"01:49.277\">in<\/span>\n        <span begin=\"01:49.277\" end=\"01:49.461\">my<\/span>\n        <span begin=\"01:49.461\" end=\"01:49.829\">hair,<\/span>\n        <span begin=\"01:49.829\" end=\"01:50.279\">baby,<\/span>\n        <span begin=\"01:50.279\" end=\"01:50.445\">let<\/span>\n        <span begin=\"01:50.445\" end=\"01:50.613\">it<\/span>\n        <span begin=\"01:50.613\" end=\"01:51.029\">blow,<\/span>\n        <span begin=\"01:51.029\" end=\"01:52.113\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:52.570\" end=\"01:56.167\" ttm:agent=\"v1\">\n        <span begin=\"01:52.578\" end=\"01:52.799\">It&apos;s<\/span>\n        <span begin=\"01:52.799\" end=\"01:52.951\">been<\/span>\n        <span begin=\"01:52.951\" end=\"01:53.069\">a<\/span>\n        <span begin=\"01:53.069\" end=\"01:53.351\">while<\/span>\n        <span begin=\"01:53.351\" end=\"01:53.583\">since<\/span>\n        <span begin=\"01:53.583\" end=\"01:53.834\">I<\/span>\n        <span begin=\"01:53.834\" end=\"01:54.085\">cried<\/span>\n        <span begin=\"01:54.085\" end=\"01:54.602\">over<\/span>\n        <span begin=\"01:54.602\" end=\"01:55.119\">something<\/span>\n        <span begin=\"01:55.119\" end=\"01:55.335\">so<\/span>\n        <span begin=\"01:55.335\" end=\"01:56.167\">nice<\/span>\n      <\/p>\n      <p begin=\"01:56.860\" end=\"02:00.883\" ttm:agent=\"v1\">\n        <span begin=\"01:56.869\" end=\"01:57.346\">Show<\/span>\n        <span begin=\"01:57.346\" end=\"01:57.712\">my<\/span>\n        <span begin=\"01:57.712\" end=\"01:58.545\">tan<\/span>\n        <span begin=\"01:58.545\" end=\"01:59.197\">lines,<\/span>\n        <span begin=\"01:59.312\" end=\"02:00.883\">low-rise<\/span>\n      <\/p>\n      <p begin=\"02:00.990\" end=\"02:03.182\" ttm:agent=\"v1\">\n        <span begin=\"02:00.993\" end=\"02:02.500\">Rooftop<\/span>\n        <span begin=\"02:02.500\" end=\"02:03.182\">down<\/span>\n      <\/p>\n      <p begin=\"02:03.300\" end=\"02:08.721\" ttm:agent=\"v1\">\n        <span begin=\"02:03.302\" end=\"02:04.126\">It&apos;s<\/span>\n        <span begin=\"02:04.126\" end=\"02:05.694\">golden<\/span>\n        <span begin=\"02:05.694\" end=\"02:06.324\">hour<\/span>\n        <span begin=\"02:06.526\" end=\"02:06.977\">all<\/span>\n        <span begin=\"02:06.977\" end=\"02:07.310\">the<\/span>\n        <span begin=\"02:07.310\" end=\"02:08.721\">time<\/span>\n      <\/p>\n      <p begin=\"02:03.300\" end=\"02:09.847\" role=\"x-bg\">\n        <span begin=\"02:08.079\" end=\"02:08.524\">(All<\/span>\n        <span begin=\"02:08.524\" end=\"02:08.892\">the<\/span>\n        <span begin=\"02:08.892\" end=\"02:09.847\">time)<\/span>\n      <\/p>\n      <p begin=\"02:10.020\" end=\"02:13.667\" ttm:agent=\"v1\">\n        <span begin=\"02:10.027\" end=\"02:10.297\">It&apos;s<\/span>\n        <span begin=\"02:10.297\" end=\"02:10.447\">that<\/span>\n        <span begin=\"02:10.447\" end=\"02:11.231\">midnight<\/span>\n        <span begin=\"02:11.231\" end=\"02:12.081\">sun-kissed<\/span>\n        <span begin=\"02:12.081\" end=\"02:12.265\">skin<\/span>\n        <span begin=\"02:12.265\" end=\"02:12.665\">under<\/span>\n        <span begin=\"02:12.665\" end=\"02:12.849\">the<\/span>\n        <span begin=\"02:12.849\" end=\"02:13.201\">red<\/span>\n        <span begin=\"02:13.201\" end=\"02:13.667\">sky<\/span>\n      <\/p>\n      <p begin=\"02:13.660\" end=\"02:15.981\" ttm:agent=\"v1\">\n        <span begin=\"02:13.667\" end=\"02:14.080\">Laying<\/span>\n        <span begin=\"02:14.080\" end=\"02:14.264\">on<\/span>\n        <span begin=\"02:14.264\" end=\"02:14.435\">your<\/span>\n        <span begin=\"02:14.435\" end=\"02:14.832\">chest<\/span>\n        <span begin=\"02:14.832\" end=\"02:15.232\">like<\/span>\n        <span begin=\"02:15.232\" end=\"02:15.664\">this,<\/span>\n        <span begin=\"02:15.664\" end=\"02:15.981\">ah<\/span>\n      <\/p>\n      <p begin=\"02:16.070\" end=\"02:18.125\" ttm:agent=\"v1\">\n        <span begin=\"02:16.071\" end=\"02:16.362\">Hold<\/span>\n        <span begin=\"02:16.362\" end=\"02:16.495\">me<\/span>\n        <span begin=\"02:16.495\" end=\"02:16.695\">like<\/span>\n        <span begin=\"02:16.695\" end=\"02:16.863\">the<\/span>\n        <span begin=\"02:16.863\" end=\"02:17.295\">pebbles<\/span>\n        <span begin=\"02:17.295\" end=\"02:17.478\">in<\/span>\n        <span begin=\"02:17.478\" end=\"02:17.634\">your<\/span>\n        <span begin=\"02:17.634\" end=\"02:18.125\">hand<\/span>\n      <\/p>\n      <p begin=\"02:18.120\" end=\"02:19.941\" ttm:agent=\"v1\">\n        <span begin=\"02:18.125\" end=\"02:18.877\">Initials<\/span>\n        <span begin=\"02:18.877\" end=\"02:19.042\">in<\/span>\n        <span begin=\"02:19.042\" end=\"02:19.197\">the<\/span>\n        <span begin=\"02:19.197\" end=\"02:19.626\">sand,<\/span>\n        <span begin=\"02:19.626\" end=\"02:19.941\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:19.970\" end=\"02:22.091\" ttm:agent=\"v1\">\n        <span begin=\"02:19.974\" end=\"02:20.430\">Summer<\/span>\n        <span begin=\"02:20.430\" end=\"02:20.795\">isn&apos;t<\/span>\n        <span begin=\"02:20.795\" end=\"02:21.614\">over<\/span>\n        <span begin=\"02:21.614\" end=\"02:22.091\">yet<\/span>\n      <\/p>\n      <p begin=\"02:22.710\" end=\"02:24.850\" ttm:agent=\"v1\">\n        <span begin=\"02:22.713\" end=\"02:23.665\">Skinny-dipping<\/span>\n        <span begin=\"02:23.665\" end=\"02:23.829\">with<\/span>\n        <span begin=\"02:23.829\" end=\"02:24.014\">your<\/span>\n        <span begin=\"02:24.014\" end=\"02:24.433\">heart<\/span>\n        <span begin=\"02:24.433\" end=\"02:24.850\">out<\/span>\n      <\/p>\n      <p begin=\"02:24.850\" end=\"02:26.422\" ttm:agent=\"v1\">\n        <span begin=\"02:24.850\" end=\"02:25.093\">It&apos;s<\/span>\n        <span begin=\"02:25.093\" end=\"02:25.258\">my<\/span>\n        <span begin=\"02:25.258\" end=\"02:25.642\">favorite<\/span>\n        <span begin=\"02:25.642\" end=\"02:26.061\">part<\/span>\n        <span begin=\"02:26.061\" end=\"02:26.422\">now<\/span>\n      <\/p>\n      <p begin=\"02:26.420\" end=\"02:28.476\" ttm:agent=\"v1\">\n        <span begin=\"02:26.422\" end=\"02:26.649\">We<\/span>\n        <span begin=\"02:26.649\" end=\"02:26.814\">ain&apos;t<\/span>\n        <span begin=\"02:26.814\" end=\"02:27.182\">gotta<\/span>\n        <span begin=\"02:27.182\" end=\"02:27.582\">tell<\/span>\n        <span begin=\"02:27.582\" end=\"02:27.966\">no<\/span>\n        <span begin=\"02:27.966\" end=\"02:28.476\">one<\/span>\n      <\/p>\n      <p begin=\"02:26.420\" end=\"02:29.426\" role=\"x-bg\">\n        <span begin=\"02:28.345\" end=\"02:29.426\">(Shh)<\/span>\n      <\/p>\n      <p begin=\"02:28.940\" end=\"02:41.632\" ttm:agent=\"v1\">\n        <span begin=\"02:28.947\" end=\"02:29.182\">A<\/span>\n        <span begin=\"02:29.182\" end=\"02:31.150\">never-ending<\/span>\n        <span begin=\"02:31.150\" end=\"02:32.632\">midnight<\/span>\n        <span begin=\"02:32.632\" end=\"02:41.632\">sun<\/span>\n      <\/p>\n      <p begin=\"02:41.630\" end=\"02:55.009\" ttm:agent=\"v1\">\n        <span begin=\"02:41.632\" end=\"02:41.803\">A<\/span>\n        <span begin=\"02:41.803\" end=\"02:43.819\">never-ending<\/span>\n        <span begin=\"02:43.819\" end=\"02:45.368\">midnight<\/span>\n        <span begin=\"02:45.368\" end=\"02:55.009\">sun<\/span>\n      <\/p>\n      <p begin=\"02:50.330\" end=\"02:52.680\" ttm:agent=\"v1\">\n        <span begin=\"02:50.335\" end=\"02:50.570\">A<\/span>\n        <span begin=\"02:50.570\" end=\"02:51.588\">never-ending<\/span>\n        <span begin=\"02:51.588\" end=\"02:52.122\">midnight<\/span>\n        <span begin=\"02:52.122\" end=\"02:52.680\">sun<\/span>\n      <\/p>\n      <p begin=\"02:54.300\" end=\"03:01.479\" ttm:agent=\"v1\">\n        <span begin=\"02:54.303\" end=\"02:54.579\">A<\/span>\n        <span begin=\"02:54.579\" end=\"02:56.564\">never-ending<\/span>\n        <span begin=\"02:56.564\" end=\"02:58.009\">midnight<\/span>\n        <span begin=\"02:58.009\" end=\"03:01.479\">sun<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 13370,
+      "endTime": 14496,
+      "text": "No nightmares",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 13377,
+          "endTime": 13580,
+          "word": "No"
+        },
+        {
+          "startTime": 13580,
+          "endTime": 14496,
+          "word": "nightmares"
+        }
+      ]
+    },
+    {
+      "time": 15390,
+      "endTime": 17195,
+      "text": "When you can still see the light",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15391,
+          "endTime": 15655,
+          "word": "When"
+        },
+        {
+          "startTime": 15655,
+          "endTime": 15887,
+          "word": "you"
+        },
+        {
+          "startTime": 15887,
+          "endTime": 16071,
+          "word": "can"
+        },
+        {
+          "startTime": 16071,
+          "endTime": 16254,
+          "word": "still"
+        },
+        {
+          "startTime": 16254,
+          "endTime": 16439,
+          "word": "see"
+        },
+        {
+          "startTime": 16439,
+          "endTime": 16623,
+          "word": "the"
+        },
+        {
+          "startTime": 16623,
+          "endTime": 17195,
+          "word": "light"
+        }
+      ]
+    },
+    {
+      "time": 19770,
+      "endTime": 20595,
+      "text": "Can't find me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19779,
+          "endTime": 20038,
+          "word": "Can't"
+        },
+        {
+          "startTime": 20038,
+          "endTime": 20206,
+          "word": "find"
+        },
+        {
+          "startTime": 20206,
+          "endTime": 20595,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 21560,
+      "endTime": 23634,
+      "text": "I'm not in the city tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21565,
+          "endTime": 21802,
+          "word": "I'm"
+        },
+        {
+          "startTime": 21802,
+          "endTime": 21986,
+          "word": "not"
+        },
+        {
+          "startTime": 21986,
+          "endTime": 22170,
+          "word": "in"
+        },
+        {
+          "startTime": 22170,
+          "endTime": 22354,
+          "word": "the"
+        },
+        {
+          "startTime": 22354,
+          "endTime": 22770,
+          "word": "city"
+        },
+        {
+          "startTime": 22770,
+          "endTime": 23634,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 24940,
+      "endTime": 28756,
+      "text": "I like your playlist, boy, turn it up a little louder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24940,
+          "endTime": 25180,
+          "word": "I"
+        },
+        {
+          "startTime": 25180,
+          "endTime": 25380,
+          "word": "like"
+        },
+        {
+          "startTime": 25380,
+          "endTime": 25564,
+          "word": "your"
+        },
+        {
+          "startTime": 25564,
+          "endTime": 26364,
+          "word": "playlist,"
+        },
+        {
+          "startTime": 26364,
+          "endTime": 26783,
+          "word": "boy,"
+        },
+        {
+          "startTime": 26783,
+          "endTime": 26983,
+          "word": "turn"
+        },
+        {
+          "startTime": 26983,
+          "endTime": 27215,
+          "word": "it"
+        },
+        {
+          "startTime": 27215,
+          "endTime": 27399,
+          "word": "up"
+        },
+        {
+          "startTime": 27399,
+          "endTime": 27583,
+          "word": "a"
+        },
+        {
+          "startTime": 27583,
+          "endTime": 27932,
+          "word": "little"
+        },
+        {
+          "startTime": 27932,
+          "endTime": 28756,
+          "word": "louder"
+        }
+      ]
+    },
+    {
+      "time": 28750,
+      "endTime": 32399,
+      "text": "Road's empty, so you drive a little faster",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28756,
+          "endTime": 29135,
+          "word": "Road's"
+        },
+        {
+          "startTime": 29135,
+          "endTime": 29794,
+          "word": "empty,"
+        },
+        {
+          "startTime": 30004,
+          "endTime": 30220,
+          "word": "so"
+        },
+        {
+          "startTime": 30220,
+          "endTime": 30404,
+          "word": "you"
+        },
+        {
+          "startTime": 30404,
+          "endTime": 30569,
+          "word": "drive"
+        },
+        {
+          "startTime": 30569,
+          "endTime": 30753,
+          "word": "a"
+        },
+        {
+          "startTime": 30753,
+          "endTime": 31169,
+          "word": "little"
+        },
+        {
+          "startTime": 31169,
+          "endTime": 32399,
+          "word": "faster"
+        }
+      ]
+    },
+    {
+      "time": 33040,
+      "endTime": 36621,
+      "text": "Ain't taken nothing tonight, but I'm feeling so high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 33048,
+          "endTime": 33200,
+          "word": "Ain't"
+        },
+        {
+          "startTime": 33200,
+          "endTime": 33517,
+          "word": "taken"
+        },
+        {
+          "startTime": 33517,
+          "endTime": 34027,
+          "word": "nothing"
+        },
+        {
+          "startTime": 34027,
+          "endTime": 34562,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 34562,
+          "endTime": 34826,
+          "word": "but"
+        },
+        {
+          "startTime": 34826,
+          "endTime": 35112,
+          "word": "I'm"
+        },
+        {
+          "startTime": 35112,
+          "endTime": 35629,
+          "word": "feeling"
+        },
+        {
+          "startTime": 35629,
+          "endTime": 35861,
+          "word": "so"
+        },
+        {
+          "startTime": 35861,
+          "endTime": 36621,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 37380,
+      "endTime": 41417,
+      "text": "Show my tan lines, low-rise",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37382,
+          "endTime": 37849,
+          "word": "Show"
+        },
+        {
+          "startTime": 37849,
+          "endTime": 38201,
+          "word": "my"
+        },
+        {
+          "startTime": 38201,
+          "endTime": 39115,
+          "word": "tan"
+        },
+        {
+          "startTime": 39115,
+          "endTime": 39833,
+          "word": "lines,"
+        },
+        {
+          "startTime": 39833,
+          "endTime": 41417,
+          "word": "low-rise"
+        }
+      ]
+    },
+    {
+      "time": 41410,
+      "endTime": 43682,
+      "text": "Rooftop down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41417,
+          "endTime": 43052,
+          "word": "Rooftop"
+        },
+        {
+          "startTime": 43052,
+          "endTime": 43682,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 43860,
+      "endTime": 49164,
+      "text": "It's golden hour all the time",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43866,
+          "endTime": 44645,
+          "word": "It's"
+        },
+        {
+          "startTime": 44645,
+          "endTime": 46261,
+          "word": "golden"
+        },
+        {
+          "startTime": 46261,
+          "endTime": 46861,
+          "word": "hour"
+        },
+        {
+          "startTime": 47045,
+          "endTime": 47479,
+          "word": "all"
+        },
+        {
+          "startTime": 47479,
+          "endTime": 47845,
+          "word": "the"
+        },
+        {
+          "startTime": 47845,
+          "endTime": 49164,
+          "word": "time"
+        }
+      ]
+    },
+    {
+      "time": 50560,
+      "endTime": 54171,
+      "text": "It's that midnight sun-kissed skin under the red sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50562,
+          "endTime": 50823,
+          "word": "It's"
+        },
+        {
+          "startTime": 50823,
+          "endTime": 50989,
+          "word": "that"
+        },
+        {
+          "startTime": 50989,
+          "endTime": 51706,
+          "word": "midnight"
+        },
+        {
+          "startTime": 51706,
+          "endTime": 52607,
+          "word": "sun-kissed"
+        },
+        {
+          "startTime": 52607,
+          "endTime": 52789,
+          "word": "skin"
+        },
+        {
+          "startTime": 52789,
+          "endTime": 53255,
+          "word": "under"
+        },
+        {
+          "startTime": 53255,
+          "endTime": 53423,
+          "word": "the"
+        },
+        {
+          "startTime": 53423,
+          "endTime": 53823,
+          "word": "red"
+        },
+        {
+          "startTime": 53823,
+          "endTime": 54171,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 54170,
+      "endTime": 56413,
+      "text": "Laying on your chest like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54171,
+          "endTime": 54670,
+          "word": "Laying"
+        },
+        {
+          "startTime": 54670,
+          "endTime": 54854,
+          "word": "on"
+        },
+        {
+          "startTime": 54854,
+          "endTime": 54987,
+          "word": "your"
+        },
+        {
+          "startTime": 54987,
+          "endTime": 55371,
+          "word": "chest"
+        },
+        {
+          "startTime": 55371,
+          "endTime": 55838,
+          "word": "like"
+        },
+        {
+          "startTime": 55838,
+          "endTime": 56413,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 56510,
+      "endTime": 58664,
+      "text": "Hold me like the pebbles in your hand",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56513,
+          "endTime": 56854,
+          "word": "Hold"
+        },
+        {
+          "startTime": 56854,
+          "endTime": 57036,
+          "word": "me"
+        },
+        {
+          "startTime": 57036,
+          "endTime": 57220,
+          "word": "like"
+        },
+        {
+          "startTime": 57220,
+          "endTime": 57388,
+          "word": "the"
+        },
+        {
+          "startTime": 57388,
+          "endTime": 57854,
+          "word": "pebbles"
+        },
+        {
+          "startTime": 57854,
+          "endTime": 58036,
+          "word": "in"
+        },
+        {
+          "startTime": 58036,
+          "endTime": 58204,
+          "word": "your"
+        },
+        {
+          "startTime": 58204,
+          "endTime": 58664,
+          "word": "hand"
+        }
+      ]
+    },
+    {
+      "time": 58660,
+      "endTime": 60583,
+      "text": "Initials in the sand, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 58664,
+          "endTime": 59491,
+          "word": "Initials"
+        },
+        {
+          "startTime": 59491,
+          "endTime": 59624,
+          "word": "in"
+        },
+        {
+          "startTime": 59624,
+          "endTime": 59808,
+          "word": "the"
+        },
+        {
+          "startTime": 59808,
+          "endTime": 60208,
+          "word": "sand,"
+        },
+        {
+          "startTime": 60208,
+          "endTime": 60583,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 60580,
+      "endTime": 62802,
+      "text": "Summer isn't over yet",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 60583,
+          "endTime": 61007,
+          "word": "Summer"
+        },
+        {
+          "startTime": 61007,
+          "endTime": 61372,
+          "word": "isn't"
+        },
+        {
+          "startTime": 61372,
+          "endTime": 62223,
+          "word": "over"
+        },
+        {
+          "startTime": 62223,
+          "endTime": 62802,
+          "word": "yet"
+        }
+      ]
+    },
+    {
+      "time": 63180,
+      "endTime": 65397,
+      "text": "Skinny-dipping with your heart out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63187,
+          "endTime": 64190,
+          "word": "Skinny-dipping"
+        },
+        {
+          "startTime": 64190,
+          "endTime": 64342,
+          "word": "with"
+        },
+        {
+          "startTime": 64342,
+          "endTime": 64504,
+          "word": "your"
+        },
+        {
+          "startTime": 64504,
+          "endTime": 64955,
+          "word": "heart"
+        },
+        {
+          "startTime": 64955,
+          "endTime": 65397,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 65390,
+      "endTime": 66932,
+      "text": "It's my favorite part now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65397,
+          "endTime": 65659,
+          "word": "It's"
+        },
+        {
+          "startTime": 65659,
+          "endTime": 65825,
+          "word": "my"
+        },
+        {
+          "startTime": 65825,
+          "endTime": 66193,
+          "word": "favorite"
+        },
+        {
+          "startTime": 66193,
+          "endTime": 66558,
+          "word": "part"
+        },
+        {
+          "startTime": 66558,
+          "endTime": 66932,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 66930,
+      "endTime": 68948,
+      "text": "We ain't gotta tell no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66932,
+          "endTime": 67175,
+          "word": "We"
+        },
+        {
+          "startTime": 67175,
+          "endTime": 67359,
+          "word": "ain't"
+        },
+        {
+          "startTime": 67359,
+          "endTime": 67724,
+          "word": "gotta"
+        },
+        {
+          "startTime": 67724,
+          "endTime": 68124,
+          "word": "tell"
+        },
+        {
+          "startTime": 68124,
+          "endTime": 68527,
+          "word": "no"
+        },
+        {
+          "startTime": 68527,
+          "endTime": 68948,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 69460,
+      "endTime": 82235,
+      "text": "A never-ending midnight sun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69466,
+          "endTime": 69690,
+          "word": "A"
+        },
+        {
+          "startTime": 69690,
+          "endTime": 71607,
+          "word": "never-ending"
+        },
+        {
+          "startTime": 71607,
+          "endTime": 73150,
+          "word": "midnight"
+        },
+        {
+          "startTime": 73150,
+          "endTime": 82235,
+          "word": "sun"
+        }
+      ]
+    },
+    {
+      "time": 82230,
+      "endTime": 89193,
+      "text": "A never-ending midnight sun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 82235,
+          "endTime": 82432,
+          "word": "A"
+        },
+        {
+          "startTime": 82432,
+          "endTime": 84366,
+          "word": "never-ending"
+        },
+        {
+          "startTime": 84366,
+          "endTime": 85914,
+          "word": "midnight"
+        },
+        {
+          "startTime": 85914,
+          "endTime": 89193,
+          "word": "sun"
+        }
+      ]
+    },
+    {
+      "time": 92910,
+      "endTime": 93997,
+      "text": "Connected",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92914,
+          "endTime": 93997,
+          "word": "Connected"
+        }
+      ]
+    },
+    {
+      "time": 94880,
+      "endTime": 96743,
+      "text": "I'm so in touch with it all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94882,
+          "endTime": 95079,
+          "word": "I'm"
+        },
+        {
+          "startTime": 95079,
+          "endTime": 95231,
+          "word": "so"
+        },
+        {
+          "startTime": 95231,
+          "endTime": 95461,
+          "word": "in"
+        },
+        {
+          "startTime": 95461,
+          "endTime": 95679,
+          "word": "touch"
+        },
+        {
+          "startTime": 95679,
+          "endTime": 95994,
+          "word": "with"
+        },
+        {
+          "startTime": 95994,
+          "endTime": 96229,
+          "word": "it"
+        },
+        {
+          "startTime": 96229,
+          "endTime": 96743,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 98930,
+      "endTime": 100182,
+      "text": "Feel protected",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98934,
+          "endTime": 99315,
+          "word": "Feel"
+        },
+        {
+          "startTime": 99315,
+          "endTime": 100182,
+          "word": "protected"
+        }
+      ]
+    },
+    {
+      "time": 101430,
+      "endTime": 103216,
+      "text": "By the moon and the stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101431,
+          "endTime": 101740,
+          "word": "By"
+        },
+        {
+          "startTime": 101740,
+          "endTime": 101991,
+          "word": "the"
+        },
+        {
+          "startTime": 101991,
+          "endTime": 102124,
+          "word": "moon"
+        },
+        {
+          "startTime": 102124,
+          "endTime": 102295,
+          "word": "and"
+        },
+        {
+          "startTime": 102295,
+          "endTime": 102460,
+          "word": "the"
+        },
+        {
+          "startTime": 102460,
+          "endTime": 103216,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 104390,
+      "endTime": 107882,
+      "text": "I'm walking barefoot, feel the grass in between my toes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104399,
+          "endTime": 104615,
+          "word": "I'm"
+        },
+        {
+          "startTime": 104615,
+          "endTime": 105031,
+          "word": "walking"
+        },
+        {
+          "startTime": 105031,
+          "endTime": 105850,
+          "word": "barefoot,"
+        },
+        {
+          "startTime": 105850,
+          "endTime": 106033,
+          "word": "feel"
+        },
+        {
+          "startTime": 106033,
+          "endTime": 106202,
+          "word": "the"
+        },
+        {
+          "startTime": 106202,
+          "endTime": 106634,
+          "word": "grass"
+        },
+        {
+          "startTime": 106634,
+          "endTime": 106818,
+          "word": "in"
+        },
+        {
+          "startTime": 106818,
+          "endTime": 107215,
+          "word": "between"
+        },
+        {
+          "startTime": 107215,
+          "endTime": 107388,
+          "word": "my"
+        },
+        {
+          "startTime": 107388,
+          "endTime": 107882,
+          "word": "toes"
+        }
+      ]
+    },
+    {
+      "time": 107880,
+      "endTime": 112113,
+      "text": "Bombshell wind in my hair, baby, let it blow, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107882,
+          "endTime": 108628,
+          "word": "Bombshell"
+        },
+        {
+          "startTime": 108628,
+          "endTime": 109095,
+          "word": "wind"
+        },
+        {
+          "startTime": 109095,
+          "endTime": 109277,
+          "word": "in"
+        },
+        {
+          "startTime": 109277,
+          "endTime": 109461,
+          "word": "my"
+        },
+        {
+          "startTime": 109461,
+          "endTime": 109829,
+          "word": "hair,"
+        },
+        {
+          "startTime": 109829,
+          "endTime": 110279,
+          "word": "baby,"
+        },
+        {
+          "startTime": 110279,
+          "endTime": 110445,
+          "word": "let"
+        },
+        {
+          "startTime": 110445,
+          "endTime": 110613,
+          "word": "it"
+        },
+        {
+          "startTime": 110613,
+          "endTime": 111029,
+          "word": "blow,"
+        },
+        {
+          "startTime": 111029,
+          "endTime": 112113,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 112570,
+      "endTime": 116167,
+      "text": "It's been a while since I cried over something so nice",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112578,
+          "endTime": 112799,
+          "word": "It's"
+        },
+        {
+          "startTime": 112799,
+          "endTime": 112951,
+          "word": "been"
+        },
+        {
+          "startTime": 112951,
+          "endTime": 113069,
+          "word": "a"
+        },
+        {
+          "startTime": 113069,
+          "endTime": 113351,
+          "word": "while"
+        },
+        {
+          "startTime": 113351,
+          "endTime": 113583,
+          "word": "since"
+        },
+        {
+          "startTime": 113583,
+          "endTime": 113834,
+          "word": "I"
+        },
+        {
+          "startTime": 113834,
+          "endTime": 114085,
+          "word": "cried"
+        },
+        {
+          "startTime": 114085,
+          "endTime": 114602,
+          "word": "over"
+        },
+        {
+          "startTime": 114602,
+          "endTime": 115119,
+          "word": "something"
+        },
+        {
+          "startTime": 115119,
+          "endTime": 115335,
+          "word": "so"
+        },
+        {
+          "startTime": 115335,
+          "endTime": 116167,
+          "word": "nice"
+        }
+      ]
+    },
+    {
+      "time": 116860,
+      "endTime": 120883,
+      "text": "Show my tan lines, low-rise",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116869,
+          "endTime": 117346,
+          "word": "Show"
+        },
+        {
+          "startTime": 117346,
+          "endTime": 117712,
+          "word": "my"
+        },
+        {
+          "startTime": 117712,
+          "endTime": 118545,
+          "word": "tan"
+        },
+        {
+          "startTime": 118545,
+          "endTime": 119197,
+          "word": "lines,"
+        },
+        {
+          "startTime": 119312,
+          "endTime": 120883,
+          "word": "low-rise"
+        }
+      ]
+    },
+    {
+      "time": 120990,
+      "endTime": 123182,
+      "text": "Rooftop down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120993,
+          "endTime": 122500,
+          "word": "Rooftop"
+        },
+        {
+          "startTime": 122500,
+          "endTime": 123182,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 123300,
+      "endTime": 128721,
+      "text": "It's golden hour all the time",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123302,
+          "endTime": 124126,
+          "word": "It's"
+        },
+        {
+          "startTime": 124126,
+          "endTime": 125694,
+          "word": "golden"
+        },
+        {
+          "startTime": 125694,
+          "endTime": 126324,
+          "word": "hour"
+        },
+        {
+          "startTime": 126526,
+          "endTime": 126977,
+          "word": "all"
+        },
+        {
+          "startTime": 126977,
+          "endTime": 127310,
+          "word": "the"
+        },
+        {
+          "startTime": 127310,
+          "endTime": 128721,
+          "word": "time"
+        }
+      ]
+    },
+    {
+      "time": 123300,
+      "endTime": 129847,
+      "text": "(All the time)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 128079,
+          "endTime": 128524,
+          "word": "(All"
+        },
+        {
+          "startTime": 128524,
+          "endTime": 128892,
+          "word": "the"
+        },
+        {
+          "startTime": 128892,
+          "endTime": 129847,
+          "word": "time)"
+        }
+      ]
+    },
+    {
+      "time": 130020,
+      "endTime": 133667,
+      "text": "It's that midnight sun-kissed skin under the red sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 130027,
+          "endTime": 130297,
+          "word": "It's"
+        },
+        {
+          "startTime": 130297,
+          "endTime": 130447,
+          "word": "that"
+        },
+        {
+          "startTime": 130447,
+          "endTime": 131231,
+          "word": "midnight"
+        },
+        {
+          "startTime": 131231,
+          "endTime": 132081,
+          "word": "sun-kissed"
+        },
+        {
+          "startTime": 132081,
+          "endTime": 132265,
+          "word": "skin"
+        },
+        {
+          "startTime": 132265,
+          "endTime": 132665,
+          "word": "under"
+        },
+        {
+          "startTime": 132665,
+          "endTime": 132849,
+          "word": "the"
+        },
+        {
+          "startTime": 132849,
+          "endTime": 133201,
+          "word": "red"
+        },
+        {
+          "startTime": 133201,
+          "endTime": 133667,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 133660,
+      "endTime": 135981,
+      "text": "Laying on your chest like this, ah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 133667,
+          "endTime": 134080,
+          "word": "Laying"
+        },
+        {
+          "startTime": 134080,
+          "endTime": 134264,
+          "word": "on"
+        },
+        {
+          "startTime": 134264,
+          "endTime": 134435,
+          "word": "your"
+        },
+        {
+          "startTime": 134435,
+          "endTime": 134832,
+          "word": "chest"
+        },
+        {
+          "startTime": 134832,
+          "endTime": 135232,
+          "word": "like"
+        },
+        {
+          "startTime": 135232,
+          "endTime": 135664,
+          "word": "this,"
+        },
+        {
+          "startTime": 135664,
+          "endTime": 135981,
+          "word": "ah"
+        }
+      ]
+    },
+    {
+      "time": 136070,
+      "endTime": 138125,
+      "text": "Hold me like the pebbles in your hand",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136071,
+          "endTime": 136362,
+          "word": "Hold"
+        },
+        {
+          "startTime": 136362,
+          "endTime": 136495,
+          "word": "me"
+        },
+        {
+          "startTime": 136495,
+          "endTime": 136695,
+          "word": "like"
+        },
+        {
+          "startTime": 136695,
+          "endTime": 136863,
+          "word": "the"
+        },
+        {
+          "startTime": 136863,
+          "endTime": 137295,
+          "word": "pebbles"
+        },
+        {
+          "startTime": 137295,
+          "endTime": 137478,
+          "word": "in"
+        },
+        {
+          "startTime": 137478,
+          "endTime": 137634,
+          "word": "your"
+        },
+        {
+          "startTime": 137634,
+          "endTime": 138125,
+          "word": "hand"
+        }
+      ]
+    },
+    {
+      "time": 138120,
+      "endTime": 139941,
+      "text": "Initials in the sand, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 138125,
+          "endTime": 138877,
+          "word": "Initials"
+        },
+        {
+          "startTime": 138877,
+          "endTime": 139042,
+          "word": "in"
+        },
+        {
+          "startTime": 139042,
+          "endTime": 139197,
+          "word": "the"
+        },
+        {
+          "startTime": 139197,
+          "endTime": 139626,
+          "word": "sand,"
+        },
+        {
+          "startTime": 139626,
+          "endTime": 139941,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 139970,
+      "endTime": 142091,
+      "text": "Summer isn't over yet",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139974,
+          "endTime": 140430,
+          "word": "Summer"
+        },
+        {
+          "startTime": 140430,
+          "endTime": 140795,
+          "word": "isn't"
+        },
+        {
+          "startTime": 140795,
+          "endTime": 141614,
+          "word": "over"
+        },
+        {
+          "startTime": 141614,
+          "endTime": 142091,
+          "word": "yet"
+        }
+      ]
+    },
+    {
+      "time": 142710,
+      "endTime": 144850,
+      "text": "Skinny-dipping with your heart out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142713,
+          "endTime": 143665,
+          "word": "Skinny-dipping"
+        },
+        {
+          "startTime": 143665,
+          "endTime": 143829,
+          "word": "with"
+        },
+        {
+          "startTime": 143829,
+          "endTime": 144014,
+          "word": "your"
+        },
+        {
+          "startTime": 144014,
+          "endTime": 144433,
+          "word": "heart"
+        },
+        {
+          "startTime": 144433,
+          "endTime": 144850,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 144850,
+      "endTime": 146422,
+      "text": "It's my favorite part now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144850,
+          "endTime": 145093,
+          "word": "It's"
+        },
+        {
+          "startTime": 145093,
+          "endTime": 145258,
+          "word": "my"
+        },
+        {
+          "startTime": 145258,
+          "endTime": 145642,
+          "word": "favorite"
+        },
+        {
+          "startTime": 145642,
+          "endTime": 146061,
+          "word": "part"
+        },
+        {
+          "startTime": 146061,
+          "endTime": 146422,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 146420,
+      "endTime": 148476,
+      "text": "We ain't gotta tell no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146422,
+          "endTime": 146649,
+          "word": "We"
+        },
+        {
+          "startTime": 146649,
+          "endTime": 146814,
+          "word": "ain't"
+        },
+        {
+          "startTime": 146814,
+          "endTime": 147182,
+          "word": "gotta"
+        },
+        {
+          "startTime": 147182,
+          "endTime": 147582,
+          "word": "tell"
+        },
+        {
+          "startTime": 147582,
+          "endTime": 147966,
+          "word": "no"
+        },
+        {
+          "startTime": 147966,
+          "endTime": 148476,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 146420,
+      "endTime": 149426,
+      "text": "(Shh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 148345,
+          "endTime": 149426,
+          "word": "(Shh)"
+        }
+      ]
+    },
+    {
+      "time": 148940,
+      "endTime": 161632,
+      "text": "A never-ending midnight sun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 148947,
+          "endTime": 149182,
+          "word": "A"
+        },
+        {
+          "startTime": 149182,
+          "endTime": 151150,
+          "word": "never-ending"
+        },
+        {
+          "startTime": 151150,
+          "endTime": 152632,
+          "word": "midnight"
+        },
+        {
+          "startTime": 152632,
+          "endTime": 161632,
+          "word": "sun"
+        }
+      ]
+    },
+    {
+      "time": 161630,
+      "endTime": 175009,
+      "text": "A never-ending midnight sun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161632,
+          "endTime": 161803,
+          "word": "A"
+        },
+        {
+          "startTime": 161803,
+          "endTime": 163819,
+          "word": "never-ending"
+        },
+        {
+          "startTime": 163819,
+          "endTime": 165368,
+          "word": "midnight"
+        },
+        {
+          "startTime": 165368,
+          "endTime": 175009,
+          "word": "sun"
+        }
+      ]
+    },
+    {
+      "time": 170330,
+      "endTime": 172680,
+      "text": "A never-ending midnight sun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170335,
+          "endTime": 170570,
+          "word": "A"
+        },
+        {
+          "startTime": 170570,
+          "endTime": 171588,
+          "word": "never-ending"
+        },
+        {
+          "startTime": 171588,
+          "endTime": 172122,
+          "word": "midnight"
+        },
+        {
+          "startTime": 172122,
+          "endTime": 172680,
+          "word": "sun"
+        }
+      ]
+    },
+    {
+      "time": 174300,
+      "endTime": 181479,
+      "text": "A never-ending midnight sun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 174303,
+          "endTime": 174579,
+          "word": "A"
+        },
+        {
+          "startTime": 174579,
+          "endTime": 176564,
+          "word": "never-ending"
+        },
+        {
+          "startTime": 176564,
+          "endTime": 178009,
+          "word": "midnight"
+        },
+        {
+          "startTime": 178009,
+          "endTime": 181479,
+          "word": "sun"
+        }
+      ]
+    }
+  ]
+}
