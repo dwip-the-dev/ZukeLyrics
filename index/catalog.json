@@ -80,6 +80,26 @@
     "path": "lyrics-database/d/Q/dQw4w9WgXcQ.json"
   },
   {
+    "videoId": "DlFXDl_ROAM",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga, Bruno Mars",
+    "duration": -1,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 50,
+    "path": "lyrics-database/D/l/DlFXDl_ROAM.json"
+  },
+  {
+    "videoId": "7nVctvQVz0U",
+    "title": "The Fate of Ophelia",
+    "artist": "Taylor Swift",
+    "duration": -1,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 90,
+    "path": "lyrics-database/7/n/7nVctvQVz0U.json"
+  },
+  {
     "videoId": "gCYcHz2k5x0",
     "title": "Animals",
     "artist": "Martin Garrix",
