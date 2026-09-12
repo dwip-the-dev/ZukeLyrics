@@ -1,0 +1,23 @@
+{
+  "videoId": "gCYcHz2k5x0",
+  "title": "Animals",
+  "artist": "Martin Garrix",
+  "duration": 192,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.790\" end=\"00:05.790\">\n        <span begin=\"00:00.790\" end=\"00:05.790\">此歌曲为没有填词的DJ舞曲，请您欣赏<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 790,
+      "endTime": 5790,
+      "text": "此歌曲为没有填词的DJ舞曲，请您欣赏",
+      "words": [
+        {
+          "startTime": 790,
+          "endTime": 5790,
+          "word": "此歌曲为没有填词的DJ舞曲，请您欣赏"
+        }
+      ]
+    }
+  ]
+}
