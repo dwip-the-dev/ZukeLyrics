@@ -1,0 +1,1553 @@
+{
+  "videoId": "W4C-NEWrnSQ",
+  "title": "The Nights",
+  "artist": "Avicii",
+  "duration": 177,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:02.300\" end=\"00:02.778\" ttm:agent=\"v1\">\n        <span begin=\"00:02.306\" end=\"00:02.778\">Hey<\/span>\n      <\/p>\n      <p begin=\"00:02.780\" end=\"00:04.449\" ttm:agent=\"v1\">\n        <span begin=\"00:02.788\" end=\"00:03.100\">Once<\/span>\n        <span begin=\"00:03.100\" end=\"00:03.495\">upon<\/span>\n        <span begin=\"00:03.495\" end=\"00:03.802\">a<\/span>\n        <span begin=\"00:03.802\" end=\"00:04.103\">younger<\/span>\n        <span begin=\"00:04.103\" end=\"00:04.449\">year<\/span>\n      <\/p>\n      <p begin=\"00:04.440\" end=\"00:06.319\" ttm:agent=\"v1\">\n        <span begin=\"00:04.449\" end=\"00:04.740\">When<\/span>\n        <span begin=\"00:04.740\" end=\"00:05.012\">all<\/span>\n        <span begin=\"00:05.012\" end=\"00:05.263\">our<\/span>\n        <span begin=\"00:05.263\" end=\"00:05.679\">shadows<\/span>\n        <span begin=\"00:05.679\" end=\"00:06.319\">disappeared<\/span>\n      <\/p>\n      <p begin=\"00:06.310\" end=\"00:09.305\" ttm:agent=\"v1\">\n        <span begin=\"00:06.319\" end=\"00:06.730\">The<\/span>\n        <span begin=\"00:06.730\" end=\"00:07.333\">animals<\/span>\n        <span begin=\"00:07.333\" end=\"00:07.799\">inside<\/span>\n        <span begin=\"00:07.799\" end=\"00:08.069\">came<\/span>\n        <span begin=\"00:08.069\" end=\"00:08.303\">out<\/span>\n        <span begin=\"00:08.303\" end=\"00:08.570\">to<\/span>\n        <span begin=\"00:08.570\" end=\"00:09.305\">play<\/span>\n      <\/p>\n      <p begin=\"00:10.110\" end=\"00:12.300\" ttm:agent=\"v1\">\n        <span begin=\"00:10.110\" end=\"00:10.472\">Went<\/span>\n        <span begin=\"00:10.472\" end=\"00:10.672\">face<\/span>\n        <span begin=\"00:10.672\" end=\"00:10.923\">to<\/span>\n        <span begin=\"00:10.923\" end=\"00:11.219\">face<\/span>\n        <span begin=\"00:11.219\" end=\"00:11.435\">with<\/span>\n        <span begin=\"00:11.435\" end=\"00:11.590\">all<\/span>\n        <span begin=\"00:11.590\" end=\"00:11.819\">our<\/span>\n        <span begin=\"00:11.819\" end=\"00:12.300\">fears<\/span>\n      <\/p>\n      <p begin=\"00:12.310\" end=\"00:14.076\" ttm:agent=\"v1\">\n        <span begin=\"00:12.310\" end=\"00:12.592\">Learned<\/span>\n        <span begin=\"00:12.592\" end=\"00:12.848\">our<\/span>\n        <span begin=\"00:12.848\" end=\"00:13.278\">lessons<\/span>\n        <span begin=\"00:13.278\" end=\"00:13.478\">through<\/span>\n        <span begin=\"00:13.478\" end=\"00:13.646\">the<\/span>\n        <span begin=\"00:13.646\" end=\"00:14.076\">tears<\/span>\n      <\/p>\n      <p begin=\"00:14.070\" end=\"00:17.149\" ttm:agent=\"v1\">\n        <span begin=\"00:14.076\" end=\"00:14.308\">Made<\/span>\n        <span begin=\"00:14.308\" end=\"00:14.955\">memories<\/span>\n        <span begin=\"00:14.955\" end=\"00:15.238\">we<\/span>\n        <span begin=\"00:15.238\" end=\"00:15.472\">knew<\/span>\n        <span begin=\"00:15.472\" end=\"00:15.723\">would<\/span>\n        <span begin=\"00:15.723\" end=\"00:16.088\">never<\/span>\n        <span begin=\"00:16.088\" end=\"00:17.149\">fade<\/span>\n      <\/p>\n      <p begin=\"00:17.280\" end=\"00:21.480\" ttm:agent=\"v1\">\n        <span begin=\"00:17.289\" end=\"00:17.574\">One<\/span>\n        <span begin=\"00:17.574\" end=\"00:17.849\">day,<\/span>\n        <span begin=\"00:17.849\" end=\"00:18.100\">my<\/span>\n        <span begin=\"00:18.100\" end=\"00:18.735\">father,<\/span>\n        <span begin=\"00:18.735\" end=\"00:19.017\">he<\/span>\n        <span begin=\"00:19.017\" end=\"00:19.268\">told<\/span>\n        <span begin=\"00:19.268\" end=\"00:19.446\">me,<\/span>\n        <span begin=\"00:19.446\" end=\"00:19.735\">&quot;Son,<\/span>\n        <span begin=\"00:19.735\" end=\"00:20.019\">don&apos;t<\/span>\n        <span begin=\"00:20.019\" end=\"00:20.219\">let<\/span>\n        <span begin=\"00:20.219\" end=\"00:20.454\">it<\/span>\n        <span begin=\"00:20.454\" end=\"00:20.819\">slip<\/span>\n        <span begin=\"00:20.819\" end=\"00:21.480\">away&quot;<\/span>\n      <\/p>\n      <p begin=\"00:21.590\" end=\"00:24.747\" ttm:agent=\"v1\">\n        <span begin=\"00:21.590\" end=\"00:21.817\">He<\/span>\n        <span begin=\"00:21.817\" end=\"00:22.105\">took<\/span>\n        <span begin=\"00:22.105\" end=\"00:22.206\">me<\/span>\n        <span begin=\"00:22.206\" end=\"00:22.606\">in<\/span>\n        <span begin=\"00:22.606\" end=\"00:22.857\">his<\/span>\n        <span begin=\"00:22.857\" end=\"00:23.064\">arms,<\/span>\n        <span begin=\"00:23.064\" end=\"00:23.315\">I<\/span>\n        <span begin=\"00:23.315\" end=\"00:23.547\">heard<\/span>\n        <span begin=\"00:23.547\" end=\"00:23.814\">him<\/span>\n        <span begin=\"00:23.814\" end=\"00:24.747\">say<\/span>\n      <\/p>\n      <p begin=\"00:24.950\" end=\"00:29.297\" ttm:agent=\"v1\">\n        <span begin=\"00:24.959\" end=\"00:25.239\">&quot;When<\/span>\n        <span begin=\"00:25.239\" end=\"00:25.457\">you<\/span>\n        <span begin=\"00:25.457\" end=\"00:25.724\">get<\/span>\n        <span begin=\"00:25.724\" end=\"00:26.375\">older,<\/span>\n        <span begin=\"00:26.375\" end=\"00:26.657\">your<\/span>\n        <span begin=\"00:26.657\" end=\"00:26.892\">wild<\/span>\n        <span begin=\"00:26.892\" end=\"00:27.391\">heart<\/span>\n        <span begin=\"00:27.391\" end=\"00:27.657\">will<\/span>\n        <span begin=\"00:27.657\" end=\"00:27.950\">live<\/span>\n        <span begin=\"00:27.950\" end=\"00:28.050\">for<\/span>\n        <span begin=\"00:28.050\" end=\"00:28.600\">younger<\/span>\n        <span begin=\"00:28.600\" end=\"00:29.297\">days<\/span>\n      <\/p>\n      <p begin=\"00:29.370\" end=\"00:32.433\" ttm:agent=\"v1\">\n        <span begin=\"00:29.377\" end=\"00:29.697\">Think<\/span>\n        <span begin=\"00:29.697\" end=\"00:29.964\">of<\/span>\n        <span begin=\"00:29.964\" end=\"00:30.280\">me<\/span>\n        <span begin=\"00:30.280\" end=\"00:30.528\">if<\/span>\n        <span begin=\"00:30.528\" end=\"00:30.851\">ever<\/span>\n        <span begin=\"00:30.851\" end=\"00:31.328\">you&apos;re<\/span>\n        <span begin=\"00:31.328\" end=\"00:32.433\">afraid&quot;<\/span>\n      <\/p>\n      <p begin=\"00:32.450\" end=\"00:36.258\" ttm:agent=\"v1\">\n        <span begin=\"00:32.453\" end=\"00:32.818\">He<\/span>\n        <span begin=\"00:32.818\" end=\"00:33.038\">said,<\/span>\n        <span begin=\"00:33.038\" end=\"00:33.340\">&quot;One<\/span>\n        <span begin=\"00:33.340\" end=\"00:34.010\">day,<\/span>\n        <span begin=\"00:34.010\" end=\"00:34.210\">you&apos;ll<\/span>\n        <span begin=\"00:34.210\" end=\"00:34.540\">leave<\/span>\n        <span begin=\"00:34.540\" end=\"00:34.772\">this<\/span>\n        <span begin=\"00:34.772\" end=\"00:35.006\">world<\/span>\n        <span begin=\"00:35.006\" end=\"00:36.258\">behind<\/span>\n      <\/p>\n      <p begin=\"00:36.250\" end=\"00:39.987\" ttm:agent=\"v1\">\n        <span begin=\"00:36.258\" end=\"00:36.546\">So<\/span>\n        <span begin=\"00:36.546\" end=\"00:36.856\">live<\/span>\n        <span begin=\"00:36.856\" end=\"00:37.122\">a<\/span>\n        <span begin=\"00:37.122\" end=\"00:37.791\">life<\/span>\n        <span begin=\"00:37.791\" end=\"00:38.104\">you<\/span>\n        <span begin=\"00:38.104\" end=\"00:38.789\">will<\/span>\n        <span begin=\"00:38.789\" end=\"00:39.987\">remember&quot;<\/span>\n      <\/p>\n      <p begin=\"00:40.160\" end=\"00:43.784\" ttm:agent=\"v1\">\n        <span begin=\"00:40.167\" end=\"00:40.393\">My<\/span>\n        <span begin=\"00:40.393\" end=\"00:40.920\">father<\/span>\n        <span begin=\"00:40.920\" end=\"00:41.370\">told<\/span>\n        <span begin=\"00:41.370\" end=\"00:41.653\">me<\/span>\n        <span begin=\"00:41.653\" end=\"00:41.914\">when<\/span>\n        <span begin=\"00:41.914\" end=\"00:42.114\">I<\/span>\n        <span begin=\"00:42.114\" end=\"00:42.386\">was<\/span>\n        <span begin=\"00:42.386\" end=\"00:42.602\">just<\/span>\n        <span begin=\"00:42.602\" end=\"00:42.837\">a<\/span>\n        <span begin=\"00:42.837\" end=\"00:43.784\">child<\/span>\n      <\/p>\n      <p begin=\"00:43.930\" end=\"00:47.247\" ttm:agent=\"v1\">\n        <span begin=\"00:43.934\" end=\"00:44.205\">These<\/span>\n        <span begin=\"00:44.205\" end=\"00:44.458\">are<\/span>\n        <span begin=\"00:44.458\" end=\"00:44.773\">the<\/span>\n        <span begin=\"00:44.773\" end=\"00:45.361\">nights<\/span>\n        <span begin=\"00:45.361\" end=\"00:45.679\">that<\/span>\n        <span begin=\"00:45.679\" end=\"00:46.563\">never<\/span>\n        <span begin=\"00:46.563\" end=\"00:47.247\">die<\/span>\n      <\/p>\n      <p begin=\"00:47.240\" end=\"00:48.622\" ttm:agent=\"v1\">\n        <span begin=\"00:47.247\" end=\"00:47.628\">My<\/span>\n        <span begin=\"00:47.628\" end=\"00:48.062\">father<\/span>\n        <span begin=\"00:48.062\" end=\"00:48.313\">told<\/span>\n        <span begin=\"00:48.313\" end=\"00:48.622\">me<\/span>\n      <\/p>\n      <p begin=\"01:18.720\" end=\"01:20.808\" ttm:agent=\"v1\">\n        <span begin=\"01:18.721\" end=\"01:19.051\">When<\/span>\n        <span begin=\"01:19.051\" end=\"01:19.716\">thunderclouds<\/span>\n        <span begin=\"01:19.716\" end=\"01:20.018\">start<\/span>\n        <span begin=\"01:20.018\" end=\"01:20.332\">pouring<\/span>\n        <span begin=\"01:20.332\" end=\"01:20.808\">down<\/span>\n      <\/p>\n      <p begin=\"01:20.850\" end=\"01:22.629\" ttm:agent=\"v1\">\n        <span begin=\"01:20.858\" end=\"01:21.138\">Light<\/span>\n        <span begin=\"01:21.138\" end=\"01:21.274\">a<\/span>\n        <span begin=\"01:21.274\" end=\"01:21.611\">fire<\/span>\n        <span begin=\"01:21.611\" end=\"01:21.894\">they<\/span>\n        <span begin=\"01:21.894\" end=\"01:22.113\">can&apos;t<\/span>\n        <span begin=\"01:22.113\" end=\"01:22.379\">put<\/span>\n        <span begin=\"01:22.379\" end=\"01:22.629\">out<\/span>\n      <\/p>\n      <p begin=\"01:22.720\" end=\"01:25.801\" ttm:agent=\"v1\">\n        <span begin=\"01:22.729\" end=\"01:23.084\">Carve<\/span>\n        <span begin=\"01:23.084\" end=\"01:23.333\">your<\/span>\n        <span begin=\"01:23.333\" end=\"01:23.568\">name<\/span>\n        <span begin=\"01:23.568\" end=\"01:24.033\">into<\/span>\n        <span begin=\"01:24.033\" end=\"01:24.264\">those<\/span>\n        <span begin=\"01:24.264\" end=\"01:24.701\">shining<\/span>\n        <span begin=\"01:24.701\" end=\"01:25.801\">stars<\/span>\n      <\/p>\n      <p begin=\"01:25.800\" end=\"01:28.394\" ttm:agent=\"v1\">\n        <span begin=\"01:25.801\" end=\"01:26.140\">He<\/span>\n        <span begin=\"01:26.140\" end=\"01:26.380\">said,<\/span>\n        <span begin=\"01:26.380\" end=\"01:26.663\">&quot;Go<\/span>\n        <span begin=\"01:26.663\" end=\"01:27.081\">venture<\/span>\n        <span begin=\"01:27.081\" end=\"01:27.431\">far<\/span>\n        <span begin=\"01:27.431\" end=\"01:27.807\">beyond<\/span>\n        <span begin=\"01:27.807\" end=\"01:27.941\">the<\/span>\n        <span begin=\"01:27.941\" end=\"01:28.394\">shores<\/span>\n      <\/p>\n      <p begin=\"01:28.440\" end=\"01:30.241\" ttm:agent=\"v1\">\n        <span begin=\"01:28.444\" end=\"01:28.785\">Don&apos;t<\/span>\n        <span begin=\"01:28.785\" end=\"01:29.234\">forsake<\/span>\n        <span begin=\"01:29.234\" end=\"01:29.500\">this<\/span>\n        <span begin=\"01:29.500\" end=\"01:29.687\">life<\/span>\n        <span begin=\"01:29.687\" end=\"01:29.801\">of<\/span>\n        <span begin=\"01:29.801\" end=\"01:30.241\">yours<\/span>\n      <\/p>\n      <p begin=\"01:30.240\" end=\"01:33.200\" ttm:agent=\"v1\">\n        <span begin=\"01:30.241\" end=\"01:30.497\">I&apos;ll<\/span>\n        <span begin=\"01:30.497\" end=\"01:30.751\">guide<\/span>\n        <span begin=\"01:30.751\" end=\"01:30.967\">you<\/span>\n        <span begin=\"01:30.967\" end=\"01:31.202\">home<\/span>\n        <span begin=\"01:31.202\" end=\"01:31.452\">no<\/span>\n        <span begin=\"01:31.452\" end=\"01:31.884\">matter<\/span>\n        <span begin=\"01:31.884\" end=\"01:32.134\">where<\/span>\n        <span begin=\"01:32.134\" end=\"01:32.386\">you<\/span>\n        <span begin=\"01:32.386\" end=\"01:33.200\">are&quot;<\/span>\n      <\/p>\n      <p begin=\"01:33.450\" end=\"01:37.571\" ttm:agent=\"v1\">\n        <span begin=\"01:33.452\" end=\"01:33.771\">One<\/span>\n        <span begin=\"01:33.771\" end=\"01:34.062\">day,<\/span>\n        <span begin=\"01:34.062\" end=\"01:34.329\">my<\/span>\n        <span begin=\"01:34.329\" end=\"01:34.945\">father,<\/span>\n        <span begin=\"01:34.945\" end=\"01:35.246\">he<\/span>\n        <span begin=\"01:35.246\" end=\"01:35.478\">told<\/span>\n        <span begin=\"01:35.478\" end=\"01:35.649\">me,<\/span>\n        <span begin=\"01:35.649\" end=\"01:35.865\">&quot;Son,<\/span>\n        <span begin=\"01:35.865\" end=\"01:36.170\">don&apos;t<\/span>\n        <span begin=\"01:36.170\" end=\"01:36.371\">let<\/span>\n        <span begin=\"01:36.371\" end=\"01:36.638\">it<\/span>\n        <span begin=\"01:36.638\" end=\"01:36.889\">slip<\/span>\n        <span begin=\"01:36.889\" end=\"01:37.571\">away&quot;<\/span>\n      <\/p>\n      <p begin=\"01:37.750\" end=\"01:40.973\" ttm:agent=\"v1\">\n        <span begin=\"01:37.751\" end=\"01:38.119\">When<\/span>\n        <span begin=\"01:38.119\" end=\"01:38.335\">I<\/span>\n        <span begin=\"01:38.335\" end=\"01:38.564\">was<\/span>\n        <span begin=\"01:38.564\" end=\"01:38.825\">just<\/span>\n        <span begin=\"01:38.825\" end=\"01:39.041\">a<\/span>\n        <span begin=\"01:39.041\" end=\"01:39.273\">kid,<\/span>\n        <span begin=\"01:39.273\" end=\"01:39.471\">I<\/span>\n        <span begin=\"01:39.471\" end=\"01:39.789\">heard<\/span>\n        <span begin=\"01:39.789\" end=\"01:40.025\">him<\/span>\n        <span begin=\"01:40.025\" end=\"01:40.973\">say<\/span>\n      <\/p>\n      <p begin=\"01:41.060\" end=\"01:45.503\" ttm:agent=\"v1\">\n        <span begin=\"01:41.064\" end=\"01:41.445\">&quot;When<\/span>\n        <span begin=\"01:41.445\" end=\"01:41.672\">you<\/span>\n        <span begin=\"01:41.672\" end=\"01:41.938\">get<\/span>\n        <span begin=\"01:41.938\" end=\"01:42.589\">older,<\/span>\n        <span begin=\"01:42.589\" end=\"01:42.872\">your<\/span>\n        <span begin=\"01:42.872\" end=\"01:43.158\">wild<\/span>\n        <span begin=\"01:43.158\" end=\"01:43.564\">heart<\/span>\n        <span begin=\"01:43.564\" end=\"01:43.795\">will<\/span>\n        <span begin=\"01:43.795\" end=\"01:44.196\">live<\/span>\n        <span begin=\"01:44.196\" end=\"01:44.414\">for<\/span>\n        <span begin=\"01:44.414\" end=\"01:44.814\">younger<\/span>\n        <span begin=\"01:44.814\" end=\"01:45.503\">days<\/span>\n      <\/p>\n      <p begin=\"01:45.560\" end=\"01:48.604\" ttm:agent=\"v1\">\n        <span begin=\"01:45.563\" end=\"01:45.884\">Think<\/span>\n        <span begin=\"01:45.884\" end=\"01:46.152\">of<\/span>\n        <span begin=\"01:46.152\" end=\"01:46.414\">me<\/span>\n        <span begin=\"01:46.414\" end=\"01:46.682\">if<\/span>\n        <span begin=\"01:46.682\" end=\"01:47.091\">ever<\/span>\n        <span begin=\"01:47.091\" end=\"01:47.408\">you&apos;re<\/span>\n        <span begin=\"01:47.408\" end=\"01:48.604\">afraid&quot;<\/span>\n      <\/p>\n      <p begin=\"01:48.650\" end=\"01:52.297\" ttm:agent=\"v1\">\n        <span begin=\"01:48.657\" end=\"01:48.983\">He<\/span>\n        <span begin=\"01:48.983\" end=\"01:49.229\">said,<\/span>\n        <span begin=\"01:49.229\" end=\"01:49.515\">&quot;One<\/span>\n        <span begin=\"01:49.515\" end=\"01:50.180\">day,<\/span>\n        <span begin=\"01:50.180\" end=\"01:50.462\">you&apos;ll<\/span>\n        <span begin=\"01:50.462\" end=\"01:50.678\">leave<\/span>\n        <span begin=\"01:50.678\" end=\"01:50.913\">this<\/span>\n        <span begin=\"01:50.913\" end=\"01:51.229\">world<\/span>\n        <span begin=\"01:51.229\" end=\"01:52.297\">behind<\/span>\n      <\/p>\n      <p begin=\"01:52.420\" end=\"01:56.184\" ttm:agent=\"v1\">\n        <span begin=\"01:52.420\" end=\"01:52.810\">So<\/span>\n        <span begin=\"01:52.810\" end=\"01:53.049\">live<\/span>\n        <span begin=\"01:53.049\" end=\"01:53.332\">a<\/span>\n        <span begin=\"01:53.332\" end=\"01:53.922\">life<\/span>\n        <span begin=\"01:53.922\" end=\"01:54.208\">you<\/span>\n        <span begin=\"01:54.208\" end=\"01:54.997\">will<\/span>\n        <span begin=\"01:54.997\" end=\"01:56.184\">remember&quot;<\/span>\n      <\/p>\n      <p begin=\"01:56.320\" end=\"02:00.002\" ttm:agent=\"v1\">\n        <span begin=\"01:56.324\" end=\"01:56.646\">My<\/span>\n        <span begin=\"01:56.646\" end=\"01:57.119\">father<\/span>\n        <span begin=\"01:57.119\" end=\"01:57.583\">told<\/span>\n        <span begin=\"01:57.583\" end=\"01:57.807\">me<\/span>\n        <span begin=\"01:57.807\" end=\"01:58.023\">when<\/span>\n        <span begin=\"01:58.023\" end=\"01:58.289\">I<\/span>\n        <span begin=\"01:58.289\" end=\"01:58.535\">was<\/span>\n        <span begin=\"01:58.535\" end=\"01:58.783\">just<\/span>\n        <span begin=\"01:58.783\" end=\"01:59.017\">a<\/span>\n        <span begin=\"01:59.017\" end=\"02:00.002\">child<\/span>\n      <\/p>\n      <p begin=\"02:00.120\" end=\"02:03.481\" ttm:agent=\"v1\">\n        <span begin=\"02:00.126\" end=\"02:00.441\">These<\/span>\n        <span begin=\"02:00.441\" end=\"02:00.684\">are<\/span>\n        <span begin=\"02:00.684\" end=\"02:00.951\">the<\/span>\n        <span begin=\"02:00.951\" end=\"02:01.684\">nights<\/span>\n        <span begin=\"02:01.684\" end=\"02:01.935\">that<\/span>\n        <span begin=\"02:01.935\" end=\"02:02.786\">never<\/span>\n        <span begin=\"02:02.786\" end=\"02:03.481\">die<\/span>\n      <\/p>\n      <p begin=\"02:03.480\" end=\"02:04.828\" ttm:agent=\"v1\">\n        <span begin=\"02:03.481\" end=\"02:03.793\">My<\/span>\n        <span begin=\"02:03.793\" end=\"02:04.228\">father<\/span>\n        <span begin=\"02:04.228\" end=\"02:04.478\">told<\/span>\n        <span begin=\"02:04.478\" end=\"02:04.828\">me<\/span>\n      <\/p>\n      <p begin=\"02:15.350\" end=\"02:18.774\" ttm:agent=\"v1\">\n        <span begin=\"02:15.351\" end=\"02:15.679\">These<\/span>\n        <span begin=\"02:15.679\" end=\"02:15.970\">are<\/span>\n        <span begin=\"02:15.970\" end=\"02:16.239\">the<\/span>\n        <span begin=\"02:16.239\" end=\"02:16.922\">nights<\/span>\n        <span begin=\"02:16.922\" end=\"02:17.188\">that<\/span>\n        <span begin=\"02:17.188\" end=\"02:18.020\">never<\/span>\n        <span begin=\"02:18.020\" end=\"02:18.774\">die<\/span>\n      <\/p>\n      <p begin=\"02:18.770\" end=\"02:20.051\" ttm:agent=\"v1\">\n        <span begin=\"02:18.774\" end=\"02:19.025\">My<\/span>\n        <span begin=\"02:19.025\" end=\"02:19.379\">father<\/span>\n        <span begin=\"02:19.379\" end=\"02:19.593\">told<\/span>\n        <span begin=\"02:19.593\" end=\"02:20.051\">me<\/span>\n      <\/p>\n      <p begin=\"02:49.210\" end=\"02:50.450\" ttm:agent=\"v1\">\n        <span begin=\"02:49.219\" end=\"02:49.505\">My<\/span>\n        <span begin=\"02:49.505\" end=\"02:49.939\">father<\/span>\n        <span begin=\"02:49.939\" end=\"02:50.171\">told<\/span>\n        <span begin=\"02:50.171\" end=\"02:50.450\">me<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 2300,
+      "endTime": 2778,
+      "text": "Hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 2306,
+          "endTime": 2778,
+          "word": "Hey"
+        }
+      ]
+    },
+    {
+      "time": 2780,
+      "endTime": 4449,
+      "text": "Once upon a younger year",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 2788,
+          "endTime": 3100,
+          "word": "Once"
+        },
+        {
+          "startTime": 3100,
+          "endTime": 3495,
+          "word": "upon"
+        },
+        {
+          "startTime": 3495,
+          "endTime": 3802,
+          "word": "a"
+        },
+        {
+          "startTime": 3802,
+          "endTime": 4103,
+          "word": "younger"
+        },
+        {
+          "startTime": 4103,
+          "endTime": 4449,
+          "word": "year"
+        }
+      ]
+    },
+    {
+      "time": 4440,
+      "endTime": 6319,
+      "text": "When all our shadows disappeared",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 4449,
+          "endTime": 4740,
+          "word": "When"
+        },
+        {
+          "startTime": 4740,
+          "endTime": 5012,
+          "word": "all"
+        },
+        {
+          "startTime": 5012,
+          "endTime": 5263,
+          "word": "our"
+        },
+        {
+          "startTime": 5263,
+          "endTime": 5679,
+          "word": "shadows"
+        },
+        {
+          "startTime": 5679,
+          "endTime": 6319,
+          "word": "disappeared"
+        }
+      ]
+    },
+    {
+      "time": 6310,
+      "endTime": 9305,
+      "text": "The animals inside came out to play",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 6319,
+          "endTime": 6730,
+          "word": "The"
+        },
+        {
+          "startTime": 6730,
+          "endTime": 7333,
+          "word": "animals"
+        },
+        {
+          "startTime": 7333,
+          "endTime": 7799,
+          "word": "inside"
+        },
+        {
+          "startTime": 7799,
+          "endTime": 8069,
+          "word": "came"
+        },
+        {
+          "startTime": 8069,
+          "endTime": 8303,
+          "word": "out"
+        },
+        {
+          "startTime": 8303,
+          "endTime": 8570,
+          "word": "to"
+        },
+        {
+          "startTime": 8570,
+          "endTime": 9305,
+          "word": "play"
+        }
+      ]
+    },
+    {
+      "time": 10110,
+      "endTime": 12300,
+      "text": "Went face to face with all our fears",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 10110,
+          "endTime": 10472,
+          "word": "Went"
+        },
+        {
+          "startTime": 10472,
+          "endTime": 10672,
+          "word": "face"
+        },
+        {
+          "startTime": 10672,
+          "endTime": 10923,
+          "word": "to"
+        },
+        {
+          "startTime": 10923,
+          "endTime": 11219,
+          "word": "face"
+        },
+        {
+          "startTime": 11219,
+          "endTime": 11435,
+          "word": "with"
+        },
+        {
+          "startTime": 11435,
+          "endTime": 11590,
+          "word": "all"
+        },
+        {
+          "startTime": 11590,
+          "endTime": 11819,
+          "word": "our"
+        },
+        {
+          "startTime": 11819,
+          "endTime": 12300,
+          "word": "fears"
+        }
+      ]
+    },
+    {
+      "time": 12310,
+      "endTime": 14076,
+      "text": "Learned our lessons through the tears",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 12310,
+          "endTime": 12592,
+          "word": "Learned"
+        },
+        {
+          "startTime": 12592,
+          "endTime": 12848,
+          "word": "our"
+        },
+        {
+          "startTime": 12848,
+          "endTime": 13278,
+          "word": "lessons"
+        },
+        {
+          "startTime": 13278,
+          "endTime": 13478,
+          "word": "through"
+        },
+        {
+          "startTime": 13478,
+          "endTime": 13646,
+          "word": "the"
+        },
+        {
+          "startTime": 13646,
+          "endTime": 14076,
+          "word": "tears"
+        }
+      ]
+    },
+    {
+      "time": 14070,
+      "endTime": 17149,
+      "text": "Made memories we knew would never fade",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 14076,
+          "endTime": 14308,
+          "word": "Made"
+        },
+        {
+          "startTime": 14308,
+          "endTime": 14955,
+          "word": "memories"
+        },
+        {
+          "startTime": 14955,
+          "endTime": 15238,
+          "word": "we"
+        },
+        {
+          "startTime": 15238,
+          "endTime": 15472,
+          "word": "knew"
+        },
+        {
+          "startTime": 15472,
+          "endTime": 15723,
+          "word": "would"
+        },
+        {
+          "startTime": 15723,
+          "endTime": 16088,
+          "word": "never"
+        },
+        {
+          "startTime": 16088,
+          "endTime": 17149,
+          "word": "fade"
+        }
+      ]
+    },
+    {
+      "time": 17280,
+      "endTime": 21480,
+      "text": "One day, my father, he told me, \"Son, don't let it slip away\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17289,
+          "endTime": 17574,
+          "word": "One"
+        },
+        {
+          "startTime": 17574,
+          "endTime": 17849,
+          "word": "day,"
+        },
+        {
+          "startTime": 17849,
+          "endTime": 18100,
+          "word": "my"
+        },
+        {
+          "startTime": 18100,
+          "endTime": 18735,
+          "word": "father,"
+        },
+        {
+          "startTime": 18735,
+          "endTime": 19017,
+          "word": "he"
+        },
+        {
+          "startTime": 19017,
+          "endTime": 19268,
+          "word": "told"
+        },
+        {
+          "startTime": 19268,
+          "endTime": 19446,
+          "word": "me,"
+        },
+        {
+          "startTime": 19446,
+          "endTime": 19735,
+          "word": "\"Son,"
+        },
+        {
+          "startTime": 19735,
+          "endTime": 20019,
+          "word": "don't"
+        },
+        {
+          "startTime": 20019,
+          "endTime": 20219,
+          "word": "let"
+        },
+        {
+          "startTime": 20219,
+          "endTime": 20454,
+          "word": "it"
+        },
+        {
+          "startTime": 20454,
+          "endTime": 20819,
+          "word": "slip"
+        },
+        {
+          "startTime": 20819,
+          "endTime": 21480,
+          "word": "away\""
+        }
+      ]
+    },
+    {
+      "time": 21590,
+      "endTime": 24747,
+      "text": "He took me in his arms, I heard him say",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21590,
+          "endTime": 21817,
+          "word": "He"
+        },
+        {
+          "startTime": 21817,
+          "endTime": 22105,
+          "word": "took"
+        },
+        {
+          "startTime": 22105,
+          "endTime": 22206,
+          "word": "me"
+        },
+        {
+          "startTime": 22206,
+          "endTime": 22606,
+          "word": "in"
+        },
+        {
+          "startTime": 22606,
+          "endTime": 22857,
+          "word": "his"
+        },
+        {
+          "startTime": 22857,
+          "endTime": 23064,
+          "word": "arms,"
+        },
+        {
+          "startTime": 23064,
+          "endTime": 23315,
+          "word": "I"
+        },
+        {
+          "startTime": 23315,
+          "endTime": 23547,
+          "word": "heard"
+        },
+        {
+          "startTime": 23547,
+          "endTime": 23814,
+          "word": "him"
+        },
+        {
+          "startTime": 23814,
+          "endTime": 24747,
+          "word": "say"
+        }
+      ]
+    },
+    {
+      "time": 24950,
+      "endTime": 29297,
+      "text": "\"When you get older, your wild heart will live for younger days",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24959,
+          "endTime": 25239,
+          "word": "\"When"
+        },
+        {
+          "startTime": 25239,
+          "endTime": 25457,
+          "word": "you"
+        },
+        {
+          "startTime": 25457,
+          "endTime": 25724,
+          "word": "get"
+        },
+        {
+          "startTime": 25724,
+          "endTime": 26375,
+          "word": "older,"
+        },
+        {
+          "startTime": 26375,
+          "endTime": 26657,
+          "word": "your"
+        },
+        {
+          "startTime": 26657,
+          "endTime": 26892,
+          "word": "wild"
+        },
+        {
+          "startTime": 26892,
+          "endTime": 27391,
+          "word": "heart"
+        },
+        {
+          "startTime": 27391,
+          "endTime": 27657,
+          "word": "will"
+        },
+        {
+          "startTime": 27657,
+          "endTime": 27950,
+          "word": "live"
+        },
+        {
+          "startTime": 27950,
+          "endTime": 28050,
+          "word": "for"
+        },
+        {
+          "startTime": 28050,
+          "endTime": 28600,
+          "word": "younger"
+        },
+        {
+          "startTime": 28600,
+          "endTime": 29297,
+          "word": "days"
+        }
+      ]
+    },
+    {
+      "time": 29370,
+      "endTime": 32433,
+      "text": "Think of me if ever you're afraid\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29377,
+          "endTime": 29697,
+          "word": "Think"
+        },
+        {
+          "startTime": 29697,
+          "endTime": 29964,
+          "word": "of"
+        },
+        {
+          "startTime": 29964,
+          "endTime": 30280,
+          "word": "me"
+        },
+        {
+          "startTime": 30280,
+          "endTime": 30528,
+          "word": "if"
+        },
+        {
+          "startTime": 30528,
+          "endTime": 30851,
+          "word": "ever"
+        },
+        {
+          "startTime": 30851,
+          "endTime": 31328,
+          "word": "you're"
+        },
+        {
+          "startTime": 31328,
+          "endTime": 32433,
+          "word": "afraid\""
+        }
+      ]
+    },
+    {
+      "time": 32450,
+      "endTime": 36258,
+      "text": "He said, \"One day, you'll leave this world behind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32453,
+          "endTime": 32818,
+          "word": "He"
+        },
+        {
+          "startTime": 32818,
+          "endTime": 33038,
+          "word": "said,"
+        },
+        {
+          "startTime": 33038,
+          "endTime": 33340,
+          "word": "\"One"
+        },
+        {
+          "startTime": 33340,
+          "endTime": 34010,
+          "word": "day,"
+        },
+        {
+          "startTime": 34010,
+          "endTime": 34210,
+          "word": "you'll"
+        },
+        {
+          "startTime": 34210,
+          "endTime": 34540,
+          "word": "leave"
+        },
+        {
+          "startTime": 34540,
+          "endTime": 34772,
+          "word": "this"
+        },
+        {
+          "startTime": 34772,
+          "endTime": 35006,
+          "word": "world"
+        },
+        {
+          "startTime": 35006,
+          "endTime": 36258,
+          "word": "behind"
+        }
+      ]
+    },
+    {
+      "time": 36250,
+      "endTime": 39987,
+      "text": "So live a life you will remember\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36258,
+          "endTime": 36546,
+          "word": "So"
+        },
+        {
+          "startTime": 36546,
+          "endTime": 36856,
+          "word": "live"
+        },
+        {
+          "startTime": 36856,
+          "endTime": 37122,
+          "word": "a"
+        },
+        {
+          "startTime": 37122,
+          "endTime": 37791,
+          "word": "life"
+        },
+        {
+          "startTime": 37791,
+          "endTime": 38104,
+          "word": "you"
+        },
+        {
+          "startTime": 38104,
+          "endTime": 38789,
+          "word": "will"
+        },
+        {
+          "startTime": 38789,
+          "endTime": 39987,
+          "word": "remember\""
+        }
+      ]
+    },
+    {
+      "time": 40160,
+      "endTime": 43784,
+      "text": "My father told me when I was just a child",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40167,
+          "endTime": 40393,
+          "word": "My"
+        },
+        {
+          "startTime": 40393,
+          "endTime": 40920,
+          "word": "father"
+        },
+        {
+          "startTime": 40920,
+          "endTime": 41370,
+          "word": "told"
+        },
+        {
+          "startTime": 41370,
+          "endTime": 41653,
+          "word": "me"
+        },
+        {
+          "startTime": 41653,
+          "endTime": 41914,
+          "word": "when"
+        },
+        {
+          "startTime": 41914,
+          "endTime": 42114,
+          "word": "I"
+        },
+        {
+          "startTime": 42114,
+          "endTime": 42386,
+          "word": "was"
+        },
+        {
+          "startTime": 42386,
+          "endTime": 42602,
+          "word": "just"
+        },
+        {
+          "startTime": 42602,
+          "endTime": 42837,
+          "word": "a"
+        },
+        {
+          "startTime": 42837,
+          "endTime": 43784,
+          "word": "child"
+        }
+      ]
+    },
+    {
+      "time": 43930,
+      "endTime": 47247,
+      "text": "These are the nights that never die",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43934,
+          "endTime": 44205,
+          "word": "These"
+        },
+        {
+          "startTime": 44205,
+          "endTime": 44458,
+          "word": "are"
+        },
+        {
+          "startTime": 44458,
+          "endTime": 44773,
+          "word": "the"
+        },
+        {
+          "startTime": 44773,
+          "endTime": 45361,
+          "word": "nights"
+        },
+        {
+          "startTime": 45361,
+          "endTime": 45679,
+          "word": "that"
+        },
+        {
+          "startTime": 45679,
+          "endTime": 46563,
+          "word": "never"
+        },
+        {
+          "startTime": 46563,
+          "endTime": 47247,
+          "word": "die"
+        }
+      ]
+    },
+    {
+      "time": 47240,
+      "endTime": 48622,
+      "text": "My father told me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47247,
+          "endTime": 47628,
+          "word": "My"
+        },
+        {
+          "startTime": 47628,
+          "endTime": 48062,
+          "word": "father"
+        },
+        {
+          "startTime": 48062,
+          "endTime": 48313,
+          "word": "told"
+        },
+        {
+          "startTime": 48313,
+          "endTime": 48622,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 78720,
+      "endTime": 80808,
+      "text": "When thunderclouds start pouring down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 78721,
+          "endTime": 79051,
+          "word": "When"
+        },
+        {
+          "startTime": 79051,
+          "endTime": 79716,
+          "word": "thunderclouds"
+        },
+        {
+          "startTime": 79716,
+          "endTime": 80018,
+          "word": "start"
+        },
+        {
+          "startTime": 80018,
+          "endTime": 80332,
+          "word": "pouring"
+        },
+        {
+          "startTime": 80332,
+          "endTime": 80808,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 80850,
+      "endTime": 82629,
+      "text": "Light a fire they can't put out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 80858,
+          "endTime": 81138,
+          "word": "Light"
+        },
+        {
+          "startTime": 81138,
+          "endTime": 81274,
+          "word": "a"
+        },
+        {
+          "startTime": 81274,
+          "endTime": 81611,
+          "word": "fire"
+        },
+        {
+          "startTime": 81611,
+          "endTime": 81894,
+          "word": "they"
+        },
+        {
+          "startTime": 81894,
+          "endTime": 82113,
+          "word": "can't"
+        },
+        {
+          "startTime": 82113,
+          "endTime": 82379,
+          "word": "put"
+        },
+        {
+          "startTime": 82379,
+          "endTime": 82629,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 82720,
+      "endTime": 85801,
+      "text": "Carve your name into those shining stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 82729,
+          "endTime": 83084,
+          "word": "Carve"
+        },
+        {
+          "startTime": 83084,
+          "endTime": 83333,
+          "word": "your"
+        },
+        {
+          "startTime": 83333,
+          "endTime": 83568,
+          "word": "name"
+        },
+        {
+          "startTime": 83568,
+          "endTime": 84033,
+          "word": "into"
+        },
+        {
+          "startTime": 84033,
+          "endTime": 84264,
+          "word": "those"
+        },
+        {
+          "startTime": 84264,
+          "endTime": 84701,
+          "word": "shining"
+        },
+        {
+          "startTime": 84701,
+          "endTime": 85801,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 85800,
+      "endTime": 88394,
+      "text": "He said, \"Go venture far beyond the shores",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85801,
+          "endTime": 86140,
+          "word": "He"
+        },
+        {
+          "startTime": 86140,
+          "endTime": 86380,
+          "word": "said,"
+        },
+        {
+          "startTime": 86380,
+          "endTime": 86663,
+          "word": "\"Go"
+        },
+        {
+          "startTime": 86663,
+          "endTime": 87081,
+          "word": "venture"
+        },
+        {
+          "startTime": 87081,
+          "endTime": 87431,
+          "word": "far"
+        },
+        {
+          "startTime": 87431,
+          "endTime": 87807,
+          "word": "beyond"
+        },
+        {
+          "startTime": 87807,
+          "endTime": 87941,
+          "word": "the"
+        },
+        {
+          "startTime": 87941,
+          "endTime": 88394,
+          "word": "shores"
+        }
+      ]
+    },
+    {
+      "time": 88440,
+      "endTime": 90241,
+      "text": "Don't forsake this life of yours",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 88444,
+          "endTime": 88785,
+          "word": "Don't"
+        },
+        {
+          "startTime": 88785,
+          "endTime": 89234,
+          "word": "forsake"
+        },
+        {
+          "startTime": 89234,
+          "endTime": 89500,
+          "word": "this"
+        },
+        {
+          "startTime": 89500,
+          "endTime": 89687,
+          "word": "life"
+        },
+        {
+          "startTime": 89687,
+          "endTime": 89801,
+          "word": "of"
+        },
+        {
+          "startTime": 89801,
+          "endTime": 90241,
+          "word": "yours"
+        }
+      ]
+    },
+    {
+      "time": 90240,
+      "endTime": 93200,
+      "text": "I'll guide you home no matter where you are\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90241,
+          "endTime": 90497,
+          "word": "I'll"
+        },
+        {
+          "startTime": 90497,
+          "endTime": 90751,
+          "word": "guide"
+        },
+        {
+          "startTime": 90751,
+          "endTime": 90967,
+          "word": "you"
+        },
+        {
+          "startTime": 90967,
+          "endTime": 91202,
+          "word": "home"
+        },
+        {
+          "startTime": 91202,
+          "endTime": 91452,
+          "word": "no"
+        },
+        {
+          "startTime": 91452,
+          "endTime": 91884,
+          "word": "matter"
+        },
+        {
+          "startTime": 91884,
+          "endTime": 92134,
+          "word": "where"
+        },
+        {
+          "startTime": 92134,
+          "endTime": 92386,
+          "word": "you"
+        },
+        {
+          "startTime": 92386,
+          "endTime": 93200,
+          "word": "are\""
+        }
+      ]
+    },
+    {
+      "time": 93450,
+      "endTime": 97571,
+      "text": "One day, my father, he told me, \"Son, don't let it slip away\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93452,
+          "endTime": 93771,
+          "word": "One"
+        },
+        {
+          "startTime": 93771,
+          "endTime": 94062,
+          "word": "day,"
+        },
+        {
+          "startTime": 94062,
+          "endTime": 94329,
+          "word": "my"
+        },
+        {
+          "startTime": 94329,
+          "endTime": 94945,
+          "word": "father,"
+        },
+        {
+          "startTime": 94945,
+          "endTime": 95246,
+          "word": "he"
+        },
+        {
+          "startTime": 95246,
+          "endTime": 95478,
+          "word": "told"
+        },
+        {
+          "startTime": 95478,
+          "endTime": 95649,
+          "word": "me,"
+        },
+        {
+          "startTime": 95649,
+          "endTime": 95865,
+          "word": "\"Son,"
+        },
+        {
+          "startTime": 95865,
+          "endTime": 96170,
+          "word": "don't"
+        },
+        {
+          "startTime": 96170,
+          "endTime": 96371,
+          "word": "let"
+        },
+        {
+          "startTime": 96371,
+          "endTime": 96638,
+          "word": "it"
+        },
+        {
+          "startTime": 96638,
+          "endTime": 96889,
+          "word": "slip"
+        },
+        {
+          "startTime": 96889,
+          "endTime": 97571,
+          "word": "away\""
+        }
+      ]
+    },
+    {
+      "time": 97750,
+      "endTime": 100973,
+      "text": "When I was just a kid, I heard him say",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 97751,
+          "endTime": 98119,
+          "word": "When"
+        },
+        {
+          "startTime": 98119,
+          "endTime": 98335,
+          "word": "I"
+        },
+        {
+          "startTime": 98335,
+          "endTime": 98564,
+          "word": "was"
+        },
+        {
+          "startTime": 98564,
+          "endTime": 98825,
+          "word": "just"
+        },
+        {
+          "startTime": 98825,
+          "endTime": 99041,
+          "word": "a"
+        },
+        {
+          "startTime": 99041,
+          "endTime": 99273,
+          "word": "kid,"
+        },
+        {
+          "startTime": 99273,
+          "endTime": 99471,
+          "word": "I"
+        },
+        {
+          "startTime": 99471,
+          "endTime": 99789,
+          "word": "heard"
+        },
+        {
+          "startTime": 99789,
+          "endTime": 100025,
+          "word": "him"
+        },
+        {
+          "startTime": 100025,
+          "endTime": 100973,
+          "word": "say"
+        }
+      ]
+    },
+    {
+      "time": 101060,
+      "endTime": 105503,
+      "text": "\"When you get older, your wild heart will live for younger days",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101064,
+          "endTime": 101445,
+          "word": "\"When"
+        },
+        {
+          "startTime": 101445,
+          "endTime": 101672,
+          "word": "you"
+        },
+        {
+          "startTime": 101672,
+          "endTime": 101938,
+          "word": "get"
+        },
+        {
+          "startTime": 101938,
+          "endTime": 102589,
+          "word": "older,"
+        },
+        {
+          "startTime": 102589,
+          "endTime": 102872,
+          "word": "your"
+        },
+        {
+          "startTime": 102872,
+          "endTime": 103158,
+          "word": "wild"
+        },
+        {
+          "startTime": 103158,
+          "endTime": 103564,
+          "word": "heart"
+        },
+        {
+          "startTime": 103564,
+          "endTime": 103795,
+          "word": "will"
+        },
+        {
+          "startTime": 103795,
+          "endTime": 104196,
+          "word": "live"
+        },
+        {
+          "startTime": 104196,
+          "endTime": 104414,
+          "word": "for"
+        },
+        {
+          "startTime": 104414,
+          "endTime": 104814,
+          "word": "younger"
+        },
+        {
+          "startTime": 104814,
+          "endTime": 105503,
+          "word": "days"
+        }
+      ]
+    },
+    {
+      "time": 105560,
+      "endTime": 108604,
+      "text": "Think of me if ever you're afraid\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 105563,
+          "endTime": 105884,
+          "word": "Think"
+        },
+        {
+          "startTime": 105884,
+          "endTime": 106152,
+          "word": "of"
+        },
+        {
+          "startTime": 106152,
+          "endTime": 106414,
+          "word": "me"
+        },
+        {
+          "startTime": 106414,
+          "endTime": 106682,
+          "word": "if"
+        },
+        {
+          "startTime": 106682,
+          "endTime": 107091,
+          "word": "ever"
+        },
+        {
+          "startTime": 107091,
+          "endTime": 107408,
+          "word": "you're"
+        },
+        {
+          "startTime": 107408,
+          "endTime": 108604,
+          "word": "afraid\""
+        }
+      ]
+    },
+    {
+      "time": 108650,
+      "endTime": 112297,
+      "text": "He said, \"One day, you'll leave this world behind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 108657,
+          "endTime": 108983,
+          "word": "He"
+        },
+        {
+          "startTime": 108983,
+          "endTime": 109229,
+          "word": "said,"
+        },
+        {
+          "startTime": 109229,
+          "endTime": 109515,
+          "word": "\"One"
+        },
+        {
+          "startTime": 109515,
+          "endTime": 110180,
+          "word": "day,"
+        },
+        {
+          "startTime": 110180,
+          "endTime": 110462,
+          "word": "you'll"
+        },
+        {
+          "startTime": 110462,
+          "endTime": 110678,
+          "word": "leave"
+        },
+        {
+          "startTime": 110678,
+          "endTime": 110913,
+          "word": "this"
+        },
+        {
+          "startTime": 110913,
+          "endTime": 111229,
+          "word": "world"
+        },
+        {
+          "startTime": 111229,
+          "endTime": 112297,
+          "word": "behind"
+        }
+      ]
+    },
+    {
+      "time": 112420,
+      "endTime": 116184,
+      "text": "So live a life you will remember\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112420,
+          "endTime": 112810,
+          "word": "So"
+        },
+        {
+          "startTime": 112810,
+          "endTime": 113049,
+          "word": "live"
+        },
+        {
+          "startTime": 113049,
+          "endTime": 113332,
+          "word": "a"
+        },
+        {
+          "startTime": 113332,
+          "endTime": 113922,
+          "word": "life"
+        },
+        {
+          "startTime": 113922,
+          "endTime": 114208,
+          "word": "you"
+        },
+        {
+          "startTime": 114208,
+          "endTime": 114997,
+          "word": "will"
+        },
+        {
+          "startTime": 114997,
+          "endTime": 116184,
+          "word": "remember\""
+        }
+      ]
+    },
+    {
+      "time": 116320,
+      "endTime": 120002,
+      "text": "My father told me when I was just a child",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116324,
+          "endTime": 116646,
+          "word": "My"
+        },
+        {
+          "startTime": 116646,
+          "endTime": 117119,
+          "word": "father"
+        },
+        {
+          "startTime": 117119,
+          "endTime": 117583,
+          "word": "told"
+        },
+        {
+          "startTime": 117583,
+          "endTime": 117807,
+          "word": "me"
+        },
+        {
+          "startTime": 117807,
+          "endTime": 118023,
+          "word": "when"
+        },
+        {
+          "startTime": 118023,
+          "endTime": 118289,
+          "word": "I"
+        },
+        {
+          "startTime": 118289,
+          "endTime": 118535,
+          "word": "was"
+        },
+        {
+          "startTime": 118535,
+          "endTime": 118783,
+          "word": "just"
+        },
+        {
+          "startTime": 118783,
+          "endTime": 119017,
+          "word": "a"
+        },
+        {
+          "startTime": 119017,
+          "endTime": 120002,
+          "word": "child"
+        }
+      ]
+    },
+    {
+      "time": 120120,
+      "endTime": 123481,
+      "text": "These are the nights that never die",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120126,
+          "endTime": 120441,
+          "word": "These"
+        },
+        {
+          "startTime": 120441,
+          "endTime": 120684,
+          "word": "are"
+        },
+        {
+          "startTime": 120684,
+          "endTime": 120951,
+          "word": "the"
+        },
+        {
+          "startTime": 120951,
+          "endTime": 121684,
+          "word": "nights"
+        },
+        {
+          "startTime": 121684,
+          "endTime": 121935,
+          "word": "that"
+        },
+        {
+          "startTime": 121935,
+          "endTime": 122786,
+          "word": "never"
+        },
+        {
+          "startTime": 122786,
+          "endTime": 123481,
+          "word": "die"
+        }
+      ]
+    },
+    {
+      "time": 123480,
+      "endTime": 124828,
+      "text": "My father told me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123481,
+          "endTime": 123793,
+          "word": "My"
+        },
+        {
+          "startTime": 123793,
+          "endTime": 124228,
+          "word": "father"
+        },
+        {
+          "startTime": 124228,
+          "endTime": 124478,
+          "word": "told"
+        },
+        {
+          "startTime": 124478,
+          "endTime": 124828,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 135350,
+      "endTime": 138774,
+      "text": "These are the nights that never die",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 135351,
+          "endTime": 135679,
+          "word": "These"
+        },
+        {
+          "startTime": 135679,
+          "endTime": 135970,
+          "word": "are"
+        },
+        {
+          "startTime": 135970,
+          "endTime": 136239,
+          "word": "the"
+        },
+        {
+          "startTime": 136239,
+          "endTime": 136922,
+          "word": "nights"
+        },
+        {
+          "startTime": 136922,
+          "endTime": 137188,
+          "word": "that"
+        },
+        {
+          "startTime": 137188,
+          "endTime": 138020,
+          "word": "never"
+        },
+        {
+          "startTime": 138020,
+          "endTime": 138774,
+          "word": "die"
+        }
+      ]
+    },
+    {
+      "time": 138770,
+      "endTime": 140051,
+      "text": "My father told me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 138774,
+          "endTime": 139025,
+          "word": "My"
+        },
+        {
+          "startTime": 139025,
+          "endTime": 139379,
+          "word": "father"
+        },
+        {
+          "startTime": 139379,
+          "endTime": 139593,
+          "word": "told"
+        },
+        {
+          "startTime": 139593,
+          "endTime": 140051,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 169210,
+      "endTime": 170450,
+      "text": "My father told me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 169219,
+          "endTime": 169505,
+          "word": "My"
+        },
+        {
+          "startTime": 169505,
+          "endTime": 169939,
+          "word": "father"
+        },
+        {
+          "startTime": 169939,
+          "endTime": 170171,
+          "word": "told"
+        },
+        {
+          "startTime": 170171,
+          "endTime": 170450,
+          "word": "me"
+        }
+      ]
+    }
+  ]
+}
