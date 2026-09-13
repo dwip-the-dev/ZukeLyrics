@@ -1,0 +1,95 @@
+{
+  "videoId": "vuJ2V-9GhBo",
+  "title": "Tremor (Sensation 2014 Anthem)",
+  "artist": "Dimitri Vegas, Like Mike, Martin Garrix",
+  "duration": 295,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"01:13.100\" end=\"01:57.810\" ttm:agent=\"v1\">\n        <span begin=\"01:13.100\" end=\"01:26.324\">Three, <\/span>\n        <span begin=\"01:26.324\" end=\"01:38.288\">two, <\/span>\n        <span begin=\"01:38.288\" end=\"01:50.252\">one, <\/span>\n        <span begin=\"01:50.252\" end=\"01:57.810\">go<\/span>\n      <\/p>\n      <p begin=\"01:57.810\" end=\"03:20.230\" ttm:agent=\"v1\">\n        <span begin=\"01:57.810\" end=\"02:22.187\">Three, <\/span>\n        <span begin=\"02:22.187\" end=\"02:44.243\">two, <\/span>\n        <span begin=\"02:44.243\" end=\"03:06.299\">one, <\/span>\n        <span begin=\"03:06.299\" end=\"03:20.230\">go<\/span>\n      <\/p>\n      <p begin=\"03:20.230\" end=\"03:25.230\" ttm:agent=\"v1\">\n        <span begin=\"03:20.230\" end=\"03:21.708\">Three, <\/span>\n        <span begin=\"03:21.708\" end=\"03:23.046\">two, <\/span>\n        <span begin=\"03:23.046\" end=\"03:24.384\">one, <\/span>\n        <span begin=\"03:24.384\" end=\"03:25.230\">go<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 73100,
+      "endTime": 117810,
+      "text": "Three, two, one, go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 73100,
+          "endTime": 86324,
+          "word": "Three, "
+        },
+        {
+          "startTime": 86324,
+          "endTime": 98288,
+          "word": "two, "
+        },
+        {
+          "startTime": 98288,
+          "endTime": 110252,
+          "word": "one, "
+        },
+        {
+          "startTime": 110252,
+          "endTime": 117810,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 117810,
+      "endTime": 200230,
+      "text": "Three, two, one, go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117810,
+          "endTime": 142187,
+          "word": "Three, "
+        },
+        {
+          "startTime": 142187,
+          "endTime": 164243,
+          "word": "two, "
+        },
+        {
+          "startTime": 164243,
+          "endTime": 186299,
+          "word": "one, "
+        },
+        {
+          "startTime": 186299,
+          "endTime": 200230,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 200230,
+      "endTime": 205230,
+      "text": "Three, two, one, go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 200230,
+          "endTime": 201708,
+          "word": "Three, "
+        },
+        {
+          "startTime": 201708,
+          "endTime": 203046,
+          "word": "two, "
+        },
+        {
+          "startTime": 203046,
+          "endTime": 204384,
+          "word": "one, "
+        },
+        {
+          "startTime": 204384,
+          "endTime": 205230,
+          "word": "go"
+        }
+      ]
+    }
+  ]
+}
