@@ -1,0 +1,65 @@
+{
+  "videoId": "DYf28lOb8KU",
+  "title": "Animals (Radio Edit)",
+  "artist": "Martin Garrix",
+  "duration": 177,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:56.660\" end=\"02:18.990\">\n        <span begin=\"00:56.660\" end=\"01:11.019\">We&apos;re <\/span>\n        <span begin=\"01:11.019\" end=\"01:23.464\">the <\/span>\n        <span begin=\"01:23.464\" end=\"01:43.567\">f-king <\/span>\n        <span begin=\"01:43.567\" end=\"02:18.990\">animals<\/span>\n      <\/p>\n      <p begin=\"02:18.990\" end=\"02:23.990\">\n        <span begin=\"02:18.990\" end=\"02:19.862\">We&apos;re <\/span>\n        <span begin=\"02:19.862\" end=\"02:20.617\">the <\/span>\n        <span begin=\"02:20.617\" end=\"02:21.837\">f-king <\/span>\n        <span begin=\"02:21.837\" end=\"02:23.990\">animals<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 56660,
+      "endTime": 138990,
+      "text": "We're the f-king animals",
+      "words": [
+        {
+          "startTime": 56660,
+          "endTime": 71019,
+          "word": "We're "
+        },
+        {
+          "startTime": 71019,
+          "endTime": 83464,
+          "word": "the "
+        },
+        {
+          "startTime": 83464,
+          "endTime": 103567,
+          "word": "f-king "
+        },
+        {
+          "startTime": 103567,
+          "endTime": 138990,
+          "word": "animals"
+        }
+      ]
+    },
+    {
+      "time": 138990,
+      "endTime": 143990,
+      "text": "We're the f-king animals",
+      "words": [
+        {
+          "startTime": 138990,
+          "endTime": 139862,
+          "word": "We're "
+        },
+        {
+          "startTime": 139862,
+          "endTime": 140617,
+          "word": "the "
+        },
+        {
+          "startTime": 140617,
+          "endTime": 141837,
+          "word": "f-king "
+        },
+        {
+          "startTime": 141837,
+          "endTime": 143990,
+          "word": "animals"
+        }
+      ]
+    }
+  ]
+}
