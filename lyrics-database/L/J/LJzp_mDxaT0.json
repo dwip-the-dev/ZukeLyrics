@@ -1,0 +1,2024 @@
+{
+  "videoId": "LJzp_mDxaT0",
+  "title": "Skyfall",
+  "artist": "Adele",
+  "duration": 287,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:32.110\" end=\"00:34.364\" ttm:agent=\"v1\">\n        <span begin=\"00:32.116\" end=\"00:32.494\">This<\/span>\n        <span begin=\"00:32.494\" end=\"00:32.895\">is<\/span>\n        <span begin=\"00:32.895\" end=\"00:33.196\">the<\/span>\n        <span begin=\"00:33.196\" end=\"00:34.364\">end<\/span>\n      <\/p>\n      <p begin=\"00:37.040\" end=\"00:42.123\" ttm:agent=\"v1\">\n        <span begin=\"00:37.046\" end=\"00:37.547\">Hold<\/span>\n        <span begin=\"00:37.547\" end=\"00:37.881\">your<\/span>\n        <span begin=\"00:37.881\" end=\"00:38.265\">breath<\/span>\n        <span begin=\"00:38.265\" end=\"00:38.699\">and<\/span>\n        <span begin=\"00:38.699\" end=\"00:40.540\">count<\/span>\n        <span begin=\"00:40.540\" end=\"00:40.774\">to<\/span>\n        <span begin=\"00:40.774\" end=\"00:42.123\">ten<\/span>\n      <\/p>\n      <p begin=\"00:43.380\" end=\"00:48.853\" ttm:agent=\"v1\">\n        <span begin=\"00:43.383\" end=\"00:44.149\">Feel<\/span>\n        <span begin=\"00:44.149\" end=\"00:44.549\">the<\/span>\n        <span begin=\"00:44.549\" end=\"00:45.100\">earth<\/span>\n        <span begin=\"00:45.100\" end=\"00:46.349\">move<\/span>\n        <span begin=\"00:46.349\" end=\"00:46.783\">and<\/span>\n        <span begin=\"00:46.783\" end=\"00:48.853\">then<\/span>\n      <\/p>\n      <p begin=\"00:49.870\" end=\"00:57.369\" ttm:agent=\"v1\">\n        <span begin=\"00:49.876\" end=\"00:50.460\">Hear<\/span>\n        <span begin=\"00:50.460\" end=\"00:51.009\">my<\/span>\n        <span begin=\"00:51.009\" end=\"00:51.558\">heart<\/span>\n        <span begin=\"00:51.558\" end=\"00:54.086\">burst<\/span>\n        <span begin=\"00:54.375\" end=\"00:57.369\">again<\/span>\n      <\/p>\n      <p begin=\"00:57.470\" end=\"00:59.780\" ttm:agent=\"v1\">\n        <span begin=\"00:57.471\" end=\"00:57.754\">For<\/span>\n        <span begin=\"00:57.754\" end=\"00:58.071\">this<\/span>\n        <span begin=\"00:58.071\" end=\"00:58.370\">is<\/span>\n        <span begin=\"00:58.370\" end=\"00:58.671\">the<\/span>\n        <span begin=\"00:58.671\" end=\"00:59.780\">end<\/span>\n      <\/p>\n      <p begin=\"01:02.300\" end=\"01:08.354\" ttm:agent=\"v1\">\n        <span begin=\"01:02.309\" end=\"01:02.693\">I&apos;ve<\/span>\n        <span begin=\"01:02.693\" end=\"01:03.242\">drowned<\/span>\n        <span begin=\"01:03.242\" end=\"01:03.458\">and<\/span>\n        <span begin=\"01:03.458\" end=\"01:04.244\">dreamt<\/span>\n        <span begin=\"01:04.244\" end=\"01:04.545\">this<\/span>\n        <span begin=\"01:04.545\" end=\"01:08.354\">moment<\/span>\n      <\/p>\n      <p begin=\"01:08.710\" end=\"01:14.746\" ttm:agent=\"v1\">\n        <span begin=\"01:08.714\" end=\"01:09.098\">So<\/span>\n        <span begin=\"01:09.098\" end=\"01:10.298\">overdue,<\/span>\n        <span begin=\"01:10.298\" end=\"01:10.813\">I<\/span>\n        <span begin=\"01:10.813\" end=\"01:11.965\">owe<\/span>\n        <span begin=\"01:11.965\" end=\"01:14.746\">them<\/span>\n      <\/p>\n      <p begin=\"01:15.410\" end=\"01:22.636\" ttm:agent=\"v1\">\n        <span begin=\"01:15.419\" end=\"01:15.970\">Swept<\/span>\n        <span begin=\"01:15.970\" end=\"01:16.687\">away,<\/span>\n        <span begin=\"01:16.687\" end=\"01:17.090\">I&apos;m<\/span>\n        <span begin=\"01:17.090\" end=\"01:22.636\">stolen<\/span>\n      <\/p>\n      <p begin=\"01:22.700\" end=\"01:25.989\" ttm:agent=\"v1\">\n        <span begin=\"01:22.705\" end=\"01:23.156\">Let<\/span>\n        <span begin=\"01:23.156\" end=\"01:23.539\">the<\/span>\n        <span begin=\"01:23.539\" end=\"01:24.124\">sky<\/span>\n        <span begin=\"01:24.124\" end=\"01:25.989\">fall<\/span>\n      <\/p>\n      <p begin=\"01:25.990\" end=\"01:29.026\" ttm:agent=\"v1\">\n        <span begin=\"01:25.999\" end=\"01:26.349\">When<\/span>\n        <span begin=\"01:26.349\" end=\"01:26.767\">it<\/span>\n        <span begin=\"01:26.767\" end=\"01:29.026\">crumbles<\/span>\n      <\/p>\n      <p begin=\"01:29.160\" end=\"01:32.299\" ttm:agent=\"v1\">\n        <span begin=\"01:29.163\" end=\"01:29.614\">We<\/span>\n        <span begin=\"01:29.614\" end=\"01:29.945\">will<\/span>\n        <span begin=\"01:29.945\" end=\"01:30.513\">stand<\/span>\n        <span begin=\"01:30.513\" end=\"01:32.299\">tall<\/span>\n      <\/p>\n      <p begin=\"01:32.360\" end=\"01:35.575\" ttm:agent=\"v1\">\n        <span begin=\"01:32.360\" end=\"01:32.726\">Face<\/span>\n        <span begin=\"01:32.726\" end=\"01:32.991\">it<\/span>\n        <span begin=\"01:32.991\" end=\"01:34.312\">all<\/span>\n        <span begin=\"01:34.478\" end=\"01:35.575\">together<\/span>\n      <\/p>\n      <p begin=\"01:35.580\" end=\"01:38.594\" ttm:agent=\"v1\">\n        <span begin=\"01:35.585\" end=\"01:36.000\">Let<\/span>\n        <span begin=\"01:36.000\" end=\"01:36.314\">the<\/span>\n        <span begin=\"01:36.314\" end=\"01:36.949\">sky<\/span>\n        <span begin=\"01:36.949\" end=\"01:38.594\">fall<\/span>\n      <\/p>\n      <p begin=\"01:38.770\" end=\"01:41.703\" ttm:agent=\"v1\">\n        <span begin=\"01:38.770\" end=\"01:39.154\">When<\/span>\n        <span begin=\"01:39.154\" end=\"01:39.570\">it<\/span>\n        <span begin=\"01:39.570\" end=\"01:41.703\">crumbles<\/span>\n      <\/p>\n      <p begin=\"01:41.910\" end=\"01:44.934\" ttm:agent=\"v1\">\n        <span begin=\"01:41.916\" end=\"01:42.316\">We<\/span>\n        <span begin=\"01:42.316\" end=\"01:42.716\">will<\/span>\n        <span begin=\"01:42.716\" end=\"01:43.265\">stand<\/span>\n        <span begin=\"01:43.265\" end=\"01:44.934\">tall<\/span>\n      <\/p>\n      <p begin=\"01:44.940\" end=\"01:47.405\" ttm:agent=\"v1\">\n        <span begin=\"01:44.944\" end=\"01:45.184\">And<\/span>\n        <span begin=\"01:45.184\" end=\"01:45.568\">face<\/span>\n        <span begin=\"01:45.568\" end=\"01:45.752\">it<\/span>\n        <span begin=\"01:45.752\" end=\"01:46.547\">all<\/span>\n        <span begin=\"01:46.547\" end=\"01:47.405\">together<\/span>\n      <\/p>\n      <p begin=\"01:47.660\" end=\"01:50.960\" ttm:agent=\"v1\">\n        <span begin=\"01:47.664\" end=\"01:48.362\">At<\/span>\n        <span begin=\"01:48.362\" end=\"01:50.960\">skyfall<\/span>\n      <\/p>\n      <p begin=\"01:53.960\" end=\"01:57.411\" ttm:agent=\"v1\">\n        <span begin=\"01:53.961\" end=\"01:54.943\">At<\/span>\n        <span begin=\"01:54.943\" end=\"01:57.411\">skyfall<\/span>\n      <\/p>\n      <p begin=\"02:00.600\" end=\"02:06.255\" ttm:agent=\"v1\">\n        <span begin=\"02:00.601\" end=\"02:01.500\">Skyfall<\/span>\n        <span begin=\"02:01.500\" end=\"02:01.836\">is<\/span>\n        <span begin=\"02:01.836\" end=\"02:02.359\">where<\/span>\n        <span begin=\"02:02.359\" end=\"02:02.625\">we<\/span>\n        <span begin=\"02:02.625\" end=\"02:06.255\">start<\/span>\n      <\/p>\n      <p begin=\"02:06.570\" end=\"02:11.719\" ttm:agent=\"v1\">\n        <span begin=\"02:06.573\" end=\"02:06.821\">A<\/span>\n        <span begin=\"02:06.821\" end=\"02:07.373\">thousand<\/span>\n        <span begin=\"02:07.373\" end=\"02:07.938\">miles<\/span>\n        <span begin=\"02:07.938\" end=\"02:08.239\">and<\/span>\n        <span begin=\"02:08.239\" end=\"02:08.839\">poles<\/span>\n        <span begin=\"02:08.839\" end=\"02:11.719\">apart<\/span>\n      <\/p>\n      <p begin=\"02:12.670\" end=\"02:16.791\" ttm:agent=\"v1\">\n        <span begin=\"02:12.677\" end=\"02:13.093\">Where<\/span>\n        <span begin=\"02:13.093\" end=\"02:13.626\">worlds<\/span>\n        <span begin=\"02:13.626\" end=\"02:14.311\">collide<\/span>\n        <span begin=\"02:14.311\" end=\"02:14.711\">and<\/span>\n        <span begin=\"02:14.711\" end=\"02:15.143\">days<\/span>\n        <span begin=\"02:15.143\" end=\"02:15.461\">are<\/span>\n        <span begin=\"02:15.461\" end=\"02:16.791\">dark<\/span>\n      <\/p>\n      <p begin=\"02:16.950\" end=\"02:19.195\" ttm:agent=\"v1\">\n        <span begin=\"02:16.950\" end=\"02:17.185\">You<\/span>\n        <span begin=\"02:17.185\" end=\"02:17.483\">may<\/span>\n        <span begin=\"02:17.483\" end=\"02:17.718\">have<\/span>\n        <span begin=\"02:17.718\" end=\"02:18.051\">my<\/span>\n        <span begin=\"02:18.051\" end=\"02:19.195\">number<\/span>\n      <\/p>\n      <p begin=\"02:19.210\" end=\"02:21.660\" ttm:agent=\"v1\">\n        <span begin=\"02:19.214\" end=\"02:19.449\">You<\/span>\n        <span begin=\"02:19.449\" end=\"02:19.716\">can<\/span>\n        <span begin=\"02:19.716\" end=\"02:19.998\">take<\/span>\n        <span begin=\"02:19.998\" end=\"02:20.364\">my<\/span>\n        <span begin=\"02:20.364\" end=\"02:21.660\">name<\/span>\n      <\/p>\n      <p begin=\"02:22.310\" end=\"02:28.876\" ttm:agent=\"v1\">\n        <span begin=\"02:22.318\" end=\"02:22.601\">But<\/span>\n        <span begin=\"02:22.601\" end=\"02:22.902\">you&apos;ll<\/span>\n        <span begin=\"02:22.902\" end=\"02:23.433\">never<\/span>\n        <span begin=\"02:23.433\" end=\"02:23.702\">have<\/span>\n        <span begin=\"02:23.702\" end=\"02:23.987\">my<\/span>\n        <span begin=\"02:23.987\" end=\"02:28.876\">heart<\/span>\n      <\/p>\n      <p begin=\"02:26.790\" end=\"02:29.943\" ttm:agent=\"v1\">\n        <span begin=\"02:26.792\" end=\"02:27.157\">Let<\/span>\n        <span begin=\"02:27.157\" end=\"02:27.507\">the<\/span>\n        <span begin=\"02:27.507\" end=\"02:28.075\">sky<\/span>\n        <span begin=\"02:28.075\" end=\"02:29.943\">fall<\/span>\n      <\/p>\n      <p begin=\"02:26.790\" end=\"02:30.669\" role=\"x-bg\">\n        <span begin=\"02:28.752\" end=\"02:29.002\">(Let<\/span>\n        <span begin=\"02:29.002\" end=\"02:29.202\">the<\/span>\n        <span begin=\"02:29.202\" end=\"02:29.584\">sky<\/span>\n        <span begin=\"02:29.584\" end=\"02:30.669\">fall)<\/span>\n      <\/p>\n      <p begin=\"02:29.950\" end=\"02:32.993\" ttm:agent=\"v1\">\n        <span begin=\"02:29.950\" end=\"02:30.310\">When<\/span>\n        <span begin=\"02:30.310\" end=\"02:30.777\">it<\/span>\n        <span begin=\"02:30.777\" end=\"02:32.993\">crumbles<\/span>\n      <\/p>\n      <p begin=\"02:29.950\" end=\"02:34.117\" role=\"x-bg\">\n        <span begin=\"02:31.983\" end=\"02:32.218\">(When<\/span>\n        <span begin=\"02:32.218\" end=\"02:32.450\">it<\/span>\n        <span begin=\"02:32.450\" end=\"02:34.117\">crumbles)<\/span>\n      <\/p>\n      <p begin=\"02:33.120\" end=\"02:35.232\" ttm:agent=\"v1\">\n        <span begin=\"02:33.127\" end=\"02:33.543\">We<\/span>\n        <span begin=\"02:33.543\" end=\"02:33.942\">will<\/span>\n        <span begin=\"02:33.942\" end=\"02:34.511\">stand<\/span>\n        <span begin=\"02:34.511\" end=\"02:35.232\">tall<\/span>\n      <\/p>\n      <p begin=\"02:33.120\" end=\"02:36.582\" role=\"x-bg\">\n        <span begin=\"02:35.246\" end=\"02:35.478\">(We<\/span>\n        <span begin=\"02:35.478\" end=\"02:35.678\">will<\/span>\n        <span begin=\"02:35.678\" end=\"02:36.011\">stand<\/span>\n        <span begin=\"02:36.011\" end=\"02:36.582\">tall)<\/span>\n      <\/p>\n      <p begin=\"02:36.370\" end=\"02:39.541\" ttm:agent=\"v1\">\n        <span begin=\"02:36.376\" end=\"02:36.692\">Face<\/span>\n        <span begin=\"02:36.692\" end=\"02:37.043\">it<\/span>\n        <span begin=\"02:37.043\" end=\"02:38.298\">all<\/span>\n        <span begin=\"02:38.541\" end=\"02:39.541\">together<\/span>\n      <\/p>\n      <p begin=\"02:39.570\" end=\"02:42.549\" ttm:agent=\"v1\">\n        <span begin=\"02:39.570\" end=\"02:39.952\">Let<\/span>\n        <span begin=\"02:39.952\" end=\"02:40.320\">the<\/span>\n        <span begin=\"02:40.320\" end=\"02:40.853\">sky<\/span>\n        <span begin=\"02:40.853\" end=\"02:42.549\">fall<\/span>\n      <\/p>\n      <p begin=\"02:39.570\" end=\"02:43.505\" role=\"x-bg\">\n        <span begin=\"02:41.632\" end=\"02:41.832\">(Let<\/span>\n        <span begin=\"02:41.832\" end=\"02:42.051\">the<\/span>\n        <span begin=\"02:42.051\" end=\"02:42.400\">sky<\/span>\n        <span begin=\"02:42.400\" end=\"02:43.505\">fall)<\/span>\n      <\/p>\n      <p begin=\"02:42.650\" end=\"02:45.755\" ttm:agent=\"v1\">\n        <span begin=\"02:42.653\" end=\"02:43.072\">When<\/span>\n        <span begin=\"02:43.072\" end=\"02:43.539\">it<\/span>\n        <span begin=\"02:43.539\" end=\"02:45.755\">crumbles<\/span>\n      <\/p>\n      <p begin=\"02:42.650\" end=\"02:46.492\" role=\"x-bg\">\n        <span begin=\"02:44.788\" end=\"02:45.055\">(When<\/span>\n        <span begin=\"02:45.055\" end=\"02:45.255\">it<\/span>\n        <span begin=\"02:45.255\" end=\"02:46.492\">crumbles)<\/span>\n      <\/p>\n      <p begin=\"02:45.910\" end=\"02:48.888\" ttm:agent=\"v1\">\n        <span begin=\"02:45.918\" end=\"02:46.302\">We<\/span>\n        <span begin=\"02:46.302\" end=\"02:46.718\">will<\/span>\n        <span begin=\"02:46.718\" end=\"02:47.350\">stand<\/span>\n        <span begin=\"02:47.350\" end=\"02:48.888\">tall<\/span>\n      <\/p>\n      <p begin=\"02:45.910\" end=\"02:49.546\" role=\"x-bg\">\n        <span begin=\"02:48.034\" end=\"02:48.234\">(We<\/span>\n        <span begin=\"02:48.234\" end=\"02:48.434\">will<\/span>\n        <span begin=\"02:48.434\" end=\"02:48.769\">stand<\/span>\n        <span begin=\"02:48.769\" end=\"02:49.546\">tall)<\/span>\n      <\/p>\n      <p begin=\"02:48.890\" end=\"02:51.370\" ttm:agent=\"v1\">\n        <span begin=\"02:48.890\" end=\"02:49.204\">And<\/span>\n        <span begin=\"02:49.204\" end=\"02:49.503\">face<\/span>\n        <span begin=\"02:49.503\" end=\"02:49.855\">it<\/span>\n        <span begin=\"02:49.855\" end=\"02:50.569\">all<\/span>\n        <span begin=\"02:50.569\" end=\"02:51.370\">together<\/span>\n      <\/p>\n      <p begin=\"02:51.590\" end=\"02:54.284\" ttm:agent=\"v1\">\n        <span begin=\"02:51.593\" end=\"02:52.377\">At<\/span>\n        <span begin=\"02:52.377\" end=\"02:54.284\">skyfall<\/span>\n      <\/p>\n      <p begin=\"02:54.360\" end=\"02:56.159\" ttm:agent=\"v1000\">\n        <span begin=\"02:54.364\" end=\"02:54.631\">Let<\/span>\n        <span begin=\"02:54.631\" end=\"02:54.796\">the<\/span>\n        <span begin=\"02:54.796\" end=\"02:55.196\">sky<\/span>\n        <span begin=\"02:55.196\" end=\"02:56.159\">fall<\/span>\n      <\/p>\n      <p begin=\"02:57.570\" end=\"02:59.675\" ttm:agent=\"v1000\">\n        <span begin=\"02:57.574\" end=\"02:57.774\">When<\/span>\n        <span begin=\"02:57.774\" end=\"02:58.025\">it<\/span>\n        <span begin=\"02:58.025\" end=\"02:59.675\">crumbles<\/span>\n      <\/p>\n      <p begin=\"03:00.770\" end=\"03:02.333\" ttm:agent=\"v1000\">\n        <span begin=\"03:00.770\" end=\"03:01.005\">We<\/span>\n        <span begin=\"03:01.005\" end=\"03:01.221\">will<\/span>\n        <span begin=\"03:01.221\" end=\"03:01.605\">stand<\/span>\n        <span begin=\"03:01.605\" end=\"03:02.333\">tall<\/span>\n      <\/p>\n      <p begin=\"03:07.130\" end=\"03:09.071\" ttm:agent=\"v1000\">\n        <span begin=\"03:07.138\" end=\"03:07.386\">Let<\/span>\n        <span begin=\"03:07.386\" end=\"03:07.586\">the<\/span>\n        <span begin=\"03:07.586\" end=\"03:07.970\">sky<\/span>\n        <span begin=\"03:07.970\" end=\"03:09.071\">fall<\/span>\n      <\/p>\n      <p begin=\"03:10.340\" end=\"03:12.737\" ttm:agent=\"v1000\">\n        <span begin=\"03:10.345\" end=\"03:10.595\">When<\/span>\n        <span begin=\"03:10.595\" end=\"03:10.827\">it<\/span>\n        <span begin=\"03:10.827\" end=\"03:12.737\">crumbles<\/span>\n      <\/p>\n      <p begin=\"03:13.550\" end=\"03:15.254\" ttm:agent=\"v1000\">\n        <span begin=\"03:13.556\" end=\"03:13.806\">We<\/span>\n        <span begin=\"03:13.806\" end=\"03:14.022\">will<\/span>\n        <span begin=\"03:14.022\" end=\"03:14.374\">stand<\/span>\n        <span begin=\"03:14.374\" end=\"03:15.254\">tall<\/span>\n      <\/p>\n      <p begin=\"03:17.720\" end=\"03:20.808\" ttm:agent=\"v1\">\n        <span begin=\"03:17.721\" end=\"03:18.086\">Where<\/span>\n        <span begin=\"03:18.086\" end=\"03:18.371\">you<\/span>\n        <span begin=\"03:18.371\" end=\"03:18.787\">go,<\/span>\n        <span begin=\"03:18.787\" end=\"03:19.153\">I<\/span>\n        <span begin=\"03:19.153\" end=\"03:20.808\">go<\/span>\n      <\/p>\n      <p begin=\"03:20.940\" end=\"03:24.035\" ttm:agent=\"v1\">\n        <span begin=\"03:20.942\" end=\"03:21.225\">What<\/span>\n        <span begin=\"03:21.225\" end=\"03:21.558\">you<\/span>\n        <span begin=\"03:21.558\" end=\"03:21.908\">see,<\/span>\n        <span begin=\"03:21.908\" end=\"03:22.425\">I<\/span>\n        <span begin=\"03:22.425\" end=\"03:24.035\">see<\/span>\n      <\/p>\n      <p begin=\"03:24.160\" end=\"03:27.333\" ttm:agent=\"v1\">\n        <span begin=\"03:24.168\" end=\"03:24.403\">I<\/span>\n        <span begin=\"03:24.403\" end=\"03:24.718\">know<\/span>\n        <span begin=\"03:24.718\" end=\"03:25.184\">I&apos;d<\/span>\n        <span begin=\"03:25.184\" end=\"03:25.568\">never<\/span>\n        <span begin=\"03:25.568\" end=\"03:26.392\">be<\/span>\n        <span begin=\"03:26.392\" end=\"03:27.333\">me<\/span>\n      <\/p>\n      <p begin=\"03:27.370\" end=\"03:30.408\" ttm:agent=\"v1\">\n        <span begin=\"03:27.375\" end=\"03:27.858\">Without<\/span>\n        <span begin=\"03:27.858\" end=\"03:28.141\">the<\/span>\n        <span begin=\"03:28.141\" end=\"03:30.408\">security<\/span>\n      <\/p>\n      <p begin=\"03:30.630\" end=\"03:33.611\" ttm:agent=\"v1\">\n        <span begin=\"03:30.633\" end=\"03:31.081\">Of<\/span>\n        <span begin=\"03:31.081\" end=\"03:31.515\">your<\/span>\n        <span begin=\"03:31.515\" end=\"03:32.081\">loving<\/span>\n        <span begin=\"03:32.081\" end=\"03:33.611\">arms<\/span>\n      <\/p>\n      <p begin=\"03:33.780\" end=\"03:36.796\" ttm:agent=\"v1\">\n        <span begin=\"03:33.787\" end=\"03:34.571\">Keeping<\/span>\n        <span begin=\"03:34.571\" end=\"03:35.003\">me<\/span>\n        <span begin=\"03:35.003\" end=\"03:35.219\">from<\/span>\n        <span begin=\"03:35.219\" end=\"03:36.796\">harm<\/span>\n      <\/p>\n      <p begin=\"03:36.940\" end=\"03:40.122\" ttm:agent=\"v1\">\n        <span begin=\"03:36.948\" end=\"03:37.281\">Put<\/span>\n        <span begin=\"03:37.281\" end=\"03:37.548\">your<\/span>\n        <span begin=\"03:37.548\" end=\"03:38.498\">hand<\/span>\n        <span begin=\"03:38.498\" end=\"03:38.815\">in<\/span>\n        <span begin=\"03:38.815\" end=\"03:39.164\">my<\/span>\n        <span begin=\"03:39.164\" end=\"03:40.122\">hand<\/span>\n      <\/p>\n      <p begin=\"03:40.130\" end=\"03:44.460\" ttm:agent=\"v1\">\n        <span begin=\"03:40.132\" end=\"03:40.449\">And<\/span>\n        <span begin=\"03:40.449\" end=\"03:40.849\">we&apos;ll<\/span>\n        <span begin=\"03:40.849\" end=\"03:44.460\">stand<\/span>\n      <\/p>\n      <p begin=\"03:43.240\" end=\"03:46.095\" ttm:agent=\"v1\">\n        <span begin=\"03:43.249\" end=\"03:43.649\">Let<\/span>\n        <span begin=\"03:43.649\" end=\"03:44.031\">the<\/span>\n        <span begin=\"03:44.031\" end=\"03:44.564\">sky<\/span>\n        <span begin=\"03:44.564\" end=\"03:46.095\">fall<\/span>\n      <\/p>\n      <p begin=\"03:43.240\" end=\"03:46.857\" role=\"x-bg\">\n        <span begin=\"03:45.281\" end=\"03:45.516\">(Let<\/span>\n        <span begin=\"03:45.516\" end=\"03:45.716\">the<\/span>\n        <span begin=\"03:45.716\" end=\"03:46.031\">sky<\/span>\n        <span begin=\"03:46.031\" end=\"03:46.857\">fall)<\/span>\n      <\/p>\n      <p begin=\"03:46.330\" end=\"03:49.351\" ttm:agent=\"v1\">\n        <span begin=\"03:46.335\" end=\"03:46.735\">When<\/span>\n        <span begin=\"03:46.735\" end=\"03:47.119\">it<\/span>\n        <span begin=\"03:47.119\" end=\"03:49.351\">crumbles<\/span>\n      <\/p>\n      <p begin=\"03:46.330\" end=\"03:50.248\" role=\"x-bg\">\n        <span begin=\"03:48.365\" end=\"03:48.632\">(When<\/span>\n        <span begin=\"03:48.632\" end=\"03:48.800\">it<\/span>\n        <span begin=\"03:48.800\" end=\"03:50.248\">crumbles)<\/span>\n      <\/p>\n      <p begin=\"03:49.460\" end=\"03:52.551\" ttm:agent=\"v1\">\n        <span begin=\"03:49.464\" end=\"03:49.864\">We<\/span>\n        <span begin=\"03:49.864\" end=\"03:50.245\">will<\/span>\n        <span begin=\"03:50.245\" end=\"03:50.829\">stand<\/span>\n        <span begin=\"03:50.829\" end=\"03:52.551\">tall<\/span>\n      <\/p>\n      <p begin=\"03:49.460\" end=\"03:53.002\" role=\"x-bg\">\n        <span begin=\"03:51.540\" end=\"03:51.740\">(We<\/span>\n        <span begin=\"03:51.740\" end=\"03:51.940\">will<\/span>\n        <span begin=\"03:51.940\" end=\"03:52.324\">stand<\/span>\n        <span begin=\"03:52.324\" end=\"03:53.002\">tall)<\/span>\n      <\/p>\n      <p begin=\"03:52.610\" end=\"03:55.632\" ttm:agent=\"v1\">\n        <span begin=\"03:52.610\" end=\"03:52.942\">Face<\/span>\n        <span begin=\"03:52.942\" end=\"03:53.260\">it<\/span>\n        <span begin=\"03:53.260\" end=\"03:54.394\">all<\/span>\n        <span begin=\"03:54.797\" end=\"03:55.632\">together<\/span>\n      <\/p>\n      <p begin=\"03:55.750\" end=\"03:58.565\" ttm:agent=\"v1\">\n        <span begin=\"03:55.752\" end=\"03:56.103\">Let<\/span>\n        <span begin=\"03:56.103\" end=\"03:56.485\">the<\/span>\n        <span begin=\"03:56.485\" end=\"03:57.037\">sky<\/span>\n        <span begin=\"03:57.037\" end=\"03:58.565\">fall<\/span>\n      <\/p>\n      <p begin=\"03:55.750\" end=\"03:59.286\" role=\"x-bg\">\n        <span begin=\"03:57.777\" end=\"03:57.961\">(Let<\/span>\n        <span begin=\"03:57.961\" end=\"03:58.177\">the<\/span>\n        <span begin=\"03:58.177\" end=\"03:58.526\">sky<\/span>\n        <span begin=\"03:58.526\" end=\"03:59.286\">fall)<\/span>\n      <\/p>\n      <p begin=\"03:58.850\" end=\"04:01.763\" ttm:agent=\"v1\">\n        <span begin=\"03:58.851\" end=\"03:59.227\">When<\/span>\n        <span begin=\"03:59.227\" end=\"03:59.643\">it<\/span>\n        <span begin=\"03:59.643\" end=\"04:01.763\">crumbles<\/span>\n      <\/p>\n      <p begin=\"03:58.850\" end=\"04:02.569\" role=\"x-bg\">\n        <span begin=\"04:00.844\" end=\"04:01.076\">(When<\/span>\n        <span begin=\"04:01.076\" end=\"04:01.276\">it<\/span>\n        <span begin=\"04:01.276\" end=\"04:02.569\">crumbles)<\/span>\n      <\/p>\n      <p begin=\"04:02.000\" end=\"04:04.826\" ttm:agent=\"v1\">\n        <span begin=\"04:02.000\" end=\"04:02.334\">We<\/span>\n        <span begin=\"04:02.334\" end=\"04:02.766\">will<\/span>\n        <span begin=\"04:02.766\" end=\"04:03.272\">stand<\/span>\n        <span begin=\"04:03.272\" end=\"04:04.826\">tall<\/span>\n      <\/p>\n      <p begin=\"04:02.000\" end=\"04:05.415\" role=\"x-bg\">\n        <span begin=\"04:03.922\" end=\"04:04.154\">(We<\/span>\n        <span begin=\"04:04.154\" end=\"04:04.404\">will<\/span>\n        <span begin=\"04:04.404\" end=\"04:04.754\">stand<\/span>\n        <span begin=\"04:04.754\" end=\"04:05.415\">tall)<\/span>\n      <\/p>\n      <p begin=\"04:04.830\" end=\"04:07.274\" ttm:agent=\"v1\">\n        <span begin=\"04:04.836\" end=\"04:05.161\">And<\/span>\n        <span begin=\"04:05.161\" end=\"04:05.476\">face<\/span>\n        <span begin=\"04:05.476\" end=\"04:05.761\">it<\/span>\n        <span begin=\"04:05.761\" end=\"04:06.511\">all<\/span>\n        <span begin=\"04:06.511\" end=\"04:07.274\">together<\/span>\n      <\/p>\n      <p begin=\"04:07.460\" end=\"04:10.052\" ttm:agent=\"v1\">\n        <span begin=\"04:07.460\" end=\"04:08.159\">At<\/span>\n        <span begin=\"04:08.159\" end=\"04:10.052\">skyfall<\/span>\n      <\/p>\n      <p begin=\"04:10.130\" end=\"04:13.084\" ttm:agent=\"v1\">\n        <span begin=\"04:10.134\" end=\"04:10.401\">Let<\/span>\n        <span begin=\"04:10.401\" end=\"04:10.633\">the<\/span>\n        <span begin=\"04:10.633\" end=\"04:10.982\">sky<\/span>\n        <span begin=\"04:10.982\" end=\"04:13.084\">fall<\/span>\n      <\/p>\n      <p begin=\"04:16.350\" end=\"04:19.789\" ttm:agent=\"v1\">\n        <span begin=\"04:16.356\" end=\"04:16.656\">We<\/span>\n        <span begin=\"04:16.656\" end=\"04:16.875\">will<\/span>\n        <span begin=\"04:16.875\" end=\"04:17.189\">stand<\/span>\n        <span begin=\"04:17.189\" end=\"04:19.789\">tall<\/span>\n      <\/p>\n      <p begin=\"04:19.900\" end=\"04:30.995\" ttm:agent=\"v1\">\n        <span begin=\"04:19.901\" end=\"04:20.651\">At<\/span>\n        <span begin=\"04:20.651\" end=\"04:30.995\">skyfall<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 32110,
+      "endTime": 34364,
+      "text": "This is the end",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32116,
+          "endTime": 32494,
+          "word": "This"
+        },
+        {
+          "startTime": 32494,
+          "endTime": 32895,
+          "word": "is"
+        },
+        {
+          "startTime": 32895,
+          "endTime": 33196,
+          "word": "the"
+        },
+        {
+          "startTime": 33196,
+          "endTime": 34364,
+          "word": "end"
+        }
+      ]
+    },
+    {
+      "time": 37040,
+      "endTime": 42123,
+      "text": "Hold your breath and count to ten",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37046,
+          "endTime": 37547,
+          "word": "Hold"
+        },
+        {
+          "startTime": 37547,
+          "endTime": 37881,
+          "word": "your"
+        },
+        {
+          "startTime": 37881,
+          "endTime": 38265,
+          "word": "breath"
+        },
+        {
+          "startTime": 38265,
+          "endTime": 38699,
+          "word": "and"
+        },
+        {
+          "startTime": 38699,
+          "endTime": 40540,
+          "word": "count"
+        },
+        {
+          "startTime": 40540,
+          "endTime": 40774,
+          "word": "to"
+        },
+        {
+          "startTime": 40774,
+          "endTime": 42123,
+          "word": "ten"
+        }
+      ]
+    },
+    {
+      "time": 43380,
+      "endTime": 48853,
+      "text": "Feel the earth move and then",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43383,
+          "endTime": 44149,
+          "word": "Feel"
+        },
+        {
+          "startTime": 44149,
+          "endTime": 44549,
+          "word": "the"
+        },
+        {
+          "startTime": 44549,
+          "endTime": 45100,
+          "word": "earth"
+        },
+        {
+          "startTime": 45100,
+          "endTime": 46349,
+          "word": "move"
+        },
+        {
+          "startTime": 46349,
+          "endTime": 46783,
+          "word": "and"
+        },
+        {
+          "startTime": 46783,
+          "endTime": 48853,
+          "word": "then"
+        }
+      ]
+    },
+    {
+      "time": 49870,
+      "endTime": 57369,
+      "text": "Hear my heart burst again",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49876,
+          "endTime": 50460,
+          "word": "Hear"
+        },
+        {
+          "startTime": 50460,
+          "endTime": 51009,
+          "word": "my"
+        },
+        {
+          "startTime": 51009,
+          "endTime": 51558,
+          "word": "heart"
+        },
+        {
+          "startTime": 51558,
+          "endTime": 54086,
+          "word": "burst"
+        },
+        {
+          "startTime": 54375,
+          "endTime": 57369,
+          "word": "again"
+        }
+      ]
+    },
+    {
+      "time": 57470,
+      "endTime": 59780,
+      "text": "For this is the end",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57471,
+          "endTime": 57754,
+          "word": "For"
+        },
+        {
+          "startTime": 57754,
+          "endTime": 58071,
+          "word": "this"
+        },
+        {
+          "startTime": 58071,
+          "endTime": 58370,
+          "word": "is"
+        },
+        {
+          "startTime": 58370,
+          "endTime": 58671,
+          "word": "the"
+        },
+        {
+          "startTime": 58671,
+          "endTime": 59780,
+          "word": "end"
+        }
+      ]
+    },
+    {
+      "time": 62300,
+      "endTime": 68354,
+      "text": "I've drowned and dreamt this moment",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 62309,
+          "endTime": 62693,
+          "word": "I've"
+        },
+        {
+          "startTime": 62693,
+          "endTime": 63242,
+          "word": "drowned"
+        },
+        {
+          "startTime": 63242,
+          "endTime": 63458,
+          "word": "and"
+        },
+        {
+          "startTime": 63458,
+          "endTime": 64244,
+          "word": "dreamt"
+        },
+        {
+          "startTime": 64244,
+          "endTime": 64545,
+          "word": "this"
+        },
+        {
+          "startTime": 64545,
+          "endTime": 68354,
+          "word": "moment"
+        }
+      ]
+    },
+    {
+      "time": 68710,
+      "endTime": 74746,
+      "text": "So overdue, I owe them",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 68714,
+          "endTime": 69098,
+          "word": "So"
+        },
+        {
+          "startTime": 69098,
+          "endTime": 70298,
+          "word": "overdue,"
+        },
+        {
+          "startTime": 70298,
+          "endTime": 70813,
+          "word": "I"
+        },
+        {
+          "startTime": 70813,
+          "endTime": 71965,
+          "word": "owe"
+        },
+        {
+          "startTime": 71965,
+          "endTime": 74746,
+          "word": "them"
+        }
+      ]
+    },
+    {
+      "time": 75410,
+      "endTime": 82636,
+      "text": "Swept away, I'm stolen",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 75419,
+          "endTime": 75970,
+          "word": "Swept"
+        },
+        {
+          "startTime": 75970,
+          "endTime": 76687,
+          "word": "away,"
+        },
+        {
+          "startTime": 76687,
+          "endTime": 77090,
+          "word": "I'm"
+        },
+        {
+          "startTime": 77090,
+          "endTime": 82636,
+          "word": "stolen"
+        }
+      ]
+    },
+    {
+      "time": 82700,
+      "endTime": 85989,
+      "text": "Let the sky fall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 82705,
+          "endTime": 83156,
+          "word": "Let"
+        },
+        {
+          "startTime": 83156,
+          "endTime": 83539,
+          "word": "the"
+        },
+        {
+          "startTime": 83539,
+          "endTime": 84124,
+          "word": "sky"
+        },
+        {
+          "startTime": 84124,
+          "endTime": 85989,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 85990,
+      "endTime": 89026,
+      "text": "When it crumbles",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85999,
+          "endTime": 86349,
+          "word": "When"
+        },
+        {
+          "startTime": 86349,
+          "endTime": 86767,
+          "word": "it"
+        },
+        {
+          "startTime": 86767,
+          "endTime": 89026,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 89160,
+      "endTime": 92299,
+      "text": "We will stand tall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89163,
+          "endTime": 89614,
+          "word": "We"
+        },
+        {
+          "startTime": 89614,
+          "endTime": 89945,
+          "word": "will"
+        },
+        {
+          "startTime": 89945,
+          "endTime": 90513,
+          "word": "stand"
+        },
+        {
+          "startTime": 90513,
+          "endTime": 92299,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 92360,
+      "endTime": 95575,
+      "text": "Face it all together",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92360,
+          "endTime": 92726,
+          "word": "Face"
+        },
+        {
+          "startTime": 92726,
+          "endTime": 92991,
+          "word": "it"
+        },
+        {
+          "startTime": 92991,
+          "endTime": 94312,
+          "word": "all"
+        },
+        {
+          "startTime": 94478,
+          "endTime": 95575,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 95580,
+      "endTime": 98594,
+      "text": "Let the sky fall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95585,
+          "endTime": 96000,
+          "word": "Let"
+        },
+        {
+          "startTime": 96000,
+          "endTime": 96314,
+          "word": "the"
+        },
+        {
+          "startTime": 96314,
+          "endTime": 96949,
+          "word": "sky"
+        },
+        {
+          "startTime": 96949,
+          "endTime": 98594,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 98770,
+      "endTime": 101703,
+      "text": "When it crumbles",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98770,
+          "endTime": 99154,
+          "word": "When"
+        },
+        {
+          "startTime": 99154,
+          "endTime": 99570,
+          "word": "it"
+        },
+        {
+          "startTime": 99570,
+          "endTime": 101703,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 101910,
+      "endTime": 104934,
+      "text": "We will stand tall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101916,
+          "endTime": 102316,
+          "word": "We"
+        },
+        {
+          "startTime": 102316,
+          "endTime": 102716,
+          "word": "will"
+        },
+        {
+          "startTime": 102716,
+          "endTime": 103265,
+          "word": "stand"
+        },
+        {
+          "startTime": 103265,
+          "endTime": 104934,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 104940,
+      "endTime": 107405,
+      "text": "And face it all together",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104944,
+          "endTime": 105184,
+          "word": "And"
+        },
+        {
+          "startTime": 105184,
+          "endTime": 105568,
+          "word": "face"
+        },
+        {
+          "startTime": 105568,
+          "endTime": 105752,
+          "word": "it"
+        },
+        {
+          "startTime": 105752,
+          "endTime": 106547,
+          "word": "all"
+        },
+        {
+          "startTime": 106547,
+          "endTime": 107405,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 107660,
+      "endTime": 110960,
+      "text": "At skyfall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107664,
+          "endTime": 108362,
+          "word": "At"
+        },
+        {
+          "startTime": 108362,
+          "endTime": 110960,
+          "word": "skyfall"
+        }
+      ]
+    },
+    {
+      "time": 113960,
+      "endTime": 117411,
+      "text": "At skyfall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 113961,
+          "endTime": 114943,
+          "word": "At"
+        },
+        {
+          "startTime": 114943,
+          "endTime": 117411,
+          "word": "skyfall"
+        }
+      ]
+    },
+    {
+      "time": 120600,
+      "endTime": 126255,
+      "text": "Skyfall is where we start",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120601,
+          "endTime": 121500,
+          "word": "Skyfall"
+        },
+        {
+          "startTime": 121500,
+          "endTime": 121836,
+          "word": "is"
+        },
+        {
+          "startTime": 121836,
+          "endTime": 122359,
+          "word": "where"
+        },
+        {
+          "startTime": 122359,
+          "endTime": 122625,
+          "word": "we"
+        },
+        {
+          "startTime": 122625,
+          "endTime": 126255,
+          "word": "start"
+        }
+      ]
+    },
+    {
+      "time": 126570,
+      "endTime": 131719,
+      "text": "A thousand miles and poles apart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 126573,
+          "endTime": 126821,
+          "word": "A"
+        },
+        {
+          "startTime": 126821,
+          "endTime": 127373,
+          "word": "thousand"
+        },
+        {
+          "startTime": 127373,
+          "endTime": 127938,
+          "word": "miles"
+        },
+        {
+          "startTime": 127938,
+          "endTime": 128239,
+          "word": "and"
+        },
+        {
+          "startTime": 128239,
+          "endTime": 128839,
+          "word": "poles"
+        },
+        {
+          "startTime": 128839,
+          "endTime": 131719,
+          "word": "apart"
+        }
+      ]
+    },
+    {
+      "time": 132670,
+      "endTime": 136791,
+      "text": "Where worlds collide and days are dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 132677,
+          "endTime": 133093,
+          "word": "Where"
+        },
+        {
+          "startTime": 133093,
+          "endTime": 133626,
+          "word": "worlds"
+        },
+        {
+          "startTime": 133626,
+          "endTime": 134311,
+          "word": "collide"
+        },
+        {
+          "startTime": 134311,
+          "endTime": 134711,
+          "word": "and"
+        },
+        {
+          "startTime": 134711,
+          "endTime": 135143,
+          "word": "days"
+        },
+        {
+          "startTime": 135143,
+          "endTime": 135461,
+          "word": "are"
+        },
+        {
+          "startTime": 135461,
+          "endTime": 136791,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 136950,
+      "endTime": 139195,
+      "text": "You may have my number",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136950,
+          "endTime": 137185,
+          "word": "You"
+        },
+        {
+          "startTime": 137185,
+          "endTime": 137483,
+          "word": "may"
+        },
+        {
+          "startTime": 137483,
+          "endTime": 137718,
+          "word": "have"
+        },
+        {
+          "startTime": 137718,
+          "endTime": 138051,
+          "word": "my"
+        },
+        {
+          "startTime": 138051,
+          "endTime": 139195,
+          "word": "number"
+        }
+      ]
+    },
+    {
+      "time": 139210,
+      "endTime": 141660,
+      "text": "You can take my name",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139214,
+          "endTime": 139449,
+          "word": "You"
+        },
+        {
+          "startTime": 139449,
+          "endTime": 139716,
+          "word": "can"
+        },
+        {
+          "startTime": 139716,
+          "endTime": 139998,
+          "word": "take"
+        },
+        {
+          "startTime": 139998,
+          "endTime": 140364,
+          "word": "my"
+        },
+        {
+          "startTime": 140364,
+          "endTime": 141660,
+          "word": "name"
+        }
+      ]
+    },
+    {
+      "time": 142310,
+      "endTime": 148876,
+      "text": "But you'll never have my heart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142318,
+          "endTime": 142601,
+          "word": "But"
+        },
+        {
+          "startTime": 142601,
+          "endTime": 142902,
+          "word": "you'll"
+        },
+        {
+          "startTime": 142902,
+          "endTime": 143433,
+          "word": "never"
+        },
+        {
+          "startTime": 143433,
+          "endTime": 143702,
+          "word": "have"
+        },
+        {
+          "startTime": 143702,
+          "endTime": 143987,
+          "word": "my"
+        },
+        {
+          "startTime": 143987,
+          "endTime": 148876,
+          "word": "heart"
+        }
+      ]
+    },
+    {
+      "time": 146790,
+      "endTime": 149943,
+      "text": "Let the sky fall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146792,
+          "endTime": 147157,
+          "word": "Let"
+        },
+        {
+          "startTime": 147157,
+          "endTime": 147507,
+          "word": "the"
+        },
+        {
+          "startTime": 147507,
+          "endTime": 148075,
+          "word": "sky"
+        },
+        {
+          "startTime": 148075,
+          "endTime": 149943,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 146790,
+      "endTime": 150669,
+      "text": "(Let the sky fall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 148752,
+          "endTime": 149002,
+          "word": "(Let"
+        },
+        {
+          "startTime": 149002,
+          "endTime": 149202,
+          "word": "the"
+        },
+        {
+          "startTime": 149202,
+          "endTime": 149584,
+          "word": "sky"
+        },
+        {
+          "startTime": 149584,
+          "endTime": 150669,
+          "word": "fall)"
+        }
+      ]
+    },
+    {
+      "time": 149950,
+      "endTime": 152993,
+      "text": "When it crumbles",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149950,
+          "endTime": 150310,
+          "word": "When"
+        },
+        {
+          "startTime": 150310,
+          "endTime": 150777,
+          "word": "it"
+        },
+        {
+          "startTime": 150777,
+          "endTime": 152993,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 149950,
+      "endTime": 154117,
+      "text": "(When it crumbles)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 151983,
+          "endTime": 152218,
+          "word": "(When"
+        },
+        {
+          "startTime": 152218,
+          "endTime": 152450,
+          "word": "it"
+        },
+        {
+          "startTime": 152450,
+          "endTime": 154117,
+          "word": "crumbles)"
+        }
+      ]
+    },
+    {
+      "time": 153120,
+      "endTime": 155232,
+      "text": "We will stand tall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153127,
+          "endTime": 153543,
+          "word": "We"
+        },
+        {
+          "startTime": 153543,
+          "endTime": 153942,
+          "word": "will"
+        },
+        {
+          "startTime": 153942,
+          "endTime": 154511,
+          "word": "stand"
+        },
+        {
+          "startTime": 154511,
+          "endTime": 155232,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 153120,
+      "endTime": 156582,
+      "text": "(We will stand tall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 155246,
+          "endTime": 155478,
+          "word": "(We"
+        },
+        {
+          "startTime": 155478,
+          "endTime": 155678,
+          "word": "will"
+        },
+        {
+          "startTime": 155678,
+          "endTime": 156011,
+          "word": "stand"
+        },
+        {
+          "startTime": 156011,
+          "endTime": 156582,
+          "word": "tall)"
+        }
+      ]
+    },
+    {
+      "time": 156370,
+      "endTime": 159541,
+      "text": "Face it all together",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 156376,
+          "endTime": 156692,
+          "word": "Face"
+        },
+        {
+          "startTime": 156692,
+          "endTime": 157043,
+          "word": "it"
+        },
+        {
+          "startTime": 157043,
+          "endTime": 158298,
+          "word": "all"
+        },
+        {
+          "startTime": 158541,
+          "endTime": 159541,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 159570,
+      "endTime": 162549,
+      "text": "Let the sky fall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159570,
+          "endTime": 159952,
+          "word": "Let"
+        },
+        {
+          "startTime": 159952,
+          "endTime": 160320,
+          "word": "the"
+        },
+        {
+          "startTime": 160320,
+          "endTime": 160853,
+          "word": "sky"
+        },
+        {
+          "startTime": 160853,
+          "endTime": 162549,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 159570,
+      "endTime": 163505,
+      "text": "(Let the sky fall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 161632,
+          "endTime": 161832,
+          "word": "(Let"
+        },
+        {
+          "startTime": 161832,
+          "endTime": 162051,
+          "word": "the"
+        },
+        {
+          "startTime": 162051,
+          "endTime": 162400,
+          "word": "sky"
+        },
+        {
+          "startTime": 162400,
+          "endTime": 163505,
+          "word": "fall)"
+        }
+      ]
+    },
+    {
+      "time": 162650,
+      "endTime": 165755,
+      "text": "When it crumbles",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 162653,
+          "endTime": 163072,
+          "word": "When"
+        },
+        {
+          "startTime": 163072,
+          "endTime": 163539,
+          "word": "it"
+        },
+        {
+          "startTime": 163539,
+          "endTime": 165755,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 162650,
+      "endTime": 166492,
+      "text": "(When it crumbles)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 164788,
+          "endTime": 165055,
+          "word": "(When"
+        },
+        {
+          "startTime": 165055,
+          "endTime": 165255,
+          "word": "it"
+        },
+        {
+          "startTime": 165255,
+          "endTime": 166492,
+          "word": "crumbles)"
+        }
+      ]
+    },
+    {
+      "time": 165910,
+      "endTime": 168888,
+      "text": "We will stand tall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165918,
+          "endTime": 166302,
+          "word": "We"
+        },
+        {
+          "startTime": 166302,
+          "endTime": 166718,
+          "word": "will"
+        },
+        {
+          "startTime": 166718,
+          "endTime": 167350,
+          "word": "stand"
+        },
+        {
+          "startTime": 167350,
+          "endTime": 168888,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 165910,
+      "endTime": 169546,
+      "text": "(We will stand tall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 168034,
+          "endTime": 168234,
+          "word": "(We"
+        },
+        {
+          "startTime": 168234,
+          "endTime": 168434,
+          "word": "will"
+        },
+        {
+          "startTime": 168434,
+          "endTime": 168769,
+          "word": "stand"
+        },
+        {
+          "startTime": 168769,
+          "endTime": 169546,
+          "word": "tall)"
+        }
+      ]
+    },
+    {
+      "time": 168890,
+      "endTime": 171370,
+      "text": "And face it all together",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 168890,
+          "endTime": 169204,
+          "word": "And"
+        },
+        {
+          "startTime": 169204,
+          "endTime": 169503,
+          "word": "face"
+        },
+        {
+          "startTime": 169503,
+          "endTime": 169855,
+          "word": "it"
+        },
+        {
+          "startTime": 169855,
+          "endTime": 170569,
+          "word": "all"
+        },
+        {
+          "startTime": 170569,
+          "endTime": 171370,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 171590,
+      "endTime": 174284,
+      "text": "At skyfall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 171593,
+          "endTime": 172377,
+          "word": "At"
+        },
+        {
+          "startTime": 172377,
+          "endTime": 174284,
+          "word": "skyfall"
+        }
+      ]
+    },
+    {
+      "time": 174360,
+      "endTime": 176159,
+      "text": "Let the sky fall",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 174364,
+          "endTime": 174631,
+          "word": "Let"
+        },
+        {
+          "startTime": 174631,
+          "endTime": 174796,
+          "word": "the"
+        },
+        {
+          "startTime": 174796,
+          "endTime": 175196,
+          "word": "sky"
+        },
+        {
+          "startTime": 175196,
+          "endTime": 176159,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 177570,
+      "endTime": 179675,
+      "text": "When it crumbles",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 177574,
+          "endTime": 177774,
+          "word": "When"
+        },
+        {
+          "startTime": 177774,
+          "endTime": 178025,
+          "word": "it"
+        },
+        {
+          "startTime": 178025,
+          "endTime": 179675,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 180770,
+      "endTime": 182333,
+      "text": "We will stand tall",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 180770,
+          "endTime": 181005,
+          "word": "We"
+        },
+        {
+          "startTime": 181005,
+          "endTime": 181221,
+          "word": "will"
+        },
+        {
+          "startTime": 181221,
+          "endTime": 181605,
+          "word": "stand"
+        },
+        {
+          "startTime": 181605,
+          "endTime": 182333,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 187130,
+      "endTime": 189071,
+      "text": "Let the sky fall",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 187138,
+          "endTime": 187386,
+          "word": "Let"
+        },
+        {
+          "startTime": 187386,
+          "endTime": 187586,
+          "word": "the"
+        },
+        {
+          "startTime": 187586,
+          "endTime": 187970,
+          "word": "sky"
+        },
+        {
+          "startTime": 187970,
+          "endTime": 189071,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 190340,
+      "endTime": 192737,
+      "text": "When it crumbles",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 190345,
+          "endTime": 190595,
+          "word": "When"
+        },
+        {
+          "startTime": 190595,
+          "endTime": 190827,
+          "word": "it"
+        },
+        {
+          "startTime": 190827,
+          "endTime": 192737,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 193550,
+      "endTime": 195254,
+      "text": "We will stand tall",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 193556,
+          "endTime": 193806,
+          "word": "We"
+        },
+        {
+          "startTime": 193806,
+          "endTime": 194022,
+          "word": "will"
+        },
+        {
+          "startTime": 194022,
+          "endTime": 194374,
+          "word": "stand"
+        },
+        {
+          "startTime": 194374,
+          "endTime": 195254,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 197720,
+      "endTime": 200808,
+      "text": "Where you go, I go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 197721,
+          "endTime": 198086,
+          "word": "Where"
+        },
+        {
+          "startTime": 198086,
+          "endTime": 198371,
+          "word": "you"
+        },
+        {
+          "startTime": 198371,
+          "endTime": 198787,
+          "word": "go,"
+        },
+        {
+          "startTime": 198787,
+          "endTime": 199153,
+          "word": "I"
+        },
+        {
+          "startTime": 199153,
+          "endTime": 200808,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 200940,
+      "endTime": 204035,
+      "text": "What you see, I see",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 200942,
+          "endTime": 201225,
+          "word": "What"
+        },
+        {
+          "startTime": 201225,
+          "endTime": 201558,
+          "word": "you"
+        },
+        {
+          "startTime": 201558,
+          "endTime": 201908,
+          "word": "see,"
+        },
+        {
+          "startTime": 201908,
+          "endTime": 202425,
+          "word": "I"
+        },
+        {
+          "startTime": 202425,
+          "endTime": 204035,
+          "word": "see"
+        }
+      ]
+    },
+    {
+      "time": 204160,
+      "endTime": 207333,
+      "text": "I know I'd never be me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 204168,
+          "endTime": 204403,
+          "word": "I"
+        },
+        {
+          "startTime": 204403,
+          "endTime": 204718,
+          "word": "know"
+        },
+        {
+          "startTime": 204718,
+          "endTime": 205184,
+          "word": "I'd"
+        },
+        {
+          "startTime": 205184,
+          "endTime": 205568,
+          "word": "never"
+        },
+        {
+          "startTime": 205568,
+          "endTime": 206392,
+          "word": "be"
+        },
+        {
+          "startTime": 206392,
+          "endTime": 207333,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 207370,
+      "endTime": 210408,
+      "text": "Without the security",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 207375,
+          "endTime": 207858,
+          "word": "Without"
+        },
+        {
+          "startTime": 207858,
+          "endTime": 208141,
+          "word": "the"
+        },
+        {
+          "startTime": 208141,
+          "endTime": 210408,
+          "word": "security"
+        }
+      ]
+    },
+    {
+      "time": 210630,
+      "endTime": 213611,
+      "text": "Of your loving arms",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 210633,
+          "endTime": 211081,
+          "word": "Of"
+        },
+        {
+          "startTime": 211081,
+          "endTime": 211515,
+          "word": "your"
+        },
+        {
+          "startTime": 211515,
+          "endTime": 212081,
+          "word": "loving"
+        },
+        {
+          "startTime": 212081,
+          "endTime": 213611,
+          "word": "arms"
+        }
+      ]
+    },
+    {
+      "time": 213780,
+      "endTime": 216796,
+      "text": "Keeping me from harm",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 213787,
+          "endTime": 214571,
+          "word": "Keeping"
+        },
+        {
+          "startTime": 214571,
+          "endTime": 215003,
+          "word": "me"
+        },
+        {
+          "startTime": 215003,
+          "endTime": 215219,
+          "word": "from"
+        },
+        {
+          "startTime": 215219,
+          "endTime": 216796,
+          "word": "harm"
+        }
+      ]
+    },
+    {
+      "time": 216940,
+      "endTime": 220122,
+      "text": "Put your hand in my hand",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 216948,
+          "endTime": 217281,
+          "word": "Put"
+        },
+        {
+          "startTime": 217281,
+          "endTime": 217548,
+          "word": "your"
+        },
+        {
+          "startTime": 217548,
+          "endTime": 218498,
+          "word": "hand"
+        },
+        {
+          "startTime": 218498,
+          "endTime": 218815,
+          "word": "in"
+        },
+        {
+          "startTime": 218815,
+          "endTime": 219164,
+          "word": "my"
+        },
+        {
+          "startTime": 219164,
+          "endTime": 220122,
+          "word": "hand"
+        }
+      ]
+    },
+    {
+      "time": 220130,
+      "endTime": 224460,
+      "text": "And we'll stand",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 220132,
+          "endTime": 220449,
+          "word": "And"
+        },
+        {
+          "startTime": 220449,
+          "endTime": 220849,
+          "word": "we'll"
+        },
+        {
+          "startTime": 220849,
+          "endTime": 224460,
+          "word": "stand"
+        }
+      ]
+    },
+    {
+      "time": 223240,
+      "endTime": 226095,
+      "text": "Let the sky fall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 223249,
+          "endTime": 223649,
+          "word": "Let"
+        },
+        {
+          "startTime": 223649,
+          "endTime": 224031,
+          "word": "the"
+        },
+        {
+          "startTime": 224031,
+          "endTime": 224564,
+          "word": "sky"
+        },
+        {
+          "startTime": 224564,
+          "endTime": 226095,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 223240,
+      "endTime": 226857,
+      "text": "(Let the sky fall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 225281,
+          "endTime": 225516,
+          "word": "(Let"
+        },
+        {
+          "startTime": 225516,
+          "endTime": 225716,
+          "word": "the"
+        },
+        {
+          "startTime": 225716,
+          "endTime": 226031,
+          "word": "sky"
+        },
+        {
+          "startTime": 226031,
+          "endTime": 226857,
+          "word": "fall)"
+        }
+      ]
+    },
+    {
+      "time": 226330,
+      "endTime": 229351,
+      "text": "When it crumbles",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 226335,
+          "endTime": 226735,
+          "word": "When"
+        },
+        {
+          "startTime": 226735,
+          "endTime": 227119,
+          "word": "it"
+        },
+        {
+          "startTime": 227119,
+          "endTime": 229351,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 226330,
+      "endTime": 230248,
+      "text": "(When it crumbles)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 228365,
+          "endTime": 228632,
+          "word": "(When"
+        },
+        {
+          "startTime": 228632,
+          "endTime": 228800,
+          "word": "it"
+        },
+        {
+          "startTime": 228800,
+          "endTime": 230248,
+          "word": "crumbles)"
+        }
+      ]
+    },
+    {
+      "time": 229460,
+      "endTime": 232551,
+      "text": "We will stand tall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 229464,
+          "endTime": 229864,
+          "word": "We"
+        },
+        {
+          "startTime": 229864,
+          "endTime": 230245,
+          "word": "will"
+        },
+        {
+          "startTime": 230245,
+          "endTime": 230829,
+          "word": "stand"
+        },
+        {
+          "startTime": 230829,
+          "endTime": 232551,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 229460,
+      "endTime": 233002,
+      "text": "(We will stand tall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 231540,
+          "endTime": 231740,
+          "word": "(We"
+        },
+        {
+          "startTime": 231740,
+          "endTime": 231940,
+          "word": "will"
+        },
+        {
+          "startTime": 231940,
+          "endTime": 232324,
+          "word": "stand"
+        },
+        {
+          "startTime": 232324,
+          "endTime": 233002,
+          "word": "tall)"
+        }
+      ]
+    },
+    {
+      "time": 232610,
+      "endTime": 235632,
+      "text": "Face it all together",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 232610,
+          "endTime": 232942,
+          "word": "Face"
+        },
+        {
+          "startTime": 232942,
+          "endTime": 233260,
+          "word": "it"
+        },
+        {
+          "startTime": 233260,
+          "endTime": 234394,
+          "word": "all"
+        },
+        {
+          "startTime": 234797,
+          "endTime": 235632,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 235750,
+      "endTime": 238565,
+      "text": "Let the sky fall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 235752,
+          "endTime": 236103,
+          "word": "Let"
+        },
+        {
+          "startTime": 236103,
+          "endTime": 236485,
+          "word": "the"
+        },
+        {
+          "startTime": 236485,
+          "endTime": 237037,
+          "word": "sky"
+        },
+        {
+          "startTime": 237037,
+          "endTime": 238565,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 235750,
+      "endTime": 239286,
+      "text": "(Let the sky fall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 237777,
+          "endTime": 237961,
+          "word": "(Let"
+        },
+        {
+          "startTime": 237961,
+          "endTime": 238177,
+          "word": "the"
+        },
+        {
+          "startTime": 238177,
+          "endTime": 238526,
+          "word": "sky"
+        },
+        {
+          "startTime": 238526,
+          "endTime": 239286,
+          "word": "fall)"
+        }
+      ]
+    },
+    {
+      "time": 238850,
+      "endTime": 241763,
+      "text": "When it crumbles",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 238851,
+          "endTime": 239227,
+          "word": "When"
+        },
+        {
+          "startTime": 239227,
+          "endTime": 239643,
+          "word": "it"
+        },
+        {
+          "startTime": 239643,
+          "endTime": 241763,
+          "word": "crumbles"
+        }
+      ]
+    },
+    {
+      "time": 238850,
+      "endTime": 242569,
+      "text": "(When it crumbles)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 240844,
+          "endTime": 241076,
+          "word": "(When"
+        },
+        {
+          "startTime": 241076,
+          "endTime": 241276,
+          "word": "it"
+        },
+        {
+          "startTime": 241276,
+          "endTime": 242569,
+          "word": "crumbles)"
+        }
+      ]
+    },
+    {
+      "time": 242000,
+      "endTime": 244826,
+      "text": "We will stand tall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 242000,
+          "endTime": 242334,
+          "word": "We"
+        },
+        {
+          "startTime": 242334,
+          "endTime": 242766,
+          "word": "will"
+        },
+        {
+          "startTime": 242766,
+          "endTime": 243272,
+          "word": "stand"
+        },
+        {
+          "startTime": 243272,
+          "endTime": 244826,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 242000,
+      "endTime": 245415,
+      "text": "(We will stand tall)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 243922,
+          "endTime": 244154,
+          "word": "(We"
+        },
+        {
+          "startTime": 244154,
+          "endTime": 244404,
+          "word": "will"
+        },
+        {
+          "startTime": 244404,
+          "endTime": 244754,
+          "word": "stand"
+        },
+        {
+          "startTime": 244754,
+          "endTime": 245415,
+          "word": "tall)"
+        }
+      ]
+    },
+    {
+      "time": 244830,
+      "endTime": 247274,
+      "text": "And face it all together",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 244836,
+          "endTime": 245161,
+          "word": "And"
+        },
+        {
+          "startTime": 245161,
+          "endTime": 245476,
+          "word": "face"
+        },
+        {
+          "startTime": 245476,
+          "endTime": 245761,
+          "word": "it"
+        },
+        {
+          "startTime": 245761,
+          "endTime": 246511,
+          "word": "all"
+        },
+        {
+          "startTime": 246511,
+          "endTime": 247274,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 247460,
+      "endTime": 250052,
+      "text": "At skyfall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 247460,
+          "endTime": 248159,
+          "word": "At"
+        },
+        {
+          "startTime": 248159,
+          "endTime": 250052,
+          "word": "skyfall"
+        }
+      ]
+    },
+    {
+      "time": 250130,
+      "endTime": 253084,
+      "text": "Let the sky fall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 250134,
+          "endTime": 250401,
+          "word": "Let"
+        },
+        {
+          "startTime": 250401,
+          "endTime": 250633,
+          "word": "the"
+        },
+        {
+          "startTime": 250633,
+          "endTime": 250982,
+          "word": "sky"
+        },
+        {
+          "startTime": 250982,
+          "endTime": 253084,
+          "word": "fall"
+        }
+      ]
+    },
+    {
+      "time": 256350,
+      "endTime": 259789,
+      "text": "We will stand tall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 256356,
+          "endTime": 256656,
+          "word": "We"
+        },
+        {
+          "startTime": 256656,
+          "endTime": 256875,
+          "word": "will"
+        },
+        {
+          "startTime": 256875,
+          "endTime": 257189,
+          "word": "stand"
+        },
+        {
+          "startTime": 257189,
+          "endTime": 259789,
+          "word": "tall"
+        }
+      ]
+    },
+    {
+      "time": 259900,
+      "endTime": 270995,
+      "text": "At skyfall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 259901,
+          "endTime": 260651,
+          "word": "At"
+        },
+        {
+          "startTime": 260651,
+          "endTime": 270995,
+          "word": "skyfall"
+        }
+      ]
+    }
+  ]
+}
