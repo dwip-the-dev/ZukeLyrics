@@ -1,0 +1,395 @@
+{
+  "videoId": "QEpc7F6sS4M",
+  "title": "Unity",
+  "artist": "TheFatRat",
+  "duration": 250,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"01:58.890\" end=\"02:03.400\" ttm:agent=\"v1\">\n        <span begin=\"01:58.890\" end=\"01:59.394\">Stand <\/span>\n        <span begin=\"01:59.394\" end=\"02:00.672\">together <\/span>\n        <span begin=\"02:00.672\" end=\"02:01.143\">like <\/span>\n        <span begin=\"02:01.143\" end=\"02:01.647\">we&apos;re <\/span>\n        <span begin=\"02:01.647\" end=\"02:02.151\">rocks <\/span>\n        <span begin=\"02:02.151\" end=\"02:02.554\">in <\/span>\n        <span begin=\"02:02.554\" end=\"02:02.924\">a <\/span>\n        <span begin=\"02:02.924\" end=\"02:03.400\">wall<\/span>\n      <\/p>\n      <p begin=\"02:03.400\" end=\"02:07.980\" ttm:agent=\"v1\">\n        <span begin=\"02:03.400\" end=\"02:04.241\">Growing <\/span>\n        <span begin=\"02:04.241\" end=\"02:05.113\">stronger <\/span>\n        <span begin=\"02:05.113\" end=\"02:06.795\">everyday, <\/span>\n        <span begin=\"02:06.795\" end=\"02:07.542\">even <\/span>\n        <span begin=\"02:07.542\" end=\"02:07.980\">more<\/span>\n      <\/p>\n      <p begin=\"02:07.980\" end=\"02:12.010\" ttm:agent=\"v1\">\n        <span begin=\"02:07.980\" end=\"02:08.441\">Stand <\/span>\n        <span begin=\"02:08.441\" end=\"02:09.610\">together <\/span>\n        <span begin=\"02:09.610\" end=\"02:09.979\">in <\/span>\n        <span begin=\"02:09.979\" end=\"02:10.378\">the <\/span>\n        <span begin=\"02:10.378\" end=\"02:10.777\">eye <\/span>\n        <span begin=\"02:10.777\" end=\"02:11.146\">of <\/span>\n        <span begin=\"02:11.146\" end=\"02:11.545\">the <\/span>\n        <span begin=\"02:11.545\" end=\"02:12.010\">storm<\/span>\n      <\/p>\n      <p begin=\"02:12.010\" end=\"02:17.170\" ttm:agent=\"v1\">\n        <span begin=\"02:12.010\" end=\"02:12.503\">And <\/span>\n        <span begin=\"02:12.503\" end=\"02:13.034\">show <\/span>\n        <span begin=\"02:13.034\" end=\"02:13.527\">the <\/span>\n        <span begin=\"02:13.527\" end=\"02:14.475\">whole <\/span>\n        <span begin=\"02:14.475\" end=\"02:15.044\">world <\/span>\n        <span begin=\"02:15.044\" end=\"02:15.537\">who <\/span>\n        <span begin=\"02:15.537\" end=\"02:15.992\">we <\/span>\n        <span begin=\"02:15.992\" end=\"02:16.712\">are, <\/span>\n        <span begin=\"02:16.712\" end=\"02:17.170\">oh<\/span>\n      <\/p>\n      <p begin=\"02:17.170\" end=\"02:21.690\" ttm:agent=\"v1\">\n        <span begin=\"02:17.170\" end=\"02:17.645\">Keep <\/span>\n        <span begin=\"02:17.645\" end=\"02:18.052\">on <\/span>\n        <span begin=\"02:18.052\" end=\"02:18.969\">walking <\/span>\n        <span begin=\"02:18.969\" end=\"02:19.376\">to <\/span>\n        <span begin=\"02:19.376\" end=\"02:19.817\">the <\/span>\n        <span begin=\"02:19.817\" end=\"02:20.326\">sound <\/span>\n        <span begin=\"02:20.326\" end=\"02:20.733\">of <\/span>\n        <span begin=\"02:20.733\" end=\"02:21.174\">the <\/span>\n        <span begin=\"02:21.174\" end=\"02:21.690\">drums<\/span>\n      <\/p>\n      <p begin=\"02:21.690\" end=\"02:26.290\" ttm:agent=\"v1\">\n        <span begin=\"02:21.690\" end=\"02:22.340\">Feel <\/span>\n        <span begin=\"02:22.340\" end=\"02:22.944\">the <\/span>\n        <span begin=\"02:22.944\" end=\"02:23.594\">fire <\/span>\n        <span begin=\"02:23.594\" end=\"02:24.198\">run <\/span>\n        <span begin=\"02:24.198\" end=\"02:24.987\">through <\/span>\n        <span begin=\"02:24.987\" end=\"02:25.591\">our <\/span>\n        <span begin=\"02:25.591\" end=\"02:26.290\">lungs<\/span>\n      <\/p>\n      <p begin=\"02:26.290\" end=\"02:30.280\" ttm:agent=\"v1\">\n        <span begin=\"02:26.290\" end=\"02:26.710\">Find <\/span>\n        <span begin=\"02:26.710\" end=\"02:27.100\">our <\/span>\n        <span begin=\"02:27.100\" end=\"02:27.940\">treasure <\/span>\n        <span begin=\"02:27.940\" end=\"02:28.300\">in <\/span>\n        <span begin=\"02:28.300\" end=\"02:28.690\">the <\/span>\n        <span begin=\"02:28.690\" end=\"02:29.140\">light <\/span>\n        <span begin=\"02:29.140\" end=\"02:29.500\">of <\/span>\n        <span begin=\"02:29.500\" end=\"02:29.890\">the <\/span>\n        <span begin=\"02:29.890\" end=\"02:30.280\">sun<\/span>\n      <\/p>\n      <p begin=\"02:30.280\" end=\"02:35.280\" ttm:agent=\"v1\">\n        <span begin=\"02:30.280\" end=\"02:30.757\">And <\/span>\n        <span begin=\"02:30.757\" end=\"02:31.271\">show <\/span>\n        <span begin=\"02:31.271\" end=\"02:31.748\">the <\/span>\n        <span begin=\"02:31.748\" end=\"02:32.667\">whole <\/span>\n        <span begin=\"02:32.667\" end=\"02:33.218\">world <\/span>\n        <span begin=\"02:33.218\" end=\"02:33.695\">who <\/span>\n        <span begin=\"02:33.695\" end=\"02:34.136\">we <\/span>\n        <span begin=\"02:34.136\" end=\"02:34.834\">are, <\/span>\n        <span begin=\"02:34.834\" end=\"02:35.280\">oh<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 118890,
+      "endTime": 123400,
+      "text": "Stand together like we're rocks in a wall",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118890,
+          "endTime": 119394,
+          "word": "Stand "
+        },
+        {
+          "startTime": 119394,
+          "endTime": 120672,
+          "word": "together "
+        },
+        {
+          "startTime": 120672,
+          "endTime": 121143,
+          "word": "like "
+        },
+        {
+          "startTime": 121143,
+          "endTime": 121647,
+          "word": "we're "
+        },
+        {
+          "startTime": 121647,
+          "endTime": 122151,
+          "word": "rocks "
+        },
+        {
+          "startTime": 122151,
+          "endTime": 122554,
+          "word": "in "
+        },
+        {
+          "startTime": 122554,
+          "endTime": 122924,
+          "word": "a "
+        },
+        {
+          "startTime": 122924,
+          "endTime": 123400,
+          "word": "wall"
+        }
+      ]
+    },
+    {
+      "time": 123400,
+      "endTime": 127980,
+      "text": "Growing stronger everyday, even more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123400,
+          "endTime": 124241,
+          "word": "Growing "
+        },
+        {
+          "startTime": 124241,
+          "endTime": 125113,
+          "word": "stronger "
+        },
+        {
+          "startTime": 125113,
+          "endTime": 126795,
+          "word": "everyday, "
+        },
+        {
+          "startTime": 126795,
+          "endTime": 127542,
+          "word": "even "
+        },
+        {
+          "startTime": 127542,
+          "endTime": 127980,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 127980,
+      "endTime": 132010,
+      "text": "Stand together in the eye of the storm",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127980,
+          "endTime": 128441,
+          "word": "Stand "
+        },
+        {
+          "startTime": 128441,
+          "endTime": 129610,
+          "word": "together "
+        },
+        {
+          "startTime": 129610,
+          "endTime": 129979,
+          "word": "in "
+        },
+        {
+          "startTime": 129979,
+          "endTime": 130378,
+          "word": "the "
+        },
+        {
+          "startTime": 130378,
+          "endTime": 130777,
+          "word": "eye "
+        },
+        {
+          "startTime": 130777,
+          "endTime": 131146,
+          "word": "of "
+        },
+        {
+          "startTime": 131146,
+          "endTime": 131545,
+          "word": "the "
+        },
+        {
+          "startTime": 131545,
+          "endTime": 132010,
+          "word": "storm"
+        }
+      ]
+    },
+    {
+      "time": 132010,
+      "endTime": 137170,
+      "text": "And show the whole world who we are, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 132010,
+          "endTime": 132503,
+          "word": "And "
+        },
+        {
+          "startTime": 132503,
+          "endTime": 133034,
+          "word": "show "
+        },
+        {
+          "startTime": 133034,
+          "endTime": 133527,
+          "word": "the "
+        },
+        {
+          "startTime": 133527,
+          "endTime": 134475,
+          "word": "whole "
+        },
+        {
+          "startTime": 134475,
+          "endTime": 135044,
+          "word": "world "
+        },
+        {
+          "startTime": 135044,
+          "endTime": 135537,
+          "word": "who "
+        },
+        {
+          "startTime": 135537,
+          "endTime": 135992,
+          "word": "we "
+        },
+        {
+          "startTime": 135992,
+          "endTime": 136712,
+          "word": "are, "
+        },
+        {
+          "startTime": 136712,
+          "endTime": 137170,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 137170,
+      "endTime": 141690,
+      "text": "Keep on walking to the sound of the drums",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137170,
+          "endTime": 137645,
+          "word": "Keep "
+        },
+        {
+          "startTime": 137645,
+          "endTime": 138052,
+          "word": "on "
+        },
+        {
+          "startTime": 138052,
+          "endTime": 138969,
+          "word": "walking "
+        },
+        {
+          "startTime": 138969,
+          "endTime": 139376,
+          "word": "to "
+        },
+        {
+          "startTime": 139376,
+          "endTime": 139817,
+          "word": "the "
+        },
+        {
+          "startTime": 139817,
+          "endTime": 140326,
+          "word": "sound "
+        },
+        {
+          "startTime": 140326,
+          "endTime": 140733,
+          "word": "of "
+        },
+        {
+          "startTime": 140733,
+          "endTime": 141174,
+          "word": "the "
+        },
+        {
+          "startTime": 141174,
+          "endTime": 141690,
+          "word": "drums"
+        }
+      ]
+    },
+    {
+      "time": 141690,
+      "endTime": 146290,
+      "text": "Feel the fire run through our lungs",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 141690,
+          "endTime": 142340,
+          "word": "Feel "
+        },
+        {
+          "startTime": 142340,
+          "endTime": 142944,
+          "word": "the "
+        },
+        {
+          "startTime": 142944,
+          "endTime": 143594,
+          "word": "fire "
+        },
+        {
+          "startTime": 143594,
+          "endTime": 144198,
+          "word": "run "
+        },
+        {
+          "startTime": 144198,
+          "endTime": 144987,
+          "word": "through "
+        },
+        {
+          "startTime": 144987,
+          "endTime": 145591,
+          "word": "our "
+        },
+        {
+          "startTime": 145591,
+          "endTime": 146290,
+          "word": "lungs"
+        }
+      ]
+    },
+    {
+      "time": 146290,
+      "endTime": 150280,
+      "text": "Find our treasure in the light of the sun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146290,
+          "endTime": 146710,
+          "word": "Find "
+        },
+        {
+          "startTime": 146710,
+          "endTime": 147100,
+          "word": "our "
+        },
+        {
+          "startTime": 147100,
+          "endTime": 147940,
+          "word": "treasure "
+        },
+        {
+          "startTime": 147940,
+          "endTime": 148300,
+          "word": "in "
+        },
+        {
+          "startTime": 148300,
+          "endTime": 148690,
+          "word": "the "
+        },
+        {
+          "startTime": 148690,
+          "endTime": 149140,
+          "word": "light "
+        },
+        {
+          "startTime": 149140,
+          "endTime": 149500,
+          "word": "of "
+        },
+        {
+          "startTime": 149500,
+          "endTime": 149890,
+          "word": "the "
+        },
+        {
+          "startTime": 149890,
+          "endTime": 150280,
+          "word": "sun"
+        }
+      ]
+    },
+    {
+      "time": 150280,
+      "endTime": 155280,
+      "text": "And show the whole world who we are, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 150280,
+          "endTime": 150757,
+          "word": "And "
+        },
+        {
+          "startTime": 150757,
+          "endTime": 151271,
+          "word": "show "
+        },
+        {
+          "startTime": 151271,
+          "endTime": 151748,
+          "word": "the "
+        },
+        {
+          "startTime": 151748,
+          "endTime": 152667,
+          "word": "whole "
+        },
+        {
+          "startTime": 152667,
+          "endTime": 153218,
+          "word": "world "
+        },
+        {
+          "startTime": 153218,
+          "endTime": 153695,
+          "word": "who "
+        },
+        {
+          "startTime": 153695,
+          "endTime": 154136,
+          "word": "we "
+        },
+        {
+          "startTime": 154136,
+          "endTime": 154834,
+          "word": "are, "
+        },
+        {
+          "startTime": 154834,
+          "endTime": 155280,
+          "word": "oh"
+        }
+      ]
+    }
+  ]
+}
