@@ -1,0 +1,1460 @@
+{
+  "videoId": "lLM6pPrrAvQ",
+  "title": "Akhiyaan Gulaab",
+  "artist": "Mitraz",
+  "duration": 172,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:03.770\" end=\"00:05.563\" ttm:agent=\"v1\">\n        <span begin=\"00:03.771\" end=\"00:04.775\">(Akhiyaan<\/span>\n        <span begin=\"00:04.775\" end=\"00:05.563\">gulaab)<\/span>\n      <\/p>\n      <p begin=\"00:17.790\" end=\"00:19.554\" ttm:agent=\"v1\">\n        <span begin=\"00:17.799\" end=\"00:19.015\">Mahiya<\/span>\n        <span begin=\"00:19.015\" end=\"00:19.554\">ve<\/span>\n      <\/p>\n      <p begin=\"00:20.300\" end=\"00:24.005\" ttm:agent=\"v1\">\n        <span begin=\"00:20.306\" end=\"00:21.048\">Palko<\/span>\n        <span begin=\"00:21.048\" end=\"00:21.473\">mein<\/span>\n        <span begin=\"00:21.473\" end=\"00:22.078\">tere<\/span>\n        <span begin=\"00:22.078\" end=\"00:22.408\">kho<\/span>\n        <span begin=\"00:22.408\" end=\"00:22.877\">dil<\/span>\n        <span begin=\"00:22.877\" end=\"00:24.005\">jaave<\/span>\n      <\/p>\n      <p begin=\"00:24.540\" end=\"00:28.546\" ttm:agent=\"v1\">\n        <span begin=\"00:24.545\" end=\"00:25.483\">Ambara<\/span>\n        <span begin=\"00:25.483\" end=\"00:26.027\">vi<\/span>\n        <span begin=\"00:26.027\" end=\"00:26.588\">ghula<\/span>\n        <span begin=\"00:26.588\" end=\"00:27.072\">ghula<\/span>\n        <span begin=\"00:27.072\" end=\"00:27.426\">sa<\/span>\n        <span begin=\"00:27.426\" end=\"00:28.546\">laage<\/span>\n      <\/p>\n      <p begin=\"00:29.300\" end=\"00:32.202\" ttm:agent=\"v1\">\n        <span begin=\"00:29.308\" end=\"00:29.735\">Bas<\/span>\n        <span begin=\"00:29.735\" end=\"00:30.304\">ek<\/span>\n        <span begin=\"00:30.524\" end=\"00:31.064\">tere<\/span>\n        <span begin=\"00:31.064\" end=\"00:31.369\">hi<\/span>\n        <span begin=\"00:31.369\" end=\"00:31.876\">naal<\/span>\n        <span begin=\"00:31.876\" end=\"00:32.202\">ve<\/span>\n      <\/p>\n      <p begin=\"00:35.450\" end=\"00:40.285\" ttm:agent=\"v1\">\n        <span begin=\"00:35.457\" end=\"00:36.147\">Kaisi<\/span>\n        <span begin=\"00:36.147\" end=\"00:36.387\">hai<\/span>\n        <span begin=\"00:36.387\" end=\"00:37.179\">lagdi<\/span>\n        <span begin=\"00:37.179\" end=\"00:38.042\">kamaal<\/span>\n        <span begin=\"00:38.042\" end=\"00:38.681\">teri<\/span>\n        <span begin=\"00:38.681\" end=\"00:39.524\">ankhiyaan<\/span>\n        <span begin=\"00:39.524\" end=\"00:40.285\">gulaab<\/span>\n      <\/p>\n      <p begin=\"00:40.280\" end=\"00:44.203\" ttm:agent=\"v1\">\n        <span begin=\"00:40.285\" end=\"00:40.613\">Ke<\/span>\n        <span begin=\"00:40.613\" end=\"00:40.872\">na<\/span>\n        <span begin=\"00:40.872\" end=\"00:41.369\">jaave<\/span>\n        <span begin=\"00:41.369\" end=\"00:41.991\">sadda<\/span>\n        <span begin=\"00:41.991\" end=\"00:42.589\">pyaar<\/span>\n        <span begin=\"00:42.589\" end=\"00:43.054\">tainu<\/span>\n        <span begin=\"00:43.054\" end=\"00:43.920\">chhad<\/span>\n        <span begin=\"00:43.920\" end=\"00:44.203\">ke<\/span>\n      <\/p>\n      <p begin=\"00:44.430\" end=\"00:47.276\" ttm:agent=\"v1\">\n        <span begin=\"00:44.433\" end=\"00:44.783\">Ho<\/span>\n        <span begin=\"00:44.783\" end=\"00:45.327\">jaave<\/span>\n        <span begin=\"00:45.327\" end=\"00:45.911\">tera<\/span>\n        <span begin=\"00:45.911\" end=\"00:46.247\">hi<\/span>\n        <span begin=\"00:46.247\" end=\"00:47.276\">deedar<\/span>\n      <\/p>\n      <p begin=\"00:47.270\" end=\"00:51.741\" ttm:agent=\"v1\">\n        <span begin=\"00:47.276\" end=\"00:47.593\">Te<\/span>\n        <span begin=\"00:47.593\" end=\"00:48.203\">koi<\/span>\n        <span begin=\"00:48.203\" end=\"00:48.426\">na<\/span>\n        <span begin=\"00:48.426\" end=\"00:49.594\">sambhal<\/span>\n        <span begin=\"00:49.594\" end=\"00:49.855\">vi<\/span>\n        <span begin=\"00:49.855\" end=\"00:50.347\">paave<\/span>\n        <span begin=\"00:50.347\" end=\"00:50.966\">sadda<\/span>\n        <span begin=\"00:50.966\" end=\"00:51.741\">pyaar<\/span>\n      <\/p>\n      <p begin=\"00:51.740\" end=\"00:52.939\" ttm:agent=\"v1\">\n        <span begin=\"00:51.741\" end=\"00:52.058\">Tu<\/span>\n        <span begin=\"00:52.058\" end=\"00:52.651\">chhadd<\/span>\n        <span begin=\"00:52.651\" end=\"00:52.939\">ke<\/span>\n      <\/p>\n      <p begin=\"00:53.390\" end=\"00:58.170\" ttm:agent=\"v1\">\n        <span begin=\"00:53.396\" end=\"00:54.139\">Kaisi<\/span>\n        <span begin=\"00:54.139\" end=\"00:54.371\">hai<\/span>\n        <span begin=\"00:54.371\" end=\"00:55.190\">lagdi<\/span>\n        <span begin=\"00:55.190\" end=\"00:56.008\">kamaal<\/span>\n        <span begin=\"00:56.008\" end=\"00:56.599\">teri<\/span>\n        <span begin=\"00:56.599\" end=\"00:57.443\">ankhiyaan<\/span>\n        <span begin=\"00:57.443\" end=\"00:58.170\">gulaab<\/span>\n      <\/p>\n      <p begin=\"00:58.230\" end=\"01:02.153\" ttm:agent=\"v1\">\n        <span begin=\"00:58.230\" end=\"00:58.550\">Ke<\/span>\n        <span begin=\"00:58.550\" end=\"00:58.800\">na<\/span>\n        <span begin=\"00:58.800\" end=\"00:59.348\">jaave<\/span>\n        <span begin=\"00:59.348\" end=\"00:59.927\">sadda<\/span>\n        <span begin=\"00:59.927\" end=\"01:00.475\">pyaar<\/span>\n        <span begin=\"01:00.475\" end=\"01:01.019\">tainu<\/span>\n        <span begin=\"01:01.019\" end=\"01:01.883\">chhad<\/span>\n        <span begin=\"01:01.883\" end=\"01:02.153\">ke<\/span>\n      <\/p>\n      <p begin=\"01:02.400\" end=\"01:05.181\" ttm:agent=\"v1\">\n        <span begin=\"01:02.405\" end=\"01:02.719\">Ho<\/span>\n        <span begin=\"01:02.719\" end=\"01:03.300\">jaave<\/span>\n        <span begin=\"01:03.300\" end=\"01:03.854\">tera<\/span>\n        <span begin=\"01:03.854\" end=\"01:04.206\">hi<\/span>\n        <span begin=\"01:04.206\" end=\"01:05.181\">deedar<\/span>\n      <\/p>\n      <p begin=\"01:05.180\" end=\"01:09.703\" ttm:agent=\"v1\">\n        <span begin=\"01:05.181\" end=\"01:05.531\">Te<\/span>\n        <span begin=\"01:05.531\" end=\"01:06.126\">koi<\/span>\n        <span begin=\"01:06.126\" end=\"01:06.389\">na<\/span>\n        <span begin=\"01:06.389\" end=\"01:07.542\">sambhal<\/span>\n        <span begin=\"01:07.542\" end=\"01:07.782\">vi<\/span>\n        <span begin=\"01:07.782\" end=\"01:08.295\">paave<\/span>\n        <span begin=\"01:08.295\" end=\"01:08.861\">sadda<\/span>\n        <span begin=\"01:08.861\" end=\"01:09.703\">pyaar<\/span>\n      <\/p>\n      <p begin=\"01:09.700\" end=\"01:11.090\" ttm:agent=\"v1\">\n        <span begin=\"01:09.703\" end=\"01:09.993\">Tu<\/span>\n        <span begin=\"01:09.993\" end=\"01:10.602\">chhadd<\/span>\n        <span begin=\"01:10.602\" end=\"01:11.090\">ke<\/span>\n      <\/p>\n      <p begin=\"01:12.180\" end=\"01:16.676\" ttm:agent=\"v1\">\n        <span begin=\"01:12.185\" end=\"01:12.746\">Teri<\/span>\n        <span begin=\"01:12.746\" end=\"01:13.426\">razaa<\/span>\n        <span begin=\"01:13.426\" end=\"01:13.817\">teri<\/span>\n        <span begin=\"01:13.817\" end=\"01:14.516\">zameen<\/span>\n        <span begin=\"01:14.516\" end=\"01:14.949\">tere<\/span>\n        <span begin=\"01:14.949\" end=\"01:15.676\">iraade<\/span>\n        <span begin=\"01:15.676\" end=\"01:16.248\">ho<\/span>\n        <span begin=\"01:16.248\" end=\"01:16.676\">na<\/span>\n      <\/p>\n      <p begin=\"01:16.670\" end=\"01:20.414\" ttm:agent=\"v1\">\n        <span begin=\"01:16.676\" end=\"01:17.210\">Teri<\/span>\n        <span begin=\"01:17.210\" end=\"01:17.878\">kami<\/span>\n        <span begin=\"01:17.878\" end=\"01:18.306\">hove<\/span>\n        <span begin=\"01:18.306\" end=\"01:19.029\">kabhi<\/span>\n        <span begin=\"01:19.029\" end=\"01:19.445\">mere<\/span>\n        <span begin=\"01:19.445\" end=\"01:20.118\">kareeb<\/span>\n        <span begin=\"01:20.118\" end=\"01:20.414\">reh<\/span>\n      <\/p>\n      <p begin=\"01:21.170\" end=\"01:25.607\" ttm:agent=\"v1\">\n        <span begin=\"01:21.176\" end=\"01:21.694\">Teri<\/span>\n        <span begin=\"01:21.694\" end=\"01:22.393\">razaa<\/span>\n        <span begin=\"01:22.393\" end=\"01:22.768\">teri<\/span>\n        <span begin=\"01:22.768\" end=\"01:23.504\">zameen<\/span>\n        <span begin=\"01:23.504\" end=\"01:23.908\">tere<\/span>\n        <span begin=\"01:23.908\" end=\"01:24.645\">iraade<\/span>\n        <span begin=\"01:24.645\" end=\"01:25.198\">ho<\/span>\n        <span begin=\"01:25.198\" end=\"01:25.607\">na<\/span>\n      <\/p>\n      <p begin=\"01:25.670\" end=\"01:29.402\" ttm:agent=\"v1\">\n        <span begin=\"01:25.674\" end=\"01:26.168\">Teri<\/span>\n        <span begin=\"01:26.168\" end=\"01:26.861\">kami<\/span>\n        <span begin=\"01:26.861\" end=\"01:27.295\">hove<\/span>\n        <span begin=\"01:27.295\" end=\"01:28.010\">kabhi<\/span>\n        <span begin=\"01:28.010\" end=\"01:28.370\">mere<\/span>\n        <span begin=\"01:28.370\" end=\"01:29.094\">kareeb<\/span>\n        <span begin=\"01:29.094\" end=\"01:29.402\">reh<\/span>\n      <\/p>\n      <p begin=\"01:29.560\" end=\"01:31.312\" ttm:agent=\"v1\">\n        <span begin=\"01:29.566\" end=\"01:30.797\">Maahiya<\/span>\n        <span begin=\"01:30.797\" end=\"01:31.312\">ve<\/span>\n      <\/p>\n      <p begin=\"01:32.110\" end=\"01:35.791\" ttm:agent=\"v1\">\n        <span begin=\"01:32.116\" end=\"01:32.791\">Palko<\/span>\n        <span begin=\"01:32.791\" end=\"01:33.325\">mein<\/span>\n        <span begin=\"01:33.325\" end=\"01:33.888\">tere<\/span>\n        <span begin=\"01:33.888\" end=\"01:34.166\">kho<\/span>\n        <span begin=\"01:34.166\" end=\"01:34.412\">ye<\/span>\n        <span begin=\"01:34.412\" end=\"01:34.701\">dil<\/span>\n        <span begin=\"01:34.701\" end=\"01:35.791\">jaave<\/span>\n      <\/p>\n      <p begin=\"01:36.310\" end=\"01:40.283\" ttm:agent=\"v1\">\n        <span begin=\"01:36.315\" end=\"01:37.253\">Ambara<\/span>\n        <span begin=\"01:37.253\" end=\"01:37.839\">vi<\/span>\n        <span begin=\"01:37.839\" end=\"01:38.413\">ghula<\/span>\n        <span begin=\"01:38.413\" end=\"01:38.860\">ghula<\/span>\n        <span begin=\"01:38.860\" end=\"01:39.237\">sa<\/span>\n        <span begin=\"01:39.237\" end=\"01:40.283\">laage<\/span>\n      <\/p>\n      <p begin=\"01:41.060\" end=\"01:45.264\" ttm:agent=\"v1\">\n        <span begin=\"01:41.064\" end=\"01:41.542\">Bas<\/span>\n        <span begin=\"01:41.542\" end=\"01:42.229\">ik<\/span>\n        <span begin=\"01:42.229\" end=\"01:42.769\">tere<\/span>\n        <span begin=\"01:42.769\" end=\"01:43.238\">hi<\/span>\n        <span begin=\"01:43.238\" end=\"01:43.676\">naal<\/span>\n        <span begin=\"01:43.676\" end=\"01:45.264\">ve<\/span>\n      <\/p>\n      <p begin=\"01:47.210\" end=\"01:52.072\" ttm:agent=\"v1\">\n        <span begin=\"01:47.210\" end=\"01:47.874\">Kaisi<\/span>\n        <span begin=\"01:47.874\" end=\"01:48.172\">hai<\/span>\n        <span begin=\"01:48.172\" end=\"01:48.991\">lagdi<\/span>\n        <span begin=\"01:48.991\" end=\"01:49.880\">kamaal<\/span>\n        <span begin=\"01:49.880\" end=\"01:50.380\">teri<\/span>\n        <span begin=\"01:50.380\" end=\"01:51.228\">ankhiyaan<\/span>\n        <span begin=\"01:51.228\" end=\"01:52.072\">gulaab<\/span>\n      <\/p>\n      <p begin=\"01:52.070\" end=\"01:56.013\" ttm:agent=\"v1\">\n        <span begin=\"01:52.072\" end=\"01:52.360\">Ke<\/span>\n        <span begin=\"01:52.360\" end=\"01:52.661\">na<\/span>\n        <span begin=\"01:52.661\" end=\"01:53.138\">jaave<\/span>\n        <span begin=\"01:53.138\" end=\"01:53.747\">sadda<\/span>\n        <span begin=\"01:53.747\" end=\"01:54.364\">pyaar<\/span>\n        <span begin=\"01:54.364\" end=\"01:54.836\">tainu<\/span>\n        <span begin=\"01:54.836\" end=\"01:55.687\">chhad<\/span>\n        <span begin=\"01:55.687\" end=\"01:56.013\">ke<\/span>\n      <\/p>\n      <p begin=\"01:56.220\" end=\"01:59.033\" ttm:agent=\"v1\">\n        <span begin=\"01:56.221\" end=\"01:56.567\">Ho<\/span>\n        <span begin=\"01:56.567\" end=\"01:57.156\">jaave<\/span>\n        <span begin=\"01:57.156\" end=\"01:57.725\">tera<\/span>\n        <span begin=\"01:57.725\" end=\"01:57.995\">hi<\/span>\n        <span begin=\"01:57.995\" end=\"01:59.033\">deedar<\/span>\n      <\/p>\n      <p begin=\"01:59.030\" end=\"02:03.535\" ttm:agent=\"v1\">\n        <span begin=\"01:59.033\" end=\"01:59.345\">Te<\/span>\n        <span begin=\"01:59.345\" end=\"01:59.955\">koi<\/span>\n        <span begin=\"01:59.955\" end=\"02:00.203\">na<\/span>\n        <span begin=\"02:00.203\" end=\"02:01.366\">sambhal<\/span>\n        <span begin=\"02:01.366\" end=\"02:01.614\">vi<\/span>\n        <span begin=\"02:01.614\" end=\"02:02.120\">paave<\/span>\n        <span begin=\"02:02.120\" end=\"02:02.706\">sadda<\/span>\n        <span begin=\"02:02.706\" end=\"02:03.535\">pyaar<\/span>\n      <\/p>\n      <p begin=\"02:03.530\" end=\"02:04.704\" ttm:agent=\"v1\">\n        <span begin=\"02:03.535\" end=\"02:03.808\">Tu<\/span>\n        <span begin=\"02:03.808\" end=\"02:04.396\">chhadd<\/span>\n        <span begin=\"02:04.396\" end=\"02:04.704\">ke<\/span>\n      <\/p>\n      <p begin=\"02:05.130\" end=\"02:10.002\" ttm:agent=\"v1\">\n        <span begin=\"02:05.136\" end=\"02:05.831\">Kaisi<\/span>\n        <span begin=\"02:05.831\" end=\"02:06.109\">hai<\/span>\n        <span begin=\"02:06.109\" end=\"02:06.918\">lagdi<\/span>\n        <span begin=\"02:06.918\" end=\"02:07.824\">kamaal<\/span>\n        <span begin=\"02:07.824\" end=\"02:08.426\">teri<\/span>\n        <span begin=\"02:08.426\" end=\"02:09.250\">ankhiyaan<\/span>\n        <span begin=\"02:09.250\" end=\"02:10.002\">gulaab<\/span>\n      <\/p>\n      <p begin=\"02:10.000\" end=\"02:13.954\" ttm:agent=\"v1\">\n        <span begin=\"02:10.002\" end=\"02:10.329\">Ke<\/span>\n        <span begin=\"02:10.329\" end=\"02:10.589\">na<\/span>\n        <span begin=\"02:10.589\" end=\"02:11.129\">jaave<\/span>\n        <span begin=\"02:11.129\" end=\"02:11.677\">sadda<\/span>\n        <span begin=\"02:11.677\" end=\"02:12.276\">pyaar<\/span>\n        <span begin=\"02:12.276\" end=\"02:12.816\">tainu<\/span>\n        <span begin=\"02:12.816\" end=\"02:13.681\">chhad<\/span>\n        <span begin=\"02:13.681\" end=\"02:13.954\">ke<\/span>\n      <\/p>\n      <p begin=\"02:14.170\" end=\"02:16.951\" ttm:agent=\"v1\">\n        <span begin=\"02:14.178\" end=\"02:14.507\">Ho<\/span>\n        <span begin=\"02:14.507\" end=\"02:15.065\">jaave<\/span>\n        <span begin=\"02:15.065\" end=\"02:15.654\">tera<\/span>\n        <span begin=\"02:15.654\" end=\"02:15.915\">hi<\/span>\n        <span begin=\"02:15.915\" end=\"02:16.951\">deedar<\/span>\n      <\/p>\n      <p begin=\"02:16.950\" end=\"02:21.484\" ttm:agent=\"v1\">\n        <span begin=\"02:16.951\" end=\"02:17.288\">Te<\/span>\n        <span begin=\"02:17.288\" end=\"02:17.892\">koi<\/span>\n        <span begin=\"02:17.892\" end=\"02:18.157\">na<\/span>\n        <span begin=\"02:18.157\" end=\"02:19.343\">sambhal<\/span>\n        <span begin=\"02:19.343\" end=\"02:19.564\">vi<\/span>\n        <span begin=\"02:19.564\" end=\"02:20.068\">paave<\/span>\n        <span begin=\"02:20.068\" end=\"02:20.677\">sadda<\/span>\n        <span begin=\"02:20.677\" end=\"02:21.484\">pyaar<\/span>\n      <\/p>\n      <p begin=\"02:21.480\" end=\"02:22.936\" ttm:agent=\"v1\">\n        <span begin=\"02:21.484\" end=\"02:21.815\">Tu<\/span>\n        <span begin=\"02:21.815\" end=\"02:22.365\">chhadd<\/span>\n        <span begin=\"02:22.365\" end=\"02:22.936\">ke<\/span>\n      <\/p>\n      <p begin=\"02:24.000\" end=\"02:28.538\" ttm:agent=\"v1\">\n        <span begin=\"02:24.000\" end=\"02:24.471\">Teri<\/span>\n        <span begin=\"02:24.471\" end=\"02:25.145\">razaa<\/span>\n        <span begin=\"02:25.145\" end=\"02:25.563\">teri<\/span>\n        <span begin=\"02:25.563\" end=\"02:26.269\">zameen<\/span>\n        <span begin=\"02:26.269\" end=\"02:26.702\">tere<\/span>\n        <span begin=\"02:26.702\" end=\"02:27.404\">iraade<\/span>\n        <span begin=\"02:27.404\" end=\"02:27.971\">ho<\/span>\n        <span begin=\"02:27.971\" end=\"02:28.538\">na<\/span>\n      <\/p>\n      <p begin=\"02:28.530\" end=\"02:32.185\" ttm:agent=\"v1\">\n        <span begin=\"02:28.538\" end=\"02:28.966\">Teri<\/span>\n        <span begin=\"02:28.966\" end=\"02:29.700\">kami<\/span>\n        <span begin=\"02:29.700\" end=\"02:30.074\">hove<\/span>\n        <span begin=\"02:30.074\" end=\"02:30.788\">kabhi<\/span>\n        <span begin=\"02:30.788\" end=\"02:31.170\">mere<\/span>\n        <span begin=\"02:31.170\" end=\"02:31.907\">kareeb<\/span>\n        <span begin=\"02:31.907\" end=\"02:32.185\">reh<\/span>\n      <\/p>\n      <p begin=\"02:32.940\" end=\"02:37.438\" ttm:agent=\"v1\">\n        <span begin=\"02:32.948\" end=\"02:33.433\">Teri<\/span>\n        <span begin=\"02:33.433\" end=\"02:34.142\">razaa<\/span>\n        <span begin=\"02:34.142\" end=\"02:34.551\">teri<\/span>\n        <span begin=\"02:34.551\" end=\"02:35.240\">zameen<\/span>\n        <span begin=\"02:35.240\" end=\"02:35.645\">tere<\/span>\n        <span begin=\"02:35.645\" end=\"02:36.387\">iraade<\/span>\n        <span begin=\"02:36.387\" end=\"02:36.966\">ho<\/span>\n        <span begin=\"02:36.966\" end=\"02:37.438\">na<\/span>\n      <\/p>\n      <p begin=\"02:37.430\" end=\"02:41.254\" ttm:agent=\"v1\">\n        <span begin=\"02:37.438\" end=\"02:37.942\">Teri<\/span>\n        <span begin=\"02:37.942\" end=\"02:38.656\">kami<\/span>\n        <span begin=\"02:38.656\" end=\"02:39.073\">hove<\/span>\n        <span begin=\"02:39.073\" end=\"02:39.756\">kabhi<\/span>\n        <span begin=\"02:39.756\" end=\"02:40.164\">mere<\/span>\n        <span begin=\"02:40.164\" end=\"02:40.895\">kareeb<\/span>\n        <span begin=\"02:40.895\" end=\"02:41.254\">reh<\/span>\n      <\/p>\n      <p begin=\"02:45.270\" end=\"02:47.060\" ttm:agent=\"v1\">\n        <span begin=\"02:45.273\" end=\"02:46.271\">(Ankhiyaan<\/span>\n        <span begin=\"02:46.271\" end=\"02:47.060\">gulaab)<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 3770,
+      "endTime": 5563,
+      "text": "(Akhiyaan gulaab)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 3771,
+          "endTime": 4775,
+          "word": "(Akhiyaan"
+        },
+        {
+          "startTime": 4775,
+          "endTime": 5563,
+          "word": "gulaab)"
+        }
+      ]
+    },
+    {
+      "time": 17790,
+      "endTime": 19554,
+      "text": "Mahiya ve",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17799,
+          "endTime": 19015,
+          "word": "Mahiya"
+        },
+        {
+          "startTime": 19015,
+          "endTime": 19554,
+          "word": "ve"
+        }
+      ]
+    },
+    {
+      "time": 20300,
+      "endTime": 24005,
+      "text": "Palko mein tere kho dil jaave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 20306,
+          "endTime": 21048,
+          "word": "Palko"
+        },
+        {
+          "startTime": 21048,
+          "endTime": 21473,
+          "word": "mein"
+        },
+        {
+          "startTime": 21473,
+          "endTime": 22078,
+          "word": "tere"
+        },
+        {
+          "startTime": 22078,
+          "endTime": 22408,
+          "word": "kho"
+        },
+        {
+          "startTime": 22408,
+          "endTime": 22877,
+          "word": "dil"
+        },
+        {
+          "startTime": 22877,
+          "endTime": 24005,
+          "word": "jaave"
+        }
+      ]
+    },
+    {
+      "time": 24540,
+      "endTime": 28546,
+      "text": "Ambara vi ghula ghula sa laage",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24545,
+          "endTime": 25483,
+          "word": "Ambara"
+        },
+        {
+          "startTime": 25483,
+          "endTime": 26027,
+          "word": "vi"
+        },
+        {
+          "startTime": 26027,
+          "endTime": 26588,
+          "word": "ghula"
+        },
+        {
+          "startTime": 26588,
+          "endTime": 27072,
+          "word": "ghula"
+        },
+        {
+          "startTime": 27072,
+          "endTime": 27426,
+          "word": "sa"
+        },
+        {
+          "startTime": 27426,
+          "endTime": 28546,
+          "word": "laage"
+        }
+      ]
+    },
+    {
+      "time": 29300,
+      "endTime": 32202,
+      "text": "Bas ek tere hi naal ve",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29308,
+          "endTime": 29735,
+          "word": "Bas"
+        },
+        {
+          "startTime": 29735,
+          "endTime": 30304,
+          "word": "ek"
+        },
+        {
+          "startTime": 30524,
+          "endTime": 31064,
+          "word": "tere"
+        },
+        {
+          "startTime": 31064,
+          "endTime": 31369,
+          "word": "hi"
+        },
+        {
+          "startTime": 31369,
+          "endTime": 31876,
+          "word": "naal"
+        },
+        {
+          "startTime": 31876,
+          "endTime": 32202,
+          "word": "ve"
+        }
+      ]
+    },
+    {
+      "time": 35450,
+      "endTime": 40285,
+      "text": "Kaisi hai lagdi kamaal teri ankhiyaan gulaab",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 35457,
+          "endTime": 36147,
+          "word": "Kaisi"
+        },
+        {
+          "startTime": 36147,
+          "endTime": 36387,
+          "word": "hai"
+        },
+        {
+          "startTime": 36387,
+          "endTime": 37179,
+          "word": "lagdi"
+        },
+        {
+          "startTime": 37179,
+          "endTime": 38042,
+          "word": "kamaal"
+        },
+        {
+          "startTime": 38042,
+          "endTime": 38681,
+          "word": "teri"
+        },
+        {
+          "startTime": 38681,
+          "endTime": 39524,
+          "word": "ankhiyaan"
+        },
+        {
+          "startTime": 39524,
+          "endTime": 40285,
+          "word": "gulaab"
+        }
+      ]
+    },
+    {
+      "time": 40280,
+      "endTime": 44203,
+      "text": "Ke na jaave sadda pyaar tainu chhad ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40285,
+          "endTime": 40613,
+          "word": "Ke"
+        },
+        {
+          "startTime": 40613,
+          "endTime": 40872,
+          "word": "na"
+        },
+        {
+          "startTime": 40872,
+          "endTime": 41369,
+          "word": "jaave"
+        },
+        {
+          "startTime": 41369,
+          "endTime": 41991,
+          "word": "sadda"
+        },
+        {
+          "startTime": 41991,
+          "endTime": 42589,
+          "word": "pyaar"
+        },
+        {
+          "startTime": 42589,
+          "endTime": 43054,
+          "word": "tainu"
+        },
+        {
+          "startTime": 43054,
+          "endTime": 43920,
+          "word": "chhad"
+        },
+        {
+          "startTime": 43920,
+          "endTime": 44203,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 44430,
+      "endTime": 47276,
+      "text": "Ho jaave tera hi deedar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44433,
+          "endTime": 44783,
+          "word": "Ho"
+        },
+        {
+          "startTime": 44783,
+          "endTime": 45327,
+          "word": "jaave"
+        },
+        {
+          "startTime": 45327,
+          "endTime": 45911,
+          "word": "tera"
+        },
+        {
+          "startTime": 45911,
+          "endTime": 46247,
+          "word": "hi"
+        },
+        {
+          "startTime": 46247,
+          "endTime": 47276,
+          "word": "deedar"
+        }
+      ]
+    },
+    {
+      "time": 47270,
+      "endTime": 51741,
+      "text": "Te koi na sambhal vi paave sadda pyaar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47276,
+          "endTime": 47593,
+          "word": "Te"
+        },
+        {
+          "startTime": 47593,
+          "endTime": 48203,
+          "word": "koi"
+        },
+        {
+          "startTime": 48203,
+          "endTime": 48426,
+          "word": "na"
+        },
+        {
+          "startTime": 48426,
+          "endTime": 49594,
+          "word": "sambhal"
+        },
+        {
+          "startTime": 49594,
+          "endTime": 49855,
+          "word": "vi"
+        },
+        {
+          "startTime": 49855,
+          "endTime": 50347,
+          "word": "paave"
+        },
+        {
+          "startTime": 50347,
+          "endTime": 50966,
+          "word": "sadda"
+        },
+        {
+          "startTime": 50966,
+          "endTime": 51741,
+          "word": "pyaar"
+        }
+      ]
+    },
+    {
+      "time": 51740,
+      "endTime": 52939,
+      "text": "Tu chhadd ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51741,
+          "endTime": 52058,
+          "word": "Tu"
+        },
+        {
+          "startTime": 52058,
+          "endTime": 52651,
+          "word": "chhadd"
+        },
+        {
+          "startTime": 52651,
+          "endTime": 52939,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 53390,
+      "endTime": 58170,
+      "text": "Kaisi hai lagdi kamaal teri ankhiyaan gulaab",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53396,
+          "endTime": 54139,
+          "word": "Kaisi"
+        },
+        {
+          "startTime": 54139,
+          "endTime": 54371,
+          "word": "hai"
+        },
+        {
+          "startTime": 54371,
+          "endTime": 55190,
+          "word": "lagdi"
+        },
+        {
+          "startTime": 55190,
+          "endTime": 56008,
+          "word": "kamaal"
+        },
+        {
+          "startTime": 56008,
+          "endTime": 56599,
+          "word": "teri"
+        },
+        {
+          "startTime": 56599,
+          "endTime": 57443,
+          "word": "ankhiyaan"
+        },
+        {
+          "startTime": 57443,
+          "endTime": 58170,
+          "word": "gulaab"
+        }
+      ]
+    },
+    {
+      "time": 58230,
+      "endTime": 62153,
+      "text": "Ke na jaave sadda pyaar tainu chhad ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 58230,
+          "endTime": 58550,
+          "word": "Ke"
+        },
+        {
+          "startTime": 58550,
+          "endTime": 58800,
+          "word": "na"
+        },
+        {
+          "startTime": 58800,
+          "endTime": 59348,
+          "word": "jaave"
+        },
+        {
+          "startTime": 59348,
+          "endTime": 59927,
+          "word": "sadda"
+        },
+        {
+          "startTime": 59927,
+          "endTime": 60475,
+          "word": "pyaar"
+        },
+        {
+          "startTime": 60475,
+          "endTime": 61019,
+          "word": "tainu"
+        },
+        {
+          "startTime": 61019,
+          "endTime": 61883,
+          "word": "chhad"
+        },
+        {
+          "startTime": 61883,
+          "endTime": 62153,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 62400,
+      "endTime": 65181,
+      "text": "Ho jaave tera hi deedar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 62405,
+          "endTime": 62719,
+          "word": "Ho"
+        },
+        {
+          "startTime": 62719,
+          "endTime": 63300,
+          "word": "jaave"
+        },
+        {
+          "startTime": 63300,
+          "endTime": 63854,
+          "word": "tera"
+        },
+        {
+          "startTime": 63854,
+          "endTime": 64206,
+          "word": "hi"
+        },
+        {
+          "startTime": 64206,
+          "endTime": 65181,
+          "word": "deedar"
+        }
+      ]
+    },
+    {
+      "time": 65180,
+      "endTime": 69703,
+      "text": "Te koi na sambhal vi paave sadda pyaar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65181,
+          "endTime": 65531,
+          "word": "Te"
+        },
+        {
+          "startTime": 65531,
+          "endTime": 66126,
+          "word": "koi"
+        },
+        {
+          "startTime": 66126,
+          "endTime": 66389,
+          "word": "na"
+        },
+        {
+          "startTime": 66389,
+          "endTime": 67542,
+          "word": "sambhal"
+        },
+        {
+          "startTime": 67542,
+          "endTime": 67782,
+          "word": "vi"
+        },
+        {
+          "startTime": 67782,
+          "endTime": 68295,
+          "word": "paave"
+        },
+        {
+          "startTime": 68295,
+          "endTime": 68861,
+          "word": "sadda"
+        },
+        {
+          "startTime": 68861,
+          "endTime": 69703,
+          "word": "pyaar"
+        }
+      ]
+    },
+    {
+      "time": 69700,
+      "endTime": 71090,
+      "text": "Tu chhadd ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69703,
+          "endTime": 69993,
+          "word": "Tu"
+        },
+        {
+          "startTime": 69993,
+          "endTime": 70602,
+          "word": "chhadd"
+        },
+        {
+          "startTime": 70602,
+          "endTime": 71090,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 72180,
+      "endTime": 76676,
+      "text": "Teri razaa teri zameen tere iraade ho na",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 72185,
+          "endTime": 72746,
+          "word": "Teri"
+        },
+        {
+          "startTime": 72746,
+          "endTime": 73426,
+          "word": "razaa"
+        },
+        {
+          "startTime": 73426,
+          "endTime": 73817,
+          "word": "teri"
+        },
+        {
+          "startTime": 73817,
+          "endTime": 74516,
+          "word": "zameen"
+        },
+        {
+          "startTime": 74516,
+          "endTime": 74949,
+          "word": "tere"
+        },
+        {
+          "startTime": 74949,
+          "endTime": 75676,
+          "word": "iraade"
+        },
+        {
+          "startTime": 75676,
+          "endTime": 76248,
+          "word": "ho"
+        },
+        {
+          "startTime": 76248,
+          "endTime": 76676,
+          "word": "na"
+        }
+      ]
+    },
+    {
+      "time": 76670,
+      "endTime": 80414,
+      "text": "Teri kami hove kabhi mere kareeb reh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 76676,
+          "endTime": 77210,
+          "word": "Teri"
+        },
+        {
+          "startTime": 77210,
+          "endTime": 77878,
+          "word": "kami"
+        },
+        {
+          "startTime": 77878,
+          "endTime": 78306,
+          "word": "hove"
+        },
+        {
+          "startTime": 78306,
+          "endTime": 79029,
+          "word": "kabhi"
+        },
+        {
+          "startTime": 79029,
+          "endTime": 79445,
+          "word": "mere"
+        },
+        {
+          "startTime": 79445,
+          "endTime": 80118,
+          "word": "kareeb"
+        },
+        {
+          "startTime": 80118,
+          "endTime": 80414,
+          "word": "reh"
+        }
+      ]
+    },
+    {
+      "time": 81170,
+      "endTime": 85607,
+      "text": "Teri razaa teri zameen tere iraade ho na",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81176,
+          "endTime": 81694,
+          "word": "Teri"
+        },
+        {
+          "startTime": 81694,
+          "endTime": 82393,
+          "word": "razaa"
+        },
+        {
+          "startTime": 82393,
+          "endTime": 82768,
+          "word": "teri"
+        },
+        {
+          "startTime": 82768,
+          "endTime": 83504,
+          "word": "zameen"
+        },
+        {
+          "startTime": 83504,
+          "endTime": 83908,
+          "word": "tere"
+        },
+        {
+          "startTime": 83908,
+          "endTime": 84645,
+          "word": "iraade"
+        },
+        {
+          "startTime": 84645,
+          "endTime": 85198,
+          "word": "ho"
+        },
+        {
+          "startTime": 85198,
+          "endTime": 85607,
+          "word": "na"
+        }
+      ]
+    },
+    {
+      "time": 85670,
+      "endTime": 89402,
+      "text": "Teri kami hove kabhi mere kareeb reh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85674,
+          "endTime": 86168,
+          "word": "Teri"
+        },
+        {
+          "startTime": 86168,
+          "endTime": 86861,
+          "word": "kami"
+        },
+        {
+          "startTime": 86861,
+          "endTime": 87295,
+          "word": "hove"
+        },
+        {
+          "startTime": 87295,
+          "endTime": 88010,
+          "word": "kabhi"
+        },
+        {
+          "startTime": 88010,
+          "endTime": 88370,
+          "word": "mere"
+        },
+        {
+          "startTime": 88370,
+          "endTime": 89094,
+          "word": "kareeb"
+        },
+        {
+          "startTime": 89094,
+          "endTime": 89402,
+          "word": "reh"
+        }
+      ]
+    },
+    {
+      "time": 89560,
+      "endTime": 91312,
+      "text": "Maahiya ve",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89566,
+          "endTime": 90797,
+          "word": "Maahiya"
+        },
+        {
+          "startTime": 90797,
+          "endTime": 91312,
+          "word": "ve"
+        }
+      ]
+    },
+    {
+      "time": 92110,
+      "endTime": 95791,
+      "text": "Palko mein tere kho ye dil jaave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92116,
+          "endTime": 92791,
+          "word": "Palko"
+        },
+        {
+          "startTime": 92791,
+          "endTime": 93325,
+          "word": "mein"
+        },
+        {
+          "startTime": 93325,
+          "endTime": 93888,
+          "word": "tere"
+        },
+        {
+          "startTime": 93888,
+          "endTime": 94166,
+          "word": "kho"
+        },
+        {
+          "startTime": 94166,
+          "endTime": 94412,
+          "word": "ye"
+        },
+        {
+          "startTime": 94412,
+          "endTime": 94701,
+          "word": "dil"
+        },
+        {
+          "startTime": 94701,
+          "endTime": 95791,
+          "word": "jaave"
+        }
+      ]
+    },
+    {
+      "time": 96310,
+      "endTime": 100283,
+      "text": "Ambara vi ghula ghula sa laage",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 96315,
+          "endTime": 97253,
+          "word": "Ambara"
+        },
+        {
+          "startTime": 97253,
+          "endTime": 97839,
+          "word": "vi"
+        },
+        {
+          "startTime": 97839,
+          "endTime": 98413,
+          "word": "ghula"
+        },
+        {
+          "startTime": 98413,
+          "endTime": 98860,
+          "word": "ghula"
+        },
+        {
+          "startTime": 98860,
+          "endTime": 99237,
+          "word": "sa"
+        },
+        {
+          "startTime": 99237,
+          "endTime": 100283,
+          "word": "laage"
+        }
+      ]
+    },
+    {
+      "time": 101060,
+      "endTime": 105264,
+      "text": "Bas ik tere hi naal ve",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101064,
+          "endTime": 101542,
+          "word": "Bas"
+        },
+        {
+          "startTime": 101542,
+          "endTime": 102229,
+          "word": "ik"
+        },
+        {
+          "startTime": 102229,
+          "endTime": 102769,
+          "word": "tere"
+        },
+        {
+          "startTime": 102769,
+          "endTime": 103238,
+          "word": "hi"
+        },
+        {
+          "startTime": 103238,
+          "endTime": 103676,
+          "word": "naal"
+        },
+        {
+          "startTime": 103676,
+          "endTime": 105264,
+          "word": "ve"
+        }
+      ]
+    },
+    {
+      "time": 107210,
+      "endTime": 112072,
+      "text": "Kaisi hai lagdi kamaal teri ankhiyaan gulaab",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107210,
+          "endTime": 107874,
+          "word": "Kaisi"
+        },
+        {
+          "startTime": 107874,
+          "endTime": 108172,
+          "word": "hai"
+        },
+        {
+          "startTime": 108172,
+          "endTime": 108991,
+          "word": "lagdi"
+        },
+        {
+          "startTime": 108991,
+          "endTime": 109880,
+          "word": "kamaal"
+        },
+        {
+          "startTime": 109880,
+          "endTime": 110380,
+          "word": "teri"
+        },
+        {
+          "startTime": 110380,
+          "endTime": 111228,
+          "word": "ankhiyaan"
+        },
+        {
+          "startTime": 111228,
+          "endTime": 112072,
+          "word": "gulaab"
+        }
+      ]
+    },
+    {
+      "time": 112070,
+      "endTime": 116013,
+      "text": "Ke na jaave sadda pyaar tainu chhad ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112072,
+          "endTime": 112360,
+          "word": "Ke"
+        },
+        {
+          "startTime": 112360,
+          "endTime": 112661,
+          "word": "na"
+        },
+        {
+          "startTime": 112661,
+          "endTime": 113138,
+          "word": "jaave"
+        },
+        {
+          "startTime": 113138,
+          "endTime": 113747,
+          "word": "sadda"
+        },
+        {
+          "startTime": 113747,
+          "endTime": 114364,
+          "word": "pyaar"
+        },
+        {
+          "startTime": 114364,
+          "endTime": 114836,
+          "word": "tainu"
+        },
+        {
+          "startTime": 114836,
+          "endTime": 115687,
+          "word": "chhad"
+        },
+        {
+          "startTime": 115687,
+          "endTime": 116013,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 116220,
+      "endTime": 119033,
+      "text": "Ho jaave tera hi deedar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116221,
+          "endTime": 116567,
+          "word": "Ho"
+        },
+        {
+          "startTime": 116567,
+          "endTime": 117156,
+          "word": "jaave"
+        },
+        {
+          "startTime": 117156,
+          "endTime": 117725,
+          "word": "tera"
+        },
+        {
+          "startTime": 117725,
+          "endTime": 117995,
+          "word": "hi"
+        },
+        {
+          "startTime": 117995,
+          "endTime": 119033,
+          "word": "deedar"
+        }
+      ]
+    },
+    {
+      "time": 119030,
+      "endTime": 123535,
+      "text": "Te koi na sambhal vi paave sadda pyaar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 119033,
+          "endTime": 119345,
+          "word": "Te"
+        },
+        {
+          "startTime": 119345,
+          "endTime": 119955,
+          "word": "koi"
+        },
+        {
+          "startTime": 119955,
+          "endTime": 120203,
+          "word": "na"
+        },
+        {
+          "startTime": 120203,
+          "endTime": 121366,
+          "word": "sambhal"
+        },
+        {
+          "startTime": 121366,
+          "endTime": 121614,
+          "word": "vi"
+        },
+        {
+          "startTime": 121614,
+          "endTime": 122120,
+          "word": "paave"
+        },
+        {
+          "startTime": 122120,
+          "endTime": 122706,
+          "word": "sadda"
+        },
+        {
+          "startTime": 122706,
+          "endTime": 123535,
+          "word": "pyaar"
+        }
+      ]
+    },
+    {
+      "time": 123530,
+      "endTime": 124704,
+      "text": "Tu chhadd ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123535,
+          "endTime": 123808,
+          "word": "Tu"
+        },
+        {
+          "startTime": 123808,
+          "endTime": 124396,
+          "word": "chhadd"
+        },
+        {
+          "startTime": 124396,
+          "endTime": 124704,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 125130,
+      "endTime": 130002,
+      "text": "Kaisi hai lagdi kamaal teri ankhiyaan gulaab",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125136,
+          "endTime": 125831,
+          "word": "Kaisi"
+        },
+        {
+          "startTime": 125831,
+          "endTime": 126109,
+          "word": "hai"
+        },
+        {
+          "startTime": 126109,
+          "endTime": 126918,
+          "word": "lagdi"
+        },
+        {
+          "startTime": 126918,
+          "endTime": 127824,
+          "word": "kamaal"
+        },
+        {
+          "startTime": 127824,
+          "endTime": 128426,
+          "word": "teri"
+        },
+        {
+          "startTime": 128426,
+          "endTime": 129250,
+          "word": "ankhiyaan"
+        },
+        {
+          "startTime": 129250,
+          "endTime": 130002,
+          "word": "gulaab"
+        }
+      ]
+    },
+    {
+      "time": 130000,
+      "endTime": 133954,
+      "text": "Ke na jaave sadda pyaar tainu chhad ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 130002,
+          "endTime": 130329,
+          "word": "Ke"
+        },
+        {
+          "startTime": 130329,
+          "endTime": 130589,
+          "word": "na"
+        },
+        {
+          "startTime": 130589,
+          "endTime": 131129,
+          "word": "jaave"
+        },
+        {
+          "startTime": 131129,
+          "endTime": 131677,
+          "word": "sadda"
+        },
+        {
+          "startTime": 131677,
+          "endTime": 132276,
+          "word": "pyaar"
+        },
+        {
+          "startTime": 132276,
+          "endTime": 132816,
+          "word": "tainu"
+        },
+        {
+          "startTime": 132816,
+          "endTime": 133681,
+          "word": "chhad"
+        },
+        {
+          "startTime": 133681,
+          "endTime": 133954,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 134170,
+      "endTime": 136951,
+      "text": "Ho jaave tera hi deedar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 134178,
+          "endTime": 134507,
+          "word": "Ho"
+        },
+        {
+          "startTime": 134507,
+          "endTime": 135065,
+          "word": "jaave"
+        },
+        {
+          "startTime": 135065,
+          "endTime": 135654,
+          "word": "tera"
+        },
+        {
+          "startTime": 135654,
+          "endTime": 135915,
+          "word": "hi"
+        },
+        {
+          "startTime": 135915,
+          "endTime": 136951,
+          "word": "deedar"
+        }
+      ]
+    },
+    {
+      "time": 136950,
+      "endTime": 141484,
+      "text": "Te koi na sambhal vi paave sadda pyaar",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136951,
+          "endTime": 137288,
+          "word": "Te"
+        },
+        {
+          "startTime": 137288,
+          "endTime": 137892,
+          "word": "koi"
+        },
+        {
+          "startTime": 137892,
+          "endTime": 138157,
+          "word": "na"
+        },
+        {
+          "startTime": 138157,
+          "endTime": 139343,
+          "word": "sambhal"
+        },
+        {
+          "startTime": 139343,
+          "endTime": 139564,
+          "word": "vi"
+        },
+        {
+          "startTime": 139564,
+          "endTime": 140068,
+          "word": "paave"
+        },
+        {
+          "startTime": 140068,
+          "endTime": 140677,
+          "word": "sadda"
+        },
+        {
+          "startTime": 140677,
+          "endTime": 141484,
+          "word": "pyaar"
+        }
+      ]
+    },
+    {
+      "time": 141480,
+      "endTime": 142936,
+      "text": "Tu chhadd ke",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 141484,
+          "endTime": 141815,
+          "word": "Tu"
+        },
+        {
+          "startTime": 141815,
+          "endTime": 142365,
+          "word": "chhadd"
+        },
+        {
+          "startTime": 142365,
+          "endTime": 142936,
+          "word": "ke"
+        }
+      ]
+    },
+    {
+      "time": 144000,
+      "endTime": 148538,
+      "text": "Teri razaa teri zameen tere iraade ho na",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144000,
+          "endTime": 144471,
+          "word": "Teri"
+        },
+        {
+          "startTime": 144471,
+          "endTime": 145145,
+          "word": "razaa"
+        },
+        {
+          "startTime": 145145,
+          "endTime": 145563,
+          "word": "teri"
+        },
+        {
+          "startTime": 145563,
+          "endTime": 146269,
+          "word": "zameen"
+        },
+        {
+          "startTime": 146269,
+          "endTime": 146702,
+          "word": "tere"
+        },
+        {
+          "startTime": 146702,
+          "endTime": 147404,
+          "word": "iraade"
+        },
+        {
+          "startTime": 147404,
+          "endTime": 147971,
+          "word": "ho"
+        },
+        {
+          "startTime": 147971,
+          "endTime": 148538,
+          "word": "na"
+        }
+      ]
+    },
+    {
+      "time": 148530,
+      "endTime": 152185,
+      "text": "Teri kami hove kabhi mere kareeb reh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 148538,
+          "endTime": 148966,
+          "word": "Teri"
+        },
+        {
+          "startTime": 148966,
+          "endTime": 149700,
+          "word": "kami"
+        },
+        {
+          "startTime": 149700,
+          "endTime": 150074,
+          "word": "hove"
+        },
+        {
+          "startTime": 150074,
+          "endTime": 150788,
+          "word": "kabhi"
+        },
+        {
+          "startTime": 150788,
+          "endTime": 151170,
+          "word": "mere"
+        },
+        {
+          "startTime": 151170,
+          "endTime": 151907,
+          "word": "kareeb"
+        },
+        {
+          "startTime": 151907,
+          "endTime": 152185,
+          "word": "reh"
+        }
+      ]
+    },
+    {
+      "time": 152940,
+      "endTime": 157438,
+      "text": "Teri razaa teri zameen tere iraade ho na",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 152948,
+          "endTime": 153433,
+          "word": "Teri"
+        },
+        {
+          "startTime": 153433,
+          "endTime": 154142,
+          "word": "razaa"
+        },
+        {
+          "startTime": 154142,
+          "endTime": 154551,
+          "word": "teri"
+        },
+        {
+          "startTime": 154551,
+          "endTime": 155240,
+          "word": "zameen"
+        },
+        {
+          "startTime": 155240,
+          "endTime": 155645,
+          "word": "tere"
+        },
+        {
+          "startTime": 155645,
+          "endTime": 156387,
+          "word": "iraade"
+        },
+        {
+          "startTime": 156387,
+          "endTime": 156966,
+          "word": "ho"
+        },
+        {
+          "startTime": 156966,
+          "endTime": 157438,
+          "word": "na"
+        }
+      ]
+    },
+    {
+      "time": 157430,
+      "endTime": 161254,
+      "text": "Teri kami hove kabhi mere kareeb reh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157438,
+          "endTime": 157942,
+          "word": "Teri"
+        },
+        {
+          "startTime": 157942,
+          "endTime": 158656,
+          "word": "kami"
+        },
+        {
+          "startTime": 158656,
+          "endTime": 159073,
+          "word": "hove"
+        },
+        {
+          "startTime": 159073,
+          "endTime": 159756,
+          "word": "kabhi"
+        },
+        {
+          "startTime": 159756,
+          "endTime": 160164,
+          "word": "mere"
+        },
+        {
+          "startTime": 160164,
+          "endTime": 160895,
+          "word": "kareeb"
+        },
+        {
+          "startTime": 160895,
+          "endTime": 161254,
+          "word": "reh"
+        }
+      ]
+    },
+    {
+      "time": 165270,
+      "endTime": 167060,
+      "text": "(Ankhiyaan gulaab)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165273,
+          "endTime": 166271,
+          "word": "(Ankhiyaan"
+        },
+        {
+          "startTime": 166271,
+          "endTime": 167060,
+          "word": "gulaab)"
+        }
+      ]
+    }
+  ]
+}
