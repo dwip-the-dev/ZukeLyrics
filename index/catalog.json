@@ -290,6 +290,16 @@
     "path": "lyrics-database/u/F/uFuAHzHOGYQ.json"
   },
   {
+    "videoId": "ulHcNwK1q_U",
+    "title": "I Will Survive",
+    "artist": "Demi Lovato",
+    "duration": 246,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 49,
+    "path": "lyrics-database/u/l/ulHcNwK1q_U.json"
+  },
+  {
     "videoId": "uvY8fdgezLQ",
     "title": "Midnight Sun",
     "artist": "Zara Larsson",
@@ -918,6 +928,16 @@
     "syncedType": "word",
     "linesCount": 70,
     "path": "lyrics-database/m/z/mzB1VGEGcSU.json"
+  },
+  {
+    "videoId": "mVw5KiGwqaQ",
+    "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "artist": "Clean Bandit",
+    "duration": 252,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 104,
+    "path": "lyrics-database/m/V/mVw5KiGwqaQ.json"
   },
   {
     "videoId": "mJLDjIWuPXU",
