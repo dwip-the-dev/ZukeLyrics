@@ -1,0 +1,1704 @@
+{
+  "videoId": "zCh4jIWOKrI",
+  "title": "This Is What You Came For",
+  "artist": "Calvin Harris, Rihanna",
+  "duration": 222,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.460\" end=\"00:04.017\" ttm:agent=\"v1\">\n        <span begin=\"00:00.467\" end=\"00:01.717\">Baby,<\/span>\n        <span begin=\"00:01.899\" end=\"00:02.216\">this<\/span>\n        <span begin=\"00:02.216\" end=\"00:02.467\">is<\/span>\n        <span begin=\"00:02.467\" end=\"00:02.715\">what<\/span>\n        <span begin=\"00:02.715\" end=\"00:02.965\">you<\/span>\n        <span begin=\"00:02.965\" end=\"00:03.416\">came<\/span>\n        <span begin=\"00:03.416\" end=\"00:04.017\">for<\/span>\n      <\/p>\n      <p begin=\"00:04.290\" end=\"00:08.980\" ttm:agent=\"v1\">\n        <span begin=\"00:04.295\" end=\"00:05.562\">Lightning<\/span>\n        <span begin=\"00:05.794\" end=\"00:06.295\">strikes<\/span>\n        <span begin=\"00:06.295\" end=\"00:06.842\">every<\/span>\n        <span begin=\"00:06.842\" end=\"00:07.260\">time<\/span>\n        <span begin=\"00:07.260\" end=\"00:07.511\">she<\/span>\n        <span begin=\"00:07.511\" end=\"00:08.980\">moves<\/span>\n      <\/p>\n      <p begin=\"00:11.390\" end=\"00:13.689\" ttm:agent=\"v1\">\n        <span begin=\"00:11.393\" end=\"00:11.679\">And<\/span>\n        <span begin=\"00:11.679\" end=\"00:12.561\">everybody&apos;s<\/span>\n        <span begin=\"00:12.561\" end=\"00:13.095\">watching<\/span>\n        <span begin=\"00:13.095\" end=\"00:13.689\">her<\/span>\n      <\/p>\n      <p begin=\"00:13.950\" end=\"00:15.283\" ttm:agent=\"v1\">\n        <span begin=\"00:13.954\" end=\"00:14.288\">But<\/span>\n        <span begin=\"00:14.288\" end=\"00:14.538\">she&apos;s<\/span>\n        <span begin=\"00:14.538\" end=\"00:15.024\">looking<\/span>\n        <span begin=\"00:15.024\" end=\"00:15.283\">at<\/span>\n      <\/p>\n      <p begin=\"00:15.480\" end=\"00:17.431\" ttm:agent=\"v1\">\n        <span begin=\"00:15.480\" end=\"00:16.222\">You,<\/span>\n        <span begin=\"00:16.222\" end=\"00:17.431\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:17.470\" end=\"00:19.343\" ttm:agent=\"v1\">\n        <span begin=\"00:17.473\" end=\"00:18.123\">You,<\/span>\n        <span begin=\"00:18.123\" end=\"00:19.343\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:19.410\" end=\"00:21.242\" ttm:agent=\"v1\">\n        <span begin=\"00:19.410\" end=\"00:20.045\">You,<\/span>\n        <span begin=\"00:20.045\" end=\"00:21.242\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:21.310\" end=\"00:23.237\" ttm:agent=\"v1\">\n        <span begin=\"00:21.311\" end=\"00:22.026\">You,<\/span>\n        <span begin=\"00:22.026\" end=\"00:23.237\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:23.260\" end=\"00:25.130\" ttm:agent=\"v1\">\n        <span begin=\"00:23.260\" end=\"00:23.887\">You,<\/span>\n        <span begin=\"00:23.887\" end=\"00:25.130\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:25.190\" end=\"00:27.900\" ttm:agent=\"v1\">\n        <span begin=\"00:25.195\" end=\"00:25.909\">You,<\/span>\n        <span begin=\"00:25.909\" end=\"00:26.795\">ooh-ooh,<\/span>\n        <span begin=\"00:26.795\" end=\"00:27.900\">ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:28.580\" end=\"00:30.055\" ttm:agent=\"v1\">\n        <span begin=\"00:28.589\" end=\"00:30.055\">Ooh-ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:31.380\" end=\"00:35.002\" ttm:agent=\"v1\">\n        <span begin=\"00:31.383\" end=\"00:32.650\">Baby,<\/span>\n        <span begin=\"00:32.869\" end=\"00:33.167\">this<\/span>\n        <span begin=\"00:33.167\" end=\"00:33.453\">is<\/span>\n        <span begin=\"00:33.453\" end=\"00:33.685\">what<\/span>\n        <span begin=\"00:33.685\" end=\"00:33.935\">you<\/span>\n        <span begin=\"00:33.935\" end=\"00:34.383\">came<\/span>\n        <span begin=\"00:34.383\" end=\"00:35.002\">for<\/span>\n      <\/p>\n      <p begin=\"00:35.310\" end=\"00:40.383\" ttm:agent=\"v1\">\n        <span begin=\"00:35.316\" end=\"00:36.481\">Lightning<\/span>\n        <span begin=\"00:36.732\" end=\"00:37.250\">strikes<\/span>\n        <span begin=\"00:37.250\" end=\"00:37.762\">every<\/span>\n        <span begin=\"00:37.762\" end=\"00:38.166\">time<\/span>\n        <span begin=\"00:38.166\" end=\"00:38.490\">she<\/span>\n        <span begin=\"00:38.490\" end=\"00:40.383\">moves<\/span>\n      <\/p>\n      <p begin=\"00:42.310\" end=\"00:44.643\" ttm:agent=\"v1\">\n        <span begin=\"00:42.315\" end=\"00:42.632\">And<\/span>\n        <span begin=\"00:42.632\" end=\"00:43.550\">everybody&apos;s<\/span>\n        <span begin=\"00:43.550\" end=\"00:44.064\">watching<\/span>\n        <span begin=\"00:44.064\" end=\"00:44.643\">her<\/span>\n      <\/p>\n      <p begin=\"00:44.950\" end=\"00:46.272\" ttm:agent=\"v1\">\n        <span begin=\"00:44.952\" end=\"00:45.235\">But<\/span>\n        <span begin=\"00:45.235\" end=\"00:45.517\">she&apos;s<\/span>\n        <span begin=\"00:45.517\" end=\"00:45.984\">looking<\/span>\n        <span begin=\"00:45.984\" end=\"00:46.272\">at<\/span>\n      <\/p>\n      <p begin=\"00:46.440\" end=\"00:48.400\" ttm:agent=\"v1\">\n        <span begin=\"00:46.448\" end=\"00:47.154\">You,<\/span>\n        <span begin=\"00:47.154\" end=\"00:48.400\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:48.420\" end=\"00:50.345\" ttm:agent=\"v1\">\n        <span begin=\"00:48.428\" end=\"00:49.078\">You,<\/span>\n        <span begin=\"00:49.078\" end=\"00:50.345\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:50.350\" end=\"00:52.252\" ttm:agent=\"v1\">\n        <span begin=\"00:50.350\" end=\"00:51.052\">You,<\/span>\n        <span begin=\"00:51.052\" end=\"00:52.252\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:52.280\" end=\"00:54.150\" ttm:agent=\"v1\">\n        <span begin=\"00:52.289\" end=\"00:52.939\">You,<\/span>\n        <span begin=\"00:52.939\" end=\"00:54.150\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:54.250\" end=\"00:56.112\" ttm:agent=\"v1\">\n        <span begin=\"00:54.250\" end=\"00:54.901\">You,<\/span>\n        <span begin=\"00:54.901\" end=\"00:56.112\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:56.110\" end=\"00:59.020\" ttm:agent=\"v1\">\n        <span begin=\"00:56.112\" end=\"00:56.861\">You,<\/span>\n        <span begin=\"00:56.861\" end=\"00:57.779\">ooh-ooh,<\/span>\n        <span begin=\"00:57.779\" end=\"00:59.020\">ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"00:59.520\" end=\"01:01.020\" ttm:agent=\"v1\">\n        <span begin=\"00:59.520\" end=\"01:01.020\">Ooh-ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:01.950\" end=\"01:03.892\" ttm:agent=\"v1\">\n        <span begin=\"01:01.955\" end=\"01:02.670\">You,<\/span>\n        <span begin=\"01:02.670\" end=\"01:03.892\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:03.900\" end=\"01:05.801\" ttm:agent=\"v1\">\n        <span begin=\"01:03.904\" end=\"01:04.587\">You,<\/span>\n        <span begin=\"01:04.587\" end=\"01:05.801\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:05.840\" end=\"01:07.729\" ttm:agent=\"v1\">\n        <span begin=\"01:05.849\" end=\"01:06.497\">You,<\/span>\n        <span begin=\"01:06.497\" end=\"01:07.729\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:07.810\" end=\"01:09.641\" ttm:agent=\"v1\">\n        <span begin=\"01:07.810\" end=\"01:08.428\">You,<\/span>\n        <span begin=\"01:08.428\" end=\"01:09.641\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:09.730\" end=\"01:11.631\" ttm:agent=\"v1\">\n        <span begin=\"01:09.738\" end=\"01:10.388\">You,<\/span>\n        <span begin=\"01:10.388\" end=\"01:11.631\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:11.630\" end=\"01:14.513\" ttm:agent=\"v1\">\n        <span begin=\"01:11.631\" end=\"01:12.316\">You,<\/span>\n        <span begin=\"01:12.316\" end=\"01:13.255\">ooh-ooh,<\/span>\n        <span begin=\"01:13.255\" end=\"01:14.513\">ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:15.040\" end=\"01:16.547\" ttm:agent=\"v1\">\n        <span begin=\"01:15.047\" end=\"01:16.547\">Ooh-ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"01:17.890\" end=\"01:21.619\" ttm:agent=\"v1\">\n        <span begin=\"01:17.893\" end=\"01:18.426\">We<\/span>\n        <span begin=\"01:18.426\" end=\"01:19.035\">go<\/span>\n        <span begin=\"01:19.348\" end=\"01:19.865\">fast<\/span>\n        <span begin=\"01:19.865\" end=\"01:20.148\">with<\/span>\n        <span begin=\"01:20.148\" end=\"01:20.398\">the<\/span>\n        <span begin=\"01:20.398\" end=\"01:20.646\">game<\/span>\n        <span begin=\"01:20.646\" end=\"01:20.881\">we<\/span>\n        <span begin=\"01:20.881\" end=\"01:21.619\">play<\/span>\n      <\/p>\n      <p begin=\"01:25.540\" end=\"01:29.411\" ttm:agent=\"v1\">\n        <span begin=\"01:25.545\" end=\"01:26.129\">Who<\/span>\n        <span begin=\"01:26.129\" end=\"01:26.794\">knows<\/span>\n        <span begin=\"01:27.129\" end=\"01:27.379\">why<\/span>\n        <span begin=\"01:27.379\" end=\"01:27.627\">it&apos;s<\/span>\n        <span begin=\"01:27.627\" end=\"01:28.094\">gotta<\/span>\n        <span begin=\"01:28.094\" end=\"01:28.361\">be<\/span>\n        <span begin=\"01:28.361\" end=\"01:28.646\">this<\/span>\n        <span begin=\"01:28.646\" end=\"01:29.411\">way<\/span>\n      <\/p>\n      <p begin=\"01:33.310\" end=\"01:37.102\" ttm:agent=\"v1\">\n        <span begin=\"01:33.318\" end=\"01:33.836\">We<\/span>\n        <span begin=\"01:33.836\" end=\"01:34.369\">say<\/span>\n        <span begin=\"01:34.848\" end=\"01:35.297\">nothing<\/span>\n        <span begin=\"01:35.297\" end=\"01:35.830\">more<\/span>\n        <span begin=\"01:35.830\" end=\"01:36.081\">than<\/span>\n        <span begin=\"01:36.081\" end=\"01:36.348\">we<\/span>\n        <span begin=\"01:36.348\" end=\"01:37.102\">need<\/span>\n      <\/p>\n      <p begin=\"01:41.090\" end=\"01:45.263\" ttm:agent=\"v1\">\n        <span begin=\"01:41.098\" end=\"01:41.616\">I<\/span>\n        <span begin=\"01:41.616\" end=\"01:42.262\">say,<\/span>\n        <span begin=\"01:42.598\" end=\"01:43.083\">&quot;Your<\/span>\n        <span begin=\"01:43.083\" end=\"01:43.632\">place&quot;,<\/span>\n        <span begin=\"01:43.632\" end=\"01:43.848\">when<\/span>\n        <span begin=\"01:43.848\" end=\"01:44.115\">we<\/span>\n        <span begin=\"01:44.115\" end=\"01:45.263\">leave<\/span>\n      <\/p>\n      <p begin=\"01:48.760\" end=\"01:52.414\" ttm:agent=\"v1\">\n        <span begin=\"01:48.762\" end=\"01:49.852\">Baby,<\/span>\n        <span begin=\"01:50.386\" end=\"01:50.637\">this<\/span>\n        <span begin=\"01:50.637\" end=\"01:50.920\">is<\/span>\n        <span begin=\"01:50.920\" end=\"01:51.104\">what<\/span>\n        <span begin=\"01:51.104\" end=\"01:51.370\">you<\/span>\n        <span begin=\"01:51.370\" end=\"01:51.821\">came<\/span>\n        <span begin=\"01:51.821\" end=\"01:52.414\">for<\/span>\n      <\/p>\n      <p begin=\"01:52.650\" end=\"01:57.535\" ttm:agent=\"v1\">\n        <span begin=\"01:52.652\" end=\"01:53.852\">Lightning<\/span>\n        <span begin=\"01:54.119\" end=\"01:54.602\">strikes<\/span>\n        <span begin=\"01:54.602\" end=\"01:55.183\">every<\/span>\n        <span begin=\"01:55.183\" end=\"01:55.615\">time<\/span>\n        <span begin=\"01:55.615\" end=\"01:55.917\">she<\/span>\n        <span begin=\"01:55.917\" end=\"01:57.535\">moves<\/span>\n      <\/p>\n      <p begin=\"01:59.770\" end=\"02:02.179\" ttm:agent=\"v1\">\n        <span begin=\"01:59.777\" end=\"02:00.094\">And<\/span>\n        <span begin=\"02:00.094\" end=\"02:00.961\">everybody&apos;s<\/span>\n        <span begin=\"02:00.961\" end=\"02:01.459\">watching<\/span>\n        <span begin=\"02:01.459\" end=\"02:02.179\">her<\/span>\n      <\/p>\n      <p begin=\"02:02.440\" end=\"02:03.694\" ttm:agent=\"v1\">\n        <span begin=\"02:02.441\" end=\"02:02.707\">But<\/span>\n        <span begin=\"02:02.707\" end=\"02:02.958\">she&apos;s<\/span>\n        <span begin=\"02:02.958\" end=\"02:03.339\">looking<\/span>\n        <span begin=\"02:03.339\" end=\"02:03.694\">at<\/span>\n      <\/p>\n      <p begin=\"02:03.850\" end=\"02:05.793\" ttm:agent=\"v1\">\n        <span begin=\"02:03.855\" end=\"02:04.604\">You,<\/span>\n        <span begin=\"02:04.604\" end=\"02:05.793\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:05.790\" end=\"02:07.720\" ttm:agent=\"v1\">\n        <span begin=\"02:05.793\" end=\"02:06.543\">You,<\/span>\n        <span begin=\"02:06.543\" end=\"02:07.720\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:07.760\" end=\"02:09.680\" ttm:agent=\"v1\">\n        <span begin=\"02:07.762\" end=\"02:08.495\">You,<\/span>\n        <span begin=\"02:08.495\" end=\"02:09.680\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:09.690\" end=\"02:11.592\" ttm:agent=\"v1\">\n        <span begin=\"02:09.693\" end=\"02:10.411\">You,<\/span>\n        <span begin=\"02:10.411\" end=\"02:11.592\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:11.650\" end=\"02:13.549\" ttm:agent=\"v1\">\n        <span begin=\"02:11.650\" end=\"02:12.367\">You,<\/span>\n        <span begin=\"02:12.367\" end=\"02:13.549\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:13.600\" end=\"02:16.461\" ttm:agent=\"v1\">\n        <span begin=\"02:13.603\" end=\"02:14.236\">You,<\/span>\n        <span begin=\"02:14.236\" end=\"02:15.220\">ooh-ooh,<\/span>\n        <span begin=\"02:15.220\" end=\"02:16.461\">ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:16.980\" end=\"02:18.443\" ttm:agent=\"v1\">\n        <span begin=\"02:16.988\" end=\"02:18.443\">Ooh-ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:19.330\" end=\"02:21.316\" ttm:agent=\"v1\">\n        <span begin=\"02:19.335\" end=\"02:20.085\">You,<\/span>\n        <span begin=\"02:20.085\" end=\"02:21.316\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:21.310\" end=\"02:23.233\" ttm:agent=\"v1\">\n        <span begin=\"02:21.316\" end=\"02:21.999\">You,<\/span>\n        <span begin=\"02:21.999\" end=\"02:23.233\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:23.230\" end=\"02:25.145\" ttm:agent=\"v1\">\n        <span begin=\"02:23.233\" end=\"02:23.950\">You,<\/span>\n        <span begin=\"02:23.950\" end=\"02:25.145\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:25.140\" end=\"02:27.060\" ttm:agent=\"v1\">\n        <span begin=\"02:25.145\" end=\"02:25.929\">You,<\/span>\n        <span begin=\"02:25.929\" end=\"02:27.060\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:27.110\" end=\"02:29.025\" ttm:agent=\"v1\">\n        <span begin=\"02:27.114\" end=\"02:27.863\">You,<\/span>\n        <span begin=\"02:27.863\" end=\"02:29.025\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:29.020\" end=\"02:32.007\" ttm:agent=\"v1\">\n        <span begin=\"02:29.025\" end=\"02:29.691\">You,<\/span>\n        <span begin=\"02:29.691\" end=\"02:30.707\">ooh-ooh,<\/span>\n        <span begin=\"02:30.707\" end=\"02:32.007\">ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:32.410\" end=\"02:33.925\" ttm:agent=\"v1\">\n        <span begin=\"02:32.417\" end=\"02:33.925\">Ooh-ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"02:35.250\" end=\"02:38.985\" ttm:agent=\"v1\">\n        <span begin=\"02:35.253\" end=\"02:36.469\">Baby,<\/span>\n        <span begin=\"02:36.679\" end=\"02:37.063\">this<\/span>\n        <span begin=\"02:37.063\" end=\"02:37.329\">is<\/span>\n        <span begin=\"02:37.329\" end=\"02:37.597\">what<\/span>\n        <span begin=\"02:37.597\" end=\"02:37.847\">you<\/span>\n        <span begin=\"02:37.847\" end=\"02:38.263\">came<\/span>\n        <span begin=\"02:38.263\" end=\"02:38.985\">for<\/span>\n      <\/p>\n      <p begin=\"02:39.140\" end=\"02:43.744\" ttm:agent=\"v1\">\n        <span begin=\"02:39.142\" end=\"02:40.334\">Lightning<\/span>\n        <span begin=\"02:40.561\" end=\"02:41.094\">strikes<\/span>\n        <span begin=\"02:41.094\" end=\"02:41.593\">every<\/span>\n        <span begin=\"02:41.593\" end=\"02:42.094\">time<\/span>\n        <span begin=\"02:42.094\" end=\"02:42.377\">she<\/span>\n        <span begin=\"02:42.377\" end=\"02:43.744\">moves<\/span>\n      <\/p>\n      <p begin=\"02:50.710\" end=\"02:54.401\" ttm:agent=\"v1\">\n        <span begin=\"02:50.718\" end=\"02:51.950\">Baby,<\/span>\n        <span begin=\"02:52.166\" end=\"02:52.515\">this<\/span>\n        <span begin=\"02:52.515\" end=\"02:52.747\">is<\/span>\n        <span begin=\"02:52.747\" end=\"02:52.998\">what<\/span>\n        <span begin=\"02:52.998\" end=\"02:53.265\">you<\/span>\n        <span begin=\"02:53.265\" end=\"02:53.680\">came<\/span>\n        <span begin=\"02:53.680\" end=\"02:54.401\">for<\/span>\n      <\/p>\n      <p begin=\"02:54.600\" end=\"02:59.392\" ttm:agent=\"v1\">\n        <span begin=\"02:54.603\" end=\"02:55.801\">Lightning<\/span>\n        <span begin=\"02:56.021\" end=\"02:56.587\">strikes<\/span>\n        <span begin=\"02:56.587\" end=\"02:57.136\">every<\/span>\n        <span begin=\"02:57.136\" end=\"02:57.587\">time<\/span>\n        <span begin=\"02:57.587\" end=\"02:57.821\">she<\/span>\n        <span begin=\"02:57.821\" end=\"02:59.392\">moves<\/span>\n      <\/p>\n      <p begin=\"03:01.770\" end=\"03:04.018\" ttm:agent=\"v1\">\n        <span begin=\"03:01.772\" end=\"03:01.988\">And<\/span>\n        <span begin=\"03:01.988\" end=\"03:02.922\">everybody&apos;s<\/span>\n        <span begin=\"03:02.922\" end=\"03:03.404\">watching<\/span>\n        <span begin=\"03:03.404\" end=\"03:04.018\">her<\/span>\n      <\/p>\n      <p begin=\"03:04.280\" end=\"03:05.615\" ttm:agent=\"v1\">\n        <span begin=\"03:04.287\" end=\"03:04.604\">But<\/span>\n        <span begin=\"03:04.604\" end=\"03:04.903\">she&apos;s<\/span>\n        <span begin=\"03:04.903\" end=\"03:05.321\">looking<\/span>\n        <span begin=\"03:05.321\" end=\"03:05.615\">at<\/span>\n      <\/p>\n      <p begin=\"03:05.750\" end=\"03:07.746\" ttm:agent=\"v1\">\n        <span begin=\"03:05.750\" end=\"03:06.582\">You,<\/span>\n        <span begin=\"03:06.582\" end=\"03:07.746\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:07.750\" end=\"03:09.679\" ttm:agent=\"v1\">\n        <span begin=\"03:07.759\" end=\"03:08.426\">You,<\/span>\n        <span begin=\"03:08.426\" end=\"03:09.679\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:09.720\" end=\"03:11.602\" ttm:agent=\"v1\">\n        <span begin=\"03:09.722\" end=\"03:10.389\">You,<\/span>\n        <span begin=\"03:10.389\" end=\"03:11.602\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:11.640\" end=\"03:13.542\" ttm:agent=\"v1\">\n        <span begin=\"03:11.648\" end=\"03:12.280\">You,<\/span>\n        <span begin=\"03:12.280\" end=\"03:13.542\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:13.580\" end=\"03:15.481\" ttm:agent=\"v1\">\n        <span begin=\"03:13.584\" end=\"03:14.251\">You,<\/span>\n        <span begin=\"03:14.251\" end=\"03:15.481\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:15.500\" end=\"03:18.380\" ttm:agent=\"v1\">\n        <span begin=\"03:15.504\" end=\"03:16.219\">You,<\/span>\n        <span begin=\"03:16.219\" end=\"03:17.187\">ooh-ooh,<\/span>\n        <span begin=\"03:17.187\" end=\"03:18.380\">ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:18.890\" end=\"03:20.389\" ttm:agent=\"v1\">\n        <span begin=\"03:18.892\" end=\"03:20.389\">Ooh-ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:21.270\" end=\"03:23.254\" ttm:agent=\"v1\">\n        <span begin=\"03:21.270\" end=\"03:22.004\">You,<\/span>\n        <span begin=\"03:22.004\" end=\"03:23.254\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:23.270\" end=\"03:25.163\" ttm:agent=\"v1\">\n        <span begin=\"03:23.275\" end=\"03:23.944\">You,<\/span>\n        <span begin=\"03:23.944\" end=\"03:25.163\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:25.180\" end=\"03:27.086\" ttm:agent=\"v1\">\n        <span begin=\"03:25.187\" end=\"03:25.853\">You,<\/span>\n        <span begin=\"03:25.853\" end=\"03:27.086\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:27.110\" end=\"03:29.049\" ttm:agent=\"v1\">\n        <span begin=\"03:27.116\" end=\"03:27.817\">You,<\/span>\n        <span begin=\"03:27.817\" end=\"03:29.049\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:29.070\" end=\"03:30.932\" ttm:agent=\"v1\">\n        <span begin=\"03:29.073\" end=\"03:29.721\">You,<\/span>\n        <span begin=\"03:29.721\" end=\"03:30.932\">ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:30.940\" end=\"03:33.869\" ttm:agent=\"v1\">\n        <span begin=\"03:30.946\" end=\"03:31.629\">You,<\/span>\n        <span begin=\"03:31.629\" end=\"03:32.629\">ooh-ooh,<\/span>\n        <span begin=\"03:32.629\" end=\"03:33.869\">ooh-ooh-ooh<\/span>\n      <\/p>\n      <p begin=\"03:34.350\" end=\"03:35.819\" ttm:agent=\"v1\">\n        <span begin=\"03:34.353\" end=\"03:35.819\">Ooh-ooh-ooh-ooh<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 460,
+      "endTime": 4017,
+      "text": "Baby, this is what you came for",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 467,
+          "endTime": 1717,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 1899,
+          "endTime": 2216,
+          "word": "this"
+        },
+        {
+          "startTime": 2216,
+          "endTime": 2467,
+          "word": "is"
+        },
+        {
+          "startTime": 2467,
+          "endTime": 2715,
+          "word": "what"
+        },
+        {
+          "startTime": 2715,
+          "endTime": 2965,
+          "word": "you"
+        },
+        {
+          "startTime": 2965,
+          "endTime": 3416,
+          "word": "came"
+        },
+        {
+          "startTime": 3416,
+          "endTime": 4017,
+          "word": "for"
+        }
+      ]
+    },
+    {
+      "time": 4290,
+      "endTime": 8980,
+      "text": "Lightning strikes every time she moves",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 4295,
+          "endTime": 5562,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 5794,
+          "endTime": 6295,
+          "word": "strikes"
+        },
+        {
+          "startTime": 6295,
+          "endTime": 6842,
+          "word": "every"
+        },
+        {
+          "startTime": 6842,
+          "endTime": 7260,
+          "word": "time"
+        },
+        {
+          "startTime": 7260,
+          "endTime": 7511,
+          "word": "she"
+        },
+        {
+          "startTime": 7511,
+          "endTime": 8980,
+          "word": "moves"
+        }
+      ]
+    },
+    {
+      "time": 11390,
+      "endTime": 13689,
+      "text": "And everybody's watching her",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 11393,
+          "endTime": 11679,
+          "word": "And"
+        },
+        {
+          "startTime": 11679,
+          "endTime": 12561,
+          "word": "everybody's"
+        },
+        {
+          "startTime": 12561,
+          "endTime": 13095,
+          "word": "watching"
+        },
+        {
+          "startTime": 13095,
+          "endTime": 13689,
+          "word": "her"
+        }
+      ]
+    },
+    {
+      "time": 13950,
+      "endTime": 15283,
+      "text": "But she's looking at",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 13954,
+          "endTime": 14288,
+          "word": "But"
+        },
+        {
+          "startTime": 14288,
+          "endTime": 14538,
+          "word": "she's"
+        },
+        {
+          "startTime": 14538,
+          "endTime": 15024,
+          "word": "looking"
+        },
+        {
+          "startTime": 15024,
+          "endTime": 15283,
+          "word": "at"
+        }
+      ]
+    },
+    {
+      "time": 15480,
+      "endTime": 17431,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15480,
+          "endTime": 16222,
+          "word": "You,"
+        },
+        {
+          "startTime": 16222,
+          "endTime": 17431,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 17470,
+      "endTime": 19343,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17473,
+          "endTime": 18123,
+          "word": "You,"
+        },
+        {
+          "startTime": 18123,
+          "endTime": 19343,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 19410,
+      "endTime": 21242,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19410,
+          "endTime": 20045,
+          "word": "You,"
+        },
+        {
+          "startTime": 20045,
+          "endTime": 21242,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 21310,
+      "endTime": 23237,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21311,
+          "endTime": 22026,
+          "word": "You,"
+        },
+        {
+          "startTime": 22026,
+          "endTime": 23237,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 23260,
+      "endTime": 25130,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23260,
+          "endTime": 23887,
+          "word": "You,"
+        },
+        {
+          "startTime": 23887,
+          "endTime": 25130,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 25190,
+      "endTime": 27900,
+      "text": "You, ooh-ooh, ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 25195,
+          "endTime": 25909,
+          "word": "You,"
+        },
+        {
+          "startTime": 25909,
+          "endTime": 26795,
+          "word": "ooh-ooh,"
+        },
+        {
+          "startTime": 26795,
+          "endTime": 27900,
+          "word": "ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 28580,
+      "endTime": 30055,
+      "text": "Ooh-ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28589,
+          "endTime": 30055,
+          "word": "Ooh-ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 31380,
+      "endTime": 35002,
+      "text": "Baby, this is what you came for",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31383,
+          "endTime": 32650,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 32869,
+          "endTime": 33167,
+          "word": "this"
+        },
+        {
+          "startTime": 33167,
+          "endTime": 33453,
+          "word": "is"
+        },
+        {
+          "startTime": 33453,
+          "endTime": 33685,
+          "word": "what"
+        },
+        {
+          "startTime": 33685,
+          "endTime": 33935,
+          "word": "you"
+        },
+        {
+          "startTime": 33935,
+          "endTime": 34383,
+          "word": "came"
+        },
+        {
+          "startTime": 34383,
+          "endTime": 35002,
+          "word": "for"
+        }
+      ]
+    },
+    {
+      "time": 35310,
+      "endTime": 40383,
+      "text": "Lightning strikes every time she moves",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 35316,
+          "endTime": 36481,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 36732,
+          "endTime": 37250,
+          "word": "strikes"
+        },
+        {
+          "startTime": 37250,
+          "endTime": 37762,
+          "word": "every"
+        },
+        {
+          "startTime": 37762,
+          "endTime": 38166,
+          "word": "time"
+        },
+        {
+          "startTime": 38166,
+          "endTime": 38490,
+          "word": "she"
+        },
+        {
+          "startTime": 38490,
+          "endTime": 40383,
+          "word": "moves"
+        }
+      ]
+    },
+    {
+      "time": 42310,
+      "endTime": 44643,
+      "text": "And everybody's watching her",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42315,
+          "endTime": 42632,
+          "word": "And"
+        },
+        {
+          "startTime": 42632,
+          "endTime": 43550,
+          "word": "everybody's"
+        },
+        {
+          "startTime": 43550,
+          "endTime": 44064,
+          "word": "watching"
+        },
+        {
+          "startTime": 44064,
+          "endTime": 44643,
+          "word": "her"
+        }
+      ]
+    },
+    {
+      "time": 44950,
+      "endTime": 46272,
+      "text": "But she's looking at",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44952,
+          "endTime": 45235,
+          "word": "But"
+        },
+        {
+          "startTime": 45235,
+          "endTime": 45517,
+          "word": "she's"
+        },
+        {
+          "startTime": 45517,
+          "endTime": 45984,
+          "word": "looking"
+        },
+        {
+          "startTime": 45984,
+          "endTime": 46272,
+          "word": "at"
+        }
+      ]
+    },
+    {
+      "time": 46440,
+      "endTime": 48400,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46448,
+          "endTime": 47154,
+          "word": "You,"
+        },
+        {
+          "startTime": 47154,
+          "endTime": 48400,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 48420,
+      "endTime": 50345,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 48428,
+          "endTime": 49078,
+          "word": "You,"
+        },
+        {
+          "startTime": 49078,
+          "endTime": 50345,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 50350,
+      "endTime": 52252,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50350,
+          "endTime": 51052,
+          "word": "You,"
+        },
+        {
+          "startTime": 51052,
+          "endTime": 52252,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 52280,
+      "endTime": 54150,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 52289,
+          "endTime": 52939,
+          "word": "You,"
+        },
+        {
+          "startTime": 52939,
+          "endTime": 54150,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 54250,
+      "endTime": 56112,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54250,
+          "endTime": 54901,
+          "word": "You,"
+        },
+        {
+          "startTime": 54901,
+          "endTime": 56112,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 56110,
+      "endTime": 59020,
+      "text": "You, ooh-ooh, ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56112,
+          "endTime": 56861,
+          "word": "You,"
+        },
+        {
+          "startTime": 56861,
+          "endTime": 57779,
+          "word": "ooh-ooh,"
+        },
+        {
+          "startTime": 57779,
+          "endTime": 59020,
+          "word": "ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 59520,
+      "endTime": 61020,
+      "text": "Ooh-ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59520,
+          "endTime": 61020,
+          "word": "Ooh-ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 61950,
+      "endTime": 63892,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 61955,
+          "endTime": 62670,
+          "word": "You,"
+        },
+        {
+          "startTime": 62670,
+          "endTime": 63892,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 63900,
+      "endTime": 65801,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63904,
+          "endTime": 64587,
+          "word": "You,"
+        },
+        {
+          "startTime": 64587,
+          "endTime": 65801,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 65840,
+      "endTime": 67729,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65849,
+          "endTime": 66497,
+          "word": "You,"
+        },
+        {
+          "startTime": 66497,
+          "endTime": 67729,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 67810,
+      "endTime": 69641,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 67810,
+          "endTime": 68428,
+          "word": "You,"
+        },
+        {
+          "startTime": 68428,
+          "endTime": 69641,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 69730,
+      "endTime": 71631,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69738,
+          "endTime": 70388,
+          "word": "You,"
+        },
+        {
+          "startTime": 70388,
+          "endTime": 71631,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 71630,
+      "endTime": 74513,
+      "text": "You, ooh-ooh, ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 71631,
+          "endTime": 72316,
+          "word": "You,"
+        },
+        {
+          "startTime": 72316,
+          "endTime": 73255,
+          "word": "ooh-ooh,"
+        },
+        {
+          "startTime": 73255,
+          "endTime": 74513,
+          "word": "ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 75040,
+      "endTime": 76547,
+      "text": "Ooh-ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 75047,
+          "endTime": 76547,
+          "word": "Ooh-ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 77890,
+      "endTime": 81619,
+      "text": "We go fast with the game we play",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 77893,
+          "endTime": 78426,
+          "word": "We"
+        },
+        {
+          "startTime": 78426,
+          "endTime": 79035,
+          "word": "go"
+        },
+        {
+          "startTime": 79348,
+          "endTime": 79865,
+          "word": "fast"
+        },
+        {
+          "startTime": 79865,
+          "endTime": 80148,
+          "word": "with"
+        },
+        {
+          "startTime": 80148,
+          "endTime": 80398,
+          "word": "the"
+        },
+        {
+          "startTime": 80398,
+          "endTime": 80646,
+          "word": "game"
+        },
+        {
+          "startTime": 80646,
+          "endTime": 80881,
+          "word": "we"
+        },
+        {
+          "startTime": 80881,
+          "endTime": 81619,
+          "word": "play"
+        }
+      ]
+    },
+    {
+      "time": 85540,
+      "endTime": 89411,
+      "text": "Who knows why it's gotta be this way",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85545,
+          "endTime": 86129,
+          "word": "Who"
+        },
+        {
+          "startTime": 86129,
+          "endTime": 86794,
+          "word": "knows"
+        },
+        {
+          "startTime": 87129,
+          "endTime": 87379,
+          "word": "why"
+        },
+        {
+          "startTime": 87379,
+          "endTime": 87627,
+          "word": "it's"
+        },
+        {
+          "startTime": 87627,
+          "endTime": 88094,
+          "word": "gotta"
+        },
+        {
+          "startTime": 88094,
+          "endTime": 88361,
+          "word": "be"
+        },
+        {
+          "startTime": 88361,
+          "endTime": 88646,
+          "word": "this"
+        },
+        {
+          "startTime": 88646,
+          "endTime": 89411,
+          "word": "way"
+        }
+      ]
+    },
+    {
+      "time": 93310,
+      "endTime": 97102,
+      "text": "We say nothing more than we need",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93318,
+          "endTime": 93836,
+          "word": "We"
+        },
+        {
+          "startTime": 93836,
+          "endTime": 94369,
+          "word": "say"
+        },
+        {
+          "startTime": 94848,
+          "endTime": 95297,
+          "word": "nothing"
+        },
+        {
+          "startTime": 95297,
+          "endTime": 95830,
+          "word": "more"
+        },
+        {
+          "startTime": 95830,
+          "endTime": 96081,
+          "word": "than"
+        },
+        {
+          "startTime": 96081,
+          "endTime": 96348,
+          "word": "we"
+        },
+        {
+          "startTime": 96348,
+          "endTime": 97102,
+          "word": "need"
+        }
+      ]
+    },
+    {
+      "time": 101090,
+      "endTime": 105263,
+      "text": "I say, \"Your place\", when we leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101098,
+          "endTime": 101616,
+          "word": "I"
+        },
+        {
+          "startTime": 101616,
+          "endTime": 102262,
+          "word": "say,"
+        },
+        {
+          "startTime": 102598,
+          "endTime": 103083,
+          "word": "\"Your"
+        },
+        {
+          "startTime": 103083,
+          "endTime": 103632,
+          "word": "place\","
+        },
+        {
+          "startTime": 103632,
+          "endTime": 103848,
+          "word": "when"
+        },
+        {
+          "startTime": 103848,
+          "endTime": 104115,
+          "word": "we"
+        },
+        {
+          "startTime": 104115,
+          "endTime": 105263,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 108760,
+      "endTime": 112414,
+      "text": "Baby, this is what you came for",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 108762,
+          "endTime": 109852,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 110386,
+          "endTime": 110637,
+          "word": "this"
+        },
+        {
+          "startTime": 110637,
+          "endTime": 110920,
+          "word": "is"
+        },
+        {
+          "startTime": 110920,
+          "endTime": 111104,
+          "word": "what"
+        },
+        {
+          "startTime": 111104,
+          "endTime": 111370,
+          "word": "you"
+        },
+        {
+          "startTime": 111370,
+          "endTime": 111821,
+          "word": "came"
+        },
+        {
+          "startTime": 111821,
+          "endTime": 112414,
+          "word": "for"
+        }
+      ]
+    },
+    {
+      "time": 112650,
+      "endTime": 117535,
+      "text": "Lightning strikes every time she moves",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112652,
+          "endTime": 113852,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 114119,
+          "endTime": 114602,
+          "word": "strikes"
+        },
+        {
+          "startTime": 114602,
+          "endTime": 115183,
+          "word": "every"
+        },
+        {
+          "startTime": 115183,
+          "endTime": 115615,
+          "word": "time"
+        },
+        {
+          "startTime": 115615,
+          "endTime": 115917,
+          "word": "she"
+        },
+        {
+          "startTime": 115917,
+          "endTime": 117535,
+          "word": "moves"
+        }
+      ]
+    },
+    {
+      "time": 119770,
+      "endTime": 122179,
+      "text": "And everybody's watching her",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 119777,
+          "endTime": 120094,
+          "word": "And"
+        },
+        {
+          "startTime": 120094,
+          "endTime": 120961,
+          "word": "everybody's"
+        },
+        {
+          "startTime": 120961,
+          "endTime": 121459,
+          "word": "watching"
+        },
+        {
+          "startTime": 121459,
+          "endTime": 122179,
+          "word": "her"
+        }
+      ]
+    },
+    {
+      "time": 122440,
+      "endTime": 123694,
+      "text": "But she's looking at",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 122441,
+          "endTime": 122707,
+          "word": "But"
+        },
+        {
+          "startTime": 122707,
+          "endTime": 122958,
+          "word": "she's"
+        },
+        {
+          "startTime": 122958,
+          "endTime": 123339,
+          "word": "looking"
+        },
+        {
+          "startTime": 123339,
+          "endTime": 123694,
+          "word": "at"
+        }
+      ]
+    },
+    {
+      "time": 123850,
+      "endTime": 125793,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123855,
+          "endTime": 124604,
+          "word": "You,"
+        },
+        {
+          "startTime": 124604,
+          "endTime": 125793,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 125790,
+      "endTime": 127720,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125793,
+          "endTime": 126543,
+          "word": "You,"
+        },
+        {
+          "startTime": 126543,
+          "endTime": 127720,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 127760,
+      "endTime": 129680,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127762,
+          "endTime": 128495,
+          "word": "You,"
+        },
+        {
+          "startTime": 128495,
+          "endTime": 129680,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 129690,
+      "endTime": 131592,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 129693,
+          "endTime": 130411,
+          "word": "You,"
+        },
+        {
+          "startTime": 130411,
+          "endTime": 131592,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 131650,
+      "endTime": 133549,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131650,
+          "endTime": 132367,
+          "word": "You,"
+        },
+        {
+          "startTime": 132367,
+          "endTime": 133549,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 133600,
+      "endTime": 136461,
+      "text": "You, ooh-ooh, ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 133603,
+          "endTime": 134236,
+          "word": "You,"
+        },
+        {
+          "startTime": 134236,
+          "endTime": 135220,
+          "word": "ooh-ooh,"
+        },
+        {
+          "startTime": 135220,
+          "endTime": 136461,
+          "word": "ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 136980,
+      "endTime": 138443,
+      "text": "Ooh-ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136988,
+          "endTime": 138443,
+          "word": "Ooh-ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 139330,
+      "endTime": 141316,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139335,
+          "endTime": 140085,
+          "word": "You,"
+        },
+        {
+          "startTime": 140085,
+          "endTime": 141316,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 141310,
+      "endTime": 143233,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 141316,
+          "endTime": 141999,
+          "word": "You,"
+        },
+        {
+          "startTime": 141999,
+          "endTime": 143233,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 143230,
+      "endTime": 145145,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 143233,
+          "endTime": 143950,
+          "word": "You,"
+        },
+        {
+          "startTime": 143950,
+          "endTime": 145145,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 145140,
+      "endTime": 147060,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 145145,
+          "endTime": 145929,
+          "word": "You,"
+        },
+        {
+          "startTime": 145929,
+          "endTime": 147060,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 147110,
+      "endTime": 149025,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147114,
+          "endTime": 147863,
+          "word": "You,"
+        },
+        {
+          "startTime": 147863,
+          "endTime": 149025,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 149020,
+      "endTime": 152007,
+      "text": "You, ooh-ooh, ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149025,
+          "endTime": 149691,
+          "word": "You,"
+        },
+        {
+          "startTime": 149691,
+          "endTime": 150707,
+          "word": "ooh-ooh,"
+        },
+        {
+          "startTime": 150707,
+          "endTime": 152007,
+          "word": "ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 152410,
+      "endTime": 153925,
+      "text": "Ooh-ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 152417,
+          "endTime": 153925,
+          "word": "Ooh-ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 155250,
+      "endTime": 158985,
+      "text": "Baby, this is what you came for",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 155253,
+          "endTime": 156469,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 156679,
+          "endTime": 157063,
+          "word": "this"
+        },
+        {
+          "startTime": 157063,
+          "endTime": 157329,
+          "word": "is"
+        },
+        {
+          "startTime": 157329,
+          "endTime": 157597,
+          "word": "what"
+        },
+        {
+          "startTime": 157597,
+          "endTime": 157847,
+          "word": "you"
+        },
+        {
+          "startTime": 157847,
+          "endTime": 158263,
+          "word": "came"
+        },
+        {
+          "startTime": 158263,
+          "endTime": 158985,
+          "word": "for"
+        }
+      ]
+    },
+    {
+      "time": 159140,
+      "endTime": 163744,
+      "text": "Lightning strikes every time she moves",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159142,
+          "endTime": 160334,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 160561,
+          "endTime": 161094,
+          "word": "strikes"
+        },
+        {
+          "startTime": 161094,
+          "endTime": 161593,
+          "word": "every"
+        },
+        {
+          "startTime": 161593,
+          "endTime": 162094,
+          "word": "time"
+        },
+        {
+          "startTime": 162094,
+          "endTime": 162377,
+          "word": "she"
+        },
+        {
+          "startTime": 162377,
+          "endTime": 163744,
+          "word": "moves"
+        }
+      ]
+    },
+    {
+      "time": 170710,
+      "endTime": 174401,
+      "text": "Baby, this is what you came for",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170718,
+          "endTime": 171950,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 172166,
+          "endTime": 172515,
+          "word": "this"
+        },
+        {
+          "startTime": 172515,
+          "endTime": 172747,
+          "word": "is"
+        },
+        {
+          "startTime": 172747,
+          "endTime": 172998,
+          "word": "what"
+        },
+        {
+          "startTime": 172998,
+          "endTime": 173265,
+          "word": "you"
+        },
+        {
+          "startTime": 173265,
+          "endTime": 173680,
+          "word": "came"
+        },
+        {
+          "startTime": 173680,
+          "endTime": 174401,
+          "word": "for"
+        }
+      ]
+    },
+    {
+      "time": 174600,
+      "endTime": 179392,
+      "text": "Lightning strikes every time she moves",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 174603,
+          "endTime": 175801,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 176021,
+          "endTime": 176587,
+          "word": "strikes"
+        },
+        {
+          "startTime": 176587,
+          "endTime": 177136,
+          "word": "every"
+        },
+        {
+          "startTime": 177136,
+          "endTime": 177587,
+          "word": "time"
+        },
+        {
+          "startTime": 177587,
+          "endTime": 177821,
+          "word": "she"
+        },
+        {
+          "startTime": 177821,
+          "endTime": 179392,
+          "word": "moves"
+        }
+      ]
+    },
+    {
+      "time": 181770,
+      "endTime": 184018,
+      "text": "And everybody's watching her",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181772,
+          "endTime": 181988,
+          "word": "And"
+        },
+        {
+          "startTime": 181988,
+          "endTime": 182922,
+          "word": "everybody's"
+        },
+        {
+          "startTime": 182922,
+          "endTime": 183404,
+          "word": "watching"
+        },
+        {
+          "startTime": 183404,
+          "endTime": 184018,
+          "word": "her"
+        }
+      ]
+    },
+    {
+      "time": 184280,
+      "endTime": 185615,
+      "text": "But she's looking at",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 184287,
+          "endTime": 184604,
+          "word": "But"
+        },
+        {
+          "startTime": 184604,
+          "endTime": 184903,
+          "word": "she's"
+        },
+        {
+          "startTime": 184903,
+          "endTime": 185321,
+          "word": "looking"
+        },
+        {
+          "startTime": 185321,
+          "endTime": 185615,
+          "word": "at"
+        }
+      ]
+    },
+    {
+      "time": 185750,
+      "endTime": 187746,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 185750,
+          "endTime": 186582,
+          "word": "You,"
+        },
+        {
+          "startTime": 186582,
+          "endTime": 187746,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 187750,
+      "endTime": 189679,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 187759,
+          "endTime": 188426,
+          "word": "You,"
+        },
+        {
+          "startTime": 188426,
+          "endTime": 189679,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 189720,
+      "endTime": 191602,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 189722,
+          "endTime": 190389,
+          "word": "You,"
+        },
+        {
+          "startTime": 190389,
+          "endTime": 191602,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 191640,
+      "endTime": 193542,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 191648,
+          "endTime": 192280,
+          "word": "You,"
+        },
+        {
+          "startTime": 192280,
+          "endTime": 193542,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 193580,
+      "endTime": 195481,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 193584,
+          "endTime": 194251,
+          "word": "You,"
+        },
+        {
+          "startTime": 194251,
+          "endTime": 195481,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 195500,
+      "endTime": 198380,
+      "text": "You, ooh-ooh, ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 195504,
+          "endTime": 196219,
+          "word": "You,"
+        },
+        {
+          "startTime": 196219,
+          "endTime": 197187,
+          "word": "ooh-ooh,"
+        },
+        {
+          "startTime": 197187,
+          "endTime": 198380,
+          "word": "ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 198890,
+      "endTime": 200389,
+      "text": "Ooh-ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 198892,
+          "endTime": 200389,
+          "word": "Ooh-ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 201270,
+      "endTime": 203254,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 201270,
+          "endTime": 202004,
+          "word": "You,"
+        },
+        {
+          "startTime": 202004,
+          "endTime": 203254,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 203270,
+      "endTime": 205163,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 203275,
+          "endTime": 203944,
+          "word": "You,"
+        },
+        {
+          "startTime": 203944,
+          "endTime": 205163,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 205180,
+      "endTime": 207086,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 205187,
+          "endTime": 205853,
+          "word": "You,"
+        },
+        {
+          "startTime": 205853,
+          "endTime": 207086,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 207110,
+      "endTime": 209049,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 207116,
+          "endTime": 207817,
+          "word": "You,"
+        },
+        {
+          "startTime": 207817,
+          "endTime": 209049,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 209070,
+      "endTime": 210932,
+      "text": "You, ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 209073,
+          "endTime": 209721,
+          "word": "You,"
+        },
+        {
+          "startTime": 209721,
+          "endTime": 210932,
+          "word": "ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 210940,
+      "endTime": 213869,
+      "text": "You, ooh-ooh, ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 210946,
+          "endTime": 211629,
+          "word": "You,"
+        },
+        {
+          "startTime": 211629,
+          "endTime": 212629,
+          "word": "ooh-ooh,"
+        },
+        {
+          "startTime": 212629,
+          "endTime": 213869,
+          "word": "ooh-ooh-ooh"
+        }
+      ]
+    },
+    {
+      "time": 214350,
+      "endTime": 215819,
+      "text": "Ooh-ooh-ooh-ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 214353,
+          "endTime": 215819,
+          "word": "Ooh-ooh-ooh-ooh"
+        }
+      ]
+    }
+  ]
+}
