@@ -130,6 +130,16 @@
     "path": "lyrics-database/5/e/5eZjEIk8voE.json"
   },
   {
+    "videoId": "5SfIh7atoe8",
+    "title": "Dasha - Austin (Lyrics)",
+    "artist": "BagOnly",
+    "duration": 172,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 54,
+    "path": "lyrics-database/5/S/5SfIh7atoe8.json"
+  },
+  {
     "videoId": "5EGb3Gy5P5w",
     "title": "Paint The Town Red",
     "artist": "Doja Cat",
@@ -378,6 +388,16 @@
     "syncedType": "word",
     "linesCount": 91,
     "path": "lyrics-database/p/a/papuvlVeZg8.json"
+  },
+  {
+    "videoId": "RTZnT2B5QxM",
+    "title": "KEHLANI",
+    "artist": "Jordan Adetunji",
+    "duration": 123,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 55,
+    "path": "lyrics-database/R/T/RTZnT2B5QxM.json"
   },
   {
     "videoId": "RgKAFK5djSk",
@@ -2238,6 +2258,16 @@
     "syncedType": "word",
     "linesCount": 51,
     "path": "lyrics-database/q/_/q_rtuBQRQfc.json"
+  },
+  {
+    "videoId": "qqdZw8KKBxw",
+    "title": "LeoStayTrill - Pink Lemonade (Str8 Reload) (Lyrics)",
+    "artist": "The Vibe Guide",
+    "duration": 123,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 80,
+    "path": "lyrics-database/q/q/qqdZw8KKBxw.json"
   },
   {
     "videoId": "qny5OwwoYVE",
