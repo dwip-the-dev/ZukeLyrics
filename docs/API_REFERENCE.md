@@ -178,7 +178,78 @@ curl -s "https://cdn.jsdelivr.net/gh/dwip-the-dev/ZukeLyrics@main/index/catalog.
     "hasWordSync": true,
     "language": "en",
     "path": "lyrics-database/d/Q/dQw4w9WgXcQ.json"
-  },
+  }
+]
+```
+
+---
+
+### 3. Ultra-Fast Global ID Index (Instant Availability Check)
+
+Returns a lightweight, minimal array of all available YouTube `videoId` strings in the entire database.
+
+**Why use this?**
+- Eliminates 404 network roundtrips: music apps can download this once (~10 KB gzipped) and instantly check in-memory (`availableIds.contains(id)`) in **0.001 ms** whether lyrics exist before making any network calls!
+- Perfect for batch playlist checking: verify 100 songs in under **1 millisecond**.
+
+#### HTTP Request
+`GET /index/ids.min.json` (or `/index/ids.json` formatted)
+
+#### Example Request
+```bash
+curl -s "https://cdn.jsdelivr.net/gh/dwip-the-dev/ZukeLyrics@main/index/ids.min.json"
+```
+
+#### Response Body (JSON)
+```json
+["0vPdpUiVWi8","2cnloO84LA0","by4SYYWlhVE","dQw4w9WgXcQ","fJ9rUzIMcZQ","tvTRZJ-4EyI"]
+```
+
+---
+
+### 4. High-Speed Key-Value Lookup Map
+
+Returns a direct hash map of `videoId` to compact track metadata.
+
+#### HTTP Request
+`GET /index/lookup.min.json` (or `/index/lookup.json` formatted)
+
+#### Example Request
+```bash
+curl -s "https://cdn.jsdelivr.net/gh/dwip-the-dev/ZukeLyrics@main/index/lookup.min.json"
+```
+
+#### Response Body (JSON)
+```json
+{
+  "fJ9rUzIMcZQ": {
+    "p": "f/J/fJ9rUzIMcZQ.json",
+    "t": "word",
+    "d": 354,
+    "a": "Queen",
+    "s": "Bohemian Rhapsody",
+    "l": "en"
+  }
+}
+```
+
+---
+
+### 5. Prefix Sharded Index
+
+For low-memory devices or large-scale partitioned fetching, download lyrics metadata for tracks starting with a specific character.
+
+#### HTTP Request
+`GET /index/shards/{prefix}.json` (e.g. `0`, `a`, `b`, `f`)
+
+#### Example Request
+```bash
+curl -s "https://cdn.jsdelivr.net/gh/dwip-the-dev/ZukeLyrics@main/index/shards/f.json"
+```
+
+#### Response Body (JSON)
+```json
+[
   {
     "id": "fJ9rUzIMcZQ",
     "title": "Bohemian Rhapsody",
