@@ -1,0 +1,329 @@
+{
+  "videoId": "_ovdm2yX4MA",
+  "title": "Levels",
+  "artist": "Avicii",
+  "duration": 199,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"01:23.690\" end=\"01:30.003\" ttm:agent=\"v1\">\n        <span begin=\"01:23.699\" end=\"01:25.360\">Oh,<\/span>\n        <span begin=\"01:25.360\" end=\"01:26.779\">sometimes<\/span>\n        <span begin=\"01:26.829\" end=\"01:27.045\">I<\/span>\n        <span begin=\"01:27.045\" end=\"01:27.196\">get<\/span>\n        <span begin=\"01:27.196\" end=\"01:27.295\">a<\/span>\n        <span begin=\"01:27.295\" end=\"01:27.581\">good<\/span>\n        <span begin=\"01:27.581\" end=\"01:28.314\">feeling,<\/span>\n        <span begin=\"01:29.198\" end=\"01:30.003\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:31.680\" end=\"01:36.270\" ttm:agent=\"v1\">\n        <span begin=\"01:31.688\" end=\"01:32.122\">Get<\/span>\n        <span begin=\"01:32.122\" end=\"01:32.366\">a<\/span>\n        <span begin=\"01:32.366\" end=\"01:32.860\">feeling<\/span>\n        <span begin=\"01:32.860\" end=\"01:33.092\">that<\/span>\n        <span begin=\"01:33.092\" end=\"01:33.336\">I<\/span>\n        <span begin=\"01:33.336\" end=\"01:33.705\">never,<\/span>\n        <span begin=\"01:33.705\" end=\"01:34.056\">never,<\/span>\n        <span begin=\"01:34.056\" end=\"01:34.407\">never,<\/span>\n        <span begin=\"01:34.407\" end=\"01:34.740\">never<\/span>\n        <span begin=\"01:34.740\" end=\"01:34.990\">had<\/span>\n        <span begin=\"01:34.990\" end=\"01:35.763\">before,<\/span>\n        <span begin=\"01:35.763\" end=\"01:36.013\">no,<\/span>\n        <span begin=\"01:36.013\" end=\"01:36.270\">no<\/span>\n      <\/p>\n      <p begin=\"01:36.280\" end=\"01:38.517\" ttm:agent=\"v1\">\n        <span begin=\"01:36.280\" end=\"01:36.560\">I<\/span>\n        <span begin=\"01:36.560\" end=\"01:36.745\">get<\/span>\n        <span begin=\"01:36.745\" end=\"01:36.875\">a<\/span>\n        <span begin=\"01:36.875\" end=\"01:37.140\">good<\/span>\n        <span begin=\"01:37.140\" end=\"01:37.726\">feeling,<\/span>\n        <span begin=\"01:37.726\" end=\"01:38.517\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:38.910\" end=\"01:45.419\" ttm:agent=\"v1\">\n        <span begin=\"01:38.912\" end=\"01:40.483\">Oh,<\/span>\n        <span begin=\"01:40.584\" end=\"01:42.092\">sometimes<\/span>\n        <span begin=\"01:42.196\" end=\"01:42.313\">I<\/span>\n        <span begin=\"01:42.313\" end=\"01:42.529\">get<\/span>\n        <span begin=\"01:42.529\" end=\"01:42.628\">a<\/span>\n        <span begin=\"01:42.628\" end=\"01:42.892\">good<\/span>\n        <span begin=\"01:42.892\" end=\"01:43.513\">feeling,<\/span>\n        <span begin=\"01:44.464\" end=\"01:45.419\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:47.020\" end=\"01:51.503\" ttm:agent=\"v1\">\n        <span begin=\"01:47.025\" end=\"01:47.346\">Get<\/span>\n        <span begin=\"01:47.346\" end=\"01:47.590\">a<\/span>\n        <span begin=\"01:47.590\" end=\"01:48.084\">feeling<\/span>\n        <span begin=\"01:48.084\" end=\"01:48.530\">that<\/span>\n        <span begin=\"01:48.530\" end=\"01:48.630\">I<\/span>\n        <span begin=\"01:48.630\" end=\"01:48.917\">never,<\/span>\n        <span begin=\"01:48.917\" end=\"01:49.262\">never,<\/span>\n        <span begin=\"01:49.262\" end=\"01:49.625\">never,<\/span>\n        <span begin=\"01:49.625\" end=\"01:49.946\">never<\/span>\n        <span begin=\"01:49.946\" end=\"01:50.208\">had<\/span>\n        <span begin=\"01:50.208\" end=\"01:50.823\">before,<\/span>\n        <span begin=\"01:50.823\" end=\"01:51.122\">no,<\/span>\n        <span begin=\"01:51.122\" end=\"01:51.503\">no<\/span>\n      <\/p>\n      <p begin=\"01:51.510\" end=\"01:53.763\" ttm:agent=\"v1\">\n        <span begin=\"01:51.514\" end=\"01:51.786\">I<\/span>\n        <span begin=\"01:51.786\" end=\"01:52.065\">get<\/span>\n        <span begin=\"01:52.065\" end=\"01:52.164\">a<\/span>\n        <span begin=\"01:52.164\" end=\"01:52.414\">good<\/span>\n        <span begin=\"01:52.414\" end=\"01:52.999\">feeling,<\/span>\n        <span begin=\"01:53.090\" end=\"01:53.763\">yeah<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 83690,
+      "endTime": 90003,
+      "text": "Oh, sometimes I get a good feeling, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 83699,
+          "endTime": 85360,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 85360,
+          "endTime": 86779,
+          "word": "sometimes"
+        },
+        {
+          "startTime": 86829,
+          "endTime": 87045,
+          "word": "I"
+        },
+        {
+          "startTime": 87045,
+          "endTime": 87196,
+          "word": "get"
+        },
+        {
+          "startTime": 87196,
+          "endTime": 87295,
+          "word": "a"
+        },
+        {
+          "startTime": 87295,
+          "endTime": 87581,
+          "word": "good"
+        },
+        {
+          "startTime": 87581,
+          "endTime": 88314,
+          "word": "feeling,"
+        },
+        {
+          "startTime": 89198,
+          "endTime": 90003,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 91680,
+      "endTime": 96270,
+      "text": "Get a feeling that I never, never, never, never had before, no, no",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91688,
+          "endTime": 92122,
+          "word": "Get"
+        },
+        {
+          "startTime": 92122,
+          "endTime": 92366,
+          "word": "a"
+        },
+        {
+          "startTime": 92366,
+          "endTime": 92860,
+          "word": "feeling"
+        },
+        {
+          "startTime": 92860,
+          "endTime": 93092,
+          "word": "that"
+        },
+        {
+          "startTime": 93092,
+          "endTime": 93336,
+          "word": "I"
+        },
+        {
+          "startTime": 93336,
+          "endTime": 93705,
+          "word": "never,"
+        },
+        {
+          "startTime": 93705,
+          "endTime": 94056,
+          "word": "never,"
+        },
+        {
+          "startTime": 94056,
+          "endTime": 94407,
+          "word": "never,"
+        },
+        {
+          "startTime": 94407,
+          "endTime": 94740,
+          "word": "never"
+        },
+        {
+          "startTime": 94740,
+          "endTime": 94990,
+          "word": "had"
+        },
+        {
+          "startTime": 94990,
+          "endTime": 95763,
+          "word": "before,"
+        },
+        {
+          "startTime": 95763,
+          "endTime": 96013,
+          "word": "no,"
+        },
+        {
+          "startTime": 96013,
+          "endTime": 96270,
+          "word": "no"
+        }
+      ]
+    },
+    {
+      "time": 96280,
+      "endTime": 98517,
+      "text": "I get a good feeling, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 96280,
+          "endTime": 96560,
+          "word": "I"
+        },
+        {
+          "startTime": 96560,
+          "endTime": 96745,
+          "word": "get"
+        },
+        {
+          "startTime": 96745,
+          "endTime": 96875,
+          "word": "a"
+        },
+        {
+          "startTime": 96875,
+          "endTime": 97140,
+          "word": "good"
+        },
+        {
+          "startTime": 97140,
+          "endTime": 97726,
+          "word": "feeling,"
+        },
+        {
+          "startTime": 97726,
+          "endTime": 98517,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 98910,
+      "endTime": 105419,
+      "text": "Oh, sometimes I get a good feeling, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98912,
+          "endTime": 100483,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 100584,
+          "endTime": 102092,
+          "word": "sometimes"
+        },
+        {
+          "startTime": 102196,
+          "endTime": 102313,
+          "word": "I"
+        },
+        {
+          "startTime": 102313,
+          "endTime": 102529,
+          "word": "get"
+        },
+        {
+          "startTime": 102529,
+          "endTime": 102628,
+          "word": "a"
+        },
+        {
+          "startTime": 102628,
+          "endTime": 102892,
+          "word": "good"
+        },
+        {
+          "startTime": 102892,
+          "endTime": 103513,
+          "word": "feeling,"
+        },
+        {
+          "startTime": 104464,
+          "endTime": 105419,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 107020,
+      "endTime": 111503,
+      "text": "Get a feeling that I never, never, never, never had before, no, no",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107025,
+          "endTime": 107346,
+          "word": "Get"
+        },
+        {
+          "startTime": 107346,
+          "endTime": 107590,
+          "word": "a"
+        },
+        {
+          "startTime": 107590,
+          "endTime": 108084,
+          "word": "feeling"
+        },
+        {
+          "startTime": 108084,
+          "endTime": 108530,
+          "word": "that"
+        },
+        {
+          "startTime": 108530,
+          "endTime": 108630,
+          "word": "I"
+        },
+        {
+          "startTime": 108630,
+          "endTime": 108917,
+          "word": "never,"
+        },
+        {
+          "startTime": 108917,
+          "endTime": 109262,
+          "word": "never,"
+        },
+        {
+          "startTime": 109262,
+          "endTime": 109625,
+          "word": "never,"
+        },
+        {
+          "startTime": 109625,
+          "endTime": 109946,
+          "word": "never"
+        },
+        {
+          "startTime": 109946,
+          "endTime": 110208,
+          "word": "had"
+        },
+        {
+          "startTime": 110208,
+          "endTime": 110823,
+          "word": "before,"
+        },
+        {
+          "startTime": 110823,
+          "endTime": 111122,
+          "word": "no,"
+        },
+        {
+          "startTime": 111122,
+          "endTime": 111503,
+          "word": "no"
+        }
+      ]
+    },
+    {
+      "time": 111510,
+      "endTime": 113763,
+      "text": "I get a good feeling, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 111514,
+          "endTime": 111786,
+          "word": "I"
+        },
+        {
+          "startTime": 111786,
+          "endTime": 112065,
+          "word": "get"
+        },
+        {
+          "startTime": 112065,
+          "endTime": 112164,
+          "word": "a"
+        },
+        {
+          "startTime": 112164,
+          "endTime": 112414,
+          "word": "good"
+        },
+        {
+          "startTime": 112414,
+          "endTime": 112999,
+          "word": "feeling,"
+        },
+        {
+          "startTime": 113090,
+          "endTime": 113763,
+          "word": "yeah"
+        }
+      ]
+    }
+  ]
+}
