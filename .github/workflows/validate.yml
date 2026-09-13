@@ -10,6 +10,10 @@ on:
       - 'lyrics-database/**'
       - 'schemas/**'
 
+concurrency:
+  group: validate-lyrics-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   validate:
     runs-on: ubuntu-latest

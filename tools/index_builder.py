@@ -94,16 +94,66 @@ def build_indexes(base_dir="."):
     stats["uniqueArtists"] = len(stats["artists"])
     stats.pop("artists")
 
-    # Write catalog.json
+    # Write catalog.json and catalog.min.json
     catalog_path = index_dir / "catalog.json"
     with open(catalog_path, "w", encoding="utf-8") as f:
         json.dump(catalog, f, indent=2, ensure_ascii=False)
+    with open(index_dir / "catalog.min.json", "w", encoding="utf-8") as f:
+        json.dump(catalog, f, separators=(',', ':'), ensure_ascii=False)
     print(f"Generated {catalog_path} with {len(catalog)} tracks")
 
-    # Write search-index.json
+    # Generate ultra-fast O(1) ID set index
+    all_ids = sorted([c["videoId"] for c in catalog])
+    ids_path = index_dir / "ids.json"
+    with open(ids_path, "w", encoding="utf-8") as f:
+        json.dump(all_ids, f, indent=2, ensure_ascii=False)
+    ids_min_path = index_dir / "ids.min.json"
+    with open(ids_min_path, "w", encoding="utf-8") as f:
+        json.dump(all_ids, f, separators=(',', ':'), ensure_ascii=False)
+    print(f"Generated {ids_path} & {ids_min_path} ({len(all_ids)} IDs)")
+
+    # Generate high-speed lookup table: videoId -> compact metadata
+    lookup = {
+        c["videoId"]: {
+            "p": c["path"].replace("lyrics-database/", ""),
+            "t": c["syncedType"],
+            "d": c["duration"],
+            "a": c["artist"],
+            "s": c["title"],
+            "l": c["language"]
+        }
+        for c in catalog
+    }
+    lookup_path = index_dir / "lookup.json"
+    with open(lookup_path, "w", encoding="utf-8") as f:
+        json.dump(lookup, f, indent=2, ensure_ascii=False)
+    lookup_min_path = index_dir / "lookup.min.json"
+    with open(lookup_min_path, "w", encoding="utf-8") as f:
+        json.dump(lookup, f, separators=(',', ':'), ensure_ascii=False)
+    print(f"Generated {lookup_path} & {lookup_min_path}")
+
+    # Generate sharded index for scalable partitioned downloads
+    shards_dir = index_dir / "shards"
+    shards_dir.mkdir(parents=True, exist_ok=True)
+    shards = {}
+    for vid, meta in lookup.items():
+        prefix = vid[0].lower() if vid and vid[0].isalnum() else "_"
+        if prefix not in shards:
+            shards[prefix] = {}
+        shards[prefix][vid] = meta
+
+    for prefix, shard_data in shards.items():
+        shard_path = shards_dir / f"{prefix}.json"
+        with open(shard_path, "w", encoding="utf-8") as f:
+            json.dump(shard_data, f, separators=(',', ':'), ensure_ascii=False)
+    print(f"Generated {len(shards)} prefix shards in {shards_dir}")
+
+    # Write search-index.json and search-index.min.json
     search_path = index_dir / "search-index.json"
     with open(search_path, "w", encoding="utf-8") as f:
         json.dump(search_index, f, indent=2, ensure_ascii=False)
+    with open(index_dir / "search-index.min.json", "w", encoding="utf-8") as f:
+        json.dump(search_index, f, separators=(',', ':'), ensure_ascii=False)
     print(f"Generated {search_path}")
 
     # Write api/v1/stats.json

@@ -104,7 +104,7 @@ jobs:
             await exec.exec('git config --global user.email "bot@zukelyrics.community"');
             await exec.exec(`git add ${targetFile}`);
             await exec.exec(`git commit -m "Add word-synced lyrics for ${title} - ${artist} [${videoId}]"`);
-            await exec.exec('git push');
+            await exec.exec('sh', ['-c', 'for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0 || sleep 2; done; exit 1']);
 
             const cdnUrl = `https://cdn.jsdelivr.net/gh/${context.repo.owner}/${context.repo.repo}@main/${targetFile}`;
             const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/${targetFile}`;
