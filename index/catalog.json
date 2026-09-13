@@ -1,5 +1,15 @@
 [
   {
+    "videoId": "TDOxWAMYAvY",
+    "title": "Saat Samundar Paar",
+    "artist": "Karan Nawani, Viju Shah, Anand Bakshi",
+    "duration": 125,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 30,
+    "path": "lyrics-database/T/D/TDOxWAMYAvY.json"
+  },
+  {
     "videoId": "TAIsoDq5v6c",
     "title": "Rock That Body - The Black Eyed Peas (Lyrics)",
     "artist": "Pizza Music",
@@ -1470,6 +1480,16 @@
     "path": "lyrics-database/a/a/aatr_2MstrI.json"
   },
   {
+    "videoId": "nYLkyW2dDXU",
+    "title": "Bijuria",
+    "artist": "Sonu Nigam, Asees Kaur",
+    "duration": 208,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 34,
+    "path": "lyrics-database/n/Y/nYLkyW2dDXU.json"
+  },
+  {
     "videoId": "nugmZqIP0uk",
     "title": "See You Again (feat. Charlie Puth)",
     "artist": "Wiz Khalifa",
@@ -1738,6 +1758,16 @@
     "syncedType": "word",
     "linesCount": 58,
     "path": "lyrics-database/1/2/12pMB_mCBOo.json"
+  },
+  {
+    "videoId": "1XOJFuKHCck",
+    "title": "FA9LA",
+    "artist": "Flipperachi",
+    "duration": 108,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 44,
+    "path": "lyrics-database/1/X/1XOJFuKHCck.json"
   },
   {
     "videoId": "W9qM-Qfj7RQ",
