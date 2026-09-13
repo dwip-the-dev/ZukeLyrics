@@ -1,0 +1,2836 @@
+{
+  "videoId": "tD4HCZe-tew",
+  "title": "Lush Life",
+  "artist": "Zara Larsson",
+  "duration": 202,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:08.720\" end=\"00:11.305\" ttm:agent=\"v1\">\n        <span begin=\"00:08.729\" end=\"00:08.920\">I<\/span>\n        <span begin=\"00:08.920\" end=\"00:09.104\">live<\/span>\n        <span begin=\"00:09.104\" end=\"00:09.254\">my<\/span>\n        <span begin=\"00:09.254\" end=\"00:09.688\">day<\/span>\n        <span begin=\"00:09.688\" end=\"00:09.870\">as<\/span>\n        <span begin=\"00:09.870\" end=\"00:10.155\">if<\/span>\n        <span begin=\"00:10.155\" end=\"00:10.320\">it<\/span>\n        <span begin=\"00:10.320\" end=\"00:10.638\">was<\/span>\n        <span begin=\"00:10.638\" end=\"00:10.803\">the<\/span>\n        <span begin=\"00:10.803\" end=\"00:11.305\">last<\/span>\n      <\/p>\n      <p begin=\"00:11.300\" end=\"00:13.692\" ttm:agent=\"v1\">\n        <span begin=\"00:11.305\" end=\"00:11.584\">Live<\/span>\n        <span begin=\"00:11.584\" end=\"00:11.750\">my<\/span>\n        <span begin=\"00:11.750\" end=\"00:12.016\">day<\/span>\n        <span begin=\"00:12.016\" end=\"00:12.318\">as<\/span>\n        <span begin=\"00:12.318\" end=\"00:12.584\">if<\/span>\n        <span begin=\"00:12.584\" end=\"00:12.800\">there<\/span>\n        <span begin=\"00:12.800\" end=\"00:13.086\">was<\/span>\n        <span begin=\"00:13.086\" end=\"00:13.302\">no<\/span>\n        <span begin=\"00:13.302\" end=\"00:13.692\">past<\/span>\n      <\/p>\n      <p begin=\"00:13.820\" end=\"00:16.082\" ttm:agent=\"v1\">\n        <span begin=\"00:13.824\" end=\"00:14.130\">Doing<\/span>\n        <span begin=\"00:14.130\" end=\"00:14.447\">it<\/span>\n        <span begin=\"00:14.447\" end=\"00:14.746\">all<\/span>\n        <span begin=\"00:14.746\" end=\"00:15.029\">night,<\/span>\n        <span begin=\"00:15.029\" end=\"00:15.327\">all<\/span>\n        <span begin=\"00:15.327\" end=\"00:16.082\">summer<\/span>\n      <\/p>\n      <p begin=\"00:16.280\" end=\"00:18.487\" ttm:agent=\"v1\">\n        <span begin=\"00:16.283\" end=\"00:16.576\">Doing<\/span>\n        <span begin=\"00:16.576\" end=\"00:16.893\">it<\/span>\n        <span begin=\"00:16.893\" end=\"00:17.210\">the<\/span>\n        <span begin=\"00:17.210\" end=\"00:17.509\">way<\/span>\n        <span begin=\"00:17.509\" end=\"00:17.808\">I<\/span>\n        <span begin=\"00:17.808\" end=\"00:18.487\">wanna<\/span>\n      <\/p>\n      <p begin=\"00:18.540\" end=\"00:21.140\" ttm:agent=\"v1\">\n        <span begin=\"00:18.543\" end=\"00:18.689\">Yeah,<\/span>\n        <span begin=\"00:18.689\" end=\"00:18.988\">I&apos;ma<\/span>\n        <span begin=\"00:18.988\" end=\"00:19.505\">dance<\/span>\n        <span begin=\"00:19.505\" end=\"00:19.670\">my<\/span>\n        <span begin=\"00:19.670\" end=\"00:19.956\">heart<\/span>\n        <span begin=\"00:19.956\" end=\"00:20.204\">out<\/span>\n        <span begin=\"00:20.204\" end=\"00:20.470\">till<\/span>\n        <span begin=\"00:20.470\" end=\"00:20.638\">the<\/span>\n        <span begin=\"00:20.638\" end=\"00:21.140\">dawn<\/span>\n      <\/p>\n      <p begin=\"00:21.140\" end=\"00:23.548\" ttm:agent=\"v1\">\n        <span begin=\"00:21.140\" end=\"00:21.401\">But<\/span>\n        <span begin=\"00:21.401\" end=\"00:21.550\">I<\/span>\n        <span begin=\"00:21.550\" end=\"00:21.801\">won&apos;t<\/span>\n        <span begin=\"00:21.801\" end=\"00:22.115\">be<\/span>\n        <span begin=\"00:22.115\" end=\"00:22.417\">done<\/span>\n        <span begin=\"00:22.417\" end=\"00:22.601\">when<\/span>\n        <span begin=\"00:22.601\" end=\"00:23.051\">morning<\/span>\n        <span begin=\"00:23.051\" end=\"00:23.548\">comes<\/span>\n      <\/p>\n      <p begin=\"00:23.560\" end=\"00:25.799\" ttm:agent=\"v1\">\n        <span begin=\"00:23.568\" end=\"00:23.938\">Doing<\/span>\n        <span begin=\"00:23.938\" end=\"00:24.239\">it<\/span>\n        <span begin=\"00:24.239\" end=\"00:24.573\">all<\/span>\n        <span begin=\"00:24.573\" end=\"00:24.855\">night,<\/span>\n        <span begin=\"00:24.855\" end=\"00:25.141\">all<\/span>\n        <span begin=\"00:25.141\" end=\"00:25.799\">summer<\/span>\n      <\/p>\n      <p begin=\"00:26.040\" end=\"00:28.867\" ttm:agent=\"v1\">\n        <span begin=\"00:26.049\" end=\"00:26.376\">Gonna<\/span>\n        <span begin=\"00:26.376\" end=\"00:26.675\">spend<\/span>\n        <span begin=\"00:26.675\" end=\"00:26.976\">it<\/span>\n        <span begin=\"00:26.976\" end=\"00:27.275\">like<\/span>\n        <span begin=\"00:27.275\" end=\"00:27.592\">no<\/span>\n        <span begin=\"00:27.592\" end=\"00:28.867\">other<\/span>\n      <\/p>\n      <p begin=\"00:29.690\" end=\"00:33.544\" ttm:agent=\"v1\">\n        <span begin=\"00:29.699\" end=\"00:30.058\">It<\/span>\n        <span begin=\"00:30.058\" end=\"00:30.357\">was<\/span>\n        <span begin=\"00:30.357\" end=\"00:30.658\">a<\/span>\n        <span begin=\"00:30.658\" end=\"00:31.131\">crush,<\/span>\n        <span begin=\"00:31.258\" end=\"00:31.442\">but<\/span>\n        <span begin=\"00:31.442\" end=\"00:31.757\">I<\/span>\n        <span begin=\"00:31.757\" end=\"00:32.192\">couldn&apos;t,<\/span>\n        <span begin=\"00:32.192\" end=\"00:32.490\">couldn&apos;t<\/span>\n        <span begin=\"00:32.490\" end=\"00:32.824\">get<\/span>\n        <span begin=\"00:32.824\" end=\"00:33.544\">enough<\/span>\n      <\/p>\n      <p begin=\"00:34.620\" end=\"00:37.459\" ttm:agent=\"v1\">\n        <span begin=\"00:34.629\" end=\"00:34.983\">It<\/span>\n        <span begin=\"00:34.983\" end=\"00:35.282\">was<\/span>\n        <span begin=\"00:35.282\" end=\"00:35.599\">a<\/span>\n        <span begin=\"00:35.599\" end=\"00:36.016\">rush,<\/span>\n        <span begin=\"00:36.167\" end=\"00:36.367\">but<\/span>\n        <span begin=\"00:36.367\" end=\"00:36.634\">I<\/span>\n        <span begin=\"00:36.634\" end=\"00:36.951\">gave<\/span>\n        <span begin=\"00:36.951\" end=\"00:37.100\">it<\/span>\n        <span begin=\"00:37.100\" end=\"00:37.459\">up<\/span>\n      <\/p>\n      <p begin=\"00:39.520\" end=\"00:43.363\" ttm:agent=\"v1\">\n        <span begin=\"00:39.528\" end=\"00:39.866\">It<\/span>\n        <span begin=\"00:39.866\" end=\"00:40.151\">was<\/span>\n        <span begin=\"00:40.151\" end=\"00:40.466\">a<\/span>\n        <span begin=\"00:40.466\" end=\"00:40.893\">crush,<\/span>\n        <span begin=\"00:41.066\" end=\"00:41.250\">now<\/span>\n        <span begin=\"00:41.250\" end=\"00:41.551\">I<\/span>\n        <span begin=\"00:41.551\" end=\"00:41.983\">might&apos;ve<\/span>\n        <span begin=\"00:41.983\" end=\"00:42.167\">went<\/span>\n        <span begin=\"00:42.167\" end=\"00:42.333\">and<\/span>\n        <span begin=\"00:42.333\" end=\"00:42.602\">said<\/span>\n        <span begin=\"00:42.602\" end=\"00:42.933\">too<\/span>\n        <span begin=\"00:42.933\" end=\"00:43.363\">much<\/span>\n      <\/p>\n      <p begin=\"00:44.240\" end=\"00:47.300\" ttm:agent=\"v1\">\n        <span begin=\"00:44.242\" end=\"00:44.444\">But<\/span>\n        <span begin=\"00:44.444\" end=\"00:44.743\">that&apos;s<\/span>\n        <span begin=\"00:44.743\" end=\"00:45.044\">all<\/span>\n        <span begin=\"00:45.044\" end=\"00:45.345\">it<\/span>\n        <span begin=\"00:45.345\" end=\"00:45.765\">was,<\/span>\n        <span begin=\"00:45.945\" end=\"00:46.161\">so<\/span>\n        <span begin=\"00:46.161\" end=\"00:46.463\">I<\/span>\n        <span begin=\"00:46.463\" end=\"00:46.745\">gave<\/span>\n        <span begin=\"00:46.745\" end=\"00:46.929\">it<\/span>\n        <span begin=\"00:46.929\" end=\"00:47.300\">up<\/span>\n      <\/p>\n      <p begin=\"00:47.920\" end=\"00:50.509\" ttm:agent=\"v1\">\n        <span begin=\"00:47.921\" end=\"00:48.123\">I<\/span>\n        <span begin=\"00:48.123\" end=\"00:48.323\">live<\/span>\n        <span begin=\"00:48.323\" end=\"00:48.440\">my<\/span>\n        <span begin=\"00:48.440\" end=\"00:48.907\">day<\/span>\n        <span begin=\"00:48.907\" end=\"00:49.072\">as<\/span>\n        <span begin=\"00:49.072\" end=\"00:49.358\">if<\/span>\n        <span begin=\"00:49.358\" end=\"00:49.558\">it<\/span>\n        <span begin=\"00:49.558\" end=\"00:49.840\">was<\/span>\n        <span begin=\"00:49.840\" end=\"00:50.006\">the<\/span>\n        <span begin=\"00:50.006\" end=\"00:50.509\">last<\/span>\n      <\/p>\n      <p begin=\"00:50.500\" end=\"00:52.806\" ttm:agent=\"v1\">\n        <span begin=\"00:50.509\" end=\"00:50.756\">Live<\/span>\n        <span begin=\"00:50.756\" end=\"00:50.908\">my<\/span>\n        <span begin=\"00:50.908\" end=\"00:51.175\">day<\/span>\n        <span begin=\"00:51.175\" end=\"00:51.458\">as<\/span>\n        <span begin=\"00:51.458\" end=\"00:51.756\">if<\/span>\n        <span begin=\"00:51.756\" end=\"00:51.956\">there<\/span>\n        <span begin=\"00:51.956\" end=\"00:52.242\">was<\/span>\n        <span begin=\"00:52.242\" end=\"00:52.458\">no<\/span>\n        <span begin=\"00:52.458\" end=\"00:52.806\">past<\/span>\n      <\/p>\n      <p begin=\"00:52.980\" end=\"00:55.154\" ttm:agent=\"v1\">\n        <span begin=\"00:52.985\" end=\"00:53.323\">Doing<\/span>\n        <span begin=\"00:53.323\" end=\"00:53.606\">it<\/span>\n        <span begin=\"00:53.606\" end=\"00:53.939\">all<\/span>\n        <span begin=\"00:53.939\" end=\"00:54.224\">night,<\/span>\n        <span begin=\"00:54.224\" end=\"00:54.539\">all<\/span>\n        <span begin=\"00:54.539\" end=\"00:55.154\">summer<\/span>\n      <\/p>\n      <p begin=\"00:55.420\" end=\"00:57.623\" ttm:agent=\"v1\">\n        <span begin=\"00:55.421\" end=\"00:55.767\">Doing<\/span>\n        <span begin=\"00:55.767\" end=\"00:56.066\">it<\/span>\n        <span begin=\"00:56.066\" end=\"00:56.367\">the<\/span>\n        <span begin=\"00:56.367\" end=\"00:56.666\">way<\/span>\n        <span begin=\"00:56.666\" end=\"00:56.983\">I<\/span>\n        <span begin=\"00:56.983\" end=\"00:57.623\">wanna<\/span>\n      <\/p>\n      <p begin=\"00:57.740\" end=\"01:00.344\" ttm:agent=\"v1\">\n        <span begin=\"00:57.741\" end=\"00:57.919\">Yeah,<\/span>\n        <span begin=\"00:57.919\" end=\"00:58.167\">I&apos;ma<\/span>\n        <span begin=\"00:58.167\" end=\"00:58.684\">dance<\/span>\n        <span begin=\"00:58.684\" end=\"00:58.850\">my<\/span>\n        <span begin=\"00:58.850\" end=\"00:59.100\">heart<\/span>\n        <span begin=\"00:59.100\" end=\"00:59.354\">out<\/span>\n        <span begin=\"00:59.354\" end=\"00:59.634\">till<\/span>\n        <span begin=\"00:59.634\" end=\"00:59.802\">the<\/span>\n        <span begin=\"00:59.802\" end=\"01:00.344\">dawn<\/span>\n      <\/p>\n      <p begin=\"01:00.340\" end=\"01:02.669\" ttm:agent=\"v1\">\n        <span begin=\"01:00.344\" end=\"01:00.589\">But<\/span>\n        <span begin=\"01:00.589\" end=\"01:00.738\">I<\/span>\n        <span begin=\"01:00.738\" end=\"01:01.023\">won&apos;t<\/span>\n        <span begin=\"01:01.023\" end=\"01:01.306\">be<\/span>\n        <span begin=\"01:01.306\" end=\"01:01.589\">done<\/span>\n        <span begin=\"01:01.589\" end=\"01:01.805\">when<\/span>\n        <span begin=\"01:01.805\" end=\"01:02.223\">morning<\/span>\n        <span begin=\"01:02.223\" end=\"01:02.669\">comes<\/span>\n      <\/p>\n      <p begin=\"01:02.720\" end=\"01:04.983\" ttm:agent=\"v1\">\n        <span begin=\"01:02.728\" end=\"01:03.117\">Doing<\/span>\n        <span begin=\"01:03.117\" end=\"01:03.418\">it<\/span>\n        <span begin=\"01:03.418\" end=\"01:03.735\">all<\/span>\n        <span begin=\"01:03.735\" end=\"01:04.018\">night,<\/span>\n        <span begin=\"01:04.018\" end=\"01:04.334\">all<\/span>\n        <span begin=\"01:04.334\" end=\"01:04.983\">summer<\/span>\n      <\/p>\n      <p begin=\"01:05.200\" end=\"01:07.987\" ttm:agent=\"v1\">\n        <span begin=\"01:05.205\" end=\"01:05.540\">Gonna<\/span>\n        <span begin=\"01:05.540\" end=\"01:05.874\">spend<\/span>\n        <span begin=\"01:05.874\" end=\"01:06.172\">it<\/span>\n        <span begin=\"01:06.172\" end=\"01:06.474\">like<\/span>\n        <span begin=\"01:06.474\" end=\"01:06.788\">no<\/span>\n        <span begin=\"01:06.788\" end=\"01:07.987\">other<\/span>\n      <\/p>\n      <p begin=\"01:08.890\" end=\"01:12.845\" ttm:agent=\"v1\">\n        <span begin=\"01:08.898\" end=\"01:09.247\">It<\/span>\n        <span begin=\"01:09.247\" end=\"01:09.548\">was<\/span>\n        <span begin=\"01:09.548\" end=\"01:09.847\">a<\/span>\n        <span begin=\"01:09.847\" end=\"01:10.306\">crush,<\/span>\n        <span begin=\"01:10.447\" end=\"01:10.647\">I<\/span>\n        <span begin=\"01:10.647\" end=\"01:10.916\">kept<\/span>\n        <span begin=\"01:10.916\" end=\"01:11.364\">saying<\/span>\n        <span begin=\"01:11.364\" end=\"01:11.647\">I&apos;ma<\/span>\n        <span begin=\"01:11.647\" end=\"01:11.983\">stay<\/span>\n        <span begin=\"01:11.983\" end=\"01:12.297\">in<\/span>\n        <span begin=\"01:12.297\" end=\"01:12.845\">touch<\/span>\n      <\/p>\n      <p begin=\"01:13.660\" end=\"01:16.565\" ttm:agent=\"v1\">\n        <span begin=\"01:13.660\" end=\"01:13.822\">But<\/span>\n        <span begin=\"01:13.822\" end=\"01:14.155\">that<\/span>\n        <span begin=\"01:14.155\" end=\"01:14.454\">thing<\/span>\n        <span begin=\"01:14.454\" end=\"01:14.771\">went<\/span>\n        <span begin=\"01:14.771\" end=\"01:15.172\">bust,<\/span>\n        <span begin=\"01:15.323\" end=\"01:15.539\">so<\/span>\n        <span begin=\"01:15.539\" end=\"01:15.838\">I<\/span>\n        <span begin=\"01:15.838\" end=\"01:16.123\">gave<\/span>\n        <span begin=\"01:16.123\" end=\"01:16.289\">it<\/span>\n        <span begin=\"01:16.289\" end=\"01:16.565\">up<\/span>\n      <\/p>\n      <p begin=\"01:17.460\" end=\"01:22.515\" ttm:agent=\"v1\">\n        <span begin=\"01:17.468\" end=\"01:18.460\">Ooh,<\/span>\n        <span begin=\"01:18.683\" end=\"01:19.051\">no<\/span>\n        <span begin=\"01:19.051\" end=\"01:19.350\">tricks,<\/span>\n        <span begin=\"01:19.350\" end=\"01:19.667\">no<\/span>\n        <span begin=\"01:19.667\" end=\"01:20.060\">bluff,<\/span>\n        <span begin=\"01:20.235\" end=\"01:20.435\">I&apos;m<\/span>\n        <span begin=\"01:20.435\" end=\"01:20.734\">just<\/span>\n        <span begin=\"01:20.734\" end=\"01:21.086\">better<\/span>\n        <span begin=\"01:21.086\" end=\"01:21.350\">off<\/span>\n        <span begin=\"01:21.350\" end=\"01:21.753\">without<\/span>\n        <span begin=\"01:21.753\" end=\"01:22.102\">them<\/span>\n        <span begin=\"01:22.102\" end=\"01:22.515\">cuffs<\/span>\n      <\/p>\n      <p begin=\"01:22.660\" end=\"01:28.306\" ttm:agent=\"v1\">\n        <span begin=\"01:22.661\" end=\"01:22.898\">Yeah,<\/span>\n        <span begin=\"01:22.898\" end=\"01:23.164\">the<\/span>\n        <span begin=\"01:23.164\" end=\"01:23.580\">sun<\/span>\n        <span begin=\"01:23.580\" end=\"01:23.914\">won&apos;t<\/span>\n        <span begin=\"01:23.914\" end=\"01:24.196\">set<\/span>\n        <span begin=\"01:24.196\" end=\"01:24.545\">on<\/span>\n        <span begin=\"01:24.545\" end=\"01:24.831\">us,<\/span>\n        <span begin=\"01:24.831\" end=\"01:25.148\">ooh,<\/span>\n        <span begin=\"01:25.148\" end=\"01:25.463\">ooh,<\/span>\n        <span begin=\"01:25.463\" end=\"01:26.447\">ooh,<\/span>\n        <span begin=\"01:26.964\" end=\"01:28.306\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:28.770\" end=\"01:31.168\" ttm:agent=\"v1\">\n        <span begin=\"01:28.773\" end=\"01:29.434\">Went<\/span>\n        <span begin=\"01:29.434\" end=\"01:30.050\">low,<\/span>\n        <span begin=\"01:30.050\" end=\"01:30.650\">went<\/span>\n        <span begin=\"01:30.650\" end=\"01:31.168\">high<\/span>\n      <\/p>\n      <p begin=\"01:31.160\" end=\"01:33.720\" ttm:agent=\"v1\">\n        <span begin=\"01:31.168\" end=\"01:31.885\">Still<\/span>\n        <span begin=\"01:31.885\" end=\"01:32.466\">waters<\/span>\n        <span begin=\"01:32.466\" end=\"01:33.101\">run<\/span>\n        <span begin=\"01:33.101\" end=\"01:33.720\">dry<\/span>\n      <\/p>\n      <p begin=\"01:33.960\" end=\"01:36.195\" ttm:agent=\"v1\">\n        <span begin=\"01:33.960\" end=\"01:34.348\">Gotta<\/span>\n        <span begin=\"01:34.348\" end=\"01:34.631\">get<\/span>\n        <span begin=\"01:34.631\" end=\"01:34.949\">back<\/span>\n        <span begin=\"01:34.949\" end=\"01:35.250\">in<\/span>\n        <span begin=\"01:35.250\" end=\"01:35.466\">the<\/span>\n        <span begin=\"01:35.466\" end=\"01:36.195\">groove<\/span>\n      <\/p>\n      <p begin=\"01:36.600\" end=\"01:37.976\" ttm:agent=\"v1\">\n        <span begin=\"01:36.600\" end=\"01:36.919\">I<\/span>\n        <span begin=\"01:36.919\" end=\"01:37.087\">ain&apos;t<\/span>\n        <span begin=\"01:37.087\" end=\"01:37.402\">ever<\/span>\n        <span begin=\"01:37.402\" end=\"01:37.976\">worried<\/span>\n      <\/p>\n      <p begin=\"01:38.580\" end=\"01:41.043\" ttm:agent=\"v1\">\n        <span begin=\"01:38.582\" end=\"01:39.223\">Went<\/span>\n        <span begin=\"01:39.223\" end=\"01:39.840\">low,<\/span>\n        <span begin=\"01:39.840\" end=\"01:40.443\">went<\/span>\n        <span begin=\"01:40.443\" end=\"01:41.043\">high<\/span>\n      <\/p>\n      <p begin=\"01:41.040\" end=\"01:43.600\" ttm:agent=\"v1\">\n        <span begin=\"01:41.043\" end=\"01:41.666\">What<\/span>\n        <span begin=\"01:41.666\" end=\"01:42.298\">matters<\/span>\n        <span begin=\"01:42.298\" end=\"01:42.898\">is<\/span>\n        <span begin=\"01:42.898\" end=\"01:43.600\">now<\/span>\n      <\/p>\n      <p begin=\"01:43.780\" end=\"01:46.075\" ttm:agent=\"v1\">\n        <span begin=\"01:43.783\" end=\"01:44.149\">Getting<\/span>\n        <span begin=\"01:44.149\" end=\"01:44.447\">right<\/span>\n        <span begin=\"01:44.447\" end=\"01:44.749\">back<\/span>\n        <span begin=\"01:44.749\" end=\"01:45.063\">in<\/span>\n        <span begin=\"01:45.063\" end=\"01:45.263\">the<\/span>\n        <span begin=\"01:45.263\" end=\"01:46.075\">mood<\/span>\n      <\/p>\n      <p begin=\"01:46.700\" end=\"01:49.267\" ttm:agent=\"v1\">\n        <span begin=\"01:46.709\" end=\"01:46.890\">I<\/span>\n        <span begin=\"01:46.890\" end=\"01:47.074\">live<\/span>\n        <span begin=\"01:47.074\" end=\"01:47.223\">my<\/span>\n        <span begin=\"01:47.223\" end=\"01:47.674\">day<\/span>\n        <span begin=\"01:47.674\" end=\"01:47.839\">as<\/span>\n        <span begin=\"01:47.839\" end=\"01:48.122\">if<\/span>\n        <span begin=\"01:48.122\" end=\"01:48.289\">it<\/span>\n        <span begin=\"01:48.289\" end=\"01:48.591\">was<\/span>\n        <span begin=\"01:48.591\" end=\"01:48.740\">the<\/span>\n        <span begin=\"01:48.740\" end=\"01:49.267\">last<\/span>\n      <\/p>\n      <p begin=\"01:49.260\" end=\"01:51.558\" ttm:agent=\"v1\">\n        <span begin=\"01:49.267\" end=\"01:49.509\">Live<\/span>\n        <span begin=\"01:49.509\" end=\"01:49.674\">my<\/span>\n        <span begin=\"01:49.674\" end=\"01:49.925\">day<\/span>\n        <span begin=\"01:49.925\" end=\"01:50.226\">as<\/span>\n        <span begin=\"01:50.226\" end=\"01:50.525\">if<\/span>\n        <span begin=\"01:50.525\" end=\"01:50.725\">there<\/span>\n        <span begin=\"01:50.725\" end=\"01:50.991\">was<\/span>\n        <span begin=\"01:50.991\" end=\"01:51.208\">no<\/span>\n        <span begin=\"01:51.208\" end=\"01:51.558\">past<\/span>\n      <\/p>\n      <p begin=\"01:51.770\" end=\"01:53.893\" ttm:agent=\"v1\">\n        <span begin=\"01:51.776\" end=\"01:52.106\">Doing<\/span>\n        <span begin=\"01:52.106\" end=\"01:52.389\">it<\/span>\n        <span begin=\"01:52.389\" end=\"01:52.706\">all<\/span>\n        <span begin=\"01:52.706\" end=\"01:52.989\">night,<\/span>\n        <span begin=\"01:52.989\" end=\"01:53.289\">all<\/span>\n        <span begin=\"01:53.289\" end=\"01:53.893\">summer<\/span>\n      <\/p>\n      <p begin=\"01:54.170\" end=\"01:56.443\" ttm:agent=\"v1\">\n        <span begin=\"01:54.179\" end=\"01:54.544\">Doing<\/span>\n        <span begin=\"01:54.544\" end=\"01:54.826\">it<\/span>\n        <span begin=\"01:54.826\" end=\"01:55.144\">the<\/span>\n        <span begin=\"01:55.144\" end=\"01:55.461\">way<\/span>\n        <span begin=\"01:55.461\" end=\"01:55.777\">I<\/span>\n        <span begin=\"01:55.777\" end=\"01:56.443\">wanna<\/span>\n      <\/p>\n      <p begin=\"01:56.520\" end=\"01:59.097\" ttm:agent=\"v1\">\n        <span begin=\"01:56.529\" end=\"01:56.686\">Yeah,<\/span>\n        <span begin=\"01:56.686\" end=\"01:56.984\">I&apos;ma<\/span>\n        <span begin=\"01:56.984\" end=\"01:57.419\">dance<\/span>\n        <span begin=\"01:57.419\" end=\"01:57.619\">my<\/span>\n        <span begin=\"01:57.619\" end=\"01:57.902\">heart<\/span>\n        <span begin=\"01:57.902\" end=\"01:58.134\">out<\/span>\n        <span begin=\"01:58.134\" end=\"01:58.384\">till<\/span>\n        <span begin=\"01:58.384\" end=\"01:58.551\">the<\/span>\n        <span begin=\"01:58.551\" end=\"01:59.097\">dawn<\/span>\n      <\/p>\n      <p begin=\"01:59.090\" end=\"02:01.395\" ttm:agent=\"v1\">\n        <span begin=\"01:59.097\" end=\"01:59.312\">But<\/span>\n        <span begin=\"01:59.312\" end=\"01:59.464\">I<\/span>\n        <span begin=\"01:59.464\" end=\"01:59.763\">won&apos;t<\/span>\n        <span begin=\"01:59.763\" end=\"02:00.046\">be<\/span>\n        <span begin=\"02:00.046\" end=\"02:00.331\">done<\/span>\n        <span begin=\"02:00.331\" end=\"02:00.544\">when<\/span>\n        <span begin=\"02:00.544\" end=\"02:00.979\">morning<\/span>\n        <span begin=\"02:00.979\" end=\"02:01.395\">comes<\/span>\n      <\/p>\n      <p begin=\"02:01.560\" end=\"02:03.747\" ttm:agent=\"v1\">\n        <span begin=\"02:01.569\" end=\"02:01.918\">Doing<\/span>\n        <span begin=\"02:01.918\" end=\"02:02.200\">it<\/span>\n        <span begin=\"02:02.200\" end=\"02:02.518\">all<\/span>\n        <span begin=\"02:02.518\" end=\"02:02.800\">night,<\/span>\n        <span begin=\"02:02.800\" end=\"02:03.102\">all<\/span>\n        <span begin=\"02:03.102\" end=\"02:03.747\">summer<\/span>\n      <\/p>\n      <p begin=\"02:03.990\" end=\"02:06.774\" ttm:agent=\"v1\">\n        <span begin=\"02:03.998\" end=\"02:04.331\">Gonna<\/span>\n        <span begin=\"02:04.331\" end=\"02:04.629\">spend<\/span>\n        <span begin=\"02:04.629\" end=\"02:04.931\">it<\/span>\n        <span begin=\"02:04.931\" end=\"02:05.229\">like<\/span>\n        <span begin=\"02:05.229\" end=\"02:05.547\">no<\/span>\n        <span begin=\"02:05.547\" end=\"02:06.774\">other<\/span>\n      <\/p>\n      <p begin=\"02:07.360\" end=\"02:09.668\" ttm:agent=\"v1\">\n        <span begin=\"02:07.368\" end=\"02:07.714\">Now<\/span>\n        <span begin=\"02:07.714\" end=\"02:08.014\">I&apos;ve<\/span>\n        <span begin=\"02:08.014\" end=\"02:08.314\">found<\/span>\n        <span begin=\"02:08.314\" end=\"02:09.098\">another<\/span>\n        <span begin=\"02:09.098\" end=\"02:09.668\">crush<\/span>\n      <\/p>\n      <p begin=\"02:09.660\" end=\"02:12.090\" ttm:agent=\"v1\">\n        <span begin=\"02:09.668\" end=\"02:09.883\">The<\/span>\n        <span begin=\"02:09.883\" end=\"02:10.166\">lush<\/span>\n        <span begin=\"02:10.166\" end=\"02:10.451\">life&apos;s<\/span>\n        <span begin=\"02:10.451\" end=\"02:11.067\">giving<\/span>\n        <span begin=\"02:11.067\" end=\"02:11.385\">me<\/span>\n        <span begin=\"02:11.385\" end=\"02:11.601\">a<\/span>\n        <span begin=\"02:11.601\" end=\"02:12.090\">rush<\/span>\n      <\/p>\n      <p begin=\"02:12.260\" end=\"02:14.424\" ttm:agent=\"v1\">\n        <span begin=\"02:12.264\" end=\"02:12.597\">Had<\/span>\n        <span begin=\"02:12.597\" end=\"02:12.898\">one<\/span>\n        <span begin=\"02:12.898\" end=\"02:13.213\">chance<\/span>\n        <span begin=\"02:13.213\" end=\"02:13.546\">to<\/span>\n        <span begin=\"02:13.546\" end=\"02:13.831\">make<\/span>\n        <span begin=\"02:13.831\" end=\"02:14.031\">me<\/span>\n        <span begin=\"02:14.031\" end=\"02:14.424\">blush<\/span>\n      <\/p>\n      <p begin=\"02:14.640\" end=\"02:16.160\" ttm:agent=\"v1\">\n        <span begin=\"02:14.648\" end=\"02:14.994\">Second<\/span>\n        <span begin=\"02:14.994\" end=\"02:15.245\">time<\/span>\n        <span begin=\"02:15.245\" end=\"02:15.394\">is<\/span>\n        <span begin=\"02:15.394\" end=\"02:15.677\">one<\/span>\n        <span begin=\"02:15.677\" end=\"02:15.845\">too<\/span>\n        <span begin=\"02:15.845\" end=\"02:16.160\">late<\/span>\n      <\/p>\n      <p begin=\"02:17.160\" end=\"02:19.383\" ttm:agent=\"v1\">\n        <span begin=\"02:17.163\" end=\"02:17.493\">Now<\/span>\n        <span begin=\"02:17.493\" end=\"02:17.794\">I&apos;ve<\/span>\n        <span begin=\"02:17.794\" end=\"02:18.112\">found<\/span>\n        <span begin=\"02:18.112\" end=\"02:18.861\">another<\/span>\n        <span begin=\"02:18.861\" end=\"02:19.383\">crush<\/span>\n      <\/p>\n      <p begin=\"02:19.480\" end=\"02:21.916\" ttm:agent=\"v1\">\n        <span begin=\"02:19.482\" end=\"02:19.681\">The<\/span>\n        <span begin=\"02:19.681\" end=\"02:19.964\">lush<\/span>\n        <span begin=\"02:19.964\" end=\"02:20.249\">life&apos;s<\/span>\n        <span begin=\"02:20.249\" end=\"02:20.847\">giving<\/span>\n        <span begin=\"02:20.847\" end=\"02:21.180\">me<\/span>\n        <span begin=\"02:21.180\" end=\"02:21.399\">a<\/span>\n        <span begin=\"02:21.399\" end=\"02:21.916\">rush<\/span>\n      <\/p>\n      <p begin=\"02:22.070\" end=\"02:24.236\" ttm:agent=\"v1\">\n        <span begin=\"02:22.079\" end=\"02:22.391\">Had<\/span>\n        <span begin=\"02:22.391\" end=\"02:22.706\">one<\/span>\n        <span begin=\"02:22.706\" end=\"02:23.007\">chance<\/span>\n        <span begin=\"02:23.007\" end=\"02:23.306\">to<\/span>\n        <span begin=\"02:23.306\" end=\"02:23.591\">make<\/span>\n        <span begin=\"02:23.591\" end=\"02:23.791\">me<\/span>\n        <span begin=\"02:23.791\" end=\"02:24.236\">blush<\/span>\n      <\/p>\n      <p begin=\"02:24.480\" end=\"02:26.044\" ttm:agent=\"v1\">\n        <span begin=\"02:24.484\" end=\"02:24.825\">Second<\/span>\n        <span begin=\"02:24.825\" end=\"02:25.027\">time<\/span>\n        <span begin=\"02:25.027\" end=\"02:25.193\">is<\/span>\n        <span begin=\"02:25.193\" end=\"02:25.459\">one<\/span>\n        <span begin=\"02:25.459\" end=\"02:25.643\">too<\/span>\n        <span begin=\"02:25.643\" end=\"02:26.044\">late<\/span>\n      <\/p>\n      <p begin=\"02:26.280\" end=\"02:32.564\" ttm:agent=\"v1\">\n        <span begin=\"02:26.283\" end=\"02:27.952\">Ooh,<\/span>\n        <span begin=\"02:28.768\" end=\"02:31.253\">ooh,<\/span>\n        <span begin=\"02:31.253\" end=\"02:32.564\">ooh<\/span>\n      <\/p>\n      <p begin=\"02:33.660\" end=\"02:36.178\" ttm:agent=\"v1\">\n        <span begin=\"02:33.668\" end=\"02:36.178\">Ooh<\/span>\n      <\/p>\n      <p begin=\"02:35.660\" end=\"02:38.248\" ttm:agent=\"v1\">\n        <span begin=\"02:35.664\" end=\"02:35.850\">I<\/span>\n        <span begin=\"02:35.850\" end=\"02:36.034\">live<\/span>\n        <span begin=\"02:36.034\" end=\"02:36.183\">my<\/span>\n        <span begin=\"02:36.183\" end=\"02:36.618\">day<\/span>\n        <span begin=\"02:36.618\" end=\"02:36.799\">as<\/span>\n        <span begin=\"02:36.799\" end=\"02:37.085\">if<\/span>\n        <span begin=\"02:37.085\" end=\"02:37.269\">it<\/span>\n        <span begin=\"02:37.269\" end=\"02:37.549\">was<\/span>\n        <span begin=\"02:37.549\" end=\"02:37.735\">the<\/span>\n        <span begin=\"02:37.735\" end=\"02:38.248\">last<\/span>\n      <\/p>\n      <p begin=\"02:38.240\" end=\"02:40.542\" ttm:agent=\"v1\">\n        <span begin=\"02:38.248\" end=\"02:38.450\">Live<\/span>\n        <span begin=\"02:38.450\" end=\"02:38.631\">my<\/span>\n        <span begin=\"02:38.631\" end=\"02:38.898\">day<\/span>\n        <span begin=\"02:38.898\" end=\"02:39.215\">as<\/span>\n        <span begin=\"02:39.215\" end=\"02:39.498\">if<\/span>\n        <span begin=\"02:39.498\" end=\"02:39.714\">there<\/span>\n        <span begin=\"02:39.714\" end=\"02:39.983\">was<\/span>\n        <span begin=\"02:39.983\" end=\"02:40.180\">no<\/span>\n        <span begin=\"02:40.180\" end=\"02:40.542\">past<\/span>\n      <\/p>\n      <p begin=\"02:40.740\" end=\"02:42.912\" ttm:agent=\"v1\">\n        <span begin=\"02:40.744\" end=\"02:41.074\">Doing<\/span>\n        <span begin=\"02:41.074\" end=\"02:41.359\">it<\/span>\n        <span begin=\"02:41.359\" end=\"02:41.674\">all<\/span>\n        <span begin=\"02:41.674\" end=\"02:41.959\">night,<\/span>\n        <span begin=\"02:41.959\" end=\"02:42.258\">all<\/span>\n        <span begin=\"02:42.258\" end=\"02:42.912\">summer<\/span>\n      <\/p>\n      <p begin=\"02:43.190\" end=\"02:45.395\" ttm:agent=\"v1\">\n        <span begin=\"02:43.194\" end=\"02:43.524\">Doing<\/span>\n        <span begin=\"02:43.524\" end=\"02:43.807\">it<\/span>\n        <span begin=\"02:43.807\" end=\"02:44.108\">the<\/span>\n        <span begin=\"02:44.108\" end=\"02:44.423\">way<\/span>\n        <span begin=\"02:44.423\" end=\"02:44.756\">I<\/span>\n        <span begin=\"02:44.756\" end=\"02:45.395\">wanna<\/span>\n      <\/p>\n      <p begin=\"02:45.460\" end=\"02:48.062\" ttm:agent=\"v1\">\n        <span begin=\"02:45.465\" end=\"02:45.683\">Yeah,<\/span>\n        <span begin=\"02:45.683\" end=\"02:45.915\">I&apos;ma<\/span>\n        <span begin=\"02:45.915\" end=\"02:46.414\">dance<\/span>\n        <span begin=\"02:46.414\" end=\"02:46.598\">my<\/span>\n        <span begin=\"02:46.598\" end=\"02:46.883\">heart<\/span>\n        <span begin=\"02:46.883\" end=\"02:47.115\">out<\/span>\n        <span begin=\"02:47.115\" end=\"02:47.382\">till<\/span>\n        <span begin=\"02:47.382\" end=\"02:47.550\">the<\/span>\n        <span begin=\"02:47.550\" end=\"02:48.062\">dawn<\/span>\n      <\/p>\n      <p begin=\"02:48.060\" end=\"02:50.305\" ttm:agent=\"v1\">\n        <span begin=\"02:48.062\" end=\"02:48.293\">But<\/span>\n        <span begin=\"02:48.293\" end=\"02:48.459\">I<\/span>\n        <span begin=\"02:48.459\" end=\"02:48.741\">won&apos;t<\/span>\n        <span begin=\"02:48.741\" end=\"02:49.043\">be<\/span>\n        <span begin=\"02:49.043\" end=\"02:49.325\">done<\/span>\n        <span begin=\"02:49.325\" end=\"02:49.509\">when<\/span>\n        <span begin=\"02:49.509\" end=\"02:49.960\">morning<\/span>\n        <span begin=\"02:49.960\" end=\"02:50.305\">comes<\/span>\n      <\/p>\n      <p begin=\"02:50.540\" end=\"02:52.722\" ttm:agent=\"v1\">\n        <span begin=\"02:50.543\" end=\"02:50.858\">Doing<\/span>\n        <span begin=\"02:50.858\" end=\"02:51.143\">it<\/span>\n        <span begin=\"02:51.143\" end=\"02:51.458\">all<\/span>\n        <span begin=\"02:51.458\" end=\"02:51.759\">night,<\/span>\n        <span begin=\"02:51.759\" end=\"02:52.058\">all<\/span>\n        <span begin=\"02:52.058\" end=\"02:52.722\">summer<\/span>\n      <\/p>\n      <p begin=\"02:52.940\" end=\"02:56.031\" ttm:agent=\"v1\">\n        <span begin=\"02:52.948\" end=\"02:53.334\">Gonna<\/span>\n        <span begin=\"02:53.334\" end=\"02:53.651\">spend<\/span>\n        <span begin=\"02:53.651\" end=\"02:53.934\">it<\/span>\n        <span begin=\"02:53.934\" end=\"02:54.235\">like<\/span>\n        <span begin=\"02:54.235\" end=\"02:54.566\">no<\/span>\n        <span begin=\"02:54.566\" end=\"02:56.031\">other<\/span>\n      <\/p>\n      <p begin=\"02:56.320\" end=\"02:58.626\" ttm:agent=\"v1\">\n        <span begin=\"02:56.329\" end=\"02:56.708\">Now<\/span>\n        <span begin=\"02:56.708\" end=\"02:56.991\">I&apos;ve<\/span>\n        <span begin=\"02:56.991\" end=\"02:57.308\">found<\/span>\n        <span begin=\"02:57.308\" end=\"02:58.041\">another<\/span>\n        <span begin=\"02:58.041\" end=\"02:58.626\">crush<\/span>\n      <\/p>\n      <p begin=\"02:58.620\" end=\"03:00.983\" ttm:agent=\"v1\">\n        <span begin=\"02:58.626\" end=\"02:58.839\">The<\/span>\n        <span begin=\"02:58.839\" end=\"02:59.108\">lush<\/span>\n        <span begin=\"02:59.108\" end=\"02:59.439\">life&apos;s<\/span>\n        <span begin=\"02:59.439\" end=\"03:00.039\">giving<\/span>\n        <span begin=\"03:00.039\" end=\"03:00.343\">me<\/span>\n        <span begin=\"03:00.343\" end=\"03:00.524\">a<\/span>\n        <span begin=\"03:00.524\" end=\"03:00.983\">rush<\/span>\n      <\/p>\n      <p begin=\"03:01.200\" end=\"03:03.402\" ttm:agent=\"v1\">\n        <span begin=\"03:01.208\" end=\"03:01.583\">Had<\/span>\n        <span begin=\"03:01.583\" end=\"03:01.882\">one<\/span>\n        <span begin=\"03:01.882\" end=\"03:02.199\">chance<\/span>\n        <span begin=\"03:02.199\" end=\"03:02.498\">to<\/span>\n        <span begin=\"03:02.498\" end=\"03:02.815\">make<\/span>\n        <span begin=\"03:02.815\" end=\"03:02.999\">me<\/span>\n        <span begin=\"03:02.999\" end=\"03:03.402\">blush<\/span>\n      <\/p>\n      <p begin=\"03:03.620\" end=\"03:05.202\" ttm:agent=\"v1\">\n        <span begin=\"03:03.628\" end=\"03:03.979\">Second<\/span>\n        <span begin=\"03:03.979\" end=\"03:04.211\">time<\/span>\n        <span begin=\"03:04.211\" end=\"03:04.379\">is<\/span>\n        <span begin=\"03:04.379\" end=\"03:04.646\">one<\/span>\n        <span begin=\"03:04.646\" end=\"03:04.830\">too<\/span>\n        <span begin=\"03:04.830\" end=\"03:05.202\">late<\/span>\n      <\/p>\n      <p begin=\"03:06.120\" end=\"03:08.407\" ttm:agent=\"v1\">\n        <span begin=\"03:06.124\" end=\"03:06.489\">Now<\/span>\n        <span begin=\"03:06.489\" end=\"03:06.771\">I&apos;ve<\/span>\n        <span begin=\"03:06.771\" end=\"03:07.105\">found<\/span>\n        <span begin=\"03:07.105\" end=\"03:07.870\">another<\/span>\n        <span begin=\"03:07.870\" end=\"03:08.407\">crush<\/span>\n      <\/p>\n      <p begin=\"03:08.400\" end=\"03:10.751\" ttm:agent=\"v1\">\n        <span begin=\"03:08.407\" end=\"03:08.630\">The<\/span>\n        <span begin=\"03:08.630\" end=\"03:08.913\">lush<\/span>\n        <span begin=\"03:08.913\" end=\"03:09.212\">life&apos;s<\/span>\n        <span begin=\"03:09.212\" end=\"03:09.846\">giving<\/span>\n        <span begin=\"03:09.846\" end=\"03:10.129\">me<\/span>\n        <span begin=\"03:10.129\" end=\"03:10.313\">a<\/span>\n        <span begin=\"03:10.313\" end=\"03:10.751\">rush<\/span>\n      <\/p>\n      <p begin=\"03:11.020\" end=\"03:13.169\" ttm:agent=\"v1\">\n        <span begin=\"03:11.023\" end=\"03:11.385\">Had<\/span>\n        <span begin=\"03:11.385\" end=\"03:11.684\">one<\/span>\n        <span begin=\"03:11.684\" end=\"03:11.985\">chance<\/span>\n        <span begin=\"03:11.985\" end=\"03:12.300\">to<\/span>\n        <span begin=\"03:12.300\" end=\"03:12.585\">make<\/span>\n        <span begin=\"03:12.585\" end=\"03:12.801\">me<\/span>\n        <span begin=\"03:12.801\" end=\"03:13.169\">blush<\/span>\n      <\/p>\n      <p begin=\"03:13.390\" end=\"03:14.900\" ttm:agent=\"v1\">\n        <span begin=\"03:13.393\" end=\"03:13.784\">Second<\/span>\n        <span begin=\"03:13.784\" end=\"03:14.019\">time<\/span>\n        <span begin=\"03:14.019\" end=\"03:14.184\">is<\/span>\n        <span begin=\"03:14.184\" end=\"03:14.435\">one<\/span>\n        <span begin=\"03:14.435\" end=\"03:14.619\">too<\/span>\n        <span begin=\"03:14.619\" end=\"03:14.900\">late<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 8720,
+      "endTime": 11305,
+      "text": "I live my day as if it was the last",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 8729,
+          "endTime": 8920,
+          "word": "I"
+        },
+        {
+          "startTime": 8920,
+          "endTime": 9104,
+          "word": "live"
+        },
+        {
+          "startTime": 9104,
+          "endTime": 9254,
+          "word": "my"
+        },
+        {
+          "startTime": 9254,
+          "endTime": 9688,
+          "word": "day"
+        },
+        {
+          "startTime": 9688,
+          "endTime": 9870,
+          "word": "as"
+        },
+        {
+          "startTime": 9870,
+          "endTime": 10155,
+          "word": "if"
+        },
+        {
+          "startTime": 10155,
+          "endTime": 10320,
+          "word": "it"
+        },
+        {
+          "startTime": 10320,
+          "endTime": 10638,
+          "word": "was"
+        },
+        {
+          "startTime": 10638,
+          "endTime": 10803,
+          "word": "the"
+        },
+        {
+          "startTime": 10803,
+          "endTime": 11305,
+          "word": "last"
+        }
+      ]
+    },
+    {
+      "time": 11300,
+      "endTime": 13692,
+      "text": "Live my day as if there was no past",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 11305,
+          "endTime": 11584,
+          "word": "Live"
+        },
+        {
+          "startTime": 11584,
+          "endTime": 11750,
+          "word": "my"
+        },
+        {
+          "startTime": 11750,
+          "endTime": 12016,
+          "word": "day"
+        },
+        {
+          "startTime": 12016,
+          "endTime": 12318,
+          "word": "as"
+        },
+        {
+          "startTime": 12318,
+          "endTime": 12584,
+          "word": "if"
+        },
+        {
+          "startTime": 12584,
+          "endTime": 12800,
+          "word": "there"
+        },
+        {
+          "startTime": 12800,
+          "endTime": 13086,
+          "word": "was"
+        },
+        {
+          "startTime": 13086,
+          "endTime": 13302,
+          "word": "no"
+        },
+        {
+          "startTime": 13302,
+          "endTime": 13692,
+          "word": "past"
+        }
+      ]
+    },
+    {
+      "time": 13820,
+      "endTime": 16082,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 13824,
+          "endTime": 14130,
+          "word": "Doing"
+        },
+        {
+          "startTime": 14130,
+          "endTime": 14447,
+          "word": "it"
+        },
+        {
+          "startTime": 14447,
+          "endTime": 14746,
+          "word": "all"
+        },
+        {
+          "startTime": 14746,
+          "endTime": 15029,
+          "word": "night,"
+        },
+        {
+          "startTime": 15029,
+          "endTime": 15327,
+          "word": "all"
+        },
+        {
+          "startTime": 15327,
+          "endTime": 16082,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 16280,
+      "endTime": 18487,
+      "text": "Doing it the way I wanna",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 16283,
+          "endTime": 16576,
+          "word": "Doing"
+        },
+        {
+          "startTime": 16576,
+          "endTime": 16893,
+          "word": "it"
+        },
+        {
+          "startTime": 16893,
+          "endTime": 17210,
+          "word": "the"
+        },
+        {
+          "startTime": 17210,
+          "endTime": 17509,
+          "word": "way"
+        },
+        {
+          "startTime": 17509,
+          "endTime": 17808,
+          "word": "I"
+        },
+        {
+          "startTime": 17808,
+          "endTime": 18487,
+          "word": "wanna"
+        }
+      ]
+    },
+    {
+      "time": 18540,
+      "endTime": 21140,
+      "text": "Yeah, I'ma dance my heart out till the dawn",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 18543,
+          "endTime": 18689,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 18689,
+          "endTime": 18988,
+          "word": "I'ma"
+        },
+        {
+          "startTime": 18988,
+          "endTime": 19505,
+          "word": "dance"
+        },
+        {
+          "startTime": 19505,
+          "endTime": 19670,
+          "word": "my"
+        },
+        {
+          "startTime": 19670,
+          "endTime": 19956,
+          "word": "heart"
+        },
+        {
+          "startTime": 19956,
+          "endTime": 20204,
+          "word": "out"
+        },
+        {
+          "startTime": 20204,
+          "endTime": 20470,
+          "word": "till"
+        },
+        {
+          "startTime": 20470,
+          "endTime": 20638,
+          "word": "the"
+        },
+        {
+          "startTime": 20638,
+          "endTime": 21140,
+          "word": "dawn"
+        }
+      ]
+    },
+    {
+      "time": 21140,
+      "endTime": 23548,
+      "text": "But I won't be done when morning comes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21140,
+          "endTime": 21401,
+          "word": "But"
+        },
+        {
+          "startTime": 21401,
+          "endTime": 21550,
+          "word": "I"
+        },
+        {
+          "startTime": 21550,
+          "endTime": 21801,
+          "word": "won't"
+        },
+        {
+          "startTime": 21801,
+          "endTime": 22115,
+          "word": "be"
+        },
+        {
+          "startTime": 22115,
+          "endTime": 22417,
+          "word": "done"
+        },
+        {
+          "startTime": 22417,
+          "endTime": 22601,
+          "word": "when"
+        },
+        {
+          "startTime": 22601,
+          "endTime": 23051,
+          "word": "morning"
+        },
+        {
+          "startTime": 23051,
+          "endTime": 23548,
+          "word": "comes"
+        }
+      ]
+    },
+    {
+      "time": 23560,
+      "endTime": 25799,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23568,
+          "endTime": 23938,
+          "word": "Doing"
+        },
+        {
+          "startTime": 23938,
+          "endTime": 24239,
+          "word": "it"
+        },
+        {
+          "startTime": 24239,
+          "endTime": 24573,
+          "word": "all"
+        },
+        {
+          "startTime": 24573,
+          "endTime": 24855,
+          "word": "night,"
+        },
+        {
+          "startTime": 24855,
+          "endTime": 25141,
+          "word": "all"
+        },
+        {
+          "startTime": 25141,
+          "endTime": 25799,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 26040,
+      "endTime": 28867,
+      "text": "Gonna spend it like no other",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 26049,
+          "endTime": 26376,
+          "word": "Gonna"
+        },
+        {
+          "startTime": 26376,
+          "endTime": 26675,
+          "word": "spend"
+        },
+        {
+          "startTime": 26675,
+          "endTime": 26976,
+          "word": "it"
+        },
+        {
+          "startTime": 26976,
+          "endTime": 27275,
+          "word": "like"
+        },
+        {
+          "startTime": 27275,
+          "endTime": 27592,
+          "word": "no"
+        },
+        {
+          "startTime": 27592,
+          "endTime": 28867,
+          "word": "other"
+        }
+      ]
+    },
+    {
+      "time": 29690,
+      "endTime": 33544,
+      "text": "It was a crush, but I couldn't, couldn't get enough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29699,
+          "endTime": 30058,
+          "word": "It"
+        },
+        {
+          "startTime": 30058,
+          "endTime": 30357,
+          "word": "was"
+        },
+        {
+          "startTime": 30357,
+          "endTime": 30658,
+          "word": "a"
+        },
+        {
+          "startTime": 30658,
+          "endTime": 31131,
+          "word": "crush,"
+        },
+        {
+          "startTime": 31258,
+          "endTime": 31442,
+          "word": "but"
+        },
+        {
+          "startTime": 31442,
+          "endTime": 31757,
+          "word": "I"
+        },
+        {
+          "startTime": 31757,
+          "endTime": 32192,
+          "word": "couldn't,"
+        },
+        {
+          "startTime": 32192,
+          "endTime": 32490,
+          "word": "couldn't"
+        },
+        {
+          "startTime": 32490,
+          "endTime": 32824,
+          "word": "get"
+        },
+        {
+          "startTime": 32824,
+          "endTime": 33544,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 34620,
+      "endTime": 37459,
+      "text": "It was a rush, but I gave it up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34629,
+          "endTime": 34983,
+          "word": "It"
+        },
+        {
+          "startTime": 34983,
+          "endTime": 35282,
+          "word": "was"
+        },
+        {
+          "startTime": 35282,
+          "endTime": 35599,
+          "word": "a"
+        },
+        {
+          "startTime": 35599,
+          "endTime": 36016,
+          "word": "rush,"
+        },
+        {
+          "startTime": 36167,
+          "endTime": 36367,
+          "word": "but"
+        },
+        {
+          "startTime": 36367,
+          "endTime": 36634,
+          "word": "I"
+        },
+        {
+          "startTime": 36634,
+          "endTime": 36951,
+          "word": "gave"
+        },
+        {
+          "startTime": 36951,
+          "endTime": 37100,
+          "word": "it"
+        },
+        {
+          "startTime": 37100,
+          "endTime": 37459,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 39520,
+      "endTime": 43363,
+      "text": "It was a crush, now I might've went and said too much",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 39528,
+          "endTime": 39866,
+          "word": "It"
+        },
+        {
+          "startTime": 39866,
+          "endTime": 40151,
+          "word": "was"
+        },
+        {
+          "startTime": 40151,
+          "endTime": 40466,
+          "word": "a"
+        },
+        {
+          "startTime": 40466,
+          "endTime": 40893,
+          "word": "crush,"
+        },
+        {
+          "startTime": 41066,
+          "endTime": 41250,
+          "word": "now"
+        },
+        {
+          "startTime": 41250,
+          "endTime": 41551,
+          "word": "I"
+        },
+        {
+          "startTime": 41551,
+          "endTime": 41983,
+          "word": "might've"
+        },
+        {
+          "startTime": 41983,
+          "endTime": 42167,
+          "word": "went"
+        },
+        {
+          "startTime": 42167,
+          "endTime": 42333,
+          "word": "and"
+        },
+        {
+          "startTime": 42333,
+          "endTime": 42602,
+          "word": "said"
+        },
+        {
+          "startTime": 42602,
+          "endTime": 42933,
+          "word": "too"
+        },
+        {
+          "startTime": 42933,
+          "endTime": 43363,
+          "word": "much"
+        }
+      ]
+    },
+    {
+      "time": 44240,
+      "endTime": 47300,
+      "text": "But that's all it was, so I gave it up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44242,
+          "endTime": 44444,
+          "word": "But"
+        },
+        {
+          "startTime": 44444,
+          "endTime": 44743,
+          "word": "that's"
+        },
+        {
+          "startTime": 44743,
+          "endTime": 45044,
+          "word": "all"
+        },
+        {
+          "startTime": 45044,
+          "endTime": 45345,
+          "word": "it"
+        },
+        {
+          "startTime": 45345,
+          "endTime": 45765,
+          "word": "was,"
+        },
+        {
+          "startTime": 45945,
+          "endTime": 46161,
+          "word": "so"
+        },
+        {
+          "startTime": 46161,
+          "endTime": 46463,
+          "word": "I"
+        },
+        {
+          "startTime": 46463,
+          "endTime": 46745,
+          "word": "gave"
+        },
+        {
+          "startTime": 46745,
+          "endTime": 46929,
+          "word": "it"
+        },
+        {
+          "startTime": 46929,
+          "endTime": 47300,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 47920,
+      "endTime": 50509,
+      "text": "I live my day as if it was the last",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47921,
+          "endTime": 48123,
+          "word": "I"
+        },
+        {
+          "startTime": 48123,
+          "endTime": 48323,
+          "word": "live"
+        },
+        {
+          "startTime": 48323,
+          "endTime": 48440,
+          "word": "my"
+        },
+        {
+          "startTime": 48440,
+          "endTime": 48907,
+          "word": "day"
+        },
+        {
+          "startTime": 48907,
+          "endTime": 49072,
+          "word": "as"
+        },
+        {
+          "startTime": 49072,
+          "endTime": 49358,
+          "word": "if"
+        },
+        {
+          "startTime": 49358,
+          "endTime": 49558,
+          "word": "it"
+        },
+        {
+          "startTime": 49558,
+          "endTime": 49840,
+          "word": "was"
+        },
+        {
+          "startTime": 49840,
+          "endTime": 50006,
+          "word": "the"
+        },
+        {
+          "startTime": 50006,
+          "endTime": 50509,
+          "word": "last"
+        }
+      ]
+    },
+    {
+      "time": 50500,
+      "endTime": 52806,
+      "text": "Live my day as if there was no past",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50509,
+          "endTime": 50756,
+          "word": "Live"
+        },
+        {
+          "startTime": 50756,
+          "endTime": 50908,
+          "word": "my"
+        },
+        {
+          "startTime": 50908,
+          "endTime": 51175,
+          "word": "day"
+        },
+        {
+          "startTime": 51175,
+          "endTime": 51458,
+          "word": "as"
+        },
+        {
+          "startTime": 51458,
+          "endTime": 51756,
+          "word": "if"
+        },
+        {
+          "startTime": 51756,
+          "endTime": 51956,
+          "word": "there"
+        },
+        {
+          "startTime": 51956,
+          "endTime": 52242,
+          "word": "was"
+        },
+        {
+          "startTime": 52242,
+          "endTime": 52458,
+          "word": "no"
+        },
+        {
+          "startTime": 52458,
+          "endTime": 52806,
+          "word": "past"
+        }
+      ]
+    },
+    {
+      "time": 52980,
+      "endTime": 55154,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 52985,
+          "endTime": 53323,
+          "word": "Doing"
+        },
+        {
+          "startTime": 53323,
+          "endTime": 53606,
+          "word": "it"
+        },
+        {
+          "startTime": 53606,
+          "endTime": 53939,
+          "word": "all"
+        },
+        {
+          "startTime": 53939,
+          "endTime": 54224,
+          "word": "night,"
+        },
+        {
+          "startTime": 54224,
+          "endTime": 54539,
+          "word": "all"
+        },
+        {
+          "startTime": 54539,
+          "endTime": 55154,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 55420,
+      "endTime": 57623,
+      "text": "Doing it the way I wanna",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 55421,
+          "endTime": 55767,
+          "word": "Doing"
+        },
+        {
+          "startTime": 55767,
+          "endTime": 56066,
+          "word": "it"
+        },
+        {
+          "startTime": 56066,
+          "endTime": 56367,
+          "word": "the"
+        },
+        {
+          "startTime": 56367,
+          "endTime": 56666,
+          "word": "way"
+        },
+        {
+          "startTime": 56666,
+          "endTime": 56983,
+          "word": "I"
+        },
+        {
+          "startTime": 56983,
+          "endTime": 57623,
+          "word": "wanna"
+        }
+      ]
+    },
+    {
+      "time": 57740,
+      "endTime": 60344,
+      "text": "Yeah, I'ma dance my heart out till the dawn",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57741,
+          "endTime": 57919,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 57919,
+          "endTime": 58167,
+          "word": "I'ma"
+        },
+        {
+          "startTime": 58167,
+          "endTime": 58684,
+          "word": "dance"
+        },
+        {
+          "startTime": 58684,
+          "endTime": 58850,
+          "word": "my"
+        },
+        {
+          "startTime": 58850,
+          "endTime": 59100,
+          "word": "heart"
+        },
+        {
+          "startTime": 59100,
+          "endTime": 59354,
+          "word": "out"
+        },
+        {
+          "startTime": 59354,
+          "endTime": 59634,
+          "word": "till"
+        },
+        {
+          "startTime": 59634,
+          "endTime": 59802,
+          "word": "the"
+        },
+        {
+          "startTime": 59802,
+          "endTime": 60344,
+          "word": "dawn"
+        }
+      ]
+    },
+    {
+      "time": 60340,
+      "endTime": 62669,
+      "text": "But I won't be done when morning comes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 60344,
+          "endTime": 60589,
+          "word": "But"
+        },
+        {
+          "startTime": 60589,
+          "endTime": 60738,
+          "word": "I"
+        },
+        {
+          "startTime": 60738,
+          "endTime": 61023,
+          "word": "won't"
+        },
+        {
+          "startTime": 61023,
+          "endTime": 61306,
+          "word": "be"
+        },
+        {
+          "startTime": 61306,
+          "endTime": 61589,
+          "word": "done"
+        },
+        {
+          "startTime": 61589,
+          "endTime": 61805,
+          "word": "when"
+        },
+        {
+          "startTime": 61805,
+          "endTime": 62223,
+          "word": "morning"
+        },
+        {
+          "startTime": 62223,
+          "endTime": 62669,
+          "word": "comes"
+        }
+      ]
+    },
+    {
+      "time": 62720,
+      "endTime": 64983,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 62728,
+          "endTime": 63117,
+          "word": "Doing"
+        },
+        {
+          "startTime": 63117,
+          "endTime": 63418,
+          "word": "it"
+        },
+        {
+          "startTime": 63418,
+          "endTime": 63735,
+          "word": "all"
+        },
+        {
+          "startTime": 63735,
+          "endTime": 64018,
+          "word": "night,"
+        },
+        {
+          "startTime": 64018,
+          "endTime": 64334,
+          "word": "all"
+        },
+        {
+          "startTime": 64334,
+          "endTime": 64983,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 65200,
+      "endTime": 67987,
+      "text": "Gonna spend it like no other",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65205,
+          "endTime": 65540,
+          "word": "Gonna"
+        },
+        {
+          "startTime": 65540,
+          "endTime": 65874,
+          "word": "spend"
+        },
+        {
+          "startTime": 65874,
+          "endTime": 66172,
+          "word": "it"
+        },
+        {
+          "startTime": 66172,
+          "endTime": 66474,
+          "word": "like"
+        },
+        {
+          "startTime": 66474,
+          "endTime": 66788,
+          "word": "no"
+        },
+        {
+          "startTime": 66788,
+          "endTime": 67987,
+          "word": "other"
+        }
+      ]
+    },
+    {
+      "time": 68890,
+      "endTime": 72845,
+      "text": "It was a crush, I kept saying I'ma stay in touch",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 68898,
+          "endTime": 69247,
+          "word": "It"
+        },
+        {
+          "startTime": 69247,
+          "endTime": 69548,
+          "word": "was"
+        },
+        {
+          "startTime": 69548,
+          "endTime": 69847,
+          "word": "a"
+        },
+        {
+          "startTime": 69847,
+          "endTime": 70306,
+          "word": "crush,"
+        },
+        {
+          "startTime": 70447,
+          "endTime": 70647,
+          "word": "I"
+        },
+        {
+          "startTime": 70647,
+          "endTime": 70916,
+          "word": "kept"
+        },
+        {
+          "startTime": 70916,
+          "endTime": 71364,
+          "word": "saying"
+        },
+        {
+          "startTime": 71364,
+          "endTime": 71647,
+          "word": "I'ma"
+        },
+        {
+          "startTime": 71647,
+          "endTime": 71983,
+          "word": "stay"
+        },
+        {
+          "startTime": 71983,
+          "endTime": 72297,
+          "word": "in"
+        },
+        {
+          "startTime": 72297,
+          "endTime": 72845,
+          "word": "touch"
+        }
+      ]
+    },
+    {
+      "time": 73660,
+      "endTime": 76565,
+      "text": "But that thing went bust, so I gave it up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 73660,
+          "endTime": 73822,
+          "word": "But"
+        },
+        {
+          "startTime": 73822,
+          "endTime": 74155,
+          "word": "that"
+        },
+        {
+          "startTime": 74155,
+          "endTime": 74454,
+          "word": "thing"
+        },
+        {
+          "startTime": 74454,
+          "endTime": 74771,
+          "word": "went"
+        },
+        {
+          "startTime": 74771,
+          "endTime": 75172,
+          "word": "bust,"
+        },
+        {
+          "startTime": 75323,
+          "endTime": 75539,
+          "word": "so"
+        },
+        {
+          "startTime": 75539,
+          "endTime": 75838,
+          "word": "I"
+        },
+        {
+          "startTime": 75838,
+          "endTime": 76123,
+          "word": "gave"
+        },
+        {
+          "startTime": 76123,
+          "endTime": 76289,
+          "word": "it"
+        },
+        {
+          "startTime": 76289,
+          "endTime": 76565,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 77460,
+      "endTime": 82515,
+      "text": "Ooh, no tricks, no bluff, I'm just better off without them cuffs",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 77468,
+          "endTime": 78460,
+          "word": "Ooh,"
+        },
+        {
+          "startTime": 78683,
+          "endTime": 79051,
+          "word": "no"
+        },
+        {
+          "startTime": 79051,
+          "endTime": 79350,
+          "word": "tricks,"
+        },
+        {
+          "startTime": 79350,
+          "endTime": 79667,
+          "word": "no"
+        },
+        {
+          "startTime": 79667,
+          "endTime": 80060,
+          "word": "bluff,"
+        },
+        {
+          "startTime": 80235,
+          "endTime": 80435,
+          "word": "I'm"
+        },
+        {
+          "startTime": 80435,
+          "endTime": 80734,
+          "word": "just"
+        },
+        {
+          "startTime": 80734,
+          "endTime": 81086,
+          "word": "better"
+        },
+        {
+          "startTime": 81086,
+          "endTime": 81350,
+          "word": "off"
+        },
+        {
+          "startTime": 81350,
+          "endTime": 81753,
+          "word": "without"
+        },
+        {
+          "startTime": 81753,
+          "endTime": 82102,
+          "word": "them"
+        },
+        {
+          "startTime": 82102,
+          "endTime": 82515,
+          "word": "cuffs"
+        }
+      ]
+    },
+    {
+      "time": 82660,
+      "endTime": 88306,
+      "text": "Yeah, the sun won't set on us, ooh, ooh, ooh, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 82661,
+          "endTime": 82898,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 82898,
+          "endTime": 83164,
+          "word": "the"
+        },
+        {
+          "startTime": 83164,
+          "endTime": 83580,
+          "word": "sun"
+        },
+        {
+          "startTime": 83580,
+          "endTime": 83914,
+          "word": "won't"
+        },
+        {
+          "startTime": 83914,
+          "endTime": 84196,
+          "word": "set"
+        },
+        {
+          "startTime": 84196,
+          "endTime": 84545,
+          "word": "on"
+        },
+        {
+          "startTime": 84545,
+          "endTime": 84831,
+          "word": "us,"
+        },
+        {
+          "startTime": 84831,
+          "endTime": 85148,
+          "word": "ooh,"
+        },
+        {
+          "startTime": 85148,
+          "endTime": 85463,
+          "word": "ooh,"
+        },
+        {
+          "startTime": 85463,
+          "endTime": 86447,
+          "word": "ooh,"
+        },
+        {
+          "startTime": 86964,
+          "endTime": 88306,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 88770,
+      "endTime": 91168,
+      "text": "Went low, went high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 88773,
+          "endTime": 89434,
+          "word": "Went"
+        },
+        {
+          "startTime": 89434,
+          "endTime": 90050,
+          "word": "low,"
+        },
+        {
+          "startTime": 90050,
+          "endTime": 90650,
+          "word": "went"
+        },
+        {
+          "startTime": 90650,
+          "endTime": 91168,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 91160,
+      "endTime": 93720,
+      "text": "Still waters run dry",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91168,
+          "endTime": 91885,
+          "word": "Still"
+        },
+        {
+          "startTime": 91885,
+          "endTime": 92466,
+          "word": "waters"
+        },
+        {
+          "startTime": 92466,
+          "endTime": 93101,
+          "word": "run"
+        },
+        {
+          "startTime": 93101,
+          "endTime": 93720,
+          "word": "dry"
+        }
+      ]
+    },
+    {
+      "time": 93960,
+      "endTime": 96195,
+      "text": "Gotta get back in the groove",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93960,
+          "endTime": 94348,
+          "word": "Gotta"
+        },
+        {
+          "startTime": 94348,
+          "endTime": 94631,
+          "word": "get"
+        },
+        {
+          "startTime": 94631,
+          "endTime": 94949,
+          "word": "back"
+        },
+        {
+          "startTime": 94949,
+          "endTime": 95250,
+          "word": "in"
+        },
+        {
+          "startTime": 95250,
+          "endTime": 95466,
+          "word": "the"
+        },
+        {
+          "startTime": 95466,
+          "endTime": 96195,
+          "word": "groove"
+        }
+      ]
+    },
+    {
+      "time": 96600,
+      "endTime": 97976,
+      "text": "I ain't ever worried",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 96600,
+          "endTime": 96919,
+          "word": "I"
+        },
+        {
+          "startTime": 96919,
+          "endTime": 97087,
+          "word": "ain't"
+        },
+        {
+          "startTime": 97087,
+          "endTime": 97402,
+          "word": "ever"
+        },
+        {
+          "startTime": 97402,
+          "endTime": 97976,
+          "word": "worried"
+        }
+      ]
+    },
+    {
+      "time": 98580,
+      "endTime": 101043,
+      "text": "Went low, went high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98582,
+          "endTime": 99223,
+          "word": "Went"
+        },
+        {
+          "startTime": 99223,
+          "endTime": 99840,
+          "word": "low,"
+        },
+        {
+          "startTime": 99840,
+          "endTime": 100443,
+          "word": "went"
+        },
+        {
+          "startTime": 100443,
+          "endTime": 101043,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 101040,
+      "endTime": 103600,
+      "text": "What matters is now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101043,
+          "endTime": 101666,
+          "word": "What"
+        },
+        {
+          "startTime": 101666,
+          "endTime": 102298,
+          "word": "matters"
+        },
+        {
+          "startTime": 102298,
+          "endTime": 102898,
+          "word": "is"
+        },
+        {
+          "startTime": 102898,
+          "endTime": 103600,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 103780,
+      "endTime": 106075,
+      "text": "Getting right back in the mood",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 103783,
+          "endTime": 104149,
+          "word": "Getting"
+        },
+        {
+          "startTime": 104149,
+          "endTime": 104447,
+          "word": "right"
+        },
+        {
+          "startTime": 104447,
+          "endTime": 104749,
+          "word": "back"
+        },
+        {
+          "startTime": 104749,
+          "endTime": 105063,
+          "word": "in"
+        },
+        {
+          "startTime": 105063,
+          "endTime": 105263,
+          "word": "the"
+        },
+        {
+          "startTime": 105263,
+          "endTime": 106075,
+          "word": "mood"
+        }
+      ]
+    },
+    {
+      "time": 106700,
+      "endTime": 109267,
+      "text": "I live my day as if it was the last",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 106709,
+          "endTime": 106890,
+          "word": "I"
+        },
+        {
+          "startTime": 106890,
+          "endTime": 107074,
+          "word": "live"
+        },
+        {
+          "startTime": 107074,
+          "endTime": 107223,
+          "word": "my"
+        },
+        {
+          "startTime": 107223,
+          "endTime": 107674,
+          "word": "day"
+        },
+        {
+          "startTime": 107674,
+          "endTime": 107839,
+          "word": "as"
+        },
+        {
+          "startTime": 107839,
+          "endTime": 108122,
+          "word": "if"
+        },
+        {
+          "startTime": 108122,
+          "endTime": 108289,
+          "word": "it"
+        },
+        {
+          "startTime": 108289,
+          "endTime": 108591,
+          "word": "was"
+        },
+        {
+          "startTime": 108591,
+          "endTime": 108740,
+          "word": "the"
+        },
+        {
+          "startTime": 108740,
+          "endTime": 109267,
+          "word": "last"
+        }
+      ]
+    },
+    {
+      "time": 109260,
+      "endTime": 111558,
+      "text": "Live my day as if there was no past",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 109267,
+          "endTime": 109509,
+          "word": "Live"
+        },
+        {
+          "startTime": 109509,
+          "endTime": 109674,
+          "word": "my"
+        },
+        {
+          "startTime": 109674,
+          "endTime": 109925,
+          "word": "day"
+        },
+        {
+          "startTime": 109925,
+          "endTime": 110226,
+          "word": "as"
+        },
+        {
+          "startTime": 110226,
+          "endTime": 110525,
+          "word": "if"
+        },
+        {
+          "startTime": 110525,
+          "endTime": 110725,
+          "word": "there"
+        },
+        {
+          "startTime": 110725,
+          "endTime": 110991,
+          "word": "was"
+        },
+        {
+          "startTime": 110991,
+          "endTime": 111208,
+          "word": "no"
+        },
+        {
+          "startTime": 111208,
+          "endTime": 111558,
+          "word": "past"
+        }
+      ]
+    },
+    {
+      "time": 111770,
+      "endTime": 113893,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 111776,
+          "endTime": 112106,
+          "word": "Doing"
+        },
+        {
+          "startTime": 112106,
+          "endTime": 112389,
+          "word": "it"
+        },
+        {
+          "startTime": 112389,
+          "endTime": 112706,
+          "word": "all"
+        },
+        {
+          "startTime": 112706,
+          "endTime": 112989,
+          "word": "night,"
+        },
+        {
+          "startTime": 112989,
+          "endTime": 113289,
+          "word": "all"
+        },
+        {
+          "startTime": 113289,
+          "endTime": 113893,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 114170,
+      "endTime": 116443,
+      "text": "Doing it the way I wanna",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 114179,
+          "endTime": 114544,
+          "word": "Doing"
+        },
+        {
+          "startTime": 114544,
+          "endTime": 114826,
+          "word": "it"
+        },
+        {
+          "startTime": 114826,
+          "endTime": 115144,
+          "word": "the"
+        },
+        {
+          "startTime": 115144,
+          "endTime": 115461,
+          "word": "way"
+        },
+        {
+          "startTime": 115461,
+          "endTime": 115777,
+          "word": "I"
+        },
+        {
+          "startTime": 115777,
+          "endTime": 116443,
+          "word": "wanna"
+        }
+      ]
+    },
+    {
+      "time": 116520,
+      "endTime": 119097,
+      "text": "Yeah, I'ma dance my heart out till the dawn",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116529,
+          "endTime": 116686,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 116686,
+          "endTime": 116984,
+          "word": "I'ma"
+        },
+        {
+          "startTime": 116984,
+          "endTime": 117419,
+          "word": "dance"
+        },
+        {
+          "startTime": 117419,
+          "endTime": 117619,
+          "word": "my"
+        },
+        {
+          "startTime": 117619,
+          "endTime": 117902,
+          "word": "heart"
+        },
+        {
+          "startTime": 117902,
+          "endTime": 118134,
+          "word": "out"
+        },
+        {
+          "startTime": 118134,
+          "endTime": 118384,
+          "word": "till"
+        },
+        {
+          "startTime": 118384,
+          "endTime": 118551,
+          "word": "the"
+        },
+        {
+          "startTime": 118551,
+          "endTime": 119097,
+          "word": "dawn"
+        }
+      ]
+    },
+    {
+      "time": 119090,
+      "endTime": 121395,
+      "text": "But I won't be done when morning comes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 119097,
+          "endTime": 119312,
+          "word": "But"
+        },
+        {
+          "startTime": 119312,
+          "endTime": 119464,
+          "word": "I"
+        },
+        {
+          "startTime": 119464,
+          "endTime": 119763,
+          "word": "won't"
+        },
+        {
+          "startTime": 119763,
+          "endTime": 120046,
+          "word": "be"
+        },
+        {
+          "startTime": 120046,
+          "endTime": 120331,
+          "word": "done"
+        },
+        {
+          "startTime": 120331,
+          "endTime": 120544,
+          "word": "when"
+        },
+        {
+          "startTime": 120544,
+          "endTime": 120979,
+          "word": "morning"
+        },
+        {
+          "startTime": 120979,
+          "endTime": 121395,
+          "word": "comes"
+        }
+      ]
+    },
+    {
+      "time": 121560,
+      "endTime": 123747,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 121569,
+          "endTime": 121918,
+          "word": "Doing"
+        },
+        {
+          "startTime": 121918,
+          "endTime": 122200,
+          "word": "it"
+        },
+        {
+          "startTime": 122200,
+          "endTime": 122518,
+          "word": "all"
+        },
+        {
+          "startTime": 122518,
+          "endTime": 122800,
+          "word": "night,"
+        },
+        {
+          "startTime": 122800,
+          "endTime": 123102,
+          "word": "all"
+        },
+        {
+          "startTime": 123102,
+          "endTime": 123747,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 123990,
+      "endTime": 126774,
+      "text": "Gonna spend it like no other",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123998,
+          "endTime": 124331,
+          "word": "Gonna"
+        },
+        {
+          "startTime": 124331,
+          "endTime": 124629,
+          "word": "spend"
+        },
+        {
+          "startTime": 124629,
+          "endTime": 124931,
+          "word": "it"
+        },
+        {
+          "startTime": 124931,
+          "endTime": 125229,
+          "word": "like"
+        },
+        {
+          "startTime": 125229,
+          "endTime": 125547,
+          "word": "no"
+        },
+        {
+          "startTime": 125547,
+          "endTime": 126774,
+          "word": "other"
+        }
+      ]
+    },
+    {
+      "time": 127360,
+      "endTime": 129668,
+      "text": "Now I've found another crush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127368,
+          "endTime": 127714,
+          "word": "Now"
+        },
+        {
+          "startTime": 127714,
+          "endTime": 128014,
+          "word": "I've"
+        },
+        {
+          "startTime": 128014,
+          "endTime": 128314,
+          "word": "found"
+        },
+        {
+          "startTime": 128314,
+          "endTime": 129098,
+          "word": "another"
+        },
+        {
+          "startTime": 129098,
+          "endTime": 129668,
+          "word": "crush"
+        }
+      ]
+    },
+    {
+      "time": 129660,
+      "endTime": 132090,
+      "text": "The lush life's giving me a rush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 129668,
+          "endTime": 129883,
+          "word": "The"
+        },
+        {
+          "startTime": 129883,
+          "endTime": 130166,
+          "word": "lush"
+        },
+        {
+          "startTime": 130166,
+          "endTime": 130451,
+          "word": "life's"
+        },
+        {
+          "startTime": 130451,
+          "endTime": 131067,
+          "word": "giving"
+        },
+        {
+          "startTime": 131067,
+          "endTime": 131385,
+          "word": "me"
+        },
+        {
+          "startTime": 131385,
+          "endTime": 131601,
+          "word": "a"
+        },
+        {
+          "startTime": 131601,
+          "endTime": 132090,
+          "word": "rush"
+        }
+      ]
+    },
+    {
+      "time": 132260,
+      "endTime": 134424,
+      "text": "Had one chance to make me blush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 132264,
+          "endTime": 132597,
+          "word": "Had"
+        },
+        {
+          "startTime": 132597,
+          "endTime": 132898,
+          "word": "one"
+        },
+        {
+          "startTime": 132898,
+          "endTime": 133213,
+          "word": "chance"
+        },
+        {
+          "startTime": 133213,
+          "endTime": 133546,
+          "word": "to"
+        },
+        {
+          "startTime": 133546,
+          "endTime": 133831,
+          "word": "make"
+        },
+        {
+          "startTime": 133831,
+          "endTime": 134031,
+          "word": "me"
+        },
+        {
+          "startTime": 134031,
+          "endTime": 134424,
+          "word": "blush"
+        }
+      ]
+    },
+    {
+      "time": 134640,
+      "endTime": 136160,
+      "text": "Second time is one too late",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 134648,
+          "endTime": 134994,
+          "word": "Second"
+        },
+        {
+          "startTime": 134994,
+          "endTime": 135245,
+          "word": "time"
+        },
+        {
+          "startTime": 135245,
+          "endTime": 135394,
+          "word": "is"
+        },
+        {
+          "startTime": 135394,
+          "endTime": 135677,
+          "word": "one"
+        },
+        {
+          "startTime": 135677,
+          "endTime": 135845,
+          "word": "too"
+        },
+        {
+          "startTime": 135845,
+          "endTime": 136160,
+          "word": "late"
+        }
+      ]
+    },
+    {
+      "time": 137160,
+      "endTime": 139383,
+      "text": "Now I've found another crush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137163,
+          "endTime": 137493,
+          "word": "Now"
+        },
+        {
+          "startTime": 137493,
+          "endTime": 137794,
+          "word": "I've"
+        },
+        {
+          "startTime": 137794,
+          "endTime": 138112,
+          "word": "found"
+        },
+        {
+          "startTime": 138112,
+          "endTime": 138861,
+          "word": "another"
+        },
+        {
+          "startTime": 138861,
+          "endTime": 139383,
+          "word": "crush"
+        }
+      ]
+    },
+    {
+      "time": 139480,
+      "endTime": 141916,
+      "text": "The lush life's giving me a rush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139482,
+          "endTime": 139681,
+          "word": "The"
+        },
+        {
+          "startTime": 139681,
+          "endTime": 139964,
+          "word": "lush"
+        },
+        {
+          "startTime": 139964,
+          "endTime": 140249,
+          "word": "life's"
+        },
+        {
+          "startTime": 140249,
+          "endTime": 140847,
+          "word": "giving"
+        },
+        {
+          "startTime": 140847,
+          "endTime": 141180,
+          "word": "me"
+        },
+        {
+          "startTime": 141180,
+          "endTime": 141399,
+          "word": "a"
+        },
+        {
+          "startTime": 141399,
+          "endTime": 141916,
+          "word": "rush"
+        }
+      ]
+    },
+    {
+      "time": 142070,
+      "endTime": 144236,
+      "text": "Had one chance to make me blush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142079,
+          "endTime": 142391,
+          "word": "Had"
+        },
+        {
+          "startTime": 142391,
+          "endTime": 142706,
+          "word": "one"
+        },
+        {
+          "startTime": 142706,
+          "endTime": 143007,
+          "word": "chance"
+        },
+        {
+          "startTime": 143007,
+          "endTime": 143306,
+          "word": "to"
+        },
+        {
+          "startTime": 143306,
+          "endTime": 143591,
+          "word": "make"
+        },
+        {
+          "startTime": 143591,
+          "endTime": 143791,
+          "word": "me"
+        },
+        {
+          "startTime": 143791,
+          "endTime": 144236,
+          "word": "blush"
+        }
+      ]
+    },
+    {
+      "time": 144480,
+      "endTime": 146044,
+      "text": "Second time is one too late",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144484,
+          "endTime": 144825,
+          "word": "Second"
+        },
+        {
+          "startTime": 144825,
+          "endTime": 145027,
+          "word": "time"
+        },
+        {
+          "startTime": 145027,
+          "endTime": 145193,
+          "word": "is"
+        },
+        {
+          "startTime": 145193,
+          "endTime": 145459,
+          "word": "one"
+        },
+        {
+          "startTime": 145459,
+          "endTime": 145643,
+          "word": "too"
+        },
+        {
+          "startTime": 145643,
+          "endTime": 146044,
+          "word": "late"
+        }
+      ]
+    },
+    {
+      "time": 146280,
+      "endTime": 152564,
+      "text": "Ooh, ooh, ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146283,
+          "endTime": 147952,
+          "word": "Ooh,"
+        },
+        {
+          "startTime": 148768,
+          "endTime": 151253,
+          "word": "ooh,"
+        },
+        {
+          "startTime": 151253,
+          "endTime": 152564,
+          "word": "ooh"
+        }
+      ]
+    },
+    {
+      "time": 153660,
+      "endTime": 156178,
+      "text": "Ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153668,
+          "endTime": 156178,
+          "word": "Ooh"
+        }
+      ]
+    },
+    {
+      "time": 155660,
+      "endTime": 158248,
+      "text": "I live my day as if it was the last",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 155664,
+          "endTime": 155850,
+          "word": "I"
+        },
+        {
+          "startTime": 155850,
+          "endTime": 156034,
+          "word": "live"
+        },
+        {
+          "startTime": 156034,
+          "endTime": 156183,
+          "word": "my"
+        },
+        {
+          "startTime": 156183,
+          "endTime": 156618,
+          "word": "day"
+        },
+        {
+          "startTime": 156618,
+          "endTime": 156799,
+          "word": "as"
+        },
+        {
+          "startTime": 156799,
+          "endTime": 157085,
+          "word": "if"
+        },
+        {
+          "startTime": 157085,
+          "endTime": 157269,
+          "word": "it"
+        },
+        {
+          "startTime": 157269,
+          "endTime": 157549,
+          "word": "was"
+        },
+        {
+          "startTime": 157549,
+          "endTime": 157735,
+          "word": "the"
+        },
+        {
+          "startTime": 157735,
+          "endTime": 158248,
+          "word": "last"
+        }
+      ]
+    },
+    {
+      "time": 158240,
+      "endTime": 160542,
+      "text": "Live my day as if there was no past",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 158248,
+          "endTime": 158450,
+          "word": "Live"
+        },
+        {
+          "startTime": 158450,
+          "endTime": 158631,
+          "word": "my"
+        },
+        {
+          "startTime": 158631,
+          "endTime": 158898,
+          "word": "day"
+        },
+        {
+          "startTime": 158898,
+          "endTime": 159215,
+          "word": "as"
+        },
+        {
+          "startTime": 159215,
+          "endTime": 159498,
+          "word": "if"
+        },
+        {
+          "startTime": 159498,
+          "endTime": 159714,
+          "word": "there"
+        },
+        {
+          "startTime": 159714,
+          "endTime": 159983,
+          "word": "was"
+        },
+        {
+          "startTime": 159983,
+          "endTime": 160180,
+          "word": "no"
+        },
+        {
+          "startTime": 160180,
+          "endTime": 160542,
+          "word": "past"
+        }
+      ]
+    },
+    {
+      "time": 160740,
+      "endTime": 162912,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 160744,
+          "endTime": 161074,
+          "word": "Doing"
+        },
+        {
+          "startTime": 161074,
+          "endTime": 161359,
+          "word": "it"
+        },
+        {
+          "startTime": 161359,
+          "endTime": 161674,
+          "word": "all"
+        },
+        {
+          "startTime": 161674,
+          "endTime": 161959,
+          "word": "night,"
+        },
+        {
+          "startTime": 161959,
+          "endTime": 162258,
+          "word": "all"
+        },
+        {
+          "startTime": 162258,
+          "endTime": 162912,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 163190,
+      "endTime": 165395,
+      "text": "Doing it the way I wanna",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 163194,
+          "endTime": 163524,
+          "word": "Doing"
+        },
+        {
+          "startTime": 163524,
+          "endTime": 163807,
+          "word": "it"
+        },
+        {
+          "startTime": 163807,
+          "endTime": 164108,
+          "word": "the"
+        },
+        {
+          "startTime": 164108,
+          "endTime": 164423,
+          "word": "way"
+        },
+        {
+          "startTime": 164423,
+          "endTime": 164756,
+          "word": "I"
+        },
+        {
+          "startTime": 164756,
+          "endTime": 165395,
+          "word": "wanna"
+        }
+      ]
+    },
+    {
+      "time": 165460,
+      "endTime": 168062,
+      "text": "Yeah, I'ma dance my heart out till the dawn",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165465,
+          "endTime": 165683,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 165683,
+          "endTime": 165915,
+          "word": "I'ma"
+        },
+        {
+          "startTime": 165915,
+          "endTime": 166414,
+          "word": "dance"
+        },
+        {
+          "startTime": 166414,
+          "endTime": 166598,
+          "word": "my"
+        },
+        {
+          "startTime": 166598,
+          "endTime": 166883,
+          "word": "heart"
+        },
+        {
+          "startTime": 166883,
+          "endTime": 167115,
+          "word": "out"
+        },
+        {
+          "startTime": 167115,
+          "endTime": 167382,
+          "word": "till"
+        },
+        {
+          "startTime": 167382,
+          "endTime": 167550,
+          "word": "the"
+        },
+        {
+          "startTime": 167550,
+          "endTime": 168062,
+          "word": "dawn"
+        }
+      ]
+    },
+    {
+      "time": 168060,
+      "endTime": 170305,
+      "text": "But I won't be done when morning comes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 168062,
+          "endTime": 168293,
+          "word": "But"
+        },
+        {
+          "startTime": 168293,
+          "endTime": 168459,
+          "word": "I"
+        },
+        {
+          "startTime": 168459,
+          "endTime": 168741,
+          "word": "won't"
+        },
+        {
+          "startTime": 168741,
+          "endTime": 169043,
+          "word": "be"
+        },
+        {
+          "startTime": 169043,
+          "endTime": 169325,
+          "word": "done"
+        },
+        {
+          "startTime": 169325,
+          "endTime": 169509,
+          "word": "when"
+        },
+        {
+          "startTime": 169509,
+          "endTime": 169960,
+          "word": "morning"
+        },
+        {
+          "startTime": 169960,
+          "endTime": 170305,
+          "word": "comes"
+        }
+      ]
+    },
+    {
+      "time": 170540,
+      "endTime": 172722,
+      "text": "Doing it all night, all summer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170543,
+          "endTime": 170858,
+          "word": "Doing"
+        },
+        {
+          "startTime": 170858,
+          "endTime": 171143,
+          "word": "it"
+        },
+        {
+          "startTime": 171143,
+          "endTime": 171458,
+          "word": "all"
+        },
+        {
+          "startTime": 171458,
+          "endTime": 171759,
+          "word": "night,"
+        },
+        {
+          "startTime": 171759,
+          "endTime": 172058,
+          "word": "all"
+        },
+        {
+          "startTime": 172058,
+          "endTime": 172722,
+          "word": "summer"
+        }
+      ]
+    },
+    {
+      "time": 172940,
+      "endTime": 176031,
+      "text": "Gonna spend it like no other",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 172948,
+          "endTime": 173334,
+          "word": "Gonna"
+        },
+        {
+          "startTime": 173334,
+          "endTime": 173651,
+          "word": "spend"
+        },
+        {
+          "startTime": 173651,
+          "endTime": 173934,
+          "word": "it"
+        },
+        {
+          "startTime": 173934,
+          "endTime": 174235,
+          "word": "like"
+        },
+        {
+          "startTime": 174235,
+          "endTime": 174566,
+          "word": "no"
+        },
+        {
+          "startTime": 174566,
+          "endTime": 176031,
+          "word": "other"
+        }
+      ]
+    },
+    {
+      "time": 176320,
+      "endTime": 178626,
+      "text": "Now I've found another crush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 176329,
+          "endTime": 176708,
+          "word": "Now"
+        },
+        {
+          "startTime": 176708,
+          "endTime": 176991,
+          "word": "I've"
+        },
+        {
+          "startTime": 176991,
+          "endTime": 177308,
+          "word": "found"
+        },
+        {
+          "startTime": 177308,
+          "endTime": 178041,
+          "word": "another"
+        },
+        {
+          "startTime": 178041,
+          "endTime": 178626,
+          "word": "crush"
+        }
+      ]
+    },
+    {
+      "time": 178620,
+      "endTime": 180983,
+      "text": "The lush life's giving me a rush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 178626,
+          "endTime": 178839,
+          "word": "The"
+        },
+        {
+          "startTime": 178839,
+          "endTime": 179108,
+          "word": "lush"
+        },
+        {
+          "startTime": 179108,
+          "endTime": 179439,
+          "word": "life's"
+        },
+        {
+          "startTime": 179439,
+          "endTime": 180039,
+          "word": "giving"
+        },
+        {
+          "startTime": 180039,
+          "endTime": 180343,
+          "word": "me"
+        },
+        {
+          "startTime": 180343,
+          "endTime": 180524,
+          "word": "a"
+        },
+        {
+          "startTime": 180524,
+          "endTime": 180983,
+          "word": "rush"
+        }
+      ]
+    },
+    {
+      "time": 181200,
+      "endTime": 183402,
+      "text": "Had one chance to make me blush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181208,
+          "endTime": 181583,
+          "word": "Had"
+        },
+        {
+          "startTime": 181583,
+          "endTime": 181882,
+          "word": "one"
+        },
+        {
+          "startTime": 181882,
+          "endTime": 182199,
+          "word": "chance"
+        },
+        {
+          "startTime": 182199,
+          "endTime": 182498,
+          "word": "to"
+        },
+        {
+          "startTime": 182498,
+          "endTime": 182815,
+          "word": "make"
+        },
+        {
+          "startTime": 182815,
+          "endTime": 182999,
+          "word": "me"
+        },
+        {
+          "startTime": 182999,
+          "endTime": 183402,
+          "word": "blush"
+        }
+      ]
+    },
+    {
+      "time": 183620,
+      "endTime": 185202,
+      "text": "Second time is one too late",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 183628,
+          "endTime": 183979,
+          "word": "Second"
+        },
+        {
+          "startTime": 183979,
+          "endTime": 184211,
+          "word": "time"
+        },
+        {
+          "startTime": 184211,
+          "endTime": 184379,
+          "word": "is"
+        },
+        {
+          "startTime": 184379,
+          "endTime": 184646,
+          "word": "one"
+        },
+        {
+          "startTime": 184646,
+          "endTime": 184830,
+          "word": "too"
+        },
+        {
+          "startTime": 184830,
+          "endTime": 185202,
+          "word": "late"
+        }
+      ]
+    },
+    {
+      "time": 186120,
+      "endTime": 188407,
+      "text": "Now I've found another crush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 186124,
+          "endTime": 186489,
+          "word": "Now"
+        },
+        {
+          "startTime": 186489,
+          "endTime": 186771,
+          "word": "I've"
+        },
+        {
+          "startTime": 186771,
+          "endTime": 187105,
+          "word": "found"
+        },
+        {
+          "startTime": 187105,
+          "endTime": 187870,
+          "word": "another"
+        },
+        {
+          "startTime": 187870,
+          "endTime": 188407,
+          "word": "crush"
+        }
+      ]
+    },
+    {
+      "time": 188400,
+      "endTime": 190751,
+      "text": "The lush life's giving me a rush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 188407,
+          "endTime": 188630,
+          "word": "The"
+        },
+        {
+          "startTime": 188630,
+          "endTime": 188913,
+          "word": "lush"
+        },
+        {
+          "startTime": 188913,
+          "endTime": 189212,
+          "word": "life's"
+        },
+        {
+          "startTime": 189212,
+          "endTime": 189846,
+          "word": "giving"
+        },
+        {
+          "startTime": 189846,
+          "endTime": 190129,
+          "word": "me"
+        },
+        {
+          "startTime": 190129,
+          "endTime": 190313,
+          "word": "a"
+        },
+        {
+          "startTime": 190313,
+          "endTime": 190751,
+          "word": "rush"
+        }
+      ]
+    },
+    {
+      "time": 191020,
+      "endTime": 193169,
+      "text": "Had one chance to make me blush",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 191023,
+          "endTime": 191385,
+          "word": "Had"
+        },
+        {
+          "startTime": 191385,
+          "endTime": 191684,
+          "word": "one"
+        },
+        {
+          "startTime": 191684,
+          "endTime": 191985,
+          "word": "chance"
+        },
+        {
+          "startTime": 191985,
+          "endTime": 192300,
+          "word": "to"
+        },
+        {
+          "startTime": 192300,
+          "endTime": 192585,
+          "word": "make"
+        },
+        {
+          "startTime": 192585,
+          "endTime": 192801,
+          "word": "me"
+        },
+        {
+          "startTime": 192801,
+          "endTime": 193169,
+          "word": "blush"
+        }
+      ]
+    },
+    {
+      "time": 193390,
+      "endTime": 194900,
+      "text": "Second time is one too late",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 193393,
+          "endTime": 193784,
+          "word": "Second"
+        },
+        {
+          "startTime": 193784,
+          "endTime": 194019,
+          "word": "time"
+        },
+        {
+          "startTime": 194019,
+          "endTime": 194184,
+          "word": "is"
+        },
+        {
+          "startTime": 194184,
+          "endTime": 194435,
+          "word": "one"
+        },
+        {
+          "startTime": 194435,
+          "endTime": 194619,
+          "word": "too"
+        },
+        {
+          "startTime": 194619,
+          "endTime": 194900,
+          "word": "late"
+        }
+      ]
+    }
+  ]
+}
