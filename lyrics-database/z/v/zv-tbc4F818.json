@@ -1,0 +1,1132 @@
+{
+  "videoId": "zv-tbc4F818",
+  "title": "Zara Sa (From \"Jannat\")",
+  "artist": "Pritam, KK, Sayeed Quadri",
+  "duration": 304,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:36.840\" end=\"00:42.720\">\n        <span begin=\"00:36.840\" end=\"00:38.100\">Zara <\/span>\n        <span begin=\"00:38.100\" end=\"00:38.730\">si <\/span>\n        <span begin=\"00:38.730\" end=\"00:39.412\">dil <\/span>\n        <span begin=\"00:39.412\" end=\"00:40.147\">mein <\/span>\n        <span begin=\"00:40.147\" end=\"00:40.777\">de <\/span>\n        <span begin=\"00:40.777\" end=\"00:42.089\">jagah <\/span>\n        <span begin=\"00:42.089\" end=\"00:42.720\">tu<\/span>\n      <\/p>\n      <p begin=\"00:42.720\" end=\"00:48.560\">\n        <span begin=\"00:42.720\" end=\"00:44.180\">Zara <\/span>\n        <span begin=\"00:44.180\" end=\"00:44.910\">sa <\/span>\n        <span begin=\"00:44.910\" end=\"00:46.370\">apna <\/span>\n        <span begin=\"00:46.370\" end=\"00:47.100\">le <\/span>\n        <span begin=\"00:47.100\" end=\"00:48.560\">bana<\/span>\n      <\/p>\n      <p begin=\"00:48.560\" end=\"00:54.390\">\n        <span begin=\"00:48.560\" end=\"00:49.798\">Zara <\/span>\n        <span begin=\"00:49.798\" end=\"00:50.417\">sa <\/span>\n        <span begin=\"00:50.417\" end=\"00:51.810\">khwabon <\/span>\n        <span begin=\"00:51.810\" end=\"00:52.532\">mein <\/span>\n        <span begin=\"00:52.532\" end=\"00:53.770\">saja <\/span>\n        <span begin=\"00:53.770\" end=\"00:54.390\">tu<\/span>\n      <\/p>\n      <p begin=\"00:54.390\" end=\"00:58.940\">\n        <span begin=\"00:54.390\" end=\"00:55.482\">Zara <\/span>\n        <span begin=\"00:55.482\" end=\"00:56.028\">sa <\/span>\n        <span begin=\"00:56.028\" end=\"00:57.211\">yaadon <\/span>\n        <span begin=\"00:57.211\" end=\"00:57.848\">mein <\/span>\n        <span begin=\"00:57.848\" end=\"00:58.940\">basa<\/span>\n      <\/p>\n      <p begin=\"00:58.940\" end=\"01:04.650\">\n        <span begin=\"00:58.940\" end=\"00:59.502\">Mein <\/span>\n        <span begin=\"00:59.502\" end=\"01:00.547\">chahun <\/span>\n        <span begin=\"01:00.547\" end=\"01:01.592\">tujhko <\/span>\n        <span begin=\"01:01.592\" end=\"01:02.557\">meri <\/span>\n        <span begin=\"01:02.557\" end=\"01:03.119\">jaan <\/span>\n        <span begin=\"01:03.119\" end=\"01:04.650\">bepanaah<\/span>\n      <\/p>\n      <p begin=\"01:04.650\" end=\"01:10.480\">\n        <span begin=\"01:04.650\" end=\"01:05.734\">Fida <\/span>\n        <span begin=\"01:05.734\" end=\"01:06.366\">hoon <\/span>\n        <span begin=\"01:06.366\" end=\"01:07.089\">tujhpe <\/span>\n        <span begin=\"01:07.089\" end=\"01:08.173\">meri <\/span>\n        <span begin=\"01:08.173\" end=\"01:08.805\">jaan <\/span>\n        <span begin=\"01:08.805\" end=\"01:10.480\">bepanah<\/span>\n      <\/p>\n      <p begin=\"01:10.480\" end=\"01:35.400\">\n        <span begin=\"01:10.480\" end=\"01:16.710\">Woo <\/span>\n        <span begin=\"01:16.710\" end=\"01:22.940\">woo <\/span>\n        <span begin=\"01:22.940\" end=\"01:29.170\">woo <\/span>\n        <span begin=\"01:29.170\" end=\"01:35.400\">woo<\/span>\n      <\/p>\n      <p begin=\"01:35.400\" end=\"01:41.270\">\n        <span begin=\"01:35.400\" end=\"01:36.657\">Zara <\/span>\n        <span begin=\"01:36.657\" end=\"01:37.285\">si <\/span>\n        <span begin=\"01:37.285\" end=\"01:37.966\">dil <\/span>\n        <span begin=\"01:37.966\" end=\"01:38.699\">mein <\/span>\n        <span begin=\"01:38.699\" end=\"01:39.327\">de <\/span>\n        <span begin=\"01:39.327\" end=\"01:40.637\">jagah <\/span>\n        <span begin=\"01:40.637\" end=\"01:41.270\">tu<\/span>\n      <\/p>\n      <p begin=\"01:41.270\" end=\"01:47.120\">\n        <span begin=\"01:41.270\" end=\"01:42.732\">Zara <\/span>\n        <span begin=\"01:42.732\" end=\"01:43.463\">sa <\/span>\n        <span begin=\"01:43.463\" end=\"01:44.925\">apna <\/span>\n        <span begin=\"01:44.925\" end=\"01:45.656\">le <\/span>\n        <span begin=\"01:45.656\" end=\"01:47.120\">bana<\/span>\n      <\/p>\n      <p begin=\"01:47.120\" end=\"01:52.930\">\n        <span begin=\"01:47.120\" end=\"01:48.353\">Zara <\/span>\n        <span begin=\"01:48.353\" end=\"01:48.969\">sa <\/span>\n        <span begin=\"01:48.969\" end=\"01:50.357\">khwabon <\/span>\n        <span begin=\"01:50.357\" end=\"01:51.076\">mein <\/span>\n        <span begin=\"01:51.076\" end=\"01:52.309\">saja <\/span>\n        <span begin=\"01:52.309\" end=\"01:52.930\">tu<\/span>\n      <\/p>\n      <p begin=\"01:52.930\" end=\"02:15.780\">\n        <span begin=\"01:52.930\" end=\"01:58.414\">Zara <\/span>\n        <span begin=\"01:58.414\" end=\"02:01.156\">sa <\/span>\n        <span begin=\"02:01.156\" end=\"02:07.097\">yaadon <\/span>\n        <span begin=\"02:07.097\" end=\"02:10.296\">mein <\/span>\n        <span begin=\"02:10.296\" end=\"02:15.780\">basa<\/span>\n      <\/p>\n      <p begin=\"02:15.780\" end=\"02:17.590\">\n        <span begin=\"02:15.780\" end=\"02:16.232\">Main <\/span>\n        <span begin=\"02:16.232\" end=\"02:16.684\">tere <\/span>\n        <span begin=\"02:16.684\" end=\"02:17.136\">main <\/span>\n        <span begin=\"02:17.136\" end=\"02:17.590\">tere<\/span>\n      <\/p>\n      <p begin=\"02:17.590\" end=\"02:21.150\">\n        <span begin=\"02:17.590\" end=\"02:18.445\">Kadmo <\/span>\n        <span begin=\"02:18.445\" end=\"02:18.924\">mein <\/span>\n        <span begin=\"02:18.924\" end=\"02:19.403\">rakh <\/span>\n        <span begin=\"02:19.403\" end=\"02:19.813\">du <\/span>\n        <span begin=\"02:19.813\" end=\"02:20.258\">yeh <\/span>\n        <span begin=\"02:20.258\" end=\"02:21.150\">jahaan<\/span>\n      <\/p>\n      <p begin=\"02:21.150\" end=\"02:24.150\">\n        <span begin=\"02:21.150\" end=\"02:22.097\">Mera <\/span>\n        <span begin=\"02:22.097\" end=\"02:22.649\">ishq <\/span>\n        <span begin=\"02:22.649\" end=\"02:24.150\">deewangi<\/span>\n      <\/p>\n      <p begin=\"02:24.150\" end=\"02:27.270\">\n        <span begin=\"02:24.150\" end=\"02:27.270\">Woo<\/span>\n      <\/p>\n      <p begin=\"02:27.270\" end=\"02:32.920\">\n        <span begin=\"02:27.270\" end=\"02:27.720\">Hai <\/span>\n        <span begin=\"02:27.720\" end=\"02:28.551\">nahi <\/span>\n        <span begin=\"02:28.551\" end=\"02:29.001\">hai <\/span>\n        <span begin=\"02:29.001\" end=\"02:29.832\">nahi <\/span>\n        <span begin=\"02:29.832\" end=\"02:30.733\">aashiq <\/span>\n        <span begin=\"02:30.733\" end=\"02:31.183\">koi <\/span>\n        <span begin=\"02:31.183\" end=\"02:32.084\">mujhsa <\/span>\n        <span begin=\"02:32.084\" end=\"02:32.920\">tera<\/span>\n      <\/p>\n      <p begin=\"02:32.920\" end=\"02:38.320\">\n        <span begin=\"02:32.920\" end=\"02:33.761\">Tu <\/span>\n        <span begin=\"02:33.761\" end=\"02:34.742\">mere <\/span>\n        <span begin=\"02:34.742\" end=\"02:35.723\">liye <\/span>\n        <span begin=\"02:35.723\" end=\"02:38.320\">bandagi<\/span>\n      <\/p>\n      <p begin=\"02:38.320\" end=\"02:44.170\">\n        <span begin=\"02:38.320\" end=\"02:38.896\">Mein <\/span>\n        <span begin=\"02:38.896\" end=\"02:39.967\">chahun <\/span>\n        <span begin=\"02:39.967\" end=\"02:41.038\">tujhko <\/span>\n        <span begin=\"02:41.038\" end=\"02:42.026\">meri <\/span>\n        <span begin=\"02:42.026\" end=\"02:42.602\">jaan <\/span>\n        <span begin=\"02:42.602\" end=\"02:44.170\">bepanaah<\/span>\n      <\/p>\n      <p begin=\"02:44.170\" end=\"02:50.050\">\n        <span begin=\"02:44.170\" end=\"02:45.263\">Fida <\/span>\n        <span begin=\"02:45.263\" end=\"02:45.901\">hoon <\/span>\n        <span begin=\"02:45.901\" end=\"02:46.630\">tujhpe <\/span>\n        <span begin=\"02:46.630\" end=\"02:47.723\">meri <\/span>\n        <span begin=\"02:47.723\" end=\"02:48.361\">jaan <\/span>\n        <span begin=\"02:48.361\" end=\"02:50.050\">bepanah<\/span>\n      <\/p>\n      <p begin=\"02:50.050\" end=\"03:14.910\">\n        <span begin=\"02:50.050\" end=\"02:56.265\">Woo <\/span>\n        <span begin=\"02:56.265\" end=\"03:02.480\">woo <\/span>\n        <span begin=\"03:02.480\" end=\"03:08.695\">woo <\/span>\n        <span begin=\"03:08.695\" end=\"03:14.910\">woo<\/span>\n      <\/p>\n      <p begin=\"03:14.910\" end=\"03:20.740\">\n        <span begin=\"03:14.910\" end=\"03:16.159\">Zara <\/span>\n        <span begin=\"03:16.159\" end=\"03:16.783\">si <\/span>\n        <span begin=\"03:16.783\" end=\"03:17.459\">dil <\/span>\n        <span begin=\"03:17.459\" end=\"03:18.187\">mein <\/span>\n        <span begin=\"03:18.187\" end=\"03:18.811\">de <\/span>\n        <span begin=\"03:18.811\" end=\"03:20.112\">jagah <\/span>\n        <span begin=\"03:20.112\" end=\"03:20.740\">tu<\/span>\n      <\/p>\n      <p begin=\"03:20.740\" end=\"03:26.630\">\n        <span begin=\"03:20.740\" end=\"03:22.212\">Zara <\/span>\n        <span begin=\"03:22.212\" end=\"03:22.948\">sa <\/span>\n        <span begin=\"03:22.948\" end=\"03:24.420\">apna <\/span>\n        <span begin=\"03:24.420\" end=\"03:25.156\">le <\/span>\n        <span begin=\"03:25.156\" end=\"03:26.630\">bana<\/span>\n      <\/p>\n      <p begin=\"03:26.630\" end=\"03:32.440\">\n        <span begin=\"03:26.630\" end=\"03:27.863\">Zara <\/span>\n        <span begin=\"03:27.863\" end=\"03:28.479\">sa <\/span>\n        <span begin=\"03:28.479\" end=\"03:29.867\">khwabon <\/span>\n        <span begin=\"03:29.867\" end=\"03:30.586\">mein <\/span>\n        <span begin=\"03:30.586\" end=\"03:31.819\">saja <\/span>\n        <span begin=\"03:31.819\" end=\"03:32.440\">tu<\/span>\n      <\/p>\n      <p begin=\"03:32.440\" end=\"03:37.590\">\n        <span begin=\"03:32.440\" end=\"03:33.676\">Zara <\/span>\n        <span begin=\"03:33.676\" end=\"03:34.294\">sa <\/span>\n        <span begin=\"03:34.294\" end=\"03:35.633\">yaadon <\/span>\n        <span begin=\"03:35.633\" end=\"03:36.354\">mein <\/span>\n        <span begin=\"03:36.354\" end=\"03:37.590\">basa<\/span>\n      <\/p>\n      <p begin=\"03:37.590\" end=\"03:43.180\">\n        <span begin=\"03:37.590\" end=\"03:38.025\">Keh <\/span>\n        <span begin=\"03:38.025\" end=\"03:38.460\">bhi <\/span>\n        <span begin=\"03:38.460\" end=\"03:38.861\">de <\/span>\n        <span begin=\"03:38.861\" end=\"03:39.296\">keh <\/span>\n        <span begin=\"03:39.296\" end=\"03:39.731\">bhi <\/span>\n        <span begin=\"03:39.731\" end=\"03:40.132\">de <\/span>\n        <span begin=\"03:40.132\" end=\"03:40.567\">dil <\/span>\n        <span begin=\"03:40.567\" end=\"03:41.035\">mein <\/span>\n        <span begin=\"03:41.035\" end=\"03:41.503\">tere <\/span>\n        <span begin=\"03:41.503\" end=\"03:41.904\">jo <\/span>\n        <span begin=\"03:41.904\" end=\"03:42.339\">hai <\/span>\n        <span begin=\"03:42.339\" end=\"03:43.180\">chupa<\/span>\n      <\/p>\n      <p begin=\"03:43.180\" end=\"03:46.530\">\n        <span begin=\"03:43.180\" end=\"03:44.042\">Khwaish <\/span>\n        <span begin=\"03:44.042\" end=\"03:44.701\">hai <\/span>\n        <span begin=\"03:44.701\" end=\"03:45.310\">jo <\/span>\n        <span begin=\"03:45.310\" end=\"03:46.530\">teri<\/span>\n      <\/p>\n      <p begin=\"03:46.530\" end=\"03:49.320\">\n        <span begin=\"03:46.530\" end=\"03:49.320\">Woo<\/span>\n      <\/p>\n      <p begin=\"03:49.320\" end=\"03:54.750\">\n        <span begin=\"03:49.320\" end=\"03:49.804\">Rakh <\/span>\n        <span begin=\"03:49.804\" end=\"03:50.634\">nahi <\/span>\n        <span begin=\"03:50.634\" end=\"03:51.118\">rakh <\/span>\n        <span begin=\"03:51.118\" end=\"03:51.948\">nahi <\/span>\n        <span begin=\"03:51.948\" end=\"03:52.812\">parda <\/span>\n        <span begin=\"03:52.812\" end=\"03:53.261\">koi <\/span>\n        <span begin=\"03:53.261\" end=\"03:53.814\">mujhse <\/span>\n        <span begin=\"03:53.814\" end=\"03:54.263\">aye <\/span>\n        <span begin=\"03:54.263\" end=\"03:54.750\">jaan<\/span>\n      <\/p>\n      <p begin=\"03:54.750\" end=\"04:00.330\">\n        <span begin=\"03:54.750\" end=\"03:55.583\">Kar <\/span>\n        <span begin=\"03:55.583\" end=\"03:56.352\">le <\/span>\n        <span begin=\"03:56.352\" end=\"03:57.121\">tu <\/span>\n        <span begin=\"03:57.121\" end=\"03:58.660\">mera <\/span>\n        <span begin=\"03:58.660\" end=\"04:00.330\">yakeen<\/span>\n      <\/p>\n      <p begin=\"04:00.330\" end=\"04:06.210\">\n        <span begin=\"04:00.330\" end=\"04:00.909\">Mein <\/span>\n        <span begin=\"04:00.909\" end=\"04:01.985\">chahun <\/span>\n        <span begin=\"04:01.985\" end=\"04:03.061\">tujhko <\/span>\n        <span begin=\"04:03.061\" end=\"04:04.054\">meri <\/span>\n        <span begin=\"04:04.054\" end=\"04:04.633\">jaan <\/span>\n        <span begin=\"04:04.633\" end=\"04:06.210\">bepanaah<\/span>\n      <\/p>\n      <p begin=\"04:06.210\" end=\"04:12.060\">\n        <span begin=\"04:06.210\" end=\"04:07.298\">Fida <\/span>\n        <span begin=\"04:07.298\" end=\"04:07.932\">hoon <\/span>\n        <span begin=\"04:07.932\" end=\"04:08.657\">tujhpe <\/span>\n        <span begin=\"04:08.657\" end=\"04:09.745\">meri <\/span>\n        <span begin=\"04:09.745\" end=\"04:10.379\">jaan <\/span>\n        <span begin=\"04:10.379\" end=\"04:12.060\">bepanah<\/span>\n      <\/p>\n      <p begin=\"04:12.060\" end=\"04:35.370\">\n        <span begin=\"04:12.060\" end=\"04:17.887\">Woo <\/span>\n        <span begin=\"04:17.887\" end=\"04:23.714\">woo <\/span>\n        <span begin=\"04:23.714\" end=\"04:29.541\">woo <\/span>\n        <span begin=\"04:29.541\" end=\"04:35.370\">woo<\/span>\n      <\/p>\n      <p begin=\"04:35.370\" end=\"04:40.370\">\n        <span begin=\"04:35.370\" end=\"04:36.620\">Woo <\/span>\n        <span begin=\"04:36.620\" end=\"04:37.870\">woo <\/span>\n        <span begin=\"04:37.870\" end=\"04:39.120\">woo <\/span>\n        <span begin=\"04:39.120\" end=\"04:40.370\">woo<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 36840,
+      "endTime": 42720,
+      "text": "Zara si dil mein de jagah tu",
+      "words": [
+        {
+          "startTime": 36840,
+          "endTime": 38100,
+          "word": "Zara "
+        },
+        {
+          "startTime": 38100,
+          "endTime": 38730,
+          "word": "si "
+        },
+        {
+          "startTime": 38730,
+          "endTime": 39412,
+          "word": "dil "
+        },
+        {
+          "startTime": 39412,
+          "endTime": 40147,
+          "word": "mein "
+        },
+        {
+          "startTime": 40147,
+          "endTime": 40777,
+          "word": "de "
+        },
+        {
+          "startTime": 40777,
+          "endTime": 42089,
+          "word": "jagah "
+        },
+        {
+          "startTime": 42089,
+          "endTime": 42720,
+          "word": "tu"
+        }
+      ]
+    },
+    {
+      "time": 42720,
+      "endTime": 48560,
+      "text": "Zara sa apna le bana",
+      "words": [
+        {
+          "startTime": 42720,
+          "endTime": 44180,
+          "word": "Zara "
+        },
+        {
+          "startTime": 44180,
+          "endTime": 44910,
+          "word": "sa "
+        },
+        {
+          "startTime": 44910,
+          "endTime": 46370,
+          "word": "apna "
+        },
+        {
+          "startTime": 46370,
+          "endTime": 47100,
+          "word": "le "
+        },
+        {
+          "startTime": 47100,
+          "endTime": 48560,
+          "word": "bana"
+        }
+      ]
+    },
+    {
+      "time": 48560,
+      "endTime": 54390,
+      "text": "Zara sa khwabon mein saja tu",
+      "words": [
+        {
+          "startTime": 48560,
+          "endTime": 49798,
+          "word": "Zara "
+        },
+        {
+          "startTime": 49798,
+          "endTime": 50417,
+          "word": "sa "
+        },
+        {
+          "startTime": 50417,
+          "endTime": 51810,
+          "word": "khwabon "
+        },
+        {
+          "startTime": 51810,
+          "endTime": 52532,
+          "word": "mein "
+        },
+        {
+          "startTime": 52532,
+          "endTime": 53770,
+          "word": "saja "
+        },
+        {
+          "startTime": 53770,
+          "endTime": 54390,
+          "word": "tu"
+        }
+      ]
+    },
+    {
+      "time": 54390,
+      "endTime": 58940,
+      "text": "Zara sa yaadon mein basa",
+      "words": [
+        {
+          "startTime": 54390,
+          "endTime": 55482,
+          "word": "Zara "
+        },
+        {
+          "startTime": 55482,
+          "endTime": 56028,
+          "word": "sa "
+        },
+        {
+          "startTime": 56028,
+          "endTime": 57211,
+          "word": "yaadon "
+        },
+        {
+          "startTime": 57211,
+          "endTime": 57848,
+          "word": "mein "
+        },
+        {
+          "startTime": 57848,
+          "endTime": 58940,
+          "word": "basa"
+        }
+      ]
+    },
+    {
+      "time": 58940,
+      "endTime": 64650,
+      "text": "Mein chahun tujhko meri jaan bepanaah",
+      "words": [
+        {
+          "startTime": 58940,
+          "endTime": 59502,
+          "word": "Mein "
+        },
+        {
+          "startTime": 59502,
+          "endTime": 60547,
+          "word": "chahun "
+        },
+        {
+          "startTime": 60547,
+          "endTime": 61592,
+          "word": "tujhko "
+        },
+        {
+          "startTime": 61592,
+          "endTime": 62557,
+          "word": "meri "
+        },
+        {
+          "startTime": 62557,
+          "endTime": 63119,
+          "word": "jaan "
+        },
+        {
+          "startTime": 63119,
+          "endTime": 64650,
+          "word": "bepanaah"
+        }
+      ]
+    },
+    {
+      "time": 64650,
+      "endTime": 70480,
+      "text": "Fida hoon tujhpe meri jaan bepanah",
+      "words": [
+        {
+          "startTime": 64650,
+          "endTime": 65734,
+          "word": "Fida "
+        },
+        {
+          "startTime": 65734,
+          "endTime": 66366,
+          "word": "hoon "
+        },
+        {
+          "startTime": 66366,
+          "endTime": 67089,
+          "word": "tujhpe "
+        },
+        {
+          "startTime": 67089,
+          "endTime": 68173,
+          "word": "meri "
+        },
+        {
+          "startTime": 68173,
+          "endTime": 68805,
+          "word": "jaan "
+        },
+        {
+          "startTime": 68805,
+          "endTime": 70480,
+          "word": "bepanah"
+        }
+      ]
+    },
+    {
+      "time": 70480,
+      "endTime": 95400,
+      "text": "Woo woo woo woo",
+      "words": [
+        {
+          "startTime": 70480,
+          "endTime": 76710,
+          "word": "Woo "
+        },
+        {
+          "startTime": 76710,
+          "endTime": 82940,
+          "word": "woo "
+        },
+        {
+          "startTime": 82940,
+          "endTime": 89170,
+          "word": "woo "
+        },
+        {
+          "startTime": 89170,
+          "endTime": 95400,
+          "word": "woo"
+        }
+      ]
+    },
+    {
+      "time": 95400,
+      "endTime": 101270,
+      "text": "Zara si dil mein de jagah tu",
+      "words": [
+        {
+          "startTime": 95400,
+          "endTime": 96657,
+          "word": "Zara "
+        },
+        {
+          "startTime": 96657,
+          "endTime": 97285,
+          "word": "si "
+        },
+        {
+          "startTime": 97285,
+          "endTime": 97966,
+          "word": "dil "
+        },
+        {
+          "startTime": 97966,
+          "endTime": 98699,
+          "word": "mein "
+        },
+        {
+          "startTime": 98699,
+          "endTime": 99327,
+          "word": "de "
+        },
+        {
+          "startTime": 99327,
+          "endTime": 100637,
+          "word": "jagah "
+        },
+        {
+          "startTime": 100637,
+          "endTime": 101270,
+          "word": "tu"
+        }
+      ]
+    },
+    {
+      "time": 101270,
+      "endTime": 107120,
+      "text": "Zara sa apna le bana",
+      "words": [
+        {
+          "startTime": 101270,
+          "endTime": 102732,
+          "word": "Zara "
+        },
+        {
+          "startTime": 102732,
+          "endTime": 103463,
+          "word": "sa "
+        },
+        {
+          "startTime": 103463,
+          "endTime": 104925,
+          "word": "apna "
+        },
+        {
+          "startTime": 104925,
+          "endTime": 105656,
+          "word": "le "
+        },
+        {
+          "startTime": 105656,
+          "endTime": 107120,
+          "word": "bana"
+        }
+      ]
+    },
+    {
+      "time": 107120,
+      "endTime": 112930,
+      "text": "Zara sa khwabon mein saja tu",
+      "words": [
+        {
+          "startTime": 107120,
+          "endTime": 108353,
+          "word": "Zara "
+        },
+        {
+          "startTime": 108353,
+          "endTime": 108969,
+          "word": "sa "
+        },
+        {
+          "startTime": 108969,
+          "endTime": 110357,
+          "word": "khwabon "
+        },
+        {
+          "startTime": 110357,
+          "endTime": 111076,
+          "word": "mein "
+        },
+        {
+          "startTime": 111076,
+          "endTime": 112309,
+          "word": "saja "
+        },
+        {
+          "startTime": 112309,
+          "endTime": 112930,
+          "word": "tu"
+        }
+      ]
+    },
+    {
+      "time": 112930,
+      "endTime": 135780,
+      "text": "Zara sa yaadon mein basa",
+      "words": [
+        {
+          "startTime": 112930,
+          "endTime": 118414,
+          "word": "Zara "
+        },
+        {
+          "startTime": 118414,
+          "endTime": 121156,
+          "word": "sa "
+        },
+        {
+          "startTime": 121156,
+          "endTime": 127097,
+          "word": "yaadon "
+        },
+        {
+          "startTime": 127097,
+          "endTime": 130296,
+          "word": "mein "
+        },
+        {
+          "startTime": 130296,
+          "endTime": 135780,
+          "word": "basa"
+        }
+      ]
+    },
+    {
+      "time": 135780,
+      "endTime": 137590,
+      "text": "Main tere main tere",
+      "words": [
+        {
+          "startTime": 135780,
+          "endTime": 136232,
+          "word": "Main "
+        },
+        {
+          "startTime": 136232,
+          "endTime": 136684,
+          "word": "tere "
+        },
+        {
+          "startTime": 136684,
+          "endTime": 137136,
+          "word": "main "
+        },
+        {
+          "startTime": 137136,
+          "endTime": 137590,
+          "word": "tere"
+        }
+      ]
+    },
+    {
+      "time": 137590,
+      "endTime": 141150,
+      "text": "Kadmo mein rakh du yeh jahaan",
+      "words": [
+        {
+          "startTime": 137590,
+          "endTime": 138445,
+          "word": "Kadmo "
+        },
+        {
+          "startTime": 138445,
+          "endTime": 138924,
+          "word": "mein "
+        },
+        {
+          "startTime": 138924,
+          "endTime": 139403,
+          "word": "rakh "
+        },
+        {
+          "startTime": 139403,
+          "endTime": 139813,
+          "word": "du "
+        },
+        {
+          "startTime": 139813,
+          "endTime": 140258,
+          "word": "yeh "
+        },
+        {
+          "startTime": 140258,
+          "endTime": 141150,
+          "word": "jahaan"
+        }
+      ]
+    },
+    {
+      "time": 141150,
+      "endTime": 144150,
+      "text": "Mera ishq deewangi",
+      "words": [
+        {
+          "startTime": 141150,
+          "endTime": 142097,
+          "word": "Mera "
+        },
+        {
+          "startTime": 142097,
+          "endTime": 142649,
+          "word": "ishq "
+        },
+        {
+          "startTime": 142649,
+          "endTime": 144150,
+          "word": "deewangi"
+        }
+      ]
+    },
+    {
+      "time": 144150,
+      "endTime": 147270,
+      "text": "Woo",
+      "words": [
+        {
+          "startTime": 144150,
+          "endTime": 147270,
+          "word": "Woo"
+        }
+      ]
+    },
+    {
+      "time": 147270,
+      "endTime": 152920,
+      "text": "Hai nahi hai nahi aashiq koi mujhsa tera",
+      "words": [
+        {
+          "startTime": 147270,
+          "endTime": 147720,
+          "word": "Hai "
+        },
+        {
+          "startTime": 147720,
+          "endTime": 148551,
+          "word": "nahi "
+        },
+        {
+          "startTime": 148551,
+          "endTime": 149001,
+          "word": "hai "
+        },
+        {
+          "startTime": 149001,
+          "endTime": 149832,
+          "word": "nahi "
+        },
+        {
+          "startTime": 149832,
+          "endTime": 150733,
+          "word": "aashiq "
+        },
+        {
+          "startTime": 150733,
+          "endTime": 151183,
+          "word": "koi "
+        },
+        {
+          "startTime": 151183,
+          "endTime": 152084,
+          "word": "mujhsa "
+        },
+        {
+          "startTime": 152084,
+          "endTime": 152920,
+          "word": "tera"
+        }
+      ]
+    },
+    {
+      "time": 152920,
+      "endTime": 158320,
+      "text": "Tu mere liye bandagi",
+      "words": [
+        {
+          "startTime": 152920,
+          "endTime": 153761,
+          "word": "Tu "
+        },
+        {
+          "startTime": 153761,
+          "endTime": 154742,
+          "word": "mere "
+        },
+        {
+          "startTime": 154742,
+          "endTime": 155723,
+          "word": "liye "
+        },
+        {
+          "startTime": 155723,
+          "endTime": 158320,
+          "word": "bandagi"
+        }
+      ]
+    },
+    {
+      "time": 158320,
+      "endTime": 164170,
+      "text": "Mein chahun tujhko meri jaan bepanaah",
+      "words": [
+        {
+          "startTime": 158320,
+          "endTime": 158896,
+          "word": "Mein "
+        },
+        {
+          "startTime": 158896,
+          "endTime": 159967,
+          "word": "chahun "
+        },
+        {
+          "startTime": 159967,
+          "endTime": 161038,
+          "word": "tujhko "
+        },
+        {
+          "startTime": 161038,
+          "endTime": 162026,
+          "word": "meri "
+        },
+        {
+          "startTime": 162026,
+          "endTime": 162602,
+          "word": "jaan "
+        },
+        {
+          "startTime": 162602,
+          "endTime": 164170,
+          "word": "bepanaah"
+        }
+      ]
+    },
+    {
+      "time": 164170,
+      "endTime": 170050,
+      "text": "Fida hoon tujhpe meri jaan bepanah",
+      "words": [
+        {
+          "startTime": 164170,
+          "endTime": 165263,
+          "word": "Fida "
+        },
+        {
+          "startTime": 165263,
+          "endTime": 165901,
+          "word": "hoon "
+        },
+        {
+          "startTime": 165901,
+          "endTime": 166630,
+          "word": "tujhpe "
+        },
+        {
+          "startTime": 166630,
+          "endTime": 167723,
+          "word": "meri "
+        },
+        {
+          "startTime": 167723,
+          "endTime": 168361,
+          "word": "jaan "
+        },
+        {
+          "startTime": 168361,
+          "endTime": 170050,
+          "word": "bepanah"
+        }
+      ]
+    },
+    {
+      "time": 170050,
+      "endTime": 194910,
+      "text": "Woo woo woo woo",
+      "words": [
+        {
+          "startTime": 170050,
+          "endTime": 176265,
+          "word": "Woo "
+        },
+        {
+          "startTime": 176265,
+          "endTime": 182480,
+          "word": "woo "
+        },
+        {
+          "startTime": 182480,
+          "endTime": 188695,
+          "word": "woo "
+        },
+        {
+          "startTime": 188695,
+          "endTime": 194910,
+          "word": "woo"
+        }
+      ]
+    },
+    {
+      "time": 194910,
+      "endTime": 200740,
+      "text": "Zara si dil mein de jagah tu",
+      "words": [
+        {
+          "startTime": 194910,
+          "endTime": 196159,
+          "word": "Zara "
+        },
+        {
+          "startTime": 196159,
+          "endTime": 196783,
+          "word": "si "
+        },
+        {
+          "startTime": 196783,
+          "endTime": 197459,
+          "word": "dil "
+        },
+        {
+          "startTime": 197459,
+          "endTime": 198187,
+          "word": "mein "
+        },
+        {
+          "startTime": 198187,
+          "endTime": 198811,
+          "word": "de "
+        },
+        {
+          "startTime": 198811,
+          "endTime": 200112,
+          "word": "jagah "
+        },
+        {
+          "startTime": 200112,
+          "endTime": 200740,
+          "word": "tu"
+        }
+      ]
+    },
+    {
+      "time": 200740,
+      "endTime": 206630,
+      "text": "Zara sa apna le bana",
+      "words": [
+        {
+          "startTime": 200740,
+          "endTime": 202212,
+          "word": "Zara "
+        },
+        {
+          "startTime": 202212,
+          "endTime": 202948,
+          "word": "sa "
+        },
+        {
+          "startTime": 202948,
+          "endTime": 204420,
+          "word": "apna "
+        },
+        {
+          "startTime": 204420,
+          "endTime": 205156,
+          "word": "le "
+        },
+        {
+          "startTime": 205156,
+          "endTime": 206630,
+          "word": "bana"
+        }
+      ]
+    },
+    {
+      "time": 206630,
+      "endTime": 212440,
+      "text": "Zara sa khwabon mein saja tu",
+      "words": [
+        {
+          "startTime": 206630,
+          "endTime": 207863,
+          "word": "Zara "
+        },
+        {
+          "startTime": 207863,
+          "endTime": 208479,
+          "word": "sa "
+        },
+        {
+          "startTime": 208479,
+          "endTime": 209867,
+          "word": "khwabon "
+        },
+        {
+          "startTime": 209867,
+          "endTime": 210586,
+          "word": "mein "
+        },
+        {
+          "startTime": 210586,
+          "endTime": 211819,
+          "word": "saja "
+        },
+        {
+          "startTime": 211819,
+          "endTime": 212440,
+          "word": "tu"
+        }
+      ]
+    },
+    {
+      "time": 212440,
+      "endTime": 217590,
+      "text": "Zara sa yaadon mein basa",
+      "words": [
+        {
+          "startTime": 212440,
+          "endTime": 213676,
+          "word": "Zara "
+        },
+        {
+          "startTime": 213676,
+          "endTime": 214294,
+          "word": "sa "
+        },
+        {
+          "startTime": 214294,
+          "endTime": 215633,
+          "word": "yaadon "
+        },
+        {
+          "startTime": 215633,
+          "endTime": 216354,
+          "word": "mein "
+        },
+        {
+          "startTime": 216354,
+          "endTime": 217590,
+          "word": "basa"
+        }
+      ]
+    },
+    {
+      "time": 217590,
+      "endTime": 223180,
+      "text": "Keh bhi de keh bhi de dil mein tere jo hai chupa",
+      "words": [
+        {
+          "startTime": 217590,
+          "endTime": 218025,
+          "word": "Keh "
+        },
+        {
+          "startTime": 218025,
+          "endTime": 218460,
+          "word": "bhi "
+        },
+        {
+          "startTime": 218460,
+          "endTime": 218861,
+          "word": "de "
+        },
+        {
+          "startTime": 218861,
+          "endTime": 219296,
+          "word": "keh "
+        },
+        {
+          "startTime": 219296,
+          "endTime": 219731,
+          "word": "bhi "
+        },
+        {
+          "startTime": 219731,
+          "endTime": 220132,
+          "word": "de "
+        },
+        {
+          "startTime": 220132,
+          "endTime": 220567,
+          "word": "dil "
+        },
+        {
+          "startTime": 220567,
+          "endTime": 221035,
+          "word": "mein "
+        },
+        {
+          "startTime": 221035,
+          "endTime": 221503,
+          "word": "tere "
+        },
+        {
+          "startTime": 221503,
+          "endTime": 221904,
+          "word": "jo "
+        },
+        {
+          "startTime": 221904,
+          "endTime": 222339,
+          "word": "hai "
+        },
+        {
+          "startTime": 222339,
+          "endTime": 223180,
+          "word": "chupa"
+        }
+      ]
+    },
+    {
+      "time": 223180,
+      "endTime": 226530,
+      "text": "Khwaish hai jo teri",
+      "words": [
+        {
+          "startTime": 223180,
+          "endTime": 224042,
+          "word": "Khwaish "
+        },
+        {
+          "startTime": 224042,
+          "endTime": 224701,
+          "word": "hai "
+        },
+        {
+          "startTime": 224701,
+          "endTime": 225310,
+          "word": "jo "
+        },
+        {
+          "startTime": 225310,
+          "endTime": 226530,
+          "word": "teri"
+        }
+      ]
+    },
+    {
+      "time": 226530,
+      "endTime": 229320,
+      "text": "Woo",
+      "words": [
+        {
+          "startTime": 226530,
+          "endTime": 229320,
+          "word": "Woo"
+        }
+      ]
+    },
+    {
+      "time": 229320,
+      "endTime": 234750,
+      "text": "Rakh nahi rakh nahi parda koi mujhse aye jaan",
+      "words": [
+        {
+          "startTime": 229320,
+          "endTime": 229804,
+          "word": "Rakh "
+        },
+        {
+          "startTime": 229804,
+          "endTime": 230634,
+          "word": "nahi "
+        },
+        {
+          "startTime": 230634,
+          "endTime": 231118,
+          "word": "rakh "
+        },
+        {
+          "startTime": 231118,
+          "endTime": 231948,
+          "word": "nahi "
+        },
+        {
+          "startTime": 231948,
+          "endTime": 232812,
+          "word": "parda "
+        },
+        {
+          "startTime": 232812,
+          "endTime": 233261,
+          "word": "koi "
+        },
+        {
+          "startTime": 233261,
+          "endTime": 233814,
+          "word": "mujhse "
+        },
+        {
+          "startTime": 233814,
+          "endTime": 234263,
+          "word": "aye "
+        },
+        {
+          "startTime": 234263,
+          "endTime": 234750,
+          "word": "jaan"
+        }
+      ]
+    },
+    {
+      "time": 234750,
+      "endTime": 240330,
+      "text": "Kar le tu mera yakeen",
+      "words": [
+        {
+          "startTime": 234750,
+          "endTime": 235583,
+          "word": "Kar "
+        },
+        {
+          "startTime": 235583,
+          "endTime": 236352,
+          "word": "le "
+        },
+        {
+          "startTime": 236352,
+          "endTime": 237121,
+          "word": "tu "
+        },
+        {
+          "startTime": 237121,
+          "endTime": 238660,
+          "word": "mera "
+        },
+        {
+          "startTime": 238660,
+          "endTime": 240330,
+          "word": "yakeen"
+        }
+      ]
+    },
+    {
+      "time": 240330,
+      "endTime": 246210,
+      "text": "Mein chahun tujhko meri jaan bepanaah",
+      "words": [
+        {
+          "startTime": 240330,
+          "endTime": 240909,
+          "word": "Mein "
+        },
+        {
+          "startTime": 240909,
+          "endTime": 241985,
+          "word": "chahun "
+        },
+        {
+          "startTime": 241985,
+          "endTime": 243061,
+          "word": "tujhko "
+        },
+        {
+          "startTime": 243061,
+          "endTime": 244054,
+          "word": "meri "
+        },
+        {
+          "startTime": 244054,
+          "endTime": 244633,
+          "word": "jaan "
+        },
+        {
+          "startTime": 244633,
+          "endTime": 246210,
+          "word": "bepanaah"
+        }
+      ]
+    },
+    {
+      "time": 246210,
+      "endTime": 252060,
+      "text": "Fida hoon tujhpe meri jaan bepanah",
+      "words": [
+        {
+          "startTime": 246210,
+          "endTime": 247298,
+          "word": "Fida "
+        },
+        {
+          "startTime": 247298,
+          "endTime": 247932,
+          "word": "hoon "
+        },
+        {
+          "startTime": 247932,
+          "endTime": 248657,
+          "word": "tujhpe "
+        },
+        {
+          "startTime": 248657,
+          "endTime": 249745,
+          "word": "meri "
+        },
+        {
+          "startTime": 249745,
+          "endTime": 250379,
+          "word": "jaan "
+        },
+        {
+          "startTime": 250379,
+          "endTime": 252060,
+          "word": "bepanah"
+        }
+      ]
+    },
+    {
+      "time": 252060,
+      "endTime": 275370,
+      "text": "Woo woo woo woo",
+      "words": [
+        {
+          "startTime": 252060,
+          "endTime": 257887,
+          "word": "Woo "
+        },
+        {
+          "startTime": 257887,
+          "endTime": 263714,
+          "word": "woo "
+        },
+        {
+          "startTime": 263714,
+          "endTime": 269541,
+          "word": "woo "
+        },
+        {
+          "startTime": 269541,
+          "endTime": 275370,
+          "word": "woo"
+        }
+      ]
+    },
+    {
+      "time": 275370,
+      "endTime": 280370,
+      "text": "Woo woo woo woo",
+      "words": [
+        {
+          "startTime": 275370,
+          "endTime": 276620,
+          "word": "Woo "
+        },
+        {
+          "startTime": 276620,
+          "endTime": 277870,
+          "word": "woo "
+        },
+        {
+          "startTime": 277870,
+          "endTime": 279120,
+          "word": "woo "
+        },
+        {
+          "startTime": 279120,
+          "endTime": 280370,
+          "word": "woo"
+        }
+      ]
+    }
+  ]
+}
