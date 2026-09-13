@@ -1,0 +1,2161 @@
+{
+  "videoId": "52vehHn8KfQ",
+  "title": "Human",
+  "artist": "Rag'n'Bone Man",
+  "duration": 200,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:02.440\" end=\"00:03.913\" ttm:agent=\"v1\">\n        <span begin=\"00:02.446\" end=\"00:02.681\">I&apos;m<\/span>\n        <span begin=\"00:02.681\" end=\"00:03.116\">only<\/span>\n        <span begin=\"00:03.116\" end=\"00:03.913\">human<\/span>\n      <\/p>\n      <p begin=\"00:05.620\" end=\"00:07.369\" ttm:agent=\"v1\">\n        <span begin=\"00:05.624\" end=\"00:05.875\">I&apos;m<\/span>\n        <span begin=\"00:05.875\" end=\"00:06.456\">only,<\/span>\n        <span begin=\"00:06.456\" end=\"00:06.707\">I&apos;m<\/span>\n        <span begin=\"00:06.707\" end=\"00:07.369\">only<\/span>\n      <\/p>\n      <p begin=\"00:08.840\" end=\"00:11.846\" ttm:agent=\"v1\">\n        <span begin=\"00:08.841\" end=\"00:09.073\">I&apos;m<\/span>\n        <span begin=\"00:09.073\" end=\"00:09.508\">only<\/span>\n        <span begin=\"00:09.508\" end=\"00:10.739\">human,<\/span>\n        <span begin=\"00:10.739\" end=\"00:11.846\">human<\/span>\n      <\/p>\n      <p begin=\"00:13.690\" end=\"00:15.185\" ttm:agent=\"v1\">\n        <span begin=\"00:13.699\" end=\"00:14.099\">Maybe<\/span>\n        <span begin=\"00:14.099\" end=\"00:14.302\">I&apos;m<\/span>\n        <span begin=\"00:14.302\" end=\"00:15.185\">foolish<\/span>\n      <\/p>\n      <p begin=\"00:15.180\" end=\"00:16.405\" ttm:agent=\"v1\">\n        <span begin=\"00:15.185\" end=\"00:15.692\">Maybe<\/span>\n        <span begin=\"00:15.692\" end=\"00:15.892\">I&apos;m<\/span>\n        <span begin=\"00:15.892\" end=\"00:16.405\">blind<\/span>\n      <\/p>\n      <p begin=\"00:16.400\" end=\"00:18.254\" ttm:agent=\"v1\">\n        <span begin=\"00:16.405\" end=\"00:16.833\">Thinking<\/span>\n        <span begin=\"00:16.833\" end=\"00:16.957\">I<\/span>\n        <span begin=\"00:16.957\" end=\"00:17.249\">can<\/span>\n        <span begin=\"00:17.249\" end=\"00:17.449\">see<\/span>\n        <span begin=\"00:17.449\" end=\"00:17.884\">through<\/span>\n        <span begin=\"00:17.884\" end=\"00:18.254\">this<\/span>\n      <\/p>\n      <p begin=\"00:18.250\" end=\"00:19.617\" ttm:agent=\"v1\">\n        <span begin=\"00:18.254\" end=\"00:18.470\">And<\/span>\n        <span begin=\"00:18.470\" end=\"00:18.670\">see<\/span>\n        <span begin=\"00:18.670\" end=\"00:18.854\">what&apos;s<\/span>\n        <span begin=\"00:18.854\" end=\"00:19.617\">behind<\/span>\n      <\/p>\n      <p begin=\"00:19.810\" end=\"00:21.406\" ttm:agent=\"v1\">\n        <span begin=\"00:19.814\" end=\"00:20.033\">Got<\/span>\n        <span begin=\"00:20.033\" end=\"00:20.249\">no<\/span>\n        <span begin=\"00:20.249\" end=\"00:20.483\">way<\/span>\n        <span begin=\"00:20.483\" end=\"00:20.699\">to<\/span>\n        <span begin=\"00:20.699\" end=\"00:21.033\">prove<\/span>\n        <span begin=\"00:21.033\" end=\"00:21.406\">it<\/span>\n      <\/p>\n      <p begin=\"00:21.400\" end=\"00:23.333\" ttm:agent=\"v1\">\n        <span begin=\"00:21.406\" end=\"00:21.662\">So<\/span>\n        <span begin=\"00:21.662\" end=\"00:22.094\">maybe<\/span>\n        <span begin=\"00:22.094\" end=\"00:22.312\">I&apos;m<\/span>\n        <span begin=\"00:22.312\" end=\"00:23.333\">lyin&apos;<\/span>\n      <\/p>\n      <p begin=\"00:24.650\" end=\"00:27.875\" ttm:agent=\"v1\">\n        <span begin=\"00:24.658\" end=\"00:24.893\">But<\/span>\n        <span begin=\"00:24.893\" end=\"00:25.093\">I&apos;m<\/span>\n        <span begin=\"00:25.093\" end=\"00:25.525\">only<\/span>\n        <span begin=\"00:25.525\" end=\"00:26.477\">human<\/span>\n        <span begin=\"00:26.477\" end=\"00:27.042\">after<\/span>\n        <span begin=\"00:27.042\" end=\"00:27.875\">all<\/span>\n      <\/p>\n      <p begin=\"00:28.070\" end=\"00:30.673\" ttm:agent=\"v1\">\n        <span begin=\"00:28.072\" end=\"00:28.290\">I&apos;m<\/span>\n        <span begin=\"00:28.290\" end=\"00:28.725\">only<\/span>\n        <span begin=\"00:28.725\" end=\"00:29.658\">human<\/span>\n        <span begin=\"00:29.658\" end=\"00:30.240\">after<\/span>\n        <span begin=\"00:30.240\" end=\"00:30.673\">all<\/span>\n      <\/p>\n      <p begin=\"00:30.670\" end=\"00:32.845\" ttm:agent=\"v1\">\n        <span begin=\"00:30.673\" end=\"00:30.907\">Don&apos;t<\/span>\n        <span begin=\"00:30.907\" end=\"00:31.075\">put<\/span>\n        <span begin=\"00:31.075\" end=\"00:31.291\">your<\/span>\n        <span begin=\"00:31.291\" end=\"00:31.608\">blame<\/span>\n        <span begin=\"00:31.608\" end=\"00:31.990\">on<\/span>\n        <span begin=\"00:31.990\" end=\"00:32.845\">me<\/span>\n      <\/p>\n      <p begin=\"00:33.910\" end=\"00:36.041\" ttm:agent=\"v1\">\n        <span begin=\"00:33.918\" end=\"00:34.099\">Don&apos;t<\/span>\n        <span begin=\"00:34.099\" end=\"00:34.299\">put<\/span>\n        <span begin=\"00:34.299\" end=\"00:34.518\">your<\/span>\n        <span begin=\"00:34.518\" end=\"00:34.851\">blame<\/span>\n        <span begin=\"00:34.851\" end=\"00:35.251\">on<\/span>\n        <span begin=\"00:35.251\" end=\"00:36.041\">me<\/span>\n      <\/p>\n      <p begin=\"00:38.810\" end=\"00:40.689\" ttm:agent=\"v1\">\n        <span begin=\"00:38.818\" end=\"00:39.034\">Take<\/span>\n        <span begin=\"00:39.034\" end=\"00:39.237\">a<\/span>\n        <span begin=\"00:39.237\" end=\"00:39.453\">look<\/span>\n        <span begin=\"00:39.453\" end=\"00:39.669\">in<\/span>\n        <span begin=\"00:39.669\" end=\"00:39.869\">the<\/span>\n        <span begin=\"00:39.869\" end=\"00:40.689\">mirror<\/span>\n      <\/p>\n      <p begin=\"00:40.680\" end=\"00:41.988\" ttm:agent=\"v1\">\n        <span begin=\"00:40.689\" end=\"00:40.873\">And<\/span>\n        <span begin=\"00:40.873\" end=\"00:41.089\">what<\/span>\n        <span begin=\"00:41.089\" end=\"00:41.273\">do<\/span>\n        <span begin=\"00:41.273\" end=\"00:41.473\">you<\/span>\n        <span begin=\"00:41.473\" end=\"00:41.988\">see?<\/span>\n      <\/p>\n      <p begin=\"00:42.220\" end=\"00:43.831\" ttm:agent=\"v1\">\n        <span begin=\"00:42.225\" end=\"00:42.460\">Do<\/span>\n        <span begin=\"00:42.460\" end=\"00:42.676\">you<\/span>\n        <span begin=\"00:42.676\" end=\"00:42.892\">see<\/span>\n        <span begin=\"00:42.892\" end=\"00:43.127\">it<\/span>\n        <span begin=\"00:43.127\" end=\"00:43.831\">clearer<\/span>\n      <\/p>\n      <p begin=\"00:43.940\" end=\"00:45.550\" ttm:agent=\"v1\">\n        <span begin=\"00:43.943\" end=\"00:44.143\">Or<\/span>\n        <span begin=\"00:44.143\" end=\"00:44.327\">are<\/span>\n        <span begin=\"00:44.327\" end=\"00:44.527\">you<\/span>\n        <span begin=\"00:44.527\" end=\"00:45.550\">deceived<\/span>\n      <\/p>\n      <p begin=\"00:47.060\" end=\"00:49.289\" ttm:agent=\"v1\">\n        <span begin=\"00:47.063\" end=\"00:47.314\">In<\/span>\n        <span begin=\"00:47.314\" end=\"00:47.498\">what<\/span>\n        <span begin=\"00:47.498\" end=\"00:47.698\">you<\/span>\n        <span begin=\"00:47.698\" end=\"00:49.289\">believe?<\/span>\n      <\/p>\n      <p begin=\"00:50.180\" end=\"00:53.376\" ttm:agent=\"v1\">\n        <span begin=\"00:50.186\" end=\"00:50.502\">&apos;Cause<\/span>\n        <span begin=\"00:50.502\" end=\"00:50.670\">I&apos;m<\/span>\n        <span begin=\"00:50.670\" end=\"00:51.118\">only<\/span>\n        <span begin=\"00:51.118\" end=\"00:52.036\">human<\/span>\n        <span begin=\"00:52.036\" end=\"00:52.604\">after<\/span>\n        <span begin=\"00:52.604\" end=\"00:53.376\">all<\/span>\n      <\/p>\n      <p begin=\"00:53.610\" end=\"00:56.309\" ttm:agent=\"v1\">\n        <span begin=\"00:53.617\" end=\"00:53.833\">You&apos;re<\/span>\n        <span begin=\"00:53.833\" end=\"00:54.351\">only<\/span>\n        <span begin=\"00:54.351\" end=\"00:55.268\">human<\/span>\n        <span begin=\"00:55.268\" end=\"00:55.868\">after<\/span>\n        <span begin=\"00:55.868\" end=\"00:56.309\">all<\/span>\n      <\/p>\n      <p begin=\"00:56.300\" end=\"00:58.412\" ttm:agent=\"v1\">\n        <span begin=\"00:56.309\" end=\"00:56.533\">Don&apos;t<\/span>\n        <span begin=\"00:56.533\" end=\"00:56.717\">put<\/span>\n        <span begin=\"00:56.717\" end=\"00:56.917\">the<\/span>\n        <span begin=\"00:56.917\" end=\"00:57.247\">blame<\/span>\n        <span begin=\"00:57.247\" end=\"00:57.650\">on<\/span>\n        <span begin=\"00:57.650\" end=\"00:58.412\">me<\/span>\n      <\/p>\n      <p begin=\"00:59.460\" end=\"01:01.559\" ttm:agent=\"v1\">\n        <span begin=\"00:59.466\" end=\"00:59.650\">Don&apos;t<\/span>\n        <span begin=\"00:59.650\" end=\"00:59.866\">put<\/span>\n        <span begin=\"00:59.866\" end=\"01:00.082\">your<\/span>\n        <span begin=\"01:00.082\" end=\"01:00.466\">blame<\/span>\n        <span begin=\"01:00.466\" end=\"01:00.882\">on<\/span>\n        <span begin=\"01:00.882\" end=\"01:01.559\">me<\/span>\n      <\/p>\n      <p begin=\"01:04.370\" end=\"01:07.141\" ttm:agent=\"v1\">\n        <span begin=\"01:04.370\" end=\"01:04.870\">Some<\/span>\n        <span begin=\"01:04.870\" end=\"01:05.254\">people<\/span>\n        <span begin=\"01:05.254\" end=\"01:05.453\">got<\/span>\n        <span begin=\"01:05.453\" end=\"01:05.654\">the<\/span>\n        <span begin=\"01:05.654\" end=\"01:06.038\">real<\/span>\n        <span begin=\"01:06.038\" end=\"01:07.141\">problems<\/span>\n      <\/p>\n      <p begin=\"01:07.580\" end=\"01:09.835\" ttm:agent=\"v1\">\n        <span begin=\"01:07.585\" end=\"01:08.120\">Some<\/span>\n        <span begin=\"01:08.120\" end=\"01:08.469\">people<\/span>\n        <span begin=\"01:08.469\" end=\"01:08.669\">out<\/span>\n        <span begin=\"01:08.669\" end=\"01:08.888\">of<\/span>\n        <span begin=\"01:08.888\" end=\"01:09.835\">luck<\/span>\n      <\/p>\n      <p begin=\"01:10.840\" end=\"01:13.678\" ttm:agent=\"v1\">\n        <span begin=\"01:10.841\" end=\"01:11.241\">Some<\/span>\n        <span begin=\"01:11.241\" end=\"01:11.625\">people<\/span>\n        <span begin=\"01:11.625\" end=\"01:12.057\">think<\/span>\n        <span begin=\"01:12.057\" end=\"01:12.289\">I<\/span>\n        <span begin=\"01:12.289\" end=\"01:12.508\">can<\/span>\n        <span begin=\"01:12.508\" end=\"01:12.873\">solve<\/span>\n        <span begin=\"01:12.873\" end=\"01:13.678\">them<\/span>\n      <\/p>\n      <p begin=\"01:14.030\" end=\"01:15.871\" ttm:agent=\"v1\">\n        <span begin=\"01:14.030\" end=\"01:14.446\">Lord<\/span>\n        <span begin=\"01:14.446\" end=\"01:14.862\">heavens<\/span>\n        <span begin=\"01:14.862\" end=\"01:15.871\">above<\/span>\n      <\/p>\n      <p begin=\"01:16.060\" end=\"01:18.965\" ttm:agent=\"v1\">\n        <span begin=\"01:16.068\" end=\"01:16.301\">I&apos;m<\/span>\n        <span begin=\"01:16.301\" end=\"01:16.702\">only<\/span>\n        <span begin=\"01:16.702\" end=\"01:17.702\">human<\/span>\n        <span begin=\"01:17.702\" end=\"01:18.236\">after<\/span>\n        <span begin=\"01:18.236\" end=\"01:18.965\">all<\/span>\n      <\/p>\n      <p begin=\"01:19.210\" end=\"01:21.902\" ttm:agent=\"v1\">\n        <span begin=\"01:19.215\" end=\"01:19.431\">I&apos;m<\/span>\n        <span begin=\"01:19.431\" end=\"01:19.965\">only<\/span>\n        <span begin=\"01:19.965\" end=\"01:20.831\">human<\/span>\n        <span begin=\"01:20.831\" end=\"01:21.414\">after<\/span>\n        <span begin=\"01:21.414\" end=\"01:21.902\">all<\/span>\n      <\/p>\n      <p begin=\"01:21.900\" end=\"01:24.148\" ttm:agent=\"v1\">\n        <span begin=\"01:21.902\" end=\"01:22.119\">Don&apos;t<\/span>\n        <span begin=\"01:22.119\" end=\"01:22.303\">put<\/span>\n        <span begin=\"01:22.303\" end=\"01:22.500\">the<\/span>\n        <span begin=\"01:22.500\" end=\"01:22.884\">blame<\/span>\n        <span begin=\"01:22.884\" end=\"01:23.252\">on<\/span>\n        <span begin=\"01:23.252\" end=\"01:24.148\">me<\/span>\n      <\/p>\n      <p begin=\"01:25.000\" end=\"01:27.366\" ttm:agent=\"v1\">\n        <span begin=\"01:25.008\" end=\"01:25.324\">Don&apos;t<\/span>\n        <span begin=\"01:25.324\" end=\"01:25.508\">put<\/span>\n        <span begin=\"01:25.508\" end=\"01:25.759\">the<\/span>\n        <span begin=\"01:25.759\" end=\"01:26.108\">blame<\/span>\n        <span begin=\"01:26.108\" end=\"01:26.473\">on<\/span>\n        <span begin=\"01:26.473\" end=\"01:27.366\">me<\/span>\n      <\/p>\n      <p begin=\"01:30.200\" end=\"01:31.828\" ttm:agent=\"v1\">\n        <span begin=\"01:30.200\" end=\"01:30.467\">Don&apos;t<\/span>\n        <span begin=\"01:30.467\" end=\"01:30.667\">ask<\/span>\n        <span begin=\"01:30.667\" end=\"01:30.918\">my<\/span>\n        <span begin=\"01:30.918\" end=\"01:31.828\">opinion<\/span>\n      <\/p>\n      <p begin=\"01:31.820\" end=\"01:33.320\" ttm:agent=\"v1\">\n        <span begin=\"01:31.828\" end=\"01:32.112\">Don&apos;t<\/span>\n        <span begin=\"01:32.112\" end=\"01:32.312\">ask<\/span>\n        <span begin=\"01:32.312\" end=\"01:32.512\">me<\/span>\n        <span begin=\"01:32.512\" end=\"01:32.712\">to<\/span>\n        <span begin=\"01:32.712\" end=\"01:33.320\">lie<\/span>\n      <\/p>\n      <p begin=\"01:33.370\" end=\"01:35.003\" ttm:agent=\"v1\">\n        <span begin=\"01:33.370\" end=\"01:33.718\">Then<\/span>\n        <span begin=\"01:33.718\" end=\"01:33.902\">beg<\/span>\n        <span begin=\"01:33.902\" end=\"01:34.102\">for<\/span>\n        <span begin=\"01:34.102\" end=\"01:35.003\">forgiveness<\/span>\n      <\/p>\n      <p begin=\"01:35.000\" end=\"01:36.557\" ttm:agent=\"v1\">\n        <span begin=\"01:35.003\" end=\"01:35.246\">For<\/span>\n        <span begin=\"01:35.246\" end=\"01:35.729\">making<\/span>\n        <span begin=\"01:35.729\" end=\"01:35.929\">you<\/span>\n        <span begin=\"01:35.929\" end=\"01:36.557\">cry<\/span>\n      <\/p>\n      <p begin=\"01:38.230\" end=\"01:41.276\" ttm:agent=\"v1\">\n        <span begin=\"01:38.231\" end=\"01:38.547\">For<\/span>\n        <span begin=\"01:38.547\" end=\"01:38.931\">making<\/span>\n        <span begin=\"01:38.931\" end=\"01:39.131\">you<\/span>\n        <span begin=\"01:39.131\" end=\"01:41.276\">cry<\/span>\n      <\/p>\n      <p begin=\"01:41.500\" end=\"01:44.746\" ttm:agent=\"v1\">\n        <span begin=\"01:41.500\" end=\"01:41.719\">&apos;Cause<\/span>\n        <span begin=\"01:41.719\" end=\"01:41.919\">I&apos;m<\/span>\n        <span begin=\"01:41.919\" end=\"01:42.119\">only<\/span>\n        <span begin=\"01:42.119\" end=\"01:43.319\">human<\/span>\n        <span begin=\"01:43.319\" end=\"01:43.884\">after<\/span>\n        <span begin=\"01:43.884\" end=\"01:44.746\">all<\/span>\n      <\/p>\n      <p begin=\"01:44.880\" end=\"01:47.499\" ttm:agent=\"v1\">\n        <span begin=\"01:44.883\" end=\"01:45.102\">I&apos;m<\/span>\n        <span begin=\"01:45.102\" end=\"01:45.533\">only<\/span>\n        <span begin=\"01:45.533\" end=\"01:46.451\">human<\/span>\n        <span begin=\"01:46.451\" end=\"01:47.032\">after<\/span>\n        <span begin=\"01:47.032\" end=\"01:47.499\">all<\/span>\n      <\/p>\n      <p begin=\"01:47.490\" end=\"01:49.969\" ttm:agent=\"v1\">\n        <span begin=\"01:47.499\" end=\"01:47.699\">Don&apos;t<\/span>\n        <span begin=\"01:47.699\" end=\"01:47.899\">put<\/span>\n        <span begin=\"01:47.899\" end=\"01:48.098\">your<\/span>\n        <span begin=\"01:48.098\" end=\"01:48.467\">blame<\/span>\n        <span begin=\"01:48.467\" end=\"01:48.865\">on<\/span>\n        <span begin=\"01:48.865\" end=\"01:49.969\">me<\/span>\n      <\/p>\n      <p begin=\"01:50.620\" end=\"01:53.018\" ttm:agent=\"v1\">\n        <span begin=\"01:50.628\" end=\"01:50.877\">Don&apos;t<\/span>\n        <span begin=\"01:50.877\" end=\"01:51.093\">put<\/span>\n        <span begin=\"01:51.093\" end=\"01:51.311\">the<\/span>\n        <span begin=\"01:51.311\" end=\"01:51.661\">blame<\/span>\n        <span begin=\"01:51.661\" end=\"01:52.045\">on<\/span>\n        <span begin=\"01:52.045\" end=\"01:53.018\">me<\/span>\n      <\/p>\n      <p begin=\"01:54.420\" end=\"01:58.601\" ttm:agent=\"v1\">\n        <span begin=\"01:54.426\" end=\"01:55.643\">Oh,<\/span>\n        <span begin=\"01:55.643\" end=\"01:56.062\">some<\/span>\n        <span begin=\"01:56.062\" end=\"01:56.443\">people<\/span>\n        <span begin=\"01:56.443\" end=\"01:56.643\">got<\/span>\n        <span begin=\"01:56.643\" end=\"01:56.843\">the<\/span>\n        <span begin=\"01:56.843\" end=\"01:57.227\">real<\/span>\n        <span begin=\"01:57.227\" end=\"01:58.601\">problems<\/span>\n      <\/p>\n      <p begin=\"01:58.840\" end=\"02:00.797\" ttm:agent=\"v1\">\n        <span begin=\"01:58.842\" end=\"01:59.258\">Some<\/span>\n        <span begin=\"01:59.258\" end=\"01:59.658\">people<\/span>\n        <span begin=\"01:59.658\" end=\"01:59.874\">out<\/span>\n        <span begin=\"01:59.874\" end=\"02:00.074\">of<\/span>\n        <span begin=\"02:00.074\" end=\"02:00.797\">luck<\/span>\n      <\/p>\n      <p begin=\"02:02.050\" end=\"02:04.949\" ttm:agent=\"v1\">\n        <span begin=\"02:02.052\" end=\"02:02.452\">Some<\/span>\n        <span begin=\"02:02.452\" end=\"02:02.852\">people<\/span>\n        <span begin=\"02:02.852\" end=\"02:03.252\">think<\/span>\n        <span begin=\"02:03.252\" end=\"02:03.452\">I<\/span>\n        <span begin=\"02:03.452\" end=\"02:03.702\">can<\/span>\n        <span begin=\"02:03.702\" end=\"02:04.051\">solve<\/span>\n        <span begin=\"02:04.051\" end=\"02:04.949\">them<\/span>\n      <\/p>\n      <p begin=\"02:05.190\" end=\"02:07.113\" ttm:agent=\"v1\">\n        <span begin=\"02:05.192\" end=\"02:05.640\">Lord<\/span>\n        <span begin=\"02:05.640\" end=\"02:06.040\">heavens<\/span>\n        <span begin=\"02:06.040\" end=\"02:07.113\">above<\/span>\n      <\/p>\n      <p begin=\"02:07.300\" end=\"02:10.161\" ttm:agent=\"v1\">\n        <span begin=\"02:07.301\" end=\"02:07.518\">I&apos;m<\/span>\n        <span begin=\"02:07.518\" end=\"02:07.969\">only<\/span>\n        <span begin=\"02:07.969\" end=\"02:08.851\">human<\/span>\n        <span begin=\"02:08.851\" end=\"02:09.467\">after<\/span>\n        <span begin=\"02:09.467\" end=\"02:10.161\">all<\/span>\n      <\/p>\n      <p begin=\"02:10.360\" end=\"02:13.020\" ttm:agent=\"v1\">\n        <span begin=\"02:10.365\" end=\"02:10.598\">I&apos;m<\/span>\n        <span begin=\"02:10.598\" end=\"02:11.150\">only<\/span>\n        <span begin=\"02:11.150\" end=\"02:12.065\">human<\/span>\n        <span begin=\"02:12.065\" end=\"02:12.617\">after<\/span>\n        <span begin=\"02:12.617\" end=\"02:13.020\">all<\/span>\n      <\/p>\n      <p begin=\"02:13.020\" end=\"02:15.363\" ttm:agent=\"v1\">\n        <span begin=\"02:13.020\" end=\"02:13.270\">Don&apos;t<\/span>\n        <span begin=\"02:13.270\" end=\"02:13.470\">put<\/span>\n        <span begin=\"02:13.470\" end=\"02:13.670\">the<\/span>\n        <span begin=\"02:13.670\" end=\"02:14.036\">blame<\/span>\n        <span begin=\"02:14.036\" end=\"02:14.436\">on<\/span>\n        <span begin=\"02:14.436\" end=\"02:15.363\">me<\/span>\n      <\/p>\n      <p begin=\"02:16.200\" end=\"02:18.628\" ttm:agent=\"v1\">\n        <span begin=\"02:16.209\" end=\"02:16.443\">Don&apos;t<\/span>\n        <span begin=\"02:16.443\" end=\"02:16.625\">put<\/span>\n        <span begin=\"02:16.625\" end=\"02:16.875\">the<\/span>\n        <span begin=\"02:16.875\" end=\"02:17.243\">blame<\/span>\n        <span begin=\"02:17.243\" end=\"02:17.627\">on<\/span>\n        <span begin=\"02:17.627\" end=\"02:18.628\">me<\/span>\n      <\/p>\n      <p begin=\"02:19.940\" end=\"02:21.444\" ttm:agent=\"v1\">\n        <span begin=\"02:19.944\" end=\"02:20.192\">I&apos;m<\/span>\n        <span begin=\"02:20.192\" end=\"02:20.726\">only<\/span>\n        <span begin=\"02:20.726\" end=\"02:21.444\">human<\/span>\n      <\/p>\n      <p begin=\"02:21.440\" end=\"02:22.960\" ttm:agent=\"v1\">\n        <span begin=\"02:21.444\" end=\"02:21.660\">I<\/span>\n        <span begin=\"02:21.660\" end=\"02:22.078\">make<\/span>\n        <span begin=\"02:22.078\" end=\"02:22.960\">mistakes<\/span>\n      <\/p>\n      <p begin=\"02:23.220\" end=\"02:24.583\" ttm:agent=\"v1\">\n        <span begin=\"02:23.228\" end=\"02:23.428\">I&apos;m<\/span>\n        <span begin=\"02:23.428\" end=\"02:23.844\">only<\/span>\n        <span begin=\"02:23.844\" end=\"02:24.583\">human<\/span>\n      <\/p>\n      <p begin=\"02:24.660\" end=\"02:25.887\" ttm:agent=\"v1\">\n        <span begin=\"02:24.660\" end=\"02:24.876\">That&apos;s<\/span>\n        <span begin=\"02:24.876\" end=\"02:25.244\">all<\/span>\n        <span begin=\"02:25.244\" end=\"02:25.444\">it<\/span>\n        <span begin=\"02:25.444\" end=\"02:25.887\">takes<\/span>\n      <\/p>\n      <p begin=\"02:25.880\" end=\"02:28.171\" ttm:agent=\"v1\">\n        <span begin=\"02:25.887\" end=\"02:26.069\">To<\/span>\n        <span begin=\"02:26.069\" end=\"02:26.269\">put<\/span>\n        <span begin=\"02:26.269\" end=\"02:26.487\">the<\/span>\n        <span begin=\"02:26.487\" end=\"02:26.853\">blame<\/span>\n        <span begin=\"02:26.853\" end=\"02:27.218\">on<\/span>\n        <span begin=\"02:27.218\" end=\"02:28.171\">me<\/span>\n      <\/p>\n      <p begin=\"02:29.020\" end=\"02:31.338\" ttm:agent=\"v1\">\n        <span begin=\"02:29.027\" end=\"02:29.259\">Don&apos;t<\/span>\n        <span begin=\"02:29.259\" end=\"02:29.443\">put<\/span>\n        <span begin=\"02:29.443\" end=\"02:29.659\">the<\/span>\n        <span begin=\"02:29.659\" end=\"02:30.075\">blame<\/span>\n        <span begin=\"02:30.075\" end=\"02:30.443\">on<\/span>\n        <span begin=\"02:30.443\" end=\"02:31.338\">me<\/span>\n      <\/p>\n      <p begin=\"02:34.240\" end=\"02:38.444\" ttm:agent=\"v1\">\n        <span begin=\"02:34.240\" end=\"02:34.491\">‘Cause<\/span>\n        <span begin=\"02:34.491\" end=\"02:34.725\">I&apos;m<\/span>\n        <span begin=\"02:34.725\" end=\"02:35.240\">no<\/span>\n        <span begin=\"02:35.240\" end=\"02:36.075\">prophet<\/span>\n        <span begin=\"02:36.075\" end=\"02:36.365\">or<\/span>\n        <span begin=\"02:36.365\" end=\"02:38.444\">Messiah<\/span>\n      <\/p>\n      <p begin=\"02:40.680\" end=\"02:45.266\" ttm:agent=\"v1\">\n        <span begin=\"02:40.682\" end=\"02:40.898\">You<\/span>\n        <span begin=\"02:40.898\" end=\"02:41.117\">should<\/span>\n        <span begin=\"02:41.117\" end=\"02:41.701\">go<\/span>\n        <span begin=\"02:41.701\" end=\"02:42.485\">looking<\/span>\n        <span begin=\"02:42.485\" end=\"02:43.085\">somewhere<\/span>\n        <span begin=\"02:43.085\" end=\"02:45.266\">higher<\/span>\n      <\/p>\n      <p begin=\"02:48.850\" end=\"02:51.899\" ttm:agent=\"v1\">\n        <span begin=\"02:48.856\" end=\"02:49.072\">I&apos;m<\/span>\n        <span begin=\"02:49.072\" end=\"02:49.539\">only<\/span>\n        <span begin=\"02:49.539\" end=\"02:50.507\">human<\/span>\n        <span begin=\"02:50.507\" end=\"02:51.072\">after<\/span>\n        <span begin=\"02:51.072\" end=\"02:51.899\">all<\/span>\n      <\/p>\n      <p begin=\"02:52.040\" end=\"02:54.661\" ttm:agent=\"v1\">\n        <span begin=\"02:52.047\" end=\"02:52.263\">I&apos;m<\/span>\n        <span begin=\"02:52.263\" end=\"02:52.730\">only<\/span>\n        <span begin=\"02:52.730\" end=\"02:53.714\">human<\/span>\n        <span begin=\"02:53.714\" end=\"02:54.263\">after<\/span>\n        <span begin=\"02:54.263\" end=\"02:54.661\">all<\/span>\n      <\/p>\n      <p begin=\"02:54.660\" end=\"02:57.042\" ttm:agent=\"v1\">\n        <span begin=\"02:54.661\" end=\"02:54.961\">Don&apos;t<\/span>\n        <span begin=\"02:54.961\" end=\"02:55.145\">put<\/span>\n        <span begin=\"02:55.145\" end=\"02:55.361\">the<\/span>\n        <span begin=\"02:55.361\" end=\"02:55.713\">blame<\/span>\n        <span begin=\"02:55.713\" end=\"02:56.078\">on<\/span>\n        <span begin=\"02:56.078\" end=\"02:57.042\">me<\/span>\n      <\/p>\n      <p begin=\"02:57.820\" end=\"03:00.216\" ttm:agent=\"v1\">\n        <span begin=\"02:57.829\" end=\"02:58.063\">Don&apos;t<\/span>\n        <span begin=\"02:58.063\" end=\"02:58.263\">put<\/span>\n        <span begin=\"02:58.263\" end=\"02:58.478\">the<\/span>\n        <span begin=\"02:58.478\" end=\"02:58.879\">blame<\/span>\n        <span begin=\"02:58.879\" end=\"02:59.263\">on<\/span>\n        <span begin=\"02:59.263\" end=\"03:00.216\">me<\/span>\n      <\/p>\n      <p begin=\"03:01.620\" end=\"03:03.093\" ttm:agent=\"v1\">\n        <span begin=\"03:01.627\" end=\"03:01.859\">I&apos;m<\/span>\n        <span begin=\"03:01.859\" end=\"03:02.344\">only<\/span>\n        <span begin=\"03:02.344\" end=\"03:03.093\">human<\/span>\n      <\/p>\n      <p begin=\"03:03.140\" end=\"03:04.587\" ttm:agent=\"v1\">\n        <span begin=\"03:03.149\" end=\"03:03.349\">I<\/span>\n        <span begin=\"03:03.349\" end=\"03:03.530\">do<\/span>\n        <span begin=\"03:03.530\" end=\"03:03.698\">what<\/span>\n        <span begin=\"03:03.698\" end=\"03:03.914\">I<\/span>\n        <span begin=\"03:03.914\" end=\"03:04.587\">can<\/span>\n      <\/p>\n      <p begin=\"03:04.750\" end=\"03:06.079\" ttm:agent=\"v1\">\n        <span begin=\"03:04.752\" end=\"03:04.984\">I&apos;m<\/span>\n        <span begin=\"03:04.984\" end=\"03:05.184\">just<\/span>\n        <span begin=\"03:05.184\" end=\"03:05.434\">a<\/span>\n        <span begin=\"03:05.434\" end=\"03:06.079\">man<\/span>\n      <\/p>\n      <p begin=\"03:06.260\" end=\"03:07.509\" ttm:agent=\"v1\">\n        <span begin=\"03:06.267\" end=\"03:06.502\">I<\/span>\n        <span begin=\"03:06.502\" end=\"03:06.734\">do<\/span>\n        <span begin=\"03:06.734\" end=\"03:06.969\">what<\/span>\n        <span begin=\"03:06.969\" end=\"03:07.169\">I<\/span>\n        <span begin=\"03:07.169\" end=\"03:07.509\">can<\/span>\n      <\/p>\n      <p begin=\"03:07.500\" end=\"03:09.750\" ttm:agent=\"v1\">\n        <span begin=\"03:07.509\" end=\"03:07.809\">Don&apos;t<\/span>\n        <span begin=\"03:07.809\" end=\"03:08.009\">put<\/span>\n        <span begin=\"03:08.009\" end=\"03:08.241\">the<\/span>\n        <span begin=\"03:08.241\" end=\"03:08.558\">blame<\/span>\n        <span begin=\"03:08.558\" end=\"03:08.977\">on<\/span>\n        <span begin=\"03:08.977\" end=\"03:09.750\">me<\/span>\n      <\/p>\n      <p begin=\"03:10.810\" end=\"03:13.808\" ttm:agent=\"v1\">\n        <span begin=\"03:10.815\" end=\"03:11.147\">Don&apos;t<\/span>\n        <span begin=\"03:11.147\" end=\"03:11.397\">put<\/span>\n        <span begin=\"03:11.397\" end=\"03:11.629\">your<\/span>\n        <span begin=\"03:11.629\" end=\"03:12.096\">blame<\/span>\n        <span begin=\"03:12.096\" end=\"03:12.664\">on<\/span>\n        <span begin=\"03:12.664\" end=\"03:13.808\">me<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 2440,
+      "endTime": 3913,
+      "text": "I'm only human",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 2446,
+          "endTime": 2681,
+          "word": "I'm"
+        },
+        {
+          "startTime": 2681,
+          "endTime": 3116,
+          "word": "only"
+        },
+        {
+          "startTime": 3116,
+          "endTime": 3913,
+          "word": "human"
+        }
+      ]
+    },
+    {
+      "time": 5620,
+      "endTime": 7369,
+      "text": "I'm only, I'm only",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 5624,
+          "endTime": 5875,
+          "word": "I'm"
+        },
+        {
+          "startTime": 5875,
+          "endTime": 6456,
+          "word": "only,"
+        },
+        {
+          "startTime": 6456,
+          "endTime": 6707,
+          "word": "I'm"
+        },
+        {
+          "startTime": 6707,
+          "endTime": 7369,
+          "word": "only"
+        }
+      ]
+    },
+    {
+      "time": 8840,
+      "endTime": 11846,
+      "text": "I'm only human, human",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 8841,
+          "endTime": 9073,
+          "word": "I'm"
+        },
+        {
+          "startTime": 9073,
+          "endTime": 9508,
+          "word": "only"
+        },
+        {
+          "startTime": 9508,
+          "endTime": 10739,
+          "word": "human,"
+        },
+        {
+          "startTime": 10739,
+          "endTime": 11846,
+          "word": "human"
+        }
+      ]
+    },
+    {
+      "time": 13690,
+      "endTime": 15185,
+      "text": "Maybe I'm foolish",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 13699,
+          "endTime": 14099,
+          "word": "Maybe"
+        },
+        {
+          "startTime": 14099,
+          "endTime": 14302,
+          "word": "I'm"
+        },
+        {
+          "startTime": 14302,
+          "endTime": 15185,
+          "word": "foolish"
+        }
+      ]
+    },
+    {
+      "time": 15180,
+      "endTime": 16405,
+      "text": "Maybe I'm blind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15185,
+          "endTime": 15692,
+          "word": "Maybe"
+        },
+        {
+          "startTime": 15692,
+          "endTime": 15892,
+          "word": "I'm"
+        },
+        {
+          "startTime": 15892,
+          "endTime": 16405,
+          "word": "blind"
+        }
+      ]
+    },
+    {
+      "time": 16400,
+      "endTime": 18254,
+      "text": "Thinking I can see through this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 16405,
+          "endTime": 16833,
+          "word": "Thinking"
+        },
+        {
+          "startTime": 16833,
+          "endTime": 16957,
+          "word": "I"
+        },
+        {
+          "startTime": 16957,
+          "endTime": 17249,
+          "word": "can"
+        },
+        {
+          "startTime": 17249,
+          "endTime": 17449,
+          "word": "see"
+        },
+        {
+          "startTime": 17449,
+          "endTime": 17884,
+          "word": "through"
+        },
+        {
+          "startTime": 17884,
+          "endTime": 18254,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 18250,
+      "endTime": 19617,
+      "text": "And see what's behind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 18254,
+          "endTime": 18470,
+          "word": "And"
+        },
+        {
+          "startTime": 18470,
+          "endTime": 18670,
+          "word": "see"
+        },
+        {
+          "startTime": 18670,
+          "endTime": 18854,
+          "word": "what's"
+        },
+        {
+          "startTime": 18854,
+          "endTime": 19617,
+          "word": "behind"
+        }
+      ]
+    },
+    {
+      "time": 19810,
+      "endTime": 21406,
+      "text": "Got no way to prove it",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19814,
+          "endTime": 20033,
+          "word": "Got"
+        },
+        {
+          "startTime": 20033,
+          "endTime": 20249,
+          "word": "no"
+        },
+        {
+          "startTime": 20249,
+          "endTime": 20483,
+          "word": "way"
+        },
+        {
+          "startTime": 20483,
+          "endTime": 20699,
+          "word": "to"
+        },
+        {
+          "startTime": 20699,
+          "endTime": 21033,
+          "word": "prove"
+        },
+        {
+          "startTime": 21033,
+          "endTime": 21406,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 21400,
+      "endTime": 23333,
+      "text": "So maybe I'm lyin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21406,
+          "endTime": 21662,
+          "word": "So"
+        },
+        {
+          "startTime": 21662,
+          "endTime": 22094,
+          "word": "maybe"
+        },
+        {
+          "startTime": 22094,
+          "endTime": 22312,
+          "word": "I'm"
+        },
+        {
+          "startTime": 22312,
+          "endTime": 23333,
+          "word": "lyin'"
+        }
+      ]
+    },
+    {
+      "time": 24650,
+      "endTime": 27875,
+      "text": "But I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24658,
+          "endTime": 24893,
+          "word": "But"
+        },
+        {
+          "startTime": 24893,
+          "endTime": 25093,
+          "word": "I'm"
+        },
+        {
+          "startTime": 25093,
+          "endTime": 25525,
+          "word": "only"
+        },
+        {
+          "startTime": 25525,
+          "endTime": 26477,
+          "word": "human"
+        },
+        {
+          "startTime": 26477,
+          "endTime": 27042,
+          "word": "after"
+        },
+        {
+          "startTime": 27042,
+          "endTime": 27875,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 28070,
+      "endTime": 30673,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28072,
+          "endTime": 28290,
+          "word": "I'm"
+        },
+        {
+          "startTime": 28290,
+          "endTime": 28725,
+          "word": "only"
+        },
+        {
+          "startTime": 28725,
+          "endTime": 29658,
+          "word": "human"
+        },
+        {
+          "startTime": 29658,
+          "endTime": 30240,
+          "word": "after"
+        },
+        {
+          "startTime": 30240,
+          "endTime": 30673,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 30670,
+      "endTime": 32845,
+      "text": "Don't put your blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 30673,
+          "endTime": 30907,
+          "word": "Don't"
+        },
+        {
+          "startTime": 30907,
+          "endTime": 31075,
+          "word": "put"
+        },
+        {
+          "startTime": 31075,
+          "endTime": 31291,
+          "word": "your"
+        },
+        {
+          "startTime": 31291,
+          "endTime": 31608,
+          "word": "blame"
+        },
+        {
+          "startTime": 31608,
+          "endTime": 31990,
+          "word": "on"
+        },
+        {
+          "startTime": 31990,
+          "endTime": 32845,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 33910,
+      "endTime": 36041,
+      "text": "Don't put your blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 33918,
+          "endTime": 34099,
+          "word": "Don't"
+        },
+        {
+          "startTime": 34099,
+          "endTime": 34299,
+          "word": "put"
+        },
+        {
+          "startTime": 34299,
+          "endTime": 34518,
+          "word": "your"
+        },
+        {
+          "startTime": 34518,
+          "endTime": 34851,
+          "word": "blame"
+        },
+        {
+          "startTime": 34851,
+          "endTime": 35251,
+          "word": "on"
+        },
+        {
+          "startTime": 35251,
+          "endTime": 36041,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 38810,
+      "endTime": 40689,
+      "text": "Take a look in the mirror",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 38818,
+          "endTime": 39034,
+          "word": "Take"
+        },
+        {
+          "startTime": 39034,
+          "endTime": 39237,
+          "word": "a"
+        },
+        {
+          "startTime": 39237,
+          "endTime": 39453,
+          "word": "look"
+        },
+        {
+          "startTime": 39453,
+          "endTime": 39669,
+          "word": "in"
+        },
+        {
+          "startTime": 39669,
+          "endTime": 39869,
+          "word": "the"
+        },
+        {
+          "startTime": 39869,
+          "endTime": 40689,
+          "word": "mirror"
+        }
+      ]
+    },
+    {
+      "time": 40680,
+      "endTime": 41988,
+      "text": "And what do you see?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40689,
+          "endTime": 40873,
+          "word": "And"
+        },
+        {
+          "startTime": 40873,
+          "endTime": 41089,
+          "word": "what"
+        },
+        {
+          "startTime": 41089,
+          "endTime": 41273,
+          "word": "do"
+        },
+        {
+          "startTime": 41273,
+          "endTime": 41473,
+          "word": "you"
+        },
+        {
+          "startTime": 41473,
+          "endTime": 41988,
+          "word": "see?"
+        }
+      ]
+    },
+    {
+      "time": 42220,
+      "endTime": 43831,
+      "text": "Do you see it clearer",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42225,
+          "endTime": 42460,
+          "word": "Do"
+        },
+        {
+          "startTime": 42460,
+          "endTime": 42676,
+          "word": "you"
+        },
+        {
+          "startTime": 42676,
+          "endTime": 42892,
+          "word": "see"
+        },
+        {
+          "startTime": 42892,
+          "endTime": 43127,
+          "word": "it"
+        },
+        {
+          "startTime": 43127,
+          "endTime": 43831,
+          "word": "clearer"
+        }
+      ]
+    },
+    {
+      "time": 43940,
+      "endTime": 45550,
+      "text": "Or are you deceived",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43943,
+          "endTime": 44143,
+          "word": "Or"
+        },
+        {
+          "startTime": 44143,
+          "endTime": 44327,
+          "word": "are"
+        },
+        {
+          "startTime": 44327,
+          "endTime": 44527,
+          "word": "you"
+        },
+        {
+          "startTime": 44527,
+          "endTime": 45550,
+          "word": "deceived"
+        }
+      ]
+    },
+    {
+      "time": 47060,
+      "endTime": 49289,
+      "text": "In what you believe?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47063,
+          "endTime": 47314,
+          "word": "In"
+        },
+        {
+          "startTime": 47314,
+          "endTime": 47498,
+          "word": "what"
+        },
+        {
+          "startTime": 47498,
+          "endTime": 47698,
+          "word": "you"
+        },
+        {
+          "startTime": 47698,
+          "endTime": 49289,
+          "word": "believe?"
+        }
+      ]
+    },
+    {
+      "time": 50180,
+      "endTime": 53376,
+      "text": "'Cause I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50186,
+          "endTime": 50502,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 50502,
+          "endTime": 50670,
+          "word": "I'm"
+        },
+        {
+          "startTime": 50670,
+          "endTime": 51118,
+          "word": "only"
+        },
+        {
+          "startTime": 51118,
+          "endTime": 52036,
+          "word": "human"
+        },
+        {
+          "startTime": 52036,
+          "endTime": 52604,
+          "word": "after"
+        },
+        {
+          "startTime": 52604,
+          "endTime": 53376,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 53610,
+      "endTime": 56309,
+      "text": "You're only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53617,
+          "endTime": 53833,
+          "word": "You're"
+        },
+        {
+          "startTime": 53833,
+          "endTime": 54351,
+          "word": "only"
+        },
+        {
+          "startTime": 54351,
+          "endTime": 55268,
+          "word": "human"
+        },
+        {
+          "startTime": 55268,
+          "endTime": 55868,
+          "word": "after"
+        },
+        {
+          "startTime": 55868,
+          "endTime": 56309,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 56300,
+      "endTime": 58412,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56309,
+          "endTime": 56533,
+          "word": "Don't"
+        },
+        {
+          "startTime": 56533,
+          "endTime": 56717,
+          "word": "put"
+        },
+        {
+          "startTime": 56717,
+          "endTime": 56917,
+          "word": "the"
+        },
+        {
+          "startTime": 56917,
+          "endTime": 57247,
+          "word": "blame"
+        },
+        {
+          "startTime": 57247,
+          "endTime": 57650,
+          "word": "on"
+        },
+        {
+          "startTime": 57650,
+          "endTime": 58412,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 59460,
+      "endTime": 61559,
+      "text": "Don't put your blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59466,
+          "endTime": 59650,
+          "word": "Don't"
+        },
+        {
+          "startTime": 59650,
+          "endTime": 59866,
+          "word": "put"
+        },
+        {
+          "startTime": 59866,
+          "endTime": 60082,
+          "word": "your"
+        },
+        {
+          "startTime": 60082,
+          "endTime": 60466,
+          "word": "blame"
+        },
+        {
+          "startTime": 60466,
+          "endTime": 60882,
+          "word": "on"
+        },
+        {
+          "startTime": 60882,
+          "endTime": 61559,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 64370,
+      "endTime": 67141,
+      "text": "Some people got the real problems",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 64370,
+          "endTime": 64870,
+          "word": "Some"
+        },
+        {
+          "startTime": 64870,
+          "endTime": 65254,
+          "word": "people"
+        },
+        {
+          "startTime": 65254,
+          "endTime": 65453,
+          "word": "got"
+        },
+        {
+          "startTime": 65453,
+          "endTime": 65654,
+          "word": "the"
+        },
+        {
+          "startTime": 65654,
+          "endTime": 66038,
+          "word": "real"
+        },
+        {
+          "startTime": 66038,
+          "endTime": 67141,
+          "word": "problems"
+        }
+      ]
+    },
+    {
+      "time": 67580,
+      "endTime": 69835,
+      "text": "Some people out of luck",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 67585,
+          "endTime": 68120,
+          "word": "Some"
+        },
+        {
+          "startTime": 68120,
+          "endTime": 68469,
+          "word": "people"
+        },
+        {
+          "startTime": 68469,
+          "endTime": 68669,
+          "word": "out"
+        },
+        {
+          "startTime": 68669,
+          "endTime": 68888,
+          "word": "of"
+        },
+        {
+          "startTime": 68888,
+          "endTime": 69835,
+          "word": "luck"
+        }
+      ]
+    },
+    {
+      "time": 70840,
+      "endTime": 73678,
+      "text": "Some people think I can solve them",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 70841,
+          "endTime": 71241,
+          "word": "Some"
+        },
+        {
+          "startTime": 71241,
+          "endTime": 71625,
+          "word": "people"
+        },
+        {
+          "startTime": 71625,
+          "endTime": 72057,
+          "word": "think"
+        },
+        {
+          "startTime": 72057,
+          "endTime": 72289,
+          "word": "I"
+        },
+        {
+          "startTime": 72289,
+          "endTime": 72508,
+          "word": "can"
+        },
+        {
+          "startTime": 72508,
+          "endTime": 72873,
+          "word": "solve"
+        },
+        {
+          "startTime": 72873,
+          "endTime": 73678,
+          "word": "them"
+        }
+      ]
+    },
+    {
+      "time": 74030,
+      "endTime": 75871,
+      "text": "Lord heavens above",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 74030,
+          "endTime": 74446,
+          "word": "Lord"
+        },
+        {
+          "startTime": 74446,
+          "endTime": 74862,
+          "word": "heavens"
+        },
+        {
+          "startTime": 74862,
+          "endTime": 75871,
+          "word": "above"
+        }
+      ]
+    },
+    {
+      "time": 76060,
+      "endTime": 78965,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 76068,
+          "endTime": 76301,
+          "word": "I'm"
+        },
+        {
+          "startTime": 76301,
+          "endTime": 76702,
+          "word": "only"
+        },
+        {
+          "startTime": 76702,
+          "endTime": 77702,
+          "word": "human"
+        },
+        {
+          "startTime": 77702,
+          "endTime": 78236,
+          "word": "after"
+        },
+        {
+          "startTime": 78236,
+          "endTime": 78965,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 79210,
+      "endTime": 81902,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 79215,
+          "endTime": 79431,
+          "word": "I'm"
+        },
+        {
+          "startTime": 79431,
+          "endTime": 79965,
+          "word": "only"
+        },
+        {
+          "startTime": 79965,
+          "endTime": 80831,
+          "word": "human"
+        },
+        {
+          "startTime": 80831,
+          "endTime": 81414,
+          "word": "after"
+        },
+        {
+          "startTime": 81414,
+          "endTime": 81902,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 81900,
+      "endTime": 84148,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81902,
+          "endTime": 82119,
+          "word": "Don't"
+        },
+        {
+          "startTime": 82119,
+          "endTime": 82303,
+          "word": "put"
+        },
+        {
+          "startTime": 82303,
+          "endTime": 82500,
+          "word": "the"
+        },
+        {
+          "startTime": 82500,
+          "endTime": 82884,
+          "word": "blame"
+        },
+        {
+          "startTime": 82884,
+          "endTime": 83252,
+          "word": "on"
+        },
+        {
+          "startTime": 83252,
+          "endTime": 84148,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 85000,
+      "endTime": 87366,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85008,
+          "endTime": 85324,
+          "word": "Don't"
+        },
+        {
+          "startTime": 85324,
+          "endTime": 85508,
+          "word": "put"
+        },
+        {
+          "startTime": 85508,
+          "endTime": 85759,
+          "word": "the"
+        },
+        {
+          "startTime": 85759,
+          "endTime": 86108,
+          "word": "blame"
+        },
+        {
+          "startTime": 86108,
+          "endTime": 86473,
+          "word": "on"
+        },
+        {
+          "startTime": 86473,
+          "endTime": 87366,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 90200,
+      "endTime": 91828,
+      "text": "Don't ask my opinion",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90200,
+          "endTime": 90467,
+          "word": "Don't"
+        },
+        {
+          "startTime": 90467,
+          "endTime": 90667,
+          "word": "ask"
+        },
+        {
+          "startTime": 90667,
+          "endTime": 90918,
+          "word": "my"
+        },
+        {
+          "startTime": 90918,
+          "endTime": 91828,
+          "word": "opinion"
+        }
+      ]
+    },
+    {
+      "time": 91820,
+      "endTime": 93320,
+      "text": "Don't ask me to lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91828,
+          "endTime": 92112,
+          "word": "Don't"
+        },
+        {
+          "startTime": 92112,
+          "endTime": 92312,
+          "word": "ask"
+        },
+        {
+          "startTime": 92312,
+          "endTime": 92512,
+          "word": "me"
+        },
+        {
+          "startTime": 92512,
+          "endTime": 92712,
+          "word": "to"
+        },
+        {
+          "startTime": 92712,
+          "endTime": 93320,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 93370,
+      "endTime": 95003,
+      "text": "Then beg for forgiveness",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93370,
+          "endTime": 93718,
+          "word": "Then"
+        },
+        {
+          "startTime": 93718,
+          "endTime": 93902,
+          "word": "beg"
+        },
+        {
+          "startTime": 93902,
+          "endTime": 94102,
+          "word": "for"
+        },
+        {
+          "startTime": 94102,
+          "endTime": 95003,
+          "word": "forgiveness"
+        }
+      ]
+    },
+    {
+      "time": 95000,
+      "endTime": 96557,
+      "text": "For making you cry",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95003,
+          "endTime": 95246,
+          "word": "For"
+        },
+        {
+          "startTime": 95246,
+          "endTime": 95729,
+          "word": "making"
+        },
+        {
+          "startTime": 95729,
+          "endTime": 95929,
+          "word": "you"
+        },
+        {
+          "startTime": 95929,
+          "endTime": 96557,
+          "word": "cry"
+        }
+      ]
+    },
+    {
+      "time": 98230,
+      "endTime": 101276,
+      "text": "For making you cry",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98231,
+          "endTime": 98547,
+          "word": "For"
+        },
+        {
+          "startTime": 98547,
+          "endTime": 98931,
+          "word": "making"
+        },
+        {
+          "startTime": 98931,
+          "endTime": 99131,
+          "word": "you"
+        },
+        {
+          "startTime": 99131,
+          "endTime": 101276,
+          "word": "cry"
+        }
+      ]
+    },
+    {
+      "time": 101500,
+      "endTime": 104746,
+      "text": "'Cause I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101500,
+          "endTime": 101719,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 101719,
+          "endTime": 101919,
+          "word": "I'm"
+        },
+        {
+          "startTime": 101919,
+          "endTime": 102119,
+          "word": "only"
+        },
+        {
+          "startTime": 102119,
+          "endTime": 103319,
+          "word": "human"
+        },
+        {
+          "startTime": 103319,
+          "endTime": 103884,
+          "word": "after"
+        },
+        {
+          "startTime": 103884,
+          "endTime": 104746,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 104880,
+      "endTime": 107499,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104883,
+          "endTime": 105102,
+          "word": "I'm"
+        },
+        {
+          "startTime": 105102,
+          "endTime": 105533,
+          "word": "only"
+        },
+        {
+          "startTime": 105533,
+          "endTime": 106451,
+          "word": "human"
+        },
+        {
+          "startTime": 106451,
+          "endTime": 107032,
+          "word": "after"
+        },
+        {
+          "startTime": 107032,
+          "endTime": 107499,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 107490,
+      "endTime": 109969,
+      "text": "Don't put your blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107499,
+          "endTime": 107699,
+          "word": "Don't"
+        },
+        {
+          "startTime": 107699,
+          "endTime": 107899,
+          "word": "put"
+        },
+        {
+          "startTime": 107899,
+          "endTime": 108098,
+          "word": "your"
+        },
+        {
+          "startTime": 108098,
+          "endTime": 108467,
+          "word": "blame"
+        },
+        {
+          "startTime": 108467,
+          "endTime": 108865,
+          "word": "on"
+        },
+        {
+          "startTime": 108865,
+          "endTime": 109969,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 110620,
+      "endTime": 113018,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 110628,
+          "endTime": 110877,
+          "word": "Don't"
+        },
+        {
+          "startTime": 110877,
+          "endTime": 111093,
+          "word": "put"
+        },
+        {
+          "startTime": 111093,
+          "endTime": 111311,
+          "word": "the"
+        },
+        {
+          "startTime": 111311,
+          "endTime": 111661,
+          "word": "blame"
+        },
+        {
+          "startTime": 111661,
+          "endTime": 112045,
+          "word": "on"
+        },
+        {
+          "startTime": 112045,
+          "endTime": 113018,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 114420,
+      "endTime": 118601,
+      "text": "Oh, some people got the real problems",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 114426,
+          "endTime": 115643,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 115643,
+          "endTime": 116062,
+          "word": "some"
+        },
+        {
+          "startTime": 116062,
+          "endTime": 116443,
+          "word": "people"
+        },
+        {
+          "startTime": 116443,
+          "endTime": 116643,
+          "word": "got"
+        },
+        {
+          "startTime": 116643,
+          "endTime": 116843,
+          "word": "the"
+        },
+        {
+          "startTime": 116843,
+          "endTime": 117227,
+          "word": "real"
+        },
+        {
+          "startTime": 117227,
+          "endTime": 118601,
+          "word": "problems"
+        }
+      ]
+    },
+    {
+      "time": 118840,
+      "endTime": 120797,
+      "text": "Some people out of luck",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118842,
+          "endTime": 119258,
+          "word": "Some"
+        },
+        {
+          "startTime": 119258,
+          "endTime": 119658,
+          "word": "people"
+        },
+        {
+          "startTime": 119658,
+          "endTime": 119874,
+          "word": "out"
+        },
+        {
+          "startTime": 119874,
+          "endTime": 120074,
+          "word": "of"
+        },
+        {
+          "startTime": 120074,
+          "endTime": 120797,
+          "word": "luck"
+        }
+      ]
+    },
+    {
+      "time": 122050,
+      "endTime": 124949,
+      "text": "Some people think I can solve them",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 122052,
+          "endTime": 122452,
+          "word": "Some"
+        },
+        {
+          "startTime": 122452,
+          "endTime": 122852,
+          "word": "people"
+        },
+        {
+          "startTime": 122852,
+          "endTime": 123252,
+          "word": "think"
+        },
+        {
+          "startTime": 123252,
+          "endTime": 123452,
+          "word": "I"
+        },
+        {
+          "startTime": 123452,
+          "endTime": 123702,
+          "word": "can"
+        },
+        {
+          "startTime": 123702,
+          "endTime": 124051,
+          "word": "solve"
+        },
+        {
+          "startTime": 124051,
+          "endTime": 124949,
+          "word": "them"
+        }
+      ]
+    },
+    {
+      "time": 125190,
+      "endTime": 127113,
+      "text": "Lord heavens above",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125192,
+          "endTime": 125640,
+          "word": "Lord"
+        },
+        {
+          "startTime": 125640,
+          "endTime": 126040,
+          "word": "heavens"
+        },
+        {
+          "startTime": 126040,
+          "endTime": 127113,
+          "word": "above"
+        }
+      ]
+    },
+    {
+      "time": 127300,
+      "endTime": 130161,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127301,
+          "endTime": 127518,
+          "word": "I'm"
+        },
+        {
+          "startTime": 127518,
+          "endTime": 127969,
+          "word": "only"
+        },
+        {
+          "startTime": 127969,
+          "endTime": 128851,
+          "word": "human"
+        },
+        {
+          "startTime": 128851,
+          "endTime": 129467,
+          "word": "after"
+        },
+        {
+          "startTime": 129467,
+          "endTime": 130161,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 130360,
+      "endTime": 133020,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 130365,
+          "endTime": 130598,
+          "word": "I'm"
+        },
+        {
+          "startTime": 130598,
+          "endTime": 131150,
+          "word": "only"
+        },
+        {
+          "startTime": 131150,
+          "endTime": 132065,
+          "word": "human"
+        },
+        {
+          "startTime": 132065,
+          "endTime": 132617,
+          "word": "after"
+        },
+        {
+          "startTime": 132617,
+          "endTime": 133020,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 133020,
+      "endTime": 135363,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 133020,
+          "endTime": 133270,
+          "word": "Don't"
+        },
+        {
+          "startTime": 133270,
+          "endTime": 133470,
+          "word": "put"
+        },
+        {
+          "startTime": 133470,
+          "endTime": 133670,
+          "word": "the"
+        },
+        {
+          "startTime": 133670,
+          "endTime": 134036,
+          "word": "blame"
+        },
+        {
+          "startTime": 134036,
+          "endTime": 134436,
+          "word": "on"
+        },
+        {
+          "startTime": 134436,
+          "endTime": 135363,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 136200,
+      "endTime": 138628,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136209,
+          "endTime": 136443,
+          "word": "Don't"
+        },
+        {
+          "startTime": 136443,
+          "endTime": 136625,
+          "word": "put"
+        },
+        {
+          "startTime": 136625,
+          "endTime": 136875,
+          "word": "the"
+        },
+        {
+          "startTime": 136875,
+          "endTime": 137243,
+          "word": "blame"
+        },
+        {
+          "startTime": 137243,
+          "endTime": 137627,
+          "word": "on"
+        },
+        {
+          "startTime": 137627,
+          "endTime": 138628,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 139940,
+      "endTime": 141444,
+      "text": "I'm only human",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139944,
+          "endTime": 140192,
+          "word": "I'm"
+        },
+        {
+          "startTime": 140192,
+          "endTime": 140726,
+          "word": "only"
+        },
+        {
+          "startTime": 140726,
+          "endTime": 141444,
+          "word": "human"
+        }
+      ]
+    },
+    {
+      "time": 141440,
+      "endTime": 142960,
+      "text": "I make mistakes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 141444,
+          "endTime": 141660,
+          "word": "I"
+        },
+        {
+          "startTime": 141660,
+          "endTime": 142078,
+          "word": "make"
+        },
+        {
+          "startTime": 142078,
+          "endTime": 142960,
+          "word": "mistakes"
+        }
+      ]
+    },
+    {
+      "time": 143220,
+      "endTime": 144583,
+      "text": "I'm only human",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 143228,
+          "endTime": 143428,
+          "word": "I'm"
+        },
+        {
+          "startTime": 143428,
+          "endTime": 143844,
+          "word": "only"
+        },
+        {
+          "startTime": 143844,
+          "endTime": 144583,
+          "word": "human"
+        }
+      ]
+    },
+    {
+      "time": 144660,
+      "endTime": 145887,
+      "text": "That's all it takes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144660,
+          "endTime": 144876,
+          "word": "That's"
+        },
+        {
+          "startTime": 144876,
+          "endTime": 145244,
+          "word": "all"
+        },
+        {
+          "startTime": 145244,
+          "endTime": 145444,
+          "word": "it"
+        },
+        {
+          "startTime": 145444,
+          "endTime": 145887,
+          "word": "takes"
+        }
+      ]
+    },
+    {
+      "time": 145880,
+      "endTime": 148171,
+      "text": "To put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 145887,
+          "endTime": 146069,
+          "word": "To"
+        },
+        {
+          "startTime": 146069,
+          "endTime": 146269,
+          "word": "put"
+        },
+        {
+          "startTime": 146269,
+          "endTime": 146487,
+          "word": "the"
+        },
+        {
+          "startTime": 146487,
+          "endTime": 146853,
+          "word": "blame"
+        },
+        {
+          "startTime": 146853,
+          "endTime": 147218,
+          "word": "on"
+        },
+        {
+          "startTime": 147218,
+          "endTime": 148171,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 149020,
+      "endTime": 151338,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149027,
+          "endTime": 149259,
+          "word": "Don't"
+        },
+        {
+          "startTime": 149259,
+          "endTime": 149443,
+          "word": "put"
+        },
+        {
+          "startTime": 149443,
+          "endTime": 149659,
+          "word": "the"
+        },
+        {
+          "startTime": 149659,
+          "endTime": 150075,
+          "word": "blame"
+        },
+        {
+          "startTime": 150075,
+          "endTime": 150443,
+          "word": "on"
+        },
+        {
+          "startTime": 150443,
+          "endTime": 151338,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 154240,
+      "endTime": 158444,
+      "text": "‘Cause I'm no prophet or Messiah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 154240,
+          "endTime": 154491,
+          "word": "‘Cause"
+        },
+        {
+          "startTime": 154491,
+          "endTime": 154725,
+          "word": "I'm"
+        },
+        {
+          "startTime": 154725,
+          "endTime": 155240,
+          "word": "no"
+        },
+        {
+          "startTime": 155240,
+          "endTime": 156075,
+          "word": "prophet"
+        },
+        {
+          "startTime": 156075,
+          "endTime": 156365,
+          "word": "or"
+        },
+        {
+          "startTime": 156365,
+          "endTime": 158444,
+          "word": "Messiah"
+        }
+      ]
+    },
+    {
+      "time": 160680,
+      "endTime": 165266,
+      "text": "You should go looking somewhere higher",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 160682,
+          "endTime": 160898,
+          "word": "You"
+        },
+        {
+          "startTime": 160898,
+          "endTime": 161117,
+          "word": "should"
+        },
+        {
+          "startTime": 161117,
+          "endTime": 161701,
+          "word": "go"
+        },
+        {
+          "startTime": 161701,
+          "endTime": 162485,
+          "word": "looking"
+        },
+        {
+          "startTime": 162485,
+          "endTime": 163085,
+          "word": "somewhere"
+        },
+        {
+          "startTime": 163085,
+          "endTime": 165266,
+          "word": "higher"
+        }
+      ]
+    },
+    {
+      "time": 168850,
+      "endTime": 171899,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 168856,
+          "endTime": 169072,
+          "word": "I'm"
+        },
+        {
+          "startTime": 169072,
+          "endTime": 169539,
+          "word": "only"
+        },
+        {
+          "startTime": 169539,
+          "endTime": 170507,
+          "word": "human"
+        },
+        {
+          "startTime": 170507,
+          "endTime": 171072,
+          "word": "after"
+        },
+        {
+          "startTime": 171072,
+          "endTime": 171899,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 172040,
+      "endTime": 174661,
+      "text": "I'm only human after all",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 172047,
+          "endTime": 172263,
+          "word": "I'm"
+        },
+        {
+          "startTime": 172263,
+          "endTime": 172730,
+          "word": "only"
+        },
+        {
+          "startTime": 172730,
+          "endTime": 173714,
+          "word": "human"
+        },
+        {
+          "startTime": 173714,
+          "endTime": 174263,
+          "word": "after"
+        },
+        {
+          "startTime": 174263,
+          "endTime": 174661,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 174660,
+      "endTime": 177042,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 174661,
+          "endTime": 174961,
+          "word": "Don't"
+        },
+        {
+          "startTime": 174961,
+          "endTime": 175145,
+          "word": "put"
+        },
+        {
+          "startTime": 175145,
+          "endTime": 175361,
+          "word": "the"
+        },
+        {
+          "startTime": 175361,
+          "endTime": 175713,
+          "word": "blame"
+        },
+        {
+          "startTime": 175713,
+          "endTime": 176078,
+          "word": "on"
+        },
+        {
+          "startTime": 176078,
+          "endTime": 177042,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 177820,
+      "endTime": 180216,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 177829,
+          "endTime": 178063,
+          "word": "Don't"
+        },
+        {
+          "startTime": 178063,
+          "endTime": 178263,
+          "word": "put"
+        },
+        {
+          "startTime": 178263,
+          "endTime": 178478,
+          "word": "the"
+        },
+        {
+          "startTime": 178478,
+          "endTime": 178879,
+          "word": "blame"
+        },
+        {
+          "startTime": 178879,
+          "endTime": 179263,
+          "word": "on"
+        },
+        {
+          "startTime": 179263,
+          "endTime": 180216,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 181620,
+      "endTime": 183093,
+      "text": "I'm only human",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181627,
+          "endTime": 181859,
+          "word": "I'm"
+        },
+        {
+          "startTime": 181859,
+          "endTime": 182344,
+          "word": "only"
+        },
+        {
+          "startTime": 182344,
+          "endTime": 183093,
+          "word": "human"
+        }
+      ]
+    },
+    {
+      "time": 183140,
+      "endTime": 184587,
+      "text": "I do what I can",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 183149,
+          "endTime": 183349,
+          "word": "I"
+        },
+        {
+          "startTime": 183349,
+          "endTime": 183530,
+          "word": "do"
+        },
+        {
+          "startTime": 183530,
+          "endTime": 183698,
+          "word": "what"
+        },
+        {
+          "startTime": 183698,
+          "endTime": 183914,
+          "word": "I"
+        },
+        {
+          "startTime": 183914,
+          "endTime": 184587,
+          "word": "can"
+        }
+      ]
+    },
+    {
+      "time": 184750,
+      "endTime": 186079,
+      "text": "I'm just a man",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 184752,
+          "endTime": 184984,
+          "word": "I'm"
+        },
+        {
+          "startTime": 184984,
+          "endTime": 185184,
+          "word": "just"
+        },
+        {
+          "startTime": 185184,
+          "endTime": 185434,
+          "word": "a"
+        },
+        {
+          "startTime": 185434,
+          "endTime": 186079,
+          "word": "man"
+        }
+      ]
+    },
+    {
+      "time": 186260,
+      "endTime": 187509,
+      "text": "I do what I can",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 186267,
+          "endTime": 186502,
+          "word": "I"
+        },
+        {
+          "startTime": 186502,
+          "endTime": 186734,
+          "word": "do"
+        },
+        {
+          "startTime": 186734,
+          "endTime": 186969,
+          "word": "what"
+        },
+        {
+          "startTime": 186969,
+          "endTime": 187169,
+          "word": "I"
+        },
+        {
+          "startTime": 187169,
+          "endTime": 187509,
+          "word": "can"
+        }
+      ]
+    },
+    {
+      "time": 187500,
+      "endTime": 189750,
+      "text": "Don't put the blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 187509,
+          "endTime": 187809,
+          "word": "Don't"
+        },
+        {
+          "startTime": 187809,
+          "endTime": 188009,
+          "word": "put"
+        },
+        {
+          "startTime": 188009,
+          "endTime": 188241,
+          "word": "the"
+        },
+        {
+          "startTime": 188241,
+          "endTime": 188558,
+          "word": "blame"
+        },
+        {
+          "startTime": 188558,
+          "endTime": 188977,
+          "word": "on"
+        },
+        {
+          "startTime": 188977,
+          "endTime": 189750,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 190810,
+      "endTime": 193808,
+      "text": "Don't put your blame on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 190815,
+          "endTime": 191147,
+          "word": "Don't"
+        },
+        {
+          "startTime": 191147,
+          "endTime": 191397,
+          "word": "put"
+        },
+        {
+          "startTime": 191397,
+          "endTime": 191629,
+          "word": "your"
+        },
+        {
+          "startTime": 191629,
+          "endTime": 192096,
+          "word": "blame"
+        },
+        {
+          "startTime": 192096,
+          "endTime": 192664,
+          "word": "on"
+        },
+        {
+          "startTime": 192664,
+          "endTime": 193808,
+          "word": "me"
+        }
+      ]
+    }
+  ]
+}
