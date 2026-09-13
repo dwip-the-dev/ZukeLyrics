@@ -7,12 +7,28 @@
     "s": "Rock That Body - The Black Eyed Peas (Lyrics)",
     "l": "und"
   },
+  "TxcmdhjmnEE": {
+    "p": "T/x/TxcmdhjmnEE.json",
+    "t": "word",
+    "d": 158,
+    "a": "Lil Nas X",
+    "s": "Old Town Road (Remix) (feat. Billy Ray Cyrus)",
+    "l": "und"
+  },
   "FyS5dAywkEo": {
     "p": "F/y/FyS5dAywkEo.json",
     "t": "word",
     "d": 187,
     "a": "LISA",
     "s": "SaWaDiKa (Official Music Video)",
+    "l": "und"
+  },
+  "FXovf5dsRTw": {
+    "p": "F/X/FXovf5dsRTw.json",
+    "t": "word",
+    "d": 229,
+    "a": "Luis Fonsi, Daddy Yankee",
+    "s": "Despacito",
     "l": "und"
   },
   "5vOid-7uBdQ": {
@@ -29,6 +45,14 @@
     "d": 62,
     "a": "MXZI, sma$her",
     "s": "ACELERADA (Super Slowed)",
+    "l": "und"
+  },
+  "52vehHn8KfQ": {
+    "p": "5/2/52vehHn8KfQ.json",
+    "t": "word",
+    "d": 200,
+    "a": "Rag'n'Bone Man",
+    "s": "Human",
     "l": "und"
   },
   "GkI9X5g9nKc": {
@@ -55,12 +79,60 @@
     "s": "Kid Cudi - Maui Wowie (Lyrics)",
     "l": "und"
   },
+  "wSOc5jmvF-k": {
+    "p": "w/S/wSOc5jmvF-k.json",
+    "t": "word",
+    "d": 236,
+    "a": "Maroon 5",
+    "s": "Sugar",
+    "l": "und"
+  },
+  "pS5d77DQHOI": {
+    "p": "p/S/pS5d77DQHOI.json",
+    "t": "word",
+    "d": 256,
+    "a": "Teriyaki Boyz",
+    "s": "TOKYO DRIFT（FAST ＆ FURIOUS） (『ワイルドスピードX3 TOKYO DRIFT』より　) - Tokyo Drift (Fast & Furious) (From \"The Fast And The Furious: Tokyo Drift\" Soundtrack)",
+    "l": "und"
+  },
+  "pIb7QoXdP_k": {
+    "p": "p/I/pIb7QoXdP_k.json",
+    "t": "word",
+    "d": 176,
+    "a": "David Guetta, Bebe Rexha",
+    "s": "I'm Good (Blue)",
+    "l": "und"
+  },
+  "pIWaVJPl0-c": {
+    "p": "p/I/pIWaVJPl0-c.json",
+    "t": "word",
+    "d": 213,
+    "a": "Alan Walker",
+    "s": "Faded",
+    "l": "und"
+  },
   "p-Z3YrHJ1sU": {
     "p": "p/_/p-Z3YrHJ1sU.json",
     "t": "word",
     "d": 253,
     "a": "Edward Maya, Vika Jigulina",
     "s": "Stereo Love (Extended Mix)",
+    "l": "und"
+  },
+  "RmYCOm4ehKs": {
+    "p": "R/m/RmYCOm4ehKs.json",
+    "t": "word",
+    "d": 216,
+    "a": "The Weeknd",
+    "s": "Save Your Tears",
+    "l": "und"
+  },
+  "Y2_hKPShcpY": {
+    "p": "Y/2/Y2_hKPShcpY.json",
+    "t": "word",
+    "d": 187,
+    "a": "Majestic, Boney M.",
+    "s": "Rasputin",
     "l": "und"
   },
   "Y3jq_WIHP9k": {
@@ -71,12 +143,44 @@
     "s": "Dai Dai (SPINALL Remix)",
     "l": "und"
   },
+  "lNM9HlEK4q4": {
+    "p": "l/N/lNM9HlEK4q4.json",
+    "t": "word",
+    "d": 194,
+    "a": "Alan Walker",
+    "s": "The Spectre",
+    "l": "und"
+  },
+  "lmG0kY9FtRY": {
+    "p": "l/m/lmG0kY9FtRY.json",
+    "t": "word",
+    "d": 191,
+    "a": "Tungevaag & Raaban",
+    "s": "Bad Boy (feat. Luana Kiara)",
+    "l": "und"
+  },
   "ljAH6jNaApU": {
     "p": "l/j/ljAH6jNaApU.json",
     "t": "word",
     "d": -1,
     "a": "KAROL G, Judeline, & rusowsky",
     "s": "BbY WOW",
+    "l": "und"
+  },
+  "lW9ep22YmlM": {
+    "p": "l/W/lW9ep22YmlM.json",
+    "t": "word",
+    "d": 224,
+    "a": "Egzod, Maestro Chives, Neoni",
+    "s": "Royalty",
+    "l": "und"
+  },
+  "vTMAa6zZ7jY": {
+    "p": "v/T/vTMAa6zZ7jY.json",
+    "t": "word",
+    "d": 238,
+    "a": "Lukas Graham",
+    "s": "7 Years",
     "l": "und"
   },
   "vBynw9Isr28": {
@@ -87,6 +191,22 @@
     "s": "Abracadabra",
     "l": "und"
   },
+  "9ssQKlLxBdQ": {
+    "p": "9/s/9ssQKlLxBdQ.json",
+    "t": "word",
+    "d": 188,
+    "a": "Imagine Dragons",
+    "s": "Thunder",
+    "l": "und"
+  },
+  "dzHdo4yxidc": {
+    "p": "d/z/dzHdo4yxidc.json",
+    "t": "word",
+    "d": 190,
+    "a": "Afrojack, Martin Garrix",
+    "s": "Turn Up The Speakers",
+    "l": "und"
+  },
   "dQw4w9WgXcQ": {
     "p": "d/Q/dQw4w9WgXcQ.json",
     "t": "word",
@@ -95,12 +215,36 @@
     "s": "Never Gonna Give You Up",
     "l": "en"
   },
+  "uFuAHzHOGYQ": {
+    "p": "u/F/uFuAHzHOGYQ.json",
+    "t": "word",
+    "d": 186,
+    "a": "J. Balvin, Willy William",
+    "s": "Mi Gente",
+    "l": "und"
+  },
   "uvY8fdgezLQ": {
     "p": "u/v/uvY8fdgezLQ.json",
     "t": "word",
     "d": 188,
     "a": "Zara Larsson",
     "s": "Midnight Sun",
+    "l": "und"
+  },
+  "uO59tfQ2TbA": {
+    "p": "u/O/uO59tfQ2TbA.json",
+    "t": "word",
+    "d": 200,
+    "a": "David Guetta",
+    "s": "Hey Mama",
+    "l": "und"
+  },
+  "DYf28lOb8KU": {
+    "p": "D/Y/DYf28lOb8KU.json",
+    "t": "word",
+    "d": 177,
+    "a": "Martin Garrix",
+    "s": "Animals (Radio Edit)",
     "l": "und"
   },
   "DlFXDl_ROAM": {
@@ -119,12 +263,28 @@
     "s": "The Fate of Ophelia",
     "l": "und"
   },
+  "e8WoWk4b3D0": {
+    "p": "e/8/e8WoWk4b3D0.json",
+    "t": "word",
+    "d": 204,
+    "a": "Dua Lipa",
+    "s": "Levitating (feat. DaBaby)",
+    "l": "und"
+  },
   "ekr2nIex040": {
     "p": "e/k/ekr2nIex040.json",
     "t": "word",
     "d": 174,
     "a": "ROSÉ, Bruno Mars",
     "s": "APT.",
+    "l": "und"
+  },
+  "SXoQHp2cQQc": {
+    "p": "S/X/SXoQHp2cQQc.json",
+    "t": "word",
+    "d": 208,
+    "a": "Stromae",
+    "s": "Alors on danse (Radio Edit)",
     "l": "und"
   },
   "gCYcHz2k5x0": {
@@ -151,6 +311,14 @@
     "s": "DIA DELÍCIA",
     "l": "und"
   },
+  "2NiyrtYegso": {
+    "p": "2/N/2NiyrtYegso.json",
+    "t": "word",
+    "d": 248,
+    "a": "Avicii",
+    "s": "Wake Me Up",
+    "l": "und"
+  },
   "2xWkATdMQms": {
     "p": "2/x/2xWkATdMQms.json",
     "t": "word",
@@ -167,6 +335,22 @@
     "s": "Aro Kichhu Khan Na Hoy Rahite Kachhe - Mono",
     "l": "und"
   },
+  "kfCTO9PPtVo": {
+    "p": "k/f/kfCTO9PPtVo.json",
+    "t": "word",
+    "d": 215,
+    "a": "Marshmello, Bastille",
+    "s": "Happier",
+    "l": "und"
+  },
+  "kIft-LUHHVA": {
+    "p": "k/I/kIft-LUHHVA.json",
+    "t": "word",
+    "d": 176,
+    "a": "Sabrina Carpenter",
+    "s": "Espresso",
+    "l": "und"
+  },
   "Pkh8UtuejGw": {
     "p": "P/k/Pkh8UtuejGw.json",
     "t": "word",
@@ -181,6 +365,14 @@
     "d": 206,
     "a": "Ariana Grande, The Weeknd",
     "s": "Save Your Tears (Remix) (Official Video)",
+    "l": "und"
+  },
+  "LJzp_mDxaT0": {
+    "p": "L/J/LJzp_mDxaT0.json",
+    "t": "word",
+    "d": 287,
+    "a": "Adele",
+    "s": "Skyfall",
     "l": "und"
   },
   "QGsevnbItdU": {
@@ -207,12 +399,36 @@
     "s": "SEVDALIZA FT. PABLLO VITTAR & YSEULT - ALIBI (Letra/Lyrics)",
     "l": "und"
   },
+  "r7Rn4ryE_w8": {
+    "p": "r/7/r7Rn4ryE_w8.json",
+    "t": "word",
+    "d": 159,
+    "a": "Post Malone, Swae Lee",
+    "s": "Sunflower (Spider-Man: Into the Spider-Verse)",
+    "l": "und"
+  },
   "AHd5c1D4KGw": {
     "p": "A/H/AHd5c1D4KGw.json",
     "t": "word",
     "d": 196,
     "a": "Hemanta Mukherjee",
     "s": "Amay Prashna Kare Neel Dhrubatara",
+    "l": "und"
+  },
+  "fRQg_9ulGuI": {
+    "p": "f/R/fRQg_9ulGuI.json",
+    "t": "word",
+    "d": 265,
+    "a": "Lana Del Rey",
+    "s": "Summertime Sadness",
+    "l": "und"
+  },
+  "ffqliB42Nh4": {
+    "p": "f/f/ffqliB42Nh4.json",
+    "t": "word",
+    "d": 218,
+    "a": "Charlie Puth",
+    "s": "We Don't Talk Anymore (feat. Selena Gomez)",
     "l": "und"
   },
   "fJ9rUzIMcZQ": {
@@ -222,6 +438,30 @@
     "a": "Queen",
     "s": "Bohemian Rhapsody",
     "l": "en"
+  },
+  "cfhwSpSDA9c": {
+    "p": "c/f/cfhwSpSDA9c.json",
+    "t": "word",
+    "d": 218,
+    "a": "Sia",
+    "s": "Unstoppable",
+    "l": "und"
+  },
+  "cCfPDrRQp9k": {
+    "p": "c/C/cCfPDrRQp9k.json",
+    "t": "word",
+    "d": 186,
+    "a": "Dua Lipa",
+    "s": "Houdini",
+    "l": "und"
+  },
+  "cygu65ytwTc": {
+    "p": "c/y/cygu65ytwTc.json",
+    "t": "word",
+    "d": 142,
+    "a": "Frizk",
+    "s": "ALL MY FELLAS",
+    "l": "und"
   },
   "co-TFLbaZAE": {
     "p": "c/o/co-TFLbaZAE.json",
@@ -255,12 +495,28 @@
     "s": "PASSO BEM SOLTO (Slowed)",
     "l": "und"
   },
+  "NaaiI1y9QIo": {
+    "p": "N/a/NaaiI1y9QIo.json",
+    "t": "word",
+    "d": 222,
+    "a": "Dua Lipa",
+    "s": "Break My Heart",
+    "l": "und"
+  },
   "0vPdpUiVWi8": {
     "p": "0/v/0vPdpUiVWi8.json",
     "t": "word",
     "d": 179,
     "a": "Creative Chaos",
     "s": "Kendrick Lamar - luther (Lyrics) ft. SZA",
+    "l": "und"
+  },
+  "IkL-RjXJLv0": {
+    "p": "I/k/IkL-RjXJLv0.json",
+    "t": "word",
+    "d": 259,
+    "a": "Dua Lipa",
+    "s": "Love Again",
     "l": "und"
   },
   "CgCVZdcKcqY": {
@@ -271,6 +527,22 @@
     "s": "JUMP",
     "l": "und"
   },
+  "CXU7Xlf8wTI": {
+    "p": "C/X/CXU7Xlf8wTI.json",
+    "t": "word",
+    "d": 212,
+    "a": "Alan Walker, Au/Ra, Tomine Harket",
+    "s": "Darkside",
+    "l": "und"
+  },
+  "xTvyyoF_LZY": {
+    "p": "x/T/xTvyyoF_LZY.json",
+    "t": "word",
+    "d": 234,
+    "a": "Ed Sheeran",
+    "s": "Shape of You",
+    "l": "und"
+  },
   "yebNIHKAC4A": {
     "p": "y/e/yebNIHKAC4A.json",
     "t": "word",
@@ -279,12 +551,28 @@
     "s": "Golden",
     "l": "und"
   },
+  "BRpS93I8_Jk": {
+    "p": "B/R/BRpS93I8_Jk.json",
+    "t": "word",
+    "d": 252,
+    "a": "AURORA",
+    "s": "Runaway",
+    "l": "und"
+  },
   "B9synWjqBn8": {
     "p": "B/9/B9synWjqBn8.json",
     "t": "word",
     "d": 210,
     "a": "Travis Scott",
     "s": "FE!N (feat. Playboi Carti)",
+    "l": "und"
+  },
+  "BLZWkjBXfN8": {
+    "p": "B/L/BLZWkjBXfN8.json",
+    "t": "word",
+    "d": 217,
+    "a": "Linkin Park",
+    "s": "In the End",
     "l": "und"
   },
   "V9PVRfjEBTI": {
@@ -311,6 +599,14 @@
     "s": "Señorita",
     "l": "und"
   },
+  "VWQ-e0qXX0M": {
+    "p": "V/W/VWQ-e0qXX0M.json",
+    "t": "word",
+    "d": 185,
+    "a": "Dynoro, Gigi D'Agostino",
+    "s": "In My Mind",
+    "l": "und"
+  },
   "HE20ic6Z6Ic": {
     "p": "H/E/HE20ic6Z6Ic.json",
     "t": "word",
@@ -319,12 +615,92 @@
     "s": "CHANEL",
     "l": "und"
   },
+  "HZbsLxL7GeM": {
+    "p": "H/Z/HZbsLxL7GeM.json",
+    "t": "word",
+    "d": 234,
+    "a": "Ruth B.",
+    "s": "Dandelions",
+    "l": "und"
+  },
+  "Hx4nWW9z0ig": {
+    "p": "H/x/Hx4nWW9z0ig.json",
+    "t": "word",
+    "d": 210,
+    "a": "Tones And I",
+    "s": "Dance Monkey",
+    "l": "und"
+  },
+  "H3Kzh6RrnMc": {
+    "p": "H/3/H3Kzh6RrnMc.json",
+    "t": "word",
+    "d": 259,
+    "a": "Coldplay",
+    "s": "Hymn for the Weekend",
+    "l": "und"
+  },
+  "XDbW5bXrm7I": {
+    "p": "X/D/XDbW5bXrm7I.json",
+    "t": "word",
+    "d": 236,
+    "a": "Maroon 5",
+    "s": "Girls Like You (Cardi B Version) (feat. Cardi B)",
+    "l": "und"
+  },
   "XtZTpxnrHAc": {
     "p": "X/t/XtZTpxnrHAc.json",
     "t": "word",
     "d": -1,
     "a": "Sachin-Jigar, Amitabh Bhattacharya, Divya Kumar, Madhubanti Bagchi",
     "s": "Aaj Ki Raat (From \"Stree 2\")",
+    "l": "und"
+  },
+  "XWCPbRsMb0Q": {
+    "p": "X/W/XWCPbRsMb0Q.json",
+    "t": "word",
+    "d": 215,
+    "a": "Calvin Harris, Dua Lipa",
+    "s": "One Kiss",
+    "l": "und"
+  },
+  "hJWSZDJb-W4": {
+    "p": "h/J/hJWSZDJb-W4.json",
+    "t": "word",
+    "d": 231,
+    "a": "Ed Sheeran",
+    "s": "Bad Habits",
+    "l": "und"
+  },
+  "_GWKkqNoyEA": {
+    "p": "_/G/_GWKkqNoyEA.json",
+    "t": "word",
+    "d": 258,
+    "a": "OneRepublic",
+    "s": "Counting Stars",
+    "l": "und"
+  },
+  "-SttFgyRNCI": {
+    "p": "_/S/-SttFgyRNCI.json",
+    "t": "word",
+    "d": 213,
+    "a": "Clean Bandit",
+    "s": "Symphony (feat. Zara Larsson)",
+    "l": "und"
+  },
+  "qSay_8xzijg": {
+    "p": "q/S/qSay_8xzijg.json",
+    "t": "word",
+    "d": 188,
+    "a": "Shawn Mendes",
+    "s": "Treat You Better",
+    "l": "und"
+  },
+  "o2eD7WNYqfQ": {
+    "p": "o/2/o2eD7WNYqfQ.json",
+    "t": "word",
+    "d": 213,
+    "a": "Calvin Harris, Disciples",
+    "s": "How Deep Is Your Love",
     "l": "und"
   },
   "by4SYYWlhVE": {
@@ -351,6 +727,14 @@
     "s": "Lucid Dreams",
     "l": "und"
   },
+  "mJLDjIWuPXU": {
+    "p": "m/J/mJLDjIWuPXU.json",
+    "t": "word",
+    "d": 218,
+    "a": "Camila Cabello",
+    "s": "Havana (feat. Young Thug)",
+    "l": "und"
+  },
   "m4_9TFeMfJE": {
     "p": "m/4/m4_9TFeMfJE.json",
     "t": "word",
@@ -365,6 +749,70 @@
     "d": 178,
     "a": "NewMelody",
     "s": "Alyssa Grace - bloodstream (Lyrics)",
+    "l": "und"
+  },
+  "a2kSzfzDu8Y": {
+    "p": "a/2/a2kSzfzDu8Y.json",
+    "t": "word",
+    "d": 215,
+    "a": "Serhat Durmus",
+    "s": "Hislerim (feat. Zerrin Temiz)",
+    "l": "und"
+  },
+  "aZwklvDdaVw": {
+    "p": "a/Z/aZwklvDdaVw.json",
+    "t": "word",
+    "d": 162,
+    "a": "Alan Walker",
+    "s": "Alone",
+    "l": "und"
+  },
+  "aVDLBQpWefM": {
+    "p": "a/V/aVDLBQpWefM.json",
+    "t": "word",
+    "d": 242,
+    "a": "Burak Yeter",
+    "s": "Tuesday (feat. Danelle Sandoval)",
+    "l": "und"
+  },
+  "aatr_2MstrI": {
+    "p": "a/a/aatr_2MstrI.json",
+    "t": "word",
+    "d": 246,
+    "a": "Clean Bandit",
+    "s": "Symphony",
+    "l": "und"
+  },
+  "nugmZqIP0uk": {
+    "p": "n/u/nugmZqIP0uk.json",
+    "t": "word",
+    "d": 230,
+    "a": "Wiz Khalifa",
+    "s": "See You Again (feat. Charlie Puth)",
+    "l": "und"
+  },
+  "nyuo9-OjNNg": {
+    "p": "n/y/nyuo9-OjNNg.json",
+    "t": "word",
+    "d": 184,
+    "a": "Arctic Monkeys",
+    "s": "I Wanna Be Yours",
+    "l": "und"
+  },
+  "3x2ABSAMVno": {
+    "p": "3/x/3x2ABSAMVno.json",
+    "t": "word",
+    "d": 193,
+    "a": "David Guetta",
+    "s": "Shot Me Down (feat. Skylar Grey)",
+    "l": "und"
+  },
+  "3skZLJiyk9k": {
+    "p": "3/s/3skZLJiyk9k.json",
+    "t": "word",
+    "d": 199,
+    "a": "David Guetta",
+    "s": "Say My Name (feat. Bebe Rexha & J Balvin)",
     "l": "und"
   },
   "UDVLn4Xvyz8": {
@@ -391,12 +839,36 @@
     "s": "The Nights",
     "l": "und"
   },
+  "jVBsM8CM0AE": {
+    "p": "j/V/jVBsM8CM0AE.json",
+    "t": "word",
+    "d": 143,
+    "a": "Artemas",
+    "s": "i like the way you kiss me",
+    "l": "und"
+  },
   "jOGw40aaVKQ": {
     "p": "j/O/jOGw40aaVKQ.json",
     "t": "word",
     "d": 212,
     "a": "Måneskin",
     "s": "Beggin'",
+    "l": "und"
+  },
+  "KSgKKSny0Qo": {
+    "p": "K/S/KSgKKSny0Qo.json",
+    "t": "word",
+    "d": 223,
+    "a": "Calvin Harris",
+    "s": "Summer",
+    "l": "und"
+  },
+  "KPM_BYl-EaQ": {
+    "p": "K/P/KPM_BYl-EaQ.json",
+    "t": "word",
+    "d": 174,
+    "a": "Harry Styles",
+    "s": "Watermelon Sugar",
     "l": "und"
   },
   "KAljnUezZFk": {
@@ -407,6 +879,54 @@
     "s": "Nightmare",
     "l": "und"
   },
+  "Kcj5-jWxgKs": {
+    "p": "K/c/Kcj5-jWxgKs.json",
+    "t": "word",
+    "d": 170,
+    "a": "Alec Benjamin",
+    "s": "Let Me Down Slowly",
+    "l": "und"
+  },
+  "K_idN3P5_yk": {
+    "p": "K/_/K_idN3P5_yk.json",
+    "t": "word",
+    "d": 211,
+    "a": "Sia",
+    "s": "Cheap Thrills",
+    "l": "und"
+  },
+  "KWuyx6yZ21U": {
+    "p": "K/W/KWuyx6yZ21U.json",
+    "t": "word",
+    "d": 268,
+    "a": "Coldplay",
+    "s": "A Sky Full of Stars",
+    "l": "und"
+  },
+  "KJtOTXqaW9w": {
+    "p": "K/J/KJtOTXqaW9w.json",
+    "t": "word",
+    "d": 168,
+    "a": "GIMS",
+    "s": "NINAO",
+    "l": "und"
+  },
+  "iR1sAex__VA": {
+    "p": "i/R/iR1sAex__VA.json",
+    "t": "word",
+    "d": 231,
+    "a": "Avicii",
+    "s": "Waiting For Love",
+    "l": "und"
+  },
+  "1ELDTrpecTU": {
+    "p": "1/E/1ELDTrpecTU.json",
+    "t": "word",
+    "d": 223,
+    "a": "Clean Bandit",
+    "s": "Solo (feat. Demi Lovato)",
+    "l": "und"
+  },
   "WNmsURkR2-w": {
     "p": "W/N/WNmsURkR2-w.json",
     "t": "word",
@@ -415,12 +935,124 @@
     "s": "Taylor Swift - The Fate of Ophelia",
     "l": "und"
   },
+  "WKZO-CWeOVA": {
+    "p": "W/K/WKZO-CWeOVA.json",
+    "t": "word",
+    "d": 211,
+    "a": "Billie Eilish",
+    "s": "BIRDS OF A FEATHER",
+    "l": "und"
+  },
+  "WMK3JXG3Fx0": {
+    "p": "W/M/WMK3JXG3Fx0.json",
+    "t": "word",
+    "d": 238,
+    "a": "Jaymes Young",
+    "s": "Infinity",
+    "l": "und"
+  },
+  "W4C-NEWrnSQ": {
+    "p": "W/4/W4C-NEWrnSQ.json",
+    "t": "word",
+    "d": 177,
+    "a": "Avicii",
+    "s": "The Nights",
+    "l": "und"
+  },
+  "ORrFJ63nlcA": {
+    "p": "O/R/ORrFJ63nlcA.json",
+    "t": "word",
+    "d": 264,
+    "a": "Ed Sheeran",
+    "s": "Perfect",
+    "l": "und"
+  },
+  "OBs1Fb8adGQ": {
+    "p": "O/B/OBs1Fb8adGQ.json",
+    "t": "word",
+    "d": 274,
+    "a": "Marshmello",
+    "s": "Alone",
+    "l": "und"
+  },
+  "O_d3DXVb430": {
+    "p": "O/_/O_d3DXVb430.json",
+    "t": "word",
+    "d": 211,
+    "a": "David Guetta",
+    "s": "Memories (feat. Kid Cudi)",
+    "l": "und"
+  },
+  "OsfAnsMY21M": {
+    "p": "O/s/OsfAnsMY21M.json",
+    "t": "word",
+    "d": 204,
+    "a": "Dua Lipa",
+    "s": "Levitating",
+    "l": "und"
+  },
+  "OjpX8ILe2N4": {
+    "p": "O/j/OjpX8ILe2N4.json",
+    "t": "word",
+    "d": 256,
+    "a": "Avicii",
+    "s": "Hey Brother",
+    "l": "und"
+  },
+  "MHCsrKA9gh8": {
+    "p": "M/H/MHCsrKA9gh8.json",
+    "t": "word",
+    "d": 215,
+    "a": "yung kai",
+    "s": "blue",
+    "l": "und"
+  },
+  "MhzjE9hZhrE": {
+    "p": "M/h/MhzjE9hZhrE.json",
+    "t": "word",
+    "d": 213,
+    "a": "DJ Snake",
+    "s": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+    "l": "und"
+  },
+  "Mnu5-meFyfI": {
+    "p": "M/n/Mnu5-meFyfI.json",
+    "t": "word",
+    "d": 199,
+    "a": "Aaron Smith, Krono",
+    "s": "Dancin (Krono Remix) (feat. Luvli)",
+    "l": "und"
+  },
+  "J7p4bzqLvCw": {
+    "p": "J/7/J7p4bzqLvCw.json",
+    "t": "word",
+    "d": 202,
+    "a": "The Weeknd",
+    "s": "Blinding Lights",
+    "l": "und"
+  },
   "JgDNFQ2RaLQ": {
     "p": "J/g/JgDNFQ2RaLQ.json",
     "t": "word",
     "d": 184,
     "a": "Ed Sheeran",
     "s": "Sapphire",
+    "l": "und"
+  },
+  "JApegyYlvyY": {
+    "p": "J/A/JApegyYlvyY.json",
+    "t": "word",
+    "d": 174,
+    "a": "Powfu, beabadoobee",
+    "s": "death bed (coffee for your head)",
+    "l": "und"
+  },
+  "4u4d4GWdpo8": {
+    "p": "4/u/4u4d4GWdpo8.json",
+    "t": "word",
+    "d": 196,
+    "a": "Martin Garrix, Bebe Rexha",
+    "s": "In the Name of Love",
     "l": "und"
   }
 }
