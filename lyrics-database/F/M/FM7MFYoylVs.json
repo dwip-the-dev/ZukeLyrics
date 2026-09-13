@@ -1,0 +1,1943 @@
+{
+  "videoId": "FM7MFYoylVs",
+  "title": "Something Just Like This",
+  "artist": "The Chainsmokers, Coldplay",
+  "duration": 248,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:07.860\" end=\"00:10.302\" ttm:agent=\"v1\">\n        <span begin=\"00:07.865\" end=\"00:08.124\">I&apos;ve<\/span>\n        <span begin=\"00:08.124\" end=\"00:08.385\">been<\/span>\n        <span begin=\"00:08.385\" end=\"00:08.961\">reading<\/span>\n        <span begin=\"00:08.961\" end=\"00:09.255\">books<\/span>\n        <span begin=\"00:09.255\" end=\"00:09.537\">of<\/span>\n        <span begin=\"00:09.537\" end=\"00:10.302\">old<\/span>\n      <\/p>\n      <p begin=\"00:10.390\" end=\"00:12.601\" ttm:agent=\"v1\">\n        <span begin=\"00:10.398\" end=\"00:10.761\">The<\/span>\n        <span begin=\"00:10.761\" end=\"00:11.334\">legends<\/span>\n        <span begin=\"00:11.334\" end=\"00:11.630\">and<\/span>\n        <span begin=\"00:11.630\" end=\"00:11.894\">the<\/span>\n        <span begin=\"00:11.894\" end=\"00:12.601\">myths<\/span>\n      <\/p>\n      <p begin=\"00:12.690\" end=\"00:14.932\" ttm:agent=\"v1\">\n        <span begin=\"00:12.697\" end=\"00:13.621\">Achilles<\/span>\n        <span begin=\"00:13.621\" end=\"00:13.925\">and<\/span>\n        <span begin=\"00:13.925\" end=\"00:14.221\">his<\/span>\n        <span begin=\"00:14.221\" end=\"00:14.932\">gold<\/span>\n      <\/p>\n      <p begin=\"00:15.020\" end=\"00:17.289\" ttm:agent=\"v1\">\n        <span begin=\"00:15.022\" end=\"00:15.970\">Hercules<\/span>\n        <span begin=\"00:15.970\" end=\"00:16.271\">and<\/span>\n        <span begin=\"00:16.271\" end=\"00:16.576\">his<\/span>\n        <span begin=\"00:16.576\" end=\"00:17.289\">gifts<\/span>\n      <\/p>\n      <p begin=\"00:17.360\" end=\"00:19.625\" ttm:agent=\"v1\">\n        <span begin=\"00:17.366\" end=\"00:18.573\">Spider-Man&apos;s<\/span>\n        <span begin=\"00:18.573\" end=\"00:19.625\">control<\/span>\n      <\/p>\n      <p begin=\"00:19.680\" end=\"00:22.327\" ttm:agent=\"v1\">\n        <span begin=\"00:19.684\" end=\"00:20.055\">And<\/span>\n        <span begin=\"00:20.055\" end=\"00:20.639\">Batman<\/span>\n        <span begin=\"00:20.639\" end=\"00:20.919\">with<\/span>\n        <span begin=\"00:20.919\" end=\"00:21.239\">his<\/span>\n        <span begin=\"00:21.239\" end=\"00:22.327\">fists<\/span>\n      <\/p>\n      <p begin=\"00:22.580\" end=\"00:26.214\" ttm:agent=\"v1\">\n        <span begin=\"00:22.588\" end=\"00:22.941\">And<\/span>\n        <span begin=\"00:22.941\" end=\"00:23.552\">clearly,<\/span>\n        <span begin=\"00:23.552\" end=\"00:23.856\">I<\/span>\n        <span begin=\"00:23.856\" end=\"00:24.133\">don&apos;t<\/span>\n        <span begin=\"00:24.133\" end=\"00:24.408\">see<\/span>\n        <span begin=\"00:24.408\" end=\"00:25.003\">myself<\/span>\n        <span begin=\"00:25.003\" end=\"00:25.579\">upon<\/span>\n        <span begin=\"00:25.579\" end=\"00:25.859\">that<\/span>\n        <span begin=\"00:25.859\" end=\"00:26.214\">list<\/span>\n      <\/p>\n      <p begin=\"00:26.210\" end=\"00:26.934\" ttm:agent=\"v1\">\n        <span begin=\"00:26.219\" end=\"00:26.443\">But<\/span>\n        <span begin=\"00:26.443\" end=\"00:26.699\">she<\/span>\n        <span begin=\"00:26.699\" end=\"00:26.934\">said<\/span>\n      <\/p>\n      <p begin=\"00:26.930\" end=\"00:28.884\" ttm:agent=\"v1\">\n        <span begin=\"00:26.934\" end=\"00:27.292\">&quot;Where&apos;d<\/span>\n        <span begin=\"00:27.292\" end=\"00:27.602\">you<\/span>\n        <span begin=\"00:27.602\" end=\"00:28.202\">wanna<\/span>\n        <span begin=\"00:28.202\" end=\"00:28.884\">go?<\/span>\n      <\/p>\n      <p begin=\"00:28.980\" end=\"00:30.991\" ttm:agent=\"v1\">\n        <span begin=\"00:28.980\" end=\"00:29.351\">How<\/span>\n        <span begin=\"00:29.351\" end=\"00:29.652\">much<\/span>\n        <span begin=\"00:29.652\" end=\"00:29.924\">you<\/span>\n        <span begin=\"00:29.924\" end=\"00:30.492\">wanna<\/span>\n        <span begin=\"00:30.492\" end=\"00:30.991\">risk?<\/span>\n      <\/p>\n      <p begin=\"00:31.020\" end=\"00:33.341\" ttm:agent=\"v1\">\n        <span begin=\"00:31.020\" end=\"00:31.415\">I&apos;m<\/span>\n        <span begin=\"00:31.415\" end=\"00:31.700\">not<\/span>\n        <span begin=\"00:31.700\" end=\"00:32.296\">looking<\/span>\n        <span begin=\"00:32.296\" end=\"00:32.583\">for<\/span>\n        <span begin=\"00:32.583\" end=\"00:33.341\">somebody<\/span>\n      <\/p>\n      <p begin=\"00:33.340\" end=\"00:35.829\" ttm:agent=\"v1\">\n        <span begin=\"00:33.341\" end=\"00:33.705\">With<\/span>\n        <span begin=\"00:33.705\" end=\"00:33.999\">some<\/span>\n        <span begin=\"00:33.999\" end=\"00:35.151\">superhuman<\/span>\n        <span begin=\"00:35.151\" end=\"00:35.829\">gifts<\/span>\n      <\/p>\n      <p begin=\"00:35.920\" end=\"00:38.042\" ttm:agent=\"v1\">\n        <span begin=\"00:35.925\" end=\"00:36.333\">Some<\/span>\n        <span begin=\"00:36.333\" end=\"00:38.042\">superhero<\/span>\n      <\/p>\n      <p begin=\"00:38.240\" end=\"00:40.513\" ttm:agent=\"v1\">\n        <span begin=\"00:38.244\" end=\"00:38.663\">Some<\/span>\n        <span begin=\"00:38.663\" end=\"00:39.807\">fairytale<\/span>\n        <span begin=\"00:39.807\" end=\"00:40.513\">bliss<\/span>\n      <\/p>\n      <p begin=\"00:40.620\" end=\"00:42.793\" ttm:agent=\"v1\">\n        <span begin=\"00:40.625\" end=\"00:40.990\">Just<\/span>\n        <span begin=\"00:40.990\" end=\"00:41.577\">something<\/span>\n        <span begin=\"00:41.577\" end=\"00:41.870\">I<\/span>\n        <span begin=\"00:41.870\" end=\"00:42.134\">can<\/span>\n        <span begin=\"00:42.134\" end=\"00:42.489\">turn<\/span>\n        <span begin=\"00:42.489\" end=\"00:42.793\">to<\/span>\n      <\/p>\n      <p begin=\"00:42.920\" end=\"00:44.921\" ttm:agent=\"v1\">\n        <span begin=\"00:42.921\" end=\"00:43.924\">Somebody<\/span>\n        <span begin=\"00:43.924\" end=\"00:44.204\">I<\/span>\n        <span begin=\"00:44.204\" end=\"00:44.490\">can<\/span>\n        <span begin=\"00:44.490\" end=\"00:44.921\">kiss<\/span>\n      <\/p>\n      <p begin=\"00:45.000\" end=\"00:47.564\" ttm:agent=\"v1\">\n        <span begin=\"00:45.001\" end=\"00:45.382\">I<\/span>\n        <span begin=\"00:45.382\" end=\"00:45.692\">want<\/span>\n        <span begin=\"00:45.692\" end=\"00:46.260\">something<\/span>\n        <span begin=\"00:46.260\" end=\"00:46.542\">just<\/span>\n        <span begin=\"00:46.542\" end=\"00:47.100\">like<\/span>\n        <span begin=\"00:47.100\" end=\"00:47.564\">this&quot;<\/span>\n      <\/p>\n      <p begin=\"00:47.620\" end=\"00:49.716\" ttm:agent=\"v1\">\n        <span begin=\"00:47.628\" end=\"00:48.282\">Doo-doo-doo,<\/span>\n        <span begin=\"00:48.282\" end=\"00:49.716\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"00:49.940\" end=\"00:52.017\" ttm:agent=\"v1\">\n        <span begin=\"00:49.945\" end=\"00:50.633\">Doo-doo-doo,<\/span>\n        <span begin=\"00:50.633\" end=\"00:50.935\">doo,<\/span>\n        <span begin=\"00:50.935\" end=\"00:52.017\">doo<\/span>\n      <\/p>\n      <p begin=\"00:52.290\" end=\"00:54.060\" ttm:agent=\"v1\">\n        <span begin=\"00:52.295\" end=\"00:52.932\">Doo-doo-doo,<\/span>\n        <span begin=\"00:52.932\" end=\"00:54.060\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"00:54.060\" end=\"00:56.836\" ttm:agent=\"v1\">\n        <span begin=\"00:54.060\" end=\"00:54.412\">Oh,<\/span>\n        <span begin=\"00:54.412\" end=\"00:54.716\">I<\/span>\n        <span begin=\"00:54.716\" end=\"00:54.996\">want<\/span>\n        <span begin=\"00:54.996\" end=\"00:55.567\">something<\/span>\n        <span begin=\"00:55.567\" end=\"00:55.836\">just<\/span>\n        <span begin=\"00:55.836\" end=\"00:56.375\">like<\/span>\n        <span begin=\"00:56.375\" end=\"00:56.836\">this<\/span>\n      <\/p>\n      <p begin=\"00:56.960\" end=\"00:59.276\" ttm:agent=\"v1\">\n        <span begin=\"00:56.964\" end=\"00:57.617\">Doo-doo-doo,<\/span>\n        <span begin=\"00:57.617\" end=\"00:59.276\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"00:59.280\" end=\"01:01.571\" ttm:agent=\"v1\">\n        <span begin=\"00:59.289\" end=\"00:59.951\">Doo-doo-doo,<\/span>\n        <span begin=\"00:59.951\" end=\"01:00.519\">doo,<\/span>\n        <span begin=\"01:00.519\" end=\"01:01.571\">doo<\/span>\n      <\/p>\n      <p begin=\"01:01.570\" end=\"01:03.355\" ttm:agent=\"v1\">\n        <span begin=\"01:01.571\" end=\"01:02.275\">Doo-doo-doo,<\/span>\n        <span begin=\"01:02.275\" end=\"01:03.355\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"01:03.350\" end=\"01:06.672\" ttm:agent=\"v1\">\n        <span begin=\"01:03.355\" end=\"01:03.718\">Oh,<\/span>\n        <span begin=\"01:03.718\" end=\"01:03.998\">I<\/span>\n        <span begin=\"01:03.998\" end=\"01:04.300\">want<\/span>\n        <span begin=\"01:04.300\" end=\"01:04.876\">something<\/span>\n        <span begin=\"01:04.876\" end=\"01:05.169\">just<\/span>\n        <span begin=\"01:05.169\" end=\"01:05.737\">like<\/span>\n        <span begin=\"01:05.737\" end=\"01:06.672\">this<\/span>\n      <\/p>\n      <p begin=\"01:12.960\" end=\"01:15.920\" ttm:agent=\"v1\">\n        <span begin=\"01:12.968\" end=\"01:13.325\">I<\/span>\n        <span begin=\"01:13.325\" end=\"01:13.616\">want<\/span>\n        <span begin=\"01:13.616\" end=\"01:14.184\">something<\/span>\n        <span begin=\"01:14.184\" end=\"01:14.483\">just<\/span>\n        <span begin=\"01:14.483\" end=\"01:15.029\">like<\/span>\n        <span begin=\"01:15.029\" end=\"01:15.920\">this<\/span>\n      <\/p>\n      <p begin=\"01:22.450\" end=\"01:24.953\" ttm:agent=\"v1\">\n        <span begin=\"01:22.451\" end=\"01:22.675\">I&apos;ve<\/span>\n        <span begin=\"01:22.675\" end=\"01:22.925\">been<\/span>\n        <span begin=\"01:22.925\" end=\"01:23.499\">reading<\/span>\n        <span begin=\"01:23.499\" end=\"01:23.803\">books<\/span>\n        <span begin=\"01:23.803\" end=\"01:24.101\">of<\/span>\n        <span begin=\"01:24.101\" end=\"01:24.953\">old<\/span>\n      <\/p>\n      <p begin=\"01:24.950\" end=\"01:27.206\" ttm:agent=\"v1\">\n        <span begin=\"01:24.953\" end=\"01:25.291\">The<\/span>\n        <span begin=\"01:25.291\" end=\"01:25.875\">legends<\/span>\n        <span begin=\"01:25.875\" end=\"01:26.164\">and<\/span>\n        <span begin=\"01:26.164\" end=\"01:26.456\">the<\/span>\n        <span begin=\"01:26.456\" end=\"01:27.206\">myths<\/span>\n      <\/p>\n      <p begin=\"01:27.240\" end=\"01:29.572\" ttm:agent=\"v1\">\n        <span begin=\"01:27.249\" end=\"01:27.615\">The<\/span>\n        <span begin=\"01:27.615\" end=\"01:28.492\">testaments<\/span>\n        <span begin=\"01:28.492\" end=\"01:28.769\">they<\/span>\n        <span begin=\"01:28.769\" end=\"01:29.572\">told<\/span>\n      <\/p>\n      <p begin=\"01:29.580\" end=\"01:31.771\" ttm:agent=\"v1\">\n        <span begin=\"01:29.585\" end=\"01:29.929\">The<\/span>\n        <span begin=\"01:29.929\" end=\"01:30.225\">moon<\/span>\n        <span begin=\"01:30.225\" end=\"01:30.533\">and<\/span>\n        <span begin=\"01:30.533\" end=\"01:30.795\">its<\/span>\n        <span begin=\"01:30.795\" end=\"01:31.771\">eclipse<\/span>\n      <\/p>\n      <p begin=\"01:31.880\" end=\"01:34.152\" ttm:agent=\"v1\">\n        <span begin=\"01:31.884\" end=\"01:32.256\">And<\/span>\n        <span begin=\"01:32.256\" end=\"01:33.144\">Superman<\/span>\n        <span begin=\"01:33.144\" end=\"01:34.152\">unrolls<\/span>\n      <\/p>\n      <p begin=\"01:34.260\" end=\"01:36.869\" ttm:agent=\"v1\">\n        <span begin=\"01:34.265\" end=\"01:34.612\">A<\/span>\n        <span begin=\"01:34.612\" end=\"01:34.896\">suit<\/span>\n        <span begin=\"01:34.896\" end=\"01:35.457\">before<\/span>\n        <span begin=\"01:35.457\" end=\"01:35.769\">he<\/span>\n        <span begin=\"01:35.769\" end=\"01:36.869\">lifts<\/span>\n      <\/p>\n      <p begin=\"01:37.610\" end=\"01:40.777\" ttm:agent=\"v1\">\n        <span begin=\"01:37.612\" end=\"01:37.831\">But<\/span>\n        <span begin=\"01:37.831\" end=\"01:38.047\">I&apos;m<\/span>\n        <span begin=\"01:38.047\" end=\"01:38.369\">not<\/span>\n        <span begin=\"01:38.369\" end=\"01:38.657\">the<\/span>\n        <span begin=\"01:38.657\" end=\"01:38.951\">kind<\/span>\n        <span begin=\"01:38.951\" end=\"01:39.257\">of<\/span>\n        <span begin=\"01:39.257\" end=\"01:39.844\">person<\/span>\n        <span begin=\"01:39.844\" end=\"01:40.116\">that<\/span>\n        <span begin=\"01:40.116\" end=\"01:40.401\">it<\/span>\n        <span begin=\"01:40.401\" end=\"01:40.777\">fits<\/span>\n      <\/p>\n      <p begin=\"01:40.880\" end=\"01:41.489\" ttm:agent=\"v1\">\n        <span begin=\"01:40.889\" end=\"01:41.268\">She<\/span>\n        <span begin=\"01:41.268\" end=\"01:41.489\">said<\/span>\n      <\/p>\n      <p begin=\"01:41.480\" end=\"01:43.377\" ttm:agent=\"v1\">\n        <span begin=\"01:41.489\" end=\"01:41.887\">&quot;Where&apos;d<\/span>\n        <span begin=\"01:41.887\" end=\"01:42.178\">you<\/span>\n        <span begin=\"01:42.178\" end=\"01:42.756\">wanna<\/span>\n        <span begin=\"01:42.756\" end=\"01:43.377\">go?<\/span>\n      <\/p>\n      <p begin=\"01:43.520\" end=\"01:45.519\" ttm:agent=\"v1\">\n        <span begin=\"01:43.524\" end=\"01:43.917\">How<\/span>\n        <span begin=\"01:43.917\" end=\"01:44.213\">much<\/span>\n        <span begin=\"01:44.213\" end=\"01:44.487\">you<\/span>\n        <span begin=\"01:44.487\" end=\"01:45.071\">wanna<\/span>\n        <span begin=\"01:45.071\" end=\"01:45.519\">risk?<\/span>\n      <\/p>\n      <p begin=\"01:45.580\" end=\"01:47.894\" ttm:agent=\"v1\">\n        <span begin=\"01:45.580\" end=\"01:45.951\">I&apos;m<\/span>\n        <span begin=\"01:45.951\" end=\"01:46.234\">not<\/span>\n        <span begin=\"01:46.234\" end=\"01:46.783\">looking<\/span>\n        <span begin=\"01:46.783\" end=\"01:47.079\">for<\/span>\n        <span begin=\"01:47.079\" end=\"01:47.894\">somebody<\/span>\n      <\/p>\n      <p begin=\"01:47.890\" end=\"01:50.430\" ttm:agent=\"v1\">\n        <span begin=\"01:47.894\" end=\"01:48.269\">With<\/span>\n        <span begin=\"01:48.269\" end=\"01:48.551\">some<\/span>\n        <span begin=\"01:48.551\" end=\"01:49.719\">superhuman<\/span>\n        <span begin=\"01:49.719\" end=\"01:50.430\">gifts<\/span>\n      <\/p>\n      <p begin=\"01:50.490\" end=\"01:52.547\" ttm:agent=\"v1\">\n        <span begin=\"01:50.491\" end=\"01:50.902\">Some<\/span>\n        <span begin=\"01:50.902\" end=\"01:52.547\">superhero<\/span>\n      <\/p>\n      <p begin=\"01:52.800\" end=\"01:55.131\" ttm:agent=\"v1\">\n        <span begin=\"01:52.808\" end=\"01:53.219\">Some<\/span>\n        <span begin=\"01:53.219\" end=\"01:54.368\">fairytale<\/span>\n        <span begin=\"01:54.368\" end=\"01:55.131\">bliss<\/span>\n      <\/p>\n      <p begin=\"01:55.170\" end=\"01:57.479\" ttm:agent=\"v1\">\n        <span begin=\"01:55.176\" end=\"01:55.555\">Just<\/span>\n        <span begin=\"01:55.555\" end=\"01:56.139\">something<\/span>\n        <span begin=\"01:56.139\" end=\"01:56.420\">I<\/span>\n        <span begin=\"01:56.420\" end=\"01:56.691\">can<\/span>\n        <span begin=\"01:56.691\" end=\"01:57.021\">turn<\/span>\n        <span begin=\"01:57.021\" end=\"01:57.479\">to<\/span>\n      <\/p>\n      <p begin=\"01:57.490\" end=\"01:59.509\" ttm:agent=\"v1\">\n        <span begin=\"01:57.491\" end=\"01:58.426\">Somebody<\/span>\n        <span begin=\"01:58.426\" end=\"01:58.726\">I<\/span>\n        <span begin=\"01:58.726\" end=\"01:59.024\">can<\/span>\n        <span begin=\"01:59.024\" end=\"01:59.509\">miss<\/span>\n      <\/p>\n      <p begin=\"01:59.580\" end=\"02:02.488\" ttm:agent=\"v1\">\n        <span begin=\"01:59.581\" end=\"01:59.931\">I<\/span>\n        <span begin=\"01:59.931\" end=\"02:00.245\">want<\/span>\n        <span begin=\"02:00.245\" end=\"02:00.811\">something<\/span>\n        <span begin=\"02:00.811\" end=\"02:01.093\">just<\/span>\n        <span begin=\"02:01.093\" end=\"02:01.627\">like<\/span>\n        <span begin=\"02:01.627\" end=\"02:02.488\">this&quot;<\/span>\n      <\/p>\n      <p begin=\"02:08.840\" end=\"02:11.808\" ttm:agent=\"v1\">\n        <span begin=\"02:08.848\" end=\"02:09.256\">I<\/span>\n        <span begin=\"02:09.256\" end=\"02:09.562\">want<\/span>\n        <span begin=\"02:09.562\" end=\"02:10.120\">something<\/span>\n        <span begin=\"02:10.120\" end=\"02:10.413\">just<\/span>\n        <span begin=\"02:10.413\" end=\"02:10.904\">like<\/span>\n        <span begin=\"02:10.904\" end=\"02:11.808\">this<\/span>\n      <\/p>\n      <p begin=\"02:17.930\" end=\"02:21.119\" ttm:agent=\"v1\">\n        <span begin=\"02:17.930\" end=\"02:18.274\">Oh,<\/span>\n        <span begin=\"02:18.274\" end=\"02:18.556\">I<\/span>\n        <span begin=\"02:18.556\" end=\"02:18.852\">want<\/span>\n        <span begin=\"02:18.852\" end=\"02:19.431\">something<\/span>\n        <span begin=\"02:19.431\" end=\"02:19.732\">just<\/span>\n        <span begin=\"02:19.732\" end=\"02:20.295\">like<\/span>\n        <span begin=\"02:20.295\" end=\"02:21.119\">this<\/span>\n      <\/p>\n      <p begin=\"02:20.800\" end=\"02:22.943\" ttm:agent=\"v1\">\n        <span begin=\"02:20.802\" end=\"02:21.493\">Doo-doo-doo,<\/span>\n        <span begin=\"02:21.493\" end=\"02:22.943\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"02:23.110\" end=\"02:25.423\" ttm:agent=\"v1\">\n        <span begin=\"02:23.119\" end=\"02:23.857\">Doo-doo-doo,<\/span>\n        <span begin=\"02:23.857\" end=\"02:24.251\">doo,<\/span>\n        <span begin=\"02:24.251\" end=\"02:25.423\">doo<\/span>\n      <\/p>\n      <p begin=\"02:25.430\" end=\"02:27.241\" ttm:agent=\"v1\">\n        <span begin=\"02:25.437\" end=\"02:26.126\">Doo-doo-doo,<\/span>\n        <span begin=\"02:26.126\" end=\"02:27.241\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"02:27.240\" end=\"02:30.141\" ttm:agent=\"v1\">\n        <span begin=\"02:27.241\" end=\"02:27.617\">Oh,<\/span>\n        <span begin=\"02:27.617\" end=\"02:27.907\">I<\/span>\n        <span begin=\"02:27.907\" end=\"02:28.169\">want<\/span>\n        <span begin=\"02:28.169\" end=\"02:28.745\">something<\/span>\n        <span begin=\"02:28.745\" end=\"02:29.054\">just<\/span>\n        <span begin=\"02:29.054\" end=\"02:29.587\">like<\/span>\n        <span begin=\"02:29.587\" end=\"02:30.141\">this<\/span>\n      <\/p>\n      <p begin=\"02:30.140\" end=\"02:32.360\" ttm:agent=\"v1\">\n        <span begin=\"02:30.141\" end=\"02:30.814\">Doo-doo-doo,<\/span>\n        <span begin=\"02:30.814\" end=\"02:32.360\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"02:32.450\" end=\"02:34.637\" ttm:agent=\"v1\">\n        <span begin=\"02:32.453\" end=\"02:33.182\">Doo-doo-doo,<\/span>\n        <span begin=\"02:33.182\" end=\"02:33.561\">doo,<\/span>\n        <span begin=\"02:33.561\" end=\"02:34.637\">doo<\/span>\n      <\/p>\n      <p begin=\"02:34.810\" end=\"02:37.429\" ttm:agent=\"v1\">\n        <span begin=\"02:34.816\" end=\"02:35.473\">Doo-doo-doo,<\/span>\n        <span begin=\"02:35.473\" end=\"02:37.429\">doo-doo-doo<\/span>\n      <\/p>\n      <p begin=\"02:37.420\" end=\"02:39.365\" ttm:agent=\"v1\">\n        <span begin=\"02:37.429\" end=\"02:37.799\">Where&apos;d<\/span>\n        <span begin=\"02:37.799\" end=\"02:38.108\">you<\/span>\n        <span begin=\"02:38.108\" end=\"02:38.665\">wanna<\/span>\n        <span begin=\"02:38.665\" end=\"02:39.365\">go?<\/span>\n      <\/p>\n      <p begin=\"02:39.470\" end=\"02:41.501\" ttm:agent=\"v1\">\n        <span begin=\"02:39.477\" end=\"02:39.807\">How<\/span>\n        <span begin=\"02:39.807\" end=\"02:40.101\">much<\/span>\n        <span begin=\"02:40.101\" end=\"02:40.423\">you<\/span>\n        <span begin=\"02:40.423\" end=\"02:41.002\">wanna<\/span>\n        <span begin=\"02:41.002\" end=\"02:41.501\">risk?<\/span>\n      <\/p>\n      <p begin=\"02:41.520\" end=\"02:43.879\" ttm:agent=\"v1\">\n        <span begin=\"02:41.525\" end=\"02:41.871\">I&apos;m<\/span>\n        <span begin=\"02:41.871\" end=\"02:42.170\">not<\/span>\n        <span begin=\"02:42.170\" end=\"02:42.735\">looking<\/span>\n        <span begin=\"02:42.735\" end=\"02:43.018\">for<\/span>\n        <span begin=\"02:43.018\" end=\"02:43.879\">somebody<\/span>\n      <\/p>\n      <p begin=\"02:43.870\" end=\"02:46.444\" ttm:agent=\"v1\">\n        <span begin=\"02:43.879\" end=\"02:44.204\">With<\/span>\n        <span begin=\"02:44.204\" end=\"02:44.487\">some<\/span>\n        <span begin=\"02:44.487\" end=\"02:45.663\">superhuman<\/span>\n        <span begin=\"02:45.663\" end=\"02:46.444\">gifts<\/span>\n      <\/p>\n      <p begin=\"02:46.440\" end=\"02:48.500\" ttm:agent=\"v1\">\n        <span begin=\"02:46.444\" end=\"02:46.823\">Some<\/span>\n        <span begin=\"02:46.823\" end=\"02:48.500\">superhero<\/span>\n      <\/p>\n      <p begin=\"02:48.730\" end=\"02:51.106\" ttm:agent=\"v1\">\n        <span begin=\"02:48.730\" end=\"02:49.180\">Some<\/span>\n        <span begin=\"02:49.180\" end=\"02:50.314\">fairytale<\/span>\n        <span begin=\"02:50.314\" end=\"02:51.106\">bliss<\/span>\n      <\/p>\n      <p begin=\"02:51.100\" end=\"02:53.346\" ttm:agent=\"v1\">\n        <span begin=\"02:51.106\" end=\"02:51.471\">Just<\/span>\n        <span begin=\"02:51.471\" end=\"02:52.047\">something<\/span>\n        <span begin=\"02:52.047\" end=\"02:52.348\">I<\/span>\n        <span begin=\"02:52.348\" end=\"02:52.617\">can<\/span>\n        <span begin=\"02:52.617\" end=\"02:53.004\">turn<\/span>\n        <span begin=\"02:53.004\" end=\"02:53.346\">to<\/span>\n      <\/p>\n      <p begin=\"02:53.400\" end=\"02:55.456\" ttm:agent=\"v1\">\n        <span begin=\"02:53.408\" end=\"02:54.401\">Somebody<\/span>\n        <span begin=\"02:54.401\" end=\"02:54.680\">I<\/span>\n        <span begin=\"02:54.680\" end=\"02:54.959\">can<\/span>\n        <span begin=\"02:54.959\" end=\"02:55.456\">kiss<\/span>\n      <\/p>\n      <p begin=\"02:55.450\" end=\"02:58.584\" ttm:agent=\"v1\">\n        <span begin=\"02:55.456\" end=\"02:55.839\">I<\/span>\n        <span begin=\"02:55.839\" end=\"02:56.122\">want<\/span>\n        <span begin=\"02:56.122\" end=\"02:56.719\">something<\/span>\n        <span begin=\"02:56.719\" end=\"02:57.007\">just<\/span>\n        <span begin=\"02:57.007\" end=\"02:57.531\">like<\/span>\n        <span begin=\"02:57.531\" end=\"02:58.584\">this<\/span>\n      <\/p>\n      <p begin=\"03:13.810\" end=\"03:17.136\" ttm:agent=\"v1\">\n        <span begin=\"03:13.814\" end=\"03:14.179\">Oh,<\/span>\n        <span begin=\"03:14.179\" end=\"03:14.488\">I<\/span>\n        <span begin=\"03:14.488\" end=\"03:14.787\">want<\/span>\n        <span begin=\"03:14.787\" end=\"03:15.382\">something<\/span>\n        <span begin=\"03:15.382\" end=\"03:15.662\">just<\/span>\n        <span begin=\"03:15.662\" end=\"03:16.163\">like<\/span>\n        <span begin=\"03:16.163\" end=\"03:17.136\">this<\/span>\n      <\/p>\n      <p begin=\"03:32.470\" end=\"03:35.654\" ttm:agent=\"v1\">\n        <span begin=\"03:32.475\" end=\"03:32.827\">Oh,<\/span>\n        <span begin=\"03:32.827\" end=\"03:33.123\">I<\/span>\n        <span begin=\"03:33.123\" end=\"03:33.405\">want<\/span>\n        <span begin=\"03:33.405\" end=\"03:34.011\">something<\/span>\n        <span begin=\"03:34.011\" end=\"03:34.307\">just<\/span>\n        <span begin=\"03:34.307\" end=\"03:34.816\">like<\/span>\n        <span begin=\"03:34.816\" end=\"03:35.654\">this<\/span>\n      <\/p>\n      <p begin=\"03:51.080\" end=\"03:54.387\" ttm:agent=\"v1\">\n        <span begin=\"03:51.083\" end=\"03:51.454\">Oh,<\/span>\n        <span begin=\"03:51.454\" end=\"03:51.747\">I<\/span>\n        <span begin=\"03:51.747\" end=\"03:52.062\">want<\/span>\n        <span begin=\"03:52.062\" end=\"03:52.649\">something<\/span>\n        <span begin=\"03:52.649\" end=\"03:52.915\">just<\/span>\n        <span begin=\"03:52.915\" end=\"03:53.497\">like<\/span>\n        <span begin=\"03:53.497\" end=\"03:54.387\">this<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 7860,
+      "endTime": 10302,
+      "text": "I've been reading books of old",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 7865,
+          "endTime": 8124,
+          "word": "I've"
+        },
+        {
+          "startTime": 8124,
+          "endTime": 8385,
+          "word": "been"
+        },
+        {
+          "startTime": 8385,
+          "endTime": 8961,
+          "word": "reading"
+        },
+        {
+          "startTime": 8961,
+          "endTime": 9255,
+          "word": "books"
+        },
+        {
+          "startTime": 9255,
+          "endTime": 9537,
+          "word": "of"
+        },
+        {
+          "startTime": 9537,
+          "endTime": 10302,
+          "word": "old"
+        }
+      ]
+    },
+    {
+      "time": 10390,
+      "endTime": 12601,
+      "text": "The legends and the myths",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 10398,
+          "endTime": 10761,
+          "word": "The"
+        },
+        {
+          "startTime": 10761,
+          "endTime": 11334,
+          "word": "legends"
+        },
+        {
+          "startTime": 11334,
+          "endTime": 11630,
+          "word": "and"
+        },
+        {
+          "startTime": 11630,
+          "endTime": 11894,
+          "word": "the"
+        },
+        {
+          "startTime": 11894,
+          "endTime": 12601,
+          "word": "myths"
+        }
+      ]
+    },
+    {
+      "time": 12690,
+      "endTime": 14932,
+      "text": "Achilles and his gold",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 12697,
+          "endTime": 13621,
+          "word": "Achilles"
+        },
+        {
+          "startTime": 13621,
+          "endTime": 13925,
+          "word": "and"
+        },
+        {
+          "startTime": 13925,
+          "endTime": 14221,
+          "word": "his"
+        },
+        {
+          "startTime": 14221,
+          "endTime": 14932,
+          "word": "gold"
+        }
+      ]
+    },
+    {
+      "time": 15020,
+      "endTime": 17289,
+      "text": "Hercules and his gifts",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15022,
+          "endTime": 15970,
+          "word": "Hercules"
+        },
+        {
+          "startTime": 15970,
+          "endTime": 16271,
+          "word": "and"
+        },
+        {
+          "startTime": 16271,
+          "endTime": 16576,
+          "word": "his"
+        },
+        {
+          "startTime": 16576,
+          "endTime": 17289,
+          "word": "gifts"
+        }
+      ]
+    },
+    {
+      "time": 17360,
+      "endTime": 19625,
+      "text": "Spider-Man's control",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17366,
+          "endTime": 18573,
+          "word": "Spider-Man's"
+        },
+        {
+          "startTime": 18573,
+          "endTime": 19625,
+          "word": "control"
+        }
+      ]
+    },
+    {
+      "time": 19680,
+      "endTime": 22327,
+      "text": "And Batman with his fists",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19684,
+          "endTime": 20055,
+          "word": "And"
+        },
+        {
+          "startTime": 20055,
+          "endTime": 20639,
+          "word": "Batman"
+        },
+        {
+          "startTime": 20639,
+          "endTime": 20919,
+          "word": "with"
+        },
+        {
+          "startTime": 20919,
+          "endTime": 21239,
+          "word": "his"
+        },
+        {
+          "startTime": 21239,
+          "endTime": 22327,
+          "word": "fists"
+        }
+      ]
+    },
+    {
+      "time": 22580,
+      "endTime": 26214,
+      "text": "And clearly, I don't see myself upon that list",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 22588,
+          "endTime": 22941,
+          "word": "And"
+        },
+        {
+          "startTime": 22941,
+          "endTime": 23552,
+          "word": "clearly,"
+        },
+        {
+          "startTime": 23552,
+          "endTime": 23856,
+          "word": "I"
+        },
+        {
+          "startTime": 23856,
+          "endTime": 24133,
+          "word": "don't"
+        },
+        {
+          "startTime": 24133,
+          "endTime": 24408,
+          "word": "see"
+        },
+        {
+          "startTime": 24408,
+          "endTime": 25003,
+          "word": "myself"
+        },
+        {
+          "startTime": 25003,
+          "endTime": 25579,
+          "word": "upon"
+        },
+        {
+          "startTime": 25579,
+          "endTime": 25859,
+          "word": "that"
+        },
+        {
+          "startTime": 25859,
+          "endTime": 26214,
+          "word": "list"
+        }
+      ]
+    },
+    {
+      "time": 26210,
+      "endTime": 26934,
+      "text": "But she said",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 26219,
+          "endTime": 26443,
+          "word": "But"
+        },
+        {
+          "startTime": 26443,
+          "endTime": 26699,
+          "word": "she"
+        },
+        {
+          "startTime": 26699,
+          "endTime": 26934,
+          "word": "said"
+        }
+      ]
+    },
+    {
+      "time": 26930,
+      "endTime": 28884,
+      "text": "\"Where'd you wanna go?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 26934,
+          "endTime": 27292,
+          "word": "\"Where'd"
+        },
+        {
+          "startTime": 27292,
+          "endTime": 27602,
+          "word": "you"
+        },
+        {
+          "startTime": 27602,
+          "endTime": 28202,
+          "word": "wanna"
+        },
+        {
+          "startTime": 28202,
+          "endTime": 28884,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 28980,
+      "endTime": 30991,
+      "text": "How much you wanna risk?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28980,
+          "endTime": 29351,
+          "word": "How"
+        },
+        {
+          "startTime": 29351,
+          "endTime": 29652,
+          "word": "much"
+        },
+        {
+          "startTime": 29652,
+          "endTime": 29924,
+          "word": "you"
+        },
+        {
+          "startTime": 29924,
+          "endTime": 30492,
+          "word": "wanna"
+        },
+        {
+          "startTime": 30492,
+          "endTime": 30991,
+          "word": "risk?"
+        }
+      ]
+    },
+    {
+      "time": 31020,
+      "endTime": 33341,
+      "text": "I'm not looking for somebody",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31020,
+          "endTime": 31415,
+          "word": "I'm"
+        },
+        {
+          "startTime": 31415,
+          "endTime": 31700,
+          "word": "not"
+        },
+        {
+          "startTime": 31700,
+          "endTime": 32296,
+          "word": "looking"
+        },
+        {
+          "startTime": 32296,
+          "endTime": 32583,
+          "word": "for"
+        },
+        {
+          "startTime": 32583,
+          "endTime": 33341,
+          "word": "somebody"
+        }
+      ]
+    },
+    {
+      "time": 33340,
+      "endTime": 35829,
+      "text": "With some superhuman gifts",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 33341,
+          "endTime": 33705,
+          "word": "With"
+        },
+        {
+          "startTime": 33705,
+          "endTime": 33999,
+          "word": "some"
+        },
+        {
+          "startTime": 33999,
+          "endTime": 35151,
+          "word": "superhuman"
+        },
+        {
+          "startTime": 35151,
+          "endTime": 35829,
+          "word": "gifts"
+        }
+      ]
+    },
+    {
+      "time": 35920,
+      "endTime": 38042,
+      "text": "Some superhero",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 35925,
+          "endTime": 36333,
+          "word": "Some"
+        },
+        {
+          "startTime": 36333,
+          "endTime": 38042,
+          "word": "superhero"
+        }
+      ]
+    },
+    {
+      "time": 38240,
+      "endTime": 40513,
+      "text": "Some fairytale bliss",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 38244,
+          "endTime": 38663,
+          "word": "Some"
+        },
+        {
+          "startTime": 38663,
+          "endTime": 39807,
+          "word": "fairytale"
+        },
+        {
+          "startTime": 39807,
+          "endTime": 40513,
+          "word": "bliss"
+        }
+      ]
+    },
+    {
+      "time": 40620,
+      "endTime": 42793,
+      "text": "Just something I can turn to",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40625,
+          "endTime": 40990,
+          "word": "Just"
+        },
+        {
+          "startTime": 40990,
+          "endTime": 41577,
+          "word": "something"
+        },
+        {
+          "startTime": 41577,
+          "endTime": 41870,
+          "word": "I"
+        },
+        {
+          "startTime": 41870,
+          "endTime": 42134,
+          "word": "can"
+        },
+        {
+          "startTime": 42134,
+          "endTime": 42489,
+          "word": "turn"
+        },
+        {
+          "startTime": 42489,
+          "endTime": 42793,
+          "word": "to"
+        }
+      ]
+    },
+    {
+      "time": 42920,
+      "endTime": 44921,
+      "text": "Somebody I can kiss",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42921,
+          "endTime": 43924,
+          "word": "Somebody"
+        },
+        {
+          "startTime": 43924,
+          "endTime": 44204,
+          "word": "I"
+        },
+        {
+          "startTime": 44204,
+          "endTime": 44490,
+          "word": "can"
+        },
+        {
+          "startTime": 44490,
+          "endTime": 44921,
+          "word": "kiss"
+        }
+      ]
+    },
+    {
+      "time": 45000,
+      "endTime": 47564,
+      "text": "I want something just like this\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45001,
+          "endTime": 45382,
+          "word": "I"
+        },
+        {
+          "startTime": 45382,
+          "endTime": 45692,
+          "word": "want"
+        },
+        {
+          "startTime": 45692,
+          "endTime": 46260,
+          "word": "something"
+        },
+        {
+          "startTime": 46260,
+          "endTime": 46542,
+          "word": "just"
+        },
+        {
+          "startTime": 46542,
+          "endTime": 47100,
+          "word": "like"
+        },
+        {
+          "startTime": 47100,
+          "endTime": 47564,
+          "word": "this\""
+        }
+      ]
+    },
+    {
+      "time": 47620,
+      "endTime": 49716,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47628,
+          "endTime": 48282,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 48282,
+          "endTime": 49716,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 49940,
+      "endTime": 52017,
+      "text": "Doo-doo-doo, doo, doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49945,
+          "endTime": 50633,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 50633,
+          "endTime": 50935,
+          "word": "doo,"
+        },
+        {
+          "startTime": 50935,
+          "endTime": 52017,
+          "word": "doo"
+        }
+      ]
+    },
+    {
+      "time": 52290,
+      "endTime": 54060,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 52295,
+          "endTime": 52932,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 52932,
+          "endTime": 54060,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 54060,
+      "endTime": 56836,
+      "text": "Oh, I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54060,
+          "endTime": 54412,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 54412,
+          "endTime": 54716,
+          "word": "I"
+        },
+        {
+          "startTime": 54716,
+          "endTime": 54996,
+          "word": "want"
+        },
+        {
+          "startTime": 54996,
+          "endTime": 55567,
+          "word": "something"
+        },
+        {
+          "startTime": 55567,
+          "endTime": 55836,
+          "word": "just"
+        },
+        {
+          "startTime": 55836,
+          "endTime": 56375,
+          "word": "like"
+        },
+        {
+          "startTime": 56375,
+          "endTime": 56836,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 56960,
+      "endTime": 59276,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56964,
+          "endTime": 57617,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 57617,
+          "endTime": 59276,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 59280,
+      "endTime": 61571,
+      "text": "Doo-doo-doo, doo, doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59289,
+          "endTime": 59951,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 59951,
+          "endTime": 60519,
+          "word": "doo,"
+        },
+        {
+          "startTime": 60519,
+          "endTime": 61571,
+          "word": "doo"
+        }
+      ]
+    },
+    {
+      "time": 61570,
+      "endTime": 63355,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 61571,
+          "endTime": 62275,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 62275,
+          "endTime": 63355,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 63350,
+      "endTime": 66672,
+      "text": "Oh, I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63355,
+          "endTime": 63718,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 63718,
+          "endTime": 63998,
+          "word": "I"
+        },
+        {
+          "startTime": 63998,
+          "endTime": 64300,
+          "word": "want"
+        },
+        {
+          "startTime": 64300,
+          "endTime": 64876,
+          "word": "something"
+        },
+        {
+          "startTime": 64876,
+          "endTime": 65169,
+          "word": "just"
+        },
+        {
+          "startTime": 65169,
+          "endTime": 65737,
+          "word": "like"
+        },
+        {
+          "startTime": 65737,
+          "endTime": 66672,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 72960,
+      "endTime": 75920,
+      "text": "I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 72968,
+          "endTime": 73325,
+          "word": "I"
+        },
+        {
+          "startTime": 73325,
+          "endTime": 73616,
+          "word": "want"
+        },
+        {
+          "startTime": 73616,
+          "endTime": 74184,
+          "word": "something"
+        },
+        {
+          "startTime": 74184,
+          "endTime": 74483,
+          "word": "just"
+        },
+        {
+          "startTime": 74483,
+          "endTime": 75029,
+          "word": "like"
+        },
+        {
+          "startTime": 75029,
+          "endTime": 75920,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 82450,
+      "endTime": 84953,
+      "text": "I've been reading books of old",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 82451,
+          "endTime": 82675,
+          "word": "I've"
+        },
+        {
+          "startTime": 82675,
+          "endTime": 82925,
+          "word": "been"
+        },
+        {
+          "startTime": 82925,
+          "endTime": 83499,
+          "word": "reading"
+        },
+        {
+          "startTime": 83499,
+          "endTime": 83803,
+          "word": "books"
+        },
+        {
+          "startTime": 83803,
+          "endTime": 84101,
+          "word": "of"
+        },
+        {
+          "startTime": 84101,
+          "endTime": 84953,
+          "word": "old"
+        }
+      ]
+    },
+    {
+      "time": 84950,
+      "endTime": 87206,
+      "text": "The legends and the myths",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 84953,
+          "endTime": 85291,
+          "word": "The"
+        },
+        {
+          "startTime": 85291,
+          "endTime": 85875,
+          "word": "legends"
+        },
+        {
+          "startTime": 85875,
+          "endTime": 86164,
+          "word": "and"
+        },
+        {
+          "startTime": 86164,
+          "endTime": 86456,
+          "word": "the"
+        },
+        {
+          "startTime": 86456,
+          "endTime": 87206,
+          "word": "myths"
+        }
+      ]
+    },
+    {
+      "time": 87240,
+      "endTime": 89572,
+      "text": "The testaments they told",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 87249,
+          "endTime": 87615,
+          "word": "The"
+        },
+        {
+          "startTime": 87615,
+          "endTime": 88492,
+          "word": "testaments"
+        },
+        {
+          "startTime": 88492,
+          "endTime": 88769,
+          "word": "they"
+        },
+        {
+          "startTime": 88769,
+          "endTime": 89572,
+          "word": "told"
+        }
+      ]
+    },
+    {
+      "time": 89580,
+      "endTime": 91771,
+      "text": "The moon and its eclipse",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89585,
+          "endTime": 89929,
+          "word": "The"
+        },
+        {
+          "startTime": 89929,
+          "endTime": 90225,
+          "word": "moon"
+        },
+        {
+          "startTime": 90225,
+          "endTime": 90533,
+          "word": "and"
+        },
+        {
+          "startTime": 90533,
+          "endTime": 90795,
+          "word": "its"
+        },
+        {
+          "startTime": 90795,
+          "endTime": 91771,
+          "word": "eclipse"
+        }
+      ]
+    },
+    {
+      "time": 91880,
+      "endTime": 94152,
+      "text": "And Superman unrolls",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91884,
+          "endTime": 92256,
+          "word": "And"
+        },
+        {
+          "startTime": 92256,
+          "endTime": 93144,
+          "word": "Superman"
+        },
+        {
+          "startTime": 93144,
+          "endTime": 94152,
+          "word": "unrolls"
+        }
+      ]
+    },
+    {
+      "time": 94260,
+      "endTime": 96869,
+      "text": "A suit before he lifts",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94265,
+          "endTime": 94612,
+          "word": "A"
+        },
+        {
+          "startTime": 94612,
+          "endTime": 94896,
+          "word": "suit"
+        },
+        {
+          "startTime": 94896,
+          "endTime": 95457,
+          "word": "before"
+        },
+        {
+          "startTime": 95457,
+          "endTime": 95769,
+          "word": "he"
+        },
+        {
+          "startTime": 95769,
+          "endTime": 96869,
+          "word": "lifts"
+        }
+      ]
+    },
+    {
+      "time": 97610,
+      "endTime": 100777,
+      "text": "But I'm not the kind of person that it fits",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 97612,
+          "endTime": 97831,
+          "word": "But"
+        },
+        {
+          "startTime": 97831,
+          "endTime": 98047,
+          "word": "I'm"
+        },
+        {
+          "startTime": 98047,
+          "endTime": 98369,
+          "word": "not"
+        },
+        {
+          "startTime": 98369,
+          "endTime": 98657,
+          "word": "the"
+        },
+        {
+          "startTime": 98657,
+          "endTime": 98951,
+          "word": "kind"
+        },
+        {
+          "startTime": 98951,
+          "endTime": 99257,
+          "word": "of"
+        },
+        {
+          "startTime": 99257,
+          "endTime": 99844,
+          "word": "person"
+        },
+        {
+          "startTime": 99844,
+          "endTime": 100116,
+          "word": "that"
+        },
+        {
+          "startTime": 100116,
+          "endTime": 100401,
+          "word": "it"
+        },
+        {
+          "startTime": 100401,
+          "endTime": 100777,
+          "word": "fits"
+        }
+      ]
+    },
+    {
+      "time": 100880,
+      "endTime": 101489,
+      "text": "She said",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 100889,
+          "endTime": 101268,
+          "word": "She"
+        },
+        {
+          "startTime": 101268,
+          "endTime": 101489,
+          "word": "said"
+        }
+      ]
+    },
+    {
+      "time": 101480,
+      "endTime": 103377,
+      "text": "\"Where'd you wanna go?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101489,
+          "endTime": 101887,
+          "word": "\"Where'd"
+        },
+        {
+          "startTime": 101887,
+          "endTime": 102178,
+          "word": "you"
+        },
+        {
+          "startTime": 102178,
+          "endTime": 102756,
+          "word": "wanna"
+        },
+        {
+          "startTime": 102756,
+          "endTime": 103377,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 103520,
+      "endTime": 105519,
+      "text": "How much you wanna risk?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 103524,
+          "endTime": 103917,
+          "word": "How"
+        },
+        {
+          "startTime": 103917,
+          "endTime": 104213,
+          "word": "much"
+        },
+        {
+          "startTime": 104213,
+          "endTime": 104487,
+          "word": "you"
+        },
+        {
+          "startTime": 104487,
+          "endTime": 105071,
+          "word": "wanna"
+        },
+        {
+          "startTime": 105071,
+          "endTime": 105519,
+          "word": "risk?"
+        }
+      ]
+    },
+    {
+      "time": 105580,
+      "endTime": 107894,
+      "text": "I'm not looking for somebody",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 105580,
+          "endTime": 105951,
+          "word": "I'm"
+        },
+        {
+          "startTime": 105951,
+          "endTime": 106234,
+          "word": "not"
+        },
+        {
+          "startTime": 106234,
+          "endTime": 106783,
+          "word": "looking"
+        },
+        {
+          "startTime": 106783,
+          "endTime": 107079,
+          "word": "for"
+        },
+        {
+          "startTime": 107079,
+          "endTime": 107894,
+          "word": "somebody"
+        }
+      ]
+    },
+    {
+      "time": 107890,
+      "endTime": 110430,
+      "text": "With some superhuman gifts",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107894,
+          "endTime": 108269,
+          "word": "With"
+        },
+        {
+          "startTime": 108269,
+          "endTime": 108551,
+          "word": "some"
+        },
+        {
+          "startTime": 108551,
+          "endTime": 109719,
+          "word": "superhuman"
+        },
+        {
+          "startTime": 109719,
+          "endTime": 110430,
+          "word": "gifts"
+        }
+      ]
+    },
+    {
+      "time": 110490,
+      "endTime": 112547,
+      "text": "Some superhero",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 110491,
+          "endTime": 110902,
+          "word": "Some"
+        },
+        {
+          "startTime": 110902,
+          "endTime": 112547,
+          "word": "superhero"
+        }
+      ]
+    },
+    {
+      "time": 112800,
+      "endTime": 115131,
+      "text": "Some fairytale bliss",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112808,
+          "endTime": 113219,
+          "word": "Some"
+        },
+        {
+          "startTime": 113219,
+          "endTime": 114368,
+          "word": "fairytale"
+        },
+        {
+          "startTime": 114368,
+          "endTime": 115131,
+          "word": "bliss"
+        }
+      ]
+    },
+    {
+      "time": 115170,
+      "endTime": 117479,
+      "text": "Just something I can turn to",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 115176,
+          "endTime": 115555,
+          "word": "Just"
+        },
+        {
+          "startTime": 115555,
+          "endTime": 116139,
+          "word": "something"
+        },
+        {
+          "startTime": 116139,
+          "endTime": 116420,
+          "word": "I"
+        },
+        {
+          "startTime": 116420,
+          "endTime": 116691,
+          "word": "can"
+        },
+        {
+          "startTime": 116691,
+          "endTime": 117021,
+          "word": "turn"
+        },
+        {
+          "startTime": 117021,
+          "endTime": 117479,
+          "word": "to"
+        }
+      ]
+    },
+    {
+      "time": 117490,
+      "endTime": 119509,
+      "text": "Somebody I can miss",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117491,
+          "endTime": 118426,
+          "word": "Somebody"
+        },
+        {
+          "startTime": 118426,
+          "endTime": 118726,
+          "word": "I"
+        },
+        {
+          "startTime": 118726,
+          "endTime": 119024,
+          "word": "can"
+        },
+        {
+          "startTime": 119024,
+          "endTime": 119509,
+          "word": "miss"
+        }
+      ]
+    },
+    {
+      "time": 119580,
+      "endTime": 122488,
+      "text": "I want something just like this\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 119581,
+          "endTime": 119931,
+          "word": "I"
+        },
+        {
+          "startTime": 119931,
+          "endTime": 120245,
+          "word": "want"
+        },
+        {
+          "startTime": 120245,
+          "endTime": 120811,
+          "word": "something"
+        },
+        {
+          "startTime": 120811,
+          "endTime": 121093,
+          "word": "just"
+        },
+        {
+          "startTime": 121093,
+          "endTime": 121627,
+          "word": "like"
+        },
+        {
+          "startTime": 121627,
+          "endTime": 122488,
+          "word": "this\""
+        }
+      ]
+    },
+    {
+      "time": 128840,
+      "endTime": 131808,
+      "text": "I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128848,
+          "endTime": 129256,
+          "word": "I"
+        },
+        {
+          "startTime": 129256,
+          "endTime": 129562,
+          "word": "want"
+        },
+        {
+          "startTime": 129562,
+          "endTime": 130120,
+          "word": "something"
+        },
+        {
+          "startTime": 130120,
+          "endTime": 130413,
+          "word": "just"
+        },
+        {
+          "startTime": 130413,
+          "endTime": 130904,
+          "word": "like"
+        },
+        {
+          "startTime": 130904,
+          "endTime": 131808,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 137930,
+      "endTime": 141119,
+      "text": "Oh, I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137930,
+          "endTime": 138274,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 138274,
+          "endTime": 138556,
+          "word": "I"
+        },
+        {
+          "startTime": 138556,
+          "endTime": 138852,
+          "word": "want"
+        },
+        {
+          "startTime": 138852,
+          "endTime": 139431,
+          "word": "something"
+        },
+        {
+          "startTime": 139431,
+          "endTime": 139732,
+          "word": "just"
+        },
+        {
+          "startTime": 139732,
+          "endTime": 140295,
+          "word": "like"
+        },
+        {
+          "startTime": 140295,
+          "endTime": 141119,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 140800,
+      "endTime": 142943,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140802,
+          "endTime": 141493,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 141493,
+          "endTime": 142943,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 143110,
+      "endTime": 145423,
+      "text": "Doo-doo-doo, doo, doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 143119,
+          "endTime": 143857,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 143857,
+          "endTime": 144251,
+          "word": "doo,"
+        },
+        {
+          "startTime": 144251,
+          "endTime": 145423,
+          "word": "doo"
+        }
+      ]
+    },
+    {
+      "time": 145430,
+      "endTime": 147241,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 145437,
+          "endTime": 146126,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 146126,
+          "endTime": 147241,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 147240,
+      "endTime": 150141,
+      "text": "Oh, I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147241,
+          "endTime": 147617,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 147617,
+          "endTime": 147907,
+          "word": "I"
+        },
+        {
+          "startTime": 147907,
+          "endTime": 148169,
+          "word": "want"
+        },
+        {
+          "startTime": 148169,
+          "endTime": 148745,
+          "word": "something"
+        },
+        {
+          "startTime": 148745,
+          "endTime": 149054,
+          "word": "just"
+        },
+        {
+          "startTime": 149054,
+          "endTime": 149587,
+          "word": "like"
+        },
+        {
+          "startTime": 149587,
+          "endTime": 150141,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 150140,
+      "endTime": 152360,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 150141,
+          "endTime": 150814,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 150814,
+          "endTime": 152360,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 152450,
+      "endTime": 154637,
+      "text": "Doo-doo-doo, doo, doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 152453,
+          "endTime": 153182,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 153182,
+          "endTime": 153561,
+          "word": "doo,"
+        },
+        {
+          "startTime": 153561,
+          "endTime": 154637,
+          "word": "doo"
+        }
+      ]
+    },
+    {
+      "time": 154810,
+      "endTime": 157429,
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 154816,
+          "endTime": 155473,
+          "word": "Doo-doo-doo,"
+        },
+        {
+          "startTime": 155473,
+          "endTime": 157429,
+          "word": "doo-doo-doo"
+        }
+      ]
+    },
+    {
+      "time": 157420,
+      "endTime": 159365,
+      "text": "Where'd you wanna go?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157429,
+          "endTime": 157799,
+          "word": "Where'd"
+        },
+        {
+          "startTime": 157799,
+          "endTime": 158108,
+          "word": "you"
+        },
+        {
+          "startTime": 158108,
+          "endTime": 158665,
+          "word": "wanna"
+        },
+        {
+          "startTime": 158665,
+          "endTime": 159365,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 159470,
+      "endTime": 161501,
+      "text": "How much you wanna risk?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159477,
+          "endTime": 159807,
+          "word": "How"
+        },
+        {
+          "startTime": 159807,
+          "endTime": 160101,
+          "word": "much"
+        },
+        {
+          "startTime": 160101,
+          "endTime": 160423,
+          "word": "you"
+        },
+        {
+          "startTime": 160423,
+          "endTime": 161002,
+          "word": "wanna"
+        },
+        {
+          "startTime": 161002,
+          "endTime": 161501,
+          "word": "risk?"
+        }
+      ]
+    },
+    {
+      "time": 161520,
+      "endTime": 163879,
+      "text": "I'm not looking for somebody",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161525,
+          "endTime": 161871,
+          "word": "I'm"
+        },
+        {
+          "startTime": 161871,
+          "endTime": 162170,
+          "word": "not"
+        },
+        {
+          "startTime": 162170,
+          "endTime": 162735,
+          "word": "looking"
+        },
+        {
+          "startTime": 162735,
+          "endTime": 163018,
+          "word": "for"
+        },
+        {
+          "startTime": 163018,
+          "endTime": 163879,
+          "word": "somebody"
+        }
+      ]
+    },
+    {
+      "time": 163870,
+      "endTime": 166444,
+      "text": "With some superhuman gifts",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 163879,
+          "endTime": 164204,
+          "word": "With"
+        },
+        {
+          "startTime": 164204,
+          "endTime": 164487,
+          "word": "some"
+        },
+        {
+          "startTime": 164487,
+          "endTime": 165663,
+          "word": "superhuman"
+        },
+        {
+          "startTime": 165663,
+          "endTime": 166444,
+          "word": "gifts"
+        }
+      ]
+    },
+    {
+      "time": 166440,
+      "endTime": 168500,
+      "text": "Some superhero",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 166444,
+          "endTime": 166823,
+          "word": "Some"
+        },
+        {
+          "startTime": 166823,
+          "endTime": 168500,
+          "word": "superhero"
+        }
+      ]
+    },
+    {
+      "time": 168730,
+      "endTime": 171106,
+      "text": "Some fairytale bliss",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 168730,
+          "endTime": 169180,
+          "word": "Some"
+        },
+        {
+          "startTime": 169180,
+          "endTime": 170314,
+          "word": "fairytale"
+        },
+        {
+          "startTime": 170314,
+          "endTime": 171106,
+          "word": "bliss"
+        }
+      ]
+    },
+    {
+      "time": 171100,
+      "endTime": 173346,
+      "text": "Just something I can turn to",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 171106,
+          "endTime": 171471,
+          "word": "Just"
+        },
+        {
+          "startTime": 171471,
+          "endTime": 172047,
+          "word": "something"
+        },
+        {
+          "startTime": 172047,
+          "endTime": 172348,
+          "word": "I"
+        },
+        {
+          "startTime": 172348,
+          "endTime": 172617,
+          "word": "can"
+        },
+        {
+          "startTime": 172617,
+          "endTime": 173004,
+          "word": "turn"
+        },
+        {
+          "startTime": 173004,
+          "endTime": 173346,
+          "word": "to"
+        }
+      ]
+    },
+    {
+      "time": 173400,
+      "endTime": 175456,
+      "text": "Somebody I can kiss",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 173408,
+          "endTime": 174401,
+          "word": "Somebody"
+        },
+        {
+          "startTime": 174401,
+          "endTime": 174680,
+          "word": "I"
+        },
+        {
+          "startTime": 174680,
+          "endTime": 174959,
+          "word": "can"
+        },
+        {
+          "startTime": 174959,
+          "endTime": 175456,
+          "word": "kiss"
+        }
+      ]
+    },
+    {
+      "time": 175450,
+      "endTime": 178584,
+      "text": "I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 175456,
+          "endTime": 175839,
+          "word": "I"
+        },
+        {
+          "startTime": 175839,
+          "endTime": 176122,
+          "word": "want"
+        },
+        {
+          "startTime": 176122,
+          "endTime": 176719,
+          "word": "something"
+        },
+        {
+          "startTime": 176719,
+          "endTime": 177007,
+          "word": "just"
+        },
+        {
+          "startTime": 177007,
+          "endTime": 177531,
+          "word": "like"
+        },
+        {
+          "startTime": 177531,
+          "endTime": 178584,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 193810,
+      "endTime": 197136,
+      "text": "Oh, I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 193814,
+          "endTime": 194179,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 194179,
+          "endTime": 194488,
+          "word": "I"
+        },
+        {
+          "startTime": 194488,
+          "endTime": 194787,
+          "word": "want"
+        },
+        {
+          "startTime": 194787,
+          "endTime": 195382,
+          "word": "something"
+        },
+        {
+          "startTime": 195382,
+          "endTime": 195662,
+          "word": "just"
+        },
+        {
+          "startTime": 195662,
+          "endTime": 196163,
+          "word": "like"
+        },
+        {
+          "startTime": 196163,
+          "endTime": 197136,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 212470,
+      "endTime": 215654,
+      "text": "Oh, I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 212475,
+          "endTime": 212827,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 212827,
+          "endTime": 213123,
+          "word": "I"
+        },
+        {
+          "startTime": 213123,
+          "endTime": 213405,
+          "word": "want"
+        },
+        {
+          "startTime": 213405,
+          "endTime": 214011,
+          "word": "something"
+        },
+        {
+          "startTime": 214011,
+          "endTime": 214307,
+          "word": "just"
+        },
+        {
+          "startTime": 214307,
+          "endTime": 214816,
+          "word": "like"
+        },
+        {
+          "startTime": 214816,
+          "endTime": 215654,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 231080,
+      "endTime": 234387,
+      "text": "Oh, I want something just like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 231083,
+          "endTime": 231454,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 231454,
+          "endTime": 231747,
+          "word": "I"
+        },
+        {
+          "startTime": 231747,
+          "endTime": 232062,
+          "word": "want"
+        },
+        {
+          "startTime": 232062,
+          "endTime": 232649,
+          "word": "something"
+        },
+        {
+          "startTime": 232649,
+          "endTime": 232915,
+          "word": "just"
+        },
+        {
+          "startTime": 232915,
+          "endTime": 233497,
+          "word": "like"
+        },
+        {
+          "startTime": 233497,
+          "endTime": 234387,
+          "word": "this"
+        }
+      ]
+    }
+  ]
+}
