@@ -1,0 +1,260 @@
+{
+  "videoId": "dzHdo4yxidc",
+  "title": "Turn Up The Speakers",
+  "artist": "Afrojack, Martin Garrix",
+  "duration": 190,
+  "source": "Kugou",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:08.580\" end=\"00:53.510\">\n        <span begin=\"00:08.580\" end=\"00:17.968\">Turn <\/span>\n        <span begin=\"00:17.968\" end=\"00:26.015\">up <\/span>\n        <span begin=\"00:26.015\" end=\"00:34.732\">the <\/span>\n        <span begin=\"00:34.732\" end=\"00:53.510\">speakers<\/span>\n      <\/p>\n      <p begin=\"00:53.510\" end=\"01:22.620\">\n        <span begin=\"00:53.510\" end=\"00:59.592\">Turn <\/span>\n        <span begin=\"00:59.592\" end=\"01:04.805\">up <\/span>\n        <span begin=\"01:04.805\" end=\"01:10.453\">the <\/span>\n        <span begin=\"01:10.453\" end=\"01:22.620\">speakers<\/span>\n      <\/p>\n      <p begin=\"01:22.620\" end=\"01:38.550\">\n        <span begin=\"01:22.620\" end=\"01:24.562\">Trash <\/span>\n        <span begin=\"01:24.562\" end=\"01:26.245\">the <\/span>\n        <span begin=\"01:26.245\" end=\"01:28.058\">beat <\/span>\n        <span begin=\"01:28.058\" end=\"01:29.871\">down <\/span>\n        <span begin=\"01:29.871\" end=\"01:31.684\">turn <\/span>\n        <span begin=\"01:31.684\" end=\"01:33.238\">up <\/span>\n        <span begin=\"01:33.238\" end=\"01:34.921\">the <\/span>\n        <span begin=\"01:34.921\" end=\"01:38.550\">speakers<\/span>\n      <\/p>\n      <p begin=\"01:38.550\" end=\"02:18.830\">\n        <span begin=\"01:38.550\" end=\"01:46.966\">Turn <\/span>\n        <span begin=\"01:46.966\" end=\"01:54.180\">up <\/span>\n        <span begin=\"01:54.180\" end=\"02:01.995\">the <\/span>\n        <span begin=\"02:01.995\" end=\"02:18.830\">speakers<\/span>\n      <\/p>\n      <p begin=\"02:18.830\" end=\"02:34.800\">\n        <span begin=\"02:18.830\" end=\"02:20.777\">Trash <\/span>\n        <span begin=\"02:20.777\" end=\"02:22.464\">the <\/span>\n        <span begin=\"02:22.464\" end=\"02:24.281\">beat <\/span>\n        <span begin=\"02:24.281\" end=\"02:26.098\">down <\/span>\n        <span begin=\"02:26.098\" end=\"02:27.915\">turn <\/span>\n        <span begin=\"02:27.915\" end=\"02:29.473\">up <\/span>\n        <span begin=\"02:29.473\" end=\"02:31.160\">the <\/span>\n        <span begin=\"02:31.160\" end=\"02:34.800\">speakers<\/span>\n      <\/p>\n      <p begin=\"02:34.800\" end=\"02:48.790\">\n        <span begin=\"02:34.800\" end=\"02:37.723\">Turn <\/span>\n        <span begin=\"02:37.723\" end=\"02:40.228\">up <\/span>\n        <span begin=\"02:40.228\" end=\"02:42.942\">the <\/span>\n        <span begin=\"02:42.942\" end=\"02:48.790\">speakers<\/span>\n      <\/p>\n      <p begin=\"02:48.790\" end=\"02:53.790\">\n        <span begin=\"02:48.790\" end=\"02:49.399\">Trash <\/span>\n        <span begin=\"02:49.399\" end=\"02:49.927\">the <\/span>\n        <span begin=\"02:49.927\" end=\"02:50.496\">beat <\/span>\n        <span begin=\"02:50.496\" end=\"02:51.065\">down <\/span>\n        <span begin=\"02:51.065\" end=\"02:51.634\">turn <\/span>\n        <span begin=\"02:51.634\" end=\"02:52.121\">up <\/span>\n        <span begin=\"02:52.121\" end=\"02:52.649\">the <\/span>\n        <span begin=\"02:52.649\" end=\"02:53.790\">speakers<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 8580,
+      "endTime": 53510,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 8580,
+          "endTime": 17968,
+          "word": "Turn "
+        },
+        {
+          "startTime": 17968,
+          "endTime": 26015,
+          "word": "up "
+        },
+        {
+          "startTime": 26015,
+          "endTime": 34732,
+          "word": "the "
+        },
+        {
+          "startTime": 34732,
+          "endTime": 53510,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 53510,
+      "endTime": 82620,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 53510,
+          "endTime": 59592,
+          "word": "Turn "
+        },
+        {
+          "startTime": 59592,
+          "endTime": 64805,
+          "word": "up "
+        },
+        {
+          "startTime": 64805,
+          "endTime": 70453,
+          "word": "the "
+        },
+        {
+          "startTime": 70453,
+          "endTime": 82620,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 82620,
+      "endTime": 98550,
+      "text": "Trash the beat down  turn up the speakers",
+      "words": [
+        {
+          "startTime": 82620,
+          "endTime": 84562,
+          "word": "Trash "
+        },
+        {
+          "startTime": 84562,
+          "endTime": 86245,
+          "word": "the "
+        },
+        {
+          "startTime": 86245,
+          "endTime": 88058,
+          "word": "beat "
+        },
+        {
+          "startTime": 88058,
+          "endTime": 89871,
+          "word": "down "
+        },
+        {
+          "startTime": 89871,
+          "endTime": 91684,
+          "word": "turn "
+        },
+        {
+          "startTime": 91684,
+          "endTime": 93238,
+          "word": "up "
+        },
+        {
+          "startTime": 93238,
+          "endTime": 94921,
+          "word": "the "
+        },
+        {
+          "startTime": 94921,
+          "endTime": 98550,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 98550,
+      "endTime": 138830,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 98550,
+          "endTime": 106966,
+          "word": "Turn "
+        },
+        {
+          "startTime": 106966,
+          "endTime": 114180,
+          "word": "up "
+        },
+        {
+          "startTime": 114180,
+          "endTime": 121995,
+          "word": "the "
+        },
+        {
+          "startTime": 121995,
+          "endTime": 138830,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 138830,
+      "endTime": 154800,
+      "text": "Trash the beat down  turn up the speakers",
+      "words": [
+        {
+          "startTime": 138830,
+          "endTime": 140777,
+          "word": "Trash "
+        },
+        {
+          "startTime": 140777,
+          "endTime": 142464,
+          "word": "the "
+        },
+        {
+          "startTime": 142464,
+          "endTime": 144281,
+          "word": "beat "
+        },
+        {
+          "startTime": 144281,
+          "endTime": 146098,
+          "word": "down "
+        },
+        {
+          "startTime": 146098,
+          "endTime": 147915,
+          "word": "turn "
+        },
+        {
+          "startTime": 147915,
+          "endTime": 149473,
+          "word": "up "
+        },
+        {
+          "startTime": 149473,
+          "endTime": 151160,
+          "word": "the "
+        },
+        {
+          "startTime": 151160,
+          "endTime": 154800,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 154800,
+      "endTime": 168790,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 154800,
+          "endTime": 157723,
+          "word": "Turn "
+        },
+        {
+          "startTime": 157723,
+          "endTime": 160228,
+          "word": "up "
+        },
+        {
+          "startTime": 160228,
+          "endTime": 162942,
+          "word": "the "
+        },
+        {
+          "startTime": 162942,
+          "endTime": 168790,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 168790,
+      "endTime": 173790,
+      "text": "Trash the beat down  turn up the speakers",
+      "words": [
+        {
+          "startTime": 168790,
+          "endTime": 169399,
+          "word": "Trash "
+        },
+        {
+          "startTime": 169399,
+          "endTime": 169927,
+          "word": "the "
+        },
+        {
+          "startTime": 169927,
+          "endTime": 170496,
+          "word": "beat "
+        },
+        {
+          "startTime": 170496,
+          "endTime": 171065,
+          "word": "down "
+        },
+        {
+          "startTime": 171065,
+          "endTime": 171634,
+          "word": "turn "
+        },
+        {
+          "startTime": 171634,
+          "endTime": 172121,
+          "word": "up "
+        },
+        {
+          "startTime": 172121,
+          "endTime": 172649,
+          "word": "the "
+        },
+        {
+          "startTime": 172649,
+          "endTime": 173790,
+          "word": "speakers"
+        }
+      ]
+    }
+  ]
+}
