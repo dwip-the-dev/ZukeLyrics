@@ -1,0 +1,2430 @@
+{
+  "videoId": "hToD6-5wJ_0",
+  "title": "C’est la vie",
+  "artist": "Khaled",
+  "duration": 231,
+  "source": "Kugou",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:05.620\" end=\"00:09.140\">\n        <span begin=\"00:05.620\" end=\"00:06.038\">On <\/span>\n        <span begin=\"00:06.038\" end=\"00:06.456\">va <\/span>\n        <span begin=\"00:06.456\" end=\"00:07.396\">s&apos;aimer <\/span>\n        <span begin=\"00:07.396\" end=\"00:07.814\">on <\/span>\n        <span begin=\"00:07.814\" end=\"00:08.232\">va <\/span>\n        <span begin=\"00:08.232\" end=\"00:09.140\">danser<\/span>\n      <\/p>\n      <p begin=\"00:09.140\" end=\"00:12.420\">\n        <span begin=\"00:09.140\" end=\"00:09.517\">Oui <\/span>\n        <span begin=\"00:09.517\" end=\"00:09.952\">c&apos;est <\/span>\n        <span begin=\"00:09.952\" end=\"00:10.300\">la <\/span>\n        <span begin=\"00:10.300\" end=\"00:10.677\">vie <\/span>\n        <span begin=\"00:10.677\" end=\"00:11.025\">la <\/span>\n        <span begin=\"00:11.025\" end=\"00:11.373\">la <\/span>\n        <span begin=\"00:11.373\" end=\"00:11.721\">la <\/span>\n        <span begin=\"00:11.721\" end=\"00:12.069\">la <\/span>\n        <span begin=\"00:12.069\" end=\"00:12.420\">la<\/span>\n      <\/p>\n      <p begin=\"00:12.420\" end=\"00:12.910\">\n        <span begin=\"00:12.420\" end=\"00:12.910\">RedOne<\/span>\n      <\/p>\n      <p begin=\"00:12.910\" end=\"00:16.470\">\n        <span begin=\"00:12.910\" end=\"00:13.332\">On <\/span>\n        <span begin=\"00:13.332\" end=\"00:13.754\">va <\/span>\n        <span begin=\"00:13.754\" end=\"00:14.705\">s&apos;aimer <\/span>\n        <span begin=\"00:14.705\" end=\"00:15.127\">on <\/span>\n        <span begin=\"00:15.127\" end=\"00:15.549\">va <\/span>\n        <span begin=\"00:15.549\" end=\"00:16.470\">danser<\/span>\n      <\/p>\n      <p begin=\"00:16.470\" end=\"00:20.210\">\n        <span begin=\"00:16.470\" end=\"00:16.900\">Oui <\/span>\n        <span begin=\"00:16.900\" end=\"00:17.396\">c&apos;est <\/span>\n        <span begin=\"00:17.396\" end=\"00:17.793\">la <\/span>\n        <span begin=\"00:17.793\" end=\"00:18.223\">vie <\/span>\n        <span begin=\"00:18.223\" end=\"00:18.620\">la <\/span>\n        <span begin=\"00:18.620\" end=\"00:19.017\">la <\/span>\n        <span begin=\"00:19.017\" end=\"00:19.414\">la <\/span>\n        <span begin=\"00:19.414\" end=\"00:19.811\">la <\/span>\n        <span begin=\"00:19.811\" end=\"00:20.210\">la<\/span>\n      <\/p>\n      <p begin=\"00:20.210\" end=\"00:21.590\">\n        <span begin=\"00:20.210\" end=\"00:20.534\">On <\/span>\n        <span begin=\"00:20.534\" end=\"00:20.858\">va <\/span>\n        <span begin=\"00:20.858\" end=\"00:21.590\">s&apos;aimer<\/span>\n      <\/p>\n      <p begin=\"00:21.590\" end=\"00:22.080\">\n        <span begin=\"00:21.590\" end=\"00:22.080\">Ouais<\/span>\n      <\/p>\n      <p begin=\"00:22.080\" end=\"00:23.830\">\n        <span begin=\"00:22.080\" end=\"00:22.500\">On <\/span>\n        <span begin=\"00:22.500\" end=\"00:22.920\">va <\/span>\n        <span begin=\"00:22.920\" end=\"00:23.830\">danser<\/span>\n      <\/p>\n      <p begin=\"00:23.830\" end=\"00:27.540\">\n        <span begin=\"00:23.830\" end=\"00:24.256\">Oui <\/span>\n        <span begin=\"00:24.256\" end=\"00:24.748\">c&apos;est <\/span>\n        <span begin=\"00:24.748\" end=\"00:25.141\">la <\/span>\n        <span begin=\"00:25.141\" end=\"00:25.567\">vie <\/span>\n        <span begin=\"00:25.567\" end=\"00:25.960\">la <\/span>\n        <span begin=\"00:25.960\" end=\"00:26.353\">la <\/span>\n        <span begin=\"00:26.353\" end=\"00:26.746\">la <\/span>\n        <span begin=\"00:26.746\" end=\"00:27.139\">la <\/span>\n        <span begin=\"00:27.139\" end=\"00:27.540\">la<\/span>\n      <\/p>\n      <p begin=\"00:27.540\" end=\"00:31.240\">\n        <span begin=\"00:27.540\" end=\"00:27.979\">On <\/span>\n        <span begin=\"00:27.979\" end=\"00:28.418\">va <\/span>\n        <span begin=\"00:28.418\" end=\"00:29.407\">s&apos;aimer <\/span>\n        <span begin=\"00:29.407\" end=\"00:29.846\">on <\/span>\n        <span begin=\"00:29.846\" end=\"00:30.285\">va <\/span>\n        <span begin=\"00:30.285\" end=\"00:31.240\">danser<\/span>\n      <\/p>\n      <p begin=\"00:31.240\" end=\"00:34.540\">\n        <span begin=\"00:31.240\" end=\"00:31.619\">Oui <\/span>\n        <span begin=\"00:31.619\" end=\"00:32.057\">c&apos;est <\/span>\n        <span begin=\"00:32.057\" end=\"00:32.407\">la <\/span>\n        <span begin=\"00:32.407\" end=\"00:32.786\">vie <\/span>\n        <span begin=\"00:32.786\" end=\"00:33.136\">la <\/span>\n        <span begin=\"00:33.136\" end=\"00:33.486\">la <\/span>\n        <span begin=\"00:33.486\" end=\"00:33.836\">la <\/span>\n        <span begin=\"00:33.836\" end=\"00:34.186\">la <\/span>\n        <span begin=\"00:34.186\" end=\"00:34.540\">la<\/span>\n      <\/p>\n      <p begin=\"00:34.540\" end=\"00:38.150\">\n        <span begin=\"00:34.540\" end=\"00:35.272\">راني <\/span>\n        <span begin=\"00:35.272\" end=\"00:35.899\">ما <\/span>\n        <span begin=\"00:35.899\" end=\"00:36.631\">نادم <\/span>\n        <span begin=\"00:36.631\" end=\"00:37.311\">على <\/span>\n        <span begin=\"00:37.311\" end=\"00:38.150\">الأيام<\/span>\n      <\/p>\n      <p begin=\"00:38.150\" end=\"00:41.860\">\n        <span begin=\"00:38.150\" end=\"00:39.045\">مهما <\/span>\n        <span begin=\"00:39.045\" end=\"00:40.004\">تكوني <\/span>\n        <span begin=\"00:40.004\" end=\"00:40.963\">بعيدة <\/span>\n        <span begin=\"00:40.963\" end=\"00:41.860\">عليا<\/span>\n      <\/p>\n      <p begin=\"00:41.860\" end=\"00:45.550\">\n        <span begin=\"00:41.860\" end=\"00:42.608\">راني <\/span>\n        <span begin=\"00:42.608\" end=\"00:43.249\">ما <\/span>\n        <span begin=\"00:43.249\" end=\"00:43.997\">نادم <\/span>\n        <span begin=\"00:43.997\" end=\"00:44.692\">على <\/span>\n        <span begin=\"00:44.692\" end=\"00:45.550\">الأيام<\/span>\n      <\/p>\n      <p begin=\"00:45.550\" end=\"00:48.480\">\n        <span begin=\"00:45.550\" end=\"00:46.349\">هدروا <\/span>\n        <span begin=\"00:46.349\" end=\"00:47.041\">أنا <\/span>\n        <span begin=\"00:47.041\" end=\"00:47.733\">فيك <\/span>\n        <span begin=\"00:47.733\" end=\"00:48.480\">وفيا<\/span>\n      <\/p>\n      <p begin=\"00:48.480\" end=\"00:51.600\">\n        <span begin=\"00:48.480\" end=\"00:49.231\">أها <\/span>\n        <span begin=\"00:49.231\" end=\"00:50.039\">إياه <\/span>\n        <span begin=\"00:50.039\" end=\"00:50.790\">أها <\/span>\n        <span begin=\"00:50.790\" end=\"00:51.600\">إياه<\/span>\n      <\/p>\n      <p begin=\"00:51.600\" end=\"00:55.760\">\n        <span begin=\"00:51.600\" end=\"00:52.587\">لازم <\/span>\n        <span begin=\"00:52.587\" end=\"00:53.644\">الجرح <\/span>\n        <span begin=\"00:53.644\" end=\"00:54.631\">يبرى <\/span>\n        <span begin=\"00:54.631\" end=\"00:55.760\">بالدوا<\/span>\n      <\/p>\n      <p begin=\"00:55.760\" end=\"00:58.990\">\n        <span begin=\"00:55.760\" end=\"00:56.537\">أها <\/span>\n        <span begin=\"00:56.537\" end=\"00:57.374\">إياه <\/span>\n        <span begin=\"00:57.374\" end=\"00:58.151\">أها <\/span>\n        <span begin=\"00:58.151\" end=\"00:58.990\">إياه<\/span>\n      <\/p>\n      <p begin=\"00:58.990\" end=\"01:02.830\">\n        <span begin=\"00:58.990\" end=\"00:59.831\">السهرة <\/span>\n        <span begin=\"00:59.831\" end=\"01:00.567\">تكون <\/span>\n        <span begin=\"01:00.567\" end=\"01:01.356\">جميلة <\/span>\n        <span begin=\"01:01.356\" end=\"01:01.987\">يا <\/span>\n        <span begin=\"01:01.987\" end=\"01:02.830\">لحبيبة<\/span>\n      <\/p>\n      <p begin=\"01:02.830\" end=\"01:04.590\">\n        <span begin=\"01:02.830\" end=\"01:03.430\">ولاي <\/span>\n        <span begin=\"01:03.430\" end=\"01:03.988\">لاي <\/span>\n        <span begin=\"01:03.988\" end=\"01:04.590\">للاه<\/span>\n      <\/p>\n      <p begin=\"01:04.590\" end=\"01:08.400\">\n        <span begin=\"01:04.590\" end=\"01:05.042\">On <\/span>\n        <span begin=\"01:05.042\" end=\"01:05.494\">va <\/span>\n        <span begin=\"01:05.494\" end=\"01:06.512\">s&apos;aimer <\/span>\n        <span begin=\"01:06.512\" end=\"01:06.964\">on <\/span>\n        <span begin=\"01:06.964\" end=\"01:07.416\">va <\/span>\n        <span begin=\"01:07.416\" end=\"01:08.400\">danser<\/span>\n      <\/p>\n      <p begin=\"01:08.400\" end=\"01:11.820\">\n        <span begin=\"01:08.400\" end=\"01:08.913\">C&apos;est <\/span>\n        <span begin=\"01:08.913\" end=\"01:09.323\">la <\/span>\n        <span begin=\"01:09.323\" end=\"01:09.767\">vie <\/span>\n        <span begin=\"01:09.767\" end=\"01:10.177\">la <\/span>\n        <span begin=\"01:10.177\" end=\"01:10.587\">la <\/span>\n        <span begin=\"01:10.587\" end=\"01:10.997\">la <\/span>\n        <span begin=\"01:10.997\" end=\"01:11.407\">la <\/span>\n        <span begin=\"01:11.407\" end=\"01:11.820\">la<\/span>\n      <\/p>\n      <p begin=\"01:11.820\" end=\"01:15.500\">\n        <span begin=\"01:11.820\" end=\"01:12.257\">On <\/span>\n        <span begin=\"01:12.257\" end=\"01:12.694\">va <\/span>\n        <span begin=\"01:12.694\" end=\"01:13.677\">s&apos;aimer <\/span>\n        <span begin=\"01:13.677\" end=\"01:14.114\">on <\/span>\n        <span begin=\"01:14.114\" end=\"01:14.551\">va <\/span>\n        <span begin=\"01:14.551\" end=\"01:15.500\">danser<\/span>\n      <\/p>\n      <p begin=\"01:15.500\" end=\"01:19.260\">\n        <span begin=\"01:15.500\" end=\"01:15.932\">Oui <\/span>\n        <span begin=\"01:15.932\" end=\"01:16.431\">c&apos;est <\/span>\n        <span begin=\"01:16.431\" end=\"01:16.830\">la <\/span>\n        <span begin=\"01:16.830\" end=\"01:17.262\">vie <\/span>\n        <span begin=\"01:17.262\" end=\"01:17.661\">la <\/span>\n        <span begin=\"01:17.661\" end=\"01:18.060\">la <\/span>\n        <span begin=\"01:18.060\" end=\"01:18.459\">la <\/span>\n        <span begin=\"01:18.459\" end=\"01:18.858\">la <\/span>\n        <span begin=\"01:18.858\" end=\"01:19.260\">la<\/span>\n      <\/p>\n      <p begin=\"01:19.260\" end=\"01:23.060\">\n        <span begin=\"01:19.260\" end=\"01:19.711\">On <\/span>\n        <span begin=\"01:19.711\" end=\"01:20.162\">va <\/span>\n        <span begin=\"01:20.162\" end=\"01:21.177\">s&apos;aimer <\/span>\n        <span begin=\"01:21.177\" end=\"01:21.628\">on <\/span>\n        <span begin=\"01:21.628\" end=\"01:22.079\">va <\/span>\n        <span begin=\"01:22.079\" end=\"01:23.060\">danser<\/span>\n      <\/p>\n      <p begin=\"01:23.060\" end=\"01:26.580\">\n        <span begin=\"01:23.060\" end=\"01:23.588\">C&apos;est <\/span>\n        <span begin=\"01:23.588\" end=\"01:24.010\">la <\/span>\n        <span begin=\"01:24.010\" end=\"01:24.467\">vie <\/span>\n        <span begin=\"01:24.467\" end=\"01:24.889\">la <\/span>\n        <span begin=\"01:24.889\" end=\"01:25.311\">la <\/span>\n        <span begin=\"01:25.311\" end=\"01:25.733\">la <\/span>\n        <span begin=\"01:25.733\" end=\"01:26.155\">la <\/span>\n        <span begin=\"01:26.155\" end=\"01:26.580\">la<\/span>\n      <\/p>\n      <p begin=\"01:26.580\" end=\"01:30.290\">\n        <span begin=\"01:26.580\" end=\"01:27.020\">On <\/span>\n        <span begin=\"01:27.020\" end=\"01:27.460\">va <\/span>\n        <span begin=\"01:27.460\" end=\"01:28.451\">s&apos;aimer <\/span>\n        <span begin=\"01:28.451\" end=\"01:28.891\">on <\/span>\n        <span begin=\"01:28.891\" end=\"01:29.331\">va <\/span>\n        <span begin=\"01:29.331\" end=\"01:30.290\">danser<\/span>\n      <\/p>\n      <p begin=\"01:30.290\" end=\"01:33.580\">\n        <span begin=\"01:30.290\" end=\"01:30.668\">Oui <\/span>\n        <span begin=\"01:30.668\" end=\"01:31.104\">c&apos;est <\/span>\n        <span begin=\"01:31.104\" end=\"01:31.453\">la <\/span>\n        <span begin=\"01:31.453\" end=\"01:31.831\">vie <\/span>\n        <span begin=\"01:31.831\" end=\"01:32.180\">la <\/span>\n        <span begin=\"01:32.180\" end=\"01:32.529\">la <\/span>\n        <span begin=\"01:32.529\" end=\"01:32.878\">la <\/span>\n        <span begin=\"01:32.878\" end=\"01:33.227\">la <\/span>\n        <span begin=\"01:33.227\" end=\"01:33.580\">la<\/span>\n      <\/p>\n      <p begin=\"01:33.580\" end=\"01:37.160\">\n        <span begin=\"01:33.580\" end=\"01:34.693\">جاني <\/span>\n        <span begin=\"01:34.693\" end=\"01:35.806\">بشار <\/span>\n        <span begin=\"01:35.806\" end=\"01:37.160\">بالخفية<\/span>\n      <\/p>\n      <p begin=\"01:37.160\" end=\"01:40.910\">\n        <span begin=\"01:37.160\" end=\"01:38.182\">وقالي <\/span>\n        <span begin=\"01:38.182\" end=\"01:39.068\">على <\/span>\n        <span begin=\"01:39.068\" end=\"01:40.022\">اللي <\/span>\n        <span begin=\"01:40.022\" end=\"01:40.910\">بيا<\/span>\n      <\/p>\n      <p begin=\"01:40.910\" end=\"01:44.550\">\n        <span begin=\"01:40.910\" end=\"01:42.241\">وقالي <\/span>\n        <span begin=\"01:42.241\" end=\"01:43.395\">نتا <\/span>\n        <span begin=\"01:43.395\" end=\"01:44.550\">نيا<\/span>\n      <\/p>\n      <p begin=\"01:44.550\" end=\"01:47.500\">\n        <span begin=\"01:44.550\" end=\"01:45.421\">غير <\/span>\n        <span begin=\"01:45.421\" end=\"01:46.359\">راهي <\/span>\n        <span begin=\"01:46.359\" end=\"01:47.500\">نصرانية<\/span>\n      <\/p>\n      <p begin=\"01:47.500\" end=\"01:50.660\">\n        <span begin=\"01:47.500\" end=\"01:48.260\">أها <\/span>\n        <span begin=\"01:48.260\" end=\"01:49.079\">إياه <\/span>\n        <span begin=\"01:49.079\" end=\"01:49.839\">أها <\/span>\n        <span begin=\"01:49.839\" end=\"01:50.660\">إياه<\/span>\n      <\/p>\n      <p begin=\"01:50.660\" end=\"01:54.840\">\n        <span begin=\"01:50.660\" end=\"01:51.651\">لازم <\/span>\n        <span begin=\"01:51.651\" end=\"01:52.713\">الجرح <\/span>\n        <span begin=\"01:52.713\" end=\"01:53.704\">يبرى <\/span>\n        <span begin=\"01:53.704\" end=\"01:54.840\">بالدوا<\/span>\n      <\/p>\n      <p begin=\"01:54.840\" end=\"01:58.030\">\n        <span begin=\"01:54.840\" end=\"01:55.607\">أها <\/span>\n        <span begin=\"01:55.607\" end=\"01:56.434\">إياه <\/span>\n        <span begin=\"01:56.434\" end=\"01:57.201\">أها <\/span>\n        <span begin=\"01:57.201\" end=\"01:58.030\">إياه<\/span>\n      <\/p>\n      <p begin=\"01:58.030\" end=\"02:02.010\">\n        <span begin=\"01:58.030\" end=\"01:58.902\">السهرة <\/span>\n        <span begin=\"01:58.902\" end=\"01:59.665\">تكون <\/span>\n        <span begin=\"01:59.665\" end=\"02:00.482\">جميلة <\/span>\n        <span begin=\"02:00.482\" end=\"02:01.136\">يا <\/span>\n        <span begin=\"02:01.136\" end=\"02:02.010\">لحبيبة<\/span>\n      <\/p>\n      <p begin=\"02:02.010\" end=\"02:03.550\">\n        <span begin=\"02:02.010\" end=\"02:02.535\">ولاي <\/span>\n        <span begin=\"02:02.535\" end=\"02:03.023\">لاي <\/span>\n        <span begin=\"02:03.023\" end=\"02:03.550\">للاه<\/span>\n      <\/p>\n      <p begin=\"02:03.550\" end=\"02:07.440\">\n        <span begin=\"02:03.550\" end=\"02:04.012\">On <\/span>\n        <span begin=\"02:04.012\" end=\"02:04.474\">va <\/span>\n        <span begin=\"02:04.474\" end=\"02:05.513\">s&apos;aimer <\/span>\n        <span begin=\"02:05.513\" end=\"02:05.975\">on <\/span>\n        <span begin=\"02:05.975\" end=\"02:06.437\">va <\/span>\n        <span begin=\"02:06.437\" end=\"02:07.440\">danser<\/span>\n      <\/p>\n      <p begin=\"02:07.440\" end=\"02:10.900\">\n        <span begin=\"02:07.440\" end=\"02:07.959\">C&apos;est <\/span>\n        <span begin=\"02:07.959\" end=\"02:08.374\">la <\/span>\n        <span begin=\"02:08.374\" end=\"02:08.823\">vie <\/span>\n        <span begin=\"02:08.823\" end=\"02:09.238\">la <\/span>\n        <span begin=\"02:09.238\" end=\"02:09.653\">la <\/span>\n        <span begin=\"02:09.653\" end=\"02:10.068\">la <\/span>\n        <span begin=\"02:10.068\" end=\"02:10.483\">la <\/span>\n        <span begin=\"02:10.483\" end=\"02:10.900\">la<\/span>\n      <\/p>\n      <p begin=\"02:10.900\" end=\"02:14.590\">\n        <span begin=\"02:10.900\" end=\"02:11.338\">On <\/span>\n        <span begin=\"02:11.338\" end=\"02:11.776\">va <\/span>\n        <span begin=\"02:11.776\" end=\"02:12.762\">s&apos;aimer <\/span>\n        <span begin=\"02:12.762\" end=\"02:13.200\">on <\/span>\n        <span begin=\"02:13.200\" end=\"02:13.638\">va <\/span>\n        <span begin=\"02:13.638\" end=\"02:14.590\">danser<\/span>\n      <\/p>\n      <p begin=\"02:14.590\" end=\"02:18.380\">\n        <span begin=\"02:14.590\" end=\"02:15.026\">Oui <\/span>\n        <span begin=\"02:15.026\" end=\"02:15.529\">c&apos;est <\/span>\n        <span begin=\"02:15.529\" end=\"02:15.931\">la <\/span>\n        <span begin=\"02:15.931\" end=\"02:16.367\">vie <\/span>\n        <span begin=\"02:16.367\" end=\"02:16.769\">la <\/span>\n        <span begin=\"02:16.769\" end=\"02:17.171\">la <\/span>\n        <span begin=\"02:17.171\" end=\"02:17.573\">la <\/span>\n        <span begin=\"02:17.573\" end=\"02:17.975\">la <\/span>\n        <span begin=\"02:17.975\" end=\"02:18.380\">la<\/span>\n      <\/p>\n      <p begin=\"02:18.380\" end=\"02:22.160\">\n        <span begin=\"02:18.380\" end=\"02:18.829\">On <\/span>\n        <span begin=\"02:18.829\" end=\"02:19.278\">va <\/span>\n        <span begin=\"02:19.278\" end=\"02:20.288\">s&apos;aimer <\/span>\n        <span begin=\"02:20.288\" end=\"02:20.737\">on <\/span>\n        <span begin=\"02:20.737\" end=\"02:21.186\">va <\/span>\n        <span begin=\"02:21.186\" end=\"02:22.160\">danser<\/span>\n      <\/p>\n      <p begin=\"02:22.160\" end=\"02:25.680\">\n        <span begin=\"02:22.160\" end=\"02:22.688\">C&apos;est <\/span>\n        <span begin=\"02:22.688\" end=\"02:23.110\">la <\/span>\n        <span begin=\"02:23.110\" end=\"02:23.567\">vie <\/span>\n        <span begin=\"02:23.567\" end=\"02:23.989\">la <\/span>\n        <span begin=\"02:23.989\" end=\"02:24.411\">la <\/span>\n        <span begin=\"02:24.411\" end=\"02:24.833\">la <\/span>\n        <span begin=\"02:24.833\" end=\"02:25.255\">la <\/span>\n        <span begin=\"02:25.255\" end=\"02:25.680\">la<\/span>\n      <\/p>\n      <p begin=\"02:25.680\" end=\"02:29.390\">\n        <span begin=\"02:25.680\" end=\"02:26.120\">On <\/span>\n        <span begin=\"02:26.120\" end=\"02:26.560\">va <\/span>\n        <span begin=\"02:26.560\" end=\"02:27.551\">s&apos;aimer <\/span>\n        <span begin=\"02:27.551\" end=\"02:27.991\">on <\/span>\n        <span begin=\"02:27.991\" end=\"02:28.431\">va <\/span>\n        <span begin=\"02:28.431\" end=\"02:29.390\">danser<\/span>\n      <\/p>\n      <p begin=\"02:29.390\" end=\"02:32.880\">\n        <span begin=\"02:29.390\" end=\"02:29.791\">Oui <\/span>\n        <span begin=\"02:29.791\" end=\"02:30.254\">c&apos;est <\/span>\n        <span begin=\"02:30.254\" end=\"02:30.624\">la <\/span>\n        <span begin=\"02:30.624\" end=\"02:31.025\">vie <\/span>\n        <span begin=\"02:31.025\" end=\"02:31.395\">la <\/span>\n        <span begin=\"02:31.395\" end=\"02:31.765\">la <\/span>\n        <span begin=\"02:31.765\" end=\"02:32.135\">la <\/span>\n        <span begin=\"02:32.135\" end=\"02:32.505\">la <\/span>\n        <span begin=\"02:32.505\" end=\"02:32.880\">la<\/span>\n      <\/p>\n      <p begin=\"02:32.880\" end=\"02:35.560\">\n        <span begin=\"02:32.880\" end=\"02:33.513\">هذه <\/span>\n        <span begin=\"02:33.513\" end=\"02:34.195\">ليلة <\/span>\n        <span begin=\"02:34.195\" end=\"02:34.877\">وألف <\/span>\n        <span begin=\"02:34.877\" end=\"02:35.560\">ليلة<\/span>\n      <\/p>\n      <p begin=\"02:35.560\" end=\"02:39.980\">\n        <span begin=\"02:35.560\" end=\"02:36.065\">On <\/span>\n        <span begin=\"02:36.065\" end=\"02:36.570\">va <\/span>\n        <span begin=\"02:36.570\" end=\"02:37.706\">s&apos;aimer <\/span>\n        <span begin=\"02:37.706\" end=\"02:38.295\">pour <\/span>\n        <span begin=\"02:38.295\" end=\"02:38.926\">toute <\/span>\n        <span begin=\"02:38.926\" end=\"02:39.431\">la <\/span>\n        <span begin=\"02:39.431\" end=\"02:39.980\">vie<\/span>\n      <\/p>\n      <p begin=\"02:39.980\" end=\"02:42.850\">\n        <span begin=\"02:39.980\" end=\"02:40.658\">هذه <\/span>\n        <span begin=\"02:40.658\" end=\"02:41.388\">ليلة <\/span>\n        <span begin=\"02:41.388\" end=\"02:42.118\">وألف <\/span>\n        <span begin=\"02:42.118\" end=\"02:42.850\">ليلة<\/span>\n      <\/p>\n      <p begin=\"02:42.850\" end=\"02:45.150\">\n        <span begin=\"02:42.850\" end=\"02:43.208\">On <\/span>\n        <span begin=\"02:43.208\" end=\"02:43.566\">va <\/span>\n        <span begin=\"02:43.566\" end=\"02:44.372\">s&apos;aimer <\/span>\n        <span begin=\"02:44.372\" end=\"02:45.150\">danser<\/span>\n      <\/p>\n      <p begin=\"02:45.150\" end=\"02:48.110\">\n        <span begin=\"02:45.150\" end=\"02:45.603\">C&apos;est <\/span>\n        <span begin=\"02:45.603\" end=\"02:46.901\">la-la-la <\/span>\n        <span begin=\"02:46.901\" end=\"02:47.354\">c&apos;est <\/span>\n        <span begin=\"02:47.354\" end=\"02:47.716\">la <\/span>\n        <span begin=\"02:47.716\" end=\"02:48.110\">vie<\/span>\n      <\/p>\n      <p begin=\"02:48.110\" end=\"02:51.780\">\n        <span begin=\"02:48.110\" end=\"02:48.546\">On <\/span>\n        <span begin=\"02:48.546\" end=\"02:48.982\">va <\/span>\n        <span begin=\"02:48.982\" end=\"02:49.963\">s&apos;aimer <\/span>\n        <span begin=\"02:49.963\" end=\"02:50.399\">on <\/span>\n        <span begin=\"02:50.399\" end=\"02:50.835\">va <\/span>\n        <span begin=\"02:50.835\" end=\"02:51.780\">danser<\/span>\n      <\/p>\n      <p begin=\"02:51.780\" end=\"02:55.220\">\n        <span begin=\"02:51.780\" end=\"02:52.296\">C&apos;est <\/span>\n        <span begin=\"02:52.296\" end=\"02:52.708\">la <\/span>\n        <span begin=\"02:52.708\" end=\"02:53.155\">vie <\/span>\n        <span begin=\"02:53.155\" end=\"02:53.567\">la <\/span>\n        <span begin=\"02:53.567\" end=\"02:53.979\">la <\/span>\n        <span begin=\"02:53.979\" end=\"02:54.391\">la <\/span>\n        <span begin=\"02:54.391\" end=\"02:54.803\">la <\/span>\n        <span begin=\"02:54.803\" end=\"02:55.220\">la<\/span>\n      <\/p>\n      <p begin=\"02:55.220\" end=\"02:58.880\">\n        <span begin=\"02:55.220\" end=\"02:55.654\">On <\/span>\n        <span begin=\"02:55.654\" end=\"02:56.088\">va <\/span>\n        <span begin=\"02:56.088\" end=\"02:57.066\">s&apos;aimer <\/span>\n        <span begin=\"02:57.066\" end=\"02:57.500\">on <\/span>\n        <span begin=\"02:57.500\" end=\"02:57.934\">va <\/span>\n        <span begin=\"02:57.934\" end=\"02:58.880\">danser<\/span>\n      <\/p>\n      <p begin=\"02:58.880\" end=\"03:02.450\">\n        <span begin=\"02:58.880\" end=\"02:59.290\">Oui <\/span>\n        <span begin=\"02:59.290\" end=\"02:59.763\">c&apos;est <\/span>\n        <span begin=\"02:59.763\" end=\"03:00.142\">la <\/span>\n        <span begin=\"03:00.142\" end=\"03:00.552\">vie <\/span>\n        <span begin=\"03:00.552\" end=\"03:00.931\">la <\/span>\n        <span begin=\"03:00.931\" end=\"03:01.310\">la <\/span>\n        <span begin=\"03:01.310\" end=\"03:01.689\">la <\/span>\n        <span begin=\"03:01.689\" end=\"03:02.068\">la <\/span>\n        <span begin=\"03:02.068\" end=\"03:02.450\">la<\/span>\n      <\/p>\n      <p begin=\"03:02.450\" end=\"03:02.720\">\n        <span begin=\"03:02.450\" end=\"03:02.720\">Ouais<\/span>\n      <\/p>\n      <p begin=\"03:02.720\" end=\"03:06.510\">\n        <span begin=\"03:02.720\" end=\"03:03.170\">On <\/span>\n        <span begin=\"03:03.170\" end=\"03:03.620\">va <\/span>\n        <span begin=\"03:03.620\" end=\"03:04.633\">s&apos;aimer <\/span>\n        <span begin=\"03:04.633\" end=\"03:05.083\">on <\/span>\n        <span begin=\"03:05.083\" end=\"03:05.533\">va <\/span>\n        <span begin=\"03:05.533\" end=\"03:06.510\">danser<\/span>\n      <\/p>\n      <p begin=\"03:06.510\" end=\"03:10.050\">\n        <span begin=\"03:06.510\" end=\"03:07.041\">C&apos;est <\/span>\n        <span begin=\"03:07.041\" end=\"03:07.465\">la <\/span>\n        <span begin=\"03:07.465\" end=\"03:07.925\">vie <\/span>\n        <span begin=\"03:07.925\" end=\"03:08.349\">la <\/span>\n        <span begin=\"03:08.349\" end=\"03:08.773\">la <\/span>\n        <span begin=\"03:08.773\" end=\"03:09.197\">la <\/span>\n        <span begin=\"03:09.197\" end=\"03:09.621\">la <\/span>\n        <span begin=\"03:09.621\" end=\"03:10.050\">la<\/span>\n      <\/p>\n      <p begin=\"03:10.050\" end=\"03:13.700\">\n        <span begin=\"03:10.050\" end=\"03:10.483\">On <\/span>\n        <span begin=\"03:10.483\" end=\"03:10.916\">va <\/span>\n        <span begin=\"03:10.916\" end=\"03:11.891\">s&apos;aimer <\/span>\n        <span begin=\"03:11.891\" end=\"03:12.324\">on <\/span>\n        <span begin=\"03:12.324\" end=\"03:12.757\">va <\/span>\n        <span begin=\"03:12.757\" end=\"03:13.700\">danser<\/span>\n      <\/p>\n      <p begin=\"03:13.700\" end=\"03:17.400\">\n        <span begin=\"03:13.700\" end=\"03:14.125\">Oui <\/span>\n        <span begin=\"03:14.125\" end=\"03:14.616\">c&apos;est <\/span>\n        <span begin=\"03:14.616\" end=\"03:15.008\">la <\/span>\n        <span begin=\"03:15.008\" end=\"03:15.433\">vie <\/span>\n        <span begin=\"03:15.433\" end=\"03:15.825\">la <\/span>\n        <span begin=\"03:15.825\" end=\"03:16.217\">la <\/span>\n        <span begin=\"03:16.217\" end=\"03:16.609\">la <\/span>\n        <span begin=\"03:16.609\" end=\"03:17.001\">la <\/span>\n        <span begin=\"03:17.001\" end=\"03:17.400\">la<\/span>\n      <\/p>\n      <p begin=\"03:17.400\" end=\"03:21.270\">\n        <span begin=\"03:17.400\" end=\"03:17.859\">On <\/span>\n        <span begin=\"03:17.859\" end=\"03:18.318\">va <\/span>\n        <span begin=\"03:18.318\" end=\"03:19.352\">s&apos;aimer <\/span>\n        <span begin=\"03:19.352\" end=\"03:19.811\">on <\/span>\n        <span begin=\"03:19.811\" end=\"03:20.270\">va <\/span>\n        <span begin=\"03:20.270\" end=\"03:21.270\">danser<\/span>\n      <\/p>\n      <p begin=\"03:21.270\" end=\"03:24.760\">\n        <span begin=\"03:21.270\" end=\"03:21.793\">C&apos;est <\/span>\n        <span begin=\"03:21.793\" end=\"03:22.211\">la <\/span>\n        <span begin=\"03:22.211\" end=\"03:22.664\">vie <\/span>\n        <span begin=\"03:22.664\" end=\"03:23.082\">la <\/span>\n        <span begin=\"03:23.082\" end=\"03:23.500\">la <\/span>\n        <span begin=\"03:23.500\" end=\"03:23.918\">la <\/span>\n        <span begin=\"03:23.918\" end=\"03:24.336\">la <\/span>\n        <span begin=\"03:24.336\" end=\"03:24.760\">la<\/span>\n      <\/p>\n      <p begin=\"03:24.760\" end=\"03:28.430\">\n        <span begin=\"03:24.760\" end=\"03:25.196\">On <\/span>\n        <span begin=\"03:25.196\" end=\"03:25.632\">va <\/span>\n        <span begin=\"03:25.632\" end=\"03:26.613\">s&apos;aimer <\/span>\n        <span begin=\"03:26.613\" end=\"03:27.049\">on <\/span>\n        <span begin=\"03:27.049\" end=\"03:27.485\">va <\/span>\n        <span begin=\"03:27.485\" end=\"03:28.430\">danser<\/span>\n      <\/p>\n      <p begin=\"03:28.430\" end=\"03:32.140\">\n        <span begin=\"03:28.430\" end=\"03:28.856\">Oui <\/span>\n        <span begin=\"03:28.856\" end=\"03:29.348\">c&apos;est <\/span>\n        <span begin=\"03:29.348\" end=\"03:29.741\">la <\/span>\n        <span begin=\"03:29.741\" end=\"03:30.167\">vie <\/span>\n        <span begin=\"03:30.167\" end=\"03:30.560\">la <\/span>\n        <span begin=\"03:30.560\" end=\"03:30.953\">la <\/span>\n        <span begin=\"03:30.953\" end=\"03:31.346\">la <\/span>\n        <span begin=\"03:31.346\" end=\"03:31.739\">la <\/span>\n        <span begin=\"03:31.739\" end=\"03:32.140\">la<\/span>\n      <\/p>\n      <p begin=\"03:32.140\" end=\"03:36.000\">\n        <span begin=\"03:32.140\" end=\"03:32.598\">On <\/span>\n        <span begin=\"03:32.598\" end=\"03:33.056\">va <\/span>\n        <span begin=\"03:33.056\" end=\"03:34.087\">s&apos;aimer <\/span>\n        <span begin=\"03:34.087\" end=\"03:34.545\">on <\/span>\n        <span begin=\"03:34.545\" end=\"03:35.003\">va <\/span>\n        <span begin=\"03:35.003\" end=\"03:36.000\">danser<\/span>\n      <\/p>\n      <p begin=\"03:36.000\" end=\"03:39.500\">\n        <span begin=\"03:36.000\" end=\"03:36.525\">C&apos;est <\/span>\n        <span begin=\"03:36.525\" end=\"03:36.945\">la <\/span>\n        <span begin=\"03:36.945\" end=\"03:37.400\">vie <\/span>\n        <span begin=\"03:37.400\" end=\"03:37.820\">la <\/span>\n        <span begin=\"03:37.820\" end=\"03:38.240\">la <\/span>\n        <span begin=\"03:38.240\" end=\"03:38.660\">la <\/span>\n        <span begin=\"03:38.660\" end=\"03:39.080\">la <\/span>\n        <span begin=\"03:39.080\" end=\"03:39.500\">la<\/span>\n      <\/p>\n      <p begin=\"03:39.500\" end=\"03:43.210\">\n        <span begin=\"03:39.500\" end=\"03:39.940\">On <\/span>\n        <span begin=\"03:39.940\" end=\"03:40.380\">va <\/span>\n        <span begin=\"03:40.380\" end=\"03:41.371\">s&apos;aimer <\/span>\n        <span begin=\"03:41.371\" end=\"03:41.811\">on <\/span>\n        <span begin=\"03:41.811\" end=\"03:42.251\">va <\/span>\n        <span begin=\"03:42.251\" end=\"03:43.210\">danser<\/span>\n      <\/p>\n      <p begin=\"03:43.210\" end=\"03:48.210\">\n        <span begin=\"03:43.210\" end=\"03:43.785\">Oui <\/span>\n        <span begin=\"03:43.785\" end=\"03:44.448\">c&apos;est <\/span>\n        <span begin=\"03:44.448\" end=\"03:44.978\">la <\/span>\n        <span begin=\"03:44.978\" end=\"03:45.553\">vie <\/span>\n        <span begin=\"03:45.553\" end=\"03:46.083\">la <\/span>\n        <span begin=\"03:46.083\" end=\"03:46.613\">la <\/span>\n        <span begin=\"03:46.613\" end=\"03:47.143\">la <\/span>\n        <span begin=\"03:47.143\" end=\"03:47.673\">la <\/span>\n        <span begin=\"03:47.673\" end=\"03:48.210\">la<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 5620,
+      "endTime": 9140,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 5620,
+          "endTime": 6038,
+          "word": "On "
+        },
+        {
+          "startTime": 6038,
+          "endTime": 6456,
+          "word": "va "
+        },
+        {
+          "startTime": 6456,
+          "endTime": 7396,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 7396,
+          "endTime": 7814,
+          "word": "on "
+        },
+        {
+          "startTime": 7814,
+          "endTime": 8232,
+          "word": "va "
+        },
+        {
+          "startTime": 8232,
+          "endTime": 9140,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 9140,
+      "endTime": 12420,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 9140,
+          "endTime": 9517,
+          "word": "Oui "
+        },
+        {
+          "startTime": 9517,
+          "endTime": 9952,
+          "word": "c'est "
+        },
+        {
+          "startTime": 9952,
+          "endTime": 10300,
+          "word": "la "
+        },
+        {
+          "startTime": 10300,
+          "endTime": 10677,
+          "word": "vie "
+        },
+        {
+          "startTime": 10677,
+          "endTime": 11025,
+          "word": "la "
+        },
+        {
+          "startTime": 11025,
+          "endTime": 11373,
+          "word": "la "
+        },
+        {
+          "startTime": 11373,
+          "endTime": 11721,
+          "word": "la "
+        },
+        {
+          "startTime": 11721,
+          "endTime": 12069,
+          "word": "la "
+        },
+        {
+          "startTime": 12069,
+          "endTime": 12420,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 12420,
+      "endTime": 12910,
+      "text": "RedOne",
+      "words": [
+        {
+          "startTime": 12420,
+          "endTime": 12910,
+          "word": "RedOne"
+        }
+      ]
+    },
+    {
+      "time": 12910,
+      "endTime": 16470,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 12910,
+          "endTime": 13332,
+          "word": "On "
+        },
+        {
+          "startTime": 13332,
+          "endTime": 13754,
+          "word": "va "
+        },
+        {
+          "startTime": 13754,
+          "endTime": 14705,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 14705,
+          "endTime": 15127,
+          "word": "on "
+        },
+        {
+          "startTime": 15127,
+          "endTime": 15549,
+          "word": "va "
+        },
+        {
+          "startTime": 15549,
+          "endTime": 16470,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 16470,
+      "endTime": 20210,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 16470,
+          "endTime": 16900,
+          "word": "Oui "
+        },
+        {
+          "startTime": 16900,
+          "endTime": 17396,
+          "word": "c'est "
+        },
+        {
+          "startTime": 17396,
+          "endTime": 17793,
+          "word": "la "
+        },
+        {
+          "startTime": 17793,
+          "endTime": 18223,
+          "word": "vie "
+        },
+        {
+          "startTime": 18223,
+          "endTime": 18620,
+          "word": "la "
+        },
+        {
+          "startTime": 18620,
+          "endTime": 19017,
+          "word": "la "
+        },
+        {
+          "startTime": 19017,
+          "endTime": 19414,
+          "word": "la "
+        },
+        {
+          "startTime": 19414,
+          "endTime": 19811,
+          "word": "la "
+        },
+        {
+          "startTime": 19811,
+          "endTime": 20210,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 20210,
+      "endTime": 21590,
+      "text": "On va s'aimer",
+      "words": [
+        {
+          "startTime": 20210,
+          "endTime": 20534,
+          "word": "On "
+        },
+        {
+          "startTime": 20534,
+          "endTime": 20858,
+          "word": "va "
+        },
+        {
+          "startTime": 20858,
+          "endTime": 21590,
+          "word": "s'aimer"
+        }
+      ]
+    },
+    {
+      "time": 21590,
+      "endTime": 22080,
+      "text": "Ouais",
+      "words": [
+        {
+          "startTime": 21590,
+          "endTime": 22080,
+          "word": "Ouais"
+        }
+      ]
+    },
+    {
+      "time": 22080,
+      "endTime": 23830,
+      "text": "On va danser",
+      "words": [
+        {
+          "startTime": 22080,
+          "endTime": 22500,
+          "word": "On "
+        },
+        {
+          "startTime": 22500,
+          "endTime": 22920,
+          "word": "va "
+        },
+        {
+          "startTime": 22920,
+          "endTime": 23830,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 23830,
+      "endTime": 27540,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 23830,
+          "endTime": 24256,
+          "word": "Oui "
+        },
+        {
+          "startTime": 24256,
+          "endTime": 24748,
+          "word": "c'est "
+        },
+        {
+          "startTime": 24748,
+          "endTime": 25141,
+          "word": "la "
+        },
+        {
+          "startTime": 25141,
+          "endTime": 25567,
+          "word": "vie "
+        },
+        {
+          "startTime": 25567,
+          "endTime": 25960,
+          "word": "la "
+        },
+        {
+          "startTime": 25960,
+          "endTime": 26353,
+          "word": "la "
+        },
+        {
+          "startTime": 26353,
+          "endTime": 26746,
+          "word": "la "
+        },
+        {
+          "startTime": 26746,
+          "endTime": 27139,
+          "word": "la "
+        },
+        {
+          "startTime": 27139,
+          "endTime": 27540,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 27540,
+      "endTime": 31240,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 27540,
+          "endTime": 27979,
+          "word": "On "
+        },
+        {
+          "startTime": 27979,
+          "endTime": 28418,
+          "word": "va "
+        },
+        {
+          "startTime": 28418,
+          "endTime": 29407,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 29407,
+          "endTime": 29846,
+          "word": "on "
+        },
+        {
+          "startTime": 29846,
+          "endTime": 30285,
+          "word": "va "
+        },
+        {
+          "startTime": 30285,
+          "endTime": 31240,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 31240,
+      "endTime": 34540,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 31240,
+          "endTime": 31619,
+          "word": "Oui "
+        },
+        {
+          "startTime": 31619,
+          "endTime": 32057,
+          "word": "c'est "
+        },
+        {
+          "startTime": 32057,
+          "endTime": 32407,
+          "word": "la "
+        },
+        {
+          "startTime": 32407,
+          "endTime": 32786,
+          "word": "vie "
+        },
+        {
+          "startTime": 32786,
+          "endTime": 33136,
+          "word": "la "
+        },
+        {
+          "startTime": 33136,
+          "endTime": 33486,
+          "word": "la "
+        },
+        {
+          "startTime": 33486,
+          "endTime": 33836,
+          "word": "la "
+        },
+        {
+          "startTime": 33836,
+          "endTime": 34186,
+          "word": "la "
+        },
+        {
+          "startTime": 34186,
+          "endTime": 34540,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 34540,
+      "endTime": 38150,
+      "text": "راني ما نادم على الأيام",
+      "words": [
+        {
+          "startTime": 34540,
+          "endTime": 35272,
+          "word": "راني "
+        },
+        {
+          "startTime": 35272,
+          "endTime": 35899,
+          "word": "ما "
+        },
+        {
+          "startTime": 35899,
+          "endTime": 36631,
+          "word": "نادم "
+        },
+        {
+          "startTime": 36631,
+          "endTime": 37311,
+          "word": "على "
+        },
+        {
+          "startTime": 37311,
+          "endTime": 38150,
+          "word": "الأيام"
+        }
+      ]
+    },
+    {
+      "time": 38150,
+      "endTime": 41860,
+      "text": "مهما تكوني بعيدة عليا",
+      "words": [
+        {
+          "startTime": 38150,
+          "endTime": 39045,
+          "word": "مهما "
+        },
+        {
+          "startTime": 39045,
+          "endTime": 40004,
+          "word": "تكوني "
+        },
+        {
+          "startTime": 40004,
+          "endTime": 40963,
+          "word": "بعيدة "
+        },
+        {
+          "startTime": 40963,
+          "endTime": 41860,
+          "word": "عليا"
+        }
+      ]
+    },
+    {
+      "time": 41860,
+      "endTime": 45550,
+      "text": "راني ما نادم على الأيام",
+      "words": [
+        {
+          "startTime": 41860,
+          "endTime": 42608,
+          "word": "راني "
+        },
+        {
+          "startTime": 42608,
+          "endTime": 43249,
+          "word": "ما "
+        },
+        {
+          "startTime": 43249,
+          "endTime": 43997,
+          "word": "نادم "
+        },
+        {
+          "startTime": 43997,
+          "endTime": 44692,
+          "word": "على "
+        },
+        {
+          "startTime": 44692,
+          "endTime": 45550,
+          "word": "الأيام"
+        }
+      ]
+    },
+    {
+      "time": 45550,
+      "endTime": 48480,
+      "text": "هدروا أنا فيك وفيا",
+      "words": [
+        {
+          "startTime": 45550,
+          "endTime": 46349,
+          "word": "هدروا "
+        },
+        {
+          "startTime": 46349,
+          "endTime": 47041,
+          "word": "أنا "
+        },
+        {
+          "startTime": 47041,
+          "endTime": 47733,
+          "word": "فيك "
+        },
+        {
+          "startTime": 47733,
+          "endTime": 48480,
+          "word": "وفيا"
+        }
+      ]
+    },
+    {
+      "time": 48480,
+      "endTime": 51600,
+      "text": "أها إياه أها إياه",
+      "words": [
+        {
+          "startTime": 48480,
+          "endTime": 49231,
+          "word": "أها "
+        },
+        {
+          "startTime": 49231,
+          "endTime": 50039,
+          "word": "إياه "
+        },
+        {
+          "startTime": 50039,
+          "endTime": 50790,
+          "word": "أها "
+        },
+        {
+          "startTime": 50790,
+          "endTime": 51600,
+          "word": "إياه"
+        }
+      ]
+    },
+    {
+      "time": 51600,
+      "endTime": 55760,
+      "text": "لازم الجرح يبرى بالدوا",
+      "words": [
+        {
+          "startTime": 51600,
+          "endTime": 52587,
+          "word": "لازم "
+        },
+        {
+          "startTime": 52587,
+          "endTime": 53644,
+          "word": "الجرح "
+        },
+        {
+          "startTime": 53644,
+          "endTime": 54631,
+          "word": "يبرى "
+        },
+        {
+          "startTime": 54631,
+          "endTime": 55760,
+          "word": "بالدوا"
+        }
+      ]
+    },
+    {
+      "time": 55760,
+      "endTime": 58990,
+      "text": "أها إياه أها إياه",
+      "words": [
+        {
+          "startTime": 55760,
+          "endTime": 56537,
+          "word": "أها "
+        },
+        {
+          "startTime": 56537,
+          "endTime": 57374,
+          "word": "إياه "
+        },
+        {
+          "startTime": 57374,
+          "endTime": 58151,
+          "word": "أها "
+        },
+        {
+          "startTime": 58151,
+          "endTime": 58990,
+          "word": "إياه"
+        }
+      ]
+    },
+    {
+      "time": 58990,
+      "endTime": 62830,
+      "text": "السهرة تكون جميلة يا لحبيبة",
+      "words": [
+        {
+          "startTime": 58990,
+          "endTime": 59831,
+          "word": "السهرة "
+        },
+        {
+          "startTime": 59831,
+          "endTime": 60567,
+          "word": "تكون "
+        },
+        {
+          "startTime": 60567,
+          "endTime": 61356,
+          "word": "جميلة "
+        },
+        {
+          "startTime": 61356,
+          "endTime": 61987,
+          "word": "يا "
+        },
+        {
+          "startTime": 61987,
+          "endTime": 62830,
+          "word": "لحبيبة"
+        }
+      ]
+    },
+    {
+      "time": 62830,
+      "endTime": 64590,
+      "text": "ولاي لاي للاه",
+      "words": [
+        {
+          "startTime": 62830,
+          "endTime": 63430,
+          "word": "ولاي "
+        },
+        {
+          "startTime": 63430,
+          "endTime": 63988,
+          "word": "لاي "
+        },
+        {
+          "startTime": 63988,
+          "endTime": 64590,
+          "word": "للاه"
+        }
+      ]
+    },
+    {
+      "time": 64590,
+      "endTime": 68400,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 64590,
+          "endTime": 65042,
+          "word": "On "
+        },
+        {
+          "startTime": 65042,
+          "endTime": 65494,
+          "word": "va "
+        },
+        {
+          "startTime": 65494,
+          "endTime": 66512,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 66512,
+          "endTime": 66964,
+          "word": "on "
+        },
+        {
+          "startTime": 66964,
+          "endTime": 67416,
+          "word": "va "
+        },
+        {
+          "startTime": 67416,
+          "endTime": 68400,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 68400,
+      "endTime": 71820,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 68400,
+          "endTime": 68913,
+          "word": "C'est "
+        },
+        {
+          "startTime": 68913,
+          "endTime": 69323,
+          "word": "la "
+        },
+        {
+          "startTime": 69323,
+          "endTime": 69767,
+          "word": "vie "
+        },
+        {
+          "startTime": 69767,
+          "endTime": 70177,
+          "word": "la "
+        },
+        {
+          "startTime": 70177,
+          "endTime": 70587,
+          "word": "la "
+        },
+        {
+          "startTime": 70587,
+          "endTime": 70997,
+          "word": "la "
+        },
+        {
+          "startTime": 70997,
+          "endTime": 71407,
+          "word": "la "
+        },
+        {
+          "startTime": 71407,
+          "endTime": 71820,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 71820,
+      "endTime": 75500,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 71820,
+          "endTime": 72257,
+          "word": "On "
+        },
+        {
+          "startTime": 72257,
+          "endTime": 72694,
+          "word": "va "
+        },
+        {
+          "startTime": 72694,
+          "endTime": 73677,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 73677,
+          "endTime": 74114,
+          "word": "on "
+        },
+        {
+          "startTime": 74114,
+          "endTime": 74551,
+          "word": "va "
+        },
+        {
+          "startTime": 74551,
+          "endTime": 75500,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 75500,
+      "endTime": 79260,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 75500,
+          "endTime": 75932,
+          "word": "Oui "
+        },
+        {
+          "startTime": 75932,
+          "endTime": 76431,
+          "word": "c'est "
+        },
+        {
+          "startTime": 76431,
+          "endTime": 76830,
+          "word": "la "
+        },
+        {
+          "startTime": 76830,
+          "endTime": 77262,
+          "word": "vie "
+        },
+        {
+          "startTime": 77262,
+          "endTime": 77661,
+          "word": "la "
+        },
+        {
+          "startTime": 77661,
+          "endTime": 78060,
+          "word": "la "
+        },
+        {
+          "startTime": 78060,
+          "endTime": 78459,
+          "word": "la "
+        },
+        {
+          "startTime": 78459,
+          "endTime": 78858,
+          "word": "la "
+        },
+        {
+          "startTime": 78858,
+          "endTime": 79260,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 79260,
+      "endTime": 83060,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 79260,
+          "endTime": 79711,
+          "word": "On "
+        },
+        {
+          "startTime": 79711,
+          "endTime": 80162,
+          "word": "va "
+        },
+        {
+          "startTime": 80162,
+          "endTime": 81177,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 81177,
+          "endTime": 81628,
+          "word": "on "
+        },
+        {
+          "startTime": 81628,
+          "endTime": 82079,
+          "word": "va "
+        },
+        {
+          "startTime": 82079,
+          "endTime": 83060,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 83060,
+      "endTime": 86580,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 83060,
+          "endTime": 83588,
+          "word": "C'est "
+        },
+        {
+          "startTime": 83588,
+          "endTime": 84010,
+          "word": "la "
+        },
+        {
+          "startTime": 84010,
+          "endTime": 84467,
+          "word": "vie "
+        },
+        {
+          "startTime": 84467,
+          "endTime": 84889,
+          "word": "la "
+        },
+        {
+          "startTime": 84889,
+          "endTime": 85311,
+          "word": "la "
+        },
+        {
+          "startTime": 85311,
+          "endTime": 85733,
+          "word": "la "
+        },
+        {
+          "startTime": 85733,
+          "endTime": 86155,
+          "word": "la "
+        },
+        {
+          "startTime": 86155,
+          "endTime": 86580,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 86580,
+      "endTime": 90290,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 86580,
+          "endTime": 87020,
+          "word": "On "
+        },
+        {
+          "startTime": 87020,
+          "endTime": 87460,
+          "word": "va "
+        },
+        {
+          "startTime": 87460,
+          "endTime": 88451,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 88451,
+          "endTime": 88891,
+          "word": "on "
+        },
+        {
+          "startTime": 88891,
+          "endTime": 89331,
+          "word": "va "
+        },
+        {
+          "startTime": 89331,
+          "endTime": 90290,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 90290,
+      "endTime": 93580,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 90290,
+          "endTime": 90668,
+          "word": "Oui "
+        },
+        {
+          "startTime": 90668,
+          "endTime": 91104,
+          "word": "c'est "
+        },
+        {
+          "startTime": 91104,
+          "endTime": 91453,
+          "word": "la "
+        },
+        {
+          "startTime": 91453,
+          "endTime": 91831,
+          "word": "vie "
+        },
+        {
+          "startTime": 91831,
+          "endTime": 92180,
+          "word": "la "
+        },
+        {
+          "startTime": 92180,
+          "endTime": 92529,
+          "word": "la "
+        },
+        {
+          "startTime": 92529,
+          "endTime": 92878,
+          "word": "la "
+        },
+        {
+          "startTime": 92878,
+          "endTime": 93227,
+          "word": "la "
+        },
+        {
+          "startTime": 93227,
+          "endTime": 93580,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 93580,
+      "endTime": 97160,
+      "text": "جاني بشار بالخفية",
+      "words": [
+        {
+          "startTime": 93580,
+          "endTime": 94693,
+          "word": "جاني "
+        },
+        {
+          "startTime": 94693,
+          "endTime": 95806,
+          "word": "بشار "
+        },
+        {
+          "startTime": 95806,
+          "endTime": 97160,
+          "word": "بالخفية"
+        }
+      ]
+    },
+    {
+      "time": 97160,
+      "endTime": 100910,
+      "text": "وقالي على اللي بيا",
+      "words": [
+        {
+          "startTime": 97160,
+          "endTime": 98182,
+          "word": "وقالي "
+        },
+        {
+          "startTime": 98182,
+          "endTime": 99068,
+          "word": "على "
+        },
+        {
+          "startTime": 99068,
+          "endTime": 100022,
+          "word": "اللي "
+        },
+        {
+          "startTime": 100022,
+          "endTime": 100910,
+          "word": "بيا"
+        }
+      ]
+    },
+    {
+      "time": 100910,
+      "endTime": 104550,
+      "text": "وقالي نتا نيا",
+      "words": [
+        {
+          "startTime": 100910,
+          "endTime": 102241,
+          "word": "وقالي "
+        },
+        {
+          "startTime": 102241,
+          "endTime": 103395,
+          "word": "نتا "
+        },
+        {
+          "startTime": 103395,
+          "endTime": 104550,
+          "word": "نيا"
+        }
+      ]
+    },
+    {
+      "time": 104550,
+      "endTime": 107500,
+      "text": "غير راهي نصرانية",
+      "words": [
+        {
+          "startTime": 104550,
+          "endTime": 105421,
+          "word": "غير "
+        },
+        {
+          "startTime": 105421,
+          "endTime": 106359,
+          "word": "راهي "
+        },
+        {
+          "startTime": 106359,
+          "endTime": 107500,
+          "word": "نصرانية"
+        }
+      ]
+    },
+    {
+      "time": 107500,
+      "endTime": 110660,
+      "text": "أها إياه أها إياه",
+      "words": [
+        {
+          "startTime": 107500,
+          "endTime": 108260,
+          "word": "أها "
+        },
+        {
+          "startTime": 108260,
+          "endTime": 109079,
+          "word": "إياه "
+        },
+        {
+          "startTime": 109079,
+          "endTime": 109839,
+          "word": "أها "
+        },
+        {
+          "startTime": 109839,
+          "endTime": 110660,
+          "word": "إياه"
+        }
+      ]
+    },
+    {
+      "time": 110660,
+      "endTime": 114840,
+      "text": "لازم الجرح يبرى بالدوا",
+      "words": [
+        {
+          "startTime": 110660,
+          "endTime": 111651,
+          "word": "لازم "
+        },
+        {
+          "startTime": 111651,
+          "endTime": 112713,
+          "word": "الجرح "
+        },
+        {
+          "startTime": 112713,
+          "endTime": 113704,
+          "word": "يبرى "
+        },
+        {
+          "startTime": 113704,
+          "endTime": 114840,
+          "word": "بالدوا"
+        }
+      ]
+    },
+    {
+      "time": 114840,
+      "endTime": 118030,
+      "text": "أها إياه أها إياه",
+      "words": [
+        {
+          "startTime": 114840,
+          "endTime": 115607,
+          "word": "أها "
+        },
+        {
+          "startTime": 115607,
+          "endTime": 116434,
+          "word": "إياه "
+        },
+        {
+          "startTime": 116434,
+          "endTime": 117201,
+          "word": "أها "
+        },
+        {
+          "startTime": 117201,
+          "endTime": 118030,
+          "word": "إياه"
+        }
+      ]
+    },
+    {
+      "time": 118030,
+      "endTime": 122010,
+      "text": "السهرة تكون جميلة يا لحبيبة",
+      "words": [
+        {
+          "startTime": 118030,
+          "endTime": 118902,
+          "word": "السهرة "
+        },
+        {
+          "startTime": 118902,
+          "endTime": 119665,
+          "word": "تكون "
+        },
+        {
+          "startTime": 119665,
+          "endTime": 120482,
+          "word": "جميلة "
+        },
+        {
+          "startTime": 120482,
+          "endTime": 121136,
+          "word": "يا "
+        },
+        {
+          "startTime": 121136,
+          "endTime": 122010,
+          "word": "لحبيبة"
+        }
+      ]
+    },
+    {
+      "time": 122010,
+      "endTime": 123550,
+      "text": "ولاي لاي للاه",
+      "words": [
+        {
+          "startTime": 122010,
+          "endTime": 122535,
+          "word": "ولاي "
+        },
+        {
+          "startTime": 122535,
+          "endTime": 123023,
+          "word": "لاي "
+        },
+        {
+          "startTime": 123023,
+          "endTime": 123550,
+          "word": "للاه"
+        }
+      ]
+    },
+    {
+      "time": 123550,
+      "endTime": 127440,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 123550,
+          "endTime": 124012,
+          "word": "On "
+        },
+        {
+          "startTime": 124012,
+          "endTime": 124474,
+          "word": "va "
+        },
+        {
+          "startTime": 124474,
+          "endTime": 125513,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 125513,
+          "endTime": 125975,
+          "word": "on "
+        },
+        {
+          "startTime": 125975,
+          "endTime": 126437,
+          "word": "va "
+        },
+        {
+          "startTime": 126437,
+          "endTime": 127440,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 127440,
+      "endTime": 130900,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 127440,
+          "endTime": 127959,
+          "word": "C'est "
+        },
+        {
+          "startTime": 127959,
+          "endTime": 128374,
+          "word": "la "
+        },
+        {
+          "startTime": 128374,
+          "endTime": 128823,
+          "word": "vie "
+        },
+        {
+          "startTime": 128823,
+          "endTime": 129238,
+          "word": "la "
+        },
+        {
+          "startTime": 129238,
+          "endTime": 129653,
+          "word": "la "
+        },
+        {
+          "startTime": 129653,
+          "endTime": 130068,
+          "word": "la "
+        },
+        {
+          "startTime": 130068,
+          "endTime": 130483,
+          "word": "la "
+        },
+        {
+          "startTime": 130483,
+          "endTime": 130900,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 130900,
+      "endTime": 134590,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 130900,
+          "endTime": 131338,
+          "word": "On "
+        },
+        {
+          "startTime": 131338,
+          "endTime": 131776,
+          "word": "va "
+        },
+        {
+          "startTime": 131776,
+          "endTime": 132762,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 132762,
+          "endTime": 133200,
+          "word": "on "
+        },
+        {
+          "startTime": 133200,
+          "endTime": 133638,
+          "word": "va "
+        },
+        {
+          "startTime": 133638,
+          "endTime": 134590,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 134590,
+      "endTime": 138380,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 134590,
+          "endTime": 135026,
+          "word": "Oui "
+        },
+        {
+          "startTime": 135026,
+          "endTime": 135529,
+          "word": "c'est "
+        },
+        {
+          "startTime": 135529,
+          "endTime": 135931,
+          "word": "la "
+        },
+        {
+          "startTime": 135931,
+          "endTime": 136367,
+          "word": "vie "
+        },
+        {
+          "startTime": 136367,
+          "endTime": 136769,
+          "word": "la "
+        },
+        {
+          "startTime": 136769,
+          "endTime": 137171,
+          "word": "la "
+        },
+        {
+          "startTime": 137171,
+          "endTime": 137573,
+          "word": "la "
+        },
+        {
+          "startTime": 137573,
+          "endTime": 137975,
+          "word": "la "
+        },
+        {
+          "startTime": 137975,
+          "endTime": 138380,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 138380,
+      "endTime": 142160,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 138380,
+          "endTime": 138829,
+          "word": "On "
+        },
+        {
+          "startTime": 138829,
+          "endTime": 139278,
+          "word": "va "
+        },
+        {
+          "startTime": 139278,
+          "endTime": 140288,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 140288,
+          "endTime": 140737,
+          "word": "on "
+        },
+        {
+          "startTime": 140737,
+          "endTime": 141186,
+          "word": "va "
+        },
+        {
+          "startTime": 141186,
+          "endTime": 142160,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 142160,
+      "endTime": 145680,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 142160,
+          "endTime": 142688,
+          "word": "C'est "
+        },
+        {
+          "startTime": 142688,
+          "endTime": 143110,
+          "word": "la "
+        },
+        {
+          "startTime": 143110,
+          "endTime": 143567,
+          "word": "vie "
+        },
+        {
+          "startTime": 143567,
+          "endTime": 143989,
+          "word": "la "
+        },
+        {
+          "startTime": 143989,
+          "endTime": 144411,
+          "word": "la "
+        },
+        {
+          "startTime": 144411,
+          "endTime": 144833,
+          "word": "la "
+        },
+        {
+          "startTime": 144833,
+          "endTime": 145255,
+          "word": "la "
+        },
+        {
+          "startTime": 145255,
+          "endTime": 145680,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 145680,
+      "endTime": 149390,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 145680,
+          "endTime": 146120,
+          "word": "On "
+        },
+        {
+          "startTime": 146120,
+          "endTime": 146560,
+          "word": "va "
+        },
+        {
+          "startTime": 146560,
+          "endTime": 147551,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 147551,
+          "endTime": 147991,
+          "word": "on "
+        },
+        {
+          "startTime": 147991,
+          "endTime": 148431,
+          "word": "va "
+        },
+        {
+          "startTime": 148431,
+          "endTime": 149390,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 149390,
+      "endTime": 152880,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 149390,
+          "endTime": 149791,
+          "word": "Oui "
+        },
+        {
+          "startTime": 149791,
+          "endTime": 150254,
+          "word": "c'est "
+        },
+        {
+          "startTime": 150254,
+          "endTime": 150624,
+          "word": "la "
+        },
+        {
+          "startTime": 150624,
+          "endTime": 151025,
+          "word": "vie "
+        },
+        {
+          "startTime": 151025,
+          "endTime": 151395,
+          "word": "la "
+        },
+        {
+          "startTime": 151395,
+          "endTime": 151765,
+          "word": "la "
+        },
+        {
+          "startTime": 151765,
+          "endTime": 152135,
+          "word": "la "
+        },
+        {
+          "startTime": 152135,
+          "endTime": 152505,
+          "word": "la "
+        },
+        {
+          "startTime": 152505,
+          "endTime": 152880,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 152880,
+      "endTime": 155560,
+      "text": "هذه ليلة وألف ليلة",
+      "words": [
+        {
+          "startTime": 152880,
+          "endTime": 153513,
+          "word": "هذه "
+        },
+        {
+          "startTime": 153513,
+          "endTime": 154195,
+          "word": "ليلة "
+        },
+        {
+          "startTime": 154195,
+          "endTime": 154877,
+          "word": "وألف "
+        },
+        {
+          "startTime": 154877,
+          "endTime": 155560,
+          "word": "ليلة"
+        }
+      ]
+    },
+    {
+      "time": 155560,
+      "endTime": 159980,
+      "text": "On va s'aimer pour toute la vie",
+      "words": [
+        {
+          "startTime": 155560,
+          "endTime": 156065,
+          "word": "On "
+        },
+        {
+          "startTime": 156065,
+          "endTime": 156570,
+          "word": "va "
+        },
+        {
+          "startTime": 156570,
+          "endTime": 157706,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 157706,
+          "endTime": 158295,
+          "word": "pour "
+        },
+        {
+          "startTime": 158295,
+          "endTime": 158926,
+          "word": "toute "
+        },
+        {
+          "startTime": 158926,
+          "endTime": 159431,
+          "word": "la "
+        },
+        {
+          "startTime": 159431,
+          "endTime": 159980,
+          "word": "vie"
+        }
+      ]
+    },
+    {
+      "time": 159980,
+      "endTime": 162850,
+      "text": "هذه ليلة وألف ليلة",
+      "words": [
+        {
+          "startTime": 159980,
+          "endTime": 160658,
+          "word": "هذه "
+        },
+        {
+          "startTime": 160658,
+          "endTime": 161388,
+          "word": "ليلة "
+        },
+        {
+          "startTime": 161388,
+          "endTime": 162118,
+          "word": "وألف "
+        },
+        {
+          "startTime": 162118,
+          "endTime": 162850,
+          "word": "ليلة"
+        }
+      ]
+    },
+    {
+      "time": 162850,
+      "endTime": 165150,
+      "text": "On va s'aimer danser",
+      "words": [
+        {
+          "startTime": 162850,
+          "endTime": 163208,
+          "word": "On "
+        },
+        {
+          "startTime": 163208,
+          "endTime": 163566,
+          "word": "va "
+        },
+        {
+          "startTime": 163566,
+          "endTime": 164372,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 164372,
+          "endTime": 165150,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 165150,
+      "endTime": 168110,
+      "text": "C'est la-la-la c'est la vie",
+      "words": [
+        {
+          "startTime": 165150,
+          "endTime": 165603,
+          "word": "C'est "
+        },
+        {
+          "startTime": 165603,
+          "endTime": 166901,
+          "word": "la-la-la "
+        },
+        {
+          "startTime": 166901,
+          "endTime": 167354,
+          "word": "c'est "
+        },
+        {
+          "startTime": 167354,
+          "endTime": 167716,
+          "word": "la "
+        },
+        {
+          "startTime": 167716,
+          "endTime": 168110,
+          "word": "vie"
+        }
+      ]
+    },
+    {
+      "time": 168110,
+      "endTime": 171780,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 168110,
+          "endTime": 168546,
+          "word": "On "
+        },
+        {
+          "startTime": 168546,
+          "endTime": 168982,
+          "word": "va "
+        },
+        {
+          "startTime": 168982,
+          "endTime": 169963,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 169963,
+          "endTime": 170399,
+          "word": "on "
+        },
+        {
+          "startTime": 170399,
+          "endTime": 170835,
+          "word": "va "
+        },
+        {
+          "startTime": 170835,
+          "endTime": 171780,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 171780,
+      "endTime": 175220,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 171780,
+          "endTime": 172296,
+          "word": "C'est "
+        },
+        {
+          "startTime": 172296,
+          "endTime": 172708,
+          "word": "la "
+        },
+        {
+          "startTime": 172708,
+          "endTime": 173155,
+          "word": "vie "
+        },
+        {
+          "startTime": 173155,
+          "endTime": 173567,
+          "word": "la "
+        },
+        {
+          "startTime": 173567,
+          "endTime": 173979,
+          "word": "la "
+        },
+        {
+          "startTime": 173979,
+          "endTime": 174391,
+          "word": "la "
+        },
+        {
+          "startTime": 174391,
+          "endTime": 174803,
+          "word": "la "
+        },
+        {
+          "startTime": 174803,
+          "endTime": 175220,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 175220,
+      "endTime": 178880,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 175220,
+          "endTime": 175654,
+          "word": "On "
+        },
+        {
+          "startTime": 175654,
+          "endTime": 176088,
+          "word": "va "
+        },
+        {
+          "startTime": 176088,
+          "endTime": 177066,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 177066,
+          "endTime": 177500,
+          "word": "on "
+        },
+        {
+          "startTime": 177500,
+          "endTime": 177934,
+          "word": "va "
+        },
+        {
+          "startTime": 177934,
+          "endTime": 178880,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 178880,
+      "endTime": 182450,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 178880,
+          "endTime": 179290,
+          "word": "Oui "
+        },
+        {
+          "startTime": 179290,
+          "endTime": 179763,
+          "word": "c'est "
+        },
+        {
+          "startTime": 179763,
+          "endTime": 180142,
+          "word": "la "
+        },
+        {
+          "startTime": 180142,
+          "endTime": 180552,
+          "word": "vie "
+        },
+        {
+          "startTime": 180552,
+          "endTime": 180931,
+          "word": "la "
+        },
+        {
+          "startTime": 180931,
+          "endTime": 181310,
+          "word": "la "
+        },
+        {
+          "startTime": 181310,
+          "endTime": 181689,
+          "word": "la "
+        },
+        {
+          "startTime": 181689,
+          "endTime": 182068,
+          "word": "la "
+        },
+        {
+          "startTime": 182068,
+          "endTime": 182450,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 182450,
+      "endTime": 182720,
+      "text": "Ouais",
+      "words": [
+        {
+          "startTime": 182450,
+          "endTime": 182720,
+          "word": "Ouais"
+        }
+      ]
+    },
+    {
+      "time": 182720,
+      "endTime": 186510,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 182720,
+          "endTime": 183170,
+          "word": "On "
+        },
+        {
+          "startTime": 183170,
+          "endTime": 183620,
+          "word": "va "
+        },
+        {
+          "startTime": 183620,
+          "endTime": 184633,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 184633,
+          "endTime": 185083,
+          "word": "on "
+        },
+        {
+          "startTime": 185083,
+          "endTime": 185533,
+          "word": "va "
+        },
+        {
+          "startTime": 185533,
+          "endTime": 186510,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 186510,
+      "endTime": 190050,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 186510,
+          "endTime": 187041,
+          "word": "C'est "
+        },
+        {
+          "startTime": 187041,
+          "endTime": 187465,
+          "word": "la "
+        },
+        {
+          "startTime": 187465,
+          "endTime": 187925,
+          "word": "vie "
+        },
+        {
+          "startTime": 187925,
+          "endTime": 188349,
+          "word": "la "
+        },
+        {
+          "startTime": 188349,
+          "endTime": 188773,
+          "word": "la "
+        },
+        {
+          "startTime": 188773,
+          "endTime": 189197,
+          "word": "la "
+        },
+        {
+          "startTime": 189197,
+          "endTime": 189621,
+          "word": "la "
+        },
+        {
+          "startTime": 189621,
+          "endTime": 190050,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 190050,
+      "endTime": 193700,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 190050,
+          "endTime": 190483,
+          "word": "On "
+        },
+        {
+          "startTime": 190483,
+          "endTime": 190916,
+          "word": "va "
+        },
+        {
+          "startTime": 190916,
+          "endTime": 191891,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 191891,
+          "endTime": 192324,
+          "word": "on "
+        },
+        {
+          "startTime": 192324,
+          "endTime": 192757,
+          "word": "va "
+        },
+        {
+          "startTime": 192757,
+          "endTime": 193700,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 193700,
+      "endTime": 197400,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 193700,
+          "endTime": 194125,
+          "word": "Oui "
+        },
+        {
+          "startTime": 194125,
+          "endTime": 194616,
+          "word": "c'est "
+        },
+        {
+          "startTime": 194616,
+          "endTime": 195008,
+          "word": "la "
+        },
+        {
+          "startTime": 195008,
+          "endTime": 195433,
+          "word": "vie "
+        },
+        {
+          "startTime": 195433,
+          "endTime": 195825,
+          "word": "la "
+        },
+        {
+          "startTime": 195825,
+          "endTime": 196217,
+          "word": "la "
+        },
+        {
+          "startTime": 196217,
+          "endTime": 196609,
+          "word": "la "
+        },
+        {
+          "startTime": 196609,
+          "endTime": 197001,
+          "word": "la "
+        },
+        {
+          "startTime": 197001,
+          "endTime": 197400,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 197400,
+      "endTime": 201270,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 197400,
+          "endTime": 197859,
+          "word": "On "
+        },
+        {
+          "startTime": 197859,
+          "endTime": 198318,
+          "word": "va "
+        },
+        {
+          "startTime": 198318,
+          "endTime": 199352,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 199352,
+          "endTime": 199811,
+          "word": "on "
+        },
+        {
+          "startTime": 199811,
+          "endTime": 200270,
+          "word": "va "
+        },
+        {
+          "startTime": 200270,
+          "endTime": 201270,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 201270,
+      "endTime": 204760,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 201270,
+          "endTime": 201793,
+          "word": "C'est "
+        },
+        {
+          "startTime": 201793,
+          "endTime": 202211,
+          "word": "la "
+        },
+        {
+          "startTime": 202211,
+          "endTime": 202664,
+          "word": "vie "
+        },
+        {
+          "startTime": 202664,
+          "endTime": 203082,
+          "word": "la "
+        },
+        {
+          "startTime": 203082,
+          "endTime": 203500,
+          "word": "la "
+        },
+        {
+          "startTime": 203500,
+          "endTime": 203918,
+          "word": "la "
+        },
+        {
+          "startTime": 203918,
+          "endTime": 204336,
+          "word": "la "
+        },
+        {
+          "startTime": 204336,
+          "endTime": 204760,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 204760,
+      "endTime": 208430,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 204760,
+          "endTime": 205196,
+          "word": "On "
+        },
+        {
+          "startTime": 205196,
+          "endTime": 205632,
+          "word": "va "
+        },
+        {
+          "startTime": 205632,
+          "endTime": 206613,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 206613,
+          "endTime": 207049,
+          "word": "on "
+        },
+        {
+          "startTime": 207049,
+          "endTime": 207485,
+          "word": "va "
+        },
+        {
+          "startTime": 207485,
+          "endTime": 208430,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 208430,
+      "endTime": 212140,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 208430,
+          "endTime": 208856,
+          "word": "Oui "
+        },
+        {
+          "startTime": 208856,
+          "endTime": 209348,
+          "word": "c'est "
+        },
+        {
+          "startTime": 209348,
+          "endTime": 209741,
+          "word": "la "
+        },
+        {
+          "startTime": 209741,
+          "endTime": 210167,
+          "word": "vie "
+        },
+        {
+          "startTime": 210167,
+          "endTime": 210560,
+          "word": "la "
+        },
+        {
+          "startTime": 210560,
+          "endTime": 210953,
+          "word": "la "
+        },
+        {
+          "startTime": 210953,
+          "endTime": 211346,
+          "word": "la "
+        },
+        {
+          "startTime": 211346,
+          "endTime": 211739,
+          "word": "la "
+        },
+        {
+          "startTime": 211739,
+          "endTime": 212140,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 212140,
+      "endTime": 216000,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 212140,
+          "endTime": 212598,
+          "word": "On "
+        },
+        {
+          "startTime": 212598,
+          "endTime": 213056,
+          "word": "va "
+        },
+        {
+          "startTime": 213056,
+          "endTime": 214087,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 214087,
+          "endTime": 214545,
+          "word": "on "
+        },
+        {
+          "startTime": 214545,
+          "endTime": 215003,
+          "word": "va "
+        },
+        {
+          "startTime": 215003,
+          "endTime": 216000,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 216000,
+      "endTime": 219500,
+      "text": "C'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 216000,
+          "endTime": 216525,
+          "word": "C'est "
+        },
+        {
+          "startTime": 216525,
+          "endTime": 216945,
+          "word": "la "
+        },
+        {
+          "startTime": 216945,
+          "endTime": 217400,
+          "word": "vie "
+        },
+        {
+          "startTime": 217400,
+          "endTime": 217820,
+          "word": "la "
+        },
+        {
+          "startTime": 217820,
+          "endTime": 218240,
+          "word": "la "
+        },
+        {
+          "startTime": 218240,
+          "endTime": 218660,
+          "word": "la "
+        },
+        {
+          "startTime": 218660,
+          "endTime": 219080,
+          "word": "la "
+        },
+        {
+          "startTime": 219080,
+          "endTime": 219500,
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "time": 219500,
+      "endTime": 223210,
+      "text": "On va s'aimer on va danser",
+      "words": [
+        {
+          "startTime": 219500,
+          "endTime": 219940,
+          "word": "On "
+        },
+        {
+          "startTime": 219940,
+          "endTime": 220380,
+          "word": "va "
+        },
+        {
+          "startTime": 220380,
+          "endTime": 221371,
+          "word": "s'aimer "
+        },
+        {
+          "startTime": 221371,
+          "endTime": 221811,
+          "word": "on "
+        },
+        {
+          "startTime": 221811,
+          "endTime": 222251,
+          "word": "va "
+        },
+        {
+          "startTime": 222251,
+          "endTime": 223210,
+          "word": "danser"
+        }
+      ]
+    },
+    {
+      "time": 223210,
+      "endTime": 228210,
+      "text": "Oui c'est la vie la la la la la",
+      "words": [
+        {
+          "startTime": 223210,
+          "endTime": 223785,
+          "word": "Oui "
+        },
+        {
+          "startTime": 223785,
+          "endTime": 224448,
+          "word": "c'est "
+        },
+        {
+          "startTime": 224448,
+          "endTime": 224978,
+          "word": "la "
+        },
+        {
+          "startTime": 224978,
+          "endTime": 225553,
+          "word": "vie "
+        },
+        {
+          "startTime": 225553,
+          "endTime": 226083,
+          "word": "la "
+        },
+        {
+          "startTime": 226083,
+          "endTime": 226613,
+          "word": "la "
+        },
+        {
+          "startTime": 226613,
+          "endTime": 227143,
+          "word": "la "
+        },
+        {
+          "startTime": 227143,
+          "endTime": 227673,
+          "word": "la "
+        },
+        {
+          "startTime": 227673,
+          "endTime": 228210,
+          "word": "la"
+        }
+      ]
+    }
+  ]
+}
