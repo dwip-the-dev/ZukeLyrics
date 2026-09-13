@@ -1,0 +1,1115 @@
+{
+  "videoId": "KWuyx6yZ21U",
+  "title": "A Sky Full of Stars",
+  "artist": "Coldplay",
+  "duration": 268,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:17.090\" end=\"00:19.021\" ttm:agent=\"v1\">\n        <span begin=\"00:17.095\" end=\"00:17.386\">&apos;Cause<\/span>\n        <span begin=\"00:17.386\" end=\"00:17.657\">you&apos;re<\/span>\n        <span begin=\"00:17.657\" end=\"00:17.874\">a<\/span>\n        <span begin=\"00:17.874\" end=\"00:19.021\">sky<\/span>\n      <\/p>\n      <p begin=\"00:19.030\" end=\"00:22.570\" ttm:agent=\"v1\">\n        <span begin=\"00:19.031\" end=\"00:19.314\">&apos;Cause<\/span>\n        <span begin=\"00:19.314\" end=\"00:19.577\">you&apos;re<\/span>\n        <span begin=\"00:19.577\" end=\"00:19.860\">a<\/span>\n        <span begin=\"00:19.860\" end=\"00:21.030\">sky<\/span>\n        <span begin=\"00:21.030\" end=\"00:21.270\">full<\/span>\n        <span begin=\"00:21.270\" end=\"00:21.519\">of<\/span>\n        <span begin=\"00:21.519\" end=\"00:22.570\">stars<\/span>\n      <\/p>\n      <p begin=\"00:24.820\" end=\"00:28.261\" ttm:agent=\"v1\">\n        <span begin=\"00:24.824\" end=\"00:25.104\">I&apos;m<\/span>\n        <span begin=\"00:25.104\" end=\"00:25.597\">gonna<\/span>\n        <span begin=\"00:25.597\" end=\"00:26.811\">give<\/span>\n        <span begin=\"00:26.811\" end=\"00:27.091\">you<\/span>\n        <span begin=\"00:27.091\" end=\"00:27.335\">my<\/span>\n        <span begin=\"00:27.335\" end=\"00:28.261\">heart<\/span>\n      <\/p>\n      <p begin=\"00:32.520\" end=\"00:34.444\" ttm:agent=\"v1\">\n        <span begin=\"00:32.524\" end=\"00:32.815\">&apos;Cause<\/span>\n        <span begin=\"00:32.815\" end=\"00:33.086\">you&apos;re<\/span>\n        <span begin=\"00:33.086\" end=\"00:33.303\">a<\/span>\n        <span begin=\"00:33.303\" end=\"00:34.444\">sky<\/span>\n      <\/p>\n      <p begin=\"00:34.440\" end=\"00:37.999\" ttm:agent=\"v1\">\n        <span begin=\"00:34.444\" end=\"00:34.727\">&apos;Cause<\/span>\n        <span begin=\"00:34.727\" end=\"00:34.990\">you&apos;re<\/span>\n        <span begin=\"00:34.990\" end=\"00:35.273\">a<\/span>\n        <span begin=\"00:35.273\" end=\"00:36.443\">sky<\/span>\n        <span begin=\"00:36.443\" end=\"00:36.683\">full<\/span>\n        <span begin=\"00:36.683\" end=\"00:36.932\">of<\/span>\n        <span begin=\"00:36.932\" end=\"00:37.999\">stars<\/span>\n      <\/p>\n      <p begin=\"00:40.380\" end=\"00:43.602\" ttm:agent=\"v1\">\n        <span begin=\"00:40.389\" end=\"00:40.704\">&apos;Cause<\/span>\n        <span begin=\"00:40.704\" end=\"00:40.913\">you<\/span>\n        <span begin=\"00:40.913\" end=\"00:42.198\">light<\/span>\n        <span begin=\"00:42.198\" end=\"00:42.430\">up<\/span>\n        <span begin=\"00:42.430\" end=\"00:42.656\">the<\/span>\n        <span begin=\"00:42.656\" end=\"00:43.602\">path<\/span>\n      <\/p>\n      <p begin=\"00:47.860\" end=\"00:49.807\" ttm:agent=\"v1\">\n        <span begin=\"00:47.864\" end=\"00:47.988\">And<\/span>\n        <span begin=\"00:47.988\" end=\"00:48.102\">I<\/span>\n        <span begin=\"00:48.102\" end=\"00:48.399\">don&apos;t<\/span>\n        <span begin=\"00:48.399\" end=\"00:49.807\">care<\/span>\n      <\/p>\n      <p begin=\"00:49.820\" end=\"00:53.187\" ttm:agent=\"v1\">\n        <span begin=\"00:49.825\" end=\"00:50.059\">Go<\/span>\n        <span begin=\"00:50.059\" end=\"00:50.353\">on<\/span>\n        <span begin=\"00:50.353\" end=\"00:50.592\">and<\/span>\n        <span begin=\"00:50.592\" end=\"00:51.776\">tear<\/span>\n        <span begin=\"00:51.776\" end=\"00:52.059\">me<\/span>\n        <span begin=\"00:52.059\" end=\"00:53.187\">apart<\/span>\n      <\/p>\n      <p begin=\"00:55.480\" end=\"00:58.812\" ttm:agent=\"v1\">\n        <span begin=\"00:55.487\" end=\"00:55.669\">And<\/span>\n        <span begin=\"00:55.669\" end=\"00:55.796\">I<\/span>\n        <span begin=\"00:55.796\" end=\"00:56.249\">don&apos;t<\/span>\n        <span begin=\"00:56.249\" end=\"00:57.492\">care<\/span>\n        <span begin=\"00:57.492\" end=\"00:57.729\">if<\/span>\n        <span begin=\"00:57.729\" end=\"00:58.022\">you<\/span>\n        <span begin=\"00:58.022\" end=\"00:58.812\">do<\/span>\n      <\/p>\n      <p begin=\"00:59.610\" end=\"01:02.838\" ttm:agent=\"v1\">\n        <span begin=\"00:59.619\" end=\"01:01.944\">Ooh-ooh,<\/span>\n        <span begin=\"01:01.944\" end=\"01:02.838\">ooh<\/span>\n      <\/p>\n      <p begin=\"01:03.220\" end=\"01:05.203\" ttm:agent=\"v1\">\n        <span begin=\"01:03.228\" end=\"01:03.555\">&apos;Cause<\/span>\n        <span begin=\"01:03.555\" end=\"01:03.806\">in<\/span>\n        <span begin=\"01:03.806\" end=\"01:04.038\">a<\/span>\n        <span begin=\"01:04.038\" end=\"01:05.203\">sky<\/span>\n      <\/p>\n      <p begin=\"01:05.200\" end=\"01:08.355\" ttm:agent=\"v1\">\n        <span begin=\"01:05.203\" end=\"01:05.501\">&apos;Cause<\/span>\n        <span begin=\"01:05.501\" end=\"01:05.662\">in<\/span>\n        <span begin=\"01:05.662\" end=\"01:05.762\">a<\/span>\n        <span begin=\"01:05.762\" end=\"01:07.108\">sky<\/span>\n        <span begin=\"01:07.108\" end=\"01:07.405\">full<\/span>\n        <span begin=\"01:07.405\" end=\"01:07.505\">of<\/span>\n        <span begin=\"01:07.505\" end=\"01:08.355\">stars<\/span>\n      <\/p>\n      <p begin=\"01:08.550\" end=\"01:14.288\" ttm:agent=\"v1\">\n        <span begin=\"01:08.555\" end=\"01:08.775\">I<\/span>\n        <span begin=\"01:08.775\" end=\"01:09.104\">think<\/span>\n        <span begin=\"01:09.104\" end=\"01:09.336\">I<\/span>\n        <span begin=\"01:09.336\" end=\"01:09.853\">saw<\/span>\n        <span begin=\"01:09.853\" end=\"01:14.288\">you<\/span>\n      <\/p>\n      <p begin=\"01:41.630\" end=\"01:43.559\" ttm:agent=\"v1\">\n        <span begin=\"01:41.633\" end=\"01:41.924\">&apos;Cause<\/span>\n        <span begin=\"01:41.924\" end=\"01:42.195\">you&apos;re<\/span>\n        <span begin=\"01:42.195\" end=\"01:42.412\">a<\/span>\n        <span begin=\"01:42.412\" end=\"01:43.559\">sky<\/span>\n      <\/p>\n      <p begin=\"01:43.600\" end=\"01:46.972\" ttm:agent=\"v1\">\n        <span begin=\"01:43.606\" end=\"01:43.889\">&apos;Cause<\/span>\n        <span begin=\"01:43.889\" end=\"01:44.152\">you&apos;re<\/span>\n        <span begin=\"01:44.152\" end=\"01:44.435\">a<\/span>\n        <span begin=\"01:44.435\" end=\"01:45.604\">sky<\/span>\n        <span begin=\"01:45.604\" end=\"01:45.845\">full<\/span>\n        <span begin=\"01:45.845\" end=\"01:46.094\">of<\/span>\n        <span begin=\"01:46.094\" end=\"01:46.972\">stars<\/span>\n      <\/p>\n      <p begin=\"01:49.340\" end=\"01:52.786\" ttm:agent=\"v1\">\n        <span begin=\"01:49.348\" end=\"01:49.533\">I<\/span>\n        <span begin=\"01:49.533\" end=\"01:49.902\">want<\/span>\n        <span begin=\"01:49.902\" end=\"01:50.187\">to<\/span>\n        <span begin=\"01:50.187\" end=\"01:51.265\">die<\/span>\n        <span begin=\"01:51.265\" end=\"01:51.557\">in<\/span>\n        <span begin=\"01:51.557\" end=\"01:51.886\">your<\/span>\n        <span begin=\"01:51.886\" end=\"01:52.786\">arms<\/span>\n      <\/p>\n      <p begin=\"01:53.690\" end=\"01:55.837\" ttm:agent=\"v1\">\n        <span begin=\"01:53.696\" end=\"01:54.700\">Oh,<\/span>\n        <span begin=\"01:54.700\" end=\"01:55.837\">oh<\/span>\n      <\/p>\n      <p begin=\"01:57.000\" end=\"02:02.466\" ttm:agent=\"v1\">\n        <span begin=\"01:57.009\" end=\"01:57.396\">&apos;Cause<\/span>\n        <span begin=\"01:57.396\" end=\"01:57.610\">you<\/span>\n        <span begin=\"01:57.610\" end=\"01:57.854\">get<\/span>\n        <span begin=\"01:57.854\" end=\"01:59.354\">lighter<\/span>\n        <span begin=\"01:59.354\" end=\"01:59.586\">the<\/span>\n        <span begin=\"01:59.586\" end=\"02:00.877\">more<\/span>\n        <span begin=\"02:00.877\" end=\"02:01.115\">it<\/span>\n        <span begin=\"02:01.115\" end=\"02:01.591\">gets<\/span>\n        <span begin=\"02:01.591\" end=\"02:02.466\">dark<\/span>\n      <\/p>\n      <p begin=\"02:04.640\" end=\"02:07.989\" ttm:agent=\"v1\">\n        <span begin=\"02:04.648\" end=\"02:05.053\">I&apos;m<\/span>\n        <span begin=\"02:05.053\" end=\"02:05.540\">gonna<\/span>\n        <span begin=\"02:05.540\" end=\"02:06.772\">give<\/span>\n        <span begin=\"02:06.772\" end=\"02:07.022\">you<\/span>\n        <span begin=\"02:07.022\" end=\"02:07.260\">my<\/span>\n        <span begin=\"02:07.260\" end=\"02:07.989\">heart<\/span>\n      <\/p>\n      <p begin=\"02:10.530\" end=\"02:11.186\" ttm:agent=\"v1\">\n        <span begin=\"02:10.538\" end=\"02:11.186\">Oh<\/span>\n      <\/p>\n      <p begin=\"02:12.280\" end=\"02:14.228\" ttm:agent=\"v1\">\n        <span begin=\"02:12.285\" end=\"02:12.409\">And<\/span>\n        <span begin=\"02:12.409\" end=\"02:12.523\">I<\/span>\n        <span begin=\"02:12.523\" end=\"02:12.820\">don&apos;t<\/span>\n        <span begin=\"02:12.820\" end=\"02:14.228\">care<\/span>\n      <\/p>\n      <p begin=\"02:14.250\" end=\"02:17.653\" ttm:agent=\"v1\">\n        <span begin=\"02:14.254\" end=\"02:14.488\">Go<\/span>\n        <span begin=\"02:14.488\" end=\"02:14.782\">on<\/span>\n        <span begin=\"02:14.782\" end=\"02:15.021\">and<\/span>\n        <span begin=\"02:15.021\" end=\"02:16.204\">tear<\/span>\n        <span begin=\"02:16.204\" end=\"02:16.488\">me<\/span>\n        <span begin=\"02:16.488\" end=\"02:17.653\">apart<\/span>\n      <\/p>\n      <p begin=\"02:19.970\" end=\"02:23.466\" ttm:agent=\"v1\">\n        <span begin=\"02:19.970\" end=\"02:20.152\">And<\/span>\n        <span begin=\"02:20.152\" end=\"02:20.279\">I<\/span>\n        <span begin=\"02:20.279\" end=\"02:20.732\">don&apos;t<\/span>\n        <span begin=\"02:20.732\" end=\"02:21.975\">care<\/span>\n        <span begin=\"02:21.975\" end=\"02:22.212\">if<\/span>\n        <span begin=\"02:22.212\" end=\"02:22.505\">you<\/span>\n        <span begin=\"02:22.505\" end=\"02:23.466\">do<\/span>\n      <\/p>\n      <p begin=\"02:24.170\" end=\"02:27.507\" ttm:agent=\"v1\">\n        <span begin=\"02:24.176\" end=\"02:26.501\">Ooh-ooh,<\/span>\n        <span begin=\"02:26.501\" end=\"02:27.507\">ooh<\/span>\n      <\/p>\n      <p begin=\"02:27.800\" end=\"02:29.437\" ttm:agent=\"v1\">\n        <span begin=\"02:27.800\" end=\"02:28.027\">&apos;Cause<\/span>\n        <span begin=\"02:28.027\" end=\"02:28.278\">in<\/span>\n        <span begin=\"02:28.278\" end=\"02:28.510\">a<\/span>\n        <span begin=\"02:28.510\" end=\"02:29.437\">sky<\/span>\n      <\/p>\n      <p begin=\"02:29.650\" end=\"02:32.908\" ttm:agent=\"v1\">\n        <span begin=\"02:29.657\" end=\"02:30.210\">&apos;Cause<\/span>\n        <span begin=\"02:30.210\" end=\"02:30.310\">in<\/span>\n        <span begin=\"02:30.310\" end=\"02:30.410\">a<\/span>\n        <span begin=\"02:30.410\" end=\"02:31.668\">sky<\/span>\n        <span begin=\"02:31.668\" end=\"02:32.013\">full<\/span>\n        <span begin=\"02:32.013\" end=\"02:32.113\">of<\/span>\n        <span begin=\"02:32.113\" end=\"02:32.908\">stars<\/span>\n      <\/p>\n      <p begin=\"02:33.050\" end=\"02:38.692\" ttm:agent=\"v1\">\n        <span begin=\"02:33.054\" end=\"02:33.281\">I<\/span>\n        <span begin=\"02:33.281\" end=\"02:33.603\">think<\/span>\n        <span begin=\"02:33.603\" end=\"02:33.778\">I<\/span>\n        <span begin=\"02:33.778\" end=\"02:34.353\">see<\/span>\n        <span begin=\"02:34.353\" end=\"02:38.692\">you<\/span>\n      <\/p>\n      <p begin=\"02:40.700\" end=\"02:46.376\" ttm:agent=\"v1\">\n        <span begin=\"02:40.701\" end=\"02:40.878\">I<\/span>\n        <span begin=\"02:40.878\" end=\"02:41.247\">think<\/span>\n        <span begin=\"02:41.247\" end=\"02:41.430\">I<\/span>\n        <span begin=\"02:41.430\" end=\"02:41.999\">see<\/span>\n        <span begin=\"02:41.999\" end=\"02:46.376\">you<\/span>\n      <\/p>\n      <p begin=\"03:36.570\" end=\"03:38.546\" ttm:agent=\"v1\">\n        <span begin=\"03:36.573\" end=\"03:37.064\">&apos;Cause<\/span>\n        <span begin=\"03:37.064\" end=\"03:37.335\">you&apos;re<\/span>\n        <span begin=\"03:37.335\" end=\"03:37.552\">a<\/span>\n        <span begin=\"03:37.552\" end=\"03:38.546\">sky<\/span>\n      <\/p>\n      <p begin=\"03:38.740\" end=\"03:41.791\" ttm:agent=\"v1\">\n        <span begin=\"03:38.740\" end=\"03:39.127\">You&apos;re<\/span>\n        <span begin=\"03:39.127\" end=\"03:39.227\">a<\/span>\n        <span begin=\"03:39.227\" end=\"03:40.709\">sky<\/span>\n        <span begin=\"03:40.709\" end=\"03:40.953\">full<\/span>\n        <span begin=\"03:40.953\" end=\"03:41.096\">of<\/span>\n        <span begin=\"03:41.096\" end=\"03:41.791\">stars<\/span>\n      <\/p>\n      <p begin=\"03:41.800\" end=\"03:47.831\" ttm:agent=\"v1\">\n        <span begin=\"03:41.801\" end=\"03:42.208\">Such<\/span>\n        <span begin=\"03:42.208\" end=\"03:42.440\">a<\/span>\n        <span begin=\"03:42.440\" end=\"03:43.440\">heavenly<\/span>\n        <span begin=\"03:43.440\" end=\"03:47.831\">view<\/span>\n      <\/p>\n      <p begin=\"03:49.350\" end=\"03:55.333\" ttm:agent=\"v1\">\n        <span begin=\"03:49.353\" end=\"03:49.655\">You&apos;re<\/span>\n        <span begin=\"03:49.655\" end=\"03:49.921\">such<\/span>\n        <span begin=\"03:49.921\" end=\"03:50.204\">a<\/span>\n        <span begin=\"03:50.204\" end=\"03:51.087\">heavenly<\/span>\n        <span begin=\"03:51.087\" end=\"03:55.333\">view<\/span>\n      <\/p>\n      <p begin=\"03:55.390\" end=\"03:59.122\" ttm:agent=\"v1\">\n        <span begin=\"03:55.394\" end=\"03:56.372\">Yeah,<\/span>\n        <span begin=\"03:56.372\" end=\"03:57.239\">yeah,<\/span>\n        <span begin=\"03:57.239\" end=\"03:58.337\">yeah,<\/span>\n        <span begin=\"03:58.337\" end=\"03:59.122\">ooh<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 17090,
+      "endTime": 19021,
+      "text": "'Cause you're a sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17095,
+          "endTime": 17386,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 17386,
+          "endTime": 17657,
+          "word": "you're"
+        },
+        {
+          "startTime": 17657,
+          "endTime": 17874,
+          "word": "a"
+        },
+        {
+          "startTime": 17874,
+          "endTime": 19021,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 19030,
+      "endTime": 22570,
+      "text": "'Cause you're a sky full of stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19031,
+          "endTime": 19314,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 19314,
+          "endTime": 19577,
+          "word": "you're"
+        },
+        {
+          "startTime": 19577,
+          "endTime": 19860,
+          "word": "a"
+        },
+        {
+          "startTime": 19860,
+          "endTime": 21030,
+          "word": "sky"
+        },
+        {
+          "startTime": 21030,
+          "endTime": 21270,
+          "word": "full"
+        },
+        {
+          "startTime": 21270,
+          "endTime": 21519,
+          "word": "of"
+        },
+        {
+          "startTime": 21519,
+          "endTime": 22570,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 24820,
+      "endTime": 28261,
+      "text": "I'm gonna give you my heart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24824,
+          "endTime": 25104,
+          "word": "I'm"
+        },
+        {
+          "startTime": 25104,
+          "endTime": 25597,
+          "word": "gonna"
+        },
+        {
+          "startTime": 25597,
+          "endTime": 26811,
+          "word": "give"
+        },
+        {
+          "startTime": 26811,
+          "endTime": 27091,
+          "word": "you"
+        },
+        {
+          "startTime": 27091,
+          "endTime": 27335,
+          "word": "my"
+        },
+        {
+          "startTime": 27335,
+          "endTime": 28261,
+          "word": "heart"
+        }
+      ]
+    },
+    {
+      "time": 32520,
+      "endTime": 34444,
+      "text": "'Cause you're a sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32524,
+          "endTime": 32815,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 32815,
+          "endTime": 33086,
+          "word": "you're"
+        },
+        {
+          "startTime": 33086,
+          "endTime": 33303,
+          "word": "a"
+        },
+        {
+          "startTime": 33303,
+          "endTime": 34444,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 34440,
+      "endTime": 37999,
+      "text": "'Cause you're a sky full of stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34444,
+          "endTime": 34727,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 34727,
+          "endTime": 34990,
+          "word": "you're"
+        },
+        {
+          "startTime": 34990,
+          "endTime": 35273,
+          "word": "a"
+        },
+        {
+          "startTime": 35273,
+          "endTime": 36443,
+          "word": "sky"
+        },
+        {
+          "startTime": 36443,
+          "endTime": 36683,
+          "word": "full"
+        },
+        {
+          "startTime": 36683,
+          "endTime": 36932,
+          "word": "of"
+        },
+        {
+          "startTime": 36932,
+          "endTime": 37999,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 40380,
+      "endTime": 43602,
+      "text": "'Cause you light up the path",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40389,
+          "endTime": 40704,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 40704,
+          "endTime": 40913,
+          "word": "you"
+        },
+        {
+          "startTime": 40913,
+          "endTime": 42198,
+          "word": "light"
+        },
+        {
+          "startTime": 42198,
+          "endTime": 42430,
+          "word": "up"
+        },
+        {
+          "startTime": 42430,
+          "endTime": 42656,
+          "word": "the"
+        },
+        {
+          "startTime": 42656,
+          "endTime": 43602,
+          "word": "path"
+        }
+      ]
+    },
+    {
+      "time": 47860,
+      "endTime": 49807,
+      "text": "And I don't care",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47864,
+          "endTime": 47988,
+          "word": "And"
+        },
+        {
+          "startTime": 47988,
+          "endTime": 48102,
+          "word": "I"
+        },
+        {
+          "startTime": 48102,
+          "endTime": 48399,
+          "word": "don't"
+        },
+        {
+          "startTime": 48399,
+          "endTime": 49807,
+          "word": "care"
+        }
+      ]
+    },
+    {
+      "time": 49820,
+      "endTime": 53187,
+      "text": "Go on and tear me apart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49825,
+          "endTime": 50059,
+          "word": "Go"
+        },
+        {
+          "startTime": 50059,
+          "endTime": 50353,
+          "word": "on"
+        },
+        {
+          "startTime": 50353,
+          "endTime": 50592,
+          "word": "and"
+        },
+        {
+          "startTime": 50592,
+          "endTime": 51776,
+          "word": "tear"
+        },
+        {
+          "startTime": 51776,
+          "endTime": 52059,
+          "word": "me"
+        },
+        {
+          "startTime": 52059,
+          "endTime": 53187,
+          "word": "apart"
+        }
+      ]
+    },
+    {
+      "time": 55480,
+      "endTime": 58812,
+      "text": "And I don't care if you do",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 55487,
+          "endTime": 55669,
+          "word": "And"
+        },
+        {
+          "startTime": 55669,
+          "endTime": 55796,
+          "word": "I"
+        },
+        {
+          "startTime": 55796,
+          "endTime": 56249,
+          "word": "don't"
+        },
+        {
+          "startTime": 56249,
+          "endTime": 57492,
+          "word": "care"
+        },
+        {
+          "startTime": 57492,
+          "endTime": 57729,
+          "word": "if"
+        },
+        {
+          "startTime": 57729,
+          "endTime": 58022,
+          "word": "you"
+        },
+        {
+          "startTime": 58022,
+          "endTime": 58812,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "time": 59610,
+      "endTime": 62838,
+      "text": "Ooh-ooh, ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59619,
+          "endTime": 61944,
+          "word": "Ooh-ooh,"
+        },
+        {
+          "startTime": 61944,
+          "endTime": 62838,
+          "word": "ooh"
+        }
+      ]
+    },
+    {
+      "time": 63220,
+      "endTime": 65203,
+      "text": "'Cause in a sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63228,
+          "endTime": 63555,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 63555,
+          "endTime": 63806,
+          "word": "in"
+        },
+        {
+          "startTime": 63806,
+          "endTime": 64038,
+          "word": "a"
+        },
+        {
+          "startTime": 64038,
+          "endTime": 65203,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 65200,
+      "endTime": 68355,
+      "text": "'Cause in a sky full of stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65203,
+          "endTime": 65501,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 65501,
+          "endTime": 65662,
+          "word": "in"
+        },
+        {
+          "startTime": 65662,
+          "endTime": 65762,
+          "word": "a"
+        },
+        {
+          "startTime": 65762,
+          "endTime": 67108,
+          "word": "sky"
+        },
+        {
+          "startTime": 67108,
+          "endTime": 67405,
+          "word": "full"
+        },
+        {
+          "startTime": 67405,
+          "endTime": 67505,
+          "word": "of"
+        },
+        {
+          "startTime": 67505,
+          "endTime": 68355,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 68550,
+      "endTime": 74288,
+      "text": "I think I saw you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 68555,
+          "endTime": 68775,
+          "word": "I"
+        },
+        {
+          "startTime": 68775,
+          "endTime": 69104,
+          "word": "think"
+        },
+        {
+          "startTime": 69104,
+          "endTime": 69336,
+          "word": "I"
+        },
+        {
+          "startTime": 69336,
+          "endTime": 69853,
+          "word": "saw"
+        },
+        {
+          "startTime": 69853,
+          "endTime": 74288,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 101630,
+      "endTime": 103559,
+      "text": "'Cause you're a sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101633,
+          "endTime": 101924,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 101924,
+          "endTime": 102195,
+          "word": "you're"
+        },
+        {
+          "startTime": 102195,
+          "endTime": 102412,
+          "word": "a"
+        },
+        {
+          "startTime": 102412,
+          "endTime": 103559,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 103600,
+      "endTime": 106972,
+      "text": "'Cause you're a sky full of stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 103606,
+          "endTime": 103889,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 103889,
+          "endTime": 104152,
+          "word": "you're"
+        },
+        {
+          "startTime": 104152,
+          "endTime": 104435,
+          "word": "a"
+        },
+        {
+          "startTime": 104435,
+          "endTime": 105604,
+          "word": "sky"
+        },
+        {
+          "startTime": 105604,
+          "endTime": 105845,
+          "word": "full"
+        },
+        {
+          "startTime": 105845,
+          "endTime": 106094,
+          "word": "of"
+        },
+        {
+          "startTime": 106094,
+          "endTime": 106972,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 109340,
+      "endTime": 112786,
+      "text": "I want to die in your arms",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 109348,
+          "endTime": 109533,
+          "word": "I"
+        },
+        {
+          "startTime": 109533,
+          "endTime": 109902,
+          "word": "want"
+        },
+        {
+          "startTime": 109902,
+          "endTime": 110187,
+          "word": "to"
+        },
+        {
+          "startTime": 110187,
+          "endTime": 111265,
+          "word": "die"
+        },
+        {
+          "startTime": 111265,
+          "endTime": 111557,
+          "word": "in"
+        },
+        {
+          "startTime": 111557,
+          "endTime": 111886,
+          "word": "your"
+        },
+        {
+          "startTime": 111886,
+          "endTime": 112786,
+          "word": "arms"
+        }
+      ]
+    },
+    {
+      "time": 113690,
+      "endTime": 115837,
+      "text": "Oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 113696,
+          "endTime": 114700,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 114700,
+          "endTime": 115837,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 117000,
+      "endTime": 122466,
+      "text": "'Cause you get lighter the more it gets dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117009,
+          "endTime": 117396,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 117396,
+          "endTime": 117610,
+          "word": "you"
+        },
+        {
+          "startTime": 117610,
+          "endTime": 117854,
+          "word": "get"
+        },
+        {
+          "startTime": 117854,
+          "endTime": 119354,
+          "word": "lighter"
+        },
+        {
+          "startTime": 119354,
+          "endTime": 119586,
+          "word": "the"
+        },
+        {
+          "startTime": 119586,
+          "endTime": 120877,
+          "word": "more"
+        },
+        {
+          "startTime": 120877,
+          "endTime": 121115,
+          "word": "it"
+        },
+        {
+          "startTime": 121115,
+          "endTime": 121591,
+          "word": "gets"
+        },
+        {
+          "startTime": 121591,
+          "endTime": 122466,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 124640,
+      "endTime": 127989,
+      "text": "I'm gonna give you my heart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 124648,
+          "endTime": 125053,
+          "word": "I'm"
+        },
+        {
+          "startTime": 125053,
+          "endTime": 125540,
+          "word": "gonna"
+        },
+        {
+          "startTime": 125540,
+          "endTime": 126772,
+          "word": "give"
+        },
+        {
+          "startTime": 126772,
+          "endTime": 127022,
+          "word": "you"
+        },
+        {
+          "startTime": 127022,
+          "endTime": 127260,
+          "word": "my"
+        },
+        {
+          "startTime": 127260,
+          "endTime": 127989,
+          "word": "heart"
+        }
+      ]
+    },
+    {
+      "time": 130530,
+      "endTime": 131186,
+      "text": "Oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 130538,
+          "endTime": 131186,
+          "word": "Oh"
+        }
+      ]
+    },
+    {
+      "time": 132280,
+      "endTime": 134228,
+      "text": "And I don't care",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 132285,
+          "endTime": 132409,
+          "word": "And"
+        },
+        {
+          "startTime": 132409,
+          "endTime": 132523,
+          "word": "I"
+        },
+        {
+          "startTime": 132523,
+          "endTime": 132820,
+          "word": "don't"
+        },
+        {
+          "startTime": 132820,
+          "endTime": 134228,
+          "word": "care"
+        }
+      ]
+    },
+    {
+      "time": 134250,
+      "endTime": 137653,
+      "text": "Go on and tear me apart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 134254,
+          "endTime": 134488,
+          "word": "Go"
+        },
+        {
+          "startTime": 134488,
+          "endTime": 134782,
+          "word": "on"
+        },
+        {
+          "startTime": 134782,
+          "endTime": 135021,
+          "word": "and"
+        },
+        {
+          "startTime": 135021,
+          "endTime": 136204,
+          "word": "tear"
+        },
+        {
+          "startTime": 136204,
+          "endTime": 136488,
+          "word": "me"
+        },
+        {
+          "startTime": 136488,
+          "endTime": 137653,
+          "word": "apart"
+        }
+      ]
+    },
+    {
+      "time": 139970,
+      "endTime": 143466,
+      "text": "And I don't care if you do",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139970,
+          "endTime": 140152,
+          "word": "And"
+        },
+        {
+          "startTime": 140152,
+          "endTime": 140279,
+          "word": "I"
+        },
+        {
+          "startTime": 140279,
+          "endTime": 140732,
+          "word": "don't"
+        },
+        {
+          "startTime": 140732,
+          "endTime": 141975,
+          "word": "care"
+        },
+        {
+          "startTime": 141975,
+          "endTime": 142212,
+          "word": "if"
+        },
+        {
+          "startTime": 142212,
+          "endTime": 142505,
+          "word": "you"
+        },
+        {
+          "startTime": 142505,
+          "endTime": 143466,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "time": 144170,
+      "endTime": 147507,
+      "text": "Ooh-ooh, ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144176,
+          "endTime": 146501,
+          "word": "Ooh-ooh,"
+        },
+        {
+          "startTime": 146501,
+          "endTime": 147507,
+          "word": "ooh"
+        }
+      ]
+    },
+    {
+      "time": 147800,
+      "endTime": 149437,
+      "text": "'Cause in a sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147800,
+          "endTime": 148027,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 148027,
+          "endTime": 148278,
+          "word": "in"
+        },
+        {
+          "startTime": 148278,
+          "endTime": 148510,
+          "word": "a"
+        },
+        {
+          "startTime": 148510,
+          "endTime": 149437,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 149650,
+      "endTime": 152908,
+      "text": "'Cause in a sky full of stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149657,
+          "endTime": 150210,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 150210,
+          "endTime": 150310,
+          "word": "in"
+        },
+        {
+          "startTime": 150310,
+          "endTime": 150410,
+          "word": "a"
+        },
+        {
+          "startTime": 150410,
+          "endTime": 151668,
+          "word": "sky"
+        },
+        {
+          "startTime": 151668,
+          "endTime": 152013,
+          "word": "full"
+        },
+        {
+          "startTime": 152013,
+          "endTime": 152113,
+          "word": "of"
+        },
+        {
+          "startTime": 152113,
+          "endTime": 152908,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 153050,
+      "endTime": 158692,
+      "text": "I think I see you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153054,
+          "endTime": 153281,
+          "word": "I"
+        },
+        {
+          "startTime": 153281,
+          "endTime": 153603,
+          "word": "think"
+        },
+        {
+          "startTime": 153603,
+          "endTime": 153778,
+          "word": "I"
+        },
+        {
+          "startTime": 153778,
+          "endTime": 154353,
+          "word": "see"
+        },
+        {
+          "startTime": 154353,
+          "endTime": 158692,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 160700,
+      "endTime": 166376,
+      "text": "I think I see you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 160701,
+          "endTime": 160878,
+          "word": "I"
+        },
+        {
+          "startTime": 160878,
+          "endTime": 161247,
+          "word": "think"
+        },
+        {
+          "startTime": 161247,
+          "endTime": 161430,
+          "word": "I"
+        },
+        {
+          "startTime": 161430,
+          "endTime": 161999,
+          "word": "see"
+        },
+        {
+          "startTime": 161999,
+          "endTime": 166376,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 216570,
+      "endTime": 218546,
+      "text": "'Cause you're a sky",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 216573,
+          "endTime": 217064,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 217064,
+          "endTime": 217335,
+          "word": "you're"
+        },
+        {
+          "startTime": 217335,
+          "endTime": 217552,
+          "word": "a"
+        },
+        {
+          "startTime": 217552,
+          "endTime": 218546,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 218740,
+      "endTime": 221791,
+      "text": "You're a sky full of stars",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 218740,
+          "endTime": 219127,
+          "word": "You're"
+        },
+        {
+          "startTime": 219127,
+          "endTime": 219227,
+          "word": "a"
+        },
+        {
+          "startTime": 219227,
+          "endTime": 220709,
+          "word": "sky"
+        },
+        {
+          "startTime": 220709,
+          "endTime": 220953,
+          "word": "full"
+        },
+        {
+          "startTime": 220953,
+          "endTime": 221096,
+          "word": "of"
+        },
+        {
+          "startTime": 221096,
+          "endTime": 221791,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 221800,
+      "endTime": 227831,
+      "text": "Such a heavenly view",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 221801,
+          "endTime": 222208,
+          "word": "Such"
+        },
+        {
+          "startTime": 222208,
+          "endTime": 222440,
+          "word": "a"
+        },
+        {
+          "startTime": 222440,
+          "endTime": 223440,
+          "word": "heavenly"
+        },
+        {
+          "startTime": 223440,
+          "endTime": 227831,
+          "word": "view"
+        }
+      ]
+    },
+    {
+      "time": 229350,
+      "endTime": 235333,
+      "text": "You're such a heavenly view",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 229353,
+          "endTime": 229655,
+          "word": "You're"
+        },
+        {
+          "startTime": 229655,
+          "endTime": 229921,
+          "word": "such"
+        },
+        {
+          "startTime": 229921,
+          "endTime": 230204,
+          "word": "a"
+        },
+        {
+          "startTime": 230204,
+          "endTime": 231087,
+          "word": "heavenly"
+        },
+        {
+          "startTime": 231087,
+          "endTime": 235333,
+          "word": "view"
+        }
+      ]
+    },
+    {
+      "time": 235390,
+      "endTime": 239122,
+      "text": "Yeah, yeah, yeah, ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 235394,
+          "endTime": 236372,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 236372,
+          "endTime": 237239,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 237239,
+          "endTime": 238337,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 238337,
+          "endTime": 239122,
+          "word": "ooh"
+        }
+      ]
+    }
+  ]
+}
