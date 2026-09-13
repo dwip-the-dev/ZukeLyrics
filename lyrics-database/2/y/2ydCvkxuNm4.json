@@ -1,0 +1,2640 @@
+{
+  "videoId": "2ydCvkxuNm4",
+  "title": "Bye Bye Bye",
+  "artist": "*NSYNC",
+  "duration": 201,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:07.540\" end=\"00:08.803\" ttm:agent=\"v1\">\n        <span begin=\"00:07.547\" end=\"00:07.910\">Hey,<\/span>\n        <span begin=\"00:07.910\" end=\"00:08.803\">hey<\/span>\n      <\/p>\n      <p begin=\"00:09.960\" end=\"00:11.475\" ttm:agent=\"v1\">\n        <span begin=\"00:09.963\" end=\"00:10.408\">Bye,<\/span>\n        <span begin=\"00:10.408\" end=\"00:10.725\">bye,<\/span>\n        <span begin=\"00:10.725\" end=\"00:11.475\">bye<\/span>\n      <\/p>\n      <p begin=\"00:09.960\" end=\"00:11.897\" role=\"x-bg\">\n        <span begin=\"00:11.017\" end=\"00:11.363\">(Bye,<\/span>\n        <span begin=\"00:11.363\" end=\"00:11.897\">bye)<\/span>\n      <\/p>\n      <p begin=\"00:23.210\" end=\"00:25.772\" ttm:agent=\"v1\">\n        <span begin=\"00:23.217\" end=\"00:23.842\">I&apos;m<\/span>\n        <span begin=\"00:23.842\" end=\"00:24.515\">doin&apos;<\/span>\n        <span begin=\"00:24.515\" end=\"00:24.931\">this<\/span>\n        <span begin=\"00:24.931\" end=\"00:25.772\">tonight<\/span>\n      <\/p>\n      <p begin=\"00:25.940\" end=\"00:28.552\" ttm:agent=\"v1\">\n        <span begin=\"00:25.945\" end=\"00:26.608\">You&apos;re<\/span>\n        <span begin=\"00:26.608\" end=\"00:27.043\">probably<\/span>\n        <span begin=\"00:27.043\" end=\"00:27.342\">gonna<\/span>\n        <span begin=\"00:27.342\" end=\"00:27.726\">start<\/span>\n        <span begin=\"00:27.726\" end=\"00:28.064\">a<\/span>\n        <span begin=\"00:28.064\" end=\"00:28.552\">fight<\/span>\n      <\/p>\n      <p begin=\"00:28.800\" end=\"00:31.390\" ttm:agent=\"v1\">\n        <span begin=\"00:28.804\" end=\"00:29.436\">I<\/span>\n        <span begin=\"00:29.436\" end=\"00:29.795\">know<\/span>\n        <span begin=\"00:29.795\" end=\"00:30.123\">this<\/span>\n        <span begin=\"00:30.123\" end=\"00:30.478\">can&apos;t<\/span>\n        <span begin=\"00:30.478\" end=\"00:30.830\">be<\/span>\n        <span begin=\"00:30.830\" end=\"00:31.390\">right<\/span>\n      <\/p>\n      <p begin=\"00:31.520\" end=\"00:34.097\" ttm:agent=\"v1\">\n        <span begin=\"00:31.525\" end=\"00:32.156\">Hey,<\/span>\n        <span begin=\"00:32.156\" end=\"00:32.907\">baby,<\/span>\n        <span begin=\"00:32.907\" end=\"00:33.274\">come<\/span>\n        <span begin=\"00:33.274\" end=\"00:34.097\">on<\/span>\n      <\/p>\n      <p begin=\"00:34.420\" end=\"00:36.914\" ttm:agent=\"v1\">\n        <span begin=\"00:34.427\" end=\"00:34.940\">I<\/span>\n        <span begin=\"00:34.940\" end=\"00:35.377\">loved<\/span>\n        <span begin=\"00:35.377\" end=\"00:35.728\">you<\/span>\n        <span begin=\"00:35.728\" end=\"00:36.914\">endlessly<\/span>\n      <\/p>\n      <p begin=\"00:37.070\" end=\"00:39.652\" ttm:agent=\"v1\">\n        <span begin=\"00:37.078\" end=\"00:37.598\">And<\/span>\n        <span begin=\"00:37.776\" end=\"00:38.115\">you<\/span>\n        <span begin=\"00:38.115\" end=\"00:38.507\">weren&apos;t<\/span>\n        <span begin=\"00:38.507\" end=\"00:38.856\">there<\/span>\n        <span begin=\"00:38.856\" end=\"00:39.205\">for<\/span>\n        <span begin=\"00:39.205\" end=\"00:39.652\">me<\/span>\n      <\/p>\n      <p begin=\"00:39.770\" end=\"00:42.495\" ttm:agent=\"v1\">\n        <span begin=\"00:39.775\" end=\"00:40.458\">So<\/span>\n        <span begin=\"00:40.566\" end=\"00:40.956\">now<\/span>\n        <span begin=\"00:40.956\" end=\"00:41.272\">it&apos;s<\/span>\n        <span begin=\"00:41.272\" end=\"00:41.638\">time<\/span>\n        <span begin=\"00:41.638\" end=\"00:41.972\">to<\/span>\n        <span begin=\"00:41.972\" end=\"00:42.495\">leave<\/span>\n      <\/p>\n      <p begin=\"00:42.670\" end=\"00:45.476\" ttm:agent=\"v1\">\n        <span begin=\"00:42.676\" end=\"00:43.315\">And<\/span>\n        <span begin=\"00:43.315\" end=\"00:43.741\">make<\/span>\n        <span begin=\"00:43.741\" end=\"00:44.062\">it<\/span>\n        <span begin=\"00:44.062\" end=\"00:45.476\">alone<\/span>\n      <\/p>\n      <p begin=\"00:45.480\" end=\"00:48.663\" ttm:agent=\"v1\">\n        <span begin=\"00:45.484\" end=\"00:46.090\">I<\/span>\n        <span begin=\"00:46.090\" end=\"00:46.491\">know<\/span>\n        <span begin=\"00:46.491\" end=\"00:46.825\">that<\/span>\n        <span begin=\"00:46.825\" end=\"00:47.024\">I<\/span>\n        <span begin=\"00:47.024\" end=\"00:47.465\">can&apos;t<\/span>\n        <span begin=\"00:47.465\" end=\"00:47.885\">take<\/span>\n        <span begin=\"00:47.885\" end=\"00:48.243\">no<\/span>\n        <span begin=\"00:48.243\" end=\"00:48.663\">more<\/span>\n      <\/p>\n      <p begin=\"00:48.760\" end=\"00:50.550\" ttm:agent=\"v1\">\n        <span begin=\"00:48.766\" end=\"00:48.918\">It<\/span>\n        <span begin=\"00:48.918\" end=\"00:49.317\">ain&apos;t<\/span>\n        <span begin=\"00:49.317\" end=\"00:49.635\">no<\/span>\n        <span begin=\"00:49.635\" end=\"00:50.550\">lie<\/span>\n      <\/p>\n      <p begin=\"00:50.980\" end=\"00:54.138\" ttm:agent=\"v1\">\n        <span begin=\"00:50.988\" end=\"00:51.673\">I<\/span>\n        <span begin=\"00:51.673\" end=\"00:52.254\">wanna<\/span>\n        <span begin=\"00:52.254\" end=\"00:52.670\">see<\/span>\n        <span begin=\"00:52.670\" end=\"00:53.035\">you<\/span>\n        <span begin=\"00:53.035\" end=\"00:53.369\">out<\/span>\n        <span begin=\"00:53.369\" end=\"00:53.721\">that<\/span>\n        <span begin=\"00:53.721\" end=\"00:54.138\">door<\/span>\n      <\/p>\n      <p begin=\"00:54.140\" end=\"00:56.164\" ttm:agent=\"v1\">\n        <span begin=\"00:54.148\" end=\"00:54.422\">Baby,<\/span>\n        <span begin=\"00:54.422\" end=\"00:54.739\">bye,<\/span>\n        <span begin=\"00:54.739\" end=\"00:55.104\">bye,<\/span>\n        <span begin=\"00:55.104\" end=\"00:56.164\">bye<\/span>\n      <\/p>\n      <p begin=\"00:54.140\" end=\"00:56.319\" role=\"x-bg\">\n        <span begin=\"00:55.535\" end=\"00:55.834\">(Bye,<\/span>\n        <span begin=\"00:55.834\" end=\"00:56.319\">bye)<\/span>\n      <\/p>\n      <p begin=\"00:56.420\" end=\"00:58.140\" ttm:agent=\"v1\">\n        <span begin=\"00:56.422\" end=\"00:56.540\">Don&apos;t<\/span>\n        <span begin=\"00:56.540\" end=\"00:56.871\">wanna<\/span>\n        <span begin=\"00:56.871\" end=\"00:57.071\">be<\/span>\n        <span begin=\"00:57.071\" end=\"00:57.239\">a<\/span>\n        <span begin=\"00:57.239\" end=\"00:57.537\">fool<\/span>\n        <span begin=\"00:57.537\" end=\"00:57.719\">for<\/span>\n        <span begin=\"00:57.719\" end=\"00:58.140\">you<\/span>\n      <\/p>\n      <p begin=\"00:58.610\" end=\"01:00.954\" ttm:agent=\"v1\">\n        <span begin=\"00:58.615\" end=\"00:58.788\">Just<\/span>\n        <span begin=\"00:58.788\" end=\"00:59.287\">another<\/span>\n        <span begin=\"00:59.287\" end=\"00:59.636\">player<\/span>\n        <span begin=\"00:59.636\" end=\"00:59.836\">in<\/span>\n        <span begin=\"00:59.836\" end=\"01:00.020\">your<\/span>\n        <span begin=\"01:00.020\" end=\"01:00.321\">game<\/span>\n        <span begin=\"01:00.321\" end=\"01:00.521\">for<\/span>\n        <span begin=\"01:00.521\" end=\"01:00.954\">two<\/span>\n      <\/p>\n      <p begin=\"01:02.050\" end=\"01:05.263\" ttm:agent=\"v1\">\n        <span begin=\"01:02.051\" end=\"01:02.410\">You<\/span>\n        <span begin=\"01:02.410\" end=\"01:02.775\">may<\/span>\n        <span begin=\"01:02.775\" end=\"01:03.092\">hate<\/span>\n        <span begin=\"01:03.092\" end=\"01:03.460\">me,<\/span>\n        <span begin=\"01:03.460\" end=\"01:03.810\">but<\/span>\n        <span begin=\"01:03.810\" end=\"01:04.150\">it<\/span>\n        <span begin=\"01:04.150\" end=\"01:04.527\">ain&apos;t<\/span>\n        <span begin=\"01:04.527\" end=\"01:04.825\">no<\/span>\n        <span begin=\"01:04.825\" end=\"01:05.263\">lie<\/span>\n      <\/p>\n      <p begin=\"01:05.260\" end=\"01:07.093\" ttm:agent=\"v1\">\n        <span begin=\"01:05.269\" end=\"01:05.553\">Baby,<\/span>\n        <span begin=\"01:05.553\" end=\"01:05.887\">bye,<\/span>\n        <span begin=\"01:05.887\" end=\"01:06.220\">bye,<\/span>\n        <span begin=\"01:06.220\" end=\"01:07.093\">bye<\/span>\n      <\/p>\n      <p begin=\"01:05.260\" end=\"01:07.485\" role=\"x-bg\">\n        <span begin=\"01:06.657\" end=\"01:06.950\">(Bye,<\/span>\n        <span begin=\"01:06.950\" end=\"01:07.485\">bye)<\/span>\n      <\/p>\n      <p begin=\"01:07.510\" end=\"01:09.342\" ttm:agent=\"v1\">\n        <span begin=\"01:07.518\" end=\"01:07.708\">Don&apos;t<\/span>\n        <span begin=\"01:07.708\" end=\"01:07.991\">really<\/span>\n        <span begin=\"01:07.991\" end=\"01:08.324\">wanna<\/span>\n        <span begin=\"01:08.324\" end=\"01:08.657\">make<\/span>\n        <span begin=\"01:08.657\" end=\"01:08.857\">it<\/span>\n        <span begin=\"01:08.857\" end=\"01:09.342\">tough<\/span>\n      <\/p>\n      <p begin=\"01:09.740\" end=\"01:12.138\" ttm:agent=\"v1\">\n        <span begin=\"01:09.744\" end=\"01:09.926\">I<\/span>\n        <span begin=\"01:09.926\" end=\"01:10.097\">just<\/span>\n        <span begin=\"01:10.097\" end=\"01:10.409\">wanna<\/span>\n        <span begin=\"01:10.409\" end=\"01:10.643\">tell<\/span>\n        <span begin=\"01:10.643\" end=\"01:10.827\">you<\/span>\n        <span begin=\"01:10.827\" end=\"01:11.025\">that<\/span>\n        <span begin=\"01:11.025\" end=\"01:11.195\">I<\/span>\n        <span begin=\"01:11.195\" end=\"01:11.491\">had<\/span>\n        <span begin=\"01:11.491\" end=\"01:12.138\">enough<\/span>\n      <\/p>\n      <p begin=\"01:13.190\" end=\"01:16.414\" ttm:agent=\"v1\">\n        <span begin=\"01:13.196\" end=\"01:13.534\">Might<\/span>\n        <span begin=\"01:13.534\" end=\"01:13.867\">sound<\/span>\n        <span begin=\"01:13.867\" end=\"01:14.601\">crazy,<\/span>\n        <span begin=\"01:14.601\" end=\"01:14.934\">but<\/span>\n        <span begin=\"01:14.934\" end=\"01:15.267\">it<\/span>\n        <span begin=\"01:15.267\" end=\"01:15.617\">ain&apos;t<\/span>\n        <span begin=\"01:15.617\" end=\"01:15.985\">no<\/span>\n        <span begin=\"01:15.985\" end=\"01:16.414\">lie<\/span>\n      <\/p>\n      <p begin=\"01:16.420\" end=\"01:18.699\" ttm:agent=\"v1\">\n        <span begin=\"01:16.425\" end=\"01:16.696\">Baby,<\/span>\n        <span begin=\"01:16.696\" end=\"01:17.011\">bye,<\/span>\n        <span begin=\"01:17.011\" end=\"01:17.363\">bye,<\/span>\n        <span begin=\"01:17.363\" end=\"01:18.699\">bye<\/span>\n      <\/p>\n      <p begin=\"01:21.560\" end=\"01:24.150\" ttm:agent=\"v1\">\n        <span begin=\"01:21.567\" end=\"01:22.234\">Just<\/span>\n        <span begin=\"01:22.234\" end=\"01:22.584\">hit<\/span>\n        <span begin=\"01:22.584\" end=\"01:22.933\">me<\/span>\n        <span begin=\"01:22.933\" end=\"01:23.250\">with<\/span>\n        <span begin=\"01:23.250\" end=\"01:23.650\">the<\/span>\n        <span begin=\"01:23.650\" end=\"01:24.150\">truth<\/span>\n      <\/p>\n      <p begin=\"01:24.370\" end=\"01:26.931\" ttm:agent=\"v1\">\n        <span begin=\"01:24.370\" end=\"01:24.986\">Now,<\/span>\n        <span begin=\"01:24.986\" end=\"01:25.186\">girl,<\/span>\n        <span begin=\"01:25.186\" end=\"01:25.386\">you&apos;re<\/span>\n        <span begin=\"01:25.386\" end=\"01:25.570\">more<\/span>\n        <span begin=\"01:25.570\" end=\"01:25.786\">than<\/span>\n        <span begin=\"01:25.786\" end=\"01:26.453\">welcome<\/span>\n        <span begin=\"01:26.453\" end=\"01:26.931\">to<\/span>\n      <\/p>\n      <p begin=\"01:27.060\" end=\"01:32.523\" ttm:agent=\"v1\">\n        <span begin=\"01:27.060\" end=\"01:27.799\">So,<\/span>\n        <span begin=\"01:27.799\" end=\"01:28.149\">give<\/span>\n        <span begin=\"01:28.149\" end=\"01:28.498\">me<\/span>\n        <span begin=\"01:28.498\" end=\"01:28.831\">one<\/span>\n        <span begin=\"01:28.831\" end=\"01:29.183\">good<\/span>\n        <span begin=\"01:29.183\" end=\"01:30.631\">reason,<\/span>\n        <span begin=\"01:30.631\" end=\"01:31.282\">baby,<\/span>\n        <span begin=\"01:31.282\" end=\"01:31.650\">come<\/span>\n        <span begin=\"01:31.650\" end=\"01:32.523\">on<\/span>\n      <\/p>\n      <p begin=\"01:32.750\" end=\"01:35.318\" ttm:agent=\"v1\">\n        <span begin=\"01:32.750\" end=\"01:33.411\">I<\/span>\n        <span begin=\"01:33.411\" end=\"01:33.744\">live<\/span>\n        <span begin=\"01:33.744\" end=\"01:34.093\">for<\/span>\n        <span begin=\"01:34.093\" end=\"01:34.426\">you<\/span>\n        <span begin=\"01:34.426\" end=\"01:34.779\">and<\/span>\n        <span begin=\"01:34.779\" end=\"01:35.318\">me<\/span>\n      <\/p>\n      <p begin=\"01:35.510\" end=\"01:38.262\" ttm:agent=\"v1\">\n        <span begin=\"01:35.518\" end=\"01:36.098\">And<\/span>\n        <span begin=\"01:36.204\" end=\"01:36.369\">now<\/span>\n        <span begin=\"01:36.369\" end=\"01:36.553\">I&apos;ve<\/span>\n        <span begin=\"01:36.553\" end=\"01:36.852\">really<\/span>\n        <span begin=\"01:36.852\" end=\"01:37.185\">come<\/span>\n        <span begin=\"01:37.185\" end=\"01:37.502\">to<\/span>\n        <span begin=\"01:37.502\" end=\"01:38.262\">see<\/span>\n      <\/p>\n      <p begin=\"01:38.270\" end=\"01:43.672\" ttm:agent=\"v1\">\n        <span begin=\"01:38.271\" end=\"01:38.977\">That<\/span>\n        <span begin=\"01:38.977\" end=\"01:39.294\">life<\/span>\n        <span begin=\"01:39.294\" end=\"01:39.644\">would<\/span>\n        <span begin=\"01:39.644\" end=\"01:39.961\">be<\/span>\n        <span begin=\"01:39.961\" end=\"01:40.310\">much<\/span>\n        <span begin=\"01:40.310\" end=\"01:41.692\">better<\/span>\n        <span begin=\"01:42.055\" end=\"01:42.404\">once<\/span>\n        <span begin=\"01:42.404\" end=\"01:42.771\">you&apos;re<\/span>\n        <span begin=\"01:42.771\" end=\"01:43.672\">gone<\/span>\n      <\/p>\n      <p begin=\"01:43.870\" end=\"01:47.114\" ttm:agent=\"v1\">\n        <span begin=\"01:43.878\" end=\"01:44.515\">I<\/span>\n        <span begin=\"01:44.515\" end=\"01:44.848\">know<\/span>\n        <span begin=\"01:44.848\" end=\"01:45.198\">that<\/span>\n        <span begin=\"01:45.198\" end=\"01:45.550\">I<\/span>\n        <span begin=\"01:45.550\" end=\"01:45.916\">can&apos;t<\/span>\n        <span begin=\"01:45.916\" end=\"01:46.257\">take<\/span>\n        <span begin=\"01:46.257\" end=\"01:46.590\">no<\/span>\n        <span begin=\"01:46.590\" end=\"01:47.114\">more<\/span>\n      <\/p>\n      <p begin=\"01:47.180\" end=\"01:49.109\" ttm:agent=\"v1\">\n        <span begin=\"01:47.189\" end=\"01:47.324\">It<\/span>\n        <span begin=\"01:47.324\" end=\"01:47.636\">ain&apos;t<\/span>\n        <span begin=\"01:47.636\" end=\"01:47.969\">no<\/span>\n        <span begin=\"01:47.969\" end=\"01:49.109\">lie<\/span>\n      <\/p>\n      <p begin=\"01:49.400\" end=\"01:52.558\" ttm:agent=\"v1\">\n        <span begin=\"01:49.408\" end=\"01:50.078\">I<\/span>\n        <span begin=\"01:50.078\" end=\"01:50.758\">wanna<\/span>\n        <span begin=\"01:50.758\" end=\"01:51.107\">see<\/span>\n        <span begin=\"01:51.107\" end=\"01:51.457\">you<\/span>\n        <span begin=\"01:51.457\" end=\"01:51.774\">out<\/span>\n        <span begin=\"01:51.774\" end=\"01:52.142\">that<\/span>\n        <span begin=\"01:52.142\" end=\"01:52.558\">door<\/span>\n      <\/p>\n      <p begin=\"01:52.560\" end=\"01:54.634\" ttm:agent=\"v1\">\n        <span begin=\"01:52.567\" end=\"01:52.835\">Baby,<\/span>\n        <span begin=\"01:52.835\" end=\"01:53.185\">bye,<\/span>\n        <span begin=\"01:53.185\" end=\"01:53.518\">bye,<\/span>\n        <span begin=\"01:53.518\" end=\"01:54.634\">bye<\/span>\n      <\/p>\n      <p begin=\"01:52.560\" end=\"01:54.717\" role=\"x-bg\">\n        <span begin=\"01:53.985\" end=\"01:54.268\">(Bye,<\/span>\n        <span begin=\"01:54.268\" end=\"01:54.717\">bye)<\/span>\n      <\/p>\n      <p begin=\"01:54.810\" end=\"01:56.551\" ttm:agent=\"v1\">\n        <span begin=\"01:54.816\" end=\"01:54.979\">Don&apos;t<\/span>\n        <span begin=\"01:54.979\" end=\"01:55.297\">wanna<\/span>\n        <span begin=\"01:55.297\" end=\"01:55.481\">be<\/span>\n        <span begin=\"01:55.481\" end=\"01:55.662\">a<\/span>\n        <span begin=\"01:55.662\" end=\"01:55.979\">fool<\/span>\n        <span begin=\"01:55.979\" end=\"01:56.164\">for<\/span>\n        <span begin=\"01:56.164\" end=\"01:56.551\">you<\/span>\n      <\/p>\n      <p begin=\"01:57.060\" end=\"01:59.384\" ttm:agent=\"v1\">\n        <span begin=\"01:57.060\" end=\"01:57.197\">Just<\/span>\n        <span begin=\"01:57.197\" end=\"01:57.702\">another<\/span>\n        <span begin=\"01:57.702\" end=\"01:58.067\">player<\/span>\n        <span begin=\"01:58.067\" end=\"01:58.267\">in<\/span>\n        <span begin=\"01:58.267\" end=\"01:58.438\">your<\/span>\n        <span begin=\"01:58.438\" end=\"01:58.753\">game<\/span>\n        <span begin=\"01:58.753\" end=\"01:58.953\">for<\/span>\n        <span begin=\"01:58.953\" end=\"01:59.384\">two<\/span>\n      <\/p>\n      <p begin=\"02:00.410\" end=\"02:03.675\" ttm:agent=\"v1\">\n        <span begin=\"02:00.417\" end=\"02:00.814\">You<\/span>\n        <span begin=\"02:00.814\" end=\"02:01.163\">may<\/span>\n        <span begin=\"02:01.163\" end=\"02:01.512\">hate<\/span>\n        <span begin=\"02:01.512\" end=\"02:01.862\">me,<\/span>\n        <span begin=\"02:01.862\" end=\"02:02.230\">but<\/span>\n        <span begin=\"02:02.230\" end=\"02:02.579\">it<\/span>\n        <span begin=\"02:02.579\" end=\"02:02.928\">ain&apos;t<\/span>\n        <span begin=\"02:02.928\" end=\"02:03.280\">no<\/span>\n        <span begin=\"02:03.280\" end=\"02:03.675\">lie<\/span>\n      <\/p>\n      <p begin=\"02:03.680\" end=\"02:05.791\" ttm:agent=\"v1\">\n        <span begin=\"02:03.682\" end=\"02:03.942\">Baby,<\/span>\n        <span begin=\"02:03.942\" end=\"02:04.275\">bye,<\/span>\n        <span begin=\"02:04.275\" end=\"02:04.641\">bye,<\/span>\n        <span begin=\"02:04.641\" end=\"02:05.791\">bye<\/span>\n      <\/p>\n      <p begin=\"02:03.680\" end=\"02:05.863\" role=\"x-bg\">\n        <span begin=\"02:05.111\" end=\"02:05.383\">(Bye,<\/span>\n        <span begin=\"02:05.383\" end=\"02:05.863\">bye)<\/span>\n      <\/p>\n      <p begin=\"02:05.960\" end=\"02:07.653\" ttm:agent=\"v1\">\n        <span begin=\"02:05.961\" end=\"02:06.104\">Don&apos;t<\/span>\n        <span begin=\"02:06.104\" end=\"02:06.402\">really<\/span>\n        <span begin=\"02:06.402\" end=\"02:06.736\">wanna<\/span>\n        <span begin=\"02:06.736\" end=\"02:07.101\">make<\/span>\n        <span begin=\"02:07.101\" end=\"02:07.285\">it<\/span>\n        <span begin=\"02:07.285\" end=\"02:07.653\">tough<\/span>\n      <\/p>\n      <p begin=\"02:08.190\" end=\"02:10.568\" ttm:agent=\"v1\">\n        <span begin=\"02:08.193\" end=\"02:08.381\">I<\/span>\n        <span begin=\"02:08.381\" end=\"02:08.514\">just<\/span>\n        <span begin=\"02:08.514\" end=\"02:08.848\">wanna<\/span>\n        <span begin=\"02:08.848\" end=\"02:09.064\">tell<\/span>\n        <span begin=\"02:09.064\" end=\"02:09.247\">you<\/span>\n        <span begin=\"02:09.247\" end=\"02:09.416\">that<\/span>\n        <span begin=\"02:09.416\" end=\"02:09.597\">I<\/span>\n        <span begin=\"02:09.597\" end=\"02:09.898\">had<\/span>\n        <span begin=\"02:09.898\" end=\"02:10.568\">enough<\/span>\n      <\/p>\n      <p begin=\"02:11.610\" end=\"02:14.815\" ttm:agent=\"v1\">\n        <span begin=\"02:11.615\" end=\"02:11.948\">Might<\/span>\n        <span begin=\"02:11.948\" end=\"02:12.282\">sound<\/span>\n        <span begin=\"02:12.282\" end=\"02:12.980\">crazy,<\/span>\n        <span begin=\"02:12.980\" end=\"02:13.348\">but<\/span>\n        <span begin=\"02:13.348\" end=\"02:13.682\">it<\/span>\n        <span begin=\"02:13.682\" end=\"02:14.031\">ain&apos;t<\/span>\n        <span begin=\"02:14.031\" end=\"02:14.396\">no<\/span>\n        <span begin=\"02:14.396\" end=\"02:14.815\">lie<\/span>\n      <\/p>\n      <p begin=\"02:14.800\" end=\"02:17.491\" ttm:agent=\"v1\">\n        <span begin=\"02:14.805\" end=\"02:15.076\">Baby,<\/span>\n        <span begin=\"02:15.076\" end=\"02:15.375\">bye,<\/span>\n        <span begin=\"02:15.375\" end=\"02:15.743\">bye,<\/span>\n        <span begin=\"02:15.743\" end=\"02:17.491\">bye<\/span>\n      <\/p>\n      <p begin=\"02:19.890\" end=\"02:21.665\" ttm:agent=\"v1\">\n        <span begin=\"02:19.890\" end=\"02:20.008\">I&apos;m<\/span>\n        <span begin=\"02:20.008\" end=\"02:20.275\">giving<\/span>\n        <span begin=\"02:20.275\" end=\"02:20.475\">up,<\/span>\n        <span begin=\"02:20.475\" end=\"02:20.675\">I<\/span>\n        <span begin=\"02:20.675\" end=\"02:21.008\">know<\/span>\n        <span begin=\"02:21.008\" end=\"02:21.192\">for<\/span>\n        <span begin=\"02:21.192\" end=\"02:21.665\">sure<\/span>\n      <\/p>\n      <p begin=\"02:21.770\" end=\"02:24.515\" ttm:agent=\"v1\">\n        <span begin=\"02:21.776\" end=\"02:21.932\">I<\/span>\n        <span begin=\"02:21.932\" end=\"02:22.108\">don&apos;t<\/span>\n        <span begin=\"02:22.108\" end=\"02:22.412\">wanna<\/span>\n        <span begin=\"02:22.412\" end=\"02:22.593\">be<\/span>\n        <span begin=\"02:22.593\" end=\"02:22.764\">the<\/span>\n        <span begin=\"02:22.764\" end=\"02:23.078\">reason<\/span>\n        <span begin=\"02:23.078\" end=\"02:23.246\">for<\/span>\n        <span begin=\"02:23.246\" end=\"02:23.428\">your<\/span>\n        <span begin=\"02:23.428\" end=\"02:23.777\">love<\/span>\n        <span begin=\"02:23.777\" end=\"02:23.945\">no<\/span>\n        <span begin=\"02:23.945\" end=\"02:24.515\">more<\/span>\n      <\/p>\n      <p begin=\"02:21.770\" end=\"02:25.409\" role=\"x-bg\">\n        <span begin=\"02:24.523\" end=\"02:24.834\">(Bye,<\/span>\n        <span begin=\"02:24.834\" end=\"02:25.409\">bye)<\/span>\n      <\/p>\n      <p begin=\"02:25.410\" end=\"02:27.155\" ttm:agent=\"v1\">\n        <span begin=\"02:25.419\" end=\"02:25.578\">I&apos;m<\/span>\n        <span begin=\"02:25.578\" end=\"02:25.876\">checkin&apos;<\/span>\n        <span begin=\"02:25.876\" end=\"02:26.154\">out,<\/span>\n        <span begin=\"02:26.154\" end=\"02:26.373\">I&apos;m<\/span>\n        <span begin=\"02:26.373\" end=\"02:26.716\">signin&apos;<\/span>\n        <span begin=\"02:26.716\" end=\"02:27.155\">off<\/span>\n      <\/p>\n      <p begin=\"02:27.310\" end=\"02:30.002\" ttm:agent=\"v1\">\n        <span begin=\"02:27.312\" end=\"02:27.436\">I<\/span>\n        <span begin=\"02:27.436\" end=\"02:27.674\">don&apos;t<\/span>\n        <span begin=\"02:27.674\" end=\"02:28.042\">wanna<\/span>\n        <span begin=\"02:28.042\" end=\"02:28.242\">be<\/span>\n        <span begin=\"02:28.242\" end=\"02:28.426\">the<\/span>\n        <span begin=\"02:28.426\" end=\"02:28.697\">loser,<\/span>\n        <span begin=\"02:28.697\" end=\"02:28.885\">and<\/span>\n        <span begin=\"02:28.885\" end=\"02:29.079\">I&apos;ve<\/span>\n        <span begin=\"02:29.079\" end=\"02:29.429\">had<\/span>\n        <span begin=\"02:29.429\" end=\"02:30.002\">enough<\/span>\n      <\/p>\n      <p begin=\"02:31.880\" end=\"02:35.122\" ttm:agent=\"v1\">\n        <span begin=\"02:31.883\" end=\"02:32.208\">I<\/span>\n        <span begin=\"02:32.208\" end=\"02:32.506\">don&apos;t<\/span>\n        <span begin=\"02:32.506\" end=\"02:33.189\">wanna<\/span>\n        <span begin=\"02:33.189\" end=\"02:33.866\">be<\/span>\n        <span begin=\"02:33.866\" end=\"02:34.248\">your<\/span>\n        <span begin=\"02:34.248\" end=\"02:35.122\">fool<\/span>\n      <\/p>\n      <p begin=\"02:35.310\" end=\"02:37.865\" ttm:agent=\"v1\">\n        <span begin=\"02:35.310\" end=\"02:35.619\">In<\/span>\n        <span begin=\"02:35.619\" end=\"02:35.971\">this<\/span>\n        <span begin=\"02:35.971\" end=\"02:36.638\">game<\/span>\n        <span begin=\"02:36.638\" end=\"02:37.003\">for<\/span>\n        <span begin=\"02:37.003\" end=\"02:37.865\">two<\/span>\n      <\/p>\n      <p begin=\"02:37.940\" end=\"02:42.113\" ttm:agent=\"v1\">\n        <span begin=\"02:37.942\" end=\"02:38.377\">So<\/span>\n        <span begin=\"02:38.377\" end=\"02:38.764\">I&apos;m<\/span>\n        <span begin=\"02:38.764\" end=\"02:39.992\">leavin&apos;<\/span>\n        <span begin=\"02:40.212\" end=\"02:40.777\">you<\/span>\n        <span begin=\"02:40.894\" end=\"02:42.113\">behind<\/span>\n      <\/p>\n      <p begin=\"02:37.940\" end=\"02:44.440\" role=\"x-bg\">\n        <span begin=\"02:42.274\" end=\"02:42.665\">(Bye,<\/span>\n        <span begin=\"02:42.665\" end=\"02:42.999\">bye,<\/span>\n        <span begin=\"02:42.999\" end=\"02:44.440\">bye)<\/span>\n      <\/p>\n      <p begin=\"02:42.950\" end=\"02:46.004\" ttm:agent=\"v1\">\n        <span begin=\"02:42.950\" end=\"02:43.279\">I<\/span>\n        <span begin=\"02:43.279\" end=\"02:43.699\">don&apos;t<\/span>\n        <span begin=\"02:43.699\" end=\"02:44.397\">wanna<\/span>\n        <span begin=\"02:44.397\" end=\"02:45.117\">make<\/span>\n        <span begin=\"02:45.117\" end=\"02:45.432\">it<\/span>\n        <span begin=\"02:45.432\" end=\"02:46.004\">tough<\/span>\n      <\/p>\n      <p begin=\"02:42.950\" end=\"02:47.391\" role=\"x-bg\">\n        <span begin=\"02:45.798\" end=\"02:46.163\">(Make<\/span>\n        <span begin=\"02:46.163\" end=\"02:46.464\">it<\/span>\n        <span begin=\"02:46.464\" end=\"02:47.391\">tough)<\/span>\n      <\/p>\n      <p begin=\"02:46.480\" end=\"02:49.022\" ttm:agent=\"v1\">\n        <span begin=\"02:46.484\" end=\"02:46.846\">But<\/span>\n        <span begin=\"02:46.846\" end=\"02:47.144\">I<\/span>\n        <span begin=\"02:47.144\" end=\"02:47.897\">had<\/span>\n        <span begin=\"02:47.897\" end=\"02:49.022\">enough<\/span>\n      <\/p>\n      <p begin=\"02:49.210\" end=\"02:53.273\" ttm:agent=\"v1\">\n        <span begin=\"02:49.213\" end=\"02:49.564\">And<\/span>\n        <span begin=\"02:49.564\" end=\"02:49.876\">it<\/span>\n        <span begin=\"02:49.876\" end=\"02:50.520\">ain&apos;t<\/span>\n        <span begin=\"02:50.520\" end=\"02:51.348\">no<\/span>\n        <span begin=\"02:51.348\" end=\"02:52.066\">lie,<\/span>\n        <span begin=\"02:52.066\" end=\"02:52.410\">bye,<\/span>\n        <span begin=\"02:52.410\" end=\"02:53.273\">bye<\/span>\n      <\/p>\n      <p begin=\"02:49.210\" end=\"02:54.112\" role=\"x-bg\">\n        <span begin=\"02:49.243\" end=\"02:49.728\">(Bye,<\/span>\n        <span begin=\"02:49.728\" end=\"02:52.279\">bye,<\/span>\n        <span begin=\"02:52.399\" end=\"02:54.112\">baby)<\/span>\n      <\/p>\n      <p begin=\"02:53.250\" end=\"02:55.037\" ttm:agent=\"v1\">\n        <span begin=\"02:53.252\" end=\"02:53.412\">Don&apos;t<\/span>\n        <span begin=\"02:53.412\" end=\"02:53.739\">wanna<\/span>\n        <span begin=\"02:53.739\" end=\"02:53.965\">be<\/span>\n        <span begin=\"02:53.965\" end=\"02:54.065\">a<\/span>\n        <span begin=\"02:54.065\" end=\"02:54.426\">fool<\/span>\n        <span begin=\"02:54.426\" end=\"02:54.630\">for<\/span>\n        <span begin=\"02:54.630\" end=\"02:55.037\">you<\/span>\n      <\/p>\n      <p begin=\"02:53.250\" end=\"02:57.352\" role=\"x-bg\">\n        <span begin=\"02:54.124\" end=\"02:54.361\">(I<\/span>\n        <span begin=\"02:54.361\" end=\"02:54.805\">don&apos;t<\/span>\n        <span begin=\"02:54.805\" end=\"02:55.527\">wanna<\/span>\n        <span begin=\"02:55.527\" end=\"02:56.245\">be<\/span>\n        <span begin=\"02:56.245\" end=\"02:56.626\">your<\/span>\n        <span begin=\"02:56.626\" end=\"02:57.352\">fool)<\/span>\n      <\/p>\n      <p begin=\"02:55.440\" end=\"02:57.791\" ttm:agent=\"v1\">\n        <span begin=\"02:55.447\" end=\"02:55.678\">Just<\/span>\n        <span begin=\"02:55.678\" end=\"02:56.150\">another<\/span>\n        <span begin=\"02:56.150\" end=\"02:56.581\">player<\/span>\n        <span begin=\"02:56.581\" end=\"02:56.700\">in<\/span>\n        <span begin=\"02:56.700\" end=\"02:56.872\">your<\/span>\n        <span begin=\"02:56.872\" end=\"02:57.284\">game<\/span>\n        <span begin=\"02:57.284\" end=\"02:57.433\">for<\/span>\n        <span begin=\"02:57.433\" end=\"02:57.791\">two<\/span>\n      <\/p>\n      <p begin=\"02:56.900\" end=\"02:59.970\" ttm:agent=\"v1\">\n        <span begin=\"02:56.904\" end=\"02:57.196\">I<\/span>\n        <span begin=\"02:57.196\" end=\"02:57.585\">don&apos;t<\/span>\n        <span begin=\"02:57.585\" end=\"02:58.277\">wanna<\/span>\n        <span begin=\"02:58.277\" end=\"02:58.921\">be<\/span>\n        <span begin=\"02:58.921\" end=\"02:59.327\">your<\/span>\n        <span begin=\"02:59.327\" end=\"02:59.970\">fool<\/span>\n      <\/p>\n      <p begin=\"03:00.330\" end=\"03:02.113\" ttm:agent=\"v1\">\n        <span begin=\"03:00.338\" end=\"03:00.701\">But<\/span>\n        <span begin=\"03:00.701\" end=\"03:01.040\">it<\/span>\n        <span begin=\"03:01.040\" end=\"03:01.409\">ain&apos;t<\/span>\n        <span begin=\"03:01.409\" end=\"03:01.775\">no<\/span>\n        <span begin=\"03:01.775\" end=\"03:02.113\">lie<\/span>\n      <\/p>\n      <p begin=\"03:02.120\" end=\"03:04.120\" ttm:agent=\"v1\">\n        <span begin=\"03:02.124\" end=\"03:02.486\">Baby,<\/span>\n        <span begin=\"03:02.486\" end=\"03:02.822\">bye,<\/span>\n        <span begin=\"03:02.822\" end=\"03:03.137\">bye,<\/span>\n        <span begin=\"03:03.137\" end=\"03:04.120\">bye<\/span>\n      <\/p>\n      <p begin=\"03:02.120\" end=\"03:04.293\" role=\"x-bg\">\n        <span begin=\"03:03.491\" end=\"03:03.896\">(Bye,<\/span>\n        <span begin=\"03:03.896\" end=\"03:04.293\">bye)<\/span>\n      <\/p>\n      <p begin=\"03:04.350\" end=\"03:06.094\" ttm:agent=\"v1\">\n        <span begin=\"03:04.350\" end=\"03:04.531\">Don&apos;t<\/span>\n        <span begin=\"03:04.531\" end=\"03:04.949\">really<\/span>\n        <span begin=\"03:04.949\" end=\"03:05.292\">wanna<\/span>\n        <span begin=\"03:05.292\" end=\"03:05.609\">make<\/span>\n        <span begin=\"03:05.609\" end=\"03:05.779\">it<\/span>\n        <span begin=\"03:05.779\" end=\"03:06.094\">tough<\/span>\n      <\/p>\n      <p begin=\"03:04.350\" end=\"03:08.342\" role=\"x-bg\">\n        <span begin=\"03:05.246\" end=\"03:05.549\">(I<\/span>\n        <span begin=\"03:05.549\" end=\"03:05.992\">don&apos;t<\/span>\n        <span begin=\"03:05.992\" end=\"03:06.659\">wanna<\/span>\n        <span begin=\"03:06.659\" end=\"03:07.309\">make<\/span>\n        <span begin=\"03:07.309\" end=\"03:07.693\">it<\/span>\n        <span begin=\"03:07.693\" end=\"03:08.342\">tough)<\/span>\n      <\/p>\n      <p begin=\"03:06.610\" end=\"03:08.961\" ttm:agent=\"v1\">\n        <span begin=\"03:06.613\" end=\"03:06.733\">I<\/span>\n        <span begin=\"03:06.733\" end=\"03:06.957\">just<\/span>\n        <span begin=\"03:06.957\" end=\"03:07.341\">wanna<\/span>\n        <span begin=\"03:07.341\" end=\"03:07.507\">tell<\/span>\n        <span begin=\"03:07.507\" end=\"03:07.730\">you<\/span>\n        <span begin=\"03:07.730\" end=\"03:07.957\">that<\/span>\n        <span begin=\"03:07.957\" end=\"03:08.077\">I<\/span>\n        <span begin=\"03:08.077\" end=\"03:08.447\">had<\/span>\n        <span begin=\"03:08.447\" end=\"03:08.961\">enough<\/span>\n      <\/p>\n      <p begin=\"03:06.610\" end=\"03:11.256\" role=\"x-bg\">\n        <span begin=\"03:08.716\" end=\"03:09.075\">(But<\/span>\n        <span begin=\"03:09.075\" end=\"03:09.425\">I&apos;ve<\/span>\n        <span begin=\"03:09.425\" end=\"03:10.142\">had<\/span>\n        <span begin=\"03:10.142\" end=\"03:11.256\">enough)<\/span>\n      <\/p>\n      <p begin=\"03:10.040\" end=\"03:13.256\" ttm:agent=\"v1\">\n        <span begin=\"03:10.040\" end=\"03:10.458\">Might<\/span>\n        <span begin=\"03:10.458\" end=\"03:10.759\">sound<\/span>\n        <span begin=\"03:10.759\" end=\"03:11.506\">crazy,<\/span>\n        <span begin=\"03:11.506\" end=\"03:11.853\">but<\/span>\n        <span begin=\"03:11.853\" end=\"03:12.180\">it<\/span>\n        <span begin=\"03:12.180\" end=\"03:12.559\">ain&apos;t<\/span>\n        <span begin=\"03:12.559\" end=\"03:12.877\">no<\/span>\n        <span begin=\"03:12.877\" end=\"03:13.256\">lie<\/span>\n      <\/p>\n      <p begin=\"03:13.530\" end=\"03:15.543\" ttm:agent=\"v1\">\n        <span begin=\"03:13.533\" end=\"03:13.946\">Bye,<\/span>\n        <span begin=\"03:13.946\" end=\"03:14.276\">bye,<\/span>\n        <span begin=\"03:14.276\" end=\"03:15.543\">bye<\/span>\n      <\/p>\n      <p begin=\"03:13.530\" end=\"03:15.481\" role=\"x-bg\">\n        <span begin=\"03:14.601\" end=\"03:15.008\">(Bye,<\/span>\n        <span begin=\"03:15.008\" end=\"03:15.481\">bye)<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 7540,
+      "endTime": 8803,
+      "text": "Hey, hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 7547,
+          "endTime": 7910,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 7910,
+          "endTime": 8803,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 9960,
+      "endTime": 11475,
+      "text": "Bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 9963,
+          "endTime": 10408,
+          "word": "Bye,"
+        },
+        {
+          "startTime": 10408,
+          "endTime": 10725,
+          "word": "bye,"
+        },
+        {
+          "startTime": 10725,
+          "endTime": 11475,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 9960,
+      "endTime": 11897,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 11017,
+          "endTime": 11363,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 11363,
+          "endTime": 11897,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 23210,
+      "endTime": 25772,
+      "text": "I'm doin' this tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23217,
+          "endTime": 23842,
+          "word": "I'm"
+        },
+        {
+          "startTime": 23842,
+          "endTime": 24515,
+          "word": "doin'"
+        },
+        {
+          "startTime": 24515,
+          "endTime": 24931,
+          "word": "this"
+        },
+        {
+          "startTime": 24931,
+          "endTime": 25772,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 25940,
+      "endTime": 28552,
+      "text": "You're probably gonna start a fight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 25945,
+          "endTime": 26608,
+          "word": "You're"
+        },
+        {
+          "startTime": 26608,
+          "endTime": 27043,
+          "word": "probably"
+        },
+        {
+          "startTime": 27043,
+          "endTime": 27342,
+          "word": "gonna"
+        },
+        {
+          "startTime": 27342,
+          "endTime": 27726,
+          "word": "start"
+        },
+        {
+          "startTime": 27726,
+          "endTime": 28064,
+          "word": "a"
+        },
+        {
+          "startTime": 28064,
+          "endTime": 28552,
+          "word": "fight"
+        }
+      ]
+    },
+    {
+      "time": 28800,
+      "endTime": 31390,
+      "text": "I know this can't be right",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28804,
+          "endTime": 29436,
+          "word": "I"
+        },
+        {
+          "startTime": 29436,
+          "endTime": 29795,
+          "word": "know"
+        },
+        {
+          "startTime": 29795,
+          "endTime": 30123,
+          "word": "this"
+        },
+        {
+          "startTime": 30123,
+          "endTime": 30478,
+          "word": "can't"
+        },
+        {
+          "startTime": 30478,
+          "endTime": 30830,
+          "word": "be"
+        },
+        {
+          "startTime": 30830,
+          "endTime": 31390,
+          "word": "right"
+        }
+      ]
+    },
+    {
+      "time": 31520,
+      "endTime": 34097,
+      "text": "Hey, baby, come on",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31525,
+          "endTime": 32156,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 32156,
+          "endTime": 32907,
+          "word": "baby,"
+        },
+        {
+          "startTime": 32907,
+          "endTime": 33274,
+          "word": "come"
+        },
+        {
+          "startTime": 33274,
+          "endTime": 34097,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 34420,
+      "endTime": 36914,
+      "text": "I loved you endlessly",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34427,
+          "endTime": 34940,
+          "word": "I"
+        },
+        {
+          "startTime": 34940,
+          "endTime": 35377,
+          "word": "loved"
+        },
+        {
+          "startTime": 35377,
+          "endTime": 35728,
+          "word": "you"
+        },
+        {
+          "startTime": 35728,
+          "endTime": 36914,
+          "word": "endlessly"
+        }
+      ]
+    },
+    {
+      "time": 37070,
+      "endTime": 39652,
+      "text": "And you weren't there for me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37078,
+          "endTime": 37598,
+          "word": "And"
+        },
+        {
+          "startTime": 37776,
+          "endTime": 38115,
+          "word": "you"
+        },
+        {
+          "startTime": 38115,
+          "endTime": 38507,
+          "word": "weren't"
+        },
+        {
+          "startTime": 38507,
+          "endTime": 38856,
+          "word": "there"
+        },
+        {
+          "startTime": 38856,
+          "endTime": 39205,
+          "word": "for"
+        },
+        {
+          "startTime": 39205,
+          "endTime": 39652,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 39770,
+      "endTime": 42495,
+      "text": "So now it's time to leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 39775,
+          "endTime": 40458,
+          "word": "So"
+        },
+        {
+          "startTime": 40566,
+          "endTime": 40956,
+          "word": "now"
+        },
+        {
+          "startTime": 40956,
+          "endTime": 41272,
+          "word": "it's"
+        },
+        {
+          "startTime": 41272,
+          "endTime": 41638,
+          "word": "time"
+        },
+        {
+          "startTime": 41638,
+          "endTime": 41972,
+          "word": "to"
+        },
+        {
+          "startTime": 41972,
+          "endTime": 42495,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 42670,
+      "endTime": 45476,
+      "text": "And make it alone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42676,
+          "endTime": 43315,
+          "word": "And"
+        },
+        {
+          "startTime": 43315,
+          "endTime": 43741,
+          "word": "make"
+        },
+        {
+          "startTime": 43741,
+          "endTime": 44062,
+          "word": "it"
+        },
+        {
+          "startTime": 44062,
+          "endTime": 45476,
+          "word": "alone"
+        }
+      ]
+    },
+    {
+      "time": 45480,
+      "endTime": 48663,
+      "text": "I know that I can't take no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45484,
+          "endTime": 46090,
+          "word": "I"
+        },
+        {
+          "startTime": 46090,
+          "endTime": 46491,
+          "word": "know"
+        },
+        {
+          "startTime": 46491,
+          "endTime": 46825,
+          "word": "that"
+        },
+        {
+          "startTime": 46825,
+          "endTime": 47024,
+          "word": "I"
+        },
+        {
+          "startTime": 47024,
+          "endTime": 47465,
+          "word": "can't"
+        },
+        {
+          "startTime": 47465,
+          "endTime": 47885,
+          "word": "take"
+        },
+        {
+          "startTime": 47885,
+          "endTime": 48243,
+          "word": "no"
+        },
+        {
+          "startTime": 48243,
+          "endTime": 48663,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 48760,
+      "endTime": 50550,
+      "text": "It ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 48766,
+          "endTime": 48918,
+          "word": "It"
+        },
+        {
+          "startTime": 48918,
+          "endTime": 49317,
+          "word": "ain't"
+        },
+        {
+          "startTime": 49317,
+          "endTime": 49635,
+          "word": "no"
+        },
+        {
+          "startTime": 49635,
+          "endTime": 50550,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 50980,
+      "endTime": 54138,
+      "text": "I wanna see you out that door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50988,
+          "endTime": 51673,
+          "word": "I"
+        },
+        {
+          "startTime": 51673,
+          "endTime": 52254,
+          "word": "wanna"
+        },
+        {
+          "startTime": 52254,
+          "endTime": 52670,
+          "word": "see"
+        },
+        {
+          "startTime": 52670,
+          "endTime": 53035,
+          "word": "you"
+        },
+        {
+          "startTime": 53035,
+          "endTime": 53369,
+          "word": "out"
+        },
+        {
+          "startTime": 53369,
+          "endTime": 53721,
+          "word": "that"
+        },
+        {
+          "startTime": 53721,
+          "endTime": 54138,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 54140,
+      "endTime": 56164,
+      "text": "Baby, bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54148,
+          "endTime": 54422,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 54422,
+          "endTime": 54739,
+          "word": "bye,"
+        },
+        {
+          "startTime": 54739,
+          "endTime": 55104,
+          "word": "bye,"
+        },
+        {
+          "startTime": 55104,
+          "endTime": 56164,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 54140,
+      "endTime": 56319,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 55535,
+          "endTime": 55834,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 55834,
+          "endTime": 56319,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 56420,
+      "endTime": 58140,
+      "text": "Don't wanna be a fool for you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56422,
+          "endTime": 56540,
+          "word": "Don't"
+        },
+        {
+          "startTime": 56540,
+          "endTime": 56871,
+          "word": "wanna"
+        },
+        {
+          "startTime": 56871,
+          "endTime": 57071,
+          "word": "be"
+        },
+        {
+          "startTime": 57071,
+          "endTime": 57239,
+          "word": "a"
+        },
+        {
+          "startTime": 57239,
+          "endTime": 57537,
+          "word": "fool"
+        },
+        {
+          "startTime": 57537,
+          "endTime": 57719,
+          "word": "for"
+        },
+        {
+          "startTime": 57719,
+          "endTime": 58140,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 58610,
+      "endTime": 60954,
+      "text": "Just another player in your game for two",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 58615,
+          "endTime": 58788,
+          "word": "Just"
+        },
+        {
+          "startTime": 58788,
+          "endTime": 59287,
+          "word": "another"
+        },
+        {
+          "startTime": 59287,
+          "endTime": 59636,
+          "word": "player"
+        },
+        {
+          "startTime": 59636,
+          "endTime": 59836,
+          "word": "in"
+        },
+        {
+          "startTime": 59836,
+          "endTime": 60020,
+          "word": "your"
+        },
+        {
+          "startTime": 60020,
+          "endTime": 60321,
+          "word": "game"
+        },
+        {
+          "startTime": 60321,
+          "endTime": 60521,
+          "word": "for"
+        },
+        {
+          "startTime": 60521,
+          "endTime": 60954,
+          "word": "two"
+        }
+      ]
+    },
+    {
+      "time": 62050,
+      "endTime": 65263,
+      "text": "You may hate me, but it ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 62051,
+          "endTime": 62410,
+          "word": "You"
+        },
+        {
+          "startTime": 62410,
+          "endTime": 62775,
+          "word": "may"
+        },
+        {
+          "startTime": 62775,
+          "endTime": 63092,
+          "word": "hate"
+        },
+        {
+          "startTime": 63092,
+          "endTime": 63460,
+          "word": "me,"
+        },
+        {
+          "startTime": 63460,
+          "endTime": 63810,
+          "word": "but"
+        },
+        {
+          "startTime": 63810,
+          "endTime": 64150,
+          "word": "it"
+        },
+        {
+          "startTime": 64150,
+          "endTime": 64527,
+          "word": "ain't"
+        },
+        {
+          "startTime": 64527,
+          "endTime": 64825,
+          "word": "no"
+        },
+        {
+          "startTime": 64825,
+          "endTime": 65263,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 65260,
+      "endTime": 67093,
+      "text": "Baby, bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65269,
+          "endTime": 65553,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 65553,
+          "endTime": 65887,
+          "word": "bye,"
+        },
+        {
+          "startTime": 65887,
+          "endTime": 66220,
+          "word": "bye,"
+        },
+        {
+          "startTime": 66220,
+          "endTime": 67093,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 65260,
+      "endTime": 67485,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 66657,
+          "endTime": 66950,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 66950,
+          "endTime": 67485,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 67510,
+      "endTime": 69342,
+      "text": "Don't really wanna make it tough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 67518,
+          "endTime": 67708,
+          "word": "Don't"
+        },
+        {
+          "startTime": 67708,
+          "endTime": 67991,
+          "word": "really"
+        },
+        {
+          "startTime": 67991,
+          "endTime": 68324,
+          "word": "wanna"
+        },
+        {
+          "startTime": 68324,
+          "endTime": 68657,
+          "word": "make"
+        },
+        {
+          "startTime": 68657,
+          "endTime": 68857,
+          "word": "it"
+        },
+        {
+          "startTime": 68857,
+          "endTime": 69342,
+          "word": "tough"
+        }
+      ]
+    },
+    {
+      "time": 69740,
+      "endTime": 72138,
+      "text": "I just wanna tell you that I had enough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69744,
+          "endTime": 69926,
+          "word": "I"
+        },
+        {
+          "startTime": 69926,
+          "endTime": 70097,
+          "word": "just"
+        },
+        {
+          "startTime": 70097,
+          "endTime": 70409,
+          "word": "wanna"
+        },
+        {
+          "startTime": 70409,
+          "endTime": 70643,
+          "word": "tell"
+        },
+        {
+          "startTime": 70643,
+          "endTime": 70827,
+          "word": "you"
+        },
+        {
+          "startTime": 70827,
+          "endTime": 71025,
+          "word": "that"
+        },
+        {
+          "startTime": 71025,
+          "endTime": 71195,
+          "word": "I"
+        },
+        {
+          "startTime": 71195,
+          "endTime": 71491,
+          "word": "had"
+        },
+        {
+          "startTime": 71491,
+          "endTime": 72138,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 73190,
+      "endTime": 76414,
+      "text": "Might sound crazy, but it ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 73196,
+          "endTime": 73534,
+          "word": "Might"
+        },
+        {
+          "startTime": 73534,
+          "endTime": 73867,
+          "word": "sound"
+        },
+        {
+          "startTime": 73867,
+          "endTime": 74601,
+          "word": "crazy,"
+        },
+        {
+          "startTime": 74601,
+          "endTime": 74934,
+          "word": "but"
+        },
+        {
+          "startTime": 74934,
+          "endTime": 75267,
+          "word": "it"
+        },
+        {
+          "startTime": 75267,
+          "endTime": 75617,
+          "word": "ain't"
+        },
+        {
+          "startTime": 75617,
+          "endTime": 75985,
+          "word": "no"
+        },
+        {
+          "startTime": 75985,
+          "endTime": 76414,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 76420,
+      "endTime": 78699,
+      "text": "Baby, bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 76425,
+          "endTime": 76696,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 76696,
+          "endTime": 77011,
+          "word": "bye,"
+        },
+        {
+          "startTime": 77011,
+          "endTime": 77363,
+          "word": "bye,"
+        },
+        {
+          "startTime": 77363,
+          "endTime": 78699,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 81560,
+      "endTime": 84150,
+      "text": "Just hit me with the truth",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81567,
+          "endTime": 82234,
+          "word": "Just"
+        },
+        {
+          "startTime": 82234,
+          "endTime": 82584,
+          "word": "hit"
+        },
+        {
+          "startTime": 82584,
+          "endTime": 82933,
+          "word": "me"
+        },
+        {
+          "startTime": 82933,
+          "endTime": 83250,
+          "word": "with"
+        },
+        {
+          "startTime": 83250,
+          "endTime": 83650,
+          "word": "the"
+        },
+        {
+          "startTime": 83650,
+          "endTime": 84150,
+          "word": "truth"
+        }
+      ]
+    },
+    {
+      "time": 84370,
+      "endTime": 86931,
+      "text": "Now, girl, you're more than welcome to",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 84370,
+          "endTime": 84986,
+          "word": "Now,"
+        },
+        {
+          "startTime": 84986,
+          "endTime": 85186,
+          "word": "girl,"
+        },
+        {
+          "startTime": 85186,
+          "endTime": 85386,
+          "word": "you're"
+        },
+        {
+          "startTime": 85386,
+          "endTime": 85570,
+          "word": "more"
+        },
+        {
+          "startTime": 85570,
+          "endTime": 85786,
+          "word": "than"
+        },
+        {
+          "startTime": 85786,
+          "endTime": 86453,
+          "word": "welcome"
+        },
+        {
+          "startTime": 86453,
+          "endTime": 86931,
+          "word": "to"
+        }
+      ]
+    },
+    {
+      "time": 87060,
+      "endTime": 92523,
+      "text": "So, give me one good reason, baby, come on",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 87060,
+          "endTime": 87799,
+          "word": "So,"
+        },
+        {
+          "startTime": 87799,
+          "endTime": 88149,
+          "word": "give"
+        },
+        {
+          "startTime": 88149,
+          "endTime": 88498,
+          "word": "me"
+        },
+        {
+          "startTime": 88498,
+          "endTime": 88831,
+          "word": "one"
+        },
+        {
+          "startTime": 88831,
+          "endTime": 89183,
+          "word": "good"
+        },
+        {
+          "startTime": 89183,
+          "endTime": 90631,
+          "word": "reason,"
+        },
+        {
+          "startTime": 90631,
+          "endTime": 91282,
+          "word": "baby,"
+        },
+        {
+          "startTime": 91282,
+          "endTime": 91650,
+          "word": "come"
+        },
+        {
+          "startTime": 91650,
+          "endTime": 92523,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 92750,
+      "endTime": 95318,
+      "text": "I live for you and me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92750,
+          "endTime": 93411,
+          "word": "I"
+        },
+        {
+          "startTime": 93411,
+          "endTime": 93744,
+          "word": "live"
+        },
+        {
+          "startTime": 93744,
+          "endTime": 94093,
+          "word": "for"
+        },
+        {
+          "startTime": 94093,
+          "endTime": 94426,
+          "word": "you"
+        },
+        {
+          "startTime": 94426,
+          "endTime": 94779,
+          "word": "and"
+        },
+        {
+          "startTime": 94779,
+          "endTime": 95318,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 95510,
+      "endTime": 98262,
+      "text": "And now I've really come to see",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95518,
+          "endTime": 96098,
+          "word": "And"
+        },
+        {
+          "startTime": 96204,
+          "endTime": 96369,
+          "word": "now"
+        },
+        {
+          "startTime": 96369,
+          "endTime": 96553,
+          "word": "I've"
+        },
+        {
+          "startTime": 96553,
+          "endTime": 96852,
+          "word": "really"
+        },
+        {
+          "startTime": 96852,
+          "endTime": 97185,
+          "word": "come"
+        },
+        {
+          "startTime": 97185,
+          "endTime": 97502,
+          "word": "to"
+        },
+        {
+          "startTime": 97502,
+          "endTime": 98262,
+          "word": "see"
+        }
+      ]
+    },
+    {
+      "time": 98270,
+      "endTime": 103672,
+      "text": "That life would be much better once you're gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98271,
+          "endTime": 98977,
+          "word": "That"
+        },
+        {
+          "startTime": 98977,
+          "endTime": 99294,
+          "word": "life"
+        },
+        {
+          "startTime": 99294,
+          "endTime": 99644,
+          "word": "would"
+        },
+        {
+          "startTime": 99644,
+          "endTime": 99961,
+          "word": "be"
+        },
+        {
+          "startTime": 99961,
+          "endTime": 100310,
+          "word": "much"
+        },
+        {
+          "startTime": 100310,
+          "endTime": 101692,
+          "word": "better"
+        },
+        {
+          "startTime": 102055,
+          "endTime": 102404,
+          "word": "once"
+        },
+        {
+          "startTime": 102404,
+          "endTime": 102771,
+          "word": "you're"
+        },
+        {
+          "startTime": 102771,
+          "endTime": 103672,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 103870,
+      "endTime": 107114,
+      "text": "I know that I can't take no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 103878,
+          "endTime": 104515,
+          "word": "I"
+        },
+        {
+          "startTime": 104515,
+          "endTime": 104848,
+          "word": "know"
+        },
+        {
+          "startTime": 104848,
+          "endTime": 105198,
+          "word": "that"
+        },
+        {
+          "startTime": 105198,
+          "endTime": 105550,
+          "word": "I"
+        },
+        {
+          "startTime": 105550,
+          "endTime": 105916,
+          "word": "can't"
+        },
+        {
+          "startTime": 105916,
+          "endTime": 106257,
+          "word": "take"
+        },
+        {
+          "startTime": 106257,
+          "endTime": 106590,
+          "word": "no"
+        },
+        {
+          "startTime": 106590,
+          "endTime": 107114,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 107180,
+      "endTime": 109109,
+      "text": "It ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107189,
+          "endTime": 107324,
+          "word": "It"
+        },
+        {
+          "startTime": 107324,
+          "endTime": 107636,
+          "word": "ain't"
+        },
+        {
+          "startTime": 107636,
+          "endTime": 107969,
+          "word": "no"
+        },
+        {
+          "startTime": 107969,
+          "endTime": 109109,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 109400,
+      "endTime": 112558,
+      "text": "I wanna see you out that door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 109408,
+          "endTime": 110078,
+          "word": "I"
+        },
+        {
+          "startTime": 110078,
+          "endTime": 110758,
+          "word": "wanna"
+        },
+        {
+          "startTime": 110758,
+          "endTime": 111107,
+          "word": "see"
+        },
+        {
+          "startTime": 111107,
+          "endTime": 111457,
+          "word": "you"
+        },
+        {
+          "startTime": 111457,
+          "endTime": 111774,
+          "word": "out"
+        },
+        {
+          "startTime": 111774,
+          "endTime": 112142,
+          "word": "that"
+        },
+        {
+          "startTime": 112142,
+          "endTime": 112558,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 112560,
+      "endTime": 114634,
+      "text": "Baby, bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112567,
+          "endTime": 112835,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 112835,
+          "endTime": 113185,
+          "word": "bye,"
+        },
+        {
+          "startTime": 113185,
+          "endTime": 113518,
+          "word": "bye,"
+        },
+        {
+          "startTime": 113518,
+          "endTime": 114634,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 112560,
+      "endTime": 114717,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 113985,
+          "endTime": 114268,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 114268,
+          "endTime": 114717,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 114810,
+      "endTime": 116551,
+      "text": "Don't wanna be a fool for you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 114816,
+          "endTime": 114979,
+          "word": "Don't"
+        },
+        {
+          "startTime": 114979,
+          "endTime": 115297,
+          "word": "wanna"
+        },
+        {
+          "startTime": 115297,
+          "endTime": 115481,
+          "word": "be"
+        },
+        {
+          "startTime": 115481,
+          "endTime": 115662,
+          "word": "a"
+        },
+        {
+          "startTime": 115662,
+          "endTime": 115979,
+          "word": "fool"
+        },
+        {
+          "startTime": 115979,
+          "endTime": 116164,
+          "word": "for"
+        },
+        {
+          "startTime": 116164,
+          "endTime": 116551,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 117060,
+      "endTime": 119384,
+      "text": "Just another player in your game for two",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117060,
+          "endTime": 117197,
+          "word": "Just"
+        },
+        {
+          "startTime": 117197,
+          "endTime": 117702,
+          "word": "another"
+        },
+        {
+          "startTime": 117702,
+          "endTime": 118067,
+          "word": "player"
+        },
+        {
+          "startTime": 118067,
+          "endTime": 118267,
+          "word": "in"
+        },
+        {
+          "startTime": 118267,
+          "endTime": 118438,
+          "word": "your"
+        },
+        {
+          "startTime": 118438,
+          "endTime": 118753,
+          "word": "game"
+        },
+        {
+          "startTime": 118753,
+          "endTime": 118953,
+          "word": "for"
+        },
+        {
+          "startTime": 118953,
+          "endTime": 119384,
+          "word": "two"
+        }
+      ]
+    },
+    {
+      "time": 120410,
+      "endTime": 123675,
+      "text": "You may hate me, but it ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120417,
+          "endTime": 120814,
+          "word": "You"
+        },
+        {
+          "startTime": 120814,
+          "endTime": 121163,
+          "word": "may"
+        },
+        {
+          "startTime": 121163,
+          "endTime": 121512,
+          "word": "hate"
+        },
+        {
+          "startTime": 121512,
+          "endTime": 121862,
+          "word": "me,"
+        },
+        {
+          "startTime": 121862,
+          "endTime": 122230,
+          "word": "but"
+        },
+        {
+          "startTime": 122230,
+          "endTime": 122579,
+          "word": "it"
+        },
+        {
+          "startTime": 122579,
+          "endTime": 122928,
+          "word": "ain't"
+        },
+        {
+          "startTime": 122928,
+          "endTime": 123280,
+          "word": "no"
+        },
+        {
+          "startTime": 123280,
+          "endTime": 123675,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 123680,
+      "endTime": 125791,
+      "text": "Baby, bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123682,
+          "endTime": 123942,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 123942,
+          "endTime": 124275,
+          "word": "bye,"
+        },
+        {
+          "startTime": 124275,
+          "endTime": 124641,
+          "word": "bye,"
+        },
+        {
+          "startTime": 124641,
+          "endTime": 125791,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 123680,
+      "endTime": 125863,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 125111,
+          "endTime": 125383,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 125383,
+          "endTime": 125863,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 125960,
+      "endTime": 127653,
+      "text": "Don't really wanna make it tough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125961,
+          "endTime": 126104,
+          "word": "Don't"
+        },
+        {
+          "startTime": 126104,
+          "endTime": 126402,
+          "word": "really"
+        },
+        {
+          "startTime": 126402,
+          "endTime": 126736,
+          "word": "wanna"
+        },
+        {
+          "startTime": 126736,
+          "endTime": 127101,
+          "word": "make"
+        },
+        {
+          "startTime": 127101,
+          "endTime": 127285,
+          "word": "it"
+        },
+        {
+          "startTime": 127285,
+          "endTime": 127653,
+          "word": "tough"
+        }
+      ]
+    },
+    {
+      "time": 128190,
+      "endTime": 130568,
+      "text": "I just wanna tell you that I had enough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128193,
+          "endTime": 128381,
+          "word": "I"
+        },
+        {
+          "startTime": 128381,
+          "endTime": 128514,
+          "word": "just"
+        },
+        {
+          "startTime": 128514,
+          "endTime": 128848,
+          "word": "wanna"
+        },
+        {
+          "startTime": 128848,
+          "endTime": 129064,
+          "word": "tell"
+        },
+        {
+          "startTime": 129064,
+          "endTime": 129247,
+          "word": "you"
+        },
+        {
+          "startTime": 129247,
+          "endTime": 129416,
+          "word": "that"
+        },
+        {
+          "startTime": 129416,
+          "endTime": 129597,
+          "word": "I"
+        },
+        {
+          "startTime": 129597,
+          "endTime": 129898,
+          "word": "had"
+        },
+        {
+          "startTime": 129898,
+          "endTime": 130568,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 131610,
+      "endTime": 134815,
+      "text": "Might sound crazy, but it ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131615,
+          "endTime": 131948,
+          "word": "Might"
+        },
+        {
+          "startTime": 131948,
+          "endTime": 132282,
+          "word": "sound"
+        },
+        {
+          "startTime": 132282,
+          "endTime": 132980,
+          "word": "crazy,"
+        },
+        {
+          "startTime": 132980,
+          "endTime": 133348,
+          "word": "but"
+        },
+        {
+          "startTime": 133348,
+          "endTime": 133682,
+          "word": "it"
+        },
+        {
+          "startTime": 133682,
+          "endTime": 134031,
+          "word": "ain't"
+        },
+        {
+          "startTime": 134031,
+          "endTime": 134396,
+          "word": "no"
+        },
+        {
+          "startTime": 134396,
+          "endTime": 134815,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 134800,
+      "endTime": 137491,
+      "text": "Baby, bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 134805,
+          "endTime": 135076,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 135076,
+          "endTime": 135375,
+          "word": "bye,"
+        },
+        {
+          "startTime": 135375,
+          "endTime": 135743,
+          "word": "bye,"
+        },
+        {
+          "startTime": 135743,
+          "endTime": 137491,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 139890,
+      "endTime": 141665,
+      "text": "I'm giving up, I know for sure",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139890,
+          "endTime": 140008,
+          "word": "I'm"
+        },
+        {
+          "startTime": 140008,
+          "endTime": 140275,
+          "word": "giving"
+        },
+        {
+          "startTime": 140275,
+          "endTime": 140475,
+          "word": "up,"
+        },
+        {
+          "startTime": 140475,
+          "endTime": 140675,
+          "word": "I"
+        },
+        {
+          "startTime": 140675,
+          "endTime": 141008,
+          "word": "know"
+        },
+        {
+          "startTime": 141008,
+          "endTime": 141192,
+          "word": "for"
+        },
+        {
+          "startTime": 141192,
+          "endTime": 141665,
+          "word": "sure"
+        }
+      ]
+    },
+    {
+      "time": 141770,
+      "endTime": 144515,
+      "text": "I don't wanna be the reason for your love no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 141776,
+          "endTime": 141932,
+          "word": "I"
+        },
+        {
+          "startTime": 141932,
+          "endTime": 142108,
+          "word": "don't"
+        },
+        {
+          "startTime": 142108,
+          "endTime": 142412,
+          "word": "wanna"
+        },
+        {
+          "startTime": 142412,
+          "endTime": 142593,
+          "word": "be"
+        },
+        {
+          "startTime": 142593,
+          "endTime": 142764,
+          "word": "the"
+        },
+        {
+          "startTime": 142764,
+          "endTime": 143078,
+          "word": "reason"
+        },
+        {
+          "startTime": 143078,
+          "endTime": 143246,
+          "word": "for"
+        },
+        {
+          "startTime": 143246,
+          "endTime": 143428,
+          "word": "your"
+        },
+        {
+          "startTime": 143428,
+          "endTime": 143777,
+          "word": "love"
+        },
+        {
+          "startTime": 143777,
+          "endTime": 143945,
+          "word": "no"
+        },
+        {
+          "startTime": 143945,
+          "endTime": 144515,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 141770,
+      "endTime": 145409,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 144523,
+          "endTime": 144834,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 144834,
+          "endTime": 145409,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 145410,
+      "endTime": 147155,
+      "text": "I'm checkin' out, I'm signin' off",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 145419,
+          "endTime": 145578,
+          "word": "I'm"
+        },
+        {
+          "startTime": 145578,
+          "endTime": 145876,
+          "word": "checkin'"
+        },
+        {
+          "startTime": 145876,
+          "endTime": 146154,
+          "word": "out,"
+        },
+        {
+          "startTime": 146154,
+          "endTime": 146373,
+          "word": "I'm"
+        },
+        {
+          "startTime": 146373,
+          "endTime": 146716,
+          "word": "signin'"
+        },
+        {
+          "startTime": 146716,
+          "endTime": 147155,
+          "word": "off"
+        }
+      ]
+    },
+    {
+      "time": 147310,
+      "endTime": 150002,
+      "text": "I don't wanna be the loser, and I've had enough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147312,
+          "endTime": 147436,
+          "word": "I"
+        },
+        {
+          "startTime": 147436,
+          "endTime": 147674,
+          "word": "don't"
+        },
+        {
+          "startTime": 147674,
+          "endTime": 148042,
+          "word": "wanna"
+        },
+        {
+          "startTime": 148042,
+          "endTime": 148242,
+          "word": "be"
+        },
+        {
+          "startTime": 148242,
+          "endTime": 148426,
+          "word": "the"
+        },
+        {
+          "startTime": 148426,
+          "endTime": 148697,
+          "word": "loser,"
+        },
+        {
+          "startTime": 148697,
+          "endTime": 148885,
+          "word": "and"
+        },
+        {
+          "startTime": 148885,
+          "endTime": 149079,
+          "word": "I've"
+        },
+        {
+          "startTime": 149079,
+          "endTime": 149429,
+          "word": "had"
+        },
+        {
+          "startTime": 149429,
+          "endTime": 150002,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 151880,
+      "endTime": 155122,
+      "text": "I don't wanna be your fool",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 151883,
+          "endTime": 152208,
+          "word": "I"
+        },
+        {
+          "startTime": 152208,
+          "endTime": 152506,
+          "word": "don't"
+        },
+        {
+          "startTime": 152506,
+          "endTime": 153189,
+          "word": "wanna"
+        },
+        {
+          "startTime": 153189,
+          "endTime": 153866,
+          "word": "be"
+        },
+        {
+          "startTime": 153866,
+          "endTime": 154248,
+          "word": "your"
+        },
+        {
+          "startTime": 154248,
+          "endTime": 155122,
+          "word": "fool"
+        }
+      ]
+    },
+    {
+      "time": 155310,
+      "endTime": 157865,
+      "text": "In this game for two",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 155310,
+          "endTime": 155619,
+          "word": "In"
+        },
+        {
+          "startTime": 155619,
+          "endTime": 155971,
+          "word": "this"
+        },
+        {
+          "startTime": 155971,
+          "endTime": 156638,
+          "word": "game"
+        },
+        {
+          "startTime": 156638,
+          "endTime": 157003,
+          "word": "for"
+        },
+        {
+          "startTime": 157003,
+          "endTime": 157865,
+          "word": "two"
+        }
+      ]
+    },
+    {
+      "time": 157940,
+      "endTime": 162113,
+      "text": "So I'm leavin' you behind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157942,
+          "endTime": 158377,
+          "word": "So"
+        },
+        {
+          "startTime": 158377,
+          "endTime": 158764,
+          "word": "I'm"
+        },
+        {
+          "startTime": 158764,
+          "endTime": 159992,
+          "word": "leavin'"
+        },
+        {
+          "startTime": 160212,
+          "endTime": 160777,
+          "word": "you"
+        },
+        {
+          "startTime": 160894,
+          "endTime": 162113,
+          "word": "behind"
+        }
+      ]
+    },
+    {
+      "time": 157940,
+      "endTime": 164440,
+      "text": "(Bye, bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 162274,
+          "endTime": 162665,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 162665,
+          "endTime": 162999,
+          "word": "bye,"
+        },
+        {
+          "startTime": 162999,
+          "endTime": 164440,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 162950,
+      "endTime": 166004,
+      "text": "I don't wanna make it tough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 162950,
+          "endTime": 163279,
+          "word": "I"
+        },
+        {
+          "startTime": 163279,
+          "endTime": 163699,
+          "word": "don't"
+        },
+        {
+          "startTime": 163699,
+          "endTime": 164397,
+          "word": "wanna"
+        },
+        {
+          "startTime": 164397,
+          "endTime": 165117,
+          "word": "make"
+        },
+        {
+          "startTime": 165117,
+          "endTime": 165432,
+          "word": "it"
+        },
+        {
+          "startTime": 165432,
+          "endTime": 166004,
+          "word": "tough"
+        }
+      ]
+    },
+    {
+      "time": 162950,
+      "endTime": 167391,
+      "text": "(Make it tough)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 165798,
+          "endTime": 166163,
+          "word": "(Make"
+        },
+        {
+          "startTime": 166163,
+          "endTime": 166464,
+          "word": "it"
+        },
+        {
+          "startTime": 166464,
+          "endTime": 167391,
+          "word": "tough)"
+        }
+      ]
+    },
+    {
+      "time": 166480,
+      "endTime": 169022,
+      "text": "But I had enough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 166484,
+          "endTime": 166846,
+          "word": "But"
+        },
+        {
+          "startTime": 166846,
+          "endTime": 167144,
+          "word": "I"
+        },
+        {
+          "startTime": 167144,
+          "endTime": 167897,
+          "word": "had"
+        },
+        {
+          "startTime": 167897,
+          "endTime": 169022,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 169210,
+      "endTime": 173273,
+      "text": "And it ain't no lie, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 169213,
+          "endTime": 169564,
+          "word": "And"
+        },
+        {
+          "startTime": 169564,
+          "endTime": 169876,
+          "word": "it"
+        },
+        {
+          "startTime": 169876,
+          "endTime": 170520,
+          "word": "ain't"
+        },
+        {
+          "startTime": 170520,
+          "endTime": 171348,
+          "word": "no"
+        },
+        {
+          "startTime": 171348,
+          "endTime": 172066,
+          "word": "lie,"
+        },
+        {
+          "startTime": 172066,
+          "endTime": 172410,
+          "word": "bye,"
+        },
+        {
+          "startTime": 172410,
+          "endTime": 173273,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 169210,
+      "endTime": 174112,
+      "text": "(Bye, bye, baby)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 169243,
+          "endTime": 169728,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 169728,
+          "endTime": 172279,
+          "word": "bye,"
+        },
+        {
+          "startTime": 172399,
+          "endTime": 174112,
+          "word": "baby)"
+        }
+      ]
+    },
+    {
+      "time": 173250,
+      "endTime": 175037,
+      "text": "Don't wanna be a fool for you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 173252,
+          "endTime": 173412,
+          "word": "Don't"
+        },
+        {
+          "startTime": 173412,
+          "endTime": 173739,
+          "word": "wanna"
+        },
+        {
+          "startTime": 173739,
+          "endTime": 173965,
+          "word": "be"
+        },
+        {
+          "startTime": 173965,
+          "endTime": 174065,
+          "word": "a"
+        },
+        {
+          "startTime": 174065,
+          "endTime": 174426,
+          "word": "fool"
+        },
+        {
+          "startTime": 174426,
+          "endTime": 174630,
+          "word": "for"
+        },
+        {
+          "startTime": 174630,
+          "endTime": 175037,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 173250,
+      "endTime": 177352,
+      "text": "(I don't wanna be your fool)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 174124,
+          "endTime": 174361,
+          "word": "(I"
+        },
+        {
+          "startTime": 174361,
+          "endTime": 174805,
+          "word": "don't"
+        },
+        {
+          "startTime": 174805,
+          "endTime": 175527,
+          "word": "wanna"
+        },
+        {
+          "startTime": 175527,
+          "endTime": 176245,
+          "word": "be"
+        },
+        {
+          "startTime": 176245,
+          "endTime": 176626,
+          "word": "your"
+        },
+        {
+          "startTime": 176626,
+          "endTime": 177352,
+          "word": "fool)"
+        }
+      ]
+    },
+    {
+      "time": 175440,
+      "endTime": 177791,
+      "text": "Just another player in your game for two",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 175447,
+          "endTime": 175678,
+          "word": "Just"
+        },
+        {
+          "startTime": 175678,
+          "endTime": 176150,
+          "word": "another"
+        },
+        {
+          "startTime": 176150,
+          "endTime": 176581,
+          "word": "player"
+        },
+        {
+          "startTime": 176581,
+          "endTime": 176700,
+          "word": "in"
+        },
+        {
+          "startTime": 176700,
+          "endTime": 176872,
+          "word": "your"
+        },
+        {
+          "startTime": 176872,
+          "endTime": 177284,
+          "word": "game"
+        },
+        {
+          "startTime": 177284,
+          "endTime": 177433,
+          "word": "for"
+        },
+        {
+          "startTime": 177433,
+          "endTime": 177791,
+          "word": "two"
+        }
+      ]
+    },
+    {
+      "time": 176900,
+      "endTime": 179970,
+      "text": "I don't wanna be your fool",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 176904,
+          "endTime": 177196,
+          "word": "I"
+        },
+        {
+          "startTime": 177196,
+          "endTime": 177585,
+          "word": "don't"
+        },
+        {
+          "startTime": 177585,
+          "endTime": 178277,
+          "word": "wanna"
+        },
+        {
+          "startTime": 178277,
+          "endTime": 178921,
+          "word": "be"
+        },
+        {
+          "startTime": 178921,
+          "endTime": 179327,
+          "word": "your"
+        },
+        {
+          "startTime": 179327,
+          "endTime": 179970,
+          "word": "fool"
+        }
+      ]
+    },
+    {
+      "time": 180330,
+      "endTime": 182113,
+      "text": "But it ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 180338,
+          "endTime": 180701,
+          "word": "But"
+        },
+        {
+          "startTime": 180701,
+          "endTime": 181040,
+          "word": "it"
+        },
+        {
+          "startTime": 181040,
+          "endTime": 181409,
+          "word": "ain't"
+        },
+        {
+          "startTime": 181409,
+          "endTime": 181775,
+          "word": "no"
+        },
+        {
+          "startTime": 181775,
+          "endTime": 182113,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 182120,
+      "endTime": 184120,
+      "text": "Baby, bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 182124,
+          "endTime": 182486,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 182486,
+          "endTime": 182822,
+          "word": "bye,"
+        },
+        {
+          "startTime": 182822,
+          "endTime": 183137,
+          "word": "bye,"
+        },
+        {
+          "startTime": 183137,
+          "endTime": 184120,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 182120,
+      "endTime": 184293,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 183491,
+          "endTime": 183896,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 183896,
+          "endTime": 184293,
+          "word": "bye)"
+        }
+      ]
+    },
+    {
+      "time": 184350,
+      "endTime": 186094,
+      "text": "Don't really wanna make it tough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 184350,
+          "endTime": 184531,
+          "word": "Don't"
+        },
+        {
+          "startTime": 184531,
+          "endTime": 184949,
+          "word": "really"
+        },
+        {
+          "startTime": 184949,
+          "endTime": 185292,
+          "word": "wanna"
+        },
+        {
+          "startTime": 185292,
+          "endTime": 185609,
+          "word": "make"
+        },
+        {
+          "startTime": 185609,
+          "endTime": 185779,
+          "word": "it"
+        },
+        {
+          "startTime": 185779,
+          "endTime": 186094,
+          "word": "tough"
+        }
+      ]
+    },
+    {
+      "time": 184350,
+      "endTime": 188342,
+      "text": "(I don't wanna make it tough)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 185246,
+          "endTime": 185549,
+          "word": "(I"
+        },
+        {
+          "startTime": 185549,
+          "endTime": 185992,
+          "word": "don't"
+        },
+        {
+          "startTime": 185992,
+          "endTime": 186659,
+          "word": "wanna"
+        },
+        {
+          "startTime": 186659,
+          "endTime": 187309,
+          "word": "make"
+        },
+        {
+          "startTime": 187309,
+          "endTime": 187693,
+          "word": "it"
+        },
+        {
+          "startTime": 187693,
+          "endTime": 188342,
+          "word": "tough)"
+        }
+      ]
+    },
+    {
+      "time": 186610,
+      "endTime": 188961,
+      "text": "I just wanna tell you that I had enough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 186613,
+          "endTime": 186733,
+          "word": "I"
+        },
+        {
+          "startTime": 186733,
+          "endTime": 186957,
+          "word": "just"
+        },
+        {
+          "startTime": 186957,
+          "endTime": 187341,
+          "word": "wanna"
+        },
+        {
+          "startTime": 187341,
+          "endTime": 187507,
+          "word": "tell"
+        },
+        {
+          "startTime": 187507,
+          "endTime": 187730,
+          "word": "you"
+        },
+        {
+          "startTime": 187730,
+          "endTime": 187957,
+          "word": "that"
+        },
+        {
+          "startTime": 187957,
+          "endTime": 188077,
+          "word": "I"
+        },
+        {
+          "startTime": 188077,
+          "endTime": 188447,
+          "word": "had"
+        },
+        {
+          "startTime": 188447,
+          "endTime": 188961,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 186610,
+      "endTime": 191256,
+      "text": "(But I've had enough)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 188716,
+          "endTime": 189075,
+          "word": "(But"
+        },
+        {
+          "startTime": 189075,
+          "endTime": 189425,
+          "word": "I've"
+        },
+        {
+          "startTime": 189425,
+          "endTime": 190142,
+          "word": "had"
+        },
+        {
+          "startTime": 190142,
+          "endTime": 191256,
+          "word": "enough)"
+        }
+      ]
+    },
+    {
+      "time": 190040,
+      "endTime": 193256,
+      "text": "Might sound crazy, but it ain't no lie",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 190040,
+          "endTime": 190458,
+          "word": "Might"
+        },
+        {
+          "startTime": 190458,
+          "endTime": 190759,
+          "word": "sound"
+        },
+        {
+          "startTime": 190759,
+          "endTime": 191506,
+          "word": "crazy,"
+        },
+        {
+          "startTime": 191506,
+          "endTime": 191853,
+          "word": "but"
+        },
+        {
+          "startTime": 191853,
+          "endTime": 192180,
+          "word": "it"
+        },
+        {
+          "startTime": 192180,
+          "endTime": 192559,
+          "word": "ain't"
+        },
+        {
+          "startTime": 192559,
+          "endTime": 192877,
+          "word": "no"
+        },
+        {
+          "startTime": 192877,
+          "endTime": 193256,
+          "word": "lie"
+        }
+      ]
+    },
+    {
+      "time": 193530,
+      "endTime": 195543,
+      "text": "Bye, bye, bye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 193533,
+          "endTime": 193946,
+          "word": "Bye,"
+        },
+        {
+          "startTime": 193946,
+          "endTime": 194276,
+          "word": "bye,"
+        },
+        {
+          "startTime": 194276,
+          "endTime": 195543,
+          "word": "bye"
+        }
+      ]
+    },
+    {
+      "time": 193530,
+      "endTime": 195481,
+      "text": "(Bye, bye)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 194601,
+          "endTime": 195008,
+          "word": "(Bye,"
+        },
+        {
+          "startTime": 195008,
+          "endTime": 195481,
+          "word": "bye)"
+        }
+      ]
+    }
+  ]
+}
