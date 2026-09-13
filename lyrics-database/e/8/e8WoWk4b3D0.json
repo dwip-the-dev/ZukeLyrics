@@ -1,0 +1,3725 @@
+{
+  "videoId": "e8WoWk4b3D0",
+  "title": "Levitating (feat. DaBaby)",
+  "artist": "Dua Lipa",
+  "duration": 204,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.180\" end=\"00:03.062\" ttm:agent=\"v2\">\n        <span begin=\"00:00.180\" end=\"00:00.790\">Billboard<\/span>\n        <span begin=\"00:00.790\" end=\"00:01.105\">Baby,<\/span>\n        <span begin=\"00:01.105\" end=\"00:01.396\">Dua<\/span>\n        <span begin=\"00:01.396\" end=\"00:01.687\">Lipa<\/span>\n        <span begin=\"00:01.687\" end=\"00:01.827\">make<\/span>\n        <span begin=\"00:01.827\" end=\"00:01.979\">&apos;em<\/span>\n        <span begin=\"00:01.979\" end=\"00:02.225\">dance<\/span>\n        <span begin=\"00:02.225\" end=\"00:02.365\">when<\/span>\n        <span begin=\"00:02.365\" end=\"00:02.539\">it<\/span>\n        <span begin=\"00:02.539\" end=\"00:02.761\">come<\/span>\n        <span begin=\"00:02.761\" end=\"00:03.062\">on<\/span>\n      <\/p>\n      <p begin=\"00:03.070\" end=\"00:05.369\" ttm:agent=\"v2\">\n        <span begin=\"00:03.072\" end=\"00:03.751\">E&apos;erybody<\/span>\n        <span begin=\"00:03.751\" end=\"00:04.030\">lookin&apos;<\/span>\n        <span begin=\"00:04.030\" end=\"00:04.160\">for<\/span>\n        <span begin=\"00:04.160\" end=\"00:04.311\">a<\/span>\n        <span begin=\"00:04.311\" end=\"00:04.556\">dance<\/span>\n        <span begin=\"00:04.556\" end=\"00:04.778\">floor<\/span>\n        <span begin=\"00:04.778\" end=\"00:04.906\">to<\/span>\n        <span begin=\"00:04.906\" end=\"00:05.033\">run<\/span>\n        <span begin=\"00:05.033\" end=\"00:05.369\">on<\/span>\n      <\/p>\n      <p begin=\"00:05.470\" end=\"00:09.821\" ttm:agent=\"v1\">\n        <span begin=\"00:05.472\" end=\"00:05.576\">If<\/span>\n        <span begin=\"00:05.576\" end=\"00:05.745\">you<\/span>\n        <span begin=\"00:05.745\" end=\"00:06.064\">wanna<\/span>\n        <span begin=\"00:06.064\" end=\"00:06.183\">run<\/span>\n        <span begin=\"00:06.183\" end=\"00:06.434\">away<\/span>\n        <span begin=\"00:06.434\" end=\"00:06.577\">with<\/span>\n        <span begin=\"00:06.577\" end=\"00:06.719\">me,<\/span>\n        <span begin=\"00:06.719\" end=\"00:06.852\">I<\/span>\n        <span begin=\"00:06.852\" end=\"00:07.002\">know<\/span>\n        <span begin=\"00:07.002\" end=\"00:07.124\">a<\/span>\n        <span begin=\"00:07.124\" end=\"00:07.559\">galaxy<\/span>\n        <span begin=\"00:07.559\" end=\"00:07.704\">and<\/span>\n        <span begin=\"00:07.704\" end=\"00:07.845\">I<\/span>\n        <span begin=\"00:07.845\" end=\"00:08.005\">could<\/span>\n        <span begin=\"00:08.005\" end=\"00:08.166\">take<\/span>\n        <span begin=\"00:08.166\" end=\"00:08.277\">you<\/span>\n        <span begin=\"00:08.277\" end=\"00:08.636\">for<\/span>\n        <span begin=\"00:08.636\" end=\"00:08.796\">a<\/span>\n        <span begin=\"00:08.796\" end=\"00:09.821\">ride<\/span>\n      <\/p>\n      <p begin=\"00:10.000\" end=\"00:12.167\" ttm:agent=\"v1\">\n        <span begin=\"00:10.002\" end=\"00:10.146\">I<\/span>\n        <span begin=\"00:10.146\" end=\"00:10.326\">had<\/span>\n        <span begin=\"00:10.326\" end=\"00:10.476\">a<\/span>\n        <span begin=\"00:10.476\" end=\"00:11.006\">premonition<\/span>\n        <span begin=\"00:11.006\" end=\"00:11.146\">that<\/span>\n        <span begin=\"00:11.146\" end=\"00:11.295\">we<\/span>\n        <span begin=\"00:11.295\" end=\"00:11.446\">fell<\/span>\n        <span begin=\"00:11.446\" end=\"00:11.586\">into<\/span>\n        <span begin=\"00:11.586\" end=\"00:11.726\">a<\/span>\n        <span begin=\"00:11.726\" end=\"00:12.167\">rhythm<\/span>\n      <\/p>\n      <p begin=\"00:12.170\" end=\"00:14.378\" ttm:agent=\"v1\">\n        <span begin=\"00:12.177\" end=\"00:12.302\">Where<\/span>\n        <span begin=\"00:12.302\" end=\"00:12.453\">the<\/span>\n        <span begin=\"00:12.453\" end=\"00:12.712\">music<\/span>\n        <span begin=\"00:12.712\" end=\"00:13.013\">don&apos;t<\/span>\n        <span begin=\"00:13.013\" end=\"00:13.262\">stop<\/span>\n        <span begin=\"00:13.262\" end=\"00:13.562\">for<\/span>\n        <span begin=\"00:13.562\" end=\"00:14.378\">life<\/span>\n      <\/p>\n      <p begin=\"00:14.790\" end=\"00:17.018\" ttm:agent=\"v1\">\n        <span begin=\"00:14.796\" end=\"00:15.094\">Glitter<\/span>\n        <span begin=\"00:15.094\" end=\"00:15.224\">in<\/span>\n        <span begin=\"00:15.224\" end=\"00:15.374\">the<\/span>\n        <span begin=\"00:15.374\" end=\"00:15.955\">sky,<\/span>\n        <span begin=\"00:15.955\" end=\"00:16.245\">glitter<\/span>\n        <span begin=\"00:16.245\" end=\"00:16.395\">in<\/span>\n        <span begin=\"00:16.395\" end=\"00:16.555\">my<\/span>\n        <span begin=\"00:16.555\" end=\"00:17.018\">eyes<\/span>\n      <\/p>\n      <p begin=\"00:17.020\" end=\"00:18.954\" ttm:agent=\"v1\">\n        <span begin=\"00:17.028\" end=\"00:17.387\">Shining<\/span>\n        <span begin=\"00:17.387\" end=\"00:17.537\">just<\/span>\n        <span begin=\"00:17.537\" end=\"00:17.676\">the<\/span>\n        <span begin=\"00:17.676\" end=\"00:17.947\">way<\/span>\n        <span begin=\"00:17.947\" end=\"00:18.227\">I<\/span>\n        <span begin=\"00:18.227\" end=\"00:18.954\">like<\/span>\n      <\/p>\n      <p begin=\"00:19.450\" end=\"00:23.510\" ttm:agent=\"v1\">\n        <span begin=\"00:19.451\" end=\"00:19.591\">If<\/span>\n        <span begin=\"00:19.591\" end=\"00:19.731\">you&apos;re<\/span>\n        <span begin=\"00:19.731\" end=\"00:20.040\">feelin&apos;<\/span>\n        <span begin=\"00:20.040\" end=\"00:20.171\">like<\/span>\n        <span begin=\"00:20.171\" end=\"00:20.320\">you<\/span>\n        <span begin=\"00:20.320\" end=\"00:20.480\">need<\/span>\n        <span begin=\"00:20.480\" end=\"00:20.640\">a<\/span>\n        <span begin=\"00:20.640\" end=\"00:20.911\">little<\/span>\n        <span begin=\"00:20.911\" end=\"00:21.040\">bit<\/span>\n        <span begin=\"00:21.040\" end=\"00:21.200\">of<\/span>\n        <span begin=\"00:21.200\" end=\"00:21.640\">company,<\/span>\n        <span begin=\"00:21.640\" end=\"00:21.781\">you<\/span>\n        <span begin=\"00:21.781\" end=\"00:21.941\">met<\/span>\n        <span begin=\"00:21.941\" end=\"00:22.091\">me<\/span>\n        <span begin=\"00:22.091\" end=\"00:22.231\">at<\/span>\n        <span begin=\"00:22.231\" end=\"00:22.360\">the<\/span>\n        <span begin=\"00:22.360\" end=\"00:22.861\">perfect<\/span>\n        <span begin=\"00:22.861\" end=\"00:23.510\">time<\/span>\n      <\/p>\n      <p begin=\"00:24.610\" end=\"00:26.578\" ttm:agent=\"v1\">\n        <span begin=\"00:24.616\" end=\"00:24.780\">You<\/span>\n        <span begin=\"00:24.780\" end=\"00:25.000\">want<\/span>\n        <span begin=\"00:25.000\" end=\"00:25.109\">me,<\/span>\n        <span begin=\"00:25.751\" end=\"00:25.890\">I<\/span>\n        <span begin=\"00:25.890\" end=\"00:26.020\">want<\/span>\n        <span begin=\"00:26.020\" end=\"00:26.149\">you,<\/span>\n        <span begin=\"00:26.149\" end=\"00:26.578\">baby<\/span>\n      <\/p>\n      <p begin=\"00:26.920\" end=\"00:28.900\" ttm:agent=\"v1\">\n        <span begin=\"00:26.929\" end=\"00:27.064\">My<\/span>\n        <span begin=\"00:27.064\" end=\"00:27.433\">sugarboo,<\/span>\n        <span begin=\"00:28.049\" end=\"00:28.210\">I&apos;m<\/span>\n        <span begin=\"00:28.210\" end=\"00:28.900\">levitating<\/span>\n      <\/p>\n      <p begin=\"00:29.210\" end=\"00:31.109\" ttm:agent=\"v1\">\n        <span begin=\"00:29.213\" end=\"00:29.392\">The<\/span>\n        <span begin=\"00:29.392\" end=\"00:29.652\">Milky<\/span>\n        <span begin=\"00:29.652\" end=\"00:29.772\">Way,<\/span>\n        <span begin=\"00:30.381\" end=\"00:30.532\">we&apos;re<\/span>\n        <span begin=\"00:30.532\" end=\"00:31.109\">renegading<\/span>\n      <\/p>\n      <p begin=\"00:31.150\" end=\"00:32.954\" ttm:agent=\"v1000\">\n        <span begin=\"00:31.151\" end=\"00:31.392\">Yeah,<\/span>\n        <span begin=\"00:31.392\" end=\"00:31.662\">yeah,<\/span>\n        <span begin=\"00:31.662\" end=\"00:31.932\">yeah,<\/span>\n        <span begin=\"00:31.932\" end=\"00:32.222\">yeah,<\/span>\n        <span begin=\"00:32.222\" end=\"00:32.954\">yeah<\/span>\n      <\/p>\n      <p begin=\"00:33.020\" end=\"00:37.672\" ttm:agent=\"v1\">\n        <span begin=\"00:33.027\" end=\"00:33.181\">I<\/span>\n        <span begin=\"00:33.181\" end=\"00:33.421\">got<\/span>\n        <span begin=\"00:33.421\" end=\"00:33.631\">you,<\/span>\n        <span begin=\"00:34.570\" end=\"00:35.240\">moonlight,<\/span>\n        <span begin=\"00:35.781\" end=\"00:36.231\">you&apos;re<\/span>\n        <span begin=\"00:36.231\" end=\"00:36.501\">my<\/span>\n        <span begin=\"00:36.911\" end=\"00:37.672\">starlight<\/span>\n      <\/p>\n      <p begin=\"00:37.680\" end=\"00:41.622\" ttm:agent=\"v1\">\n        <span begin=\"00:37.682\" end=\"00:37.854\">I<\/span>\n        <span begin=\"00:37.854\" end=\"00:38.074\">need<\/span>\n        <span begin=\"00:38.074\" end=\"00:38.471\">you<\/span>\n        <span begin=\"00:39.214\" end=\"00:39.703\">all<\/span>\n        <span begin=\"00:39.703\" end=\"00:39.991\">night,<\/span>\n        <span begin=\"00:40.450\" end=\"00:40.570\">come<\/span>\n        <span begin=\"00:40.570\" end=\"00:40.899\">on,<\/span>\n        <span begin=\"00:40.899\" end=\"00:41.170\">dance<\/span>\n        <span begin=\"00:41.170\" end=\"00:41.270\">with<\/span>\n        <span begin=\"00:41.275\" end=\"00:41.622\">me<\/span>\n      <\/p>\n      <p begin=\"00:42.080\" end=\"00:42.789\" ttm:agent=\"v1\">\n        <span begin=\"00:42.080\" end=\"00:42.180\">I&apos;m<\/span>\n        <span begin=\"00:42.180\" end=\"00:42.789\">levitating<\/span>\n      <\/p>\n      <p begin=\"00:42.790\" end=\"00:46.921\" ttm:agent=\"v1\">\n        <span begin=\"00:42.799\" end=\"00:43.328\">You,<\/span>\n        <span begin=\"00:43.929\" end=\"00:44.699\">moonlight,<\/span>\n        <span begin=\"00:45.099\" end=\"00:45.522\">you&apos;re<\/span>\n        <span begin=\"00:45.527\" end=\"00:45.778\">my<\/span>\n        <span begin=\"00:46.238\" end=\"00:46.921\">starlight<\/span>\n      <\/p>\n      <p begin=\"00:46.930\" end=\"00:50.936\" ttm:agent=\"v1\">\n        <span begin=\"00:46.931\" end=\"00:47.092\">I<\/span>\n        <span begin=\"00:47.092\" end=\"00:47.393\">need<\/span>\n        <span begin=\"00:47.393\" end=\"00:47.725\">you<\/span>\n        <span begin=\"00:48.523\" end=\"00:49.033\">all<\/span>\n        <span begin=\"00:49.033\" end=\"00:49.419\">night,<\/span>\n        <span begin=\"00:49.744\" end=\"00:49.883\">come<\/span>\n        <span begin=\"00:49.883\" end=\"00:50.184\">on,<\/span>\n        <span begin=\"00:50.184\" end=\"00:50.493\">dance<\/span>\n        <span begin=\"00:50.493\" end=\"00:50.633\">with<\/span>\n        <span begin=\"00:50.633\" end=\"00:50.936\">me<\/span>\n      <\/p>\n      <p begin=\"00:51.380\" end=\"00:52.183\" ttm:agent=\"v1\">\n        <span begin=\"00:51.383\" end=\"00:51.499\">I&apos;m<\/span>\n        <span begin=\"00:51.499\" end=\"00:52.183\">levitating<\/span>\n      <\/p>\n      <p begin=\"00:52.530\" end=\"00:54.728\" ttm:agent=\"v2\">\n        <span begin=\"00:52.539\" end=\"00:52.703\">I&apos;m<\/span>\n        <span begin=\"00:52.703\" end=\"00:52.823\">one<\/span>\n        <span begin=\"00:52.823\" end=\"00:52.973\">of<\/span>\n        <span begin=\"00:52.973\" end=\"00:53.122\">the<\/span>\n        <span begin=\"00:53.122\" end=\"00:53.469\">greatest,<\/span>\n        <span begin=\"00:53.469\" end=\"00:53.642\">ain&apos;t<\/span>\n        <span begin=\"00:53.642\" end=\"00:53.762\">no<\/span>\n        <span begin=\"00:53.762\" end=\"00:54.133\">debatin&apos;<\/span>\n        <span begin=\"00:54.133\" end=\"00:54.282\">on<\/span>\n        <span begin=\"00:54.282\" end=\"00:54.728\">it<\/span>\n      <\/p>\n      <p begin=\"00:54.810\" end=\"00:56.945\" ttm:agent=\"v2\">\n        <span begin=\"00:54.810\" end=\"00:54.985\">I&apos;m<\/span>\n        <span begin=\"00:54.985\" end=\"00:55.178\">still<\/span>\n        <span begin=\"00:55.178\" end=\"00:55.778\">levitated,<\/span>\n        <span begin=\"00:55.778\" end=\"00:55.908\">I&apos;m<\/span>\n        <span begin=\"00:55.908\" end=\"00:56.308\">heavily<\/span>\n        <span begin=\"00:56.308\" end=\"00:56.945\">medicated<\/span>\n      <\/p>\n      <p begin=\"00:56.900\" end=\"00:59.064\" ttm:agent=\"v2\">\n        <span begin=\"00:56.902\" end=\"00:57.305\">Ironic<\/span>\n        <span begin=\"00:57.305\" end=\"00:57.405\">I<\/span>\n        <span begin=\"00:57.405\" end=\"00:57.598\">gave<\/span>\n        <span begin=\"00:57.598\" end=\"00:57.747\">&apos;em<\/span>\n        <span begin=\"00:57.747\" end=\"00:57.878\">love<\/span>\n        <span begin=\"00:57.878\" end=\"00:58.038\">and<\/span>\n        <span begin=\"00:58.038\" end=\"00:58.178\">they<\/span>\n        <span begin=\"00:58.178\" end=\"00:58.378\">end<\/span>\n        <span begin=\"00:58.378\" end=\"00:58.498\">up<\/span>\n        <span begin=\"00:58.498\" end=\"00:58.768\">hatin&apos;<\/span>\n        <span begin=\"00:58.768\" end=\"00:58.907\">on<\/span>\n        <span begin=\"00:58.907\" end=\"00:59.064\">me<\/span>\n      <\/p>\n      <p begin=\"00:59.430\" end=\"01:01.158\" ttm:agent=\"v2\">\n        <span begin=\"00:59.434\" end=\"00:59.681\">She<\/span>\n        <span begin=\"00:59.681\" end=\"00:59.809\">told<\/span>\n        <span begin=\"00:59.809\" end=\"00:59.938\">me<\/span>\n        <span begin=\"00:59.938\" end=\"01:00.079\">she<\/span>\n        <span begin=\"01:00.079\" end=\"01:00.239\">love<\/span>\n        <span begin=\"01:00.239\" end=\"01:00.378\">me<\/span>\n        <span begin=\"01:00.378\" end=\"01:00.508\">and<\/span>\n        <span begin=\"01:00.508\" end=\"01:00.649\">she<\/span>\n        <span begin=\"01:00.649\" end=\"01:00.788\">been<\/span>\n        <span begin=\"01:00.788\" end=\"01:01.158\">waitin&apos;<\/span>\n      <\/p>\n      <p begin=\"01:01.130\" end=\"01:03.610\" ttm:agent=\"v2\">\n        <span begin=\"01:01.137\" end=\"01:01.358\">Been<\/span>\n        <span begin=\"01:01.358\" end=\"01:01.649\">fightin&apos;<\/span>\n        <span begin=\"01:01.649\" end=\"01:01.789\">hard<\/span>\n        <span begin=\"01:01.789\" end=\"01:01.918\">for<\/span>\n        <span begin=\"01:01.918\" end=\"01:02.038\">your<\/span>\n        <span begin=\"01:02.038\" end=\"01:02.179\">love<\/span>\n        <span begin=\"01:02.179\" end=\"01:02.329\">and<\/span>\n        <span begin=\"01:02.329\" end=\"01:02.459\">I&apos;m<\/span>\n        <span begin=\"01:02.459\" end=\"01:02.739\">runnin&apos;<\/span>\n        <span begin=\"01:02.739\" end=\"01:02.878\">thin<\/span>\n        <span begin=\"01:02.878\" end=\"01:03.009\">on<\/span>\n        <span begin=\"01:03.009\" end=\"01:03.149\">my<\/span>\n        <span begin=\"01:03.149\" end=\"01:03.610\">patience<\/span>\n      <\/p>\n      <p begin=\"01:03.600\" end=\"01:05.912\" ttm:agent=\"v2\">\n        <span begin=\"01:03.609\" end=\"01:03.955\">Needed<\/span>\n        <span begin=\"01:03.955\" end=\"01:04.215\">someone<\/span>\n        <span begin=\"01:04.215\" end=\"01:04.336\">to<\/span>\n        <span begin=\"01:04.336\" end=\"01:04.474\">hug,<\/span>\n        <span begin=\"01:04.474\" end=\"01:04.754\">even<\/span>\n        <span begin=\"01:04.754\" end=\"01:04.896\">took<\/span>\n        <span begin=\"01:04.896\" end=\"01:05.046\">it<\/span>\n        <span begin=\"01:05.046\" end=\"01:05.176\">back<\/span>\n        <span begin=\"01:05.176\" end=\"01:05.296\">to<\/span>\n        <span begin=\"01:05.296\" end=\"01:05.425\">the<\/span>\n        <span begin=\"01:05.425\" end=\"01:05.912\">basics<\/span>\n      <\/p>\n      <p begin=\"01:05.950\" end=\"01:07.542\" ttm:agent=\"v2\">\n        <span begin=\"01:05.958\" end=\"01:06.112\">You<\/span>\n        <span begin=\"01:06.112\" end=\"01:06.212\">see<\/span>\n        <span begin=\"01:06.212\" end=\"01:06.312\">what<\/span>\n        <span begin=\"01:06.312\" end=\"01:06.412\">you<\/span>\n        <span begin=\"01:06.412\" end=\"01:06.523\">got<\/span>\n        <span begin=\"01:06.523\" end=\"01:06.662\">me<\/span>\n        <span begin=\"01:06.662\" end=\"01:06.803\">out<\/span>\n        <span begin=\"01:06.803\" end=\"01:06.952\">here<\/span>\n        <span begin=\"01:06.952\" end=\"01:07.262\">doin&apos;?<\/span>\n        <span begin=\"01:07.262\" end=\"01:07.542\">(Yeah)<\/span>\n      <\/p>\n      <p begin=\"01:07.450\" end=\"01:09.673\" ttm:agent=\"v2\">\n        <span begin=\"01:07.452\" end=\"01:07.787\">Mighta<\/span>\n        <span begin=\"01:07.787\" end=\"01:07.928\">threw<\/span>\n        <span begin=\"01:07.928\" end=\"01:08.057\">me<\/span>\n        <span begin=\"01:08.057\" end=\"01:08.196\">off,<\/span>\n        <span begin=\"01:08.196\" end=\"01:08.337\">but<\/span>\n        <span begin=\"01:08.337\" end=\"01:08.457\">can&apos;t<\/span>\n        <span begin=\"01:08.457\" end=\"01:08.817\">nobody<\/span>\n        <span begin=\"01:08.817\" end=\"01:08.947\">stop<\/span>\n        <span begin=\"01:08.947\" end=\"01:09.076\">the<\/span>\n        <span begin=\"01:09.076\" end=\"01:09.673\">movement<\/span>\n      <\/p>\n      <p begin=\"01:09.730\" end=\"01:12.929\" ttm:agent=\"v2\">\n        <span begin=\"01:09.736\" end=\"01:10.166\">Uh-uh,<\/span>\n        <span begin=\"01:10.294\" end=\"01:10.467\">let&apos;s<\/span>\n        <span begin=\"01:10.467\" end=\"01:10.676\">go,<\/span>\n        <span begin=\"01:10.730\" end=\"01:11.036\">left<\/span>\n        <span begin=\"01:11.036\" end=\"01:11.216\">foot,<\/span>\n        <span begin=\"01:11.586\" end=\"01:11.845\">right<\/span>\n        <span begin=\"01:11.845\" end=\"01:12.164\">foot,<\/span>\n        <span begin=\"01:12.164\" end=\"01:12.929\">levitatin&apos;<\/span>\n      <\/p>\n      <p begin=\"01:13.090\" end=\"01:15.083\" ttm:agent=\"v2\">\n        <span begin=\"01:13.096\" end=\"01:13.346\">Pop<\/span>\n        <span begin=\"01:13.346\" end=\"01:13.586\">stars,<\/span>\n        <span begin=\"01:13.908\" end=\"01:14.208\">Dua<\/span>\n        <span begin=\"01:14.208\" end=\"01:14.498\">Lipa<\/span>\n        <span begin=\"01:14.498\" end=\"01:14.648\">with<\/span>\n        <span begin=\"01:14.648\" end=\"01:15.083\">DaBaby<\/span>\n      <\/p>\n      <p begin=\"01:15.250\" end=\"01:17.604\" ttm:agent=\"v2\">\n        <span begin=\"01:15.252\" end=\"01:15.352\">I<\/span>\n        <span begin=\"01:15.352\" end=\"01:15.470\">had<\/span>\n        <span begin=\"01:15.470\" end=\"01:15.614\">to<\/span>\n        <span begin=\"01:15.614\" end=\"01:15.852\">lace<\/span>\n        <span begin=\"01:15.852\" end=\"01:15.972\">my<\/span>\n        <span begin=\"01:15.972\" end=\"01:16.132\">shoes<\/span>\n        <span begin=\"01:16.132\" end=\"01:16.243\">for<\/span>\n        <span begin=\"01:16.243\" end=\"01:16.422\">all<\/span>\n        <span begin=\"01:16.422\" end=\"01:16.532\">the<\/span>\n        <span begin=\"01:16.532\" end=\"01:16.819\">blessings<\/span>\n        <span begin=\"01:16.819\" end=\"01:16.919\">I<\/span>\n        <span begin=\"01:16.919\" end=\"01:17.102\">was<\/span>\n        <span begin=\"01:17.102\" end=\"01:17.371\">chasin&apos;<\/span>\n        <span begin=\"01:17.371\" end=\"01:17.604\">(Go)<\/span>\n      <\/p>\n      <p begin=\"01:17.490\" end=\"01:19.854\" ttm:agent=\"v2\">\n        <span begin=\"01:17.496\" end=\"01:17.596\">If<\/span>\n        <span begin=\"01:17.596\" end=\"01:17.696\">I<\/span>\n        <span begin=\"01:17.696\" end=\"01:17.976\">ever<\/span>\n        <span begin=\"01:17.976\" end=\"01:18.168\">slip,<\/span>\n        <span begin=\"01:18.168\" end=\"01:18.307\">I&apos;ll<\/span>\n        <span begin=\"01:18.307\" end=\"01:18.457\">fall<\/span>\n        <span begin=\"01:18.457\" end=\"01:18.747\">into<\/span>\n        <span begin=\"01:18.747\" end=\"01:18.896\">a<\/span>\n        <span begin=\"01:18.896\" end=\"01:19.176\">better<\/span>\n        <span begin=\"01:19.176\" end=\"01:19.854\">situation<\/span>\n      <\/p>\n      <p begin=\"01:19.880\" end=\"01:22.884\" ttm:agent=\"v2\">\n        <span begin=\"01:19.883\" end=\"01:20.053\">So<\/span>\n        <span begin=\"01:20.053\" end=\"01:20.224\">catch<\/span>\n        <span begin=\"01:20.224\" end=\"01:20.402\">up,<\/span>\n        <span begin=\"01:20.801\" end=\"01:20.933\">go<\/span>\n        <span begin=\"01:20.933\" end=\"01:21.053\">put<\/span>\n        <span begin=\"01:21.053\" end=\"01:21.192\">some<\/span>\n        <span begin=\"01:21.192\" end=\"01:21.322\">cheese<\/span>\n        <span begin=\"01:21.322\" end=\"01:21.482\">on<\/span>\n        <span begin=\"01:21.482\" end=\"01:21.642\">it,<\/span>\n        <span begin=\"01:21.642\" end=\"01:21.792\">get<\/span>\n        <span begin=\"01:21.792\" end=\"01:21.943\">out<\/span>\n        <span begin=\"01:21.943\" end=\"01:22.093\">and<\/span>\n        <span begin=\"01:22.093\" end=\"01:22.213\">get<\/span>\n        <span begin=\"01:22.213\" end=\"01:22.362\">your<\/span>\n        <span begin=\"01:22.362\" end=\"01:22.533\">bread<\/span>\n        <span begin=\"01:22.533\" end=\"01:22.884\">up<\/span>\n      <\/p>\n      <p begin=\"01:19.880\" end=\"01:23.259\" role=\"x-bg\">\n        <span begin=\"01:22.655\" end=\"01:22.946\">(Yeah,<\/span>\n        <span begin=\"01:22.946\" end=\"01:23.259\">yeah)<\/span>\n      <\/p>\n      <p begin=\"01:23.140\" end=\"01:25.429\" ttm:agent=\"v2\">\n        <span begin=\"01:23.142\" end=\"01:23.264\">They<\/span>\n        <span begin=\"01:23.264\" end=\"01:23.544\">always<\/span>\n        <span begin=\"01:23.544\" end=\"01:23.714\">leave<\/span>\n        <span begin=\"01:23.714\" end=\"01:23.834\">when<\/span>\n        <span begin=\"01:23.834\" end=\"01:23.994\">you<\/span>\n        <span begin=\"01:23.994\" end=\"01:24.260\">fall,<\/span>\n        <span begin=\"01:24.260\" end=\"01:24.371\">but<\/span>\n        <span begin=\"01:24.371\" end=\"01:24.504\">you<\/span>\n        <span begin=\"01:24.504\" end=\"01:24.614\">run<\/span>\n        <span begin=\"01:24.614\" end=\"01:25.429\">together<\/span>\n      <\/p>\n      <p begin=\"01:23.140\" end=\"01:25.587\" role=\"x-bg\">\n        <span begin=\"01:25.358\" end=\"01:25.587\">(Hey)<\/span>\n      <\/p>\n      <p begin=\"01:25.390\" end=\"01:27.392\" ttm:agent=\"v2\">\n        <span begin=\"01:25.396\" end=\"01:25.584\">Weight<\/span>\n        <span begin=\"01:25.584\" end=\"01:25.754\">of<\/span>\n        <span begin=\"01:25.754\" end=\"01:25.874\">the<\/span>\n        <span begin=\"01:25.874\" end=\"01:26.033\">world<\/span>\n        <span begin=\"01:26.033\" end=\"01:26.134\">on<\/span>\n        <span begin=\"01:26.134\" end=\"01:26.234\">my<\/span>\n        <span begin=\"01:26.234\" end=\"01:26.539\">shoulders,<\/span>\n        <span begin=\"01:26.539\" end=\"01:26.639\">I<\/span>\n        <span begin=\"01:26.639\" end=\"01:26.783\">kept<\/span>\n        <span begin=\"01:26.783\" end=\"01:26.904\">my<\/span>\n        <span begin=\"01:26.904\" end=\"01:27.024\">head<\/span>\n        <span begin=\"01:27.024\" end=\"01:27.392\">up<\/span>\n      <\/p>\n      <p begin=\"01:27.740\" end=\"01:28.636\" ttm:agent=\"v2\">\n        <span begin=\"01:27.740\" end=\"01:27.907\">Now,<\/span>\n        <span begin=\"01:27.907\" end=\"01:28.161\">baby,<\/span>\n        <span begin=\"01:28.161\" end=\"01:28.340\">stand<\/span>\n        <span begin=\"01:28.340\" end=\"01:28.636\">up<\/span>\n      <\/p>\n      <p begin=\"01:28.910\" end=\"01:29.453\" ttm:agent=\"v2\">\n        <span begin=\"01:28.919\" end=\"01:29.084\">&apos;Cause,<\/span>\n        <span begin=\"01:29.084\" end=\"01:29.204\">girl,<\/span>\n        <span begin=\"01:29.204\" end=\"01:29.453\">you<\/span>\n      <\/p>\n      <p begin=\"01:29.760\" end=\"01:31.746\" ttm:agent=\"v1\">\n        <span begin=\"01:29.764\" end=\"01:30.000\">You<\/span>\n        <span begin=\"01:30.000\" end=\"01:30.240\">want<\/span>\n        <span begin=\"01:30.240\" end=\"01:30.619\">me,<\/span>\n        <span begin=\"01:30.914\" end=\"01:31.039\">I<\/span>\n        <span begin=\"01:31.039\" end=\"01:31.200\">want<\/span>\n        <span begin=\"01:31.200\" end=\"01:31.379\">you,<\/span>\n        <span begin=\"01:31.379\" end=\"01:31.746\">baby<\/span>\n      <\/p>\n      <p begin=\"01:30.520\" end=\"01:32.071\" ttm:agent=\"v2\">\n        <span begin=\"01:30.529\" end=\"01:30.880\">Hey,<\/span>\n        <span begin=\"01:31.720\" end=\"01:32.071\">hey<\/span>\n      <\/p>\n      <p begin=\"01:32.130\" end=\"01:34.134\" ttm:agent=\"v1\">\n        <span begin=\"01:32.138\" end=\"01:32.283\">My<\/span>\n        <span begin=\"01:32.283\" end=\"01:32.893\">sugarboo,<\/span>\n        <span begin=\"01:33.316\" end=\"01:33.436\">I&apos;m<\/span>\n        <span begin=\"01:33.436\" end=\"01:34.134\">levitating<\/span>\n      <\/p>\n      <p begin=\"01:34.420\" end=\"01:36.376\" ttm:agent=\"v1\">\n        <span begin=\"01:34.422\" end=\"01:34.622\">The<\/span>\n        <span begin=\"01:34.622\" end=\"01:34.883\">Milky<\/span>\n        <span begin=\"01:34.883\" end=\"01:35.152\">Way,<\/span>\n        <span begin=\"01:35.622\" end=\"01:35.763\">we&apos;re<\/span>\n        <span begin=\"01:35.763\" end=\"01:36.376\">renegading<\/span>\n      <\/p>\n      <p begin=\"01:36.370\" end=\"01:38.102\" ttm:agent=\"v1000\">\n        <span begin=\"01:36.374\" end=\"01:36.618\">Yeah,<\/span>\n        <span begin=\"01:36.618\" end=\"01:36.907\">yeah,<\/span>\n        <span begin=\"01:36.907\" end=\"01:37.178\">yeah,<\/span>\n        <span begin=\"01:37.178\" end=\"01:37.448\">yeah,<\/span>\n        <span begin=\"01:37.448\" end=\"01:38.102\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:38.180\" end=\"01:42.848\" ttm:agent=\"v1\">\n        <span begin=\"01:38.186\" end=\"01:38.363\">I<\/span>\n        <span begin=\"01:38.363\" end=\"01:38.721\">got<\/span>\n        <span begin=\"01:38.721\" end=\"01:39.281\">you,<\/span>\n        <span begin=\"01:39.830\" end=\"01:40.691\">moonlight,<\/span>\n        <span begin=\"01:41.020\" end=\"01:41.500\">you&apos;re<\/span>\n        <span begin=\"01:41.500\" end=\"01:41.870\">my<\/span>\n        <span begin=\"01:42.170\" end=\"01:42.848\">starlight<\/span>\n      <\/p>\n      <p begin=\"01:42.850\" end=\"01:47.134\" ttm:agent=\"v1\">\n        <span begin=\"01:42.858\" end=\"01:43.032\">I<\/span>\n        <span begin=\"01:43.032\" end=\"01:43.344\">need<\/span>\n        <span begin=\"01:43.344\" end=\"01:43.845\">you<\/span>\n        <span begin=\"01:44.402\" end=\"01:44.869\">all<\/span>\n        <span begin=\"01:44.869\" end=\"01:45.293\">night,<\/span>\n        <span begin=\"01:45.645\" end=\"01:45.834\">come<\/span>\n        <span begin=\"01:45.834\" end=\"01:46.104\">on,<\/span>\n        <span begin=\"01:46.104\" end=\"01:46.384\">dance<\/span>\n        <span begin=\"01:46.384\" end=\"01:46.535\">with<\/span>\n        <span begin=\"01:46.535\" end=\"01:47.134\">me<\/span>\n      <\/p>\n      <p begin=\"01:47.280\" end=\"01:47.991\" ttm:agent=\"v1\">\n        <span begin=\"01:47.286\" end=\"01:47.405\">I&apos;m<\/span>\n        <span begin=\"01:47.405\" end=\"01:47.991\">levitating<\/span>\n      <\/p>\n      <p begin=\"01:48.000\" end=\"01:52.148\" ttm:agent=\"v1\">\n        <span begin=\"01:48.002\" end=\"01:48.574\">You,<\/span>\n        <span begin=\"01:49.164\" end=\"01:49.993\">moonlight,<\/span>\n        <span begin=\"01:50.334\" end=\"01:50.688\">you&apos;re<\/span>\n        <span begin=\"01:50.693\" end=\"01:51.134\">my<\/span>\n        <span begin=\"01:51.463\" end=\"01:52.148\">starlight<\/span>\n      <\/p>\n      <p begin=\"01:52.150\" end=\"01:56.408\" ttm:agent=\"v1\">\n        <span begin=\"01:52.158\" end=\"01:52.329\">I<\/span>\n        <span begin=\"01:52.329\" end=\"01:52.672\">need<\/span>\n        <span begin=\"01:52.672\" end=\"01:53.162\">you<\/span>\n        <span begin=\"01:53.718\" end=\"01:54.229\">all<\/span>\n        <span begin=\"01:54.229\" end=\"01:54.628\">night,<\/span>\n        <span begin=\"01:54.948\" end=\"01:55.090\">come<\/span>\n        <span begin=\"01:55.090\" end=\"01:55.410\">on,<\/span>\n        <span begin=\"01:55.410\" end=\"01:55.690\">dance<\/span>\n        <span begin=\"01:55.690\" end=\"01:55.819\">with<\/span>\n        <span begin=\"01:55.819\" end=\"01:56.408\">me<\/span>\n      <\/p>\n      <p begin=\"01:56.580\" end=\"01:57.394\" ttm:agent=\"v1\">\n        <span begin=\"01:56.581\" end=\"01:56.725\">I&apos;m<\/span>\n        <span begin=\"01:56.725\" end=\"01:57.394\">levitating<\/span>\n      <\/p>\n      <p begin=\"01:57.900\" end=\"01:59.768\" ttm:agent=\"v1\">\n        <span begin=\"01:57.908\" end=\"01:58.024\">You<\/span>\n        <span begin=\"01:58.024\" end=\"01:58.152\">can<\/span>\n        <span begin=\"01:58.152\" end=\"01:58.294\">fly<\/span>\n        <span begin=\"01:58.294\" end=\"01:58.734\">away<\/span>\n        <span begin=\"01:58.734\" end=\"01:58.892\">with<\/span>\n        <span begin=\"01:58.892\" end=\"01:59.184\">me<\/span>\n        <span begin=\"01:59.184\" end=\"01:59.768\">tonight<\/span>\n      <\/p>\n      <p begin=\"02:00.110\" end=\"02:02.299\" ttm:agent=\"v1\">\n        <span begin=\"02:00.113\" end=\"02:00.353\">You<\/span>\n        <span begin=\"02:00.353\" end=\"02:00.473\">can<\/span>\n        <span begin=\"02:00.473\" end=\"02:00.633\">fly<\/span>\n        <span begin=\"02:00.633\" end=\"02:01.073\">away<\/span>\n        <span begin=\"02:01.073\" end=\"02:01.233\">with<\/span>\n        <span begin=\"02:01.233\" end=\"02:01.513\">me<\/span>\n        <span begin=\"02:01.513\" end=\"02:02.299\">tonight<\/span>\n      <\/p>\n      <p begin=\"02:02.450\" end=\"02:04.312\" ttm:agent=\"v1\">\n        <span begin=\"02:02.450\" end=\"02:02.844\">Baby,<\/span>\n        <span begin=\"02:02.844\" end=\"02:02.983\">let<\/span>\n        <span begin=\"02:02.983\" end=\"02:03.164\">me<\/span>\n        <span begin=\"02:03.164\" end=\"02:03.433\">take<\/span>\n        <span begin=\"02:03.433\" end=\"02:03.614\">you<\/span>\n        <span begin=\"02:03.614\" end=\"02:03.873\">for<\/span>\n        <span begin=\"02:03.873\" end=\"02:04.033\">a<\/span>\n        <span begin=\"02:04.033\" end=\"02:04.312\">ride<\/span>\n      <\/p>\n      <p begin=\"02:04.320\" end=\"02:05.772\" ttm:agent=\"v1000\">\n        <span begin=\"02:04.322\" end=\"02:04.586\">Yeah,<\/span>\n        <span begin=\"02:04.586\" end=\"02:04.845\">yeah,<\/span>\n        <span begin=\"02:04.845\" end=\"02:05.116\">yeah,<\/span>\n        <span begin=\"02:05.116\" end=\"02:05.386\">yeah,<\/span>\n        <span begin=\"02:05.386\" end=\"02:05.772\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:05.880\" end=\"02:07.212\" ttm:agent=\"v1\">\n        <span begin=\"02:05.886\" end=\"02:06.059\">I&apos;m<\/span>\n        <span begin=\"02:06.059\" end=\"02:06.649\">levitating<\/span>\n        <span begin=\"02:06.649\" end=\"02:07.212\">(Woo)<\/span>\n      <\/p>\n      <p begin=\"02:07.220\" end=\"02:09.026\" ttm:agent=\"v1\">\n        <span begin=\"02:07.222\" end=\"02:07.352\">You<\/span>\n        <span begin=\"02:07.352\" end=\"02:07.482\">can<\/span>\n        <span begin=\"02:07.482\" end=\"02:07.602\">fly<\/span>\n        <span begin=\"02:07.602\" end=\"02:08.082\">away<\/span>\n        <span begin=\"02:08.082\" end=\"02:08.232\">with<\/span>\n        <span begin=\"02:08.232\" end=\"02:08.512\">me<\/span>\n        <span begin=\"02:08.512\" end=\"02:09.026\">tonight<\/span>\n      <\/p>\n      <p begin=\"02:09.380\" end=\"02:11.560\" ttm:agent=\"v1\">\n        <span begin=\"02:09.380\" end=\"02:09.673\">You<\/span>\n        <span begin=\"02:09.673\" end=\"02:09.822\">can<\/span>\n        <span begin=\"02:09.822\" end=\"02:09.953\">fly<\/span>\n        <span begin=\"02:09.953\" end=\"02:10.412\">away<\/span>\n        <span begin=\"02:10.412\" end=\"02:10.592\">with<\/span>\n        <span begin=\"02:10.592\" end=\"02:10.852\">me<\/span>\n        <span begin=\"02:10.852\" end=\"02:11.560\">tonight<\/span>\n      <\/p>\n      <p begin=\"02:11.750\" end=\"02:13.631\" ttm:agent=\"v1\">\n        <span begin=\"02:11.754\" end=\"02:12.156\">Baby,<\/span>\n        <span begin=\"02:12.156\" end=\"02:12.286\">let<\/span>\n        <span begin=\"02:12.286\" end=\"02:12.465\">me<\/span>\n        <span begin=\"02:12.465\" end=\"02:12.716\">take<\/span>\n        <span begin=\"02:12.716\" end=\"02:12.921\">you<\/span>\n        <span begin=\"02:12.921\" end=\"02:13.175\">for<\/span>\n        <span begin=\"02:13.175\" end=\"02:13.305\">a<\/span>\n        <span begin=\"02:13.305\" end=\"02:13.631\">ride<\/span>\n      <\/p>\n      <p begin=\"02:13.640\" end=\"02:15.173\" ttm:agent=\"v1000\">\n        <span begin=\"02:13.641\" end=\"02:13.888\">Yeah,<\/span>\n        <span begin=\"02:13.888\" end=\"02:14.136\">yeah,<\/span>\n        <span begin=\"02:14.136\" end=\"02:14.406\">yeah,<\/span>\n        <span begin=\"02:14.406\" end=\"02:14.696\">yeah,<\/span>\n        <span begin=\"02:14.696\" end=\"02:15.173\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:15.730\" end=\"02:17.986\" ttm:agent=\"v1\">\n        <span begin=\"02:15.738\" end=\"02:15.951\">My<\/span>\n        <span begin=\"02:15.951\" end=\"02:16.111\">love<\/span>\n        <span begin=\"02:16.111\" end=\"02:16.262\">is<\/span>\n        <span begin=\"02:16.262\" end=\"02:16.410\">like<\/span>\n        <span begin=\"02:16.410\" end=\"02:16.561\">a<\/span>\n        <span begin=\"02:16.561\" end=\"02:16.822\">rocket,<\/span>\n        <span begin=\"02:16.822\" end=\"02:16.961\">watch<\/span>\n        <span begin=\"02:16.961\" end=\"02:17.102\">it<\/span>\n        <span begin=\"02:17.102\" end=\"02:17.361\">blast<\/span>\n        <span begin=\"02:17.361\" end=\"02:17.986\">off<\/span>\n      <\/p>\n      <p begin=\"02:17.990\" end=\"02:20.340\" ttm:agent=\"v1\">\n        <span begin=\"02:17.996\" end=\"02:18.139\">And<\/span>\n        <span begin=\"02:18.139\" end=\"02:18.299\">I&apos;m<\/span>\n        <span begin=\"02:18.299\" end=\"02:18.588\">feelin&apos;<\/span>\n        <span begin=\"02:18.588\" end=\"02:18.728\">so<\/span>\n        <span begin=\"02:18.728\" end=\"02:19.139\">electric,<\/span>\n        <span begin=\"02:19.139\" end=\"02:19.280\">dance<\/span>\n        <span begin=\"02:19.280\" end=\"02:19.419\">my<\/span>\n        <span begin=\"02:19.419\" end=\"02:19.708\">ass<\/span>\n        <span begin=\"02:19.708\" end=\"02:20.340\">off<\/span>\n      <\/p>\n      <p begin=\"02:20.490\" end=\"02:22.500\" ttm:agent=\"v1\">\n        <span begin=\"02:20.492\" end=\"02:20.648\">And<\/span>\n        <span begin=\"02:20.648\" end=\"02:20.916\">even<\/span>\n        <span begin=\"02:20.916\" end=\"02:21.057\">if<\/span>\n        <span begin=\"02:21.057\" end=\"02:21.196\">I<\/span>\n        <span begin=\"02:21.196\" end=\"02:21.457\">wanted<\/span>\n        <span begin=\"02:21.457\" end=\"02:21.596\">to<\/span>\n        <span begin=\"02:21.596\" end=\"02:21.756\">I<\/span>\n        <span begin=\"02:21.756\" end=\"02:22.036\">can&apos;t<\/span>\n        <span begin=\"02:22.036\" end=\"02:22.500\">stop<\/span>\n      <\/p>\n      <p begin=\"02:22.980\" end=\"02:25.122\" ttm:agent=\"v1000\">\n        <span begin=\"02:22.983\" end=\"02:23.395\">Yeah,<\/span>\n        <span begin=\"02:23.395\" end=\"02:23.774\">yeah,<\/span>\n        <span begin=\"02:23.774\" end=\"02:24.195\">yeah,<\/span>\n        <span begin=\"02:24.195\" end=\"02:24.614\">yeah,<\/span>\n        <span begin=\"02:24.614\" end=\"02:25.122\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:25.130\" end=\"02:27.215\" ttm:agent=\"v1\">\n        <span begin=\"02:25.132\" end=\"02:25.312\">My<\/span>\n        <span begin=\"02:25.312\" end=\"02:25.443\">love<\/span>\n        <span begin=\"02:25.443\" end=\"02:25.572\">is<\/span>\n        <span begin=\"02:25.572\" end=\"02:25.702\">like<\/span>\n        <span begin=\"02:25.702\" end=\"02:25.862\">a<\/span>\n        <span begin=\"02:25.862\" end=\"02:26.172\">rocket,<\/span>\n        <span begin=\"02:26.172\" end=\"02:26.302\">watch<\/span>\n        <span begin=\"02:26.302\" end=\"02:26.433\">it<\/span>\n        <span begin=\"02:26.433\" end=\"02:26.723\">blast<\/span>\n        <span begin=\"02:26.723\" end=\"02:27.215\">off<\/span>\n      <\/p>\n      <p begin=\"02:27.220\" end=\"02:29.650\" ttm:agent=\"v1\">\n        <span begin=\"02:27.225\" end=\"02:27.435\">And<\/span>\n        <span begin=\"02:27.435\" end=\"02:27.595\">I&apos;m<\/span>\n        <span begin=\"02:27.595\" end=\"02:27.894\">feelin&apos;<\/span>\n        <span begin=\"02:27.894\" end=\"02:28.045\">so<\/span>\n        <span begin=\"02:28.045\" end=\"02:28.475\">electric,<\/span>\n        <span begin=\"02:28.475\" end=\"02:28.614\">dance<\/span>\n        <span begin=\"02:28.614\" end=\"02:28.765\">my<\/span>\n        <span begin=\"02:28.765\" end=\"02:29.025\">ass<\/span>\n        <span begin=\"02:29.025\" end=\"02:29.650\">off<\/span>\n      <\/p>\n      <p begin=\"02:29.820\" end=\"02:31.879\" ttm:agent=\"v1\">\n        <span begin=\"02:29.825\" end=\"02:29.987\">And<\/span>\n        <span begin=\"02:29.987\" end=\"02:30.286\">even<\/span>\n        <span begin=\"02:30.286\" end=\"02:30.427\">if<\/span>\n        <span begin=\"02:30.427\" end=\"02:30.557\">I<\/span>\n        <span begin=\"02:30.557\" end=\"02:30.827\">wanted<\/span>\n        <span begin=\"02:30.827\" end=\"02:30.966\">to<\/span>\n        <span begin=\"02:30.966\" end=\"02:31.117\">I<\/span>\n        <span begin=\"02:31.117\" end=\"02:31.387\">can&apos;t<\/span>\n        <span begin=\"02:31.387\" end=\"02:31.879\">stop<\/span>\n      <\/p>\n      <p begin=\"02:32.190\" end=\"02:34.715\" ttm:agent=\"v1000\">\n        <span begin=\"02:32.192\" end=\"02:32.735\">Yeah,<\/span>\n        <span begin=\"02:32.735\" end=\"02:33.184\">yeah,<\/span>\n        <span begin=\"02:33.184\" end=\"02:33.615\">yeah,<\/span>\n        <span begin=\"02:33.615\" end=\"02:34.024\">yeah,<\/span>\n        <span begin=\"02:34.024\" end=\"02:34.715\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:35.060\" end=\"02:36.970\" ttm:agent=\"v1\">\n        <span begin=\"02:35.064\" end=\"02:35.195\">You<\/span>\n        <span begin=\"02:35.195\" end=\"02:35.465\">want<\/span>\n        <span begin=\"02:35.465\" end=\"02:35.795\">me,<\/span>\n        <span begin=\"02:36.168\" end=\"02:36.305\">I<\/span>\n        <span begin=\"02:36.305\" end=\"02:36.475\">want<\/span>\n        <span begin=\"02:36.475\" end=\"02:36.595\">you,<\/span>\n        <span begin=\"02:36.595\" end=\"02:36.970\">baby<\/span>\n      <\/p>\n      <p begin=\"02:37.310\" end=\"02:39.286\" ttm:agent=\"v1\">\n        <span begin=\"02:37.317\" end=\"02:37.550\">My<\/span>\n        <span begin=\"02:37.550\" end=\"02:38.141\">sugarboo,<\/span>\n        <span begin=\"02:38.578\" end=\"02:38.698\">I&apos;m<\/span>\n        <span begin=\"02:38.698\" end=\"02:39.286\">levitating<\/span>\n      <\/p>\n      <p begin=\"02:39.680\" end=\"02:41.595\" ttm:agent=\"v1\">\n        <span begin=\"02:39.686\" end=\"02:39.877\">The<\/span>\n        <span begin=\"02:39.877\" end=\"02:40.147\">Milky<\/span>\n        <span begin=\"02:40.147\" end=\"02:40.427\">Way,<\/span>\n        <span begin=\"02:40.867\" end=\"02:41.016\">we&apos;re<\/span>\n        <span begin=\"02:41.016\" end=\"02:41.595\">renegading<\/span>\n      <\/p>\n      <p begin=\"02:43.440\" end=\"02:48.130\" ttm:agent=\"v1\">\n        <span begin=\"02:43.447\" end=\"02:43.600\">I<\/span>\n        <span begin=\"02:43.600\" end=\"02:43.923\">got<\/span>\n        <span begin=\"02:43.923\" end=\"02:44.492\">you,<\/span>\n        <span begin=\"02:45.153\" end=\"02:45.963\">moonlight,<\/span>\n        <span begin=\"02:46.343\" end=\"02:46.743\">you&apos;re<\/span>\n        <span begin=\"02:46.743\" end=\"02:47.113\">my<\/span>\n        <span begin=\"02:47.403\" end=\"02:48.130\">starlight<\/span>\n      <\/p>\n      <p begin=\"02:48.140\" end=\"02:52.103\" ttm:agent=\"v1\">\n        <span begin=\"02:48.140\" end=\"02:48.279\">I<\/span>\n        <span begin=\"02:48.279\" end=\"02:48.548\">need<\/span>\n        <span begin=\"02:48.548\" end=\"02:49.094\">you<\/span>\n        <span begin=\"02:49.735\" end=\"02:50.163\">all<\/span>\n        <span begin=\"02:50.163\" end=\"02:50.541\">night,<\/span>\n        <span begin=\"02:50.937\" end=\"02:51.128\">come<\/span>\n        <span begin=\"02:51.128\" end=\"02:51.353\">on,<\/span>\n        <span begin=\"02:51.353\" end=\"02:51.623\">dance<\/span>\n        <span begin=\"02:51.623\" end=\"02:51.774\">with<\/span>\n        <span begin=\"02:51.774\" end=\"02:52.103\">me<\/span>\n      <\/p>\n      <p begin=\"02:52.550\" end=\"02:53.210\" ttm:agent=\"v1\">\n        <span begin=\"02:52.552\" end=\"02:52.701\">I&apos;m<\/span>\n        <span begin=\"02:52.701\" end=\"02:53.210\">levitating<\/span>\n      <\/p>\n      <p begin=\"02:53.730\" end=\"02:55.684\" ttm:agent=\"v1\">\n        <span begin=\"02:53.733\" end=\"02:53.901\">You<\/span>\n        <span begin=\"02:53.901\" end=\"02:54.118\">can<\/span>\n        <span begin=\"02:54.118\" end=\"02:54.238\">fly<\/span>\n        <span begin=\"02:54.238\" end=\"02:54.718\">away<\/span>\n        <span begin=\"02:54.718\" end=\"02:54.869\">with<\/span>\n        <span begin=\"02:54.869\" end=\"02:55.139\">me<\/span>\n        <span begin=\"02:55.139\" end=\"02:55.684\">tonight<\/span>\n      <\/p>\n      <p begin=\"02:55.990\" end=\"02:58.244\" ttm:agent=\"v1\">\n        <span begin=\"02:55.999\" end=\"02:56.218\">You<\/span>\n        <span begin=\"02:56.218\" end=\"02:56.423\">can<\/span>\n        <span begin=\"02:56.423\" end=\"02:56.583\">fly<\/span>\n        <span begin=\"02:56.583\" end=\"02:57.023\">away<\/span>\n        <span begin=\"02:57.023\" end=\"02:57.143\">with<\/span>\n        <span begin=\"02:57.143\" end=\"02:57.442\">me<\/span>\n        <span begin=\"02:57.442\" end=\"02:58.244\">tonight<\/span>\n      <\/p>\n      <p begin=\"02:58.400\" end=\"03:00.167\" ttm:agent=\"v1\">\n        <span begin=\"02:58.409\" end=\"02:58.769\">Baby,<\/span>\n        <span begin=\"02:58.769\" end=\"02:58.899\">let<\/span>\n        <span begin=\"02:58.899\" end=\"02:59.059\">me<\/span>\n        <span begin=\"02:59.059\" end=\"02:59.349\">take<\/span>\n        <span begin=\"02:59.349\" end=\"02:59.499\">you<\/span>\n        <span begin=\"02:59.499\" end=\"02:59.760\">for<\/span>\n        <span begin=\"02:59.760\" end=\"02:59.920\">a<\/span>\n        <span begin=\"02:59.920\" end=\"03:00.167\">ride<\/span>\n      <\/p>\n      <p begin=\"03:00.170\" end=\"03:01.693\" ttm:agent=\"v1000\">\n        <span begin=\"03:00.177\" end=\"03:00.480\">Yeah,<\/span>\n        <span begin=\"03:00.480\" end=\"03:00.741\">yeah,<\/span>\n        <span begin=\"03:00.741\" end=\"03:01.000\">yeah,<\/span>\n        <span begin=\"03:01.000\" end=\"03:01.261\">yeah,<\/span>\n        <span begin=\"03:01.261\" end=\"03:01.693\">yeah<\/span>\n      <\/p>\n      <p begin=\"03:01.870\" end=\"03:03.063\" ttm:agent=\"v1\">\n        <span begin=\"03:01.878\" end=\"03:01.990\">I&apos;m<\/span>\n        <span begin=\"03:01.990\" end=\"03:02.600\">levitating<\/span>\n        <span begin=\"03:02.600\" end=\"03:03.063\">(Woo)<\/span>\n      <\/p>\n      <p begin=\"03:03.070\" end=\"03:04.930\" ttm:agent=\"v1\">\n        <span begin=\"03:03.073\" end=\"03:03.233\">You<\/span>\n        <span begin=\"03:03.233\" end=\"03:03.412\">can<\/span>\n        <span begin=\"03:03.412\" end=\"03:03.532\">fly<\/span>\n        <span begin=\"03:03.532\" end=\"03:03.991\">away<\/span>\n        <span begin=\"03:03.991\" end=\"03:04.151\">with<\/span>\n        <span begin=\"03:04.151\" end=\"03:04.391\">me<\/span>\n        <span begin=\"03:04.391\" end=\"03:04.930\">tonight<\/span>\n      <\/p>\n      <p begin=\"03:05.310\" end=\"03:07.455\" ttm:agent=\"v1\">\n        <span begin=\"03:05.310\" end=\"03:05.485\">You<\/span>\n        <span begin=\"03:05.485\" end=\"03:05.745\">can<\/span>\n        <span begin=\"03:05.745\" end=\"03:05.935\">fly<\/span>\n        <span begin=\"03:05.935\" end=\"03:06.324\">away<\/span>\n        <span begin=\"03:06.324\" end=\"03:06.475\">with<\/span>\n        <span begin=\"03:06.475\" end=\"03:06.715\">me<\/span>\n        <span begin=\"03:06.715\" end=\"03:07.455\">tonight<\/span>\n      <\/p>\n      <p begin=\"03:07.690\" end=\"03:09.543\" ttm:agent=\"v1\">\n        <span begin=\"03:07.690\" end=\"03:08.091\">Baby,<\/span>\n        <span begin=\"03:08.091\" end=\"03:08.211\">let<\/span>\n        <span begin=\"03:08.211\" end=\"03:08.371\">me<\/span>\n        <span begin=\"03:08.371\" end=\"03:08.641\">take<\/span>\n        <span begin=\"03:08.641\" end=\"03:08.790\">you<\/span>\n        <span begin=\"03:08.790\" end=\"03:09.081\">for<\/span>\n        <span begin=\"03:09.081\" end=\"03:09.230\">a<\/span>\n        <span begin=\"03:09.230\" end=\"03:09.543\">ride<\/span>\n      <\/p>\n      <p begin=\"03:09.550\" end=\"03:11.193\" ttm:agent=\"v1000\">\n        <span begin=\"03:09.553\" end=\"03:09.797\">Yeah,<\/span>\n        <span begin=\"03:09.797\" end=\"03:10.056\">yeah,<\/span>\n        <span begin=\"03:10.056\" end=\"03:10.326\">yeah,<\/span>\n        <span begin=\"03:10.326\" end=\"03:10.606\">yeah,<\/span>\n        <span begin=\"03:10.606\" end=\"03:11.193\">yeah<\/span>\n      <\/p>\n      <p begin=\"03:11.480\" end=\"03:16.079\" ttm:agent=\"v1\">\n        <span begin=\"03:11.486\" end=\"03:11.598\">I<\/span>\n        <span begin=\"03:11.598\" end=\"03:11.890\">got<\/span>\n        <span begin=\"03:11.890\" end=\"03:12.570\">you,<\/span>\n        <span begin=\"03:13.069\" end=\"03:13.909\">moonlight,<\/span>\n        <span begin=\"03:14.228\" end=\"03:14.678\">you&apos;re<\/span>\n        <span begin=\"03:14.678\" end=\"03:15.078\">my<\/span>\n        <span begin=\"03:15.389\" end=\"03:16.079\">starlight<\/span>\n      <\/p>\n      <p begin=\"03:16.080\" end=\"03:20.341\" ttm:agent=\"v1\">\n        <span begin=\"03:16.089\" end=\"03:16.249\">I<\/span>\n        <span begin=\"03:16.249\" end=\"03:16.518\">need<\/span>\n        <span begin=\"03:16.518\" end=\"03:17.108\">you<\/span>\n        <span begin=\"03:17.668\" end=\"03:18.130\">all<\/span>\n        <span begin=\"03:18.130\" end=\"03:18.539\">night,<\/span>\n        <span begin=\"03:18.889\" end=\"03:19.019\">come<\/span>\n        <span begin=\"03:19.019\" end=\"03:19.289\">on,<\/span>\n        <span begin=\"03:19.289\" end=\"03:19.579\">dance<\/span>\n        <span begin=\"03:19.579\" end=\"03:19.715\">with<\/span>\n        <span begin=\"03:19.715\" end=\"03:20.341\">me<\/span>\n      <\/p>\n      <p begin=\"03:20.490\" end=\"03:21.253\" ttm:agent=\"v1\">\n        <span begin=\"03:20.494\" end=\"03:20.624\">I&apos;m<\/span>\n        <span begin=\"03:20.624\" end=\"03:21.253\">levitating<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 180,
+      "endTime": 3062,
+      "text": "Billboard Baby, Dua Lipa make 'em dance when it come on",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 180,
+          "endTime": 790,
+          "word": "Billboard"
+        },
+        {
+          "startTime": 790,
+          "endTime": 1105,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 1105,
+          "endTime": 1396,
+          "word": "Dua"
+        },
+        {
+          "startTime": 1396,
+          "endTime": 1687,
+          "word": "Lipa"
+        },
+        {
+          "startTime": 1687,
+          "endTime": 1827,
+          "word": "make"
+        },
+        {
+          "startTime": 1827,
+          "endTime": 1979,
+          "word": "'em"
+        },
+        {
+          "startTime": 1979,
+          "endTime": 2225,
+          "word": "dance"
+        },
+        {
+          "startTime": 2225,
+          "endTime": 2365,
+          "word": "when"
+        },
+        {
+          "startTime": 2365,
+          "endTime": 2539,
+          "word": "it"
+        },
+        {
+          "startTime": 2539,
+          "endTime": 2761,
+          "word": "come"
+        },
+        {
+          "startTime": 2761,
+          "endTime": 3062,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 3070,
+      "endTime": 5369,
+      "text": "E'erybody lookin' for a dance floor to run on",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 3072,
+          "endTime": 3751,
+          "word": "E'erybody"
+        },
+        {
+          "startTime": 3751,
+          "endTime": 4030,
+          "word": "lookin'"
+        },
+        {
+          "startTime": 4030,
+          "endTime": 4160,
+          "word": "for"
+        },
+        {
+          "startTime": 4160,
+          "endTime": 4311,
+          "word": "a"
+        },
+        {
+          "startTime": 4311,
+          "endTime": 4556,
+          "word": "dance"
+        },
+        {
+          "startTime": 4556,
+          "endTime": 4778,
+          "word": "floor"
+        },
+        {
+          "startTime": 4778,
+          "endTime": 4906,
+          "word": "to"
+        },
+        {
+          "startTime": 4906,
+          "endTime": 5033,
+          "word": "run"
+        },
+        {
+          "startTime": 5033,
+          "endTime": 5369,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 5470,
+      "endTime": 9821,
+      "text": "If you wanna run away with me, I know a galaxy and I could take you for a ride",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 5472,
+          "endTime": 5576,
+          "word": "If"
+        },
+        {
+          "startTime": 5576,
+          "endTime": 5745,
+          "word": "you"
+        },
+        {
+          "startTime": 5745,
+          "endTime": 6064,
+          "word": "wanna"
+        },
+        {
+          "startTime": 6064,
+          "endTime": 6183,
+          "word": "run"
+        },
+        {
+          "startTime": 6183,
+          "endTime": 6434,
+          "word": "away"
+        },
+        {
+          "startTime": 6434,
+          "endTime": 6577,
+          "word": "with"
+        },
+        {
+          "startTime": 6577,
+          "endTime": 6719,
+          "word": "me,"
+        },
+        {
+          "startTime": 6719,
+          "endTime": 6852,
+          "word": "I"
+        },
+        {
+          "startTime": 6852,
+          "endTime": 7002,
+          "word": "know"
+        },
+        {
+          "startTime": 7002,
+          "endTime": 7124,
+          "word": "a"
+        },
+        {
+          "startTime": 7124,
+          "endTime": 7559,
+          "word": "galaxy"
+        },
+        {
+          "startTime": 7559,
+          "endTime": 7704,
+          "word": "and"
+        },
+        {
+          "startTime": 7704,
+          "endTime": 7845,
+          "word": "I"
+        },
+        {
+          "startTime": 7845,
+          "endTime": 8005,
+          "word": "could"
+        },
+        {
+          "startTime": 8005,
+          "endTime": 8166,
+          "word": "take"
+        },
+        {
+          "startTime": 8166,
+          "endTime": 8277,
+          "word": "you"
+        },
+        {
+          "startTime": 8277,
+          "endTime": 8636,
+          "word": "for"
+        },
+        {
+          "startTime": 8636,
+          "endTime": 8796,
+          "word": "a"
+        },
+        {
+          "startTime": 8796,
+          "endTime": 9821,
+          "word": "ride"
+        }
+      ]
+    },
+    {
+      "time": 10000,
+      "endTime": 12167,
+      "text": "I had a premonition that we fell into a rhythm",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 10002,
+          "endTime": 10146,
+          "word": "I"
+        },
+        {
+          "startTime": 10146,
+          "endTime": 10326,
+          "word": "had"
+        },
+        {
+          "startTime": 10326,
+          "endTime": 10476,
+          "word": "a"
+        },
+        {
+          "startTime": 10476,
+          "endTime": 11006,
+          "word": "premonition"
+        },
+        {
+          "startTime": 11006,
+          "endTime": 11146,
+          "word": "that"
+        },
+        {
+          "startTime": 11146,
+          "endTime": 11295,
+          "word": "we"
+        },
+        {
+          "startTime": 11295,
+          "endTime": 11446,
+          "word": "fell"
+        },
+        {
+          "startTime": 11446,
+          "endTime": 11586,
+          "word": "into"
+        },
+        {
+          "startTime": 11586,
+          "endTime": 11726,
+          "word": "a"
+        },
+        {
+          "startTime": 11726,
+          "endTime": 12167,
+          "word": "rhythm"
+        }
+      ]
+    },
+    {
+      "time": 12170,
+      "endTime": 14378,
+      "text": "Where the music don't stop for life",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 12177,
+          "endTime": 12302,
+          "word": "Where"
+        },
+        {
+          "startTime": 12302,
+          "endTime": 12453,
+          "word": "the"
+        },
+        {
+          "startTime": 12453,
+          "endTime": 12712,
+          "word": "music"
+        },
+        {
+          "startTime": 12712,
+          "endTime": 13013,
+          "word": "don't"
+        },
+        {
+          "startTime": 13013,
+          "endTime": 13262,
+          "word": "stop"
+        },
+        {
+          "startTime": 13262,
+          "endTime": 13562,
+          "word": "for"
+        },
+        {
+          "startTime": 13562,
+          "endTime": 14378,
+          "word": "life"
+        }
+      ]
+    },
+    {
+      "time": 14790,
+      "endTime": 17018,
+      "text": "Glitter in the sky, glitter in my eyes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 14796,
+          "endTime": 15094,
+          "word": "Glitter"
+        },
+        {
+          "startTime": 15094,
+          "endTime": 15224,
+          "word": "in"
+        },
+        {
+          "startTime": 15224,
+          "endTime": 15374,
+          "word": "the"
+        },
+        {
+          "startTime": 15374,
+          "endTime": 15955,
+          "word": "sky,"
+        },
+        {
+          "startTime": 15955,
+          "endTime": 16245,
+          "word": "glitter"
+        },
+        {
+          "startTime": 16245,
+          "endTime": 16395,
+          "word": "in"
+        },
+        {
+          "startTime": 16395,
+          "endTime": 16555,
+          "word": "my"
+        },
+        {
+          "startTime": 16555,
+          "endTime": 17018,
+          "word": "eyes"
+        }
+      ]
+    },
+    {
+      "time": 17020,
+      "endTime": 18954,
+      "text": "Shining just the way I like",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17028,
+          "endTime": 17387,
+          "word": "Shining"
+        },
+        {
+          "startTime": 17387,
+          "endTime": 17537,
+          "word": "just"
+        },
+        {
+          "startTime": 17537,
+          "endTime": 17676,
+          "word": "the"
+        },
+        {
+          "startTime": 17676,
+          "endTime": 17947,
+          "word": "way"
+        },
+        {
+          "startTime": 17947,
+          "endTime": 18227,
+          "word": "I"
+        },
+        {
+          "startTime": 18227,
+          "endTime": 18954,
+          "word": "like"
+        }
+      ]
+    },
+    {
+      "time": 19450,
+      "endTime": 23510,
+      "text": "If you're feelin' like you need a little bit of company, you met me at the perfect time",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19451,
+          "endTime": 19591,
+          "word": "If"
+        },
+        {
+          "startTime": 19591,
+          "endTime": 19731,
+          "word": "you're"
+        },
+        {
+          "startTime": 19731,
+          "endTime": 20040,
+          "word": "feelin'"
+        },
+        {
+          "startTime": 20040,
+          "endTime": 20171,
+          "word": "like"
+        },
+        {
+          "startTime": 20171,
+          "endTime": 20320,
+          "word": "you"
+        },
+        {
+          "startTime": 20320,
+          "endTime": 20480,
+          "word": "need"
+        },
+        {
+          "startTime": 20480,
+          "endTime": 20640,
+          "word": "a"
+        },
+        {
+          "startTime": 20640,
+          "endTime": 20911,
+          "word": "little"
+        },
+        {
+          "startTime": 20911,
+          "endTime": 21040,
+          "word": "bit"
+        },
+        {
+          "startTime": 21040,
+          "endTime": 21200,
+          "word": "of"
+        },
+        {
+          "startTime": 21200,
+          "endTime": 21640,
+          "word": "company,"
+        },
+        {
+          "startTime": 21640,
+          "endTime": 21781,
+          "word": "you"
+        },
+        {
+          "startTime": 21781,
+          "endTime": 21941,
+          "word": "met"
+        },
+        {
+          "startTime": 21941,
+          "endTime": 22091,
+          "word": "me"
+        },
+        {
+          "startTime": 22091,
+          "endTime": 22231,
+          "word": "at"
+        },
+        {
+          "startTime": 22231,
+          "endTime": 22360,
+          "word": "the"
+        },
+        {
+          "startTime": 22360,
+          "endTime": 22861,
+          "word": "perfect"
+        },
+        {
+          "startTime": 22861,
+          "endTime": 23510,
+          "word": "time"
+        }
+      ]
+    },
+    {
+      "time": 24610,
+      "endTime": 26578,
+      "text": "You want me, I want you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24616,
+          "endTime": 24780,
+          "word": "You"
+        },
+        {
+          "startTime": 24780,
+          "endTime": 25000,
+          "word": "want"
+        },
+        {
+          "startTime": 25000,
+          "endTime": 25109,
+          "word": "me,"
+        },
+        {
+          "startTime": 25751,
+          "endTime": 25890,
+          "word": "I"
+        },
+        {
+          "startTime": 25890,
+          "endTime": 26020,
+          "word": "want"
+        },
+        {
+          "startTime": 26020,
+          "endTime": 26149,
+          "word": "you,"
+        },
+        {
+          "startTime": 26149,
+          "endTime": 26578,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 26920,
+      "endTime": 28900,
+      "text": "My sugarboo, I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 26929,
+          "endTime": 27064,
+          "word": "My"
+        },
+        {
+          "startTime": 27064,
+          "endTime": 27433,
+          "word": "sugarboo,"
+        },
+        {
+          "startTime": 28049,
+          "endTime": 28210,
+          "word": "I'm"
+        },
+        {
+          "startTime": 28210,
+          "endTime": 28900,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 29210,
+      "endTime": 31109,
+      "text": "The Milky Way, we're renegading",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29213,
+          "endTime": 29392,
+          "word": "The"
+        },
+        {
+          "startTime": 29392,
+          "endTime": 29652,
+          "word": "Milky"
+        },
+        {
+          "startTime": 29652,
+          "endTime": 29772,
+          "word": "Way,"
+        },
+        {
+          "startTime": 30381,
+          "endTime": 30532,
+          "word": "we're"
+        },
+        {
+          "startTime": 30532,
+          "endTime": 31109,
+          "word": "renegading"
+        }
+      ]
+    },
+    {
+      "time": 31150,
+      "endTime": 32954,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 31151,
+          "endTime": 31392,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 31392,
+          "endTime": 31662,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 31662,
+          "endTime": 31932,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 31932,
+          "endTime": 32222,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 32222,
+          "endTime": 32954,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 33020,
+      "endTime": 37672,
+      "text": "I got you, moonlight, you're my starlight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 33027,
+          "endTime": 33181,
+          "word": "I"
+        },
+        {
+          "startTime": 33181,
+          "endTime": 33421,
+          "word": "got"
+        },
+        {
+          "startTime": 33421,
+          "endTime": 33631,
+          "word": "you,"
+        },
+        {
+          "startTime": 34570,
+          "endTime": 35240,
+          "word": "moonlight,"
+        },
+        {
+          "startTime": 35781,
+          "endTime": 36231,
+          "word": "you're"
+        },
+        {
+          "startTime": 36231,
+          "endTime": 36501,
+          "word": "my"
+        },
+        {
+          "startTime": 36911,
+          "endTime": 37672,
+          "word": "starlight"
+        }
+      ]
+    },
+    {
+      "time": 37680,
+      "endTime": 41622,
+      "text": "I need you all night, come on, dance with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37682,
+          "endTime": 37854,
+          "word": "I"
+        },
+        {
+          "startTime": 37854,
+          "endTime": 38074,
+          "word": "need"
+        },
+        {
+          "startTime": 38074,
+          "endTime": 38471,
+          "word": "you"
+        },
+        {
+          "startTime": 39214,
+          "endTime": 39703,
+          "word": "all"
+        },
+        {
+          "startTime": 39703,
+          "endTime": 39991,
+          "word": "night,"
+        },
+        {
+          "startTime": 40450,
+          "endTime": 40570,
+          "word": "come"
+        },
+        {
+          "startTime": 40570,
+          "endTime": 40899,
+          "word": "on,"
+        },
+        {
+          "startTime": 40899,
+          "endTime": 41170,
+          "word": "dance"
+        },
+        {
+          "startTime": 41170,
+          "endTime": 41270,
+          "word": "with"
+        },
+        {
+          "startTime": 41275,
+          "endTime": 41622,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 42080,
+      "endTime": 42789,
+      "text": "I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42080,
+          "endTime": 42180,
+          "word": "I'm"
+        },
+        {
+          "startTime": 42180,
+          "endTime": 42789,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 42790,
+      "endTime": 46921,
+      "text": "You, moonlight, you're my starlight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42799,
+          "endTime": 43328,
+          "word": "You,"
+        },
+        {
+          "startTime": 43929,
+          "endTime": 44699,
+          "word": "moonlight,"
+        },
+        {
+          "startTime": 45099,
+          "endTime": 45522,
+          "word": "you're"
+        },
+        {
+          "startTime": 45527,
+          "endTime": 45778,
+          "word": "my"
+        },
+        {
+          "startTime": 46238,
+          "endTime": 46921,
+          "word": "starlight"
+        }
+      ]
+    },
+    {
+      "time": 46930,
+      "endTime": 50936,
+      "text": "I need you all night, come on, dance with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46931,
+          "endTime": 47092,
+          "word": "I"
+        },
+        {
+          "startTime": 47092,
+          "endTime": 47393,
+          "word": "need"
+        },
+        {
+          "startTime": 47393,
+          "endTime": 47725,
+          "word": "you"
+        },
+        {
+          "startTime": 48523,
+          "endTime": 49033,
+          "word": "all"
+        },
+        {
+          "startTime": 49033,
+          "endTime": 49419,
+          "word": "night,"
+        },
+        {
+          "startTime": 49744,
+          "endTime": 49883,
+          "word": "come"
+        },
+        {
+          "startTime": 49883,
+          "endTime": 50184,
+          "word": "on,"
+        },
+        {
+          "startTime": 50184,
+          "endTime": 50493,
+          "word": "dance"
+        },
+        {
+          "startTime": 50493,
+          "endTime": 50633,
+          "word": "with"
+        },
+        {
+          "startTime": 50633,
+          "endTime": 50936,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 51380,
+      "endTime": 52183,
+      "text": "I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51383,
+          "endTime": 51499,
+          "word": "I'm"
+        },
+        {
+          "startTime": 51499,
+          "endTime": 52183,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 52530,
+      "endTime": 54728,
+      "text": "I'm one of the greatest, ain't no debatin' on it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 52539,
+          "endTime": 52703,
+          "word": "I'm"
+        },
+        {
+          "startTime": 52703,
+          "endTime": 52823,
+          "word": "one"
+        },
+        {
+          "startTime": 52823,
+          "endTime": 52973,
+          "word": "of"
+        },
+        {
+          "startTime": 52973,
+          "endTime": 53122,
+          "word": "the"
+        },
+        {
+          "startTime": 53122,
+          "endTime": 53469,
+          "word": "greatest,"
+        },
+        {
+          "startTime": 53469,
+          "endTime": 53642,
+          "word": "ain't"
+        },
+        {
+          "startTime": 53642,
+          "endTime": 53762,
+          "word": "no"
+        },
+        {
+          "startTime": 53762,
+          "endTime": 54133,
+          "word": "debatin'"
+        },
+        {
+          "startTime": 54133,
+          "endTime": 54282,
+          "word": "on"
+        },
+        {
+          "startTime": 54282,
+          "endTime": 54728,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 54810,
+      "endTime": 56945,
+      "text": "I'm still levitated, I'm heavily medicated",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 54810,
+          "endTime": 54985,
+          "word": "I'm"
+        },
+        {
+          "startTime": 54985,
+          "endTime": 55178,
+          "word": "still"
+        },
+        {
+          "startTime": 55178,
+          "endTime": 55778,
+          "word": "levitated,"
+        },
+        {
+          "startTime": 55778,
+          "endTime": 55908,
+          "word": "I'm"
+        },
+        {
+          "startTime": 55908,
+          "endTime": 56308,
+          "word": "heavily"
+        },
+        {
+          "startTime": 56308,
+          "endTime": 56945,
+          "word": "medicated"
+        }
+      ]
+    },
+    {
+      "time": 56900,
+      "endTime": 59064,
+      "text": "Ironic I gave 'em love and they end up hatin' on me",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 56902,
+          "endTime": 57305,
+          "word": "Ironic"
+        },
+        {
+          "startTime": 57305,
+          "endTime": 57405,
+          "word": "I"
+        },
+        {
+          "startTime": 57405,
+          "endTime": 57598,
+          "word": "gave"
+        },
+        {
+          "startTime": 57598,
+          "endTime": 57747,
+          "word": "'em"
+        },
+        {
+          "startTime": 57747,
+          "endTime": 57878,
+          "word": "love"
+        },
+        {
+          "startTime": 57878,
+          "endTime": 58038,
+          "word": "and"
+        },
+        {
+          "startTime": 58038,
+          "endTime": 58178,
+          "word": "they"
+        },
+        {
+          "startTime": 58178,
+          "endTime": 58378,
+          "word": "end"
+        },
+        {
+          "startTime": 58378,
+          "endTime": 58498,
+          "word": "up"
+        },
+        {
+          "startTime": 58498,
+          "endTime": 58768,
+          "word": "hatin'"
+        },
+        {
+          "startTime": 58768,
+          "endTime": 58907,
+          "word": "on"
+        },
+        {
+          "startTime": 58907,
+          "endTime": 59064,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 59430,
+      "endTime": 61158,
+      "text": "She told me she love me and she been waitin'",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 59434,
+          "endTime": 59681,
+          "word": "She"
+        },
+        {
+          "startTime": 59681,
+          "endTime": 59809,
+          "word": "told"
+        },
+        {
+          "startTime": 59809,
+          "endTime": 59938,
+          "word": "me"
+        },
+        {
+          "startTime": 59938,
+          "endTime": 60079,
+          "word": "she"
+        },
+        {
+          "startTime": 60079,
+          "endTime": 60239,
+          "word": "love"
+        },
+        {
+          "startTime": 60239,
+          "endTime": 60378,
+          "word": "me"
+        },
+        {
+          "startTime": 60378,
+          "endTime": 60508,
+          "word": "and"
+        },
+        {
+          "startTime": 60508,
+          "endTime": 60649,
+          "word": "she"
+        },
+        {
+          "startTime": 60649,
+          "endTime": 60788,
+          "word": "been"
+        },
+        {
+          "startTime": 60788,
+          "endTime": 61158,
+          "word": "waitin'"
+        }
+      ]
+    },
+    {
+      "time": 61130,
+      "endTime": 63610,
+      "text": "Been fightin' hard for your love and I'm runnin' thin on my patience",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 61137,
+          "endTime": 61358,
+          "word": "Been"
+        },
+        {
+          "startTime": 61358,
+          "endTime": 61649,
+          "word": "fightin'"
+        },
+        {
+          "startTime": 61649,
+          "endTime": 61789,
+          "word": "hard"
+        },
+        {
+          "startTime": 61789,
+          "endTime": 61918,
+          "word": "for"
+        },
+        {
+          "startTime": 61918,
+          "endTime": 62038,
+          "word": "your"
+        },
+        {
+          "startTime": 62038,
+          "endTime": 62179,
+          "word": "love"
+        },
+        {
+          "startTime": 62179,
+          "endTime": 62329,
+          "word": "and"
+        },
+        {
+          "startTime": 62329,
+          "endTime": 62459,
+          "word": "I'm"
+        },
+        {
+          "startTime": 62459,
+          "endTime": 62739,
+          "word": "runnin'"
+        },
+        {
+          "startTime": 62739,
+          "endTime": 62878,
+          "word": "thin"
+        },
+        {
+          "startTime": 62878,
+          "endTime": 63009,
+          "word": "on"
+        },
+        {
+          "startTime": 63009,
+          "endTime": 63149,
+          "word": "my"
+        },
+        {
+          "startTime": 63149,
+          "endTime": 63610,
+          "word": "patience"
+        }
+      ]
+    },
+    {
+      "time": 63600,
+      "endTime": 65912,
+      "text": "Needed someone to hug, even took it back to the basics",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 63609,
+          "endTime": 63955,
+          "word": "Needed"
+        },
+        {
+          "startTime": 63955,
+          "endTime": 64215,
+          "word": "someone"
+        },
+        {
+          "startTime": 64215,
+          "endTime": 64336,
+          "word": "to"
+        },
+        {
+          "startTime": 64336,
+          "endTime": 64474,
+          "word": "hug,"
+        },
+        {
+          "startTime": 64474,
+          "endTime": 64754,
+          "word": "even"
+        },
+        {
+          "startTime": 64754,
+          "endTime": 64896,
+          "word": "took"
+        },
+        {
+          "startTime": 64896,
+          "endTime": 65046,
+          "word": "it"
+        },
+        {
+          "startTime": 65046,
+          "endTime": 65176,
+          "word": "back"
+        },
+        {
+          "startTime": 65176,
+          "endTime": 65296,
+          "word": "to"
+        },
+        {
+          "startTime": 65296,
+          "endTime": 65425,
+          "word": "the"
+        },
+        {
+          "startTime": 65425,
+          "endTime": 65912,
+          "word": "basics"
+        }
+      ]
+    },
+    {
+      "time": 65950,
+      "endTime": 67542,
+      "text": "You see what you got me out here doin'? (Yeah)",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 65958,
+          "endTime": 66112,
+          "word": "You"
+        },
+        {
+          "startTime": 66112,
+          "endTime": 66212,
+          "word": "see"
+        },
+        {
+          "startTime": 66212,
+          "endTime": 66312,
+          "word": "what"
+        },
+        {
+          "startTime": 66312,
+          "endTime": 66412,
+          "word": "you"
+        },
+        {
+          "startTime": 66412,
+          "endTime": 66523,
+          "word": "got"
+        },
+        {
+          "startTime": 66523,
+          "endTime": 66662,
+          "word": "me"
+        },
+        {
+          "startTime": 66662,
+          "endTime": 66803,
+          "word": "out"
+        },
+        {
+          "startTime": 66803,
+          "endTime": 66952,
+          "word": "here"
+        },
+        {
+          "startTime": 66952,
+          "endTime": 67262,
+          "word": "doin'?"
+        },
+        {
+          "startTime": 67262,
+          "endTime": 67542,
+          "word": "(Yeah)"
+        }
+      ]
+    },
+    {
+      "time": 67450,
+      "endTime": 69673,
+      "text": "Mighta threw me off, but can't nobody stop the movement",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 67452,
+          "endTime": 67787,
+          "word": "Mighta"
+        },
+        {
+          "startTime": 67787,
+          "endTime": 67928,
+          "word": "threw"
+        },
+        {
+          "startTime": 67928,
+          "endTime": 68057,
+          "word": "me"
+        },
+        {
+          "startTime": 68057,
+          "endTime": 68196,
+          "word": "off,"
+        },
+        {
+          "startTime": 68196,
+          "endTime": 68337,
+          "word": "but"
+        },
+        {
+          "startTime": 68337,
+          "endTime": 68457,
+          "word": "can't"
+        },
+        {
+          "startTime": 68457,
+          "endTime": 68817,
+          "word": "nobody"
+        },
+        {
+          "startTime": 68817,
+          "endTime": 68947,
+          "word": "stop"
+        },
+        {
+          "startTime": 68947,
+          "endTime": 69076,
+          "word": "the"
+        },
+        {
+          "startTime": 69076,
+          "endTime": 69673,
+          "word": "movement"
+        }
+      ]
+    },
+    {
+      "time": 69730,
+      "endTime": 72929,
+      "text": "Uh-uh, let's go, left foot, right foot, levitatin'",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 69736,
+          "endTime": 70166,
+          "word": "Uh-uh,"
+        },
+        {
+          "startTime": 70294,
+          "endTime": 70467,
+          "word": "let's"
+        },
+        {
+          "startTime": 70467,
+          "endTime": 70676,
+          "word": "go,"
+        },
+        {
+          "startTime": 70730,
+          "endTime": 71036,
+          "word": "left"
+        },
+        {
+          "startTime": 71036,
+          "endTime": 71216,
+          "word": "foot,"
+        },
+        {
+          "startTime": 71586,
+          "endTime": 71845,
+          "word": "right"
+        },
+        {
+          "startTime": 71845,
+          "endTime": 72164,
+          "word": "foot,"
+        },
+        {
+          "startTime": 72164,
+          "endTime": 72929,
+          "word": "levitatin'"
+        }
+      ]
+    },
+    {
+      "time": 73090,
+      "endTime": 75083,
+      "text": "Pop stars, Dua Lipa with DaBaby",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 73096,
+          "endTime": 73346,
+          "word": "Pop"
+        },
+        {
+          "startTime": 73346,
+          "endTime": 73586,
+          "word": "stars,"
+        },
+        {
+          "startTime": 73908,
+          "endTime": 74208,
+          "word": "Dua"
+        },
+        {
+          "startTime": 74208,
+          "endTime": 74498,
+          "word": "Lipa"
+        },
+        {
+          "startTime": 74498,
+          "endTime": 74648,
+          "word": "with"
+        },
+        {
+          "startTime": 74648,
+          "endTime": 75083,
+          "word": "DaBaby"
+        }
+      ]
+    },
+    {
+      "time": 75250,
+      "endTime": 77604,
+      "text": "I had to lace my shoes for all the blessings I was chasin' (Go)",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 75252,
+          "endTime": 75352,
+          "word": "I"
+        },
+        {
+          "startTime": 75352,
+          "endTime": 75470,
+          "word": "had"
+        },
+        {
+          "startTime": 75470,
+          "endTime": 75614,
+          "word": "to"
+        },
+        {
+          "startTime": 75614,
+          "endTime": 75852,
+          "word": "lace"
+        },
+        {
+          "startTime": 75852,
+          "endTime": 75972,
+          "word": "my"
+        },
+        {
+          "startTime": 75972,
+          "endTime": 76132,
+          "word": "shoes"
+        },
+        {
+          "startTime": 76132,
+          "endTime": 76243,
+          "word": "for"
+        },
+        {
+          "startTime": 76243,
+          "endTime": 76422,
+          "word": "all"
+        },
+        {
+          "startTime": 76422,
+          "endTime": 76532,
+          "word": "the"
+        },
+        {
+          "startTime": 76532,
+          "endTime": 76819,
+          "word": "blessings"
+        },
+        {
+          "startTime": 76819,
+          "endTime": 76919,
+          "word": "I"
+        },
+        {
+          "startTime": 76919,
+          "endTime": 77102,
+          "word": "was"
+        },
+        {
+          "startTime": 77102,
+          "endTime": 77371,
+          "word": "chasin'"
+        },
+        {
+          "startTime": 77371,
+          "endTime": 77604,
+          "word": "(Go)"
+        }
+      ]
+    },
+    {
+      "time": 77490,
+      "endTime": 79854,
+      "text": "If I ever slip, I'll fall into a better situation",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 77496,
+          "endTime": 77596,
+          "word": "If"
+        },
+        {
+          "startTime": 77596,
+          "endTime": 77696,
+          "word": "I"
+        },
+        {
+          "startTime": 77696,
+          "endTime": 77976,
+          "word": "ever"
+        },
+        {
+          "startTime": 77976,
+          "endTime": 78168,
+          "word": "slip,"
+        },
+        {
+          "startTime": 78168,
+          "endTime": 78307,
+          "word": "I'll"
+        },
+        {
+          "startTime": 78307,
+          "endTime": 78457,
+          "word": "fall"
+        },
+        {
+          "startTime": 78457,
+          "endTime": 78747,
+          "word": "into"
+        },
+        {
+          "startTime": 78747,
+          "endTime": 78896,
+          "word": "a"
+        },
+        {
+          "startTime": 78896,
+          "endTime": 79176,
+          "word": "better"
+        },
+        {
+          "startTime": 79176,
+          "endTime": 79854,
+          "word": "situation"
+        }
+      ]
+    },
+    {
+      "time": 79880,
+      "endTime": 82884,
+      "text": "So catch up, go put some cheese on it, get out and get your bread up",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 79883,
+          "endTime": 80053,
+          "word": "So"
+        },
+        {
+          "startTime": 80053,
+          "endTime": 80224,
+          "word": "catch"
+        },
+        {
+          "startTime": 80224,
+          "endTime": 80402,
+          "word": "up,"
+        },
+        {
+          "startTime": 80801,
+          "endTime": 80933,
+          "word": "go"
+        },
+        {
+          "startTime": 80933,
+          "endTime": 81053,
+          "word": "put"
+        },
+        {
+          "startTime": 81053,
+          "endTime": 81192,
+          "word": "some"
+        },
+        {
+          "startTime": 81192,
+          "endTime": 81322,
+          "word": "cheese"
+        },
+        {
+          "startTime": 81322,
+          "endTime": 81482,
+          "word": "on"
+        },
+        {
+          "startTime": 81482,
+          "endTime": 81642,
+          "word": "it,"
+        },
+        {
+          "startTime": 81642,
+          "endTime": 81792,
+          "word": "get"
+        },
+        {
+          "startTime": 81792,
+          "endTime": 81943,
+          "word": "out"
+        },
+        {
+          "startTime": 81943,
+          "endTime": 82093,
+          "word": "and"
+        },
+        {
+          "startTime": 82093,
+          "endTime": 82213,
+          "word": "get"
+        },
+        {
+          "startTime": 82213,
+          "endTime": 82362,
+          "word": "your"
+        },
+        {
+          "startTime": 82362,
+          "endTime": 82533,
+          "word": "bread"
+        },
+        {
+          "startTime": 82533,
+          "endTime": 82884,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 79880,
+      "endTime": 83259,
+      "text": "(Yeah, yeah)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 82655,
+          "endTime": 82946,
+          "word": "(Yeah,"
+        },
+        {
+          "startTime": 82946,
+          "endTime": 83259,
+          "word": "yeah)"
+        }
+      ]
+    },
+    {
+      "time": 83140,
+      "endTime": 85429,
+      "text": "They always leave when you fall, but you run together",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 83142,
+          "endTime": 83264,
+          "word": "They"
+        },
+        {
+          "startTime": 83264,
+          "endTime": 83544,
+          "word": "always"
+        },
+        {
+          "startTime": 83544,
+          "endTime": 83714,
+          "word": "leave"
+        },
+        {
+          "startTime": 83714,
+          "endTime": 83834,
+          "word": "when"
+        },
+        {
+          "startTime": 83834,
+          "endTime": 83994,
+          "word": "you"
+        },
+        {
+          "startTime": 83994,
+          "endTime": 84260,
+          "word": "fall,"
+        },
+        {
+          "startTime": 84260,
+          "endTime": 84371,
+          "word": "but"
+        },
+        {
+          "startTime": 84371,
+          "endTime": 84504,
+          "word": "you"
+        },
+        {
+          "startTime": 84504,
+          "endTime": 84614,
+          "word": "run"
+        },
+        {
+          "startTime": 84614,
+          "endTime": 85429,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 83140,
+      "endTime": 85587,
+      "text": "(Hey)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 85358,
+          "endTime": 85587,
+          "word": "(Hey)"
+        }
+      ]
+    },
+    {
+      "time": 85390,
+      "endTime": 87392,
+      "text": "Weight of the world on my shoulders, I kept my head up",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 85396,
+          "endTime": 85584,
+          "word": "Weight"
+        },
+        {
+          "startTime": 85584,
+          "endTime": 85754,
+          "word": "of"
+        },
+        {
+          "startTime": 85754,
+          "endTime": 85874,
+          "word": "the"
+        },
+        {
+          "startTime": 85874,
+          "endTime": 86033,
+          "word": "world"
+        },
+        {
+          "startTime": 86033,
+          "endTime": 86134,
+          "word": "on"
+        },
+        {
+          "startTime": 86134,
+          "endTime": 86234,
+          "word": "my"
+        },
+        {
+          "startTime": 86234,
+          "endTime": 86539,
+          "word": "shoulders,"
+        },
+        {
+          "startTime": 86539,
+          "endTime": 86639,
+          "word": "I"
+        },
+        {
+          "startTime": 86639,
+          "endTime": 86783,
+          "word": "kept"
+        },
+        {
+          "startTime": 86783,
+          "endTime": 86904,
+          "word": "my"
+        },
+        {
+          "startTime": 86904,
+          "endTime": 87024,
+          "word": "head"
+        },
+        {
+          "startTime": 87024,
+          "endTime": 87392,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 87740,
+      "endTime": 88636,
+      "text": "Now, baby, stand up",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 87740,
+          "endTime": 87907,
+          "word": "Now,"
+        },
+        {
+          "startTime": 87907,
+          "endTime": 88161,
+          "word": "baby,"
+        },
+        {
+          "startTime": 88161,
+          "endTime": 88340,
+          "word": "stand"
+        },
+        {
+          "startTime": 88340,
+          "endTime": 88636,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 88910,
+      "endTime": 89453,
+      "text": "'Cause, girl, you",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 88919,
+          "endTime": 89084,
+          "word": "'Cause,"
+        },
+        {
+          "startTime": 89084,
+          "endTime": 89204,
+          "word": "girl,"
+        },
+        {
+          "startTime": 89204,
+          "endTime": 89453,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 89760,
+      "endTime": 91746,
+      "text": "You want me, I want you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89764,
+          "endTime": 90000,
+          "word": "You"
+        },
+        {
+          "startTime": 90000,
+          "endTime": 90240,
+          "word": "want"
+        },
+        {
+          "startTime": 90240,
+          "endTime": 90619,
+          "word": "me,"
+        },
+        {
+          "startTime": 90914,
+          "endTime": 91039,
+          "word": "I"
+        },
+        {
+          "startTime": 91039,
+          "endTime": 91200,
+          "word": "want"
+        },
+        {
+          "startTime": 91200,
+          "endTime": 91379,
+          "word": "you,"
+        },
+        {
+          "startTime": 91379,
+          "endTime": 91746,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 90520,
+      "endTime": 92071,
+      "text": "Hey, hey",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 90529,
+          "endTime": 90880,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 91720,
+          "endTime": 92071,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 92130,
+      "endTime": 94134,
+      "text": "My sugarboo, I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92138,
+          "endTime": 92283,
+          "word": "My"
+        },
+        {
+          "startTime": 92283,
+          "endTime": 92893,
+          "word": "sugarboo,"
+        },
+        {
+          "startTime": 93316,
+          "endTime": 93436,
+          "word": "I'm"
+        },
+        {
+          "startTime": 93436,
+          "endTime": 94134,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 94420,
+      "endTime": 96376,
+      "text": "The Milky Way, we're renegading",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94422,
+          "endTime": 94622,
+          "word": "The"
+        },
+        {
+          "startTime": 94622,
+          "endTime": 94883,
+          "word": "Milky"
+        },
+        {
+          "startTime": 94883,
+          "endTime": 95152,
+          "word": "Way,"
+        },
+        {
+          "startTime": 95622,
+          "endTime": 95763,
+          "word": "we're"
+        },
+        {
+          "startTime": 95763,
+          "endTime": 96376,
+          "word": "renegading"
+        }
+      ]
+    },
+    {
+      "time": 96370,
+      "endTime": 98102,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 96374,
+          "endTime": 96618,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 96618,
+          "endTime": 96907,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 96907,
+          "endTime": 97178,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 97178,
+          "endTime": 97448,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 97448,
+          "endTime": 98102,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 98180,
+      "endTime": 102848,
+      "text": "I got you, moonlight, you're my starlight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98186,
+          "endTime": 98363,
+          "word": "I"
+        },
+        {
+          "startTime": 98363,
+          "endTime": 98721,
+          "word": "got"
+        },
+        {
+          "startTime": 98721,
+          "endTime": 99281,
+          "word": "you,"
+        },
+        {
+          "startTime": 99830,
+          "endTime": 100691,
+          "word": "moonlight,"
+        },
+        {
+          "startTime": 101020,
+          "endTime": 101500,
+          "word": "you're"
+        },
+        {
+          "startTime": 101500,
+          "endTime": 101870,
+          "word": "my"
+        },
+        {
+          "startTime": 102170,
+          "endTime": 102848,
+          "word": "starlight"
+        }
+      ]
+    },
+    {
+      "time": 102850,
+      "endTime": 107134,
+      "text": "I need you all night, come on, dance with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 102858,
+          "endTime": 103032,
+          "word": "I"
+        },
+        {
+          "startTime": 103032,
+          "endTime": 103344,
+          "word": "need"
+        },
+        {
+          "startTime": 103344,
+          "endTime": 103845,
+          "word": "you"
+        },
+        {
+          "startTime": 104402,
+          "endTime": 104869,
+          "word": "all"
+        },
+        {
+          "startTime": 104869,
+          "endTime": 105293,
+          "word": "night,"
+        },
+        {
+          "startTime": 105645,
+          "endTime": 105834,
+          "word": "come"
+        },
+        {
+          "startTime": 105834,
+          "endTime": 106104,
+          "word": "on,"
+        },
+        {
+          "startTime": 106104,
+          "endTime": 106384,
+          "word": "dance"
+        },
+        {
+          "startTime": 106384,
+          "endTime": 106535,
+          "word": "with"
+        },
+        {
+          "startTime": 106535,
+          "endTime": 107134,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 107280,
+      "endTime": 107991,
+      "text": "I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107286,
+          "endTime": 107405,
+          "word": "I'm"
+        },
+        {
+          "startTime": 107405,
+          "endTime": 107991,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 108000,
+      "endTime": 112148,
+      "text": "You, moonlight, you're my starlight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 108002,
+          "endTime": 108574,
+          "word": "You,"
+        },
+        {
+          "startTime": 109164,
+          "endTime": 109993,
+          "word": "moonlight,"
+        },
+        {
+          "startTime": 110334,
+          "endTime": 110688,
+          "word": "you're"
+        },
+        {
+          "startTime": 110693,
+          "endTime": 111134,
+          "word": "my"
+        },
+        {
+          "startTime": 111463,
+          "endTime": 112148,
+          "word": "starlight"
+        }
+      ]
+    },
+    {
+      "time": 112150,
+      "endTime": 116408,
+      "text": "I need you all night, come on, dance with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112158,
+          "endTime": 112329,
+          "word": "I"
+        },
+        {
+          "startTime": 112329,
+          "endTime": 112672,
+          "word": "need"
+        },
+        {
+          "startTime": 112672,
+          "endTime": 113162,
+          "word": "you"
+        },
+        {
+          "startTime": 113718,
+          "endTime": 114229,
+          "word": "all"
+        },
+        {
+          "startTime": 114229,
+          "endTime": 114628,
+          "word": "night,"
+        },
+        {
+          "startTime": 114948,
+          "endTime": 115090,
+          "word": "come"
+        },
+        {
+          "startTime": 115090,
+          "endTime": 115410,
+          "word": "on,"
+        },
+        {
+          "startTime": 115410,
+          "endTime": 115690,
+          "word": "dance"
+        },
+        {
+          "startTime": 115690,
+          "endTime": 115819,
+          "word": "with"
+        },
+        {
+          "startTime": 115819,
+          "endTime": 116408,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 116580,
+      "endTime": 117394,
+      "text": "I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116581,
+          "endTime": 116725,
+          "word": "I'm"
+        },
+        {
+          "startTime": 116725,
+          "endTime": 117394,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 117900,
+      "endTime": 119768,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117908,
+          "endTime": 118024,
+          "word": "You"
+        },
+        {
+          "startTime": 118024,
+          "endTime": 118152,
+          "word": "can"
+        },
+        {
+          "startTime": 118152,
+          "endTime": 118294,
+          "word": "fly"
+        },
+        {
+          "startTime": 118294,
+          "endTime": 118734,
+          "word": "away"
+        },
+        {
+          "startTime": 118734,
+          "endTime": 118892,
+          "word": "with"
+        },
+        {
+          "startTime": 118892,
+          "endTime": 119184,
+          "word": "me"
+        },
+        {
+          "startTime": 119184,
+          "endTime": 119768,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 120110,
+      "endTime": 122299,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120113,
+          "endTime": 120353,
+          "word": "You"
+        },
+        {
+          "startTime": 120353,
+          "endTime": 120473,
+          "word": "can"
+        },
+        {
+          "startTime": 120473,
+          "endTime": 120633,
+          "word": "fly"
+        },
+        {
+          "startTime": 120633,
+          "endTime": 121073,
+          "word": "away"
+        },
+        {
+          "startTime": 121073,
+          "endTime": 121233,
+          "word": "with"
+        },
+        {
+          "startTime": 121233,
+          "endTime": 121513,
+          "word": "me"
+        },
+        {
+          "startTime": 121513,
+          "endTime": 122299,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 122450,
+      "endTime": 124312,
+      "text": "Baby, let me take you for a ride",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 122450,
+          "endTime": 122844,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 122844,
+          "endTime": 122983,
+          "word": "let"
+        },
+        {
+          "startTime": 122983,
+          "endTime": 123164,
+          "word": "me"
+        },
+        {
+          "startTime": 123164,
+          "endTime": 123433,
+          "word": "take"
+        },
+        {
+          "startTime": 123433,
+          "endTime": 123614,
+          "word": "you"
+        },
+        {
+          "startTime": 123614,
+          "endTime": 123873,
+          "word": "for"
+        },
+        {
+          "startTime": 123873,
+          "endTime": 124033,
+          "word": "a"
+        },
+        {
+          "startTime": 124033,
+          "endTime": 124312,
+          "word": "ride"
+        }
+      ]
+    },
+    {
+      "time": 124320,
+      "endTime": 125772,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 124322,
+          "endTime": 124586,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 124586,
+          "endTime": 124845,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 124845,
+          "endTime": 125116,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 125116,
+          "endTime": 125386,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 125386,
+          "endTime": 125772,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 125880,
+      "endTime": 127212,
+      "text": "I'm levitating (Woo)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125886,
+          "endTime": 126059,
+          "word": "I'm"
+        },
+        {
+          "startTime": 126059,
+          "endTime": 126649,
+          "word": "levitating"
+        },
+        {
+          "startTime": 126649,
+          "endTime": 127212,
+          "word": "(Woo)"
+        }
+      ]
+    },
+    {
+      "time": 127220,
+      "endTime": 129026,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127222,
+          "endTime": 127352,
+          "word": "You"
+        },
+        {
+          "startTime": 127352,
+          "endTime": 127482,
+          "word": "can"
+        },
+        {
+          "startTime": 127482,
+          "endTime": 127602,
+          "word": "fly"
+        },
+        {
+          "startTime": 127602,
+          "endTime": 128082,
+          "word": "away"
+        },
+        {
+          "startTime": 128082,
+          "endTime": 128232,
+          "word": "with"
+        },
+        {
+          "startTime": 128232,
+          "endTime": 128512,
+          "word": "me"
+        },
+        {
+          "startTime": 128512,
+          "endTime": 129026,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 129380,
+      "endTime": 131560,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 129380,
+          "endTime": 129673,
+          "word": "You"
+        },
+        {
+          "startTime": 129673,
+          "endTime": 129822,
+          "word": "can"
+        },
+        {
+          "startTime": 129822,
+          "endTime": 129953,
+          "word": "fly"
+        },
+        {
+          "startTime": 129953,
+          "endTime": 130412,
+          "word": "away"
+        },
+        {
+          "startTime": 130412,
+          "endTime": 130592,
+          "word": "with"
+        },
+        {
+          "startTime": 130592,
+          "endTime": 130852,
+          "word": "me"
+        },
+        {
+          "startTime": 130852,
+          "endTime": 131560,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 131750,
+      "endTime": 133631,
+      "text": "Baby, let me take you for a ride",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131754,
+          "endTime": 132156,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 132156,
+          "endTime": 132286,
+          "word": "let"
+        },
+        {
+          "startTime": 132286,
+          "endTime": 132465,
+          "word": "me"
+        },
+        {
+          "startTime": 132465,
+          "endTime": 132716,
+          "word": "take"
+        },
+        {
+          "startTime": 132716,
+          "endTime": 132921,
+          "word": "you"
+        },
+        {
+          "startTime": 132921,
+          "endTime": 133175,
+          "word": "for"
+        },
+        {
+          "startTime": 133175,
+          "endTime": 133305,
+          "word": "a"
+        },
+        {
+          "startTime": 133305,
+          "endTime": 133631,
+          "word": "ride"
+        }
+      ]
+    },
+    {
+      "time": 133640,
+      "endTime": 135173,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 133641,
+          "endTime": 133888,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 133888,
+          "endTime": 134136,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 134136,
+          "endTime": 134406,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 134406,
+          "endTime": 134696,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 134696,
+          "endTime": 135173,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 135730,
+      "endTime": 137986,
+      "text": "My love is like a rocket, watch it blast off",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 135738,
+          "endTime": 135951,
+          "word": "My"
+        },
+        {
+          "startTime": 135951,
+          "endTime": 136111,
+          "word": "love"
+        },
+        {
+          "startTime": 136111,
+          "endTime": 136262,
+          "word": "is"
+        },
+        {
+          "startTime": 136262,
+          "endTime": 136410,
+          "word": "like"
+        },
+        {
+          "startTime": 136410,
+          "endTime": 136561,
+          "word": "a"
+        },
+        {
+          "startTime": 136561,
+          "endTime": 136822,
+          "word": "rocket,"
+        },
+        {
+          "startTime": 136822,
+          "endTime": 136961,
+          "word": "watch"
+        },
+        {
+          "startTime": 136961,
+          "endTime": 137102,
+          "word": "it"
+        },
+        {
+          "startTime": 137102,
+          "endTime": 137361,
+          "word": "blast"
+        },
+        {
+          "startTime": 137361,
+          "endTime": 137986,
+          "word": "off"
+        }
+      ]
+    },
+    {
+      "time": 137990,
+      "endTime": 140340,
+      "text": "And I'm feelin' so electric, dance my ass off",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137996,
+          "endTime": 138139,
+          "word": "And"
+        },
+        {
+          "startTime": 138139,
+          "endTime": 138299,
+          "word": "I'm"
+        },
+        {
+          "startTime": 138299,
+          "endTime": 138588,
+          "word": "feelin'"
+        },
+        {
+          "startTime": 138588,
+          "endTime": 138728,
+          "word": "so"
+        },
+        {
+          "startTime": 138728,
+          "endTime": 139139,
+          "word": "electric,"
+        },
+        {
+          "startTime": 139139,
+          "endTime": 139280,
+          "word": "dance"
+        },
+        {
+          "startTime": 139280,
+          "endTime": 139419,
+          "word": "my"
+        },
+        {
+          "startTime": 139419,
+          "endTime": 139708,
+          "word": "ass"
+        },
+        {
+          "startTime": 139708,
+          "endTime": 140340,
+          "word": "off"
+        }
+      ]
+    },
+    {
+      "time": 140490,
+      "endTime": 142500,
+      "text": "And even if I wanted to I can't stop",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140492,
+          "endTime": 140648,
+          "word": "And"
+        },
+        {
+          "startTime": 140648,
+          "endTime": 140916,
+          "word": "even"
+        },
+        {
+          "startTime": 140916,
+          "endTime": 141057,
+          "word": "if"
+        },
+        {
+          "startTime": 141057,
+          "endTime": 141196,
+          "word": "I"
+        },
+        {
+          "startTime": 141196,
+          "endTime": 141457,
+          "word": "wanted"
+        },
+        {
+          "startTime": 141457,
+          "endTime": 141596,
+          "word": "to"
+        },
+        {
+          "startTime": 141596,
+          "endTime": 141756,
+          "word": "I"
+        },
+        {
+          "startTime": 141756,
+          "endTime": 142036,
+          "word": "can't"
+        },
+        {
+          "startTime": 142036,
+          "endTime": 142500,
+          "word": "stop"
+        }
+      ]
+    },
+    {
+      "time": 142980,
+      "endTime": 145122,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 142983,
+          "endTime": 143395,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 143395,
+          "endTime": 143774,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 143774,
+          "endTime": 144195,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 144195,
+          "endTime": 144614,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 144614,
+          "endTime": 145122,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 145130,
+      "endTime": 147215,
+      "text": "My love is like a rocket, watch it blast off",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 145132,
+          "endTime": 145312,
+          "word": "My"
+        },
+        {
+          "startTime": 145312,
+          "endTime": 145443,
+          "word": "love"
+        },
+        {
+          "startTime": 145443,
+          "endTime": 145572,
+          "word": "is"
+        },
+        {
+          "startTime": 145572,
+          "endTime": 145702,
+          "word": "like"
+        },
+        {
+          "startTime": 145702,
+          "endTime": 145862,
+          "word": "a"
+        },
+        {
+          "startTime": 145862,
+          "endTime": 146172,
+          "word": "rocket,"
+        },
+        {
+          "startTime": 146172,
+          "endTime": 146302,
+          "word": "watch"
+        },
+        {
+          "startTime": 146302,
+          "endTime": 146433,
+          "word": "it"
+        },
+        {
+          "startTime": 146433,
+          "endTime": 146723,
+          "word": "blast"
+        },
+        {
+          "startTime": 146723,
+          "endTime": 147215,
+          "word": "off"
+        }
+      ]
+    },
+    {
+      "time": 147220,
+      "endTime": 149650,
+      "text": "And I'm feelin' so electric, dance my ass off",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147225,
+          "endTime": 147435,
+          "word": "And"
+        },
+        {
+          "startTime": 147435,
+          "endTime": 147595,
+          "word": "I'm"
+        },
+        {
+          "startTime": 147595,
+          "endTime": 147894,
+          "word": "feelin'"
+        },
+        {
+          "startTime": 147894,
+          "endTime": 148045,
+          "word": "so"
+        },
+        {
+          "startTime": 148045,
+          "endTime": 148475,
+          "word": "electric,"
+        },
+        {
+          "startTime": 148475,
+          "endTime": 148614,
+          "word": "dance"
+        },
+        {
+          "startTime": 148614,
+          "endTime": 148765,
+          "word": "my"
+        },
+        {
+          "startTime": 148765,
+          "endTime": 149025,
+          "word": "ass"
+        },
+        {
+          "startTime": 149025,
+          "endTime": 149650,
+          "word": "off"
+        }
+      ]
+    },
+    {
+      "time": 149820,
+      "endTime": 151879,
+      "text": "And even if I wanted to I can't stop",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149825,
+          "endTime": 149987,
+          "word": "And"
+        },
+        {
+          "startTime": 149987,
+          "endTime": 150286,
+          "word": "even"
+        },
+        {
+          "startTime": 150286,
+          "endTime": 150427,
+          "word": "if"
+        },
+        {
+          "startTime": 150427,
+          "endTime": 150557,
+          "word": "I"
+        },
+        {
+          "startTime": 150557,
+          "endTime": 150827,
+          "word": "wanted"
+        },
+        {
+          "startTime": 150827,
+          "endTime": 150966,
+          "word": "to"
+        },
+        {
+          "startTime": 150966,
+          "endTime": 151117,
+          "word": "I"
+        },
+        {
+          "startTime": 151117,
+          "endTime": 151387,
+          "word": "can't"
+        },
+        {
+          "startTime": 151387,
+          "endTime": 151879,
+          "word": "stop"
+        }
+      ]
+    },
+    {
+      "time": 152190,
+      "endTime": 154715,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 152192,
+          "endTime": 152735,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 152735,
+          "endTime": 153184,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 153184,
+          "endTime": 153615,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 153615,
+          "endTime": 154024,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 154024,
+          "endTime": 154715,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 155060,
+      "endTime": 156970,
+      "text": "You want me, I want you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 155064,
+          "endTime": 155195,
+          "word": "You"
+        },
+        {
+          "startTime": 155195,
+          "endTime": 155465,
+          "word": "want"
+        },
+        {
+          "startTime": 155465,
+          "endTime": 155795,
+          "word": "me,"
+        },
+        {
+          "startTime": 156168,
+          "endTime": 156305,
+          "word": "I"
+        },
+        {
+          "startTime": 156305,
+          "endTime": 156475,
+          "word": "want"
+        },
+        {
+          "startTime": 156475,
+          "endTime": 156595,
+          "word": "you,"
+        },
+        {
+          "startTime": 156595,
+          "endTime": 156970,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 157310,
+      "endTime": 159286,
+      "text": "My sugarboo, I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157317,
+          "endTime": 157550,
+          "word": "My"
+        },
+        {
+          "startTime": 157550,
+          "endTime": 158141,
+          "word": "sugarboo,"
+        },
+        {
+          "startTime": 158578,
+          "endTime": 158698,
+          "word": "I'm"
+        },
+        {
+          "startTime": 158698,
+          "endTime": 159286,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 159680,
+      "endTime": 161595,
+      "text": "The Milky Way, we're renegading",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159686,
+          "endTime": 159877,
+          "word": "The"
+        },
+        {
+          "startTime": 159877,
+          "endTime": 160147,
+          "word": "Milky"
+        },
+        {
+          "startTime": 160147,
+          "endTime": 160427,
+          "word": "Way,"
+        },
+        {
+          "startTime": 160867,
+          "endTime": 161016,
+          "word": "we're"
+        },
+        {
+          "startTime": 161016,
+          "endTime": 161595,
+          "word": "renegading"
+        }
+      ]
+    },
+    {
+      "time": 163440,
+      "endTime": 168130,
+      "text": "I got you, moonlight, you're my starlight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 163447,
+          "endTime": 163600,
+          "word": "I"
+        },
+        {
+          "startTime": 163600,
+          "endTime": 163923,
+          "word": "got"
+        },
+        {
+          "startTime": 163923,
+          "endTime": 164492,
+          "word": "you,"
+        },
+        {
+          "startTime": 165153,
+          "endTime": 165963,
+          "word": "moonlight,"
+        },
+        {
+          "startTime": 166343,
+          "endTime": 166743,
+          "word": "you're"
+        },
+        {
+          "startTime": 166743,
+          "endTime": 167113,
+          "word": "my"
+        },
+        {
+          "startTime": 167403,
+          "endTime": 168130,
+          "word": "starlight"
+        }
+      ]
+    },
+    {
+      "time": 168140,
+      "endTime": 172103,
+      "text": "I need you all night, come on, dance with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 168140,
+          "endTime": 168279,
+          "word": "I"
+        },
+        {
+          "startTime": 168279,
+          "endTime": 168548,
+          "word": "need"
+        },
+        {
+          "startTime": 168548,
+          "endTime": 169094,
+          "word": "you"
+        },
+        {
+          "startTime": 169735,
+          "endTime": 170163,
+          "word": "all"
+        },
+        {
+          "startTime": 170163,
+          "endTime": 170541,
+          "word": "night,"
+        },
+        {
+          "startTime": 170937,
+          "endTime": 171128,
+          "word": "come"
+        },
+        {
+          "startTime": 171128,
+          "endTime": 171353,
+          "word": "on,"
+        },
+        {
+          "startTime": 171353,
+          "endTime": 171623,
+          "word": "dance"
+        },
+        {
+          "startTime": 171623,
+          "endTime": 171774,
+          "word": "with"
+        },
+        {
+          "startTime": 171774,
+          "endTime": 172103,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 172550,
+      "endTime": 173210,
+      "text": "I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 172552,
+          "endTime": 172701,
+          "word": "I'm"
+        },
+        {
+          "startTime": 172701,
+          "endTime": 173210,
+          "word": "levitating"
+        }
+      ]
+    },
+    {
+      "time": 173730,
+      "endTime": 175684,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 173733,
+          "endTime": 173901,
+          "word": "You"
+        },
+        {
+          "startTime": 173901,
+          "endTime": 174118,
+          "word": "can"
+        },
+        {
+          "startTime": 174118,
+          "endTime": 174238,
+          "word": "fly"
+        },
+        {
+          "startTime": 174238,
+          "endTime": 174718,
+          "word": "away"
+        },
+        {
+          "startTime": 174718,
+          "endTime": 174869,
+          "word": "with"
+        },
+        {
+          "startTime": 174869,
+          "endTime": 175139,
+          "word": "me"
+        },
+        {
+          "startTime": 175139,
+          "endTime": 175684,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 175990,
+      "endTime": 178244,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 175999,
+          "endTime": 176218,
+          "word": "You"
+        },
+        {
+          "startTime": 176218,
+          "endTime": 176423,
+          "word": "can"
+        },
+        {
+          "startTime": 176423,
+          "endTime": 176583,
+          "word": "fly"
+        },
+        {
+          "startTime": 176583,
+          "endTime": 177023,
+          "word": "away"
+        },
+        {
+          "startTime": 177023,
+          "endTime": 177143,
+          "word": "with"
+        },
+        {
+          "startTime": 177143,
+          "endTime": 177442,
+          "word": "me"
+        },
+        {
+          "startTime": 177442,
+          "endTime": 178244,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 178400,
+      "endTime": 180167,
+      "text": "Baby, let me take you for a ride",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 178409,
+          "endTime": 178769,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 178769,
+          "endTime": 178899,
+          "word": "let"
+        },
+        {
+          "startTime": 178899,
+          "endTime": 179059,
+          "word": "me"
+        },
+        {
+          "startTime": 179059,
+          "endTime": 179349,
+          "word": "take"
+        },
+        {
+          "startTime": 179349,
+          "endTime": 179499,
+          "word": "you"
+        },
+        {
+          "startTime": 179499,
+          "endTime": 179760,
+          "word": "for"
+        },
+        {
+          "startTime": 179760,
+          "endTime": 179920,
+          "word": "a"
+        },
+        {
+          "startTime": 179920,
+          "endTime": 180167,
+          "word": "ride"
+        }
+      ]
+    },
+    {
+      "time": 180170,
+      "endTime": 181693,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 180177,
+          "endTime": 180480,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 180480,
+          "endTime": 180741,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 180741,
+          "endTime": 181000,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 181000,
+          "endTime": 181261,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 181261,
+          "endTime": 181693,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 181870,
+      "endTime": 183063,
+      "text": "I'm levitating (Woo)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181878,
+          "endTime": 181990,
+          "word": "I'm"
+        },
+        {
+          "startTime": 181990,
+          "endTime": 182600,
+          "word": "levitating"
+        },
+        {
+          "startTime": 182600,
+          "endTime": 183063,
+          "word": "(Woo)"
+        }
+      ]
+    },
+    {
+      "time": 183070,
+      "endTime": 184930,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 183073,
+          "endTime": 183233,
+          "word": "You"
+        },
+        {
+          "startTime": 183233,
+          "endTime": 183412,
+          "word": "can"
+        },
+        {
+          "startTime": 183412,
+          "endTime": 183532,
+          "word": "fly"
+        },
+        {
+          "startTime": 183532,
+          "endTime": 183991,
+          "word": "away"
+        },
+        {
+          "startTime": 183991,
+          "endTime": 184151,
+          "word": "with"
+        },
+        {
+          "startTime": 184151,
+          "endTime": 184391,
+          "word": "me"
+        },
+        {
+          "startTime": 184391,
+          "endTime": 184930,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 185310,
+      "endTime": 187455,
+      "text": "You can fly away with me tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 185310,
+          "endTime": 185485,
+          "word": "You"
+        },
+        {
+          "startTime": 185485,
+          "endTime": 185745,
+          "word": "can"
+        },
+        {
+          "startTime": 185745,
+          "endTime": 185935,
+          "word": "fly"
+        },
+        {
+          "startTime": 185935,
+          "endTime": 186324,
+          "word": "away"
+        },
+        {
+          "startTime": 186324,
+          "endTime": 186475,
+          "word": "with"
+        },
+        {
+          "startTime": 186475,
+          "endTime": 186715,
+          "word": "me"
+        },
+        {
+          "startTime": 186715,
+          "endTime": 187455,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 187690,
+      "endTime": 189543,
+      "text": "Baby, let me take you for a ride",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 187690,
+          "endTime": 188091,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 188091,
+          "endTime": 188211,
+          "word": "let"
+        },
+        {
+          "startTime": 188211,
+          "endTime": 188371,
+          "word": "me"
+        },
+        {
+          "startTime": 188371,
+          "endTime": 188641,
+          "word": "take"
+        },
+        {
+          "startTime": 188641,
+          "endTime": 188790,
+          "word": "you"
+        },
+        {
+          "startTime": 188790,
+          "endTime": 189081,
+          "word": "for"
+        },
+        {
+          "startTime": 189081,
+          "endTime": 189230,
+          "word": "a"
+        },
+        {
+          "startTime": 189230,
+          "endTime": 189543,
+          "word": "ride"
+        }
+      ]
+    },
+    {
+      "time": 189550,
+      "endTime": 191193,
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "agent": "v1000",
+      "words": [
+        {
+          "startTime": 189553,
+          "endTime": 189797,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 189797,
+          "endTime": 190056,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 190056,
+          "endTime": 190326,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 190326,
+          "endTime": 190606,
+          "word": "yeah,"
+        },
+        {
+          "startTime": 190606,
+          "endTime": 191193,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 191480,
+      "endTime": 196079,
+      "text": "I got you, moonlight, you're my starlight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 191486,
+          "endTime": 191598,
+          "word": "I"
+        },
+        {
+          "startTime": 191598,
+          "endTime": 191890,
+          "word": "got"
+        },
+        {
+          "startTime": 191890,
+          "endTime": 192570,
+          "word": "you,"
+        },
+        {
+          "startTime": 193069,
+          "endTime": 193909,
+          "word": "moonlight,"
+        },
+        {
+          "startTime": 194228,
+          "endTime": 194678,
+          "word": "you're"
+        },
+        {
+          "startTime": 194678,
+          "endTime": 195078,
+          "word": "my"
+        },
+        {
+          "startTime": 195389,
+          "endTime": 196079,
+          "word": "starlight"
+        }
+      ]
+    },
+    {
+      "time": 196080,
+      "endTime": 200341,
+      "text": "I need you all night, come on, dance with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 196089,
+          "endTime": 196249,
+          "word": "I"
+        },
+        {
+          "startTime": 196249,
+          "endTime": 196518,
+          "word": "need"
+        },
+        {
+          "startTime": 196518,
+          "endTime": 197108,
+          "word": "you"
+        },
+        {
+          "startTime": 197668,
+          "endTime": 198130,
+          "word": "all"
+        },
+        {
+          "startTime": 198130,
+          "endTime": 198539,
+          "word": "night,"
+        },
+        {
+          "startTime": 198889,
+          "endTime": 199019,
+          "word": "come"
+        },
+        {
+          "startTime": 199019,
+          "endTime": 199289,
+          "word": "on,"
+        },
+        {
+          "startTime": 199289,
+          "endTime": 199579,
+          "word": "dance"
+        },
+        {
+          "startTime": 199579,
+          "endTime": 199715,
+          "word": "with"
+        },
+        {
+          "startTime": 199715,
+          "endTime": 200341,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 200490,
+      "endTime": 201253,
+      "text": "I'm levitating",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 200494,
+          "endTime": 200624,
+          "word": "I'm"
+        },
+        {
+          "startTime": 200624,
+          "endTime": 201253,
+          "word": "levitating"
+        }
+      ]
+    }
+  ]
+}
