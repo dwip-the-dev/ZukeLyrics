@@ -1,0 +1,1840 @@
+{
+  "videoId": "WKZO-CWeOVA",
+  "title": "BIRDS OF A FEATHER",
+  "artist": "Billie Eilish",
+  "duration": 211,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:03.720\" end=\"00:05.633\" ttm:agent=\"v1\">\n        <span begin=\"00:03.724\" end=\"00:03.847\">I<\/span>\n        <span begin=\"00:03.847\" end=\"00:04.274\">WANT<\/span>\n        <span begin=\"00:04.274\" end=\"00:04.479\">YOU<\/span>\n        <span begin=\"00:04.479\" end=\"00:04.759\">TO<\/span>\n        <span begin=\"00:04.759\" end=\"00:05.633\">STAY<\/span>\n      <\/p>\n      <p begin=\"00:08.350\" end=\"00:10.265\" ttm:agent=\"v1\">\n        <span begin=\"00:08.353\" end=\"00:08.576\">TILL<\/span>\n        <span begin=\"00:08.576\" end=\"00:08.853\">I&apos;M<\/span>\n        <span begin=\"00:08.853\" end=\"00:09.120\">IN<\/span>\n        <span begin=\"00:09.120\" end=\"00:09.386\">THE<\/span>\n        <span begin=\"00:09.386\" end=\"00:10.265\">GRAVE<\/span>\n      <\/p>\n      <p begin=\"00:12.900\" end=\"00:17.049\" ttm:agent=\"v1\">\n        <span begin=\"00:12.907\" end=\"00:13.195\">TILL<\/span>\n        <span begin=\"00:13.195\" end=\"00:13.445\">I<\/span>\n        <span begin=\"00:13.445\" end=\"00:13.837\">ROT<\/span>\n        <span begin=\"00:13.837\" end=\"00:14.764\">AWAY,<\/span>\n        <span begin=\"00:14.947\" end=\"00:15.431\">DEAD<\/span>\n        <span begin=\"00:15.464\" end=\"00:15.845\">AND<\/span>\n        <span begin=\"00:16.027\" end=\"00:17.049\">BURIED<\/span>\n      <\/p>\n      <p begin=\"00:17.450\" end=\"00:21.560\" ttm:agent=\"v1\">\n        <span begin=\"00:17.451\" end=\"00:17.687\">TILL<\/span>\n        <span begin=\"00:17.687\" end=\"00:17.983\">I&apos;M<\/span>\n        <span begin=\"00:17.983\" end=\"00:18.268\">IN<\/span>\n        <span begin=\"00:18.268\" end=\"00:18.532\">THE<\/span>\n        <span begin=\"00:18.532\" end=\"00:19.978\">CASKET<\/span>\n        <span begin=\"00:20.050\" end=\"00:20.547\">YOU<\/span>\n        <span begin=\"00:20.634\" end=\"00:21.560\">CARRY<\/span>\n      <\/p>\n      <p begin=\"00:21.640\" end=\"00:23.891\" ttm:agent=\"v1\">\n        <span begin=\"00:21.640\" end=\"00:21.880\">IF<\/span>\n        <span begin=\"00:21.880\" end=\"00:22.104\">YOU<\/span>\n        <span begin=\"00:22.104\" end=\"00:22.379\">GO,<\/span>\n        <span begin=\"00:22.379\" end=\"00:22.680\">I&apos;M<\/span>\n        <span begin=\"00:22.680\" end=\"00:23.229\">GOIN&apos;<\/span>\n        <span begin=\"00:23.229\" end=\"00:23.891\">TOO<\/span>\n      <\/p>\n      <p begin=\"00:26.450\" end=\"00:28.604\" ttm:agent=\"v1\">\n        <span begin=\"00:26.459\" end=\"00:26.707\">&apos;CAUSE<\/span>\n        <span begin=\"00:26.707\" end=\"00:26.807\">IT<\/span>\n        <span begin=\"00:26.807\" end=\"00:27.239\">WAS<\/span>\n        <span begin=\"00:27.239\" end=\"00:27.858\">ALWAYS<\/span>\n        <span begin=\"00:27.858\" end=\"00:28.604\">YOU<\/span>\n      <\/p>\n      <p begin=\"00:31.100\" end=\"00:35.358\" ttm:agent=\"v1\">\n        <span begin=\"00:31.106\" end=\"00:31.261\">AND<\/span>\n        <span begin=\"00:31.261\" end=\"00:31.437\">IF<\/span>\n        <span begin=\"00:31.437\" end=\"00:31.719\">I&apos;M<\/span>\n        <span begin=\"00:31.719\" end=\"00:32.269\">TURNIN&apos;<\/span>\n        <span begin=\"00:32.269\" end=\"00:33.090\">BLUE,<\/span>\n        <span begin=\"00:33.247\" end=\"00:33.754\">PLEASE<\/span>\n        <span begin=\"00:33.797\" end=\"00:34.194\">DON&apos;T<\/span>\n        <span begin=\"00:34.237\" end=\"00:34.885\">SAVE<\/span>\n        <span begin=\"00:34.885\" end=\"00:35.358\">ME<\/span>\n      <\/p>\n      <p begin=\"00:35.750\" end=\"00:40.604\" ttm:agent=\"v1\">\n        <span begin=\"00:35.750\" end=\"00:36.285\">NOTHIN&apos;<\/span>\n        <span begin=\"00:36.285\" end=\"00:36.669\">LEFT<\/span>\n        <span begin=\"00:36.669\" end=\"00:36.939\">TO<\/span>\n        <span begin=\"00:36.939\" end=\"00:37.440\">LOSE<\/span>\n        <span begin=\"00:37.498\" end=\"00:38.285\">WITHOUT<\/span>\n        <span begin=\"00:38.323\" end=\"00:38.852\">MY<\/span>\n        <span begin=\"00:38.960\" end=\"00:40.604\">BABY<\/span>\n      <\/p>\n      <p begin=\"00:41.700\" end=\"00:43.272\" ttm:agent=\"v1\">\n        <span begin=\"00:41.702\" end=\"00:42.017\">BIRDS<\/span>\n        <span begin=\"00:42.017\" end=\"00:42.354\">OF<\/span>\n        <span begin=\"00:42.354\" end=\"00:42.479\">A<\/span>\n        <span begin=\"00:42.479\" end=\"00:43.272\">FEATHER<\/span>\n      <\/p>\n      <p begin=\"00:43.500\" end=\"00:46.107\" ttm:agent=\"v1\">\n        <span begin=\"00:43.506\" end=\"00:43.931\">WE<\/span>\n        <span begin=\"00:44.009\" end=\"00:44.254\">SHOULD<\/span>\n        <span begin=\"00:44.254\" end=\"00:44.582\">STICK<\/span>\n        <span begin=\"00:44.582\" end=\"00:45.430\">TOGETHER,<\/span>\n        <span begin=\"00:45.430\" end=\"00:45.697\">I<\/span>\n        <span begin=\"00:45.697\" end=\"00:46.107\">KNOW<\/span>\n      <\/p>\n      <p begin=\"00:46.350\" end=\"00:47.900\" ttm:agent=\"v1\">\n        <span begin=\"00:46.356\" end=\"00:46.505\">I<\/span>\n        <span begin=\"00:46.505\" end=\"00:47.009\">SAID<\/span>\n        <span begin=\"00:47.009\" end=\"00:47.297\">I&apos;D<\/span>\n        <span begin=\"00:47.297\" end=\"00:47.900\">NEVER<\/span>\n      <\/p>\n      <p begin=\"00:48.000\" end=\"00:50.707\" ttm:agent=\"v1\">\n        <span begin=\"00:48.007\" end=\"00:48.506\">THINK<\/span>\n        <span begin=\"00:48.605\" end=\"00:48.822\">I<\/span>\n        <span begin=\"00:48.822\" end=\"00:49.462\">WASN&apos;T<\/span>\n        <span begin=\"00:49.462\" end=\"00:49.944\">BETTER<\/span>\n        <span begin=\"00:49.944\" end=\"00:50.707\">ALONE<\/span>\n      <\/p>\n      <p begin=\"00:50.850\" end=\"00:52.358\" ttm:agent=\"v1\">\n        <span begin=\"00:50.858\" end=\"00:51.111\">CAN&apos;T<\/span>\n        <span begin=\"00:51.111\" end=\"00:51.461\">CHANGE<\/span>\n        <span begin=\"00:51.461\" end=\"00:51.621\">THE<\/span>\n        <span begin=\"00:51.621\" end=\"00:52.358\">WEATHER<\/span>\n      <\/p>\n      <p begin=\"00:52.600\" end=\"00:54.624\" ttm:agent=\"v1\">\n        <span begin=\"00:52.602\" end=\"00:53.068\">MIGHT<\/span>\n        <span begin=\"00:53.233\" end=\"00:53.534\">NOT<\/span>\n        <span begin=\"00:53.534\" end=\"00:53.777\">BE<\/span>\n        <span begin=\"00:53.777\" end=\"00:54.624\">FOREVER<\/span>\n      <\/p>\n      <p begin=\"00:54.620\" end=\"00:59.934\" ttm:agent=\"v1\">\n        <span begin=\"00:54.624\" end=\"00:54.984\">BUT<\/span>\n        <span begin=\"00:54.984\" end=\"00:55.229\">IF<\/span>\n        <span begin=\"00:55.482\" end=\"00:55.758\">IT&apos;S<\/span>\n        <span begin=\"00:56.043\" end=\"00:57.192\">FOREVER,<\/span>\n        <span begin=\"00:57.192\" end=\"00:57.709\">IT&apos;S<\/span>\n        <span begin=\"00:57.760\" end=\"00:58.576\">EVEN<\/span>\n        <span begin=\"00:58.576\" end=\"00:59.934\">BETTER<\/span>\n      <\/p>\n      <p begin=\"01:00.050\" end=\"01:04.706\" ttm:agent=\"v1\">\n        <span begin=\"01:00.058\" end=\"01:00.287\">AND<\/span>\n        <span begin=\"01:00.287\" end=\"01:00.813\">I<\/span>\n        <span begin=\"01:00.813\" end=\"01:01.365\">DON&apos;T<\/span>\n        <span begin=\"01:01.365\" end=\"01:02.031\">KNOW<\/span>\n        <span begin=\"01:02.031\" end=\"01:02.613\">WHAT<\/span>\n        <span begin=\"01:02.613\" end=\"01:03.099\">I&apos;M<\/span>\n        <span begin=\"01:03.197\" end=\"01:04.242\">CRYIN&apos;<\/span>\n        <span begin=\"01:04.242\" end=\"01:04.706\">FOR<\/span>\n      <\/p>\n      <p begin=\"01:04.850\" end=\"01:09.747\" ttm:agent=\"v1\">\n        <span begin=\"01:04.855\" end=\"01:05.467\">I<\/span>\n        <span begin=\"01:05.467\" end=\"01:05.976\">DON&apos;T<\/span>\n        <span begin=\"01:05.976\" end=\"01:06.611\">THINK<\/span>\n        <span begin=\"01:06.611\" end=\"01:07.176\">I<\/span>\n        <span begin=\"01:07.176\" end=\"01:07.725\">COULD<\/span>\n        <span begin=\"01:07.811\" end=\"01:08.344\">LOVE<\/span>\n        <span begin=\"01:08.344\" end=\"01:08.627\">YOU<\/span>\n        <span begin=\"01:08.627\" end=\"01:09.747\">MORE<\/span>\n      <\/p>\n      <p begin=\"01:09.250\" end=\"01:14.955\" ttm:agent=\"v1\">\n        <span begin=\"01:09.258\" end=\"01:09.534\">IT<\/span>\n        <span begin=\"01:09.534\" end=\"01:10.041\">MIGHT<\/span>\n        <span begin=\"01:10.041\" end=\"01:10.574\">NOT<\/span>\n        <span begin=\"01:10.574\" end=\"01:11.139\">BE<\/span>\n        <span begin=\"01:11.139\" end=\"01:11.774\">LONG,<\/span>\n        <span begin=\"01:11.774\" end=\"01:12.390\">BUT,<\/span>\n        <span begin=\"01:12.390\" end=\"01:13.123\">BABY,<\/span>\n        <span begin=\"01:13.123\" end=\"01:14.955\">I<\/span>\n      <\/p>\n      <p begin=\"01:15.530\" end=\"01:20.723\" ttm:agent=\"v1\">\n        <span begin=\"01:15.537\" end=\"01:15.762\">I&apos;LL<\/span>\n        <span begin=\"01:15.762\" end=\"01:16.000\">LOVE<\/span>\n        <span begin=\"01:16.000\" end=\"01:16.251\">YOU<\/span>\n        <span begin=\"01:16.251\" end=\"01:16.550\">TILL<\/span>\n        <span begin=\"01:16.550\" end=\"01:16.832\">THE<\/span>\n        <span begin=\"01:16.832\" end=\"01:17.118\">DAY<\/span>\n        <span begin=\"01:17.118\" end=\"01:17.432\">THAT<\/span>\n        <span begin=\"01:17.432\" end=\"01:17.750\">I<\/span>\n        <span begin=\"01:17.750\" end=\"01:20.723\">DIE<\/span>\n      <\/p>\n      <p begin=\"01:20.910\" end=\"01:25.194\" ttm:agent=\"v1\">\n        <span begin=\"01:20.911\" end=\"01:21.154\">TILL<\/span>\n        <span begin=\"01:21.154\" end=\"01:21.407\">THE<\/span>\n        <span begin=\"01:21.407\" end=\"01:21.762\">DAY<\/span>\n        <span begin=\"01:21.762\" end=\"01:22.020\">THAT<\/span>\n        <span begin=\"01:22.020\" end=\"01:22.348\">I<\/span>\n        <span begin=\"01:22.348\" end=\"01:25.194\">DIE<\/span>\n      <\/p>\n      <p begin=\"01:25.520\" end=\"01:29.777\" ttm:agent=\"v1\">\n        <span begin=\"01:25.524\" end=\"01:25.807\">TILL<\/span>\n        <span begin=\"01:25.807\" end=\"01:26.082\">THE<\/span>\n        <span begin=\"01:26.082\" end=\"01:26.285\">LIGHT<\/span>\n        <span begin=\"01:26.285\" end=\"01:26.621\">LEAVES<\/span>\n        <span begin=\"01:26.621\" end=\"01:26.834\">MY<\/span>\n        <span begin=\"01:26.834\" end=\"01:29.777\">EYES<\/span>\n      <\/p>\n      <p begin=\"01:30.020\" end=\"01:35.176\" ttm:agent=\"v1\">\n        <span begin=\"01:30.027\" end=\"01:30.261\">TILL<\/span>\n        <span begin=\"01:30.261\" end=\"01:30.650\">THE<\/span>\n        <span begin=\"01:30.650\" end=\"01:30.913\">DAY<\/span>\n        <span begin=\"01:30.913\" end=\"01:31.247\">THAT<\/span>\n        <span begin=\"01:31.247\" end=\"01:31.434\">I<\/span>\n        <span begin=\"01:31.434\" end=\"01:35.176\">DIE<\/span>\n      <\/p>\n      <p begin=\"01:35.170\" end=\"01:37.309\" ttm:agent=\"v1\">\n        <span begin=\"01:35.176\" end=\"01:35.341\">I<\/span>\n        <span begin=\"01:35.341\" end=\"01:35.670\">WANT<\/span>\n        <span begin=\"01:35.670\" end=\"01:35.911\">YOU<\/span>\n        <span begin=\"01:35.911\" end=\"01:36.202\">TO<\/span>\n        <span begin=\"01:36.202\" end=\"01:37.309\">SEE<\/span>\n      <\/p>\n      <p begin=\"01:39.690\" end=\"01:41.824\" ttm:agent=\"v1\">\n        <span begin=\"01:39.692\" end=\"01:39.995\">HOW<\/span>\n        <span begin=\"01:39.995\" end=\"01:40.182\">YOU<\/span>\n        <span begin=\"01:40.182\" end=\"01:40.563\">LOOK<\/span>\n        <span begin=\"01:40.563\" end=\"01:40.811\">TO<\/span>\n        <span begin=\"01:40.811\" end=\"01:41.824\">ME<\/span>\n      <\/p>\n      <p begin=\"01:44.270\" end=\"01:48.493\" ttm:agent=\"v1\">\n        <span begin=\"01:44.276\" end=\"01:44.497\">YOU<\/span>\n        <span begin=\"01:44.497\" end=\"01:45.172\">WOULDN&apos;T<\/span>\n        <span begin=\"01:45.172\" end=\"01:46.140\">BELIEVE<\/span>\n        <span begin=\"01:46.305\" end=\"01:46.782\">IF<\/span>\n        <span begin=\"01:46.905\" end=\"01:47.374\">I<\/span>\n        <span begin=\"01:47.505\" end=\"01:48.023\">TOLD<\/span>\n        <span begin=\"01:48.023\" end=\"01:48.493\">YA<\/span>\n      <\/p>\n      <p begin=\"01:48.800\" end=\"01:52.991\" ttm:agent=\"v1\">\n        <span begin=\"01:48.808\" end=\"01:48.991\">YOU<\/span>\n        <span begin=\"01:48.991\" end=\"01:49.402\">WOULD<\/span>\n        <span begin=\"01:49.402\" end=\"01:49.739\">KEEP<\/span>\n        <span begin=\"01:49.739\" end=\"01:49.960\">THE<\/span>\n        <span begin=\"01:49.960\" end=\"01:51.439\">COMPLIMENTS<\/span>\n        <span begin=\"01:51.512\" end=\"01:51.911\">I<\/span>\n        <span begin=\"01:51.979\" end=\"01:52.489\">THROW<\/span>\n        <span begin=\"01:52.489\" end=\"01:52.991\">YA<\/span>\n      <\/p>\n      <p begin=\"01:53.160\" end=\"01:55.392\" ttm:agent=\"v1\">\n        <span begin=\"01:53.160\" end=\"01:53.412\">BUT<\/span>\n        <span begin=\"01:53.412\" end=\"01:53.704\">YOU&apos;RE<\/span>\n        <span begin=\"01:53.704\" end=\"01:53.920\">SO<\/span>\n        <span begin=\"01:53.920\" end=\"01:54.288\">FULL<\/span>\n        <span begin=\"01:54.288\" end=\"01:54.424\">OF<\/span>\n        <span begin=\"01:54.424\" end=\"01:55.392\">SHIT<\/span>\n      <\/p>\n      <p begin=\"01:58.070\" end=\"02:00.274\" ttm:agent=\"v1\">\n        <span begin=\"01:58.076\" end=\"01:58.187\">TELL<\/span>\n        <span begin=\"01:58.187\" end=\"01:58.526\">ME<\/span>\n        <span begin=\"01:58.526\" end=\"01:58.945\">IT&apos;S<\/span>\n        <span begin=\"01:58.945\" end=\"01:59.161\">A<\/span>\n        <span begin=\"01:59.161\" end=\"02:00.274\">BIT<\/span>\n      <\/p>\n      <p begin=\"01:58.070\" end=\"02:02.161\" role=\"x-bg\">\n        <span begin=\"02:01.122\" end=\"02:01.527\">(OH,<\/span>\n        <span begin=\"02:01.527\" end=\"02:02.161\">OH)<\/span>\n      <\/p>\n      <p begin=\"02:02.500\" end=\"02:06.741\" ttm:agent=\"v1\">\n        <span begin=\"02:02.508\" end=\"02:02.713\">SAY<\/span>\n        <span begin=\"02:02.713\" end=\"02:03.103\">YOU<\/span>\n        <span begin=\"02:03.103\" end=\"02:03.494\">DON&apos;T<\/span>\n        <span begin=\"02:03.494\" end=\"02:03.740\">SEE<\/span>\n        <span begin=\"02:03.740\" end=\"02:04.175\">IT,<\/span>\n        <span begin=\"02:04.197\" end=\"02:04.579\">YOUR<\/span>\n        <span begin=\"02:04.579\" end=\"02:05.116\">MIND&apos;S<\/span>\n        <span begin=\"02:05.213\" end=\"02:06.741\">POLLUTED<\/span>\n      <\/p>\n      <p begin=\"02:07.190\" end=\"02:12.474\" ttm:agent=\"v1\">\n        <span begin=\"02:07.194\" end=\"02:07.354\">SAY<\/span>\n        <span begin=\"02:07.354\" end=\"02:07.712\">YOU<\/span>\n        <span begin=\"02:07.712\" end=\"02:08.338\">WANNA<\/span>\n        <span begin=\"02:08.338\" end=\"02:08.913\">QUIT,<\/span>\n        <span begin=\"02:09.103\" end=\"02:09.646\">DON&apos;T<\/span>\n        <span begin=\"02:09.703\" end=\"02:10.189\">BE<\/span>\n        <span begin=\"02:10.189\" end=\"02:12.474\">STUPID<\/span>\n      <\/p>\n      <p begin=\"02:13.290\" end=\"02:17.791\" ttm:agent=\"v1\">\n        <span begin=\"02:13.292\" end=\"02:13.517\">AND<\/span>\n        <span begin=\"02:13.517\" end=\"02:14.019\">I<\/span>\n        <span begin=\"02:14.019\" end=\"02:14.621\">DON&apos;T<\/span>\n        <span begin=\"02:14.621\" end=\"02:15.172\">KNOW<\/span>\n        <span begin=\"02:15.172\" end=\"02:15.737\">WHAT<\/span>\n        <span begin=\"02:15.737\" end=\"02:16.305\">I&apos;M<\/span>\n        <span begin=\"02:16.305\" end=\"02:17.287\">CRYIN&apos;<\/span>\n        <span begin=\"02:17.287\" end=\"02:17.791\">FOR<\/span>\n      <\/p>\n      <p begin=\"02:18.010\" end=\"02:22.451\" ttm:agent=\"v1\">\n        <span begin=\"02:18.010\" end=\"02:18.586\">I<\/span>\n        <span begin=\"02:18.586\" end=\"02:19.111\">DON&apos;T<\/span>\n        <span begin=\"02:19.111\" end=\"02:19.711\">THINK<\/span>\n        <span begin=\"02:19.711\" end=\"02:20.261\">I<\/span>\n        <span begin=\"02:20.261\" end=\"02:20.863\">COULD<\/span>\n        <span begin=\"02:20.863\" end=\"02:21.397\">LOVE<\/span>\n        <span begin=\"02:21.397\" end=\"02:21.679\">YOU<\/span>\n        <span begin=\"02:21.679\" end=\"02:22.451\">MORE<\/span>\n      <\/p>\n      <p begin=\"02:22.450\" end=\"02:28.258\" ttm:agent=\"v1\">\n        <span begin=\"02:22.451\" end=\"02:22.755\">IT<\/span>\n        <span begin=\"02:22.755\" end=\"02:23.279\">MIGHT<\/span>\n        <span begin=\"02:23.279\" end=\"02:23.745\">NOT<\/span>\n        <span begin=\"02:23.745\" end=\"02:24.279\">BE<\/span>\n        <span begin=\"02:24.279\" end=\"02:24.713\">LONG,<\/span>\n        <span begin=\"02:24.713\" end=\"02:25.380\">BUT,<\/span>\n        <span begin=\"02:25.380\" end=\"02:26.145\">BABY,<\/span>\n        <span begin=\"02:26.145\" end=\"02:28.258\">I<\/span>\n      <\/p>\n      <p begin=\"02:29.240\" end=\"02:34.101\" ttm:agent=\"v1\">\n        <span begin=\"02:29.242\" end=\"02:29.541\">DON&apos;T<\/span>\n        <span begin=\"02:29.541\" end=\"02:30.029\">WANNA<\/span>\n        <span begin=\"02:30.029\" end=\"02:30.583\">SAY<\/span>\n        <span begin=\"02:30.583\" end=\"02:34.101\">GOODBYE<\/span>\n      <\/p>\n      <p begin=\"02:31.450\" end=\"02:33.018\" ttm:agent=\"v1\">\n        <span begin=\"02:31.451\" end=\"02:31.759\">BIRDS<\/span>\n        <span begin=\"02:31.759\" end=\"02:32.091\">OF<\/span>\n        <span begin=\"02:32.091\" end=\"02:32.266\">A<\/span>\n        <span begin=\"02:32.266\" end=\"02:33.018\">FEATHER<\/span>\n      <\/p>\n      <p begin=\"02:33.170\" end=\"02:35.869\" ttm:agent=\"v1\">\n        <span begin=\"02:33.178\" end=\"02:33.549\">WE<\/span>\n        <span begin=\"02:33.642\" end=\"02:33.975\">SHOULD<\/span>\n        <span begin=\"02:33.975\" end=\"02:34.279\">STICK<\/span>\n        <span begin=\"02:34.279\" end=\"02:35.082\">TOGETHER,<\/span>\n        <span begin=\"02:35.082\" end=\"02:35.314\">I<\/span>\n        <span begin=\"02:35.314\" end=\"02:35.869\">KNOW<\/span>\n      <\/p>\n      <p begin=\"02:33.170\" end=\"02:38.594\" role=\"x-bg\">\n        <span begin=\"02:34.065\" end=\"02:34.362\">(TILL<\/span>\n        <span begin=\"02:34.362\" end=\"02:34.591\">THE<\/span>\n        <span begin=\"02:34.591\" end=\"02:35.004\">DAY<\/span>\n        <span begin=\"02:35.004\" end=\"02:35.373\">THAT<\/span>\n        <span begin=\"02:35.373\" end=\"02:35.583\">I<\/span>\n        <span begin=\"02:35.583\" end=\"02:38.594\">DIE)<\/span>\n      <\/p>\n      <p begin=\"02:36.080\" end=\"02:37.501\" ttm:agent=\"v1\">\n        <span begin=\"02:36.086\" end=\"02:36.186\">I<\/span>\n        <span begin=\"02:36.186\" end=\"02:36.565\">SAID<\/span>\n        <span begin=\"02:36.565\" end=\"02:36.793\">I&apos;D<\/span>\n        <span begin=\"02:36.793\" end=\"02:37.501\">NEVER<\/span>\n      <\/p>\n      <p begin=\"02:37.710\" end=\"02:40.418\" ttm:agent=\"v1\">\n        <span begin=\"02:37.718\" end=\"02:38.137\">THINK<\/span>\n        <span begin=\"02:38.401\" end=\"02:38.677\">I<\/span>\n        <span begin=\"02:38.677\" end=\"02:39.213\">WASN&apos;T<\/span>\n        <span begin=\"02:39.213\" end=\"02:39.749\">BETTER<\/span>\n        <span begin=\"02:39.749\" end=\"02:40.418\">ALONE<\/span>\n      <\/p>\n      <p begin=\"02:37.710\" end=\"02:43.210\" role=\"x-bg\">\n        <span begin=\"02:38.577\" end=\"02:38.916\">(TILL<\/span>\n        <span begin=\"02:38.916\" end=\"02:39.134\">THE<\/span>\n        <span begin=\"02:39.134\" end=\"02:39.545\">LIGHT<\/span>\n        <span begin=\"02:39.545\" end=\"02:39.848\">LEAVES<\/span>\n        <span begin=\"02:39.848\" end=\"02:40.127\">MY<\/span>\n        <span begin=\"02:40.127\" end=\"02:43.210\">EYES)<\/span>\n      <\/p>\n      <p begin=\"02:40.610\" end=\"02:42.034\" ttm:agent=\"v1\">\n        <span begin=\"02:40.619\" end=\"02:40.858\">CAN&apos;T<\/span>\n        <span begin=\"02:40.858\" end=\"02:41.124\">CHANGE<\/span>\n        <span begin=\"02:41.124\" end=\"02:41.279\">THE<\/span>\n        <span begin=\"02:41.279\" end=\"02:42.034\">WEATHER<\/span>\n      <\/p>\n      <p begin=\"02:42.300\" end=\"02:44.220\" ttm:agent=\"v1\">\n        <span begin=\"02:42.303\" end=\"02:42.781\">MIGHT<\/span>\n        <span begin=\"02:42.819\" end=\"02:43.250\">NOT<\/span>\n        <span begin=\"02:43.250\" end=\"02:43.480\">BE<\/span>\n        <span begin=\"02:43.480\" end=\"02:44.220\">FOREVER<\/span>\n      <\/p>\n      <p begin=\"02:42.300\" end=\"02:50.418\" role=\"x-bg\">\n        <span begin=\"02:43.143\" end=\"02:43.546\">(TILL<\/span>\n        <span begin=\"02:43.546\" end=\"02:43.764\">THE<\/span>\n        <span begin=\"02:43.764\" end=\"02:44.352\">DAY<\/span>\n        <span begin=\"02:44.352\" end=\"02:44.835\">I<\/span>\n        <span begin=\"02:44.835\" end=\"02:50.418\">DIE)<\/span>\n      <\/p>\n      <p begin=\"02:44.350\" end=\"02:50.063\" ttm:agent=\"v1\">\n        <span begin=\"02:44.357\" end=\"02:44.567\">BUT<\/span>\n        <span begin=\"02:44.567\" end=\"02:44.829\">IF<\/span>\n        <span begin=\"02:45.207\" end=\"02:45.680\">IT&apos;S<\/span>\n        <span begin=\"02:45.680\" end=\"02:46.920\">FOREVER,<\/span>\n        <span begin=\"02:46.920\" end=\"02:47.320\">IT&apos;S<\/span>\n        <span begin=\"02:47.396\" end=\"02:48.297\">EVEN<\/span>\n        <span begin=\"02:48.297\" end=\"02:50.063\">BETTER<\/span>\n      <\/p>\n      <p begin=\"02:50.000\" end=\"02:54.518\" ttm:agent=\"v1\">\n        <span begin=\"02:50.000\" end=\"02:50.611\">I<\/span>\n        <span begin=\"02:50.611\" end=\"02:51.313\">KNEW<\/span>\n        <span begin=\"02:51.313\" end=\"02:51.798\">YOU<\/span>\n        <span begin=\"02:51.798\" end=\"02:52.251\">IN<\/span>\n        <span begin=\"02:52.251\" end=\"02:53.885\">ANOTHER<\/span>\n        <span begin=\"02:53.885\" end=\"02:54.518\">LIFE<\/span>\n      <\/p>\n      <p begin=\"02:54.850\" end=\"02:59.366\" ttm:agent=\"v1\">\n        <span begin=\"02:54.852\" end=\"02:55.091\">YOU<\/span>\n        <span begin=\"02:55.091\" end=\"02:55.468\">HAD<\/span>\n        <span begin=\"02:55.468\" end=\"02:56.270\">THAT<\/span>\n        <span begin=\"02:56.270\" end=\"02:56.721\">SAME<\/span>\n        <span begin=\"02:56.721\" end=\"02:57.388\">LOOK<\/span>\n        <span begin=\"02:57.388\" end=\"02:57.993\">IN<\/span>\n        <span begin=\"02:57.993\" end=\"02:58.337\">YOUR<\/span>\n        <span begin=\"02:58.337\" end=\"02:59.366\">EYES<\/span>\n      <\/p>\n      <p begin=\"02:59.460\" end=\"03:05.428\" ttm:agent=\"v1\">\n        <span begin=\"02:59.468\" end=\"02:59.796\">I<\/span>\n        <span begin=\"02:59.796\" end=\"03:00.292\">LOVE<\/span>\n        <span begin=\"03:00.292\" end=\"03:00.775\">YOU,<\/span>\n        <span begin=\"03:00.775\" end=\"03:01.460\">DON&apos;T<\/span>\n        <span begin=\"03:01.460\" end=\"03:01.959\">ACT<\/span>\n        <span begin=\"03:01.959\" end=\"03:02.377\">SO<\/span>\n        <span begin=\"03:02.377\" end=\"03:05.428\">SURPRISED<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 3720,
+      "endTime": 5633,
+      "text": "I WANT YOU TO STAY",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 3724,
+          "endTime": 3847,
+          "word": "I"
+        },
+        {
+          "startTime": 3847,
+          "endTime": 4274,
+          "word": "WANT"
+        },
+        {
+          "startTime": 4274,
+          "endTime": 4479,
+          "word": "YOU"
+        },
+        {
+          "startTime": 4479,
+          "endTime": 4759,
+          "word": "TO"
+        },
+        {
+          "startTime": 4759,
+          "endTime": 5633,
+          "word": "STAY"
+        }
+      ]
+    },
+    {
+      "time": 8350,
+      "endTime": 10265,
+      "text": "TILL I'M IN THE GRAVE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 8353,
+          "endTime": 8576,
+          "word": "TILL"
+        },
+        {
+          "startTime": 8576,
+          "endTime": 8853,
+          "word": "I'M"
+        },
+        {
+          "startTime": 8853,
+          "endTime": 9120,
+          "word": "IN"
+        },
+        {
+          "startTime": 9120,
+          "endTime": 9386,
+          "word": "THE"
+        },
+        {
+          "startTime": 9386,
+          "endTime": 10265,
+          "word": "GRAVE"
+        }
+      ]
+    },
+    {
+      "time": 12900,
+      "endTime": 17049,
+      "text": "TILL I ROT AWAY, DEAD AND BURIED",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 12907,
+          "endTime": 13195,
+          "word": "TILL"
+        },
+        {
+          "startTime": 13195,
+          "endTime": 13445,
+          "word": "I"
+        },
+        {
+          "startTime": 13445,
+          "endTime": 13837,
+          "word": "ROT"
+        },
+        {
+          "startTime": 13837,
+          "endTime": 14764,
+          "word": "AWAY,"
+        },
+        {
+          "startTime": 14947,
+          "endTime": 15431,
+          "word": "DEAD"
+        },
+        {
+          "startTime": 15464,
+          "endTime": 15845,
+          "word": "AND"
+        },
+        {
+          "startTime": 16027,
+          "endTime": 17049,
+          "word": "BURIED"
+        }
+      ]
+    },
+    {
+      "time": 17450,
+      "endTime": 21560,
+      "text": "TILL I'M IN THE CASKET YOU CARRY",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17451,
+          "endTime": 17687,
+          "word": "TILL"
+        },
+        {
+          "startTime": 17687,
+          "endTime": 17983,
+          "word": "I'M"
+        },
+        {
+          "startTime": 17983,
+          "endTime": 18268,
+          "word": "IN"
+        },
+        {
+          "startTime": 18268,
+          "endTime": 18532,
+          "word": "THE"
+        },
+        {
+          "startTime": 18532,
+          "endTime": 19978,
+          "word": "CASKET"
+        },
+        {
+          "startTime": 20050,
+          "endTime": 20547,
+          "word": "YOU"
+        },
+        {
+          "startTime": 20634,
+          "endTime": 21560,
+          "word": "CARRY"
+        }
+      ]
+    },
+    {
+      "time": 21640,
+      "endTime": 23891,
+      "text": "IF YOU GO, I'M GOIN' TOO",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21640,
+          "endTime": 21880,
+          "word": "IF"
+        },
+        {
+          "startTime": 21880,
+          "endTime": 22104,
+          "word": "YOU"
+        },
+        {
+          "startTime": 22104,
+          "endTime": 22379,
+          "word": "GO,"
+        },
+        {
+          "startTime": 22379,
+          "endTime": 22680,
+          "word": "I'M"
+        },
+        {
+          "startTime": 22680,
+          "endTime": 23229,
+          "word": "GOIN'"
+        },
+        {
+          "startTime": 23229,
+          "endTime": 23891,
+          "word": "TOO"
+        }
+      ]
+    },
+    {
+      "time": 26450,
+      "endTime": 28604,
+      "text": "'CAUSE IT WAS ALWAYS YOU",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 26459,
+          "endTime": 26707,
+          "word": "'CAUSE"
+        },
+        {
+          "startTime": 26707,
+          "endTime": 26807,
+          "word": "IT"
+        },
+        {
+          "startTime": 26807,
+          "endTime": 27239,
+          "word": "WAS"
+        },
+        {
+          "startTime": 27239,
+          "endTime": 27858,
+          "word": "ALWAYS"
+        },
+        {
+          "startTime": 27858,
+          "endTime": 28604,
+          "word": "YOU"
+        }
+      ]
+    },
+    {
+      "time": 31100,
+      "endTime": 35358,
+      "text": "AND IF I'M TURNIN' BLUE, PLEASE DON'T SAVE ME",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31106,
+          "endTime": 31261,
+          "word": "AND"
+        },
+        {
+          "startTime": 31261,
+          "endTime": 31437,
+          "word": "IF"
+        },
+        {
+          "startTime": 31437,
+          "endTime": 31719,
+          "word": "I'M"
+        },
+        {
+          "startTime": 31719,
+          "endTime": 32269,
+          "word": "TURNIN'"
+        },
+        {
+          "startTime": 32269,
+          "endTime": 33090,
+          "word": "BLUE,"
+        },
+        {
+          "startTime": 33247,
+          "endTime": 33754,
+          "word": "PLEASE"
+        },
+        {
+          "startTime": 33797,
+          "endTime": 34194,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 34237,
+          "endTime": 34885,
+          "word": "SAVE"
+        },
+        {
+          "startTime": 34885,
+          "endTime": 35358,
+          "word": "ME"
+        }
+      ]
+    },
+    {
+      "time": 35750,
+      "endTime": 40604,
+      "text": "NOTHIN' LEFT TO LOSE WITHOUT MY BABY",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 35750,
+          "endTime": 36285,
+          "word": "NOTHIN'"
+        },
+        {
+          "startTime": 36285,
+          "endTime": 36669,
+          "word": "LEFT"
+        },
+        {
+          "startTime": 36669,
+          "endTime": 36939,
+          "word": "TO"
+        },
+        {
+          "startTime": 36939,
+          "endTime": 37440,
+          "word": "LOSE"
+        },
+        {
+          "startTime": 37498,
+          "endTime": 38285,
+          "word": "WITHOUT"
+        },
+        {
+          "startTime": 38323,
+          "endTime": 38852,
+          "word": "MY"
+        },
+        {
+          "startTime": 38960,
+          "endTime": 40604,
+          "word": "BABY"
+        }
+      ]
+    },
+    {
+      "time": 41700,
+      "endTime": 43272,
+      "text": "BIRDS OF A FEATHER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41702,
+          "endTime": 42017,
+          "word": "BIRDS"
+        },
+        {
+          "startTime": 42017,
+          "endTime": 42354,
+          "word": "OF"
+        },
+        {
+          "startTime": 42354,
+          "endTime": 42479,
+          "word": "A"
+        },
+        {
+          "startTime": 42479,
+          "endTime": 43272,
+          "word": "FEATHER"
+        }
+      ]
+    },
+    {
+      "time": 43500,
+      "endTime": 46107,
+      "text": "WE SHOULD STICK TOGETHER, I KNOW",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43506,
+          "endTime": 43931,
+          "word": "WE"
+        },
+        {
+          "startTime": 44009,
+          "endTime": 44254,
+          "word": "SHOULD"
+        },
+        {
+          "startTime": 44254,
+          "endTime": 44582,
+          "word": "STICK"
+        },
+        {
+          "startTime": 44582,
+          "endTime": 45430,
+          "word": "TOGETHER,"
+        },
+        {
+          "startTime": 45430,
+          "endTime": 45697,
+          "word": "I"
+        },
+        {
+          "startTime": 45697,
+          "endTime": 46107,
+          "word": "KNOW"
+        }
+      ]
+    },
+    {
+      "time": 46350,
+      "endTime": 47900,
+      "text": "I SAID I'D NEVER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46356,
+          "endTime": 46505,
+          "word": "I"
+        },
+        {
+          "startTime": 46505,
+          "endTime": 47009,
+          "word": "SAID"
+        },
+        {
+          "startTime": 47009,
+          "endTime": 47297,
+          "word": "I'D"
+        },
+        {
+          "startTime": 47297,
+          "endTime": 47900,
+          "word": "NEVER"
+        }
+      ]
+    },
+    {
+      "time": 48000,
+      "endTime": 50707,
+      "text": "THINK I WASN'T BETTER ALONE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 48007,
+          "endTime": 48506,
+          "word": "THINK"
+        },
+        {
+          "startTime": 48605,
+          "endTime": 48822,
+          "word": "I"
+        },
+        {
+          "startTime": 48822,
+          "endTime": 49462,
+          "word": "WASN'T"
+        },
+        {
+          "startTime": 49462,
+          "endTime": 49944,
+          "word": "BETTER"
+        },
+        {
+          "startTime": 49944,
+          "endTime": 50707,
+          "word": "ALONE"
+        }
+      ]
+    },
+    {
+      "time": 50850,
+      "endTime": 52358,
+      "text": "CAN'T CHANGE THE WEATHER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50858,
+          "endTime": 51111,
+          "word": "CAN'T"
+        },
+        {
+          "startTime": 51111,
+          "endTime": 51461,
+          "word": "CHANGE"
+        },
+        {
+          "startTime": 51461,
+          "endTime": 51621,
+          "word": "THE"
+        },
+        {
+          "startTime": 51621,
+          "endTime": 52358,
+          "word": "WEATHER"
+        }
+      ]
+    },
+    {
+      "time": 52600,
+      "endTime": 54624,
+      "text": "MIGHT NOT BE FOREVER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 52602,
+          "endTime": 53068,
+          "word": "MIGHT"
+        },
+        {
+          "startTime": 53233,
+          "endTime": 53534,
+          "word": "NOT"
+        },
+        {
+          "startTime": 53534,
+          "endTime": 53777,
+          "word": "BE"
+        },
+        {
+          "startTime": 53777,
+          "endTime": 54624,
+          "word": "FOREVER"
+        }
+      ]
+    },
+    {
+      "time": 54620,
+      "endTime": 59934,
+      "text": "BUT IF IT'S FOREVER, IT'S EVEN BETTER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54624,
+          "endTime": 54984,
+          "word": "BUT"
+        },
+        {
+          "startTime": 54984,
+          "endTime": 55229,
+          "word": "IF"
+        },
+        {
+          "startTime": 55482,
+          "endTime": 55758,
+          "word": "IT'S"
+        },
+        {
+          "startTime": 56043,
+          "endTime": 57192,
+          "word": "FOREVER,"
+        },
+        {
+          "startTime": 57192,
+          "endTime": 57709,
+          "word": "IT'S"
+        },
+        {
+          "startTime": 57760,
+          "endTime": 58576,
+          "word": "EVEN"
+        },
+        {
+          "startTime": 58576,
+          "endTime": 59934,
+          "word": "BETTER"
+        }
+      ]
+    },
+    {
+      "time": 60050,
+      "endTime": 64706,
+      "text": "AND I DON'T KNOW WHAT I'M CRYIN' FOR",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 60058,
+          "endTime": 60287,
+          "word": "AND"
+        },
+        {
+          "startTime": 60287,
+          "endTime": 60813,
+          "word": "I"
+        },
+        {
+          "startTime": 60813,
+          "endTime": 61365,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 61365,
+          "endTime": 62031,
+          "word": "KNOW"
+        },
+        {
+          "startTime": 62031,
+          "endTime": 62613,
+          "word": "WHAT"
+        },
+        {
+          "startTime": 62613,
+          "endTime": 63099,
+          "word": "I'M"
+        },
+        {
+          "startTime": 63197,
+          "endTime": 64242,
+          "word": "CRYIN'"
+        },
+        {
+          "startTime": 64242,
+          "endTime": 64706,
+          "word": "FOR"
+        }
+      ]
+    },
+    {
+      "time": 64850,
+      "endTime": 69747,
+      "text": "I DON'T THINK I COULD LOVE YOU MORE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 64855,
+          "endTime": 65467,
+          "word": "I"
+        },
+        {
+          "startTime": 65467,
+          "endTime": 65976,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 65976,
+          "endTime": 66611,
+          "word": "THINK"
+        },
+        {
+          "startTime": 66611,
+          "endTime": 67176,
+          "word": "I"
+        },
+        {
+          "startTime": 67176,
+          "endTime": 67725,
+          "word": "COULD"
+        },
+        {
+          "startTime": 67811,
+          "endTime": 68344,
+          "word": "LOVE"
+        },
+        {
+          "startTime": 68344,
+          "endTime": 68627,
+          "word": "YOU"
+        },
+        {
+          "startTime": 68627,
+          "endTime": 69747,
+          "word": "MORE"
+        }
+      ]
+    },
+    {
+      "time": 69250,
+      "endTime": 74955,
+      "text": "IT MIGHT NOT BE LONG, BUT, BABY, I",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69258,
+          "endTime": 69534,
+          "word": "IT"
+        },
+        {
+          "startTime": 69534,
+          "endTime": 70041,
+          "word": "MIGHT"
+        },
+        {
+          "startTime": 70041,
+          "endTime": 70574,
+          "word": "NOT"
+        },
+        {
+          "startTime": 70574,
+          "endTime": 71139,
+          "word": "BE"
+        },
+        {
+          "startTime": 71139,
+          "endTime": 71774,
+          "word": "LONG,"
+        },
+        {
+          "startTime": 71774,
+          "endTime": 72390,
+          "word": "BUT,"
+        },
+        {
+          "startTime": 72390,
+          "endTime": 73123,
+          "word": "BABY,"
+        },
+        {
+          "startTime": 73123,
+          "endTime": 74955,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 75530,
+      "endTime": 80723,
+      "text": "I'LL LOVE YOU TILL THE DAY THAT I DIE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 75537,
+          "endTime": 75762,
+          "word": "I'LL"
+        },
+        {
+          "startTime": 75762,
+          "endTime": 76000,
+          "word": "LOVE"
+        },
+        {
+          "startTime": 76000,
+          "endTime": 76251,
+          "word": "YOU"
+        },
+        {
+          "startTime": 76251,
+          "endTime": 76550,
+          "word": "TILL"
+        },
+        {
+          "startTime": 76550,
+          "endTime": 76832,
+          "word": "THE"
+        },
+        {
+          "startTime": 76832,
+          "endTime": 77118,
+          "word": "DAY"
+        },
+        {
+          "startTime": 77118,
+          "endTime": 77432,
+          "word": "THAT"
+        },
+        {
+          "startTime": 77432,
+          "endTime": 77750,
+          "word": "I"
+        },
+        {
+          "startTime": 77750,
+          "endTime": 80723,
+          "word": "DIE"
+        }
+      ]
+    },
+    {
+      "time": 80910,
+      "endTime": 85194,
+      "text": "TILL THE DAY THAT I DIE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 80911,
+          "endTime": 81154,
+          "word": "TILL"
+        },
+        {
+          "startTime": 81154,
+          "endTime": 81407,
+          "word": "THE"
+        },
+        {
+          "startTime": 81407,
+          "endTime": 81762,
+          "word": "DAY"
+        },
+        {
+          "startTime": 81762,
+          "endTime": 82020,
+          "word": "THAT"
+        },
+        {
+          "startTime": 82020,
+          "endTime": 82348,
+          "word": "I"
+        },
+        {
+          "startTime": 82348,
+          "endTime": 85194,
+          "word": "DIE"
+        }
+      ]
+    },
+    {
+      "time": 85520,
+      "endTime": 89777,
+      "text": "TILL THE LIGHT LEAVES MY EYES",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85524,
+          "endTime": 85807,
+          "word": "TILL"
+        },
+        {
+          "startTime": 85807,
+          "endTime": 86082,
+          "word": "THE"
+        },
+        {
+          "startTime": 86082,
+          "endTime": 86285,
+          "word": "LIGHT"
+        },
+        {
+          "startTime": 86285,
+          "endTime": 86621,
+          "word": "LEAVES"
+        },
+        {
+          "startTime": 86621,
+          "endTime": 86834,
+          "word": "MY"
+        },
+        {
+          "startTime": 86834,
+          "endTime": 89777,
+          "word": "EYES"
+        }
+      ]
+    },
+    {
+      "time": 90020,
+      "endTime": 95176,
+      "text": "TILL THE DAY THAT I DIE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90027,
+          "endTime": 90261,
+          "word": "TILL"
+        },
+        {
+          "startTime": 90261,
+          "endTime": 90650,
+          "word": "THE"
+        },
+        {
+          "startTime": 90650,
+          "endTime": 90913,
+          "word": "DAY"
+        },
+        {
+          "startTime": 90913,
+          "endTime": 91247,
+          "word": "THAT"
+        },
+        {
+          "startTime": 91247,
+          "endTime": 91434,
+          "word": "I"
+        },
+        {
+          "startTime": 91434,
+          "endTime": 95176,
+          "word": "DIE"
+        }
+      ]
+    },
+    {
+      "time": 95170,
+      "endTime": 97309,
+      "text": "I WANT YOU TO SEE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95176,
+          "endTime": 95341,
+          "word": "I"
+        },
+        {
+          "startTime": 95341,
+          "endTime": 95670,
+          "word": "WANT"
+        },
+        {
+          "startTime": 95670,
+          "endTime": 95911,
+          "word": "YOU"
+        },
+        {
+          "startTime": 95911,
+          "endTime": 96202,
+          "word": "TO"
+        },
+        {
+          "startTime": 96202,
+          "endTime": 97309,
+          "word": "SEE"
+        }
+      ]
+    },
+    {
+      "time": 99690,
+      "endTime": 101824,
+      "text": "HOW YOU LOOK TO ME",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 99692,
+          "endTime": 99995,
+          "word": "HOW"
+        },
+        {
+          "startTime": 99995,
+          "endTime": 100182,
+          "word": "YOU"
+        },
+        {
+          "startTime": 100182,
+          "endTime": 100563,
+          "word": "LOOK"
+        },
+        {
+          "startTime": 100563,
+          "endTime": 100811,
+          "word": "TO"
+        },
+        {
+          "startTime": 100811,
+          "endTime": 101824,
+          "word": "ME"
+        }
+      ]
+    },
+    {
+      "time": 104270,
+      "endTime": 108493,
+      "text": "YOU WOULDN'T BELIEVE IF I TOLD YA",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104276,
+          "endTime": 104497,
+          "word": "YOU"
+        },
+        {
+          "startTime": 104497,
+          "endTime": 105172,
+          "word": "WOULDN'T"
+        },
+        {
+          "startTime": 105172,
+          "endTime": 106140,
+          "word": "BELIEVE"
+        },
+        {
+          "startTime": 106305,
+          "endTime": 106782,
+          "word": "IF"
+        },
+        {
+          "startTime": 106905,
+          "endTime": 107374,
+          "word": "I"
+        },
+        {
+          "startTime": 107505,
+          "endTime": 108023,
+          "word": "TOLD"
+        },
+        {
+          "startTime": 108023,
+          "endTime": 108493,
+          "word": "YA"
+        }
+      ]
+    },
+    {
+      "time": 108800,
+      "endTime": 112991,
+      "text": "YOU WOULD KEEP THE COMPLIMENTS I THROW YA",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 108808,
+          "endTime": 108991,
+          "word": "YOU"
+        },
+        {
+          "startTime": 108991,
+          "endTime": 109402,
+          "word": "WOULD"
+        },
+        {
+          "startTime": 109402,
+          "endTime": 109739,
+          "word": "KEEP"
+        },
+        {
+          "startTime": 109739,
+          "endTime": 109960,
+          "word": "THE"
+        },
+        {
+          "startTime": 109960,
+          "endTime": 111439,
+          "word": "COMPLIMENTS"
+        },
+        {
+          "startTime": 111512,
+          "endTime": 111911,
+          "word": "I"
+        },
+        {
+          "startTime": 111979,
+          "endTime": 112489,
+          "word": "THROW"
+        },
+        {
+          "startTime": 112489,
+          "endTime": 112991,
+          "word": "YA"
+        }
+      ]
+    },
+    {
+      "time": 113160,
+      "endTime": 115392,
+      "text": "BUT YOU'RE SO FULL OF SHIT",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 113160,
+          "endTime": 113412,
+          "word": "BUT"
+        },
+        {
+          "startTime": 113412,
+          "endTime": 113704,
+          "word": "YOU'RE"
+        },
+        {
+          "startTime": 113704,
+          "endTime": 113920,
+          "word": "SO"
+        },
+        {
+          "startTime": 113920,
+          "endTime": 114288,
+          "word": "FULL"
+        },
+        {
+          "startTime": 114288,
+          "endTime": 114424,
+          "word": "OF"
+        },
+        {
+          "startTime": 114424,
+          "endTime": 115392,
+          "word": "SHIT"
+        }
+      ]
+    },
+    {
+      "time": 118070,
+      "endTime": 120274,
+      "text": "TELL ME IT'S A BIT",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118076,
+          "endTime": 118187,
+          "word": "TELL"
+        },
+        {
+          "startTime": 118187,
+          "endTime": 118526,
+          "word": "ME"
+        },
+        {
+          "startTime": 118526,
+          "endTime": 118945,
+          "word": "IT'S"
+        },
+        {
+          "startTime": 118945,
+          "endTime": 119161,
+          "word": "A"
+        },
+        {
+          "startTime": 119161,
+          "endTime": 120274,
+          "word": "BIT"
+        }
+      ]
+    },
+    {
+      "time": 118070,
+      "endTime": 122161,
+      "text": "(OH, OH)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 121122,
+          "endTime": 121527,
+          "word": "(OH,"
+        },
+        {
+          "startTime": 121527,
+          "endTime": 122161,
+          "word": "OH)"
+        }
+      ]
+    },
+    {
+      "time": 122500,
+      "endTime": 126741,
+      "text": "SAY YOU DON'T SEE IT, YOUR MIND'S POLLUTED",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 122508,
+          "endTime": 122713,
+          "word": "SAY"
+        },
+        {
+          "startTime": 122713,
+          "endTime": 123103,
+          "word": "YOU"
+        },
+        {
+          "startTime": 123103,
+          "endTime": 123494,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 123494,
+          "endTime": 123740,
+          "word": "SEE"
+        },
+        {
+          "startTime": 123740,
+          "endTime": 124175,
+          "word": "IT,"
+        },
+        {
+          "startTime": 124197,
+          "endTime": 124579,
+          "word": "YOUR"
+        },
+        {
+          "startTime": 124579,
+          "endTime": 125116,
+          "word": "MIND'S"
+        },
+        {
+          "startTime": 125213,
+          "endTime": 126741,
+          "word": "POLLUTED"
+        }
+      ]
+    },
+    {
+      "time": 127190,
+      "endTime": 132474,
+      "text": "SAY YOU WANNA QUIT, DON'T BE STUPID",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127194,
+          "endTime": 127354,
+          "word": "SAY"
+        },
+        {
+          "startTime": 127354,
+          "endTime": 127712,
+          "word": "YOU"
+        },
+        {
+          "startTime": 127712,
+          "endTime": 128338,
+          "word": "WANNA"
+        },
+        {
+          "startTime": 128338,
+          "endTime": 128913,
+          "word": "QUIT,"
+        },
+        {
+          "startTime": 129103,
+          "endTime": 129646,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 129703,
+          "endTime": 130189,
+          "word": "BE"
+        },
+        {
+          "startTime": 130189,
+          "endTime": 132474,
+          "word": "STUPID"
+        }
+      ]
+    },
+    {
+      "time": 133290,
+      "endTime": 137791,
+      "text": "AND I DON'T KNOW WHAT I'M CRYIN' FOR",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 133292,
+          "endTime": 133517,
+          "word": "AND"
+        },
+        {
+          "startTime": 133517,
+          "endTime": 134019,
+          "word": "I"
+        },
+        {
+          "startTime": 134019,
+          "endTime": 134621,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 134621,
+          "endTime": 135172,
+          "word": "KNOW"
+        },
+        {
+          "startTime": 135172,
+          "endTime": 135737,
+          "word": "WHAT"
+        },
+        {
+          "startTime": 135737,
+          "endTime": 136305,
+          "word": "I'M"
+        },
+        {
+          "startTime": 136305,
+          "endTime": 137287,
+          "word": "CRYIN'"
+        },
+        {
+          "startTime": 137287,
+          "endTime": 137791,
+          "word": "FOR"
+        }
+      ]
+    },
+    {
+      "time": 138010,
+      "endTime": 142451,
+      "text": "I DON'T THINK I COULD LOVE YOU MORE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 138010,
+          "endTime": 138586,
+          "word": "I"
+        },
+        {
+          "startTime": 138586,
+          "endTime": 139111,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 139111,
+          "endTime": 139711,
+          "word": "THINK"
+        },
+        {
+          "startTime": 139711,
+          "endTime": 140261,
+          "word": "I"
+        },
+        {
+          "startTime": 140261,
+          "endTime": 140863,
+          "word": "COULD"
+        },
+        {
+          "startTime": 140863,
+          "endTime": 141397,
+          "word": "LOVE"
+        },
+        {
+          "startTime": 141397,
+          "endTime": 141679,
+          "word": "YOU"
+        },
+        {
+          "startTime": 141679,
+          "endTime": 142451,
+          "word": "MORE"
+        }
+      ]
+    },
+    {
+      "time": 142450,
+      "endTime": 148258,
+      "text": "IT MIGHT NOT BE LONG, BUT, BABY, I",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142451,
+          "endTime": 142755,
+          "word": "IT"
+        },
+        {
+          "startTime": 142755,
+          "endTime": 143279,
+          "word": "MIGHT"
+        },
+        {
+          "startTime": 143279,
+          "endTime": 143745,
+          "word": "NOT"
+        },
+        {
+          "startTime": 143745,
+          "endTime": 144279,
+          "word": "BE"
+        },
+        {
+          "startTime": 144279,
+          "endTime": 144713,
+          "word": "LONG,"
+        },
+        {
+          "startTime": 144713,
+          "endTime": 145380,
+          "word": "BUT,"
+        },
+        {
+          "startTime": 145380,
+          "endTime": 146145,
+          "word": "BABY,"
+        },
+        {
+          "startTime": 146145,
+          "endTime": 148258,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 149240,
+      "endTime": 154101,
+      "text": "DON'T WANNA SAY GOODBYE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149242,
+          "endTime": 149541,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 149541,
+          "endTime": 150029,
+          "word": "WANNA"
+        },
+        {
+          "startTime": 150029,
+          "endTime": 150583,
+          "word": "SAY"
+        },
+        {
+          "startTime": 150583,
+          "endTime": 154101,
+          "word": "GOODBYE"
+        }
+      ]
+    },
+    {
+      "time": 151450,
+      "endTime": 153018,
+      "text": "BIRDS OF A FEATHER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 151451,
+          "endTime": 151759,
+          "word": "BIRDS"
+        },
+        {
+          "startTime": 151759,
+          "endTime": 152091,
+          "word": "OF"
+        },
+        {
+          "startTime": 152091,
+          "endTime": 152266,
+          "word": "A"
+        },
+        {
+          "startTime": 152266,
+          "endTime": 153018,
+          "word": "FEATHER"
+        }
+      ]
+    },
+    {
+      "time": 153170,
+      "endTime": 155869,
+      "text": "WE SHOULD STICK TOGETHER, I KNOW",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153178,
+          "endTime": 153549,
+          "word": "WE"
+        },
+        {
+          "startTime": 153642,
+          "endTime": 153975,
+          "word": "SHOULD"
+        },
+        {
+          "startTime": 153975,
+          "endTime": 154279,
+          "word": "STICK"
+        },
+        {
+          "startTime": 154279,
+          "endTime": 155082,
+          "word": "TOGETHER,"
+        },
+        {
+          "startTime": 155082,
+          "endTime": 155314,
+          "word": "I"
+        },
+        {
+          "startTime": 155314,
+          "endTime": 155869,
+          "word": "KNOW"
+        }
+      ]
+    },
+    {
+      "time": 153170,
+      "endTime": 158594,
+      "text": "(TILL THE DAY THAT I DIE)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 154065,
+          "endTime": 154362,
+          "word": "(TILL"
+        },
+        {
+          "startTime": 154362,
+          "endTime": 154591,
+          "word": "THE"
+        },
+        {
+          "startTime": 154591,
+          "endTime": 155004,
+          "word": "DAY"
+        },
+        {
+          "startTime": 155004,
+          "endTime": 155373,
+          "word": "THAT"
+        },
+        {
+          "startTime": 155373,
+          "endTime": 155583,
+          "word": "I"
+        },
+        {
+          "startTime": 155583,
+          "endTime": 158594,
+          "word": "DIE)"
+        }
+      ]
+    },
+    {
+      "time": 156080,
+      "endTime": 157501,
+      "text": "I SAID I'D NEVER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 156086,
+          "endTime": 156186,
+          "word": "I"
+        },
+        {
+          "startTime": 156186,
+          "endTime": 156565,
+          "word": "SAID"
+        },
+        {
+          "startTime": 156565,
+          "endTime": 156793,
+          "word": "I'D"
+        },
+        {
+          "startTime": 156793,
+          "endTime": 157501,
+          "word": "NEVER"
+        }
+      ]
+    },
+    {
+      "time": 157710,
+      "endTime": 160418,
+      "text": "THINK I WASN'T BETTER ALONE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157718,
+          "endTime": 158137,
+          "word": "THINK"
+        },
+        {
+          "startTime": 158401,
+          "endTime": 158677,
+          "word": "I"
+        },
+        {
+          "startTime": 158677,
+          "endTime": 159213,
+          "word": "WASN'T"
+        },
+        {
+          "startTime": 159213,
+          "endTime": 159749,
+          "word": "BETTER"
+        },
+        {
+          "startTime": 159749,
+          "endTime": 160418,
+          "word": "ALONE"
+        }
+      ]
+    },
+    {
+      "time": 157710,
+      "endTime": 163210,
+      "text": "(TILL THE LIGHT LEAVES MY EYES)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 158577,
+          "endTime": 158916,
+          "word": "(TILL"
+        },
+        {
+          "startTime": 158916,
+          "endTime": 159134,
+          "word": "THE"
+        },
+        {
+          "startTime": 159134,
+          "endTime": 159545,
+          "word": "LIGHT"
+        },
+        {
+          "startTime": 159545,
+          "endTime": 159848,
+          "word": "LEAVES"
+        },
+        {
+          "startTime": 159848,
+          "endTime": 160127,
+          "word": "MY"
+        },
+        {
+          "startTime": 160127,
+          "endTime": 163210,
+          "word": "EYES)"
+        }
+      ]
+    },
+    {
+      "time": 160610,
+      "endTime": 162034,
+      "text": "CAN'T CHANGE THE WEATHER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 160619,
+          "endTime": 160858,
+          "word": "CAN'T"
+        },
+        {
+          "startTime": 160858,
+          "endTime": 161124,
+          "word": "CHANGE"
+        },
+        {
+          "startTime": 161124,
+          "endTime": 161279,
+          "word": "THE"
+        },
+        {
+          "startTime": 161279,
+          "endTime": 162034,
+          "word": "WEATHER"
+        }
+      ]
+    },
+    {
+      "time": 162300,
+      "endTime": 164220,
+      "text": "MIGHT NOT BE FOREVER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 162303,
+          "endTime": 162781,
+          "word": "MIGHT"
+        },
+        {
+          "startTime": 162819,
+          "endTime": 163250,
+          "word": "NOT"
+        },
+        {
+          "startTime": 163250,
+          "endTime": 163480,
+          "word": "BE"
+        },
+        {
+          "startTime": 163480,
+          "endTime": 164220,
+          "word": "FOREVER"
+        }
+      ]
+    },
+    {
+      "time": 162300,
+      "endTime": 170418,
+      "text": "(TILL THE DAY I DIE)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 163143,
+          "endTime": 163546,
+          "word": "(TILL"
+        },
+        {
+          "startTime": 163546,
+          "endTime": 163764,
+          "word": "THE"
+        },
+        {
+          "startTime": 163764,
+          "endTime": 164352,
+          "word": "DAY"
+        },
+        {
+          "startTime": 164352,
+          "endTime": 164835,
+          "word": "I"
+        },
+        {
+          "startTime": 164835,
+          "endTime": 170418,
+          "word": "DIE)"
+        }
+      ]
+    },
+    {
+      "time": 164350,
+      "endTime": 170063,
+      "text": "BUT IF IT'S FOREVER, IT'S EVEN BETTER",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 164357,
+          "endTime": 164567,
+          "word": "BUT"
+        },
+        {
+          "startTime": 164567,
+          "endTime": 164829,
+          "word": "IF"
+        },
+        {
+          "startTime": 165207,
+          "endTime": 165680,
+          "word": "IT'S"
+        },
+        {
+          "startTime": 165680,
+          "endTime": 166920,
+          "word": "FOREVER,"
+        },
+        {
+          "startTime": 166920,
+          "endTime": 167320,
+          "word": "IT'S"
+        },
+        {
+          "startTime": 167396,
+          "endTime": 168297,
+          "word": "EVEN"
+        },
+        {
+          "startTime": 168297,
+          "endTime": 170063,
+          "word": "BETTER"
+        }
+      ]
+    },
+    {
+      "time": 170000,
+      "endTime": 174518,
+      "text": "I KNEW YOU IN ANOTHER LIFE",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170000,
+          "endTime": 170611,
+          "word": "I"
+        },
+        {
+          "startTime": 170611,
+          "endTime": 171313,
+          "word": "KNEW"
+        },
+        {
+          "startTime": 171313,
+          "endTime": 171798,
+          "word": "YOU"
+        },
+        {
+          "startTime": 171798,
+          "endTime": 172251,
+          "word": "IN"
+        },
+        {
+          "startTime": 172251,
+          "endTime": 173885,
+          "word": "ANOTHER"
+        },
+        {
+          "startTime": 173885,
+          "endTime": 174518,
+          "word": "LIFE"
+        }
+      ]
+    },
+    {
+      "time": 174850,
+      "endTime": 179366,
+      "text": "YOU HAD THAT SAME LOOK IN YOUR EYES",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 174852,
+          "endTime": 175091,
+          "word": "YOU"
+        },
+        {
+          "startTime": 175091,
+          "endTime": 175468,
+          "word": "HAD"
+        },
+        {
+          "startTime": 175468,
+          "endTime": 176270,
+          "word": "THAT"
+        },
+        {
+          "startTime": 176270,
+          "endTime": 176721,
+          "word": "SAME"
+        },
+        {
+          "startTime": 176721,
+          "endTime": 177388,
+          "word": "LOOK"
+        },
+        {
+          "startTime": 177388,
+          "endTime": 177993,
+          "word": "IN"
+        },
+        {
+          "startTime": 177993,
+          "endTime": 178337,
+          "word": "YOUR"
+        },
+        {
+          "startTime": 178337,
+          "endTime": 179366,
+          "word": "EYES"
+        }
+      ]
+    },
+    {
+      "time": 179460,
+      "endTime": 185428,
+      "text": "I LOVE YOU, DON'T ACT SO SURPRISED",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 179468,
+          "endTime": 179796,
+          "word": "I"
+        },
+        {
+          "startTime": 179796,
+          "endTime": 180292,
+          "word": "LOVE"
+        },
+        {
+          "startTime": 180292,
+          "endTime": 180775,
+          "word": "YOU,"
+        },
+        {
+          "startTime": 180775,
+          "endTime": 181460,
+          "word": "DON'T"
+        },
+        {
+          "startTime": 181460,
+          "endTime": 181959,
+          "word": "ACT"
+        },
+        {
+          "startTime": 181959,
+          "endTime": 182377,
+          "word": "SO"
+        },
+        {
+          "startTime": 182377,
+          "endTime": 185428,
+          "word": "SURPRISED"
+        }
+      ]
+    }
+  ]
+}
