@@ -1,0 +1,1602 @@
+{
+  "videoId": "WMK3JXG3Fx0",
+  "title": "Infinity",
+  "artist": "Jaymes Young",
+  "duration": 238,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.120\" end=\"00:01.160\" ttm:agent=\"v1\">\n        <span begin=\"00:00.120\" end=\"00:00.536\">Oh,<\/span>\n        <span begin=\"00:00.536\" end=\"00:01.160\">oh<\/span>\n      <\/p>\n      <p begin=\"00:03.340\" end=\"00:05.268\" ttm:agent=\"v1\">\n        <span begin=\"00:03.348\" end=\"00:03.863\">Oh,<\/span>\n        <span begin=\"00:03.863\" end=\"00:04.377\">oh,<\/span>\n        <span begin=\"00:04.377\" end=\"00:05.268\">oh<\/span>\n      <\/p>\n      <p begin=\"00:07.750\" end=\"00:09.153\" ttm:agent=\"v1\">\n        <span begin=\"00:07.751\" end=\"00:08.354\">Oh,<\/span>\n        <span begin=\"00:08.354\" end=\"00:09.153\">oh<\/span>\n      <\/p>\n      <p begin=\"00:11.280\" end=\"00:13.065\" ttm:agent=\"v1\">\n        <span begin=\"00:11.283\" end=\"00:11.779\">Oh,<\/span>\n        <span begin=\"00:11.779\" end=\"00:12.264\">oh,<\/span>\n        <span begin=\"00:12.264\" end=\"00:13.065\">oh<\/span>\n      <\/p>\n      <p begin=\"00:14.730\" end=\"00:17.033\" ttm:agent=\"v1\">\n        <span begin=\"00:14.735\" end=\"00:15.340\">Baby,<\/span>\n        <span begin=\"00:15.340\" end=\"00:15.826\">this<\/span>\n        <span begin=\"00:15.826\" end=\"00:17.033\">love<\/span>\n      <\/p>\n      <p begin=\"00:17.870\" end=\"00:20.371\" ttm:agent=\"v1\">\n        <span begin=\"00:17.871\" end=\"00:18.252\">I&apos;ll<\/span>\n        <span begin=\"00:18.252\" end=\"00:18.767\">never<\/span>\n        <span begin=\"00:18.767\" end=\"00:19.002\">let<\/span>\n        <span begin=\"00:19.002\" end=\"00:19.202\">it<\/span>\n        <span begin=\"00:19.202\" end=\"00:20.371\">die<\/span>\n      <\/p>\n      <p begin=\"00:21.290\" end=\"00:25.006\" ttm:agent=\"v1\">\n        <span begin=\"00:21.298\" end=\"00:21.954\">Can&apos;t<\/span>\n        <span begin=\"00:21.954\" end=\"00:22.487\">be<\/span>\n        <span begin=\"00:22.487\" end=\"00:22.957\">touched<\/span>\n        <span begin=\"00:22.957\" end=\"00:23.189\">by<\/span>\n        <span begin=\"00:23.189\" end=\"00:23.639\">no<\/span>\n        <span begin=\"00:23.639\" end=\"00:25.006\">one<\/span>\n      <\/p>\n      <p begin=\"00:25.730\" end=\"00:28.576\" ttm:agent=\"v1\">\n        <span begin=\"00:25.732\" end=\"00:26.116\">I&apos;d<\/span>\n        <span begin=\"00:26.116\" end=\"00:26.364\">like<\/span>\n        <span begin=\"00:26.364\" end=\"00:26.649\">to<\/span>\n        <span begin=\"00:26.649\" end=\"00:26.916\">see<\/span>\n        <span begin=\"00:26.916\" end=\"00:27.116\">&apos;em<\/span>\n        <span begin=\"00:27.116\" end=\"00:28.576\">try<\/span>\n      <\/p>\n      <p begin=\"00:31.460\" end=\"00:36.378\" ttm:agent=\"v1\">\n        <span begin=\"00:31.461\" end=\"00:31.866\">I&apos;m<\/span>\n        <span begin=\"00:31.866\" end=\"00:32.082\">a<\/span>\n        <span begin=\"00:32.082\" end=\"00:32.549\">mad<\/span>\n        <span begin=\"00:32.549\" end=\"00:33.050\">man<\/span>\n        <span begin=\"00:33.050\" end=\"00:33.282\">for<\/span>\n        <span begin=\"00:33.282\" end=\"00:33.517\">your<\/span>\n        <span begin=\"00:33.517\" end=\"00:34.034\">touch,<\/span>\n        <span begin=\"00:34.034\" end=\"00:34.282\">girl,<\/span>\n        <span begin=\"00:34.282\" end=\"00:34.549\">I&apos;ve<\/span>\n        <span begin=\"00:34.549\" end=\"00:34.768\">lost<\/span>\n        <span begin=\"00:34.768\" end=\"00:36.378\">control<\/span>\n      <\/p>\n      <p begin=\"00:38.570\" end=\"00:43.976\" ttm:agent=\"v1\">\n        <span begin=\"00:38.575\" end=\"00:38.980\">I&apos;m<\/span>\n        <span begin=\"00:38.980\" end=\"00:39.498\">gonna<\/span>\n        <span begin=\"00:39.498\" end=\"00:39.730\">make<\/span>\n        <span begin=\"00:39.730\" end=\"00:39.980\">this<\/span>\n        <span begin=\"00:39.980\" end=\"00:40.196\">last<\/span>\n        <span begin=\"00:40.196\" end=\"00:40.914\">forever,<\/span>\n        <span begin=\"00:40.914\" end=\"00:41.466\">don&apos;t<\/span>\n        <span begin=\"00:41.466\" end=\"00:41.682\">tell<\/span>\n        <span begin=\"00:41.682\" end=\"00:41.948\">me<\/span>\n        <span begin=\"00:41.948\" end=\"00:42.098\">it&apos;s<\/span>\n        <span begin=\"00:42.098\" end=\"00:43.976\">impossible<\/span>\n      <\/p>\n      <p begin=\"00:45.660\" end=\"00:48.818\" ttm:agent=\"v1\">\n        <span begin=\"00:45.667\" end=\"00:46.064\">&apos;Cause<\/span>\n        <span begin=\"00:46.064\" end=\"00:46.331\">I<\/span>\n        <span begin=\"00:46.331\" end=\"00:46.563\">love<\/span>\n        <span begin=\"00:46.563\" end=\"00:46.814\">you<\/span>\n        <span begin=\"00:46.814\" end=\"00:47.019\">for<\/span>\n        <span begin=\"00:47.019\" end=\"00:48.818\">infinity<\/span>\n      <\/p>\n      <p begin=\"00:45.660\" end=\"00:50.568\" role=\"x-bg\">\n        <span begin=\"00:48.681\" end=\"00:49.163\">(Oh,<\/span>\n        <span begin=\"00:49.163\" end=\"00:49.664\">oh,<\/span>\n        <span begin=\"00:49.664\" end=\"00:50.568\">oh)<\/span>\n      <\/p>\n      <p begin=\"00:49.940\" end=\"00:53.433\" ttm:agent=\"v1\">\n        <span begin=\"00:49.941\" end=\"00:50.282\">I<\/span>\n        <span begin=\"00:50.282\" end=\"00:50.498\">love<\/span>\n        <span begin=\"00:50.498\" end=\"00:50.749\">you<\/span>\n        <span begin=\"00:50.749\" end=\"00:50.970\">for<\/span>\n        <span begin=\"00:50.970\" end=\"00:53.433\">infinity<\/span>\n      <\/p>\n      <p begin=\"00:49.940\" end=\"00:54.830\" role=\"x-bg\">\n        <span begin=\"00:52.547\" end=\"00:53.184\">(Oh,<\/span>\n        <span begin=\"00:53.184\" end=\"00:53.682\">oh,<\/span>\n        <span begin=\"00:53.682\" end=\"00:54.830\">oh)<\/span>\n      <\/p>\n      <p begin=\"00:53.600\" end=\"00:56.695\" ttm:agent=\"v1\">\n        <span begin=\"00:53.604\" end=\"00:53.948\">&apos;Cause<\/span>\n        <span begin=\"00:53.948\" end=\"00:54.180\">I<\/span>\n        <span begin=\"00:54.180\" end=\"00:54.412\">love<\/span>\n        <span begin=\"00:54.412\" end=\"00:54.647\">you<\/span>\n        <span begin=\"00:54.647\" end=\"00:54.884\">for<\/span>\n        <span begin=\"00:54.884\" end=\"00:56.695\">infinity<\/span>\n      <\/p>\n      <p begin=\"00:53.600\" end=\"00:58.611\" role=\"x-bg\">\n        <span begin=\"00:56.478\" end=\"00:57.097\">(Oh,<\/span>\n        <span begin=\"00:57.097\" end=\"00:57.580\">oh,<\/span>\n        <span begin=\"00:57.580\" end=\"00:58.611\">oh)<\/span>\n      <\/p>\n      <p begin=\"00:57.800\" end=\"01:01.340\" ttm:agent=\"v1\">\n        <span begin=\"00:57.809\" end=\"00:58.129\">I<\/span>\n        <span begin=\"00:58.129\" end=\"00:58.377\">love<\/span>\n        <span begin=\"00:58.377\" end=\"00:58.593\">you<\/span>\n        <span begin=\"00:58.593\" end=\"00:58.828\">for<\/span>\n        <span begin=\"00:58.828\" end=\"01:01.340\">infinity<\/span>\n      <\/p>\n      <p begin=\"00:57.800\" end=\"01:02.658\" role=\"x-bg\">\n        <span begin=\"01:00.387\" end=\"01:01.062\">(Oh,<\/span>\n        <span begin=\"01:01.062\" end=\"01:01.529\">oh,<\/span>\n        <span begin=\"01:01.529\" end=\"01:02.658\">oh)<\/span>\n      <\/p>\n      <p begin=\"01:17.460\" end=\"01:20.097\" ttm:agent=\"v1\">\n        <span begin=\"01:17.465\" end=\"01:17.771\">Oh,<\/span>\n        <span begin=\"01:17.771\" end=\"01:18.289\">darling,<\/span>\n        <span begin=\"01:18.289\" end=\"01:18.771\">my<\/span>\n        <span begin=\"01:18.771\" end=\"01:20.097\">soul<\/span>\n      <\/p>\n      <p begin=\"01:20.820\" end=\"01:23.876\" ttm:agent=\"v1\">\n        <span begin=\"01:20.822\" end=\"01:21.267\">You<\/span>\n        <span begin=\"01:21.267\" end=\"01:21.502\">know<\/span>\n        <span begin=\"01:21.502\" end=\"01:21.753\">it<\/span>\n        <span begin=\"01:21.753\" end=\"01:21.969\">aches<\/span>\n        <span begin=\"01:21.969\" end=\"01:22.185\">for<\/span>\n        <span begin=\"01:22.185\" end=\"01:23.876\">yours<\/span>\n      <\/p>\n      <p begin=\"01:24.100\" end=\"01:27.965\" ttm:agent=\"v1\">\n        <span begin=\"01:24.101\" end=\"01:24.437\">And<\/span>\n        <span begin=\"01:24.437\" end=\"01:24.904\">you&apos;ve<\/span>\n        <span begin=\"01:24.904\" end=\"01:25.405\">been<\/span>\n        <span begin=\"01:25.405\" end=\"01:26.154\">filling<\/span>\n        <span begin=\"01:26.154\" end=\"01:26.605\">this<\/span>\n        <span begin=\"01:26.605\" end=\"01:27.965\">hole<\/span>\n      <\/p>\n      <p begin=\"01:29.000\" end=\"01:34.209\" ttm:agent=\"v1\">\n        <span begin=\"01:29.004\" end=\"01:29.476\">Since<\/span>\n        <span begin=\"01:29.476\" end=\"01:29.708\">you<\/span>\n        <span begin=\"01:29.708\" end=\"01:29.959\">were<\/span>\n        <span begin=\"01:29.959\" end=\"01:31.959\">born,<\/span>\n        <span begin=\"01:31.959\" end=\"01:34.209\">oh<\/span>\n      <\/p>\n      <p begin=\"01:34.210\" end=\"01:39.535\" ttm:agent=\"v1\">\n        <span begin=\"01:34.211\" end=\"01:34.558\">&apos;Cause<\/span>\n        <span begin=\"01:34.558\" end=\"01:34.923\">you&apos;re<\/span>\n        <span begin=\"01:34.923\" end=\"01:35.039\">the<\/span>\n        <span begin=\"01:35.039\" end=\"01:35.539\">reason<\/span>\n        <span begin=\"01:35.539\" end=\"01:35.774\">I<\/span>\n        <span begin=\"01:35.774\" end=\"01:36.256\">believe<\/span>\n        <span begin=\"01:36.256\" end=\"01:36.456\">in<\/span>\n        <span begin=\"01:36.456\" end=\"01:37.039\">fate,<\/span>\n        <span begin=\"01:37.039\" end=\"01:37.223\">you&apos;re<\/span>\n        <span begin=\"01:37.223\" end=\"01:37.472\">my<\/span>\n        <span begin=\"01:37.472\" end=\"01:39.535\">paradise<\/span>\n      <\/p>\n      <p begin=\"01:41.990\" end=\"01:47.322\" ttm:agent=\"v1\">\n        <span begin=\"01:41.994\" end=\"01:42.327\">And<\/span>\n        <span begin=\"01:42.327\" end=\"01:42.743\">I&apos;ll<\/span>\n        <span begin=\"01:42.743\" end=\"01:42.860\">do<\/span>\n        <span begin=\"01:42.860\" end=\"01:43.610\">anything<\/span>\n        <span begin=\"01:43.610\" end=\"01:43.810\">to<\/span>\n        <span begin=\"01:43.810\" end=\"01:44.042\">be<\/span>\n        <span begin=\"01:44.042\" end=\"01:44.327\">your<\/span>\n        <span begin=\"01:44.327\" end=\"01:44.709\">love,<\/span>\n        <span begin=\"01:44.709\" end=\"01:44.858\">or<\/span>\n        <span begin=\"01:44.858\" end=\"01:45.071\">be<\/span>\n        <span begin=\"01:45.071\" end=\"01:45.237\">your<\/span>\n        <span begin=\"01:45.237\" end=\"01:47.322\">sacrifice<\/span>\n      <\/p>\n      <p begin=\"01:48.660\" end=\"01:51.672\" ttm:agent=\"v1\">\n        <span begin=\"01:48.667\" end=\"01:49.043\">&apos;Cause<\/span>\n        <span begin=\"01:49.043\" end=\"01:49.275\">I<\/span>\n        <span begin=\"01:49.275\" end=\"01:49.542\">love<\/span>\n        <span begin=\"01:49.542\" end=\"01:49.776\">you<\/span>\n        <span begin=\"01:49.776\" end=\"01:50.019\">for<\/span>\n        <span begin=\"01:50.019\" end=\"01:51.672\">infinity<\/span>\n      <\/p>\n      <p begin=\"01:48.660\" end=\"01:53.488\" role=\"x-bg\">\n        <span begin=\"01:51.568\" end=\"01:52.227\">(Oh,<\/span>\n        <span begin=\"01:52.227\" end=\"01:52.741\">oh,<\/span>\n        <span begin=\"01:52.741\" end=\"01:53.488\">oh)<\/span>\n      <\/p>\n      <p begin=\"01:52.900\" end=\"01:56.378\" ttm:agent=\"v1\">\n        <span begin=\"01:52.904\" end=\"01:53.223\">I<\/span>\n        <span begin=\"01:53.223\" end=\"01:53.459\">love<\/span>\n        <span begin=\"01:53.459\" end=\"01:53.675\">you<\/span>\n        <span begin=\"01:53.675\" end=\"01:53.949\">for<\/span>\n        <span begin=\"01:53.949\" end=\"01:56.378\">infinity<\/span>\n      <\/p>\n      <p begin=\"01:52.900\" end=\"01:57.759\" role=\"x-bg\">\n        <span begin=\"01:55.531\" end=\"01:56.075\">(Oh,<\/span>\n        <span begin=\"01:56.075\" end=\"01:56.573\">oh,<\/span>\n        <span begin=\"01:56.573\" end=\"01:57.759\">oh)<\/span>\n      <\/p>\n      <p begin=\"01:56.510\" end=\"01:59.634\" ttm:agent=\"v1\">\n        <span begin=\"01:56.515\" end=\"01:56.870\">&apos;Cause<\/span>\n        <span begin=\"01:56.870\" end=\"01:57.104\">I<\/span>\n        <span begin=\"01:57.104\" end=\"01:57.368\">love<\/span>\n        <span begin=\"01:57.368\" end=\"01:57.587\">you<\/span>\n        <span begin=\"01:57.587\" end=\"01:57.918\">for<\/span>\n        <span begin=\"01:57.918\" end=\"01:59.634\">infinity<\/span>\n      <\/p>\n      <p begin=\"01:56.510\" end=\"02:01.393\" role=\"x-bg\">\n        <span begin=\"01:59.461\" end=\"02:00.070\">(Oh,<\/span>\n        <span begin=\"02:00.070\" end=\"02:00.504\">oh,<\/span>\n        <span begin=\"02:00.504\" end=\"02:01.393\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:00.770\" end=\"02:04.439\" ttm:agent=\"v1\">\n        <span begin=\"02:00.778\" end=\"02:01.095\">I<\/span>\n        <span begin=\"02:01.095\" end=\"02:01.343\">love<\/span>\n        <span begin=\"02:01.343\" end=\"02:01.543\">you<\/span>\n        <span begin=\"02:01.543\" end=\"02:01.799\">for<\/span>\n        <span begin=\"02:01.799\" end=\"02:04.439\">infinity<\/span>\n      <\/p>\n      <p begin=\"02:00.770\" end=\"02:06.740\" role=\"x-bg\">\n        <span begin=\"02:03.392\" end=\"02:03.994\">(Oh,<\/span>\n        <span begin=\"02:03.994\" end=\"02:04.495\">oh,<\/span>\n        <span begin=\"02:04.495\" end=\"02:04.978\">oh,<\/span>\n        <span begin=\"02:04.978\" end=\"02:05.445\">oh,<\/span>\n        <span begin=\"02:05.445\" end=\"02:05.911\">oh,<\/span>\n        <span begin=\"02:05.911\" end=\"02:06.740\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:22.370\" end=\"02:26.115\" ttm:agent=\"v1\">\n        <span begin=\"02:22.379\" end=\"02:22.947\">Meet<\/span>\n        <span begin=\"02:22.947\" end=\"02:23.198\">me<\/span>\n        <span begin=\"02:23.198\" end=\"02:23.432\">at<\/span>\n        <span begin=\"02:23.432\" end=\"02:23.648\">the<\/span>\n        <span begin=\"02:23.648\" end=\"02:24.200\">bottom<\/span>\n        <span begin=\"02:24.200\" end=\"02:24.432\">of<\/span>\n        <span begin=\"02:24.432\" end=\"02:24.632\">the<\/span>\n        <span begin=\"02:24.632\" end=\"02:26.115\">ocean<\/span>\n      <\/p>\n      <p begin=\"02:26.970\" end=\"02:30.260\" ttm:agent=\"v1\">\n        <span begin=\"02:26.970\" end=\"02:27.418\">Where<\/span>\n        <span begin=\"02:27.418\" end=\"02:27.618\">the<\/span>\n        <span begin=\"02:27.618\" end=\"02:28.135\">time<\/span>\n        <span begin=\"02:28.135\" end=\"02:28.570\">is<\/span>\n        <span begin=\"02:28.570\" end=\"02:30.260\">frozen<\/span>\n      <\/p>\n      <p begin=\"02:30.690\" end=\"02:34.184\" ttm:agent=\"v1\">\n        <span begin=\"02:30.692\" end=\"02:31.071\">Where<\/span>\n        <span begin=\"02:31.071\" end=\"02:31.321\">all<\/span>\n        <span begin=\"02:31.321\" end=\"02:31.537\">the<\/span>\n        <span begin=\"02:31.537\" end=\"02:32.305\">universe<\/span>\n        <span begin=\"02:32.305\" end=\"02:32.505\">is<\/span>\n        <span begin=\"02:32.505\" end=\"02:34.184\">open<\/span>\n      <\/p>\n      <p begin=\"02:34.600\" end=\"02:38.029\" ttm:agent=\"v1\">\n        <span begin=\"02:34.609\" end=\"02:34.916\">Love<\/span>\n        <span begin=\"02:34.916\" end=\"02:35.481\">isn&apos;t<\/span>\n        <span begin=\"02:35.481\" end=\"02:36.014\">random,<\/span>\n        <span begin=\"02:36.014\" end=\"02:36.214\">we<\/span>\n        <span begin=\"02:36.214\" end=\"02:36.446\">are<\/span>\n        <span begin=\"02:36.446\" end=\"02:38.029\">chosen<\/span>\n      <\/p>\n      <p begin=\"02:38.790\" end=\"02:42.336\" ttm:agent=\"v1\">\n        <span begin=\"02:38.793\" end=\"02:39.098\">And<\/span>\n        <span begin=\"02:39.098\" end=\"02:39.666\">we<\/span>\n        <span begin=\"02:39.666\" end=\"02:39.917\">could<\/span>\n        <span begin=\"02:39.917\" end=\"02:40.149\">wear<\/span>\n        <span begin=\"02:40.149\" end=\"02:40.399\">the<\/span>\n        <span begin=\"02:40.399\" end=\"02:40.850\">same<\/span>\n        <span begin=\"02:40.850\" end=\"02:42.336\">crown<\/span>\n      <\/p>\n      <p begin=\"02:42.650\" end=\"02:46.309\" ttm:agent=\"v1\">\n        <span begin=\"02:42.654\" end=\"02:43.211\">Keep<\/span>\n        <span begin=\"02:43.211\" end=\"02:43.795\">slowing<\/span>\n        <span begin=\"02:43.795\" end=\"02:44.329\">your<\/span>\n        <span begin=\"02:44.329\" end=\"02:44.811\">heart<\/span>\n        <span begin=\"02:44.811\" end=\"02:46.309\">down<\/span>\n      <\/p>\n      <p begin=\"02:47.410\" end=\"02:51.534\" ttm:agent=\"v1\">\n        <span begin=\"02:47.418\" end=\"02:47.827\">We<\/span>\n        <span begin=\"02:47.827\" end=\"02:48.075\">are<\/span>\n        <span begin=\"02:48.075\" end=\"02:48.293\">the<\/span>\n        <span begin=\"02:48.293\" end=\"02:48.995\">gods<\/span>\n        <span begin=\"02:48.995\" end=\"02:51.534\">now<\/span>\n      <\/p>\n      <p begin=\"02:51.580\" end=\"02:54.680\" ttm:agent=\"v1\">\n        <span begin=\"02:51.586\" end=\"02:51.942\">&apos;Cause<\/span>\n        <span begin=\"02:51.942\" end=\"02:52.194\">I<\/span>\n        <span begin=\"02:52.194\" end=\"02:52.426\">love<\/span>\n        <span begin=\"02:52.426\" end=\"02:52.642\">you<\/span>\n        <span begin=\"02:52.642\" end=\"02:52.951\">for<\/span>\n        <span begin=\"02:52.951\" end=\"02:54.680\">infinity<\/span>\n      <\/p>\n      <p begin=\"02:51.580\" end=\"02:56.406\" role=\"x-bg\">\n        <span begin=\"02:54.588\" end=\"02:55.077\">(Oh,<\/span>\n        <span begin=\"02:55.077\" end=\"02:55.594\">oh,<\/span>\n        <span begin=\"02:55.594\" end=\"02:56.406\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:55.850\" end=\"02:59.297\" ttm:agent=\"v1\">\n        <span begin=\"02:55.857\" end=\"02:56.196\">I<\/span>\n        <span begin=\"02:56.196\" end=\"02:56.428\">love<\/span>\n        <span begin=\"02:56.428\" end=\"02:56.694\">you<\/span>\n        <span begin=\"02:56.694\" end=\"02:56.905\">for<\/span>\n        <span begin=\"02:56.905\" end=\"02:59.297\">infinity<\/span>\n      <\/p>\n      <p begin=\"02:55.850\" end=\"03:00.739\" role=\"x-bg\">\n        <span begin=\"02:58.519\" end=\"02:59.078\">(Oh,<\/span>\n        <span begin=\"02:59.078\" end=\"02:59.545\">oh,<\/span>\n        <span begin=\"02:59.545\" end=\"03:00.739\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:59.490\" end=\"03:02.622\" ttm:agent=\"v1\">\n        <span begin=\"02:59.491\" end=\"02:59.829\">&apos;Cause<\/span>\n        <span begin=\"02:59.829\" end=\"03:00.048\">I<\/span>\n        <span begin=\"03:00.048\" end=\"03:00.315\">love<\/span>\n        <span begin=\"03:00.315\" end=\"03:00.563\">you<\/span>\n        <span begin=\"03:00.563\" end=\"03:00.840\">for<\/span>\n        <span begin=\"03:00.840\" end=\"03:02.622\">infinity<\/span>\n      <\/p>\n      <p begin=\"02:59.490\" end=\"03:04.337\" role=\"x-bg\">\n        <span begin=\"03:02.450\" end=\"03:02.998\">(Oh,<\/span>\n        <span begin=\"03:02.998\" end=\"03:03.464\">oh,<\/span>\n        <span begin=\"03:03.464\" end=\"03:04.337\">oh)<\/span>\n      <\/p>\n      <p begin=\"03:03.640\" end=\"03:07.271\" ttm:agent=\"v1\">\n        <span begin=\"03:03.640\" end=\"03:04.032\">I<\/span>\n        <span begin=\"03:04.032\" end=\"03:04.299\">love<\/span>\n        <span begin=\"03:04.299\" end=\"03:04.515\">you<\/span>\n        <span begin=\"03:04.515\" end=\"03:04.779\">for<\/span>\n        <span begin=\"03:04.779\" end=\"03:07.271\">infinity<\/span>\n      <\/p>\n      <p begin=\"03:03.640\" end=\"03:08.598\" role=\"x-bg\">\n        <span begin=\"03:06.396\" end=\"03:06.965\">(Oh,<\/span>\n        <span begin=\"03:06.965\" end=\"03:07.416\">oh,<\/span>\n        <span begin=\"03:07.416\" end=\"03:08.598\">oh)<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 120,
+      "endTime": 1160,
+      "text": "Oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120,
+          "endTime": 536,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 536,
+          "endTime": 1160,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 3340,
+      "endTime": 5268,
+      "text": "Oh, oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 3348,
+          "endTime": 3863,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 3863,
+          "endTime": 4377,
+          "word": "oh,"
+        },
+        {
+          "startTime": 4377,
+          "endTime": 5268,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 7750,
+      "endTime": 9153,
+      "text": "Oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 7751,
+          "endTime": 8354,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 8354,
+          "endTime": 9153,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 11280,
+      "endTime": 13065,
+      "text": "Oh, oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 11283,
+          "endTime": 11779,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 11779,
+          "endTime": 12264,
+          "word": "oh,"
+        },
+        {
+          "startTime": 12264,
+          "endTime": 13065,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 14730,
+      "endTime": 17033,
+      "text": "Baby, this love",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 14735,
+          "endTime": 15340,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 15340,
+          "endTime": 15826,
+          "word": "this"
+        },
+        {
+          "startTime": 15826,
+          "endTime": 17033,
+          "word": "love"
+        }
+      ]
+    },
+    {
+      "time": 17870,
+      "endTime": 20371,
+      "text": "I'll never let it die",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17871,
+          "endTime": 18252,
+          "word": "I'll"
+        },
+        {
+          "startTime": 18252,
+          "endTime": 18767,
+          "word": "never"
+        },
+        {
+          "startTime": 18767,
+          "endTime": 19002,
+          "word": "let"
+        },
+        {
+          "startTime": 19002,
+          "endTime": 19202,
+          "word": "it"
+        },
+        {
+          "startTime": 19202,
+          "endTime": 20371,
+          "word": "die"
+        }
+      ]
+    },
+    {
+      "time": 21290,
+      "endTime": 25006,
+      "text": "Can't be touched by no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21298,
+          "endTime": 21954,
+          "word": "Can't"
+        },
+        {
+          "startTime": 21954,
+          "endTime": 22487,
+          "word": "be"
+        },
+        {
+          "startTime": 22487,
+          "endTime": 22957,
+          "word": "touched"
+        },
+        {
+          "startTime": 22957,
+          "endTime": 23189,
+          "word": "by"
+        },
+        {
+          "startTime": 23189,
+          "endTime": 23639,
+          "word": "no"
+        },
+        {
+          "startTime": 23639,
+          "endTime": 25006,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 25730,
+      "endTime": 28576,
+      "text": "I'd like to see 'em try",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 25732,
+          "endTime": 26116,
+          "word": "I'd"
+        },
+        {
+          "startTime": 26116,
+          "endTime": 26364,
+          "word": "like"
+        },
+        {
+          "startTime": 26364,
+          "endTime": 26649,
+          "word": "to"
+        },
+        {
+          "startTime": 26649,
+          "endTime": 26916,
+          "word": "see"
+        },
+        {
+          "startTime": 26916,
+          "endTime": 27116,
+          "word": "'em"
+        },
+        {
+          "startTime": 27116,
+          "endTime": 28576,
+          "word": "try"
+        }
+      ]
+    },
+    {
+      "time": 31460,
+      "endTime": 36378,
+      "text": "I'm a mad man for your touch, girl, I've lost control",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31461,
+          "endTime": 31866,
+          "word": "I'm"
+        },
+        {
+          "startTime": 31866,
+          "endTime": 32082,
+          "word": "a"
+        },
+        {
+          "startTime": 32082,
+          "endTime": 32549,
+          "word": "mad"
+        },
+        {
+          "startTime": 32549,
+          "endTime": 33050,
+          "word": "man"
+        },
+        {
+          "startTime": 33050,
+          "endTime": 33282,
+          "word": "for"
+        },
+        {
+          "startTime": 33282,
+          "endTime": 33517,
+          "word": "your"
+        },
+        {
+          "startTime": 33517,
+          "endTime": 34034,
+          "word": "touch,"
+        },
+        {
+          "startTime": 34034,
+          "endTime": 34282,
+          "word": "girl,"
+        },
+        {
+          "startTime": 34282,
+          "endTime": 34549,
+          "word": "I've"
+        },
+        {
+          "startTime": 34549,
+          "endTime": 34768,
+          "word": "lost"
+        },
+        {
+          "startTime": 34768,
+          "endTime": 36378,
+          "word": "control"
+        }
+      ]
+    },
+    {
+      "time": 38570,
+      "endTime": 43976,
+      "text": "I'm gonna make this last forever, don't tell me it's impossible",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 38575,
+          "endTime": 38980,
+          "word": "I'm"
+        },
+        {
+          "startTime": 38980,
+          "endTime": 39498,
+          "word": "gonna"
+        },
+        {
+          "startTime": 39498,
+          "endTime": 39730,
+          "word": "make"
+        },
+        {
+          "startTime": 39730,
+          "endTime": 39980,
+          "word": "this"
+        },
+        {
+          "startTime": 39980,
+          "endTime": 40196,
+          "word": "last"
+        },
+        {
+          "startTime": 40196,
+          "endTime": 40914,
+          "word": "forever,"
+        },
+        {
+          "startTime": 40914,
+          "endTime": 41466,
+          "word": "don't"
+        },
+        {
+          "startTime": 41466,
+          "endTime": 41682,
+          "word": "tell"
+        },
+        {
+          "startTime": 41682,
+          "endTime": 41948,
+          "word": "me"
+        },
+        {
+          "startTime": 41948,
+          "endTime": 42098,
+          "word": "it's"
+        },
+        {
+          "startTime": 42098,
+          "endTime": 43976,
+          "word": "impossible"
+        }
+      ]
+    },
+    {
+      "time": 45660,
+      "endTime": 48818,
+      "text": "'Cause I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45667,
+          "endTime": 46064,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 46064,
+          "endTime": 46331,
+          "word": "I"
+        },
+        {
+          "startTime": 46331,
+          "endTime": 46563,
+          "word": "love"
+        },
+        {
+          "startTime": 46563,
+          "endTime": 46814,
+          "word": "you"
+        },
+        {
+          "startTime": 46814,
+          "endTime": 47019,
+          "word": "for"
+        },
+        {
+          "startTime": 47019,
+          "endTime": 48818,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 45660,
+      "endTime": 50568,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 48681,
+          "endTime": 49163,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 49163,
+          "endTime": 49664,
+          "word": "oh,"
+        },
+        {
+          "startTime": 49664,
+          "endTime": 50568,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 49940,
+      "endTime": 53433,
+      "text": "I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49941,
+          "endTime": 50282,
+          "word": "I"
+        },
+        {
+          "startTime": 50282,
+          "endTime": 50498,
+          "word": "love"
+        },
+        {
+          "startTime": 50498,
+          "endTime": 50749,
+          "word": "you"
+        },
+        {
+          "startTime": 50749,
+          "endTime": 50970,
+          "word": "for"
+        },
+        {
+          "startTime": 50970,
+          "endTime": 53433,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 49940,
+      "endTime": 54830,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 52547,
+          "endTime": 53184,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 53184,
+          "endTime": 53682,
+          "word": "oh,"
+        },
+        {
+          "startTime": 53682,
+          "endTime": 54830,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 53600,
+      "endTime": 56695,
+      "text": "'Cause I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53604,
+          "endTime": 53948,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 53948,
+          "endTime": 54180,
+          "word": "I"
+        },
+        {
+          "startTime": 54180,
+          "endTime": 54412,
+          "word": "love"
+        },
+        {
+          "startTime": 54412,
+          "endTime": 54647,
+          "word": "you"
+        },
+        {
+          "startTime": 54647,
+          "endTime": 54884,
+          "word": "for"
+        },
+        {
+          "startTime": 54884,
+          "endTime": 56695,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 53600,
+      "endTime": 58611,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 56478,
+          "endTime": 57097,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 57097,
+          "endTime": 57580,
+          "word": "oh,"
+        },
+        {
+          "startTime": 57580,
+          "endTime": 58611,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 57800,
+      "endTime": 61340,
+      "text": "I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57809,
+          "endTime": 58129,
+          "word": "I"
+        },
+        {
+          "startTime": 58129,
+          "endTime": 58377,
+          "word": "love"
+        },
+        {
+          "startTime": 58377,
+          "endTime": 58593,
+          "word": "you"
+        },
+        {
+          "startTime": 58593,
+          "endTime": 58828,
+          "word": "for"
+        },
+        {
+          "startTime": 58828,
+          "endTime": 61340,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 57800,
+      "endTime": 62658,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 60387,
+          "endTime": 61062,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 61062,
+          "endTime": 61529,
+          "word": "oh,"
+        },
+        {
+          "startTime": 61529,
+          "endTime": 62658,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 77460,
+      "endTime": 80097,
+      "text": "Oh, darling, my soul",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 77465,
+          "endTime": 77771,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 77771,
+          "endTime": 78289,
+          "word": "darling,"
+        },
+        {
+          "startTime": 78289,
+          "endTime": 78771,
+          "word": "my"
+        },
+        {
+          "startTime": 78771,
+          "endTime": 80097,
+          "word": "soul"
+        }
+      ]
+    },
+    {
+      "time": 80820,
+      "endTime": 83876,
+      "text": "You know it aches for yours",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 80822,
+          "endTime": 81267,
+          "word": "You"
+        },
+        {
+          "startTime": 81267,
+          "endTime": 81502,
+          "word": "know"
+        },
+        {
+          "startTime": 81502,
+          "endTime": 81753,
+          "word": "it"
+        },
+        {
+          "startTime": 81753,
+          "endTime": 81969,
+          "word": "aches"
+        },
+        {
+          "startTime": 81969,
+          "endTime": 82185,
+          "word": "for"
+        },
+        {
+          "startTime": 82185,
+          "endTime": 83876,
+          "word": "yours"
+        }
+      ]
+    },
+    {
+      "time": 84100,
+      "endTime": 87965,
+      "text": "And you've been filling this hole",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 84101,
+          "endTime": 84437,
+          "word": "And"
+        },
+        {
+          "startTime": 84437,
+          "endTime": 84904,
+          "word": "you've"
+        },
+        {
+          "startTime": 84904,
+          "endTime": 85405,
+          "word": "been"
+        },
+        {
+          "startTime": 85405,
+          "endTime": 86154,
+          "word": "filling"
+        },
+        {
+          "startTime": 86154,
+          "endTime": 86605,
+          "word": "this"
+        },
+        {
+          "startTime": 86605,
+          "endTime": 87965,
+          "word": "hole"
+        }
+      ]
+    },
+    {
+      "time": 89000,
+      "endTime": 94209,
+      "text": "Since you were born, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89004,
+          "endTime": 89476,
+          "word": "Since"
+        },
+        {
+          "startTime": 89476,
+          "endTime": 89708,
+          "word": "you"
+        },
+        {
+          "startTime": 89708,
+          "endTime": 89959,
+          "word": "were"
+        },
+        {
+          "startTime": 89959,
+          "endTime": 91959,
+          "word": "born,"
+        },
+        {
+          "startTime": 91959,
+          "endTime": 94209,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 94210,
+      "endTime": 99535,
+      "text": "'Cause you're the reason I believe in fate, you're my paradise",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94211,
+          "endTime": 94558,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 94558,
+          "endTime": 94923,
+          "word": "you're"
+        },
+        {
+          "startTime": 94923,
+          "endTime": 95039,
+          "word": "the"
+        },
+        {
+          "startTime": 95039,
+          "endTime": 95539,
+          "word": "reason"
+        },
+        {
+          "startTime": 95539,
+          "endTime": 95774,
+          "word": "I"
+        },
+        {
+          "startTime": 95774,
+          "endTime": 96256,
+          "word": "believe"
+        },
+        {
+          "startTime": 96256,
+          "endTime": 96456,
+          "word": "in"
+        },
+        {
+          "startTime": 96456,
+          "endTime": 97039,
+          "word": "fate,"
+        },
+        {
+          "startTime": 97039,
+          "endTime": 97223,
+          "word": "you're"
+        },
+        {
+          "startTime": 97223,
+          "endTime": 97472,
+          "word": "my"
+        },
+        {
+          "startTime": 97472,
+          "endTime": 99535,
+          "word": "paradise"
+        }
+      ]
+    },
+    {
+      "time": 101990,
+      "endTime": 107322,
+      "text": "And I'll do anything to be your love, or be your sacrifice",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101994,
+          "endTime": 102327,
+          "word": "And"
+        },
+        {
+          "startTime": 102327,
+          "endTime": 102743,
+          "word": "I'll"
+        },
+        {
+          "startTime": 102743,
+          "endTime": 102860,
+          "word": "do"
+        },
+        {
+          "startTime": 102860,
+          "endTime": 103610,
+          "word": "anything"
+        },
+        {
+          "startTime": 103610,
+          "endTime": 103810,
+          "word": "to"
+        },
+        {
+          "startTime": 103810,
+          "endTime": 104042,
+          "word": "be"
+        },
+        {
+          "startTime": 104042,
+          "endTime": 104327,
+          "word": "your"
+        },
+        {
+          "startTime": 104327,
+          "endTime": 104709,
+          "word": "love,"
+        },
+        {
+          "startTime": 104709,
+          "endTime": 104858,
+          "word": "or"
+        },
+        {
+          "startTime": 104858,
+          "endTime": 105071,
+          "word": "be"
+        },
+        {
+          "startTime": 105071,
+          "endTime": 105237,
+          "word": "your"
+        },
+        {
+          "startTime": 105237,
+          "endTime": 107322,
+          "word": "sacrifice"
+        }
+      ]
+    },
+    {
+      "time": 108660,
+      "endTime": 111672,
+      "text": "'Cause I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 108667,
+          "endTime": 109043,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 109043,
+          "endTime": 109275,
+          "word": "I"
+        },
+        {
+          "startTime": 109275,
+          "endTime": 109542,
+          "word": "love"
+        },
+        {
+          "startTime": 109542,
+          "endTime": 109776,
+          "word": "you"
+        },
+        {
+          "startTime": 109776,
+          "endTime": 110019,
+          "word": "for"
+        },
+        {
+          "startTime": 110019,
+          "endTime": 111672,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 108660,
+      "endTime": 113488,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 111568,
+          "endTime": 112227,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 112227,
+          "endTime": 112741,
+          "word": "oh,"
+        },
+        {
+          "startTime": 112741,
+          "endTime": 113488,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 112900,
+      "endTime": 116378,
+      "text": "I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112904,
+          "endTime": 113223,
+          "word": "I"
+        },
+        {
+          "startTime": 113223,
+          "endTime": 113459,
+          "word": "love"
+        },
+        {
+          "startTime": 113459,
+          "endTime": 113675,
+          "word": "you"
+        },
+        {
+          "startTime": 113675,
+          "endTime": 113949,
+          "word": "for"
+        },
+        {
+          "startTime": 113949,
+          "endTime": 116378,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 112900,
+      "endTime": 117759,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 115531,
+          "endTime": 116075,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 116075,
+          "endTime": 116573,
+          "word": "oh,"
+        },
+        {
+          "startTime": 116573,
+          "endTime": 117759,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 116510,
+      "endTime": 119634,
+      "text": "'Cause I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116515,
+          "endTime": 116870,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 116870,
+          "endTime": 117104,
+          "word": "I"
+        },
+        {
+          "startTime": 117104,
+          "endTime": 117368,
+          "word": "love"
+        },
+        {
+          "startTime": 117368,
+          "endTime": 117587,
+          "word": "you"
+        },
+        {
+          "startTime": 117587,
+          "endTime": 117918,
+          "word": "for"
+        },
+        {
+          "startTime": 117918,
+          "endTime": 119634,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 116510,
+      "endTime": 121393,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 119461,
+          "endTime": 120070,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 120070,
+          "endTime": 120504,
+          "word": "oh,"
+        },
+        {
+          "startTime": 120504,
+          "endTime": 121393,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 120770,
+      "endTime": 124439,
+      "text": "I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120778,
+          "endTime": 121095,
+          "word": "I"
+        },
+        {
+          "startTime": 121095,
+          "endTime": 121343,
+          "word": "love"
+        },
+        {
+          "startTime": 121343,
+          "endTime": 121543,
+          "word": "you"
+        },
+        {
+          "startTime": 121543,
+          "endTime": 121799,
+          "word": "for"
+        },
+        {
+          "startTime": 121799,
+          "endTime": 124439,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 120770,
+      "endTime": 126740,
+      "text": "(Oh, oh, oh, oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 123392,
+          "endTime": 123994,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 123994,
+          "endTime": 124495,
+          "word": "oh,"
+        },
+        {
+          "startTime": 124495,
+          "endTime": 124978,
+          "word": "oh,"
+        },
+        {
+          "startTime": 124978,
+          "endTime": 125445,
+          "word": "oh,"
+        },
+        {
+          "startTime": 125445,
+          "endTime": 125911,
+          "word": "oh,"
+        },
+        {
+          "startTime": 125911,
+          "endTime": 126740,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 142370,
+      "endTime": 146115,
+      "text": "Meet me at the bottom of the ocean",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142379,
+          "endTime": 142947,
+          "word": "Meet"
+        },
+        {
+          "startTime": 142947,
+          "endTime": 143198,
+          "word": "me"
+        },
+        {
+          "startTime": 143198,
+          "endTime": 143432,
+          "word": "at"
+        },
+        {
+          "startTime": 143432,
+          "endTime": 143648,
+          "word": "the"
+        },
+        {
+          "startTime": 143648,
+          "endTime": 144200,
+          "word": "bottom"
+        },
+        {
+          "startTime": 144200,
+          "endTime": 144432,
+          "word": "of"
+        },
+        {
+          "startTime": 144432,
+          "endTime": 144632,
+          "word": "the"
+        },
+        {
+          "startTime": 144632,
+          "endTime": 146115,
+          "word": "ocean"
+        }
+      ]
+    },
+    {
+      "time": 146970,
+      "endTime": 150260,
+      "text": "Where the time is frozen",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146970,
+          "endTime": 147418,
+          "word": "Where"
+        },
+        {
+          "startTime": 147418,
+          "endTime": 147618,
+          "word": "the"
+        },
+        {
+          "startTime": 147618,
+          "endTime": 148135,
+          "word": "time"
+        },
+        {
+          "startTime": 148135,
+          "endTime": 148570,
+          "word": "is"
+        },
+        {
+          "startTime": 148570,
+          "endTime": 150260,
+          "word": "frozen"
+        }
+      ]
+    },
+    {
+      "time": 150690,
+      "endTime": 154184,
+      "text": "Where all the universe is open",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 150692,
+          "endTime": 151071,
+          "word": "Where"
+        },
+        {
+          "startTime": 151071,
+          "endTime": 151321,
+          "word": "all"
+        },
+        {
+          "startTime": 151321,
+          "endTime": 151537,
+          "word": "the"
+        },
+        {
+          "startTime": 151537,
+          "endTime": 152305,
+          "word": "universe"
+        },
+        {
+          "startTime": 152305,
+          "endTime": 152505,
+          "word": "is"
+        },
+        {
+          "startTime": 152505,
+          "endTime": 154184,
+          "word": "open"
+        }
+      ]
+    },
+    {
+      "time": 154600,
+      "endTime": 158029,
+      "text": "Love isn't random, we are chosen",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 154609,
+          "endTime": 154916,
+          "word": "Love"
+        },
+        {
+          "startTime": 154916,
+          "endTime": 155481,
+          "word": "isn't"
+        },
+        {
+          "startTime": 155481,
+          "endTime": 156014,
+          "word": "random,"
+        },
+        {
+          "startTime": 156014,
+          "endTime": 156214,
+          "word": "we"
+        },
+        {
+          "startTime": 156214,
+          "endTime": 156446,
+          "word": "are"
+        },
+        {
+          "startTime": 156446,
+          "endTime": 158029,
+          "word": "chosen"
+        }
+      ]
+    },
+    {
+      "time": 158790,
+      "endTime": 162336,
+      "text": "And we could wear the same crown",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 158793,
+          "endTime": 159098,
+          "word": "And"
+        },
+        {
+          "startTime": 159098,
+          "endTime": 159666,
+          "word": "we"
+        },
+        {
+          "startTime": 159666,
+          "endTime": 159917,
+          "word": "could"
+        },
+        {
+          "startTime": 159917,
+          "endTime": 160149,
+          "word": "wear"
+        },
+        {
+          "startTime": 160149,
+          "endTime": 160399,
+          "word": "the"
+        },
+        {
+          "startTime": 160399,
+          "endTime": 160850,
+          "word": "same"
+        },
+        {
+          "startTime": 160850,
+          "endTime": 162336,
+          "word": "crown"
+        }
+      ]
+    },
+    {
+      "time": 162650,
+      "endTime": 166309,
+      "text": "Keep slowing your heart down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 162654,
+          "endTime": 163211,
+          "word": "Keep"
+        },
+        {
+          "startTime": 163211,
+          "endTime": 163795,
+          "word": "slowing"
+        },
+        {
+          "startTime": 163795,
+          "endTime": 164329,
+          "word": "your"
+        },
+        {
+          "startTime": 164329,
+          "endTime": 164811,
+          "word": "heart"
+        },
+        {
+          "startTime": 164811,
+          "endTime": 166309,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 167410,
+      "endTime": 171534,
+      "text": "We are the gods now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 167418,
+          "endTime": 167827,
+          "word": "We"
+        },
+        {
+          "startTime": 167827,
+          "endTime": 168075,
+          "word": "are"
+        },
+        {
+          "startTime": 168075,
+          "endTime": 168293,
+          "word": "the"
+        },
+        {
+          "startTime": 168293,
+          "endTime": 168995,
+          "word": "gods"
+        },
+        {
+          "startTime": 168995,
+          "endTime": 171534,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 171580,
+      "endTime": 174680,
+      "text": "'Cause I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 171586,
+          "endTime": 171942,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 171942,
+          "endTime": 172194,
+          "word": "I"
+        },
+        {
+          "startTime": 172194,
+          "endTime": 172426,
+          "word": "love"
+        },
+        {
+          "startTime": 172426,
+          "endTime": 172642,
+          "word": "you"
+        },
+        {
+          "startTime": 172642,
+          "endTime": 172951,
+          "word": "for"
+        },
+        {
+          "startTime": 172951,
+          "endTime": 174680,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 171580,
+      "endTime": 176406,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 174588,
+          "endTime": 175077,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 175077,
+          "endTime": 175594,
+          "word": "oh,"
+        },
+        {
+          "startTime": 175594,
+          "endTime": 176406,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 175850,
+      "endTime": 179297,
+      "text": "I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 175857,
+          "endTime": 176196,
+          "word": "I"
+        },
+        {
+          "startTime": 176196,
+          "endTime": 176428,
+          "word": "love"
+        },
+        {
+          "startTime": 176428,
+          "endTime": 176694,
+          "word": "you"
+        },
+        {
+          "startTime": 176694,
+          "endTime": 176905,
+          "word": "for"
+        },
+        {
+          "startTime": 176905,
+          "endTime": 179297,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 175850,
+      "endTime": 180739,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 178519,
+          "endTime": 179078,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 179078,
+          "endTime": 179545,
+          "word": "oh,"
+        },
+        {
+          "startTime": 179545,
+          "endTime": 180739,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 179490,
+      "endTime": 182622,
+      "text": "'Cause I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 179491,
+          "endTime": 179829,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 179829,
+          "endTime": 180048,
+          "word": "I"
+        },
+        {
+          "startTime": 180048,
+          "endTime": 180315,
+          "word": "love"
+        },
+        {
+          "startTime": 180315,
+          "endTime": 180563,
+          "word": "you"
+        },
+        {
+          "startTime": 180563,
+          "endTime": 180840,
+          "word": "for"
+        },
+        {
+          "startTime": 180840,
+          "endTime": 182622,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 179490,
+      "endTime": 184337,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 182450,
+          "endTime": 182998,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 182998,
+          "endTime": 183464,
+          "word": "oh,"
+        },
+        {
+          "startTime": 183464,
+          "endTime": 184337,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 183640,
+      "endTime": 187271,
+      "text": "I love you for infinity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 183640,
+          "endTime": 184032,
+          "word": "I"
+        },
+        {
+          "startTime": 184032,
+          "endTime": 184299,
+          "word": "love"
+        },
+        {
+          "startTime": 184299,
+          "endTime": 184515,
+          "word": "you"
+        },
+        {
+          "startTime": 184515,
+          "endTime": 184779,
+          "word": "for"
+        },
+        {
+          "startTime": 184779,
+          "endTime": 187271,
+          "word": "infinity"
+        }
+      ]
+    },
+    {
+      "time": 183640,
+      "endTime": 188598,
+      "text": "(Oh, oh, oh)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 186396,
+          "endTime": 186965,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 186965,
+          "endTime": 187416,
+          "word": "oh,"
+        },
+        {
+          "startTime": 187416,
+          "endTime": 188598,
+          "word": "oh)"
+        }
+      ]
+    }
+  ]
+}
