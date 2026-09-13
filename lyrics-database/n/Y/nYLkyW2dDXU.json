@@ -1,0 +1,1099 @@
+{
+  "videoId": "nYLkyW2dDXU",
+  "title": "Bijuria",
+  "artist": "Sonu Nigam, Asees Kaur",
+  "duration": 208,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:01.240\" end=\"00:07.180\">\n        <span begin=\"00:01.240\" end=\"00:02.512\">Jaane <\/span>\n        <span begin=\"00:02.512\" end=\"00:04.633\">Nahin <\/span>\n        <span begin=\"00:04.633\" end=\"00:05.905\">Denge <\/span>\n        <span begin=\"00:05.905\" end=\"00:07.180\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"00:07.180\" end=\"00:13.770\">\n        <span begin=\"00:07.180\" end=\"00:08.592\">Jaane <\/span>\n        <span begin=\"00:08.592\" end=\"00:10.004\">Tujhe <\/span>\n        <span begin=\"00:10.004\" end=\"00:11.416\">Denge <\/span>\n        <span begin=\"00:11.416\" end=\"00:13.770\">Nahin<\/span>\n      <\/p>\n      <p begin=\"00:13.770\" end=\"00:20.250\">\n        <span begin=\"00:13.770\" end=\"00:15.158\">Jaane <\/span>\n        <span begin=\"00:15.158\" end=\"00:17.472\">Nahin <\/span>\n        <span begin=\"00:17.472\" end=\"00:18.860\">Denge <\/span>\n        <span begin=\"00:18.860\" end=\"00:20.250\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"00:20.250\" end=\"00:27.780\">\n        <span begin=\"00:20.250\" end=\"00:21.863\">Jaane <\/span>\n        <span begin=\"00:21.863\" end=\"00:23.476\">Tujhe <\/span>\n        <span begin=\"00:23.476\" end=\"00:25.089\">Denge <\/span>\n        <span begin=\"00:25.089\" end=\"00:27.780\">Nahin<\/span>\n      <\/p>\n      <p begin=\"00:27.780\" end=\"00:31.150\">\n        <span begin=\"00:27.780\" end=\"00:28.335\">Chahe <\/span>\n        <span begin=\"00:28.335\" end=\"00:29.297\">Tujhko <\/span>\n        <span begin=\"00:29.297\" end=\"00:29.778\">Rab <\/span>\n        <span begin=\"00:29.778\" end=\"00:30.703\">Bulaa <\/span>\n        <span begin=\"00:30.703\" end=\"00:31.150\">Le<\/span>\n      <\/p>\n      <p begin=\"00:31.150\" end=\"00:34.230\">\n        <span begin=\"00:31.150\" end=\"00:31.594\">Hum <\/span>\n        <span begin=\"00:31.594\" end=\"00:32.004\">Na <\/span>\n        <span begin=\"00:32.004\" end=\"00:32.448\">Rab <\/span>\n        <span begin=\"00:32.448\" end=\"00:32.858\">Se <\/span>\n        <span begin=\"00:32.858\" end=\"00:33.371\">Darne <\/span>\n        <span begin=\"00:33.371\" end=\"00:34.230\">Waale<\/span>\n      <\/p>\n      <p begin=\"00:34.230\" end=\"00:40.920\">\n        <span begin=\"00:34.230\" end=\"00:35.855\">Raahon <\/span>\n        <span begin=\"00:35.855\" end=\"00:36.730\">Mein <\/span>\n        <span begin=\"00:36.730\" end=\"00:37.542\">Dat <\/span>\n        <span begin=\"00:37.542\" end=\"00:38.292\">Ke <\/span>\n        <span begin=\"00:38.292\" end=\"00:39.229\">Khade <\/span>\n        <span begin=\"00:39.229\" end=\"00:40.104\">Hain <\/span>\n        <span begin=\"00:40.104\" end=\"00:40.920\">Hum<\/span>\n      <\/p>\n      <p begin=\"00:40.920\" end=\"00:44.090\">\n        <span begin=\"00:40.920\" end=\"00:41.728\">Yaaron <\/span>\n        <span begin=\"00:41.728\" end=\"00:42.100\">Se <\/span>\n        <span begin=\"00:42.100\" end=\"00:42.939\">Nazrein <\/span>\n        <span begin=\"00:42.939\" end=\"00:43.715\">Chura <\/span>\n        <span begin=\"00:43.715\" end=\"00:44.090\">Le<\/span>\n      <\/p>\n      <p begin=\"00:44.090\" end=\"00:47.420\">\n        <span begin=\"00:44.090\" end=\"00:44.645\">Chahe <\/span>\n        <span begin=\"00:44.645\" end=\"00:45.570\">Jitna <\/span>\n        <span begin=\"00:45.570\" end=\"00:46.051\">Dum <\/span>\n        <span begin=\"00:46.051\" end=\"00:46.976\">Lagaa <\/span>\n        <span begin=\"00:46.976\" end=\"00:47.420\">Le<\/span>\n      <\/p>\n      <p begin=\"00:47.420\" end=\"00:54.850\">\n        <span begin=\"00:47.420\" end=\"00:48.593\">Jaane <\/span>\n        <span begin=\"00:48.593\" end=\"00:49.531\">Na <\/span>\n        <span begin=\"00:49.531\" end=\"00:50.625\">Tujh <\/span>\n        <span begin=\"00:50.625\" end=\"00:51.563\">Ko <\/span>\n        <span begin=\"00:51.563\" end=\"00:52.657\">Aise <\/span>\n        <span begin=\"00:52.657\" end=\"00:53.830\">Denge <\/span>\n        <span begin=\"00:53.830\" end=\"00:54.850\">Hum<\/span>\n      <\/p>\n      <p begin=\"00:54.850\" end=\"01:01.300\">\n        <span begin=\"00:54.850\" end=\"00:56.232\">Jaane <\/span>\n        <span begin=\"00:56.232\" end=\"00:58.535\">Nahin <\/span>\n        <span begin=\"00:58.535\" end=\"00:59.917\">Denge <\/span>\n        <span begin=\"00:59.917\" end=\"01:01.300\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"01:01.300\" end=\"01:12.280\">\n        <span begin=\"01:01.300\" end=\"01:03.652\">Jaane <\/span>\n        <span begin=\"01:03.652\" end=\"01:06.004\">Tujhe <\/span>\n        <span begin=\"01:06.004\" end=\"01:08.356\">Denge <\/span>\n        <span begin=\"01:08.356\" end=\"01:12.280\">Nahin<\/span>\n      <\/p>\n      <p begin=\"01:12.280\" end=\"01:15.260\">\n        <span begin=\"01:12.280\" end=\"01:12.637\">Do <\/span>\n        <span begin=\"01:12.637\" end=\"01:13.382\">Kadam <\/span>\n        <span begin=\"01:13.382\" end=\"01:13.739\">Ka <\/span>\n        <span begin=\"01:13.739\" end=\"01:14.126\">Yeh <\/span>\n        <span begin=\"01:14.126\" end=\"01:14.871\">Safar <\/span>\n        <span begin=\"01:14.871\" end=\"01:15.260\">Hai<\/span>\n      <\/p>\n      <p begin=\"01:15.260\" end=\"01:18.760\">\n        <span begin=\"01:15.260\" end=\"01:15.771\">Umr <\/span>\n        <span begin=\"01:15.771\" end=\"01:16.793\">Chhoti <\/span>\n        <span begin=\"01:16.793\" end=\"01:17.264\">Si <\/span>\n        <span begin=\"01:17.264\" end=\"01:18.247\">Dagar <\/span>\n        <span begin=\"01:18.247\" end=\"01:18.760\">Hai<\/span>\n      <\/p>\n      <p begin=\"01:18.760\" end=\"01:25.070\">\n        <span begin=\"01:18.760\" end=\"01:19.474\">Ek <\/span>\n        <span begin=\"01:19.474\" end=\"01:20.962\">Kadam <\/span>\n        <span begin=\"01:20.962\" end=\"01:21.795\">Mein <\/span>\n        <span begin=\"01:21.795\" end=\"01:24.176\">Ladkhadaya <\/span>\n        <span begin=\"01:24.176\" end=\"01:25.070\">Kyoon<\/span>\n      <\/p>\n      <p begin=\"01:25.070\" end=\"01:28.370\">\n        <span begin=\"01:25.070\" end=\"01:25.514\">Sunn <\/span>\n        <span begin=\"01:25.514\" end=\"01:25.894\">Le <\/span>\n        <span begin=\"01:25.894\" end=\"01:26.719\">Yaaron <\/span>\n        <span begin=\"01:26.719\" end=\"01:27.099\">Ki <\/span>\n        <span begin=\"01:27.099\" end=\"01:27.511\">Yeh <\/span>\n        <span begin=\"01:27.511\" end=\"01:28.370\">Baatein<\/span>\n      <\/p>\n      <p begin=\"01:28.370\" end=\"01:31.650\">\n        <span begin=\"01:28.370\" end=\"01:29.568\">Beetengi <\/span>\n        <span begin=\"01:29.568\" end=\"01:29.978\">Sab <\/span>\n        <span begin=\"01:29.978\" end=\"01:30.419\">Ghum <\/span>\n        <span begin=\"01:30.419\" end=\"01:30.797\">Ki <\/span>\n        <span begin=\"01:30.797\" end=\"01:31.650\">Raatein<\/span>\n      <\/p>\n      <p begin=\"01:31.650\" end=\"01:37.480\">\n        <span begin=\"01:31.650\" end=\"01:32.945\">Yaaron <\/span>\n        <span begin=\"01:32.945\" end=\"01:33.542\">Se <\/span>\n        <span begin=\"01:33.542\" end=\"01:34.837\">Rootha <\/span>\n        <span begin=\"01:34.837\" end=\"01:35.484\">Hai <\/span>\n        <span begin=\"01:35.484\" end=\"01:36.729\">Saale <\/span>\n        <span begin=\"01:36.729\" end=\"01:37.480\">Kyoon<\/span>\n      <\/p>\n      <p begin=\"01:37.480\" end=\"01:43.900\">\n        <span begin=\"01:37.480\" end=\"01:38.855\">Jaane <\/span>\n        <span begin=\"01:38.855\" end=\"01:41.147\">Nahin <\/span>\n        <span begin=\"01:41.147\" end=\"01:42.522\">Denge <\/span>\n        <span begin=\"01:42.522\" end=\"01:43.900\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"01:43.900\" end=\"01:50.490\">\n        <span begin=\"01:43.900\" end=\"01:45.312\">Jaane <\/span>\n        <span begin=\"01:45.312\" end=\"01:46.724\">Tujhe <\/span>\n        <span begin=\"01:46.724\" end=\"01:48.136\">Denge <\/span>\n        <span begin=\"01:48.136\" end=\"01:50.490\">Nahin<\/span>\n      <\/p>\n      <p begin=\"01:50.490\" end=\"01:57.030\">\n        <span begin=\"01:50.490\" end=\"01:51.891\">Jaane <\/span>\n        <span begin=\"01:51.891\" end=\"01:54.226\">Nahin <\/span>\n        <span begin=\"01:54.226\" end=\"01:55.627\">Denge <\/span>\n        <span begin=\"01:55.627\" end=\"01:57.030\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"01:57.030\" end=\"02:11.250\">\n        <span begin=\"01:57.030\" end=\"02:00.077\">Jaane <\/span>\n        <span begin=\"02:00.077\" end=\"02:03.124\">Tujhe <\/span>\n        <span begin=\"02:03.124\" end=\"02:06.171\">Denge <\/span>\n        <span begin=\"02:06.171\" end=\"02:11.250\">Nahin<\/span>\n      <\/p>\n      <p begin=\"02:11.250\" end=\"02:14.630\">\n        <span begin=\"02:11.250\" end=\"02:11.668\">Maa <\/span>\n        <span begin=\"02:11.668\" end=\"02:12.054\">Ne <\/span>\n        <span begin=\"02:12.054\" end=\"02:12.504\">Khat <\/span>\n        <span begin=\"02:12.504\" end=\"02:12.954\">Mein <\/span>\n        <span begin=\"02:12.954\" end=\"02:13.372\">Kya <\/span>\n        <span begin=\"02:13.372\" end=\"02:14.208\">Likhaa <\/span>\n        <span begin=\"02:14.208\" end=\"02:14.630\">Tha<\/span>\n      <\/p>\n      <p begin=\"02:14.630\" end=\"02:17.430\">\n        <span begin=\"02:14.630\" end=\"02:15.014\">Jiye <\/span>\n        <span begin=\"02:15.014\" end=\"02:15.343\">Tu <\/span>\n        <span begin=\"02:15.343\" end=\"02:15.699\">Jug <\/span>\n        <span begin=\"02:15.699\" end=\"02:16.055\">Jug <\/span>\n        <span begin=\"02:16.055\" end=\"02:16.411\">Yeh <\/span>\n        <span begin=\"02:16.411\" end=\"02:17.069\">Kaha <\/span>\n        <span begin=\"02:17.069\" end=\"02:17.430\">Tha<\/span>\n      <\/p>\n      <p begin=\"02:17.430\" end=\"02:24.160\">\n        <span begin=\"02:17.430\" end=\"02:18.515\">Chaar <\/span>\n        <span begin=\"02:18.515\" end=\"02:19.455\">Pal <\/span>\n        <span begin=\"02:19.455\" end=\"02:20.395\">Bhi <\/span>\n        <span begin=\"02:20.395\" end=\"02:21.335\">Jee <\/span>\n        <span begin=\"02:21.335\" end=\"02:22.203\">Na <\/span>\n        <span begin=\"02:22.203\" end=\"02:23.288\">Paaya <\/span>\n        <span begin=\"02:23.288\" end=\"02:24.160\">Tu<\/span>\n      <\/p>\n      <p begin=\"02:24.160\" end=\"02:27.340\">\n        <span begin=\"02:24.160\" end=\"02:24.970\">Yaaron <\/span>\n        <span begin=\"02:24.970\" end=\"02:25.344\">Se <\/span>\n        <span begin=\"02:25.344\" end=\"02:26.185\">Nazrein <\/span>\n        <span begin=\"02:26.185\" end=\"02:26.964\">Milaa <\/span>\n        <span begin=\"02:26.964\" end=\"02:27.340\">Le<\/span>\n      <\/p>\n      <p begin=\"02:27.340\" end=\"02:30.830\">\n        <span begin=\"02:27.340\" end=\"02:27.821\">Ek <\/span>\n        <span begin=\"02:27.821\" end=\"02:28.382\">Baar <\/span>\n        <span begin=\"02:28.382\" end=\"02:28.863\">Tu <\/span>\n        <span begin=\"02:28.863\" end=\"02:30.347\">Muskura <\/span>\n        <span begin=\"02:30.347\" end=\"02:30.830\">De<\/span>\n      <\/p>\n      <p begin=\"02:30.830\" end=\"02:39.650\">\n        <span begin=\"02:30.830\" end=\"02:31.725\">Uth <\/span>\n        <span begin=\"02:31.725\" end=\"02:32.551\">Ja <\/span>\n        <span begin=\"02:32.551\" end=\"02:34.273\">Saale <\/span>\n        <span begin=\"02:34.273\" end=\"02:35.168\">Yun <\/span>\n        <span begin=\"02:35.168\" end=\"02:37.717\">Sataata <\/span>\n        <span begin=\"02:37.717\" end=\"02:38.612\">Hai <\/span>\n        <span begin=\"02:38.612\" end=\"02:39.650\">Kyoon<\/span>\n      <\/p>\n      <p begin=\"02:39.650\" end=\"02:46.040\">\n        <span begin=\"02:39.650\" end=\"02:41.019\">Jaane <\/span>\n        <span begin=\"02:41.019\" end=\"02:43.301\">Nahin <\/span>\n        <span begin=\"02:43.301\" end=\"02:44.670\">Denge <\/span>\n        <span begin=\"02:44.670\" end=\"02:46.040\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"02:46.040\" end=\"02:52.710\">\n        <span begin=\"02:46.040\" end=\"02:47.469\">Jaane <\/span>\n        <span begin=\"02:47.469\" end=\"02:48.898\">Tujhe <\/span>\n        <span begin=\"02:48.898\" end=\"02:50.327\">Denge <\/span>\n        <span begin=\"02:50.327\" end=\"02:52.710\">Nahin<\/span>\n      <\/p>\n      <p begin=\"02:52.710\" end=\"02:59.420\">\n        <span begin=\"02:52.710\" end=\"02:54.147\">Jaane <\/span>\n        <span begin=\"02:54.147\" end=\"02:56.543\">Nahin <\/span>\n        <span begin=\"02:56.543\" end=\"02:57.980\">Denge <\/span>\n        <span begin=\"02:57.980\" end=\"02:59.420\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"02:59.420\" end=\"03:05.540\">\n        <span begin=\"02:59.420\" end=\"03:00.731\">Jaane <\/span>\n        <span begin=\"03:00.731\" end=\"03:02.042\">Tujhe <\/span>\n        <span begin=\"03:02.042\" end=\"03:03.353\">Denge <\/span>\n        <span begin=\"03:03.353\" end=\"03:05.540\">Nahin<\/span>\n      <\/p>\n      <p begin=\"03:05.540\" end=\"03:12.080\">\n        <span begin=\"03:05.540\" end=\"03:06.941\">Jaane <\/span>\n        <span begin=\"03:06.941\" end=\"03:09.276\">Nahin <\/span>\n        <span begin=\"03:09.276\" end=\"03:10.677\">Denge <\/span>\n        <span begin=\"03:10.677\" end=\"03:12.080\">Tujhe<\/span>\n      <\/p>\n      <p begin=\"03:12.080\" end=\"03:17.080\">\n        <span begin=\"03:12.080\" end=\"03:13.151\">Jaane <\/span>\n        <span begin=\"03:13.151\" end=\"03:14.222\">Tujhe <\/span>\n        <span begin=\"03:14.222\" end=\"03:15.293\">Denge <\/span>\n        <span begin=\"03:15.293\" end=\"03:17.080\">Nahin<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 1240,
+      "endTime": 7180,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 1240,
+          "endTime": 2512,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 2512,
+          "endTime": 4633,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 4633,
+          "endTime": 5905,
+          "word": "Denge "
+        },
+        {
+          "startTime": 5905,
+          "endTime": 7180,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 7180,
+      "endTime": 13770,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 7180,
+          "endTime": 8592,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 8592,
+          "endTime": 10004,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 10004,
+          "endTime": 11416,
+          "word": "Denge "
+        },
+        {
+          "startTime": 11416,
+          "endTime": 13770,
+          "word": "Nahin"
+        }
+      ]
+    },
+    {
+      "time": 13770,
+      "endTime": 20250,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 13770,
+          "endTime": 15158,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 15158,
+          "endTime": 17472,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 17472,
+          "endTime": 18860,
+          "word": "Denge "
+        },
+        {
+          "startTime": 18860,
+          "endTime": 20250,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 20250,
+      "endTime": 27780,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 20250,
+          "endTime": 21863,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 21863,
+          "endTime": 23476,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 23476,
+          "endTime": 25089,
+          "word": "Denge "
+        },
+        {
+          "startTime": 25089,
+          "endTime": 27780,
+          "word": "Nahin"
+        }
+      ]
+    },
+    {
+      "time": 27780,
+      "endTime": 31150,
+      "text": "Chahe Tujhko Rab Bulaa Le",
+      "words": [
+        {
+          "startTime": 27780,
+          "endTime": 28335,
+          "word": "Chahe "
+        },
+        {
+          "startTime": 28335,
+          "endTime": 29297,
+          "word": "Tujhko "
+        },
+        {
+          "startTime": 29297,
+          "endTime": 29778,
+          "word": "Rab "
+        },
+        {
+          "startTime": 29778,
+          "endTime": 30703,
+          "word": "Bulaa "
+        },
+        {
+          "startTime": 30703,
+          "endTime": 31150,
+          "word": "Le"
+        }
+      ]
+    },
+    {
+      "time": 31150,
+      "endTime": 34230,
+      "text": "Hum Na Rab Se Darne Waale",
+      "words": [
+        {
+          "startTime": 31150,
+          "endTime": 31594,
+          "word": "Hum "
+        },
+        {
+          "startTime": 31594,
+          "endTime": 32004,
+          "word": "Na "
+        },
+        {
+          "startTime": 32004,
+          "endTime": 32448,
+          "word": "Rab "
+        },
+        {
+          "startTime": 32448,
+          "endTime": 32858,
+          "word": "Se "
+        },
+        {
+          "startTime": 32858,
+          "endTime": 33371,
+          "word": "Darne "
+        },
+        {
+          "startTime": 33371,
+          "endTime": 34230,
+          "word": "Waale"
+        }
+      ]
+    },
+    {
+      "time": 34230,
+      "endTime": 40920,
+      "text": "Raahon Mein Dat Ke Khade Hain Hum",
+      "words": [
+        {
+          "startTime": 34230,
+          "endTime": 35855,
+          "word": "Raahon "
+        },
+        {
+          "startTime": 35855,
+          "endTime": 36730,
+          "word": "Mein "
+        },
+        {
+          "startTime": 36730,
+          "endTime": 37542,
+          "word": "Dat "
+        },
+        {
+          "startTime": 37542,
+          "endTime": 38292,
+          "word": "Ke "
+        },
+        {
+          "startTime": 38292,
+          "endTime": 39229,
+          "word": "Khade "
+        },
+        {
+          "startTime": 39229,
+          "endTime": 40104,
+          "word": "Hain "
+        },
+        {
+          "startTime": 40104,
+          "endTime": 40920,
+          "word": "Hum"
+        }
+      ]
+    },
+    {
+      "time": 40920,
+      "endTime": 44090,
+      "text": "Yaaron Se Nazrein Chura Le",
+      "words": [
+        {
+          "startTime": 40920,
+          "endTime": 41728,
+          "word": "Yaaron "
+        },
+        {
+          "startTime": 41728,
+          "endTime": 42100,
+          "word": "Se "
+        },
+        {
+          "startTime": 42100,
+          "endTime": 42939,
+          "word": "Nazrein "
+        },
+        {
+          "startTime": 42939,
+          "endTime": 43715,
+          "word": "Chura "
+        },
+        {
+          "startTime": 43715,
+          "endTime": 44090,
+          "word": "Le"
+        }
+      ]
+    },
+    {
+      "time": 44090,
+      "endTime": 47420,
+      "text": "Chahe Jitna Dum Lagaa Le",
+      "words": [
+        {
+          "startTime": 44090,
+          "endTime": 44645,
+          "word": "Chahe "
+        },
+        {
+          "startTime": 44645,
+          "endTime": 45570,
+          "word": "Jitna "
+        },
+        {
+          "startTime": 45570,
+          "endTime": 46051,
+          "word": "Dum "
+        },
+        {
+          "startTime": 46051,
+          "endTime": 46976,
+          "word": "Lagaa "
+        },
+        {
+          "startTime": 46976,
+          "endTime": 47420,
+          "word": "Le"
+        }
+      ]
+    },
+    {
+      "time": 47420,
+      "endTime": 54850,
+      "text": "Jaane Na Tujh Ko Aise Denge Hum",
+      "words": [
+        {
+          "startTime": 47420,
+          "endTime": 48593,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 48593,
+          "endTime": 49531,
+          "word": "Na "
+        },
+        {
+          "startTime": 49531,
+          "endTime": 50625,
+          "word": "Tujh "
+        },
+        {
+          "startTime": 50625,
+          "endTime": 51563,
+          "word": "Ko "
+        },
+        {
+          "startTime": 51563,
+          "endTime": 52657,
+          "word": "Aise "
+        },
+        {
+          "startTime": 52657,
+          "endTime": 53830,
+          "word": "Denge "
+        },
+        {
+          "startTime": 53830,
+          "endTime": 54850,
+          "word": "Hum"
+        }
+      ]
+    },
+    {
+      "time": 54850,
+      "endTime": 61300,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 54850,
+          "endTime": 56232,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 56232,
+          "endTime": 58535,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 58535,
+          "endTime": 59917,
+          "word": "Denge "
+        },
+        {
+          "startTime": 59917,
+          "endTime": 61300,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 61300,
+      "endTime": 72280,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 61300,
+          "endTime": 63652,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 63652,
+          "endTime": 66004,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 66004,
+          "endTime": 68356,
+          "word": "Denge "
+        },
+        {
+          "startTime": 68356,
+          "endTime": 72280,
+          "word": "Nahin"
+        }
+      ]
+    },
+    {
+      "time": 72280,
+      "endTime": 75260,
+      "text": "Do Kadam Ka Yeh Safar Hai",
+      "words": [
+        {
+          "startTime": 72280,
+          "endTime": 72637,
+          "word": "Do "
+        },
+        {
+          "startTime": 72637,
+          "endTime": 73382,
+          "word": "Kadam "
+        },
+        {
+          "startTime": 73382,
+          "endTime": 73739,
+          "word": "Ka "
+        },
+        {
+          "startTime": 73739,
+          "endTime": 74126,
+          "word": "Yeh "
+        },
+        {
+          "startTime": 74126,
+          "endTime": 74871,
+          "word": "Safar "
+        },
+        {
+          "startTime": 74871,
+          "endTime": 75260,
+          "word": "Hai"
+        }
+      ]
+    },
+    {
+      "time": 75260,
+      "endTime": 78760,
+      "text": "Umr Chhoti Si Dagar Hai",
+      "words": [
+        {
+          "startTime": 75260,
+          "endTime": 75771,
+          "word": "Umr "
+        },
+        {
+          "startTime": 75771,
+          "endTime": 76793,
+          "word": "Chhoti "
+        },
+        {
+          "startTime": 76793,
+          "endTime": 77264,
+          "word": "Si "
+        },
+        {
+          "startTime": 77264,
+          "endTime": 78247,
+          "word": "Dagar "
+        },
+        {
+          "startTime": 78247,
+          "endTime": 78760,
+          "word": "Hai"
+        }
+      ]
+    },
+    {
+      "time": 78760,
+      "endTime": 85070,
+      "text": "Ek Kadam Mein Ladkhadaya Kyoon",
+      "words": [
+        {
+          "startTime": 78760,
+          "endTime": 79474,
+          "word": "Ek "
+        },
+        {
+          "startTime": 79474,
+          "endTime": 80962,
+          "word": "Kadam "
+        },
+        {
+          "startTime": 80962,
+          "endTime": 81795,
+          "word": "Mein "
+        },
+        {
+          "startTime": 81795,
+          "endTime": 84176,
+          "word": "Ladkhadaya "
+        },
+        {
+          "startTime": 84176,
+          "endTime": 85070,
+          "word": "Kyoon"
+        }
+      ]
+    },
+    {
+      "time": 85070,
+      "endTime": 88370,
+      "text": "Sunn Le Yaaron Ki Yeh Baatein",
+      "words": [
+        {
+          "startTime": 85070,
+          "endTime": 85514,
+          "word": "Sunn "
+        },
+        {
+          "startTime": 85514,
+          "endTime": 85894,
+          "word": "Le "
+        },
+        {
+          "startTime": 85894,
+          "endTime": 86719,
+          "word": "Yaaron "
+        },
+        {
+          "startTime": 86719,
+          "endTime": 87099,
+          "word": "Ki "
+        },
+        {
+          "startTime": 87099,
+          "endTime": 87511,
+          "word": "Yeh "
+        },
+        {
+          "startTime": 87511,
+          "endTime": 88370,
+          "word": "Baatein"
+        }
+      ]
+    },
+    {
+      "time": 88370,
+      "endTime": 91650,
+      "text": "Beetengi Sab Ghum Ki Raatein",
+      "words": [
+        {
+          "startTime": 88370,
+          "endTime": 89568,
+          "word": "Beetengi "
+        },
+        {
+          "startTime": 89568,
+          "endTime": 89978,
+          "word": "Sab "
+        },
+        {
+          "startTime": 89978,
+          "endTime": 90419,
+          "word": "Ghum "
+        },
+        {
+          "startTime": 90419,
+          "endTime": 90797,
+          "word": "Ki "
+        },
+        {
+          "startTime": 90797,
+          "endTime": 91650,
+          "word": "Raatein"
+        }
+      ]
+    },
+    {
+      "time": 91650,
+      "endTime": 97480,
+      "text": "Yaaron Se Rootha Hai Saale Kyoon",
+      "words": [
+        {
+          "startTime": 91650,
+          "endTime": 92945,
+          "word": "Yaaron "
+        },
+        {
+          "startTime": 92945,
+          "endTime": 93542,
+          "word": "Se "
+        },
+        {
+          "startTime": 93542,
+          "endTime": 94837,
+          "word": "Rootha "
+        },
+        {
+          "startTime": 94837,
+          "endTime": 95484,
+          "word": "Hai "
+        },
+        {
+          "startTime": 95484,
+          "endTime": 96729,
+          "word": "Saale "
+        },
+        {
+          "startTime": 96729,
+          "endTime": 97480,
+          "word": "Kyoon"
+        }
+      ]
+    },
+    {
+      "time": 97480,
+      "endTime": 103900,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 97480,
+          "endTime": 98855,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 98855,
+          "endTime": 101147,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 101147,
+          "endTime": 102522,
+          "word": "Denge "
+        },
+        {
+          "startTime": 102522,
+          "endTime": 103900,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 103900,
+      "endTime": 110490,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 103900,
+          "endTime": 105312,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 105312,
+          "endTime": 106724,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 106724,
+          "endTime": 108136,
+          "word": "Denge "
+        },
+        {
+          "startTime": 108136,
+          "endTime": 110490,
+          "word": "Nahin"
+        }
+      ]
+    },
+    {
+      "time": 110490,
+      "endTime": 117030,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 110490,
+          "endTime": 111891,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 111891,
+          "endTime": 114226,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 114226,
+          "endTime": 115627,
+          "word": "Denge "
+        },
+        {
+          "startTime": 115627,
+          "endTime": 117030,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 117030,
+      "endTime": 131250,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 117030,
+          "endTime": 120077,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 120077,
+          "endTime": 123124,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 123124,
+          "endTime": 126171,
+          "word": "Denge "
+        },
+        {
+          "startTime": 126171,
+          "endTime": 131250,
+          "word": "Nahin"
+        }
+      ]
+    },
+    {
+      "time": 131250,
+      "endTime": 134630,
+      "text": "Maa Ne Khat Mein Kya Likhaa Tha",
+      "words": [
+        {
+          "startTime": 131250,
+          "endTime": 131668,
+          "word": "Maa "
+        },
+        {
+          "startTime": 131668,
+          "endTime": 132054,
+          "word": "Ne "
+        },
+        {
+          "startTime": 132054,
+          "endTime": 132504,
+          "word": "Khat "
+        },
+        {
+          "startTime": 132504,
+          "endTime": 132954,
+          "word": "Mein "
+        },
+        {
+          "startTime": 132954,
+          "endTime": 133372,
+          "word": "Kya "
+        },
+        {
+          "startTime": 133372,
+          "endTime": 134208,
+          "word": "Likhaa "
+        },
+        {
+          "startTime": 134208,
+          "endTime": 134630,
+          "word": "Tha"
+        }
+      ]
+    },
+    {
+      "time": 134630,
+      "endTime": 137430,
+      "text": "Jiye Tu Jug Jug Yeh Kaha Tha",
+      "words": [
+        {
+          "startTime": 134630,
+          "endTime": 135014,
+          "word": "Jiye "
+        },
+        {
+          "startTime": 135014,
+          "endTime": 135343,
+          "word": "Tu "
+        },
+        {
+          "startTime": 135343,
+          "endTime": 135699,
+          "word": "Jug "
+        },
+        {
+          "startTime": 135699,
+          "endTime": 136055,
+          "word": "Jug "
+        },
+        {
+          "startTime": 136055,
+          "endTime": 136411,
+          "word": "Yeh "
+        },
+        {
+          "startTime": 136411,
+          "endTime": 137069,
+          "word": "Kaha "
+        },
+        {
+          "startTime": 137069,
+          "endTime": 137430,
+          "word": "Tha"
+        }
+      ]
+    },
+    {
+      "time": 137430,
+      "endTime": 144160,
+      "text": "Chaar Pal Bhi Jee Na Paaya Tu",
+      "words": [
+        {
+          "startTime": 137430,
+          "endTime": 138515,
+          "word": "Chaar "
+        },
+        {
+          "startTime": 138515,
+          "endTime": 139455,
+          "word": "Pal "
+        },
+        {
+          "startTime": 139455,
+          "endTime": 140395,
+          "word": "Bhi "
+        },
+        {
+          "startTime": 140395,
+          "endTime": 141335,
+          "word": "Jee "
+        },
+        {
+          "startTime": 141335,
+          "endTime": 142203,
+          "word": "Na "
+        },
+        {
+          "startTime": 142203,
+          "endTime": 143288,
+          "word": "Paaya "
+        },
+        {
+          "startTime": 143288,
+          "endTime": 144160,
+          "word": "Tu"
+        }
+      ]
+    },
+    {
+      "time": 144160,
+      "endTime": 147340,
+      "text": "Yaaron Se Nazrein Milaa Le",
+      "words": [
+        {
+          "startTime": 144160,
+          "endTime": 144970,
+          "word": "Yaaron "
+        },
+        {
+          "startTime": 144970,
+          "endTime": 145344,
+          "word": "Se "
+        },
+        {
+          "startTime": 145344,
+          "endTime": 146185,
+          "word": "Nazrein "
+        },
+        {
+          "startTime": 146185,
+          "endTime": 146964,
+          "word": "Milaa "
+        },
+        {
+          "startTime": 146964,
+          "endTime": 147340,
+          "word": "Le"
+        }
+      ]
+    },
+    {
+      "time": 147340,
+      "endTime": 150830,
+      "text": "Ek Baar Tu Muskura De",
+      "words": [
+        {
+          "startTime": 147340,
+          "endTime": 147821,
+          "word": "Ek "
+        },
+        {
+          "startTime": 147821,
+          "endTime": 148382,
+          "word": "Baar "
+        },
+        {
+          "startTime": 148382,
+          "endTime": 148863,
+          "word": "Tu "
+        },
+        {
+          "startTime": 148863,
+          "endTime": 150347,
+          "word": "Muskura "
+        },
+        {
+          "startTime": 150347,
+          "endTime": 150830,
+          "word": "De"
+        }
+      ]
+    },
+    {
+      "time": 150830,
+      "endTime": 159650,
+      "text": "Uth Ja Saale Yun Sataata Hai Kyoon",
+      "words": [
+        {
+          "startTime": 150830,
+          "endTime": 151725,
+          "word": "Uth "
+        },
+        {
+          "startTime": 151725,
+          "endTime": 152551,
+          "word": "Ja "
+        },
+        {
+          "startTime": 152551,
+          "endTime": 154273,
+          "word": "Saale "
+        },
+        {
+          "startTime": 154273,
+          "endTime": 155168,
+          "word": "Yun "
+        },
+        {
+          "startTime": 155168,
+          "endTime": 157717,
+          "word": "Sataata "
+        },
+        {
+          "startTime": 157717,
+          "endTime": 158612,
+          "word": "Hai "
+        },
+        {
+          "startTime": 158612,
+          "endTime": 159650,
+          "word": "Kyoon"
+        }
+      ]
+    },
+    {
+      "time": 159650,
+      "endTime": 166040,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 159650,
+          "endTime": 161019,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 161019,
+          "endTime": 163301,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 163301,
+          "endTime": 164670,
+          "word": "Denge "
+        },
+        {
+          "startTime": 164670,
+          "endTime": 166040,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 166040,
+      "endTime": 172710,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 166040,
+          "endTime": 167469,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 167469,
+          "endTime": 168898,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 168898,
+          "endTime": 170327,
+          "word": "Denge "
+        },
+        {
+          "startTime": 170327,
+          "endTime": 172710,
+          "word": "Nahin"
+        }
+      ]
+    },
+    {
+      "time": 172710,
+      "endTime": 179420,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 172710,
+          "endTime": 174147,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 174147,
+          "endTime": 176543,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 176543,
+          "endTime": 177980,
+          "word": "Denge "
+        },
+        {
+          "startTime": 177980,
+          "endTime": 179420,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 179420,
+      "endTime": 185540,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 179420,
+          "endTime": 180731,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 180731,
+          "endTime": 182042,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 182042,
+          "endTime": 183353,
+          "word": "Denge "
+        },
+        {
+          "startTime": 183353,
+          "endTime": 185540,
+          "word": "Nahin"
+        }
+      ]
+    },
+    {
+      "time": 185540,
+      "endTime": 192080,
+      "text": "Jaane Nahin Denge Tujhe",
+      "words": [
+        {
+          "startTime": 185540,
+          "endTime": 186941,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 186941,
+          "endTime": 189276,
+          "word": "Nahin "
+        },
+        {
+          "startTime": 189276,
+          "endTime": 190677,
+          "word": "Denge "
+        },
+        {
+          "startTime": 190677,
+          "endTime": 192080,
+          "word": "Tujhe"
+        }
+      ]
+    },
+    {
+      "time": 192080,
+      "endTime": 197080,
+      "text": "Jaane Tujhe Denge Nahin",
+      "words": [
+        {
+          "startTime": 192080,
+          "endTime": 193151,
+          "word": "Jaane "
+        },
+        {
+          "startTime": 193151,
+          "endTime": 194222,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 194222,
+          "endTime": 195293,
+          "word": "Denge "
+        },
+        {
+          "startTime": 195293,
+          "endTime": 197080,
+          "word": "Nahin"
+        }
+      ]
+    }
+  ]
+}
