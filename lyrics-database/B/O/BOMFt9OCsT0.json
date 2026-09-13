@@ -1,0 +1,279 @@
+{
+  "videoId": "BOMFt9OCsT0",
+  "title": "Mortals (feat. Laura Brehm)",
+  "artist": "Warriyo",
+  "duration": 229,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:01.818\">Stranded <\/span>\n        <span begin=\"00:01.818\" end=\"00:02.597\">in <\/span>\n        <span begin=\"00:02.597\" end=\"00:03.441\">the <\/span>\n        <span begin=\"00:03.441\" end=\"00:05.000\">open<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:00.925\">Dried <\/span>\n        <span begin=\"00:00.925\" end=\"00:01.727\">out <\/span>\n        <span begin=\"00:01.727\" end=\"00:02.652\">tears <\/span>\n        <span begin=\"00:02.652\" end=\"00:03.392\">of <\/span>\n        <span begin=\"00:03.392\" end=\"00:05.000\">sorrow<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:01.753\">Lacking <\/span>\n        <span begin=\"00:01.753\" end=\"00:02.597\">all <\/span>\n        <span begin=\"00:02.597\" end=\"00:05.000\">emotion<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:01.687\">Staring <\/span>\n        <span begin=\"00:01.687\" end=\"00:02.562\">down <\/span>\n        <span begin=\"00:02.562\" end=\"00:03.374\">the <\/span>\n        <span begin=\"00:03.374\" end=\"00:05.000\">barrel<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:00.971\">Waiting <\/span>\n        <span begin=\"00:00.971\" end=\"00:01.438\">for <\/span>\n        <span begin=\"00:01.438\" end=\"00:01.905\">the <\/span>\n        <span begin=\"00:01.905\" end=\"00:02.804\">final <\/span>\n        <span begin=\"00:02.804\" end=\"00:03.703\">gates <\/span>\n        <span begin=\"00:03.703\" end=\"00:04.134\">to <\/span>\n        <span begin=\"00:04.134\" end=\"00:05.000\">open<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:00.810\">To <\/span>\n        <span begin=\"00:00.810\" end=\"00:01.553\">a <\/span>\n        <span begin=\"00:01.553\" end=\"00:02.431\">new <\/span>\n        <span begin=\"00:02.431\" end=\"00:05.000\">tomorrow<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:01.645\">Moving <\/span>\n        <span begin=\"00:01.645\" end=\"00:02.531\">with <\/span>\n        <span begin=\"00:02.531\" end=\"00:03.353\">the <\/span>\n        <span begin=\"00:03.353\" end=\"00:05.000\">motion<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:01.611\">Following <\/span>\n        <span begin=\"00:01.611\" end=\"00:02.148\">the <\/span>\n        <span begin=\"00:02.148\" end=\"00:02.767\">light <\/span>\n        <span begin=\"00:02.767\" end=\"00:03.345\">that <\/span>\n        <span begin=\"00:03.345\" end=\"00:03.923\">sets <\/span>\n        <span begin=\"00:03.923\" end=\"00:04.418\">me <\/span>\n        <span begin=\"00:04.418\" end=\"00:05.000\">free<\/span>\n      <\/p>\n      <p begin=\"00:00.000\" end=\"00:05.000\">\n        <span begin=\"00:00.000\" end=\"00:01.750\">Sets <\/span>\n        <span begin=\"00:01.750\" end=\"00:03.250\">me <\/span>\n        <span begin=\"00:03.250\" end=\"00:05.000\">free<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Stranded in the open",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 1818,
+          "word": "Stranded "
+        },
+        {
+          "startTime": 1818,
+          "endTime": 2597,
+          "word": "in "
+        },
+        {
+          "startTime": 2597,
+          "endTime": 3441,
+          "word": "the "
+        },
+        {
+          "startTime": 3441,
+          "endTime": 5000,
+          "word": "open"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Dried out tears of sorrow",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 925,
+          "word": "Dried "
+        },
+        {
+          "startTime": 925,
+          "endTime": 1727,
+          "word": "out "
+        },
+        {
+          "startTime": 1727,
+          "endTime": 2652,
+          "word": "tears "
+        },
+        {
+          "startTime": 2652,
+          "endTime": 3392,
+          "word": "of "
+        },
+        {
+          "startTime": 3392,
+          "endTime": 5000,
+          "word": "sorrow"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Lacking all emotion",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 1753,
+          "word": "Lacking "
+        },
+        {
+          "startTime": 1753,
+          "endTime": 2597,
+          "word": "all "
+        },
+        {
+          "startTime": 2597,
+          "endTime": 5000,
+          "word": "emotion"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Staring down the barrel",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 1687,
+          "word": "Staring "
+        },
+        {
+          "startTime": 1687,
+          "endTime": 2562,
+          "word": "down "
+        },
+        {
+          "startTime": 2562,
+          "endTime": 3374,
+          "word": "the "
+        },
+        {
+          "startTime": 3374,
+          "endTime": 5000,
+          "word": "barrel"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Waiting for the final gates to open",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 971,
+          "word": "Waiting "
+        },
+        {
+          "startTime": 971,
+          "endTime": 1438,
+          "word": "for "
+        },
+        {
+          "startTime": 1438,
+          "endTime": 1905,
+          "word": "the "
+        },
+        {
+          "startTime": 1905,
+          "endTime": 2804,
+          "word": "final "
+        },
+        {
+          "startTime": 2804,
+          "endTime": 3703,
+          "word": "gates "
+        },
+        {
+          "startTime": 3703,
+          "endTime": 4134,
+          "word": "to "
+        },
+        {
+          "startTime": 4134,
+          "endTime": 5000,
+          "word": "open"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "To a new tomorrow",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 810,
+          "word": "To "
+        },
+        {
+          "startTime": 810,
+          "endTime": 1553,
+          "word": "a "
+        },
+        {
+          "startTime": 1553,
+          "endTime": 2431,
+          "word": "new "
+        },
+        {
+          "startTime": 2431,
+          "endTime": 5000,
+          "word": "tomorrow"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Moving with the motion",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 1645,
+          "word": "Moving "
+        },
+        {
+          "startTime": 1645,
+          "endTime": 2531,
+          "word": "with "
+        },
+        {
+          "startTime": 2531,
+          "endTime": 3353,
+          "word": "the "
+        },
+        {
+          "startTime": 3353,
+          "endTime": 5000,
+          "word": "motion"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Following the light that sets me free",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 1611,
+          "word": "Following "
+        },
+        {
+          "startTime": 1611,
+          "endTime": 2148,
+          "word": "the "
+        },
+        {
+          "startTime": 2148,
+          "endTime": 2767,
+          "word": "light "
+        },
+        {
+          "startTime": 2767,
+          "endTime": 3345,
+          "word": "that "
+        },
+        {
+          "startTime": 3345,
+          "endTime": 3923,
+          "word": "sets "
+        },
+        {
+          "startTime": 3923,
+          "endTime": 4418,
+          "word": "me "
+        },
+        {
+          "startTime": 4418,
+          "endTime": 5000,
+          "word": "free"
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "endTime": 5000,
+      "text": "Sets me free",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 1750,
+          "word": "Sets "
+        },
+        {
+          "startTime": 1750,
+          "endTime": 3250,
+          "word": "me "
+        },
+        {
+          "startTime": 3250,
+          "endTime": 5000,
+          "word": "free"
+        }
+      ]
+    }
+  ]
+}
