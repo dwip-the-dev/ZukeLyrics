@@ -1,0 +1,287 @@
+{
+  "videoId": "rQIRVVGt-JU",
+  "title": "Turn Up The Speakers (Radio Edit)",
+  "artist": "Afrojack, Martin Garrix",
+  "duration": 184,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:08.980\" end=\"00:53.570\">\n        <span begin=\"00:08.980\" end=\"00:18.297\">Turn <\/span>\n        <span begin=\"00:18.297\" end=\"00:26.283\">up <\/span>\n        <span begin=\"00:26.283\" end=\"00:34.934\">the <\/span>\n        <span begin=\"00:34.934\" end=\"00:53.570\">speakers<\/span>\n      <\/p>\n      <p begin=\"00:53.570\" end=\"01:23.250\">\n        <span begin=\"00:53.570\" end=\"00:59.771\">Turn <\/span>\n        <span begin=\"00:59.771\" end=\"01:05.086\">up <\/span>\n        <span begin=\"01:05.086\" end=\"01:10.844\">the <\/span>\n        <span begin=\"01:10.844\" end=\"01:23.250\">speakers<\/span>\n      <\/p>\n      <p begin=\"01:23.250\" end=\"01:24.490\">\n        <span begin=\"01:23.250\" end=\"01:23.509\">Turn <\/span>\n        <span begin=\"01:23.509\" end=\"01:23.731\">up <\/span>\n        <span begin=\"01:23.731\" end=\"01:23.971\">the <\/span>\n        <span begin=\"01:23.971\" end=\"01:24.490\">speakers<\/span>\n      <\/p>\n      <p begin=\"01:24.490\" end=\"01:39.330\">\n        <span begin=\"01:24.490\" end=\"01:26.215\">Smash <\/span>\n        <span begin=\"01:26.215\" end=\"01:27.710\">the <\/span>\n        <span begin=\"01:27.710\" end=\"01:29.320\">keys <\/span>\n        <span begin=\"01:29.320\" end=\"01:31.620\">down, <\/span>\n        <span begin=\"01:31.620\" end=\"01:33.230\">turn <\/span>\n        <span begin=\"01:33.230\" end=\"01:34.610\">up <\/span>\n        <span begin=\"01:34.610\" end=\"01:36.105\">the <\/span>\n        <span begin=\"01:36.105\" end=\"01:39.330\">speakers<\/span>\n      <\/p>\n      <p begin=\"01:39.330\" end=\"02:20.170\">\n        <span begin=\"01:39.330\" end=\"01:47.863\">Turn <\/span>\n        <span begin=\"01:47.863\" end=\"01:55.177\">up <\/span>\n        <span begin=\"01:55.177\" end=\"02:03.101\">the <\/span>\n        <span begin=\"02:03.101\" end=\"02:20.170\">speakers<\/span>\n      <\/p>\n      <p begin=\"02:20.170\" end=\"02:35.560\">\n        <span begin=\"02:20.170\" end=\"02:21.959\">Smash <\/span>\n        <span begin=\"02:21.959\" end=\"02:23.509\">the <\/span>\n        <span begin=\"02:23.509\" end=\"02:25.179\">keys <\/span>\n        <span begin=\"02:25.179\" end=\"02:27.565\">down, <\/span>\n        <span begin=\"02:27.565\" end=\"02:29.235\">turn <\/span>\n        <span begin=\"02:29.235\" end=\"02:30.666\">up <\/span>\n        <span begin=\"02:30.666\" end=\"02:32.216\">the <\/span>\n        <span begin=\"02:32.216\" end=\"02:35.560\">speakers<\/span>\n      <\/p>\n      <p begin=\"02:35.560\" end=\"02:49.950\">\n        <span begin=\"02:35.560\" end=\"02:38.566\">Turn <\/span>\n        <span begin=\"02:38.566\" end=\"02:41.143\">up <\/span>\n        <span begin=\"02:41.143\" end=\"02:43.935\">the <\/span>\n        <span begin=\"02:43.935\" end=\"02:49.950\">speakers<\/span>\n      <\/p>\n      <p begin=\"02:49.950\" end=\"02:54.950\">\n        <span begin=\"02:49.950\" end=\"02:50.531\">Smash <\/span>\n        <span begin=\"02:50.531\" end=\"02:51.034\">the <\/span>\n        <span begin=\"02:51.034\" end=\"02:51.576\">keys <\/span>\n        <span begin=\"02:51.576\" end=\"02:52.351\">down, <\/span>\n        <span begin=\"02:52.351\" end=\"02:52.893\">turn <\/span>\n        <span begin=\"02:52.893\" end=\"02:53.358\">up <\/span>\n        <span begin=\"02:53.358\" end=\"02:53.861\">the <\/span>\n        <span begin=\"02:53.861\" end=\"02:54.950\">speakers<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 8980,
+      "endTime": 53570,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 8980,
+          "endTime": 18297,
+          "word": "Turn "
+        },
+        {
+          "startTime": 18297,
+          "endTime": 26283,
+          "word": "up "
+        },
+        {
+          "startTime": 26283,
+          "endTime": 34934,
+          "word": "the "
+        },
+        {
+          "startTime": 34934,
+          "endTime": 53570,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 53570,
+      "endTime": 83250,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 53570,
+          "endTime": 59771,
+          "word": "Turn "
+        },
+        {
+          "startTime": 59771,
+          "endTime": 65086,
+          "word": "up "
+        },
+        {
+          "startTime": 65086,
+          "endTime": 70844,
+          "word": "the "
+        },
+        {
+          "startTime": 70844,
+          "endTime": 83250,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 83250,
+      "endTime": 84490,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 83250,
+          "endTime": 83509,
+          "word": "Turn "
+        },
+        {
+          "startTime": 83509,
+          "endTime": 83731,
+          "word": "up "
+        },
+        {
+          "startTime": 83731,
+          "endTime": 83971,
+          "word": "the "
+        },
+        {
+          "startTime": 83971,
+          "endTime": 84490,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 84490,
+      "endTime": 99330,
+      "text": "Smash the keys down, turn up the speakers",
+      "words": [
+        {
+          "startTime": 84490,
+          "endTime": 86215,
+          "word": "Smash "
+        },
+        {
+          "startTime": 86215,
+          "endTime": 87710,
+          "word": "the "
+        },
+        {
+          "startTime": 87710,
+          "endTime": 89320,
+          "word": "keys "
+        },
+        {
+          "startTime": 89320,
+          "endTime": 91620,
+          "word": "down, "
+        },
+        {
+          "startTime": 91620,
+          "endTime": 93230,
+          "word": "turn "
+        },
+        {
+          "startTime": 93230,
+          "endTime": 94610,
+          "word": "up "
+        },
+        {
+          "startTime": 94610,
+          "endTime": 96105,
+          "word": "the "
+        },
+        {
+          "startTime": 96105,
+          "endTime": 99330,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 99330,
+      "endTime": 140170,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 99330,
+          "endTime": 107863,
+          "word": "Turn "
+        },
+        {
+          "startTime": 107863,
+          "endTime": 115177,
+          "word": "up "
+        },
+        {
+          "startTime": 115177,
+          "endTime": 123101,
+          "word": "the "
+        },
+        {
+          "startTime": 123101,
+          "endTime": 140170,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 140170,
+      "endTime": 155560,
+      "text": "Smash the keys down, turn up the speakers",
+      "words": [
+        {
+          "startTime": 140170,
+          "endTime": 141959,
+          "word": "Smash "
+        },
+        {
+          "startTime": 141959,
+          "endTime": 143509,
+          "word": "the "
+        },
+        {
+          "startTime": 143509,
+          "endTime": 145179,
+          "word": "keys "
+        },
+        {
+          "startTime": 145179,
+          "endTime": 147565,
+          "word": "down, "
+        },
+        {
+          "startTime": 147565,
+          "endTime": 149235,
+          "word": "turn "
+        },
+        {
+          "startTime": 149235,
+          "endTime": 150666,
+          "word": "up "
+        },
+        {
+          "startTime": 150666,
+          "endTime": 152216,
+          "word": "the "
+        },
+        {
+          "startTime": 152216,
+          "endTime": 155560,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 155560,
+      "endTime": 169950,
+      "text": "Turn up the speakers",
+      "words": [
+        {
+          "startTime": 155560,
+          "endTime": 158566,
+          "word": "Turn "
+        },
+        {
+          "startTime": 158566,
+          "endTime": 161143,
+          "word": "up "
+        },
+        {
+          "startTime": 161143,
+          "endTime": 163935,
+          "word": "the "
+        },
+        {
+          "startTime": 163935,
+          "endTime": 169950,
+          "word": "speakers"
+        }
+      ]
+    },
+    {
+      "time": 169950,
+      "endTime": 174950,
+      "text": "Smash the keys down, turn up the speakers",
+      "words": [
+        {
+          "startTime": 169950,
+          "endTime": 170531,
+          "word": "Smash "
+        },
+        {
+          "startTime": 170531,
+          "endTime": 171034,
+          "word": "the "
+        },
+        {
+          "startTime": 171034,
+          "endTime": 171576,
+          "word": "keys "
+        },
+        {
+          "startTime": 171576,
+          "endTime": 172351,
+          "word": "down, "
+        },
+        {
+          "startTime": 172351,
+          "endTime": 172893,
+          "word": "turn "
+        },
+        {
+          "startTime": 172893,
+          "endTime": 173358,
+          "word": "up "
+        },
+        {
+          "startTime": 173358,
+          "endTime": 173861,
+          "word": "the "
+        },
+        {
+          "startTime": 173861,
+          "endTime": 174950,
+          "word": "speakers"
+        }
+      ]
+    }
+  ]
+}
