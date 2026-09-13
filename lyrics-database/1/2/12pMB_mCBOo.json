@@ -1,0 +1,772 @@
+{
+  "videoId": "12pMB_mCBOo",
+  "title": "Labon Ko",
+  "artist": "Pritam, K.K., Sayeed Quadri",
+  "duration": 342,
+  "source": "Kugou",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:26.120\" end=\"00:30.720\">\n        <span begin=\"00:26.120\" end=\"00:28.420\">谁还记得 <\/span>\n        <span begin=\"00:28.420\" end=\"00:30.720\">是谁先说<\/span>\n      <\/p>\n      <p begin=\"00:30.720\" end=\"00:35.250\">\n        <span begin=\"00:30.720\" end=\"00:35.250\">永远的爱我<\/span>\n      <\/p>\n      <p begin=\"00:35.250\" end=\"00:38.450\">\n        <span begin=\"00:35.250\" end=\"00:38.450\">以前的一句话<\/span>\n      <\/p>\n      <p begin=\"00:38.450\" end=\"00:43.340\">\n        <span begin=\"00:38.450\" end=\"00:43.340\">是我们以后的伤口<\/span>\n      <\/p>\n      <p begin=\"00:43.340\" end=\"00:48.100\">\n        <span begin=\"00:43.340\" end=\"00:45.720\">过了太久 <\/span>\n        <span begin=\"00:45.720\" end=\"00:48.100\">没人记得<\/span>\n      <\/p>\n      <p begin=\"00:48.100\" end=\"00:52.770\">\n        <span begin=\"00:48.100\" end=\"00:52.770\">当初那些温柔<\/span>\n      <\/p>\n      <p begin=\"00:52.770\" end=\"00:55.910\">\n        <span begin=\"00:52.770\" end=\"00:55.910\">我和你手牵手<\/span>\n      <\/p>\n      <p begin=\"00:55.910\" end=\"01:13.190\">\n        <span begin=\"00:55.910\" end=\"01:04.550\">说要一起 <\/span>\n        <span begin=\"01:04.550\" end=\"01:13.190\">走到最后<\/span>\n      <\/p>\n      <p begin=\"01:13.190\" end=\"01:16.840\">\n        <span begin=\"01:13.190\" end=\"01:16.840\">我们都忘了<\/span>\n      <\/p>\n      <p begin=\"01:16.840\" end=\"01:20.820\">\n        <span begin=\"01:16.840\" end=\"01:20.820\">这条路走了多久<\/span>\n      <\/p>\n      <p begin=\"01:20.820\" end=\"01:23.160\">\n        <span begin=\"01:20.820\" end=\"01:23.160\">心中是清楚的<\/span>\n      <\/p>\n      <p begin=\"01:23.160\" end=\"01:28.890\">\n        <span begin=\"01:23.160\" end=\"01:25.643\">有一天 <\/span>\n        <span begin=\"01:25.643\" end=\"01:28.890\">有一天都会停的<\/span>\n      <\/p>\n      <p begin=\"01:28.890\" end=\"01:32.830\">\n        <span begin=\"01:28.890\" end=\"01:32.830\">让时间说真话<\/span>\n      <\/p>\n      <p begin=\"01:32.830\" end=\"01:36.910\">\n        <span begin=\"01:32.830\" end=\"01:36.910\">虽然我也害怕<\/span>\n      <\/p>\n      <p begin=\"01:36.910\" end=\"01:39.150\">\n        <span begin=\"01:36.910\" end=\"01:39.150\">在天黑了以后<\/span>\n      <\/p>\n      <p begin=\"01:39.150\" end=\"01:41.600\">\n        <span begin=\"01:39.150\" end=\"01:41.600\">我们都不知道<\/span>\n      <\/p>\n      <p begin=\"01:41.600\" end=\"01:47.800\">\n        <span begin=\"01:41.600\" end=\"01:47.800\">会不会有以后<\/span>\n      <\/p>\n      <p begin=\"01:47.800\" end=\"01:52.280\">\n        <span begin=\"01:47.800\" end=\"01:50.040\">谁还记得 <\/span>\n        <span begin=\"01:50.040\" end=\"01:52.280\">是谁先说<\/span>\n      <\/p>\n      <p begin=\"01:52.280\" end=\"01:56.400\">\n        <span begin=\"01:52.280\" end=\"01:56.400\">永远的爱我<\/span>\n      <\/p>\n      <p begin=\"01:56.400\" end=\"01:59.330\">\n        <span begin=\"01:56.400\" end=\"01:59.330\">以前的一句话<\/span>\n      <\/p>\n      <p begin=\"01:59.330\" end=\"02:03.910\">\n        <span begin=\"01:59.330\" end=\"02:03.910\">是我们以后的伤口<\/span>\n      <\/p>\n      <p begin=\"02:03.910\" end=\"02:08.500\">\n        <span begin=\"02:03.910\" end=\"02:06.205\">过了太久 <\/span>\n        <span begin=\"02:06.205\" end=\"02:08.500\">没人记得<\/span>\n      <\/p>\n      <p begin=\"02:08.500\" end=\"02:12.490\">\n        <span begin=\"02:08.500\" end=\"02:12.490\">当初那些温柔<\/span>\n      <\/p>\n      <p begin=\"02:12.490\" end=\"02:15.330\">\n        <span begin=\"02:12.490\" end=\"02:15.330\">我和你手牵手<\/span>\n      <\/p>\n      <p begin=\"02:15.330\" end=\"02:17.660\">\n        <span begin=\"02:15.330\" end=\"02:17.660\">说要一起<\/span>\n      <\/p>\n      <p begin=\"02:17.660\" end=\"02:38.980\">\n        <span begin=\"02:17.660\" end=\"02:38.980\">走到最后<\/span>\n      <\/p>\n      <p begin=\"02:38.980\" end=\"02:42.840\">\n        <span begin=\"02:38.980\" end=\"02:42.840\">我们都累了<\/span>\n      <\/p>\n      <p begin=\"02:42.840\" end=\"02:46.880\">\n        <span begin=\"02:42.840\" end=\"02:46.880\">却没办法往回走<\/span>\n      <\/p>\n      <p begin=\"02:46.880\" end=\"02:51.200\">\n        <span begin=\"02:46.880\" end=\"02:49.263\">两颗心都迷惑 <\/span>\n        <span begin=\"02:49.263\" end=\"02:51.200\">怎么说<\/span>\n      <\/p>\n      <p begin=\"02:51.200\" end=\"02:54.830\">\n        <span begin=\"02:51.200\" end=\"02:54.830\">怎么说都没有救<\/span>\n      <\/p>\n      <p begin=\"02:54.830\" end=\"02:58.930\">\n        <span begin=\"02:54.830\" end=\"02:58.930\">亲爱的为什么<\/span>\n      <\/p>\n      <p begin=\"02:58.930\" end=\"03:02.860\">\n        <span begin=\"02:58.930\" end=\"03:02.860\">也许你也不懂<\/span>\n      <\/p>\n      <p begin=\"03:02.860\" end=\"03:05.190\">\n        <span begin=\"03:02.860\" end=\"03:05.190\">两个相爱的人<\/span>\n      <\/p>\n      <p begin=\"03:05.190\" end=\"03:07.590\">\n        <span begin=\"03:05.190\" end=\"03:07.590\">等着对方先说<\/span>\n      <\/p>\n      <p begin=\"03:07.590\" end=\"03:13.910\">\n        <span begin=\"03:07.590\" end=\"03:13.910\">想分开的理由<\/span>\n      <\/p>\n      <p begin=\"03:13.910\" end=\"03:15.660\">\n        <span begin=\"03:13.910\" end=\"03:15.660\">谁还记得<\/span>\n      <\/p>\n      <p begin=\"03:15.660\" end=\"03:22.320\">\n        <span begin=\"03:15.660\" end=\"03:22.320\">爱情开始变化的时候<\/span>\n      <\/p>\n      <p begin=\"03:22.320\" end=\"03:25.370\">\n        <span begin=\"03:22.320\" end=\"03:25.370\">我和你的眼中<\/span>\n      <\/p>\n      <p begin=\"03:25.370\" end=\"03:29.860\">\n        <span begin=\"03:25.370\" end=\"03:29.860\">看见了不同的天空<\/span>\n      <\/p>\n      <p begin=\"03:29.860\" end=\"03:34.280\">\n        <span begin=\"03:29.860\" end=\"03:32.070\">走得太远 <\/span>\n        <span begin=\"03:32.070\" end=\"03:34.280\">终于走到<\/span>\n      <\/p>\n      <p begin=\"03:34.280\" end=\"03:38.330\">\n        <span begin=\"03:34.280\" end=\"03:38.330\">分岔路的路口<\/span>\n      <\/p>\n      <p begin=\"03:38.330\" end=\"03:43.660\">\n        <span begin=\"03:38.330\" end=\"03:41.172\">是不是你和我 <\/span>\n        <span begin=\"03:41.172\" end=\"03:43.660\">要有两个<\/span>\n      <\/p>\n      <p begin=\"03:43.660\" end=\"03:50.440\">\n        <span begin=\"03:43.660\" end=\"03:50.440\">相反的梦<\/span>\n      <\/p>\n      <p begin=\"03:50.440\" end=\"03:54.320\">\n        <span begin=\"03:50.440\" end=\"03:54.320\">总是等着对方先说<\/span>\n      <\/p>\n      <p begin=\"03:54.320\" end=\"03:57.530\">\n        <span begin=\"03:54.320\" end=\"03:57.530\">分开的理由<\/span>\n      <\/p>\n      <p begin=\"03:57.530\" end=\"03:59.600\">\n        <span begin=\"03:57.530\" end=\"03:59.600\">可是谁记得<\/span>\n      <\/p>\n      <p begin=\"03:59.600\" end=\"04:01.700\">\n        <span begin=\"03:59.600\" end=\"04:01.700\">有谁记得<\/span>\n      <\/p>\n      <p begin=\"04:01.700\" end=\"04:15.340\">\n        <span begin=\"04:01.700\" end=\"04:15.340\">谁记得<\/span>\n      <\/p>\n      <p begin=\"04:15.340\" end=\"04:19.910\">\n        <span begin=\"04:15.340\" end=\"04:17.625\">谁还记得 <\/span>\n        <span begin=\"04:17.625\" end=\"04:19.910\">是谁先说<\/span>\n      <\/p>\n      <p begin=\"04:19.910\" end=\"04:24.170\">\n        <span begin=\"04:19.910\" end=\"04:24.170\">永远的爱我<\/span>\n      <\/p>\n      <p begin=\"04:24.170\" end=\"04:27.350\">\n        <span begin=\"04:24.170\" end=\"04:27.350\">以前的一句话<\/span>\n      <\/p>\n      <p begin=\"04:27.350\" end=\"04:31.710\">\n        <span begin=\"04:27.350\" end=\"04:31.710\">是我们以后的伤口<\/span>\n      <\/p>\n      <p begin=\"04:31.710\" end=\"04:36.090\">\n        <span begin=\"04:31.710\" end=\"04:33.900\">过了太久 <\/span>\n        <span begin=\"04:33.900\" end=\"04:36.090\">没人记得<\/span>\n      <\/p>\n      <p begin=\"04:36.090\" end=\"04:40.560\">\n        <span begin=\"04:36.090\" end=\"04:40.560\">当初那些温柔<\/span>\n      <\/p>\n      <p begin=\"04:40.560\" end=\"04:43.160\">\n        <span begin=\"04:40.560\" end=\"04:43.160\">我和你手牵手<\/span>\n      <\/p>\n      <p begin=\"04:43.160\" end=\"04:57.620\">\n        <span begin=\"04:43.160\" end=\"04:50.390\">说要一起 <\/span>\n        <span begin=\"04:50.390\" end=\"04:57.620\">走到最后<\/span>\n      <\/p>\n      <p begin=\"04:57.620\" end=\"05:01.270\">\n        <span begin=\"04:57.620\" end=\"05:01.270\">我和你手牵手<\/span>\n      <\/p>\n      <p begin=\"05:01.270\" end=\"05:06.270\">\n        <span begin=\"05:01.270\" end=\"05:03.770\">说要一起 <\/span>\n        <span begin=\"05:03.770\" end=\"05:06.270\">走到最后<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 26120,
+      "endTime": 30720,
+      "text": "谁还记得 是谁先说",
+      "words": [
+        {
+          "startTime": 26120,
+          "endTime": 28420,
+          "word": "谁还记得 "
+        },
+        {
+          "startTime": 28420,
+          "endTime": 30720,
+          "word": "是谁先说"
+        }
+      ]
+    },
+    {
+      "time": 30720,
+      "endTime": 35250,
+      "text": "永远的爱我",
+      "words": [
+        {
+          "startTime": 30720,
+          "endTime": 35250,
+          "word": "永远的爱我"
+        }
+      ]
+    },
+    {
+      "time": 35250,
+      "endTime": 38450,
+      "text": "以前的一句话",
+      "words": [
+        {
+          "startTime": 35250,
+          "endTime": 38450,
+          "word": "以前的一句话"
+        }
+      ]
+    },
+    {
+      "time": 38450,
+      "endTime": 43340,
+      "text": "是我们以后的伤口",
+      "words": [
+        {
+          "startTime": 38450,
+          "endTime": 43340,
+          "word": "是我们以后的伤口"
+        }
+      ]
+    },
+    {
+      "time": 43340,
+      "endTime": 48100,
+      "text": "过了太久 没人记得",
+      "words": [
+        {
+          "startTime": 43340,
+          "endTime": 45720,
+          "word": "过了太久 "
+        },
+        {
+          "startTime": 45720,
+          "endTime": 48100,
+          "word": "没人记得"
+        }
+      ]
+    },
+    {
+      "time": 48100,
+      "endTime": 52770,
+      "text": "当初那些温柔",
+      "words": [
+        {
+          "startTime": 48100,
+          "endTime": 52770,
+          "word": "当初那些温柔"
+        }
+      ]
+    },
+    {
+      "time": 52770,
+      "endTime": 55910,
+      "text": "我和你手牵手",
+      "words": [
+        {
+          "startTime": 52770,
+          "endTime": 55910,
+          "word": "我和你手牵手"
+        }
+      ]
+    },
+    {
+      "time": 55910,
+      "endTime": 73190,
+      "text": "说要一起 走到最后",
+      "words": [
+        {
+          "startTime": 55910,
+          "endTime": 64550,
+          "word": "说要一起 "
+        },
+        {
+          "startTime": 64550,
+          "endTime": 73190,
+          "word": "走到最后"
+        }
+      ]
+    },
+    {
+      "time": 73190,
+      "endTime": 76840,
+      "text": "我们都忘了",
+      "words": [
+        {
+          "startTime": 73190,
+          "endTime": 76840,
+          "word": "我们都忘了"
+        }
+      ]
+    },
+    {
+      "time": 76840,
+      "endTime": 80820,
+      "text": "这条路走了多久",
+      "words": [
+        {
+          "startTime": 76840,
+          "endTime": 80820,
+          "word": "这条路走了多久"
+        }
+      ]
+    },
+    {
+      "time": 80820,
+      "endTime": 83160,
+      "text": "心中是清楚的",
+      "words": [
+        {
+          "startTime": 80820,
+          "endTime": 83160,
+          "word": "心中是清楚的"
+        }
+      ]
+    },
+    {
+      "time": 83160,
+      "endTime": 88890,
+      "text": "有一天 有一天都会停的",
+      "words": [
+        {
+          "startTime": 83160,
+          "endTime": 85643,
+          "word": "有一天 "
+        },
+        {
+          "startTime": 85643,
+          "endTime": 88890,
+          "word": "有一天都会停的"
+        }
+      ]
+    },
+    {
+      "time": 88890,
+      "endTime": 92830,
+      "text": "让时间说真话",
+      "words": [
+        {
+          "startTime": 88890,
+          "endTime": 92830,
+          "word": "让时间说真话"
+        }
+      ]
+    },
+    {
+      "time": 92830,
+      "endTime": 96910,
+      "text": "虽然我也害怕",
+      "words": [
+        {
+          "startTime": 92830,
+          "endTime": 96910,
+          "word": "虽然我也害怕"
+        }
+      ]
+    },
+    {
+      "time": 96910,
+      "endTime": 99150,
+      "text": "在天黑了以后",
+      "words": [
+        {
+          "startTime": 96910,
+          "endTime": 99150,
+          "word": "在天黑了以后"
+        }
+      ]
+    },
+    {
+      "time": 99150,
+      "endTime": 101600,
+      "text": "我们都不知道",
+      "words": [
+        {
+          "startTime": 99150,
+          "endTime": 101600,
+          "word": "我们都不知道"
+        }
+      ]
+    },
+    {
+      "time": 101600,
+      "endTime": 107800,
+      "text": "会不会有以后",
+      "words": [
+        {
+          "startTime": 101600,
+          "endTime": 107800,
+          "word": "会不会有以后"
+        }
+      ]
+    },
+    {
+      "time": 107800,
+      "endTime": 112280,
+      "text": "谁还记得 是谁先说",
+      "words": [
+        {
+          "startTime": 107800,
+          "endTime": 110040,
+          "word": "谁还记得 "
+        },
+        {
+          "startTime": 110040,
+          "endTime": 112280,
+          "word": "是谁先说"
+        }
+      ]
+    },
+    {
+      "time": 112280,
+      "endTime": 116400,
+      "text": "永远的爱我",
+      "words": [
+        {
+          "startTime": 112280,
+          "endTime": 116400,
+          "word": "永远的爱我"
+        }
+      ]
+    },
+    {
+      "time": 116400,
+      "endTime": 119330,
+      "text": "以前的一句话",
+      "words": [
+        {
+          "startTime": 116400,
+          "endTime": 119330,
+          "word": "以前的一句话"
+        }
+      ]
+    },
+    {
+      "time": 119330,
+      "endTime": 123910,
+      "text": "是我们以后的伤口",
+      "words": [
+        {
+          "startTime": 119330,
+          "endTime": 123910,
+          "word": "是我们以后的伤口"
+        }
+      ]
+    },
+    {
+      "time": 123910,
+      "endTime": 128500,
+      "text": "过了太久 没人记得",
+      "words": [
+        {
+          "startTime": 123910,
+          "endTime": 126205,
+          "word": "过了太久 "
+        },
+        {
+          "startTime": 126205,
+          "endTime": 128500,
+          "word": "没人记得"
+        }
+      ]
+    },
+    {
+      "time": 128500,
+      "endTime": 132490,
+      "text": "当初那些温柔",
+      "words": [
+        {
+          "startTime": 128500,
+          "endTime": 132490,
+          "word": "当初那些温柔"
+        }
+      ]
+    },
+    {
+      "time": 132490,
+      "endTime": 135330,
+      "text": "我和你手牵手",
+      "words": [
+        {
+          "startTime": 132490,
+          "endTime": 135330,
+          "word": "我和你手牵手"
+        }
+      ]
+    },
+    {
+      "time": 135330,
+      "endTime": 137660,
+      "text": "说要一起",
+      "words": [
+        {
+          "startTime": 135330,
+          "endTime": 137660,
+          "word": "说要一起"
+        }
+      ]
+    },
+    {
+      "time": 137660,
+      "endTime": 158980,
+      "text": "走到最后",
+      "words": [
+        {
+          "startTime": 137660,
+          "endTime": 158980,
+          "word": "走到最后"
+        }
+      ]
+    },
+    {
+      "time": 158980,
+      "endTime": 162840,
+      "text": "我们都累了",
+      "words": [
+        {
+          "startTime": 158980,
+          "endTime": 162840,
+          "word": "我们都累了"
+        }
+      ]
+    },
+    {
+      "time": 162840,
+      "endTime": 166880,
+      "text": "却没办法往回走",
+      "words": [
+        {
+          "startTime": 162840,
+          "endTime": 166880,
+          "word": "却没办法往回走"
+        }
+      ]
+    },
+    {
+      "time": 166880,
+      "endTime": 171200,
+      "text": "两颗心都迷惑 怎么说",
+      "words": [
+        {
+          "startTime": 166880,
+          "endTime": 169263,
+          "word": "两颗心都迷惑 "
+        },
+        {
+          "startTime": 169263,
+          "endTime": 171200,
+          "word": "怎么说"
+        }
+      ]
+    },
+    {
+      "time": 171200,
+      "endTime": 174830,
+      "text": "怎么说都没有救",
+      "words": [
+        {
+          "startTime": 171200,
+          "endTime": 174830,
+          "word": "怎么说都没有救"
+        }
+      ]
+    },
+    {
+      "time": 174830,
+      "endTime": 178930,
+      "text": "亲爱的为什么",
+      "words": [
+        {
+          "startTime": 174830,
+          "endTime": 178930,
+          "word": "亲爱的为什么"
+        }
+      ]
+    },
+    {
+      "time": 178930,
+      "endTime": 182860,
+      "text": "也许你也不懂",
+      "words": [
+        {
+          "startTime": 178930,
+          "endTime": 182860,
+          "word": "也许你也不懂"
+        }
+      ]
+    },
+    {
+      "time": 182860,
+      "endTime": 185190,
+      "text": "两个相爱的人",
+      "words": [
+        {
+          "startTime": 182860,
+          "endTime": 185190,
+          "word": "两个相爱的人"
+        }
+      ]
+    },
+    {
+      "time": 185190,
+      "endTime": 187590,
+      "text": "等着对方先说",
+      "words": [
+        {
+          "startTime": 185190,
+          "endTime": 187590,
+          "word": "等着对方先说"
+        }
+      ]
+    },
+    {
+      "time": 187590,
+      "endTime": 193910,
+      "text": "想分开的理由",
+      "words": [
+        {
+          "startTime": 187590,
+          "endTime": 193910,
+          "word": "想分开的理由"
+        }
+      ]
+    },
+    {
+      "time": 193910,
+      "endTime": 195660,
+      "text": "谁还记得",
+      "words": [
+        {
+          "startTime": 193910,
+          "endTime": 195660,
+          "word": "谁还记得"
+        }
+      ]
+    },
+    {
+      "time": 195660,
+      "endTime": 202320,
+      "text": "爱情开始变化的时候",
+      "words": [
+        {
+          "startTime": 195660,
+          "endTime": 202320,
+          "word": "爱情开始变化的时候"
+        }
+      ]
+    },
+    {
+      "time": 202320,
+      "endTime": 205370,
+      "text": "我和你的眼中",
+      "words": [
+        {
+          "startTime": 202320,
+          "endTime": 205370,
+          "word": "我和你的眼中"
+        }
+      ]
+    },
+    {
+      "time": 205370,
+      "endTime": 209860,
+      "text": "看见了不同的天空",
+      "words": [
+        {
+          "startTime": 205370,
+          "endTime": 209860,
+          "word": "看见了不同的天空"
+        }
+      ]
+    },
+    {
+      "time": 209860,
+      "endTime": 214280,
+      "text": "走得太远 终于走到",
+      "words": [
+        {
+          "startTime": 209860,
+          "endTime": 212070,
+          "word": "走得太远 "
+        },
+        {
+          "startTime": 212070,
+          "endTime": 214280,
+          "word": "终于走到"
+        }
+      ]
+    },
+    {
+      "time": 214280,
+      "endTime": 218330,
+      "text": "分岔路的路口",
+      "words": [
+        {
+          "startTime": 214280,
+          "endTime": 218330,
+          "word": "分岔路的路口"
+        }
+      ]
+    },
+    {
+      "time": 218330,
+      "endTime": 223660,
+      "text": "是不是你和我 要有两个",
+      "words": [
+        {
+          "startTime": 218330,
+          "endTime": 221172,
+          "word": "是不是你和我 "
+        },
+        {
+          "startTime": 221172,
+          "endTime": 223660,
+          "word": "要有两个"
+        }
+      ]
+    },
+    {
+      "time": 223660,
+      "endTime": 230440,
+      "text": "相反的梦",
+      "words": [
+        {
+          "startTime": 223660,
+          "endTime": 230440,
+          "word": "相反的梦"
+        }
+      ]
+    },
+    {
+      "time": 230440,
+      "endTime": 234320,
+      "text": "总是等着对方先说",
+      "words": [
+        {
+          "startTime": 230440,
+          "endTime": 234320,
+          "word": "总是等着对方先说"
+        }
+      ]
+    },
+    {
+      "time": 234320,
+      "endTime": 237530,
+      "text": "分开的理由",
+      "words": [
+        {
+          "startTime": 234320,
+          "endTime": 237530,
+          "word": "分开的理由"
+        }
+      ]
+    },
+    {
+      "time": 237530,
+      "endTime": 239600,
+      "text": "可是谁记得",
+      "words": [
+        {
+          "startTime": 237530,
+          "endTime": 239600,
+          "word": "可是谁记得"
+        }
+      ]
+    },
+    {
+      "time": 239600,
+      "endTime": 241700,
+      "text": "有谁记得",
+      "words": [
+        {
+          "startTime": 239600,
+          "endTime": 241700,
+          "word": "有谁记得"
+        }
+      ]
+    },
+    {
+      "time": 241700,
+      "endTime": 255340,
+      "text": "谁记得",
+      "words": [
+        {
+          "startTime": 241700,
+          "endTime": 255340,
+          "word": "谁记得"
+        }
+      ]
+    },
+    {
+      "time": 255340,
+      "endTime": 259910,
+      "text": "谁还记得 是谁先说",
+      "words": [
+        {
+          "startTime": 255340,
+          "endTime": 257625,
+          "word": "谁还记得 "
+        },
+        {
+          "startTime": 257625,
+          "endTime": 259910,
+          "word": "是谁先说"
+        }
+      ]
+    },
+    {
+      "time": 259910,
+      "endTime": 264170,
+      "text": "永远的爱我",
+      "words": [
+        {
+          "startTime": 259910,
+          "endTime": 264170,
+          "word": "永远的爱我"
+        }
+      ]
+    },
+    {
+      "time": 264170,
+      "endTime": 267350,
+      "text": "以前的一句话",
+      "words": [
+        {
+          "startTime": 264170,
+          "endTime": 267350,
+          "word": "以前的一句话"
+        }
+      ]
+    },
+    {
+      "time": 267350,
+      "endTime": 271710,
+      "text": "是我们以后的伤口",
+      "words": [
+        {
+          "startTime": 267350,
+          "endTime": 271710,
+          "word": "是我们以后的伤口"
+        }
+      ]
+    },
+    {
+      "time": 271710,
+      "endTime": 276090,
+      "text": "过了太久 没人记得",
+      "words": [
+        {
+          "startTime": 271710,
+          "endTime": 273900,
+          "word": "过了太久 "
+        },
+        {
+          "startTime": 273900,
+          "endTime": 276090,
+          "word": "没人记得"
+        }
+      ]
+    },
+    {
+      "time": 276090,
+      "endTime": 280560,
+      "text": "当初那些温柔",
+      "words": [
+        {
+          "startTime": 276090,
+          "endTime": 280560,
+          "word": "当初那些温柔"
+        }
+      ]
+    },
+    {
+      "time": 280560,
+      "endTime": 283160,
+      "text": "我和你手牵手",
+      "words": [
+        {
+          "startTime": 280560,
+          "endTime": 283160,
+          "word": "我和你手牵手"
+        }
+      ]
+    },
+    {
+      "time": 283160,
+      "endTime": 297620,
+      "text": "说要一起 走到最后",
+      "words": [
+        {
+          "startTime": 283160,
+          "endTime": 290390,
+          "word": "说要一起 "
+        },
+        {
+          "startTime": 290390,
+          "endTime": 297620,
+          "word": "走到最后"
+        }
+      ]
+    },
+    {
+      "time": 297620,
+      "endTime": 301270,
+      "text": "我和你手牵手",
+      "words": [
+        {
+          "startTime": 297620,
+          "endTime": 301270,
+          "word": "我和你手牵手"
+        }
+      ]
+    },
+    {
+      "time": 301270,
+      "endTime": 306270,
+      "text": "说要一起 走到最后",
+      "words": [
+        {
+          "startTime": 301270,
+          "endTime": 303770,
+          "word": "说要一起 "
+        },
+        {
+          "startTime": 303770,
+          "endTime": 306270,
+          "word": "走到最后"
+        }
+      ]
+    }
+  ]
+}
