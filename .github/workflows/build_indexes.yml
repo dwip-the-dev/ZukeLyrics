@@ -9,7 +9,7 @@ on:
 
 concurrency:
   group: rebuild-catalog-indexes
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build-index:
