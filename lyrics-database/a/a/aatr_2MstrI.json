@@ -1,0 +1,2001 @@
+{
+  "videoId": "aatr_2MstrI",
+  "title": "Symphony",
+  "artist": "Clean Bandit",
+  "duration": 246,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:07.940\" end=\"00:11.680\">\n        <span begin=\"00:07.940\" end=\"00:08.491\">I&apos;ve <\/span>\n        <span begin=\"00:08.491\" end=\"00:09.042\">been <\/span>\n        <span begin=\"00:09.042\" end=\"00:10.104\">hearing <\/span>\n        <span begin=\"00:10.104\" end=\"00:11.680\">symphonies<\/span>\n      <\/p>\n      <p begin=\"00:11.680\" end=\"00:15.540\">\n        <span begin=\"00:11.680\" end=\"00:12.635\">Before <\/span>\n        <span begin=\"00:12.635\" end=\"00:13.112\">all <\/span>\n        <span begin=\"00:13.112\" end=\"00:13.516\">I <\/span>\n        <span begin=\"00:13.516\" end=\"00:14.067\">heard <\/span>\n        <span begin=\"00:14.067\" end=\"00:14.544\">was <\/span>\n        <span begin=\"00:14.544\" end=\"00:15.540\">silence<\/span>\n      <\/p>\n      <p begin=\"00:15.540\" end=\"00:19.140\">\n        <span begin=\"00:15.540\" end=\"00:15.936\">A <\/span>\n        <span begin=\"00:15.936\" end=\"00:17.304\">rhapsody <\/span>\n        <span begin=\"00:17.304\" end=\"00:17.772\">for <\/span>\n        <span begin=\"00:17.772\" end=\"00:18.240\">you <\/span>\n        <span begin=\"00:18.240\" end=\"00:18.708\">and <\/span>\n        <span begin=\"00:18.708\" end=\"00:19.140\">me<\/span>\n      <\/p>\n      <p begin=\"00:19.140\" end=\"00:23.490\">\n        <span begin=\"00:19.140\" end=\"00:19.562\">And <\/span>\n        <span begin=\"00:19.562\" end=\"00:20.698\">every <\/span>\n        <span begin=\"00:20.698\" end=\"00:21.866\">melody <\/span>\n        <span begin=\"00:21.866\" end=\"00:22.255\">is <\/span>\n        <span begin=\"00:22.255\" end=\"00:23.490\">timeless<\/span>\n      <\/p>\n      <p begin=\"00:23.490\" end=\"00:27.390\">\n        <span begin=\"00:23.490\" end=\"00:24.077\">Life <\/span>\n        <span begin=\"00:24.077\" end=\"00:24.622\">was <\/span>\n        <span begin=\"00:24.622\" end=\"00:25.838\">stringing <\/span>\n        <span begin=\"00:25.838\" end=\"00:26.341\">me <\/span>\n        <span begin=\"00:26.341\" end=\"00:27.390\">along<\/span>\n      <\/p>\n      <p begin=\"00:27.390\" end=\"00:31.150\">\n        <span begin=\"00:27.390\" end=\"00:27.881\">Then <\/span>\n        <span begin=\"00:27.881\" end=\"00:28.337\">you <\/span>\n        <span begin=\"00:28.337\" end=\"00:28.828\">came <\/span>\n        <span begin=\"00:28.828\" end=\"00:29.284\">and <\/span>\n        <span begin=\"00:29.284\" end=\"00:29.740\">you <\/span>\n        <span begin=\"00:29.740\" end=\"00:30.196\">cut <\/span>\n        <span begin=\"00:30.196\" end=\"00:30.617\">me <\/span>\n        <span begin=\"00:30.617\" end=\"00:31.150\">loose<\/span>\n      <\/p>\n      <p begin=\"00:31.150\" end=\"00:34.940\">\n        <span begin=\"00:31.150\" end=\"00:31.637\">Was <\/span>\n        <span begin=\"00:31.637\" end=\"00:32.537\">solo <\/span>\n        <span begin=\"00:32.537\" end=\"00:33.550\">singing <\/span>\n        <span begin=\"00:33.550\" end=\"00:34.000\">on <\/span>\n        <span begin=\"00:34.000\" end=\"00:34.450\">my <\/span>\n        <span begin=\"00:34.450\" end=\"00:34.940\">own<\/span>\n      <\/p>\n      <p begin=\"00:34.940\" end=\"00:38.110\">\n        <span begin=\"00:34.940\" end=\"00:35.286\">Now <\/span>\n        <span begin=\"00:35.286\" end=\"00:35.579\">I <\/span>\n        <span begin=\"00:35.579\" end=\"00:35.978\">can&apos;t <\/span>\n        <span begin=\"00:35.978\" end=\"00:36.350\">find <\/span>\n        <span begin=\"00:36.350\" end=\"00:36.696\">the <\/span>\n        <span begin=\"00:36.696\" end=\"00:37.042\">key <\/span>\n        <span begin=\"00:37.042\" end=\"00:37.761\">without <\/span>\n        <span begin=\"00:37.761\" end=\"00:38.110\">you<\/span>\n      <\/p>\n      <p begin=\"00:38.110\" end=\"00:41.630\">\n        <span begin=\"00:38.110\" end=\"00:38.550\">And <\/span>\n        <span begin=\"00:38.550\" end=\"00:38.990\">now <\/span>\n        <span begin=\"00:38.990\" end=\"00:39.463\">your <\/span>\n        <span begin=\"00:39.463\" end=\"00:39.936\">song <\/span>\n        <span begin=\"00:39.936\" end=\"00:40.342\">is <\/span>\n        <span begin=\"00:40.342\" end=\"00:40.748\">on <\/span>\n        <span begin=\"00:40.748\" end=\"00:41.630\">repeat<\/span>\n      <\/p>\n      <p begin=\"00:41.630\" end=\"00:45.760\">\n        <span begin=\"00:41.630\" end=\"00:42.077\">And <\/span>\n        <span begin=\"00:42.077\" end=\"00:42.524\">I&apos;m <\/span>\n        <span begin=\"00:42.524\" end=\"00:43.453\">dancing <\/span>\n        <span begin=\"00:43.453\" end=\"00:43.865\">on <\/span>\n        <span begin=\"00:43.865\" end=\"00:44.277\">to <\/span>\n        <span begin=\"00:44.277\" end=\"00:44.758\">your <\/span>\n        <span begin=\"00:44.758\" end=\"00:45.760\">heartbeat<\/span>\n      <\/p>\n      <p begin=\"00:45.760\" end=\"00:49.350\">\n        <span begin=\"00:45.760\" end=\"00:46.124\">And <\/span>\n        <span begin=\"00:46.124\" end=\"00:46.516\">when <\/span>\n        <span begin=\"00:46.516\" end=\"00:46.964\">you&apos;re <\/span>\n        <span begin=\"00:46.964\" end=\"00:47.524\">gone, <\/span>\n        <span begin=\"00:47.524\" end=\"00:47.832\">I <\/span>\n        <span begin=\"00:47.832\" end=\"00:48.224\">feel <\/span>\n        <span begin=\"00:48.224\" end=\"00:49.350\">incomplete<\/span>\n      <\/p>\n      <p begin=\"00:49.350\" end=\"00:52.750\">\n        <span begin=\"00:49.350\" end=\"00:50.070\">So, <\/span>\n        <span begin=\"00:50.070\" end=\"00:50.550\">if <\/span>\n        <span begin=\"00:50.550\" end=\"00:51.070\">you <\/span>\n        <span begin=\"00:51.070\" end=\"00:51.630\">want <\/span>\n        <span begin=\"00:51.630\" end=\"00:52.150\">the <\/span>\n        <span begin=\"00:52.150\" end=\"00:52.750\">truth<\/span>\n      <\/p>\n      <p begin=\"00:52.750\" end=\"00:58.400\">\n        <span begin=\"00:52.750\" end=\"00:53.193\">I <\/span>\n        <span begin=\"00:53.193\" end=\"00:53.757\">just <\/span>\n        <span begin=\"00:53.757\" end=\"00:54.765\">wanna <\/span>\n        <span begin=\"00:54.765\" end=\"00:55.249\">be <\/span>\n        <span begin=\"00:55.249\" end=\"00:55.813\">part <\/span>\n        <span begin=\"00:55.813\" end=\"00:56.297\">of <\/span>\n        <span begin=\"00:56.297\" end=\"00:56.861\">your <\/span>\n        <span begin=\"00:56.861\" end=\"00:58.400\">symphony<\/span>\n      <\/p>\n      <p begin=\"00:58.400\" end=\"01:02.560\">\n        <span begin=\"00:58.400\" end=\"00:58.865\">Will <\/span>\n        <span begin=\"00:58.865\" end=\"00:59.297\">you <\/span>\n        <span begin=\"00:59.297\" end=\"00:59.762\">hold <\/span>\n        <span begin=\"00:59.762\" end=\"01:00.161\">me <\/span>\n        <span begin=\"01:00.161\" end=\"01:00.660\">tight <\/span>\n        <span begin=\"01:00.660\" end=\"01:01.092\">and <\/span>\n        <span begin=\"01:01.092\" end=\"01:01.524\">not <\/span>\n        <span begin=\"01:01.524\" end=\"01:01.956\">let <\/span>\n        <span begin=\"01:01.956\" end=\"01:02.560\">go?<\/span>\n      <\/p>\n      <p begin=\"01:02.560\" end=\"01:06.300\">\n        <span begin=\"01:02.560\" end=\"01:06.300\">Symphony<\/span>\n      <\/p>\n      <p begin=\"01:06.300\" end=\"01:10.290\">\n        <span begin=\"01:06.300\" end=\"01:06.842\">Like <\/span>\n        <span begin=\"01:06.842\" end=\"01:07.268\">a <\/span>\n        <span begin=\"01:07.268\" end=\"01:07.810\">love <\/span>\n        <span begin=\"01:07.810\" end=\"01:08.352\">song <\/span>\n        <span begin=\"01:08.352\" end=\"01:08.816\">on <\/span>\n        <span begin=\"01:08.816\" end=\"01:09.319\">the <\/span>\n        <span begin=\"01:09.319\" end=\"01:10.290\">radio<\/span>\n      <\/p>\n      <p begin=\"01:10.290\" end=\"01:14.260\">\n        <span begin=\"01:10.290\" end=\"01:10.734\">Will <\/span>\n        <span begin=\"01:10.734\" end=\"01:11.146\">you <\/span>\n        <span begin=\"01:11.146\" end=\"01:11.590\">hold <\/span>\n        <span begin=\"01:11.590\" end=\"01:11.971\">me <\/span>\n        <span begin=\"01:11.971\" end=\"01:12.447\">tight <\/span>\n        <span begin=\"01:12.447\" end=\"01:12.859\">and <\/span>\n        <span begin=\"01:12.859\" end=\"01:13.271\">not <\/span>\n        <span begin=\"01:13.271\" end=\"01:13.683\">let <\/span>\n        <span begin=\"01:13.683\" end=\"01:14.260\">go?<\/span>\n      <\/p>\n      <p begin=\"01:14.260\" end=\"01:18.280\">\n        <span begin=\"01:14.260\" end=\"01:14.644\">I&apos;m <\/span>\n        <span begin=\"01:14.644\" end=\"01:15.382\">sorry <\/span>\n        <span begin=\"01:15.382\" end=\"01:15.736\">if <\/span>\n        <span begin=\"01:15.736\" end=\"01:16.149\">it&apos;s <\/span>\n        <span begin=\"01:16.149\" end=\"01:16.533\">all <\/span>\n        <span begin=\"01:16.533\" end=\"01:16.917\">too <\/span>\n        <span begin=\"01:16.917\" end=\"01:17.330\">much <\/span>\n        <span begin=\"01:17.330\" end=\"01:18.280\">(oh-oh)<\/span>\n      <\/p>\n      <p begin=\"01:18.280\" end=\"01:22.170\">\n        <span begin=\"01:18.280\" end=\"01:19.152\">Every <\/span>\n        <span begin=\"01:19.152\" end=\"01:19.476\">day <\/span>\n        <span begin=\"01:19.476\" end=\"01:19.874\">you&apos;re <\/span>\n        <span begin=\"01:19.874\" end=\"01:20.372\">here, <\/span>\n        <span begin=\"01:20.372\" end=\"01:20.696\">I&apos;m <\/span>\n        <span begin=\"01:20.696\" end=\"01:21.369\">healing <\/span>\n        <span begin=\"01:21.369\" end=\"01:22.170\">(oh-oh)<\/span>\n      <\/p>\n      <p begin=\"01:22.170\" end=\"01:25.820\">\n        <span begin=\"01:22.170\" end=\"01:22.521\">And <\/span>\n        <span begin=\"01:22.521\" end=\"01:22.818\">I <\/span>\n        <span begin=\"01:22.818\" end=\"01:23.169\">was <\/span>\n        <span begin=\"01:23.169\" end=\"01:23.899\">running <\/span>\n        <span begin=\"01:23.899\" end=\"01:24.250\">out <\/span>\n        <span begin=\"01:24.250\" end=\"01:24.574\">of <\/span>\n        <span begin=\"01:24.574\" end=\"01:24.952\">luck <\/span>\n        <span begin=\"01:24.952\" end=\"01:25.820\">(oh-oh)<\/span>\n      <\/p>\n      <p begin=\"01:25.820\" end=\"01:29.720\">\n        <span begin=\"01:25.820\" end=\"01:26.100\">I <\/span>\n        <span begin=\"01:26.100\" end=\"01:26.737\">never <\/span>\n        <span begin=\"01:26.737\" end=\"01:27.170\">thought <\/span>\n        <span begin=\"01:27.170\" end=\"01:27.501\">I&apos;d <\/span>\n        <span begin=\"01:27.501\" end=\"01:27.857\">find <\/span>\n        <span begin=\"01:27.857\" end=\"01:28.213\">this <\/span>\n        <span begin=\"01:28.213\" end=\"01:28.901\">feeling <\/span>\n        <span begin=\"01:28.901\" end=\"01:29.720\">(oh-oh)<\/span>\n      <\/p>\n      <p begin=\"01:29.720\" end=\"01:33.670\">\n        <span begin=\"01:29.720\" end=\"01:30.289\">&apos;Cause <\/span>\n        <span begin=\"01:30.289\" end=\"01:30.787\">I&apos;ve <\/span>\n        <span begin=\"01:30.787\" end=\"01:31.285\">been <\/span>\n        <span begin=\"01:31.285\" end=\"01:32.245\">hearing <\/span>\n        <span begin=\"01:32.245\" end=\"01:33.670\">symphonies<\/span>\n      <\/p>\n      <p begin=\"01:33.670\" end=\"01:37.760\">\n        <span begin=\"01:33.670\" end=\"01:34.446\">Before <\/span>\n        <span begin=\"01:34.446\" end=\"01:34.834\">all <\/span>\n        <span begin=\"01:34.834\" end=\"01:35.162\">I <\/span>\n        <span begin=\"01:35.162\" end=\"01:35.609\">heard <\/span>\n        <span begin=\"01:35.609\" end=\"01:35.997\">was <\/span>\n        <span begin=\"01:35.997\" end=\"01:36.803\">silence <\/span>\n        <span begin=\"01:36.803\" end=\"01:37.760\">(oh-oh)<\/span>\n      <\/p>\n      <p begin=\"01:37.760\" end=\"01:41.340\">\n        <span begin=\"01:37.760\" end=\"01:37.966\">A <\/span>\n        <span begin=\"01:37.966\" end=\"01:38.678\">rhapsody <\/span>\n        <span begin=\"01:38.678\" end=\"01:38.921\">for <\/span>\n        <span begin=\"01:38.921\" end=\"01:39.164\">you <\/span>\n        <span begin=\"01:39.164\" end=\"01:39.407\">and <\/span>\n        <span begin=\"01:39.407\" end=\"01:39.631\">me <\/span>\n        <span begin=\"01:39.631\" end=\"01:40.361\">(rhapsody <\/span>\n        <span begin=\"01:40.361\" end=\"01:40.604\">for <\/span>\n        <span begin=\"01:40.604\" end=\"01:40.847\">you <\/span>\n        <span begin=\"01:40.847\" end=\"01:41.090\">and <\/span>\n        <span begin=\"01:41.090\" end=\"01:41.340\">me)<\/span>\n      <\/p>\n      <p begin=\"01:41.340\" end=\"01:44.560\">\n        <span begin=\"01:41.340\" end=\"01:41.652\">And <\/span>\n        <span begin=\"01:41.652\" end=\"01:42.493\">every <\/span>\n        <span begin=\"01:42.493\" end=\"01:43.358\">melody <\/span>\n        <span begin=\"01:43.358\" end=\"01:43.646\">is <\/span>\n        <span begin=\"01:43.646\" end=\"01:44.560\">timeless<\/span>\n      <\/p>\n      <p begin=\"01:44.560\" end=\"01:47.910\">\n        <span begin=\"01:44.560\" end=\"01:44.978\">And <\/span>\n        <span begin=\"01:44.978\" end=\"01:45.396\">now <\/span>\n        <span begin=\"01:45.396\" end=\"01:45.846\">your <\/span>\n        <span begin=\"01:45.846\" end=\"01:46.296\">song <\/span>\n        <span begin=\"01:46.296\" end=\"01:46.682\">is <\/span>\n        <span begin=\"01:46.682\" end=\"01:47.068\">on <\/span>\n        <span begin=\"01:47.068\" end=\"01:47.910\">repeat<\/span>\n      <\/p>\n      <p begin=\"01:47.910\" end=\"01:52.260\">\n        <span begin=\"01:47.910\" end=\"01:48.381\">And <\/span>\n        <span begin=\"01:48.381\" end=\"01:48.852\">I&apos;m <\/span>\n        <span begin=\"01:48.852\" end=\"01:49.830\">dancing <\/span>\n        <span begin=\"01:49.830\" end=\"01:50.264\">on <\/span>\n        <span begin=\"01:50.264\" end=\"01:50.698\">to <\/span>\n        <span begin=\"01:50.698\" end=\"01:51.205\">your <\/span>\n        <span begin=\"01:51.205\" end=\"01:52.260\">heartbeat<\/span>\n      <\/p>\n      <p begin=\"01:52.260\" end=\"01:55.680\">\n        <span begin=\"01:52.260\" end=\"01:52.607\">And <\/span>\n        <span begin=\"01:52.607\" end=\"01:52.981\">when <\/span>\n        <span begin=\"01:52.981\" end=\"01:53.408\">you&apos;re <\/span>\n        <span begin=\"01:53.408\" end=\"01:53.942\">gone, <\/span>\n        <span begin=\"01:53.942\" end=\"01:54.235\">I <\/span>\n        <span begin=\"01:54.235\" end=\"01:54.609\">feel <\/span>\n        <span begin=\"01:54.609\" end=\"01:55.680\">incomplete<\/span>\n      <\/p>\n      <p begin=\"01:55.680\" end=\"01:59.060\">\n        <span begin=\"01:55.680\" end=\"01:56.395\">So, <\/span>\n        <span begin=\"01:56.395\" end=\"01:56.872\">if <\/span>\n        <span begin=\"01:56.872\" end=\"01:57.388\">you <\/span>\n        <span begin=\"01:57.388\" end=\"01:57.944\">want <\/span>\n        <span begin=\"01:57.944\" end=\"01:58.460\">the <\/span>\n        <span begin=\"01:58.460\" end=\"01:59.060\">truth<\/span>\n      <\/p>\n      <p begin=\"01:59.060\" end=\"02:04.850\">\n        <span begin=\"01:59.060\" end=\"01:59.514\">I <\/span>\n        <span begin=\"01:59.514\" end=\"02:00.092\">just <\/span>\n        <span begin=\"02:00.092\" end=\"02:01.125\">wanna <\/span>\n        <span begin=\"02:01.125\" end=\"02:01.621\">be <\/span>\n        <span begin=\"02:01.621\" end=\"02:02.199\">part <\/span>\n        <span begin=\"02:02.199\" end=\"02:02.695\">of <\/span>\n        <span begin=\"02:02.695\" end=\"02:03.273\">your <\/span>\n        <span begin=\"02:03.273\" end=\"02:04.850\">symphony<\/span>\n      <\/p>\n      <p begin=\"02:04.850\" end=\"02:09.030\">\n        <span begin=\"02:04.850\" end=\"02:05.318\">Will <\/span>\n        <span begin=\"02:05.318\" end=\"02:05.752\">you <\/span>\n        <span begin=\"02:05.752\" end=\"02:06.220\">hold <\/span>\n        <span begin=\"02:06.220\" end=\"02:06.621\">me <\/span>\n        <span begin=\"02:06.621\" end=\"02:07.122\">tight <\/span>\n        <span begin=\"02:07.122\" end=\"02:07.556\">and <\/span>\n        <span begin=\"02:07.556\" end=\"02:07.990\">not <\/span>\n        <span begin=\"02:07.990\" end=\"02:08.424\">let <\/span>\n        <span begin=\"02:08.424\" end=\"02:09.030\">go?<\/span>\n      <\/p>\n      <p begin=\"02:09.030\" end=\"02:12.640\">\n        <span begin=\"02:09.030\" end=\"02:12.640\">Symphony<\/span>\n      <\/p>\n      <p begin=\"02:12.640\" end=\"02:16.500\">\n        <span begin=\"02:12.640\" end=\"02:13.164\">Like <\/span>\n        <span begin=\"02:13.164\" end=\"02:13.576\">a <\/span>\n        <span begin=\"02:13.576\" end=\"02:14.100\">love <\/span>\n        <span begin=\"02:14.100\" end=\"02:14.624\">song <\/span>\n        <span begin=\"02:14.624\" end=\"02:15.073\">on <\/span>\n        <span begin=\"02:15.073\" end=\"02:15.560\">the <\/span>\n        <span begin=\"02:15.560\" end=\"02:16.500\">radio<\/span>\n      <\/p>\n      <p begin=\"02:16.500\" end=\"02:20.680\">\n        <span begin=\"02:16.500\" end=\"02:16.968\">Will <\/span>\n        <span begin=\"02:16.968\" end=\"02:17.402\">you <\/span>\n        <span begin=\"02:17.402\" end=\"02:17.870\">hold <\/span>\n        <span begin=\"02:17.870\" end=\"02:18.271\">me <\/span>\n        <span begin=\"02:18.271\" end=\"02:18.772\">tight <\/span>\n        <span begin=\"02:18.772\" end=\"02:19.206\">and <\/span>\n        <span begin=\"02:19.206\" end=\"02:19.640\">not <\/span>\n        <span begin=\"02:19.640\" end=\"02:20.074\">let <\/span>\n        <span begin=\"02:20.074\" end=\"02:20.680\">go?<\/span>\n      <\/p>\n      <p begin=\"02:20.680\" end=\"02:28.440\">\n        <span begin=\"02:20.680\" end=\"02:21.636\">Ah, <\/span>\n        <span begin=\"02:21.636\" end=\"02:22.592\">ah, <\/span>\n        <span begin=\"02:22.592\" end=\"02:23.548\">ah, <\/span>\n        <span begin=\"02:23.548\" end=\"02:25.886\">ah-ah-ah, <\/span>\n        <span begin=\"02:25.886\" end=\"02:26.842\">ah, <\/span>\n        <span begin=\"02:26.842\" end=\"02:27.798\">ah, <\/span>\n        <span begin=\"02:27.798\" end=\"02:28.440\">ah<\/span>\n      <\/p>\n      <p begin=\"02:28.440\" end=\"02:35.390\">\n        <span begin=\"02:28.440\" end=\"02:29.296\">Ah, <\/span>\n        <span begin=\"02:29.296\" end=\"02:30.152\">ah, <\/span>\n        <span begin=\"02:30.152\" end=\"02:31.008\">ah, <\/span>\n        <span begin=\"02:31.008\" end=\"02:33.102\">ah-ah-ah, <\/span>\n        <span begin=\"02:33.102\" end=\"02:33.958\">ah, <\/span>\n        <span begin=\"02:33.958\" end=\"02:34.814\">ah, <\/span>\n        <span begin=\"02:34.814\" end=\"02:35.390\">ah<\/span>\n      <\/p>\n      <p begin=\"02:35.390\" end=\"02:38.630\">\n        <span begin=\"02:35.390\" end=\"02:35.795\">And <\/span>\n        <span begin=\"02:35.795\" end=\"02:36.200\">now <\/span>\n        <span begin=\"02:36.200\" end=\"02:36.636\">your <\/span>\n        <span begin=\"02:36.636\" end=\"02:37.072\">song <\/span>\n        <span begin=\"02:37.072\" end=\"02:37.445\">is <\/span>\n        <span begin=\"02:37.445\" end=\"02:37.818\">on <\/span>\n        <span begin=\"02:37.818\" end=\"02:38.630\">repeat<\/span>\n      <\/p>\n      <p begin=\"02:38.630\" end=\"02:42.880\">\n        <span begin=\"02:38.630\" end=\"02:39.090\">And <\/span>\n        <span begin=\"02:39.090\" end=\"02:39.550\">I&apos;m <\/span>\n        <span begin=\"02:39.550\" end=\"02:40.506\">dancing <\/span>\n        <span begin=\"02:40.506\" end=\"02:40.930\">on <\/span>\n        <span begin=\"02:40.930\" end=\"02:41.354\">to <\/span>\n        <span begin=\"02:41.354\" end=\"02:41.849\">your <\/span>\n        <span begin=\"02:41.849\" end=\"02:42.880\">heartbeat<\/span>\n      <\/p>\n      <p begin=\"02:42.880\" end=\"02:46.410\">\n        <span begin=\"02:42.880\" end=\"02:43.238\">And <\/span>\n        <span begin=\"02:43.238\" end=\"02:43.624\">when <\/span>\n        <span begin=\"02:43.624\" end=\"02:44.065\">you&apos;re <\/span>\n        <span begin=\"02:44.065\" end=\"02:44.616\">gone, <\/span>\n        <span begin=\"02:44.616\" end=\"02:44.919\">I <\/span>\n        <span begin=\"02:44.919\" end=\"02:45.305\">feel <\/span>\n        <span begin=\"02:45.305\" end=\"02:46.410\">incomplete<\/span>\n      <\/p>\n      <p begin=\"02:46.410\" end=\"02:48.960\">\n        <span begin=\"02:46.410\" end=\"02:46.950\">So, <\/span>\n        <span begin=\"02:46.950\" end=\"02:47.310\">if <\/span>\n        <span begin=\"02:47.310\" end=\"02:47.700\">you <\/span>\n        <span begin=\"02:47.700\" end=\"02:48.120\">want <\/span>\n        <span begin=\"02:48.120\" end=\"02:48.510\">the <\/span>\n        <span begin=\"02:48.510\" end=\"02:48.960\">truth<\/span>\n      <\/p>\n      <p begin=\"02:48.960\" end=\"02:50.150\">\n        <span begin=\"02:48.960\" end=\"02:50.150\">Oh-oh<\/span>\n      <\/p>\n      <p begin=\"02:50.150\" end=\"02:55.560\">\n        <span begin=\"02:50.150\" end=\"02:50.575\">I <\/span>\n        <span begin=\"02:50.575\" end=\"02:51.116\">just <\/span>\n        <span begin=\"02:51.116\" end=\"02:52.082\">wanna <\/span>\n        <span begin=\"02:52.082\" end=\"02:52.545\">be <\/span>\n        <span begin=\"02:52.545\" end=\"02:53.086\">part <\/span>\n        <span begin=\"02:53.086\" end=\"02:53.549\">of <\/span>\n        <span begin=\"02:53.549\" end=\"02:54.090\">your <\/span>\n        <span begin=\"02:54.090\" end=\"02:55.560\">symphony<\/span>\n      <\/p>\n      <p begin=\"02:55.560\" end=\"02:59.820\">\n        <span begin=\"02:55.560\" end=\"02:56.037\">Will <\/span>\n        <span begin=\"02:56.037\" end=\"02:56.480\">you <\/span>\n        <span begin=\"02:56.480\" end=\"02:56.957\">hold <\/span>\n        <span begin=\"02:56.957\" end=\"02:57.365\">me <\/span>\n        <span begin=\"02:57.365\" end=\"02:57.876\">tight <\/span>\n        <span begin=\"02:57.876\" end=\"02:58.319\">and <\/span>\n        <span begin=\"02:58.319\" end=\"02:58.762\">not <\/span>\n        <span begin=\"02:58.762\" end=\"02:59.205\">let <\/span>\n        <span begin=\"02:59.205\" end=\"02:59.820\">go?<\/span>\n      <\/p>\n      <p begin=\"02:59.820\" end=\"03:03.250\">\n        <span begin=\"02:59.820\" end=\"03:03.250\">Symphony<\/span>\n      <\/p>\n      <p begin=\"03:03.250\" end=\"03:07.530\">\n        <span begin=\"03:03.250\" end=\"03:03.762\">Like <\/span>\n        <span begin=\"03:03.762\" end=\"03:04.164\">a <\/span>\n        <span begin=\"03:04.164\" end=\"03:04.676\">love <\/span>\n        <span begin=\"03:04.676\" end=\"03:05.188\">song <\/span>\n        <span begin=\"03:05.188\" end=\"03:05.626\">on <\/span>\n        <span begin=\"03:05.626\" end=\"03:06.101\">the <\/span>\n        <span begin=\"03:06.101\" end=\"03:07.015\">radio <\/span>\n        <span begin=\"03:07.015\" end=\"03:07.530\">(oh)<\/span>\n      <\/p>\n      <p begin=\"03:07.530\" end=\"03:11.120\">\n        <span begin=\"03:07.530\" end=\"03:11.120\">Symphony<\/span>\n      <\/p>\n      <p begin=\"03:11.120\" end=\"03:15.340\">\n        <span begin=\"03:11.120\" end=\"03:11.426\">Will <\/span>\n        <span begin=\"03:11.426\" end=\"03:11.710\">you <\/span>\n        <span begin=\"03:11.710\" end=\"03:12.016\">hold <\/span>\n        <span begin=\"03:12.016\" end=\"03:12.278\">me <\/span>\n        <span begin=\"03:12.278\" end=\"03:12.605\">tight <\/span>\n        <span begin=\"03:12.605\" end=\"03:12.889\">and <\/span>\n        <span begin=\"03:12.889\" end=\"03:13.173\">not <\/span>\n        <span begin=\"03:13.173\" end=\"03:13.457\">let <\/span>\n        <span begin=\"03:13.457\" end=\"03:13.850\">go? <\/span>\n        <span begin=\"03:13.850\" end=\"03:14.265\">(No, <\/span>\n        <span begin=\"03:14.265\" end=\"03:14.658\">no, <\/span>\n        <span begin=\"03:14.658\" end=\"03:15.051\">no, <\/span>\n        <span begin=\"03:15.051\" end=\"03:15.340\">no)<\/span>\n      <\/p>\n      <p begin=\"03:15.340\" end=\"03:18.900\">\n        <span begin=\"03:15.340\" end=\"03:18.900\">Symphony<\/span>\n      <\/p>\n      <p begin=\"03:18.900\" end=\"03:22.900\">\n        <span begin=\"03:18.900\" end=\"03:19.443\">Like <\/span>\n        <span begin=\"03:19.443\" end=\"03:19.870\">a <\/span>\n        <span begin=\"03:19.870\" end=\"03:20.413\">love <\/span>\n        <span begin=\"03:20.413\" end=\"03:20.956\">song <\/span>\n        <span begin=\"03:20.956\" end=\"03:21.422\">on <\/span>\n        <span begin=\"03:21.422\" end=\"03:21.926\">the <\/span>\n        <span begin=\"03:21.926\" end=\"03:22.900\">radio<\/span>\n      <\/p>\n      <p begin=\"03:22.900\" end=\"03:27.900\">\n        <span begin=\"03:22.900\" end=\"03:23.459\">Will <\/span>\n        <span begin=\"03:23.459\" end=\"03:23.979\">you <\/span>\n        <span begin=\"03:23.979\" end=\"03:24.538\">hold <\/span>\n        <span begin=\"03:24.538\" end=\"03:25.017\">me <\/span>\n        <span begin=\"03:25.017\" end=\"03:25.616\">tight <\/span>\n        <span begin=\"03:25.616\" end=\"03:26.136\">and <\/span>\n        <span begin=\"03:26.136\" end=\"03:26.656\">not <\/span>\n        <span begin=\"03:26.656\" end=\"03:27.176\">let <\/span>\n        <span begin=\"03:27.176\" end=\"03:27.900\">go?<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 7940,
+      "endTime": 11680,
+      "text": "I've been hearing symphonies",
+      "words": [
+        {
+          "startTime": 7940,
+          "endTime": 8491,
+          "word": "I've "
+        },
+        {
+          "startTime": 8491,
+          "endTime": 9042,
+          "word": "been "
+        },
+        {
+          "startTime": 9042,
+          "endTime": 10104,
+          "word": "hearing "
+        },
+        {
+          "startTime": 10104,
+          "endTime": 11680,
+          "word": "symphonies"
+        }
+      ]
+    },
+    {
+      "time": 11680,
+      "endTime": 15540,
+      "text": "Before all I heard was silence",
+      "words": [
+        {
+          "startTime": 11680,
+          "endTime": 12635,
+          "word": "Before "
+        },
+        {
+          "startTime": 12635,
+          "endTime": 13112,
+          "word": "all "
+        },
+        {
+          "startTime": 13112,
+          "endTime": 13516,
+          "word": "I "
+        },
+        {
+          "startTime": 13516,
+          "endTime": 14067,
+          "word": "heard "
+        },
+        {
+          "startTime": 14067,
+          "endTime": 14544,
+          "word": "was "
+        },
+        {
+          "startTime": 14544,
+          "endTime": 15540,
+          "word": "silence"
+        }
+      ]
+    },
+    {
+      "time": 15540,
+      "endTime": 19140,
+      "text": "A rhapsody for you and me",
+      "words": [
+        {
+          "startTime": 15540,
+          "endTime": 15936,
+          "word": "A "
+        },
+        {
+          "startTime": 15936,
+          "endTime": 17304,
+          "word": "rhapsody "
+        },
+        {
+          "startTime": 17304,
+          "endTime": 17772,
+          "word": "for "
+        },
+        {
+          "startTime": 17772,
+          "endTime": 18240,
+          "word": "you "
+        },
+        {
+          "startTime": 18240,
+          "endTime": 18708,
+          "word": "and "
+        },
+        {
+          "startTime": 18708,
+          "endTime": 19140,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 19140,
+      "endTime": 23490,
+      "text": "And every melody is timeless",
+      "words": [
+        {
+          "startTime": 19140,
+          "endTime": 19562,
+          "word": "And "
+        },
+        {
+          "startTime": 19562,
+          "endTime": 20698,
+          "word": "every "
+        },
+        {
+          "startTime": 20698,
+          "endTime": 21866,
+          "word": "melody "
+        },
+        {
+          "startTime": 21866,
+          "endTime": 22255,
+          "word": "is "
+        },
+        {
+          "startTime": 22255,
+          "endTime": 23490,
+          "word": "timeless"
+        }
+      ]
+    },
+    {
+      "time": 23490,
+      "endTime": 27390,
+      "text": "Life was stringing me along",
+      "words": [
+        {
+          "startTime": 23490,
+          "endTime": 24077,
+          "word": "Life "
+        },
+        {
+          "startTime": 24077,
+          "endTime": 24622,
+          "word": "was "
+        },
+        {
+          "startTime": 24622,
+          "endTime": 25838,
+          "word": "stringing "
+        },
+        {
+          "startTime": 25838,
+          "endTime": 26341,
+          "word": "me "
+        },
+        {
+          "startTime": 26341,
+          "endTime": 27390,
+          "word": "along"
+        }
+      ]
+    },
+    {
+      "time": 27390,
+      "endTime": 31150,
+      "text": "Then you came and you cut me loose",
+      "words": [
+        {
+          "startTime": 27390,
+          "endTime": 27881,
+          "word": "Then "
+        },
+        {
+          "startTime": 27881,
+          "endTime": 28337,
+          "word": "you "
+        },
+        {
+          "startTime": 28337,
+          "endTime": 28828,
+          "word": "came "
+        },
+        {
+          "startTime": 28828,
+          "endTime": 29284,
+          "word": "and "
+        },
+        {
+          "startTime": 29284,
+          "endTime": 29740,
+          "word": "you "
+        },
+        {
+          "startTime": 29740,
+          "endTime": 30196,
+          "word": "cut "
+        },
+        {
+          "startTime": 30196,
+          "endTime": 30617,
+          "word": "me "
+        },
+        {
+          "startTime": 30617,
+          "endTime": 31150,
+          "word": "loose"
+        }
+      ]
+    },
+    {
+      "time": 31150,
+      "endTime": 34940,
+      "text": "Was solo singing on my own",
+      "words": [
+        {
+          "startTime": 31150,
+          "endTime": 31637,
+          "word": "Was "
+        },
+        {
+          "startTime": 31637,
+          "endTime": 32537,
+          "word": "solo "
+        },
+        {
+          "startTime": 32537,
+          "endTime": 33550,
+          "word": "singing "
+        },
+        {
+          "startTime": 33550,
+          "endTime": 34000,
+          "word": "on "
+        },
+        {
+          "startTime": 34000,
+          "endTime": 34450,
+          "word": "my "
+        },
+        {
+          "startTime": 34450,
+          "endTime": 34940,
+          "word": "own"
+        }
+      ]
+    },
+    {
+      "time": 34940,
+      "endTime": 38110,
+      "text": "Now I can't find the key without you",
+      "words": [
+        {
+          "startTime": 34940,
+          "endTime": 35286,
+          "word": "Now "
+        },
+        {
+          "startTime": 35286,
+          "endTime": 35579,
+          "word": "I "
+        },
+        {
+          "startTime": 35579,
+          "endTime": 35978,
+          "word": "can't "
+        },
+        {
+          "startTime": 35978,
+          "endTime": 36350,
+          "word": "find "
+        },
+        {
+          "startTime": 36350,
+          "endTime": 36696,
+          "word": "the "
+        },
+        {
+          "startTime": 36696,
+          "endTime": 37042,
+          "word": "key "
+        },
+        {
+          "startTime": 37042,
+          "endTime": 37761,
+          "word": "without "
+        },
+        {
+          "startTime": 37761,
+          "endTime": 38110,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 38110,
+      "endTime": 41630,
+      "text": "And now your song is on repeat",
+      "words": [
+        {
+          "startTime": 38110,
+          "endTime": 38550,
+          "word": "And "
+        },
+        {
+          "startTime": 38550,
+          "endTime": 38990,
+          "word": "now "
+        },
+        {
+          "startTime": 38990,
+          "endTime": 39463,
+          "word": "your "
+        },
+        {
+          "startTime": 39463,
+          "endTime": 39936,
+          "word": "song "
+        },
+        {
+          "startTime": 39936,
+          "endTime": 40342,
+          "word": "is "
+        },
+        {
+          "startTime": 40342,
+          "endTime": 40748,
+          "word": "on "
+        },
+        {
+          "startTime": 40748,
+          "endTime": 41630,
+          "word": "repeat"
+        }
+      ]
+    },
+    {
+      "time": 41630,
+      "endTime": 45760,
+      "text": "And I'm dancing on to your heartbeat",
+      "words": [
+        {
+          "startTime": 41630,
+          "endTime": 42077,
+          "word": "And "
+        },
+        {
+          "startTime": 42077,
+          "endTime": 42524,
+          "word": "I'm "
+        },
+        {
+          "startTime": 42524,
+          "endTime": 43453,
+          "word": "dancing "
+        },
+        {
+          "startTime": 43453,
+          "endTime": 43865,
+          "word": "on "
+        },
+        {
+          "startTime": 43865,
+          "endTime": 44277,
+          "word": "to "
+        },
+        {
+          "startTime": 44277,
+          "endTime": 44758,
+          "word": "your "
+        },
+        {
+          "startTime": 44758,
+          "endTime": 45760,
+          "word": "heartbeat"
+        }
+      ]
+    },
+    {
+      "time": 45760,
+      "endTime": 49350,
+      "text": "And when you're gone, I feel incomplete",
+      "words": [
+        {
+          "startTime": 45760,
+          "endTime": 46124,
+          "word": "And "
+        },
+        {
+          "startTime": 46124,
+          "endTime": 46516,
+          "word": "when "
+        },
+        {
+          "startTime": 46516,
+          "endTime": 46964,
+          "word": "you're "
+        },
+        {
+          "startTime": 46964,
+          "endTime": 47524,
+          "word": "gone, "
+        },
+        {
+          "startTime": 47524,
+          "endTime": 47832,
+          "word": "I "
+        },
+        {
+          "startTime": 47832,
+          "endTime": 48224,
+          "word": "feel "
+        },
+        {
+          "startTime": 48224,
+          "endTime": 49350,
+          "word": "incomplete"
+        }
+      ]
+    },
+    {
+      "time": 49350,
+      "endTime": 52750,
+      "text": "So, if you want the truth",
+      "words": [
+        {
+          "startTime": 49350,
+          "endTime": 50070,
+          "word": "So, "
+        },
+        {
+          "startTime": 50070,
+          "endTime": 50550,
+          "word": "if "
+        },
+        {
+          "startTime": 50550,
+          "endTime": 51070,
+          "word": "you "
+        },
+        {
+          "startTime": 51070,
+          "endTime": 51630,
+          "word": "want "
+        },
+        {
+          "startTime": 51630,
+          "endTime": 52150,
+          "word": "the "
+        },
+        {
+          "startTime": 52150,
+          "endTime": 52750,
+          "word": "truth"
+        }
+      ]
+    },
+    {
+      "time": 52750,
+      "endTime": 58400,
+      "text": "I just wanna be part of your symphony",
+      "words": [
+        {
+          "startTime": 52750,
+          "endTime": 53193,
+          "word": "I "
+        },
+        {
+          "startTime": 53193,
+          "endTime": 53757,
+          "word": "just "
+        },
+        {
+          "startTime": 53757,
+          "endTime": 54765,
+          "word": "wanna "
+        },
+        {
+          "startTime": 54765,
+          "endTime": 55249,
+          "word": "be "
+        },
+        {
+          "startTime": 55249,
+          "endTime": 55813,
+          "word": "part "
+        },
+        {
+          "startTime": 55813,
+          "endTime": 56297,
+          "word": "of "
+        },
+        {
+          "startTime": 56297,
+          "endTime": 56861,
+          "word": "your "
+        },
+        {
+          "startTime": 56861,
+          "endTime": 58400,
+          "word": "symphony"
+        }
+      ]
+    },
+    {
+      "time": 58400,
+      "endTime": 62560,
+      "text": "Will you hold me tight and not let go?",
+      "words": [
+        {
+          "startTime": 58400,
+          "endTime": 58865,
+          "word": "Will "
+        },
+        {
+          "startTime": 58865,
+          "endTime": 59297,
+          "word": "you "
+        },
+        {
+          "startTime": 59297,
+          "endTime": 59762,
+          "word": "hold "
+        },
+        {
+          "startTime": 59762,
+          "endTime": 60161,
+          "word": "me "
+        },
+        {
+          "startTime": 60161,
+          "endTime": 60660,
+          "word": "tight "
+        },
+        {
+          "startTime": 60660,
+          "endTime": 61092,
+          "word": "and "
+        },
+        {
+          "startTime": 61092,
+          "endTime": 61524,
+          "word": "not "
+        },
+        {
+          "startTime": 61524,
+          "endTime": 61956,
+          "word": "let "
+        },
+        {
+          "startTime": 61956,
+          "endTime": 62560,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 62560,
+      "endTime": 66300,
+      "text": "Symphony",
+      "words": [
+        {
+          "startTime": 62560,
+          "endTime": 66300,
+          "word": "Symphony"
+        }
+      ]
+    },
+    {
+      "time": 66300,
+      "endTime": 70290,
+      "text": "Like a love song on the radio",
+      "words": [
+        {
+          "startTime": 66300,
+          "endTime": 66842,
+          "word": "Like "
+        },
+        {
+          "startTime": 66842,
+          "endTime": 67268,
+          "word": "a "
+        },
+        {
+          "startTime": 67268,
+          "endTime": 67810,
+          "word": "love "
+        },
+        {
+          "startTime": 67810,
+          "endTime": 68352,
+          "word": "song "
+        },
+        {
+          "startTime": 68352,
+          "endTime": 68816,
+          "word": "on "
+        },
+        {
+          "startTime": 68816,
+          "endTime": 69319,
+          "word": "the "
+        },
+        {
+          "startTime": 69319,
+          "endTime": 70290,
+          "word": "radio"
+        }
+      ]
+    },
+    {
+      "time": 70290,
+      "endTime": 74260,
+      "text": "Will you hold me tight and not let go?",
+      "words": [
+        {
+          "startTime": 70290,
+          "endTime": 70734,
+          "word": "Will "
+        },
+        {
+          "startTime": 70734,
+          "endTime": 71146,
+          "word": "you "
+        },
+        {
+          "startTime": 71146,
+          "endTime": 71590,
+          "word": "hold "
+        },
+        {
+          "startTime": 71590,
+          "endTime": 71971,
+          "word": "me "
+        },
+        {
+          "startTime": 71971,
+          "endTime": 72447,
+          "word": "tight "
+        },
+        {
+          "startTime": 72447,
+          "endTime": 72859,
+          "word": "and "
+        },
+        {
+          "startTime": 72859,
+          "endTime": 73271,
+          "word": "not "
+        },
+        {
+          "startTime": 73271,
+          "endTime": 73683,
+          "word": "let "
+        },
+        {
+          "startTime": 73683,
+          "endTime": 74260,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 74260,
+      "endTime": 78280,
+      "text": "I'm sorry if it's all too much (oh-oh)",
+      "words": [
+        {
+          "startTime": 74260,
+          "endTime": 74644,
+          "word": "I'm "
+        },
+        {
+          "startTime": 74644,
+          "endTime": 75382,
+          "word": "sorry "
+        },
+        {
+          "startTime": 75382,
+          "endTime": 75736,
+          "word": "if "
+        },
+        {
+          "startTime": 75736,
+          "endTime": 76149,
+          "word": "it's "
+        },
+        {
+          "startTime": 76149,
+          "endTime": 76533,
+          "word": "all "
+        },
+        {
+          "startTime": 76533,
+          "endTime": 76917,
+          "word": "too "
+        },
+        {
+          "startTime": 76917,
+          "endTime": 77330,
+          "word": "much "
+        },
+        {
+          "startTime": 77330,
+          "endTime": 78280,
+          "word": "(oh-oh)"
+        }
+      ]
+    },
+    {
+      "time": 78280,
+      "endTime": 82170,
+      "text": "Every day you're here, I'm healing (oh-oh)",
+      "words": [
+        {
+          "startTime": 78280,
+          "endTime": 79152,
+          "word": "Every "
+        },
+        {
+          "startTime": 79152,
+          "endTime": 79476,
+          "word": "day "
+        },
+        {
+          "startTime": 79476,
+          "endTime": 79874,
+          "word": "you're "
+        },
+        {
+          "startTime": 79874,
+          "endTime": 80372,
+          "word": "here, "
+        },
+        {
+          "startTime": 80372,
+          "endTime": 80696,
+          "word": "I'm "
+        },
+        {
+          "startTime": 80696,
+          "endTime": 81369,
+          "word": "healing "
+        },
+        {
+          "startTime": 81369,
+          "endTime": 82170,
+          "word": "(oh-oh)"
+        }
+      ]
+    },
+    {
+      "time": 82170,
+      "endTime": 85820,
+      "text": "And I was running out of luck (oh-oh)",
+      "words": [
+        {
+          "startTime": 82170,
+          "endTime": 82521,
+          "word": "And "
+        },
+        {
+          "startTime": 82521,
+          "endTime": 82818,
+          "word": "I "
+        },
+        {
+          "startTime": 82818,
+          "endTime": 83169,
+          "word": "was "
+        },
+        {
+          "startTime": 83169,
+          "endTime": 83899,
+          "word": "running "
+        },
+        {
+          "startTime": 83899,
+          "endTime": 84250,
+          "word": "out "
+        },
+        {
+          "startTime": 84250,
+          "endTime": 84574,
+          "word": "of "
+        },
+        {
+          "startTime": 84574,
+          "endTime": 84952,
+          "word": "luck "
+        },
+        {
+          "startTime": 84952,
+          "endTime": 85820,
+          "word": "(oh-oh)"
+        }
+      ]
+    },
+    {
+      "time": 85820,
+      "endTime": 89720,
+      "text": "I never thought I'd find this feeling (oh-oh)",
+      "words": [
+        {
+          "startTime": 85820,
+          "endTime": 86100,
+          "word": "I "
+        },
+        {
+          "startTime": 86100,
+          "endTime": 86737,
+          "word": "never "
+        },
+        {
+          "startTime": 86737,
+          "endTime": 87170,
+          "word": "thought "
+        },
+        {
+          "startTime": 87170,
+          "endTime": 87501,
+          "word": "I'd "
+        },
+        {
+          "startTime": 87501,
+          "endTime": 87857,
+          "word": "find "
+        },
+        {
+          "startTime": 87857,
+          "endTime": 88213,
+          "word": "this "
+        },
+        {
+          "startTime": 88213,
+          "endTime": 88901,
+          "word": "feeling "
+        },
+        {
+          "startTime": 88901,
+          "endTime": 89720,
+          "word": "(oh-oh)"
+        }
+      ]
+    },
+    {
+      "time": 89720,
+      "endTime": 93670,
+      "text": "'Cause I've been hearing symphonies",
+      "words": [
+        {
+          "startTime": 89720,
+          "endTime": 90289,
+          "word": "'Cause "
+        },
+        {
+          "startTime": 90289,
+          "endTime": 90787,
+          "word": "I've "
+        },
+        {
+          "startTime": 90787,
+          "endTime": 91285,
+          "word": "been "
+        },
+        {
+          "startTime": 91285,
+          "endTime": 92245,
+          "word": "hearing "
+        },
+        {
+          "startTime": 92245,
+          "endTime": 93670,
+          "word": "symphonies"
+        }
+      ]
+    },
+    {
+      "time": 93670,
+      "endTime": 97760,
+      "text": "Before all I heard was silence (oh-oh)",
+      "words": [
+        {
+          "startTime": 93670,
+          "endTime": 94446,
+          "word": "Before "
+        },
+        {
+          "startTime": 94446,
+          "endTime": 94834,
+          "word": "all "
+        },
+        {
+          "startTime": 94834,
+          "endTime": 95162,
+          "word": "I "
+        },
+        {
+          "startTime": 95162,
+          "endTime": 95609,
+          "word": "heard "
+        },
+        {
+          "startTime": 95609,
+          "endTime": 95997,
+          "word": "was "
+        },
+        {
+          "startTime": 95997,
+          "endTime": 96803,
+          "word": "silence "
+        },
+        {
+          "startTime": 96803,
+          "endTime": 97760,
+          "word": "(oh-oh)"
+        }
+      ]
+    },
+    {
+      "time": 97760,
+      "endTime": 101340,
+      "text": "A rhapsody for you and me (rhapsody for you and me)",
+      "words": [
+        {
+          "startTime": 97760,
+          "endTime": 97966,
+          "word": "A "
+        },
+        {
+          "startTime": 97966,
+          "endTime": 98678,
+          "word": "rhapsody "
+        },
+        {
+          "startTime": 98678,
+          "endTime": 98921,
+          "word": "for "
+        },
+        {
+          "startTime": 98921,
+          "endTime": 99164,
+          "word": "you "
+        },
+        {
+          "startTime": 99164,
+          "endTime": 99407,
+          "word": "and "
+        },
+        {
+          "startTime": 99407,
+          "endTime": 99631,
+          "word": "me "
+        },
+        {
+          "startTime": 99631,
+          "endTime": 100361,
+          "word": "(rhapsody "
+        },
+        {
+          "startTime": 100361,
+          "endTime": 100604,
+          "word": "for "
+        },
+        {
+          "startTime": 100604,
+          "endTime": 100847,
+          "word": "you "
+        },
+        {
+          "startTime": 100847,
+          "endTime": 101090,
+          "word": "and "
+        },
+        {
+          "startTime": 101090,
+          "endTime": 101340,
+          "word": "me)"
+        }
+      ]
+    },
+    {
+      "time": 101340,
+      "endTime": 104560,
+      "text": "And every melody is timeless",
+      "words": [
+        {
+          "startTime": 101340,
+          "endTime": 101652,
+          "word": "And "
+        },
+        {
+          "startTime": 101652,
+          "endTime": 102493,
+          "word": "every "
+        },
+        {
+          "startTime": 102493,
+          "endTime": 103358,
+          "word": "melody "
+        },
+        {
+          "startTime": 103358,
+          "endTime": 103646,
+          "word": "is "
+        },
+        {
+          "startTime": 103646,
+          "endTime": 104560,
+          "word": "timeless"
+        }
+      ]
+    },
+    {
+      "time": 104560,
+      "endTime": 107910,
+      "text": "And now your song is on repeat",
+      "words": [
+        {
+          "startTime": 104560,
+          "endTime": 104978,
+          "word": "And "
+        },
+        {
+          "startTime": 104978,
+          "endTime": 105396,
+          "word": "now "
+        },
+        {
+          "startTime": 105396,
+          "endTime": 105846,
+          "word": "your "
+        },
+        {
+          "startTime": 105846,
+          "endTime": 106296,
+          "word": "song "
+        },
+        {
+          "startTime": 106296,
+          "endTime": 106682,
+          "word": "is "
+        },
+        {
+          "startTime": 106682,
+          "endTime": 107068,
+          "word": "on "
+        },
+        {
+          "startTime": 107068,
+          "endTime": 107910,
+          "word": "repeat"
+        }
+      ]
+    },
+    {
+      "time": 107910,
+      "endTime": 112260,
+      "text": "And I'm dancing on to your heartbeat",
+      "words": [
+        {
+          "startTime": 107910,
+          "endTime": 108381,
+          "word": "And "
+        },
+        {
+          "startTime": 108381,
+          "endTime": 108852,
+          "word": "I'm "
+        },
+        {
+          "startTime": 108852,
+          "endTime": 109830,
+          "word": "dancing "
+        },
+        {
+          "startTime": 109830,
+          "endTime": 110264,
+          "word": "on "
+        },
+        {
+          "startTime": 110264,
+          "endTime": 110698,
+          "word": "to "
+        },
+        {
+          "startTime": 110698,
+          "endTime": 111205,
+          "word": "your "
+        },
+        {
+          "startTime": 111205,
+          "endTime": 112260,
+          "word": "heartbeat"
+        }
+      ]
+    },
+    {
+      "time": 112260,
+      "endTime": 115680,
+      "text": "And when you're gone, I feel incomplete",
+      "words": [
+        {
+          "startTime": 112260,
+          "endTime": 112607,
+          "word": "And "
+        },
+        {
+          "startTime": 112607,
+          "endTime": 112981,
+          "word": "when "
+        },
+        {
+          "startTime": 112981,
+          "endTime": 113408,
+          "word": "you're "
+        },
+        {
+          "startTime": 113408,
+          "endTime": 113942,
+          "word": "gone, "
+        },
+        {
+          "startTime": 113942,
+          "endTime": 114235,
+          "word": "I "
+        },
+        {
+          "startTime": 114235,
+          "endTime": 114609,
+          "word": "feel "
+        },
+        {
+          "startTime": 114609,
+          "endTime": 115680,
+          "word": "incomplete"
+        }
+      ]
+    },
+    {
+      "time": 115680,
+      "endTime": 119060,
+      "text": "So, if you want the truth",
+      "words": [
+        {
+          "startTime": 115680,
+          "endTime": 116395,
+          "word": "So, "
+        },
+        {
+          "startTime": 116395,
+          "endTime": 116872,
+          "word": "if "
+        },
+        {
+          "startTime": 116872,
+          "endTime": 117388,
+          "word": "you "
+        },
+        {
+          "startTime": 117388,
+          "endTime": 117944,
+          "word": "want "
+        },
+        {
+          "startTime": 117944,
+          "endTime": 118460,
+          "word": "the "
+        },
+        {
+          "startTime": 118460,
+          "endTime": 119060,
+          "word": "truth"
+        }
+      ]
+    },
+    {
+      "time": 119060,
+      "endTime": 124850,
+      "text": "I just wanna be part of your symphony",
+      "words": [
+        {
+          "startTime": 119060,
+          "endTime": 119514,
+          "word": "I "
+        },
+        {
+          "startTime": 119514,
+          "endTime": 120092,
+          "word": "just "
+        },
+        {
+          "startTime": 120092,
+          "endTime": 121125,
+          "word": "wanna "
+        },
+        {
+          "startTime": 121125,
+          "endTime": 121621,
+          "word": "be "
+        },
+        {
+          "startTime": 121621,
+          "endTime": 122199,
+          "word": "part "
+        },
+        {
+          "startTime": 122199,
+          "endTime": 122695,
+          "word": "of "
+        },
+        {
+          "startTime": 122695,
+          "endTime": 123273,
+          "word": "your "
+        },
+        {
+          "startTime": 123273,
+          "endTime": 124850,
+          "word": "symphony"
+        }
+      ]
+    },
+    {
+      "time": 124850,
+      "endTime": 129030,
+      "text": "Will you hold me tight and not let go?",
+      "words": [
+        {
+          "startTime": 124850,
+          "endTime": 125318,
+          "word": "Will "
+        },
+        {
+          "startTime": 125318,
+          "endTime": 125752,
+          "word": "you "
+        },
+        {
+          "startTime": 125752,
+          "endTime": 126220,
+          "word": "hold "
+        },
+        {
+          "startTime": 126220,
+          "endTime": 126621,
+          "word": "me "
+        },
+        {
+          "startTime": 126621,
+          "endTime": 127122,
+          "word": "tight "
+        },
+        {
+          "startTime": 127122,
+          "endTime": 127556,
+          "word": "and "
+        },
+        {
+          "startTime": 127556,
+          "endTime": 127990,
+          "word": "not "
+        },
+        {
+          "startTime": 127990,
+          "endTime": 128424,
+          "word": "let "
+        },
+        {
+          "startTime": 128424,
+          "endTime": 129030,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 129030,
+      "endTime": 132640,
+      "text": "Symphony",
+      "words": [
+        {
+          "startTime": 129030,
+          "endTime": 132640,
+          "word": "Symphony"
+        }
+      ]
+    },
+    {
+      "time": 132640,
+      "endTime": 136500,
+      "text": "Like a love song on the radio",
+      "words": [
+        {
+          "startTime": 132640,
+          "endTime": 133164,
+          "word": "Like "
+        },
+        {
+          "startTime": 133164,
+          "endTime": 133576,
+          "word": "a "
+        },
+        {
+          "startTime": 133576,
+          "endTime": 134100,
+          "word": "love "
+        },
+        {
+          "startTime": 134100,
+          "endTime": 134624,
+          "word": "song "
+        },
+        {
+          "startTime": 134624,
+          "endTime": 135073,
+          "word": "on "
+        },
+        {
+          "startTime": 135073,
+          "endTime": 135560,
+          "word": "the "
+        },
+        {
+          "startTime": 135560,
+          "endTime": 136500,
+          "word": "radio"
+        }
+      ]
+    },
+    {
+      "time": 136500,
+      "endTime": 140680,
+      "text": "Will you hold me tight and not let go?",
+      "words": [
+        {
+          "startTime": 136500,
+          "endTime": 136968,
+          "word": "Will "
+        },
+        {
+          "startTime": 136968,
+          "endTime": 137402,
+          "word": "you "
+        },
+        {
+          "startTime": 137402,
+          "endTime": 137870,
+          "word": "hold "
+        },
+        {
+          "startTime": 137870,
+          "endTime": 138271,
+          "word": "me "
+        },
+        {
+          "startTime": 138271,
+          "endTime": 138772,
+          "word": "tight "
+        },
+        {
+          "startTime": 138772,
+          "endTime": 139206,
+          "word": "and "
+        },
+        {
+          "startTime": 139206,
+          "endTime": 139640,
+          "word": "not "
+        },
+        {
+          "startTime": 139640,
+          "endTime": 140074,
+          "word": "let "
+        },
+        {
+          "startTime": 140074,
+          "endTime": 140680,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 140680,
+      "endTime": 148440,
+      "text": "Ah, ah, ah, ah-ah-ah, ah, ah, ah",
+      "words": [
+        {
+          "startTime": 140680,
+          "endTime": 141636,
+          "word": "Ah, "
+        },
+        {
+          "startTime": 141636,
+          "endTime": 142592,
+          "word": "ah, "
+        },
+        {
+          "startTime": 142592,
+          "endTime": 143548,
+          "word": "ah, "
+        },
+        {
+          "startTime": 143548,
+          "endTime": 145886,
+          "word": "ah-ah-ah, "
+        },
+        {
+          "startTime": 145886,
+          "endTime": 146842,
+          "word": "ah, "
+        },
+        {
+          "startTime": 146842,
+          "endTime": 147798,
+          "word": "ah, "
+        },
+        {
+          "startTime": 147798,
+          "endTime": 148440,
+          "word": "ah"
+        }
+      ]
+    },
+    {
+      "time": 148440,
+      "endTime": 155390,
+      "text": "Ah, ah, ah, ah-ah-ah, ah, ah, ah",
+      "words": [
+        {
+          "startTime": 148440,
+          "endTime": 149296,
+          "word": "Ah, "
+        },
+        {
+          "startTime": 149296,
+          "endTime": 150152,
+          "word": "ah, "
+        },
+        {
+          "startTime": 150152,
+          "endTime": 151008,
+          "word": "ah, "
+        },
+        {
+          "startTime": 151008,
+          "endTime": 153102,
+          "word": "ah-ah-ah, "
+        },
+        {
+          "startTime": 153102,
+          "endTime": 153958,
+          "word": "ah, "
+        },
+        {
+          "startTime": 153958,
+          "endTime": 154814,
+          "word": "ah, "
+        },
+        {
+          "startTime": 154814,
+          "endTime": 155390,
+          "word": "ah"
+        }
+      ]
+    },
+    {
+      "time": 155390,
+      "endTime": 158630,
+      "text": "And now your song is on repeat",
+      "words": [
+        {
+          "startTime": 155390,
+          "endTime": 155795,
+          "word": "And "
+        },
+        {
+          "startTime": 155795,
+          "endTime": 156200,
+          "word": "now "
+        },
+        {
+          "startTime": 156200,
+          "endTime": 156636,
+          "word": "your "
+        },
+        {
+          "startTime": 156636,
+          "endTime": 157072,
+          "word": "song "
+        },
+        {
+          "startTime": 157072,
+          "endTime": 157445,
+          "word": "is "
+        },
+        {
+          "startTime": 157445,
+          "endTime": 157818,
+          "word": "on "
+        },
+        {
+          "startTime": 157818,
+          "endTime": 158630,
+          "word": "repeat"
+        }
+      ]
+    },
+    {
+      "time": 158630,
+      "endTime": 162880,
+      "text": "And I'm dancing on to your heartbeat",
+      "words": [
+        {
+          "startTime": 158630,
+          "endTime": 159090,
+          "word": "And "
+        },
+        {
+          "startTime": 159090,
+          "endTime": 159550,
+          "word": "I'm "
+        },
+        {
+          "startTime": 159550,
+          "endTime": 160506,
+          "word": "dancing "
+        },
+        {
+          "startTime": 160506,
+          "endTime": 160930,
+          "word": "on "
+        },
+        {
+          "startTime": 160930,
+          "endTime": 161354,
+          "word": "to "
+        },
+        {
+          "startTime": 161354,
+          "endTime": 161849,
+          "word": "your "
+        },
+        {
+          "startTime": 161849,
+          "endTime": 162880,
+          "word": "heartbeat"
+        }
+      ]
+    },
+    {
+      "time": 162880,
+      "endTime": 166410,
+      "text": "And when you're gone, I feel incomplete",
+      "words": [
+        {
+          "startTime": 162880,
+          "endTime": 163238,
+          "word": "And "
+        },
+        {
+          "startTime": 163238,
+          "endTime": 163624,
+          "word": "when "
+        },
+        {
+          "startTime": 163624,
+          "endTime": 164065,
+          "word": "you're "
+        },
+        {
+          "startTime": 164065,
+          "endTime": 164616,
+          "word": "gone, "
+        },
+        {
+          "startTime": 164616,
+          "endTime": 164919,
+          "word": "I "
+        },
+        {
+          "startTime": 164919,
+          "endTime": 165305,
+          "word": "feel "
+        },
+        {
+          "startTime": 165305,
+          "endTime": 166410,
+          "word": "incomplete"
+        }
+      ]
+    },
+    {
+      "time": 166410,
+      "endTime": 168960,
+      "text": "So, if you want the truth",
+      "words": [
+        {
+          "startTime": 166410,
+          "endTime": 166950,
+          "word": "So, "
+        },
+        {
+          "startTime": 166950,
+          "endTime": 167310,
+          "word": "if "
+        },
+        {
+          "startTime": 167310,
+          "endTime": 167700,
+          "word": "you "
+        },
+        {
+          "startTime": 167700,
+          "endTime": 168120,
+          "word": "want "
+        },
+        {
+          "startTime": 168120,
+          "endTime": 168510,
+          "word": "the "
+        },
+        {
+          "startTime": 168510,
+          "endTime": 168960,
+          "word": "truth"
+        }
+      ]
+    },
+    {
+      "time": 168960,
+      "endTime": 170150,
+      "text": "Oh-oh",
+      "words": [
+        {
+          "startTime": 168960,
+          "endTime": 170150,
+          "word": "Oh-oh"
+        }
+      ]
+    },
+    {
+      "time": 170150,
+      "endTime": 175560,
+      "text": "I just wanna be part of your symphony",
+      "words": [
+        {
+          "startTime": 170150,
+          "endTime": 170575,
+          "word": "I "
+        },
+        {
+          "startTime": 170575,
+          "endTime": 171116,
+          "word": "just "
+        },
+        {
+          "startTime": 171116,
+          "endTime": 172082,
+          "word": "wanna "
+        },
+        {
+          "startTime": 172082,
+          "endTime": 172545,
+          "word": "be "
+        },
+        {
+          "startTime": 172545,
+          "endTime": 173086,
+          "word": "part "
+        },
+        {
+          "startTime": 173086,
+          "endTime": 173549,
+          "word": "of "
+        },
+        {
+          "startTime": 173549,
+          "endTime": 174090,
+          "word": "your "
+        },
+        {
+          "startTime": 174090,
+          "endTime": 175560,
+          "word": "symphony"
+        }
+      ]
+    },
+    {
+      "time": 175560,
+      "endTime": 179820,
+      "text": "Will you hold me tight and not let go?",
+      "words": [
+        {
+          "startTime": 175560,
+          "endTime": 176037,
+          "word": "Will "
+        },
+        {
+          "startTime": 176037,
+          "endTime": 176480,
+          "word": "you "
+        },
+        {
+          "startTime": 176480,
+          "endTime": 176957,
+          "word": "hold "
+        },
+        {
+          "startTime": 176957,
+          "endTime": 177365,
+          "word": "me "
+        },
+        {
+          "startTime": 177365,
+          "endTime": 177876,
+          "word": "tight "
+        },
+        {
+          "startTime": 177876,
+          "endTime": 178319,
+          "word": "and "
+        },
+        {
+          "startTime": 178319,
+          "endTime": 178762,
+          "word": "not "
+        },
+        {
+          "startTime": 178762,
+          "endTime": 179205,
+          "word": "let "
+        },
+        {
+          "startTime": 179205,
+          "endTime": 179820,
+          "word": "go?"
+        }
+      ]
+    },
+    {
+      "time": 179820,
+      "endTime": 183250,
+      "text": "Symphony",
+      "words": [
+        {
+          "startTime": 179820,
+          "endTime": 183250,
+          "word": "Symphony"
+        }
+      ]
+    },
+    {
+      "time": 183250,
+      "endTime": 187530,
+      "text": "Like a love song on the radio (oh)",
+      "words": [
+        {
+          "startTime": 183250,
+          "endTime": 183762,
+          "word": "Like "
+        },
+        {
+          "startTime": 183762,
+          "endTime": 184164,
+          "word": "a "
+        },
+        {
+          "startTime": 184164,
+          "endTime": 184676,
+          "word": "love "
+        },
+        {
+          "startTime": 184676,
+          "endTime": 185188,
+          "word": "song "
+        },
+        {
+          "startTime": 185188,
+          "endTime": 185626,
+          "word": "on "
+        },
+        {
+          "startTime": 185626,
+          "endTime": 186101,
+          "word": "the "
+        },
+        {
+          "startTime": 186101,
+          "endTime": 187015,
+          "word": "radio "
+        },
+        {
+          "startTime": 187015,
+          "endTime": 187530,
+          "word": "(oh)"
+        }
+      ]
+    },
+    {
+      "time": 187530,
+      "endTime": 191120,
+      "text": "Symphony",
+      "words": [
+        {
+          "startTime": 187530,
+          "endTime": 191120,
+          "word": "Symphony"
+        }
+      ]
+    },
+    {
+      "time": 191120,
+      "endTime": 195340,
+      "text": "Will you hold me tight and not let go? (No, no, no, no)",
+      "words": [
+        {
+          "startTime": 191120,
+          "endTime": 191426,
+          "word": "Will "
+        },
+        {
+          "startTime": 191426,
+          "endTime": 191710,
+          "word": "you "
+        },
+        {
+          "startTime": 191710,
+          "endTime": 192016,
+          "word": "hold "
+        },
+        {
+          "startTime": 192016,
+          "endTime": 192278,
+          "word": "me "
+        },
+        {
+          "startTime": 192278,
+          "endTime": 192605,
+          "word": "tight "
+        },
+        {
+          "startTime": 192605,
+          "endTime": 192889,
+          "word": "and "
+        },
+        {
+          "startTime": 192889,
+          "endTime": 193173,
+          "word": "not "
+        },
+        {
+          "startTime": 193173,
+          "endTime": 193457,
+          "word": "let "
+        },
+        {
+          "startTime": 193457,
+          "endTime": 193850,
+          "word": "go? "
+        },
+        {
+          "startTime": 193850,
+          "endTime": 194265,
+          "word": "(No, "
+        },
+        {
+          "startTime": 194265,
+          "endTime": 194658,
+          "word": "no, "
+        },
+        {
+          "startTime": 194658,
+          "endTime": 195051,
+          "word": "no, "
+        },
+        {
+          "startTime": 195051,
+          "endTime": 195340,
+          "word": "no)"
+        }
+      ]
+    },
+    {
+      "time": 195340,
+      "endTime": 198900,
+      "text": "Symphony",
+      "words": [
+        {
+          "startTime": 195340,
+          "endTime": 198900,
+          "word": "Symphony"
+        }
+      ]
+    },
+    {
+      "time": 198900,
+      "endTime": 202900,
+      "text": "Like a love song on the radio",
+      "words": [
+        {
+          "startTime": 198900,
+          "endTime": 199443,
+          "word": "Like "
+        },
+        {
+          "startTime": 199443,
+          "endTime": 199870,
+          "word": "a "
+        },
+        {
+          "startTime": 199870,
+          "endTime": 200413,
+          "word": "love "
+        },
+        {
+          "startTime": 200413,
+          "endTime": 200956,
+          "word": "song "
+        },
+        {
+          "startTime": 200956,
+          "endTime": 201422,
+          "word": "on "
+        },
+        {
+          "startTime": 201422,
+          "endTime": 201926,
+          "word": "the "
+        },
+        {
+          "startTime": 201926,
+          "endTime": 202900,
+          "word": "radio"
+        }
+      ]
+    },
+    {
+      "time": 202900,
+      "endTime": 207900,
+      "text": "Will you hold me tight and not let go?",
+      "words": [
+        {
+          "startTime": 202900,
+          "endTime": 203459,
+          "word": "Will "
+        },
+        {
+          "startTime": 203459,
+          "endTime": 203979,
+          "word": "you "
+        },
+        {
+          "startTime": 203979,
+          "endTime": 204538,
+          "word": "hold "
+        },
+        {
+          "startTime": 204538,
+          "endTime": 205017,
+          "word": "me "
+        },
+        {
+          "startTime": 205017,
+          "endTime": 205616,
+          "word": "tight "
+        },
+        {
+          "startTime": 205616,
+          "endTime": 206136,
+          "word": "and "
+        },
+        {
+          "startTime": 206136,
+          "endTime": 206656,
+          "word": "not "
+        },
+        {
+          "startTime": 206656,
+          "endTime": 207176,
+          "word": "let "
+        },
+        {
+          "startTime": 207176,
+          "endTime": 207900,
+          "word": "go?"
+        }
+      ]
+    }
+  ]
+}
