@@ -23,6 +23,14 @@
     "s": "SaWaDiKa (Official Music Video)",
     "l": "und"
   },
+  "FXxuVh9KIPs": {
+    "p": "F/X/FXxuVh9KIPs.json",
+    "t": "word",
+    "d": 257,
+    "a": "Yo Yo Honey Singh, Simar Kaur",
+    "s": "Laal Pari",
+    "l": "und"
+  },
   "FXovf5dsRTw": {
     "p": "F/X/FXovf5dsRTw.json",
     "t": "word",
@@ -71,6 +79,14 @@
     "s": "Whine in Brazil",
     "l": "und"
   },
+  "zv-tbc4F818": {
+    "p": "z/v/zv-tbc4F818.json",
+    "t": "word",
+    "d": 304,
+    "a": "Pritam, KK, Sayeed Quadri",
+    "s": "Zara Sa (From \"Jannat\")",
+    "l": "und"
+  },
   "zgaCZOQCpp8": {
     "p": "z/g/zgaCZOQCpp8.json",
     "t": "word",
@@ -101,6 +117,14 @@
     "d": 236,
     "a": "Maroon 5",
     "s": "Sugar",
+    "l": "und"
+  },
+  "wEG8y7r4aY4": {
+    "p": "w/E/wEG8y7r4aY4.json",
+    "t": "word",
+    "d": 170,
+    "a": "Mitraz",
+    "s": "Gulaab",
     "l": "und"
   },
   "pS5d77DQHOI": {
@@ -151,6 +175,22 @@
     "s": "Rasputin",
     "l": "und"
   },
+  "YALvuUpY_b0": {
+    "p": "Y/A/YALvuUpY_b0.json",
+    "t": "word",
+    "d": 262,
+    "a": "Arijit Singh, Sachin-Jigar",
+    "s": "Apna Bana Le (From \"Bhediya\")",
+    "l": "und"
+  },
+  "YyepU5ztLf4": {
+    "p": "Y/y/YyepU5ztLf4.json",
+    "t": "word",
+    "d": 229,
+    "a": "Madhubanti Bagchi, Jasmine Sandlas, Shashwat Sachdev",
+    "s": "Shararat",
+    "l": "und"
+  },
   "Y3jq_WIHP9k": {
     "p": "Y/3/Y3jq_WIHP9k.json",
     "t": "word",
@@ -159,12 +199,28 @@
     "s": "Dai Dai (SPINALL Remix)",
     "l": "und"
   },
+  "lLM6pPrrAvQ": {
+    "p": "l/L/lLM6pPrrAvQ.json",
+    "t": "word",
+    "d": 172,
+    "a": "Mitraz",
+    "s": "Akhiyaan Gulaab",
+    "l": "und"
+  },
   "lNM9HlEK4q4": {
     "p": "l/N/lNM9HlEK4q4.json",
     "t": "word",
     "d": 194,
     "a": "Alan Walker",
     "s": "The Spectre",
+    "l": "und"
+  },
+  "l0GIgDlIs3U": {
+    "p": "l/0/l0GIgDlIs3U.json",
+    "t": "word",
+    "d": 252,
+    "a": "Neeraj Shridhar, Tulsi Kumar",
+    "s": "Nachange Saari Raat (feat. Neeraj Shridhar & Tulsi Kumar)",
     "l": "und"
   },
   "lmG0kY9FtRY": {
@@ -181,6 +237,14 @@
     "d": -1,
     "a": "KAROL G, Judeline, & rusowsky",
     "s": "BbY WOW",
+    "l": "und"
+  },
+  "ljosE95uBOU": {
+    "p": "l/j/ljosE95uBOU.json",
+    "t": "word",
+    "d": 175,
+    "a": "Neha Kakkar, Tanishk Bagchi",
+    "s": "Gali Gali (From \"Kgf Chapter 1\")",
     "l": "und"
   },
   "lW9ep22YmlM": {
@@ -327,6 +391,14 @@
     "s": "Alors on danse (Radio Edit)",
     "l": "und"
   },
+  "gcYGwcUmjZo": {
+    "p": "g/c/gcYGwcUmjZo.json",
+    "t": "word",
+    "d": 179,
+    "a": "Sachin-Jigar, Pawan Singh, Divya Kumar, Simran Choudhary",
+    "s": "Aayi Nai (From \"Stree 2\")",
+    "l": "und"
+  },
   "gCYcHz2k5x0": {
     "p": "g/C/gCYcHz2k5x0.json",
     "t": "word",
@@ -341,6 +413,14 @@
     "d": 179,
     "a": "Trillex Music Group",
     "s": "LE SSERAFIM, ILLIT, KATSEYE - ICONIC BY MISTAKE (Lyrics)",
+    "l": "und"
+  },
+  "EaJV10DCnEM": {
+    "p": "E/a/EaJV10DCnEM.json",
+    "t": "word",
+    "d": 277,
+    "a": "Arijit Singh, Neha Kakkar, Meet Bros",
+    "s": "Main Tera Boyfriend (From \"Raabta\")",
     "l": "und"
   },
   "2cnloO84LA0": {
@@ -399,6 +479,22 @@
     "s": "Señorita",
     "l": "und"
   },
+  "PX8xRpqh5VA": {
+    "p": "P/X/PX8xRpqh5VA.json",
+    "t": "word",
+    "d": 181,
+    "a": "Badshah, Asees Kaur, Jubin Nautiyal, Tanishk Bagchi",
+    "s": "Akh Lad Jaave (From \"Loveyatri\")",
+    "l": "und"
+  },
+  "P4UnrmPFPA4": {
+    "p": "P/4/P4UnrmPFPA4.json",
+    "t": "word",
+    "d": 156,
+    "a": "Shashwat Sachdev, Afsana Khan, Reble, Irshad Kamil",
+    "s": "Naal Nachna (From \"Dhurandhar\")",
+    "l": "und"
+  },
   "LIIDh-qI9oI": {
     "p": "L/I/LIIDh-qI9oI.json",
     "t": "word",
@@ -437,6 +533,14 @@
     "d": 167,
     "a": "Tommy Richman",
     "s": "MILLION DOLLAR BABY",
+    "l": "und"
+  },
+  "ZI3R0Gn5sa8": {
+    "p": "Z/I/ZI3R0Gn5sa8.json",
+    "t": "word",
+    "d": 238,
+    "a": "Vishal and Sheykhar, Arijit Singh",
+    "s": "Nashe Si Chadh Gayi (From \"Befikre\")",
     "l": "und"
   },
   "rzJV_VEl-0k": {
@@ -567,6 +671,14 @@
     "s": "PASSO BEM SOLTO (Slowed)",
     "l": "und"
   },
+  "N6_EvGT0ZfM": {
+    "p": "N/6/N6_EvGT0ZfM.json",
+    "t": "word",
+    "d": 208,
+    "a": "Karan Aujla",
+    "s": "Tauba Tauba (From \"Bad Newz\")",
+    "l": "und"
+  },
   "NaaiI1y9QIo": {
     "p": "N/a/NaaiI1y9QIo.json",
     "t": "word",
@@ -581,6 +693,14 @@
     "d": 179,
     "a": "Creative Chaos",
     "s": "Kendrick Lamar - luther (Lyrics) ft. SZA",
+    "l": "und"
+  },
+  "IgITZfS7L_8": {
+    "p": "I/g/IgITZfS7L_8.json",
+    "t": "word",
+    "d": 330,
+    "a": "Kk",
+    "s": "Dil Ibaadat",
     "l": "und"
   },
   "IkL-RjXJLv0": {
@@ -607,12 +727,28 @@
     "s": "JUMP",
     "l": "und"
   },
+  "CLWxENur-eI": {
+    "p": "C/L/CLWxENur-eI.json",
+    "t": "word",
+    "d": 185,
+    "a": "Vishal-Shekhar, Asees Kaur, Dev Negi",
+    "s": "Deedar De",
+    "l": "und"
+  },
   "CXU7Xlf8wTI": {
     "p": "C/X/CXU7Xlf8wTI.json",
     "t": "word",
     "d": 212,
     "a": "Alan Walker, Au/Ra, Tomine Harket",
     "s": "Darkside",
+    "l": "und"
+  },
+  "CK5dtbG19mo": {
+    "p": "C/K/CK5dtbG19mo.json",
+    "t": "word",
+    "d": 188,
+    "a": "Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi",
+    "s": "Kala Chashma",
     "l": "und"
   },
   "xTvyyoF_LZY": {
@@ -687,6 +823,14 @@
     "s": "“Takedown” KPop Demon Hunters (Soundtrack from the Netflix Film) | HUNTR/X",
     "l": "und"
   },
+  "V_jp5_VAzXk": {
+    "p": "V/_/V_jp5_VAzXk.json",
+    "t": "word",
+    "d": 201,
+    "a": "Arijit Singh, Shilpa Rao",
+    "s": "Chaleya",
+    "l": "und"
+  },
   "VKC_hzJ3jzg": {
     "p": "V/K/VKC_hzJ3jzg.json",
     "t": "word",
@@ -743,6 +887,22 @@
     "s": "Girls Like You (Cardi B Version) (feat. Cardi B)",
     "l": "und"
   },
+  "XPu9ZE4Onzc": {
+    "p": "X/P/XPu9ZE4Onzc.json",
+    "t": "word",
+    "d": 267,
+    "a": "K.K.",
+    "s": "Kya Mujhe Pyar Hai",
+    "l": "und"
+  },
+  "XAJSWVvgR2M": {
+    "p": "X/A/XAJSWVvgR2M.json",
+    "t": "word",
+    "d": 180,
+    "a": "AASTHA, BADSHAH",
+    "s": "ABHI TOH PARTY SHURU HUI HAI",
+    "l": "und"
+  },
   "XfEMj-z3TtA": {
     "p": "X/f/XfEMj-z3TtA.json",
     "t": "word",
@@ -783,6 +943,14 @@
     "s": "Nevada (feat. Cozi Zuehlsdorff)",
     "l": "und"
   },
+  "hopgTVPlo_8": {
+    "p": "h/o/hopgTVPlo_8.json",
+    "t": "word",
+    "d": 160,
+    "a": "Shreya Ghoshal, Rajat Nagpal, Freebot, Karl Wine",
+    "s": "Besos",
+    "l": "und"
+  },
   "hJWSZDJb-W4": {
     "p": "h/J/hJWSZDJb-W4.json",
     "t": "word",
@@ -799,6 +967,14 @@
     "s": "Counting Stars",
     "l": "und"
   },
+  "-60Bl9h7u5g": {
+    "p": "_/6/-60Bl9h7u5g.json",
+    "t": "word",
+    "d": 188,
+    "a": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "s": "Kamariya (From \"Stree\")",
+    "l": "und"
+  },
   "-SttFgyRNCI": {
     "p": "_/S/-SttFgyRNCI.json",
     "t": "word",
@@ -807,12 +983,36 @@
     "s": "Symphony (feat. Zara Larsson)",
     "l": "und"
   },
+  "qGHDQ0JrUy0": {
+    "p": "q/G/qGHDQ0JrUy0.json",
+    "t": "word",
+    "d": 189,
+    "a": "Jasmine Sandlas, Garry Sandhu, Tanishk Bagchi, Intense",
+    "s": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+    "l": "und"
+  },
   "qSay_8xzijg": {
     "p": "q/S/qSay_8xzijg.json",
     "t": "word",
     "d": 188,
     "a": "Shawn Mendes",
     "s": "Treat You Better",
+    "l": "und"
+  },
+  "q_rtuBQRQfc": {
+    "p": "q/_/q_rtuBQRQfc.json",
+    "t": "word",
+    "d": 254,
+    "a": "Amit Trivedi, Madhubanti Bagchi, Amitabh Bhattacharya",
+    "s": "Uyi Amma (From \"Azaad\")",
+    "l": "und"
+  },
+  "qny5OwwoYVE": {
+    "p": "q/n/qny5OwwoYVE.json",
+    "t": "word",
+    "d": 276,
+    "a": "Yo Yo Honey Singh",
+    "s": "Lungi Dance (From \"Chennai Express\")",
     "l": "und"
   },
   "o2eD7WNYqfQ": {
@@ -831,6 +1031,14 @@
     "s": "夜に駆ける (Racing into the Night)",
     "l": "ja"
   },
+  "tRUVJ_3DUI0": {
+    "p": "t/R/tRUVJ_3DUI0.json",
+    "t": "word",
+    "d": 196,
+    "a": "Zahrah S Khan, Dev Negi",
+    "s": "Kusu Kusu",
+    "l": "und"
+  },
   "tvTRZJ-4EyI": {
     "p": "t/v/tvTRZJ-4EyI.json",
     "t": "word",
@@ -839,12 +1047,28 @@
     "s": "HUMBLE.",
     "l": "und"
   },
+  "tNc2coVC2aw": {
+    "p": "t/N/tNc2coVC2aw.json",
+    "t": "word",
+    "d": 191,
+    "a": "Aditya Rikhari",
+    "s": "Sahiba",
+    "l": "und"
+  },
   "mzB1VGEGcSU": {
     "p": "m/z/mzB1VGEGcSU.json",
     "t": "word",
     "d": 231,
     "a": "Juice WRLD",
     "s": "Lucid Dreams",
+    "l": "und"
+  },
+  "mVWekQAP7vQ": {
+    "p": "m/V/mVWekQAP7vQ.json",
+    "t": "word",
+    "d": 190,
+    "a": "Varun Jain, Sachin-Jigar, Shadab Faridi, Altamash Faridi, and Amitabh Bhattacharya",
+    "s": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
     "l": "und"
   },
   "mVw5KiGwqaQ": {
@@ -927,6 +1151,30 @@
     "s": "I Wanna Be Yours",
     "l": "und"
   },
+  "nqsBspRl5Ok": {
+    "p": "n/q/nqsBspRl5Ok.json",
+    "t": "word",
+    "d": 188,
+    "a": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar",
+    "s": "Kar Gayi Chull (From \"Kapoor & Sons (Since 1921)\")",
+    "l": "und"
+  },
+  "3l6P4CM_Cqg": {
+    "p": "3/l/3l6P4CM_Cqg.json",
+    "t": "word",
+    "d": 170,
+    "a": "Sachin-Jigar, Rashmeet Kaur, Jigar Saraiya, Amitabh Bhattacharya",
+    "s": "Dilbar Ki Aankhon Ka (From \"Thamma\")",
+    "l": "und"
+  },
+  "3CDOd4GdcUQ": {
+    "p": "3/C/3CDOd4GdcUQ.json",
+    "t": "word",
+    "d": 227,
+    "a": "Anand Raj Anand",
+    "s": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
+    "l": "und"
+  },
   "3x2ABSAMVno": {
     "p": "3/x/3x2ABSAMVno.json",
     "t": "word",
@@ -981,6 +1229,14 @@
     "d": 191,
     "a": "Avicii",
     "s": "The Nights",
+    "l": "und"
+  },
+  "jTAvdBi2jz4": {
+    "p": "j/T/jTAvdBi2jz4.json",
+    "t": "word",
+    "d": 172,
+    "a": "Badshah, Sharvi Yadav, Hiten",
+    "s": "Morni",
     "l": "und"
   },
   "jVBsM8CM0AE": {
@@ -1039,6 +1295,14 @@
     "s": "Cheap Thrills",
     "l": "und"
   },
+  "KKLX4C-P_XM": {
+    "p": "K/K/KKLX4C-P_XM.json",
+    "t": "word",
+    "d": 244,
+    "a": "Yo Yo Honey Singh, Neha Kakkar",
+    "s": "Sunny Sunny",
+    "l": "und"
+  },
   "KWuyx6yZ21U": {
     "p": "K/W/KWuyx6yZ21U.json",
     "t": "word",
@@ -1069,6 +1333,14 @@
     "d": 223,
     "a": "Clean Bandit",
     "s": "Solo (feat. Demi Lovato)",
+    "l": "und"
+  },
+  "12pMB_mCBOo": {
+    "p": "1/2/12pMB_mCBOo.json",
+    "t": "word",
+    "d": 342,
+    "a": "Pritam, K.K., Sayeed Quadri",
+    "s": "Labon Ko",
     "l": "und"
   },
   "W9qM-Qfj7RQ": {
@@ -1175,6 +1447,14 @@
     "s": "Dancin (Krono Remix) (feat. Luvli)",
     "l": "und"
   },
+  "JdjFD0Rp-rQ": {
+    "p": "J/d/JdjFD0Rp-rQ.json",
+    "t": "word",
+    "d": 165,
+    "a": "Sachin-Jigar, Rashmeet Kaur, Shamur, I.P. Singh",
+    "s": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
+    "l": "und"
+  },
   "J7p4bzqLvCw": {
     "p": "J/7/J7p4bzqLvCw.json",
     "t": "word",
@@ -1199,12 +1479,36 @@
     "s": "death bed (coffee for your head)",
     "l": "und"
   },
+  "J_d_Q3pTYcc": {
+    "p": "J/_/J_d_Q3pTYcc.json",
+    "t": "word",
+    "d": 174,
+    "a": "Anu Malik, Akshay & IP, IP Singh, Jonita Gandhi",
+    "s": "Chunnari Chunnari - Let's go",
+    "l": "und"
+  },
+  "4z7lleHELTM": {
+    "p": "4/z/4z7lleHELTM.json",
+    "t": "word",
+    "d": 198,
+    "a": "Sukhbir, Tulsi Kumar, Yash Narvekar, Priyani Vani",
+    "s": "Punjabi Munde",
+    "l": "und"
+  },
   "4u4d4GWdpo8": {
     "p": "4/u/4u4d4GWdpo8.json",
     "t": "word",
     "d": 196,
     "a": "Martin Garrix, Bebe Rexha",
     "s": "In the Name of Love",
+    "l": "und"
+  },
+  "4VwtfInG-LU": {
+    "p": "4/V/4VwtfInG-LU.json",
+    "t": "word",
+    "d": 195,
+    "a": "Jasleen Royal, Arijit Singh",
+    "s": "Heeriye",
     "l": "und"
   },
   "4nivniaycwQ": {

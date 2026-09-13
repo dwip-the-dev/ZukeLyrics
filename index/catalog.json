@@ -30,6 +30,16 @@
     "path": "lyrics-database/F/y/FyS5dAywkEo.json"
   },
   {
+    "videoId": "FXxuVh9KIPs",
+    "title": "Laal Pari",
+    "artist": "Yo Yo Honey Singh, Simar Kaur",
+    "duration": 257,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 107,
+    "path": "lyrics-database/F/X/FXxuVh9KIPs.json"
+  },
+  {
     "videoId": "FXovf5dsRTw",
     "title": "Despacito",
     "artist": "Luis Fonsi, Daddy Yankee",
@@ -90,6 +100,16 @@
     "path": "lyrics-database/G/k/GkI9X5g9nKc.json"
   },
   {
+    "videoId": "zv-tbc4F818",
+    "title": "Zara Sa (From \"Jannat\")",
+    "artist": "Pritam, KK, Sayeed Quadri",
+    "duration": 304,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 33,
+    "path": "lyrics-database/z/v/zv-tbc4F818.json"
+  },
+  {
     "videoId": "zgaCZOQCpp8",
     "title": "Die With A Smile",
     "artist": "Lady Gaga, Bruno Mars",
@@ -128,6 +148,16 @@
     "syncedType": "word",
     "linesCount": 91,
     "path": "lyrics-database/w/S/wSOc5jmvF-k.json"
+  },
+  {
+    "videoId": "wEG8y7r4aY4",
+    "title": "Gulaab",
+    "artist": "Mitraz",
+    "duration": 170,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 26,
+    "path": "lyrics-database/w/E/wEG8y7r4aY4.json"
   },
   {
     "videoId": "pS5d77DQHOI",
@@ -190,6 +220,26 @@
     "path": "lyrics-database/Y/2/Y2_hKPShcpY.json"
   },
   {
+    "videoId": "YALvuUpY_b0",
+    "title": "Apna Bana Le (From \"Bhediya\")",
+    "artist": "Arijit Singh, Sachin-Jigar",
+    "duration": 262,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 36,
+    "path": "lyrics-database/Y/A/YALvuUpY_b0.json"
+  },
+  {
+    "videoId": "YyepU5ztLf4",
+    "title": "Shararat",
+    "artist": "Madhubanti Bagchi, Jasmine Sandlas, Shashwat Sachdev",
+    "duration": 229,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 47,
+    "path": "lyrics-database/Y/y/YyepU5ztLf4.json"
+  },
+  {
     "videoId": "Y3jq_WIHP9k",
     "title": "Dai Dai (SPINALL Remix)",
     "artist": "Shakira, Burna Boy, SPINALL",
@@ -200,6 +250,16 @@
     "path": "lyrics-database/Y/3/Y3jq_WIHP9k.json"
   },
   {
+    "videoId": "lLM6pPrrAvQ",
+    "title": "Akhiyaan Gulaab",
+    "artist": "Mitraz",
+    "duration": 172,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 38,
+    "path": "lyrics-database/l/L/lLM6pPrrAvQ.json"
+  },
+  {
     "videoId": "lNM9HlEK4q4",
     "title": "The Spectre",
     "artist": "Alan Walker",
@@ -208,6 +268,16 @@
     "syncedType": "word",
     "linesCount": 29,
     "path": "lyrics-database/l/N/lNM9HlEK4q4.json"
+  },
+  {
+    "videoId": "l0GIgDlIs3U",
+    "title": "Nachange Saari Raat (feat. Neeraj Shridhar & Tulsi Kumar)",
+    "artist": "Neeraj Shridhar, Tulsi Kumar",
+    "duration": 252,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 81,
+    "path": "lyrics-database/l/0/l0GIgDlIs3U.json"
   },
   {
     "videoId": "lmG0kY9FtRY",
@@ -228,6 +298,16 @@
     "syncedType": "word",
     "linesCount": 66,
     "path": "lyrics-database/l/j/ljAH6jNaApU.json"
+  },
+  {
+    "videoId": "ljosE95uBOU",
+    "title": "Gali Gali (From \"Kgf Chapter 1\")",
+    "artist": "Neha Kakkar, Tanishk Bagchi",
+    "duration": 175,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 30,
+    "path": "lyrics-database/l/j/ljosE95uBOU.json"
   },
   {
     "videoId": "lW9ep22YmlM",
@@ -410,6 +490,16 @@
     "path": "lyrics-database/S/X/SXoQHp2cQQc.json"
   },
   {
+    "videoId": "gcYGwcUmjZo",
+    "title": "Aayi Nai (From \"Stree 2\")",
+    "artist": "Sachin-Jigar, Pawan Singh, Divya Kumar, Simran Choudhary",
+    "duration": 179,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 39,
+    "path": "lyrics-database/g/c/gcYGwcUmjZo.json"
+  },
+  {
     "videoId": "gCYcHz2k5x0",
     "title": "Animals",
     "artist": "Martin Garrix",
@@ -428,6 +518,16 @@
     "syncedType": "word",
     "linesCount": 79,
     "path": "lyrics-database/E/t/EtHBkSIrRok.json"
+  },
+  {
+    "videoId": "EaJV10DCnEM",
+    "title": "Main Tera Boyfriend (From \"Raabta\")",
+    "artist": "Arijit Singh, Neha Kakkar, Meet Bros",
+    "duration": 277,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 85,
+    "path": "lyrics-database/E/a/EaJV10DCnEM.json"
   },
   {
     "videoId": "2cnloO84LA0",
@@ -500,6 +600,26 @@
     "path": "lyrics-database/P/k/Pkh8UtuejGw.json"
   },
   {
+    "videoId": "PX8xRpqh5VA",
+    "title": "Akh Lad Jaave (From \"Loveyatri\")",
+    "artist": "Badshah, Asees Kaur, Jubin Nautiyal, Tanishk Bagchi",
+    "duration": 181,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 51,
+    "path": "lyrics-database/P/X/PX8xRpqh5VA.json"
+  },
+  {
+    "videoId": "P4UnrmPFPA4",
+    "title": "Naal Nachna (From \"Dhurandhar\")",
+    "artist": "Shashwat Sachdev, Afsana Khan, Reble, Irshad Kamil",
+    "duration": 156,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 35,
+    "path": "lyrics-database/P/4/P4UnrmPFPA4.json"
+  },
+  {
     "videoId": "LIIDh-qI9oI",
     "title": "Save Your Tears (Remix) (Official Video)",
     "artist": "Ariana Grande, The Weeknd",
@@ -548,6 +668,16 @@
     "syncedType": "word",
     "linesCount": 40,
     "path": "lyrics-database/Z/f/Zf1d8SGuxfs.json"
+  },
+  {
+    "videoId": "ZI3R0Gn5sa8",
+    "title": "Nashe Si Chadh Gayi (From \"Befikre\")",
+    "artist": "Vishal and Sheykhar, Arijit Singh",
+    "duration": 238,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 70,
+    "path": "lyrics-database/Z/I/ZI3R0Gn5sa8.json"
   },
   {
     "videoId": "rzJV_VEl-0k",
@@ -710,6 +840,16 @@
     "path": "lyrics-database/N/T/NT4eF9YsYnM.json"
   },
   {
+    "videoId": "N6_EvGT0ZfM",
+    "title": "Tauba Tauba (From \"Bad Newz\")",
+    "artist": "Karan Aujla",
+    "duration": 208,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 51,
+    "path": "lyrics-database/N/6/N6_EvGT0ZfM.json"
+  },
+  {
     "videoId": "NaaiI1y9QIo",
     "title": "Break My Heart",
     "artist": "Dua Lipa",
@@ -728,6 +868,16 @@
     "syncedType": "word",
     "linesCount": 51,
     "path": "lyrics-database/0/v/0vPdpUiVWi8.json"
+  },
+  {
+    "videoId": "IgITZfS7L_8",
+    "title": "Dil Ibaadat",
+    "artist": "Kk",
+    "duration": 330,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 34,
+    "path": "lyrics-database/I/g/IgITZfS7L_8.json"
   },
   {
     "videoId": "IkL-RjXJLv0",
@@ -760,6 +910,16 @@
     "path": "lyrics-database/C/g/CgCVZdcKcqY.json"
   },
   {
+    "videoId": "CLWxENur-eI",
+    "title": "Deedar De",
+    "artist": "Vishal-Shekhar, Asees Kaur, Dev Negi",
+    "duration": 185,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 46,
+    "path": "lyrics-database/C/L/CLWxENur-eI.json"
+  },
+  {
     "videoId": "CXU7Xlf8wTI",
     "title": "Darkside",
     "artist": "Alan Walker, Au/Ra, Tomine Harket",
@@ -768,6 +928,16 @@
     "syncedType": "word",
     "linesCount": 51,
     "path": "lyrics-database/C/X/CXU7Xlf8wTI.json"
+  },
+  {
+    "videoId": "CK5dtbG19mo",
+    "title": "Kala Chashma",
+    "artist": "Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi",
+    "duration": 188,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 55,
+    "path": "lyrics-database/C/K/CK5dtbG19mo.json"
   },
   {
     "videoId": "xTvyyoF_LZY",
@@ -860,6 +1030,16 @@
     "path": "lyrics-database/V/e/Ve_a9CXjlQc.json"
   },
   {
+    "videoId": "V_jp5_VAzXk",
+    "title": "Chaleya",
+    "artist": "Arijit Singh, Shilpa Rao",
+    "duration": 201,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 58,
+    "path": "lyrics-database/V/_/V_jp5_VAzXk.json"
+  },
+  {
     "videoId": "VKC_hzJ3jzg",
     "title": "Señorita",
     "artist": "Shawn Mendes, Camila Cabello",
@@ -930,6 +1110,26 @@
     "path": "lyrics-database/X/D/XDbW5bXrm7I.json"
   },
   {
+    "videoId": "XPu9ZE4Onzc",
+    "title": "Kya Mujhe Pyar Hai",
+    "artist": "K.K.",
+    "duration": 267,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 61,
+    "path": "lyrics-database/X/P/XPu9ZE4Onzc.json"
+  },
+  {
+    "videoId": "XAJSWVvgR2M",
+    "title": "ABHI TOH PARTY SHURU HUI HAI",
+    "artist": "AASTHA, BADSHAH",
+    "duration": 180,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 62,
+    "path": "lyrics-database/X/A/XAJSWVvgR2M.json"
+  },
+  {
     "videoId": "XfEMj-z3TtA",
     "title": "STAY",
     "artist": "The Kid LAROI, Justin Bieber",
@@ -980,6 +1180,16 @@
     "path": "lyrics-database/h/V/hV-8xBnyVlY.json"
   },
   {
+    "videoId": "hopgTVPlo_8",
+    "title": "Besos",
+    "artist": "Shreya Ghoshal, Rajat Nagpal, Freebot, Karl Wine",
+    "duration": 160,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 41,
+    "path": "lyrics-database/h/o/hopgTVPlo_8.json"
+  },
+  {
     "videoId": "hJWSZDJb-W4",
     "title": "Bad Habits",
     "artist": "Ed Sheeran",
@@ -1000,6 +1210,16 @@
     "path": "lyrics-database/_/G/_GWKkqNoyEA.json"
   },
   {
+    "videoId": "-60Bl9h7u5g",
+    "title": "Kamariya (From \"Stree\")",
+    "artist": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "duration": 188,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 56,
+    "path": "lyrics-database/_/6/-60Bl9h7u5g.json"
+  },
+  {
     "videoId": "-SttFgyRNCI",
     "title": "Symphony (feat. Zara Larsson)",
     "artist": "Clean Bandit",
@@ -1010,6 +1230,16 @@
     "path": "lyrics-database/_/S/-SttFgyRNCI.json"
   },
   {
+    "videoId": "qGHDQ0JrUy0",
+    "title": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+    "artist": "Jasmine Sandlas, Garry Sandhu, Tanishk Bagchi, Intense",
+    "duration": 189,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 37,
+    "path": "lyrics-database/q/G/qGHDQ0JrUy0.json"
+  },
+  {
     "videoId": "qSay_8xzijg",
     "title": "Treat You Better",
     "artist": "Shawn Mendes",
@@ -1018,6 +1248,26 @@
     "syncedType": "word",
     "linesCount": 37,
     "path": "lyrics-database/q/S/qSay_8xzijg.json"
+  },
+  {
+    "videoId": "q_rtuBQRQfc",
+    "title": "Uyi Amma (From \"Azaad\")",
+    "artist": "Amit Trivedi, Madhubanti Bagchi, Amitabh Bhattacharya",
+    "duration": 254,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 51,
+    "path": "lyrics-database/q/_/q_rtuBQRQfc.json"
+  },
+  {
+    "videoId": "qny5OwwoYVE",
+    "title": "Lungi Dance (From \"Chennai Express\")",
+    "artist": "Yo Yo Honey Singh",
+    "duration": 276,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 75,
+    "path": "lyrics-database/q/n/qny5OwwoYVE.json"
   },
   {
     "videoId": "o2eD7WNYqfQ",
@@ -1040,6 +1290,16 @@
     "path": "lyrics-database/b/y/by4SYYWlhVE.json"
   },
   {
+    "videoId": "tRUVJ_3DUI0",
+    "title": "Kusu Kusu",
+    "artist": "Zahrah S Khan, Dev Negi",
+    "duration": 196,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 48,
+    "path": "lyrics-database/t/R/tRUVJ_3DUI0.json"
+  },
+  {
     "videoId": "tvTRZJ-4EyI",
     "title": "HUMBLE.",
     "artist": "Kendrick Lamar",
@@ -1050,6 +1310,16 @@
     "path": "lyrics-database/t/v/tvTRZJ-4EyI.json"
   },
   {
+    "videoId": "tNc2coVC2aw",
+    "title": "Sahiba",
+    "artist": "Aditya Rikhari",
+    "duration": 191,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 26,
+    "path": "lyrics-database/t/N/tNc2coVC2aw.json"
+  },
+  {
     "videoId": "mzB1VGEGcSU",
     "title": "Lucid Dreams",
     "artist": "Juice WRLD",
@@ -1058,6 +1328,16 @@
     "syncedType": "word",
     "linesCount": 70,
     "path": "lyrics-database/m/z/mzB1VGEGcSU.json"
+  },
+  {
+    "videoId": "mVWekQAP7vQ",
+    "title": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
+    "artist": "Varun Jain, Sachin-Jigar, Shadab Faridi, Altamash Faridi, and Amitabh Bhattacharya",
+    "duration": 190,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 33,
+    "path": "lyrics-database/m/V/mVWekQAP7vQ.json"
   },
   {
     "videoId": "mVw5KiGwqaQ",
@@ -1160,6 +1440,36 @@
     "path": "lyrics-database/n/y/nyuo9-OjNNg.json"
   },
   {
+    "videoId": "nqsBspRl5Ok",
+    "title": "Kar Gayi Chull (From \"Kapoor & Sons (Since 1921)\")",
+    "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar",
+    "duration": 188,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 57,
+    "path": "lyrics-database/n/q/nqsBspRl5Ok.json"
+  },
+  {
+    "videoId": "3l6P4CM_Cqg",
+    "title": "Dilbar Ki Aankhon Ka (From \"Thamma\")",
+    "artist": "Sachin-Jigar, Rashmeet Kaur, Jigar Saraiya, Amitabh Bhattacharya",
+    "duration": 170,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 25,
+    "path": "lyrics-database/3/l/3l6P4CM_Cqg.json"
+  },
+  {
+    "videoId": "3CDOd4GdcUQ",
+    "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
+    "artist": "Anand Raj Anand",
+    "duration": 227,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 65,
+    "path": "lyrics-database/3/C/3CDOd4GdcUQ.json"
+  },
+  {
     "videoId": "3x2ABSAMVno",
     "title": "Shot Me Down (feat. Skylar Grey)",
     "artist": "David Guetta",
@@ -1228,6 +1538,16 @@
     "syncedType": "word",
     "linesCount": 37,
     "path": "lyrics-database/U/t/UtF6Jej8yb4.json"
+  },
+  {
+    "videoId": "jTAvdBi2jz4",
+    "title": "Morni",
+    "artist": "Badshah, Sharvi Yadav, Hiten",
+    "duration": 172,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 50,
+    "path": "lyrics-database/j/T/jTAvdBi2jz4.json"
   },
   {
     "videoId": "jVBsM8CM0AE",
@@ -1300,6 +1620,16 @@
     "path": "lyrics-database/K/_/K_idN3P5_yk.json"
   },
   {
+    "videoId": "KKLX4C-P_XM",
+    "title": "Sunny Sunny",
+    "artist": "Yo Yo Honey Singh, Neha Kakkar",
+    "duration": 244,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 59,
+    "path": "lyrics-database/K/K/KKLX4C-P_XM.json"
+  },
+  {
     "videoId": "KWuyx6yZ21U",
     "title": "A Sky Full of Stars",
     "artist": "Coldplay",
@@ -1338,6 +1668,16 @@
     "syncedType": "word",
     "linesCount": 103,
     "path": "lyrics-database/1/E/1ELDTrpecTU.json"
+  },
+  {
+    "videoId": "12pMB_mCBOo",
+    "title": "Labon Ko",
+    "artist": "Pritam, K.K., Sayeed Quadri",
+    "duration": 342,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 58,
+    "path": "lyrics-database/1/2/12pMB_mCBOo.json"
   },
   {
     "videoId": "W9qM-Qfj7RQ",
@@ -1470,6 +1810,16 @@
     "path": "lyrics-database/M/n/Mnu5-meFyfI.json"
   },
   {
+    "videoId": "JdjFD0Rp-rQ",
+    "title": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
+    "artist": "Sachin-Jigar, Rashmeet Kaur, Shamur, I.P. Singh",
+    "duration": 165,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 59,
+    "path": "lyrics-database/J/d/JdjFD0Rp-rQ.json"
+  },
+  {
     "videoId": "J7p4bzqLvCw",
     "title": "Blinding Lights",
     "artist": "The Weeknd",
@@ -1500,6 +1850,26 @@
     "path": "lyrics-database/J/A/JApegyYlvyY.json"
   },
   {
+    "videoId": "J_d_Q3pTYcc",
+    "title": "Chunnari Chunnari - Let's go",
+    "artist": "Anu Malik, Akshay & IP, IP Singh, Jonita Gandhi",
+    "duration": 174,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 37,
+    "path": "lyrics-database/J/_/J_d_Q3pTYcc.json"
+  },
+  {
+    "videoId": "4z7lleHELTM",
+    "title": "Punjabi Munde",
+    "artist": "Sukhbir, Tulsi Kumar, Yash Narvekar, Priyani Vani",
+    "duration": 198,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 46,
+    "path": "lyrics-database/4/z/4z7lleHELTM.json"
+  },
+  {
     "videoId": "4u4d4GWdpo8",
     "title": "In the Name of Love",
     "artist": "Martin Garrix, Bebe Rexha",
@@ -1508,6 +1878,16 @@
     "syncedType": "word",
     "linesCount": 45,
     "path": "lyrics-database/4/u/4u4d4GWdpo8.json"
+  },
+  {
+    "videoId": "4VwtfInG-LU",
+    "title": "Heeriye",
+    "artist": "Jasleen Royal, Arijit Singh",
+    "duration": 195,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 30,
+    "path": "lyrics-database/4/V/4VwtfInG-LU.json"
   },
   {
     "videoId": "4nivniaycwQ",
