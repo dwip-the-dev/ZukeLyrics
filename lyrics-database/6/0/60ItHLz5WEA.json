@@ -1,0 +1,1258 @@
+{
+  "videoId": "60ItHLz5WEA",
+  "title": "Faded",
+  "artist": "Alan Walker",
+  "duration": 213,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:11.040\" end=\"00:14.002\" ttm:agent=\"v1\">\n        <span begin=\"00:11.044\" end=\"00:11.406\">You<\/span>\n        <span begin=\"00:11.406\" end=\"00:11.835\">were<\/span>\n        <span begin=\"00:11.835\" end=\"00:11.978\">the<\/span>\n        <span begin=\"00:11.978\" end=\"00:12.846\">shadow<\/span>\n        <span begin=\"00:12.846\" end=\"00:13.173\">to<\/span>\n        <span begin=\"00:13.173\" end=\"00:13.512\">my<\/span>\n        <span begin=\"00:13.512\" end=\"00:14.002\">light<\/span>\n      <\/p>\n      <p begin=\"00:14.000\" end=\"00:16.250\" ttm:agent=\"v1\">\n        <span begin=\"00:14.002\" end=\"00:14.493\">Did<\/span>\n        <span begin=\"00:14.493\" end=\"00:14.731\">you<\/span>\n        <span begin=\"00:14.731\" end=\"00:15.271\">feel<\/span>\n        <span begin=\"00:15.271\" end=\"00:16.250\">us?<\/span>\n      <\/p>\n      <p begin=\"00:17.660\" end=\"00:21.587\" ttm:agent=\"v1\">\n        <span begin=\"00:17.662\" end=\"00:18.536\">Another<\/span>\n        <span begin=\"00:18.536\" end=\"00:19.479\">star,<\/span>\n        <span begin=\"00:19.779\" end=\"00:19.976\">you<\/span>\n        <span begin=\"00:19.976\" end=\"00:20.469\">fade<\/span>\n        <span begin=\"00:20.469\" end=\"00:21.587\">away<\/span>\n      <\/p>\n      <p begin=\"00:21.670\" end=\"00:24.715\" ttm:agent=\"v1\">\n        <span begin=\"00:21.670\" end=\"00:22.462\">Afraid<\/span>\n        <span begin=\"00:22.462\" end=\"00:22.845\">our<\/span>\n        <span begin=\"00:22.845\" end=\"00:23.196\">aim<\/span>\n        <span begin=\"00:23.196\" end=\"00:23.430\">is<\/span>\n        <span begin=\"00:23.430\" end=\"00:23.778\">out<\/span>\n        <span begin=\"00:23.778\" end=\"00:23.982\">of<\/span>\n        <span begin=\"00:23.982\" end=\"00:24.715\">sight<\/span>\n      <\/p>\n      <p begin=\"00:24.710\" end=\"00:29.854\" ttm:agent=\"v1\">\n        <span begin=\"00:24.718\" end=\"00:25.309\">Wanna<\/span>\n        <span begin=\"00:25.309\" end=\"00:25.800\">see<\/span>\n        <span begin=\"00:25.800\" end=\"00:26.804\">us<\/span>\n        <span begin=\"00:28.440\" end=\"00:29.854\">alight<\/span>\n      <\/p>\n      <p begin=\"00:30.990\" end=\"00:33.195\" ttm:agent=\"v1\">\n        <span begin=\"00:30.991\" end=\"00:31.527\">Where<\/span>\n        <span begin=\"00:31.527\" end=\"00:31.828\">are<\/span>\n        <span begin=\"00:31.828\" end=\"00:32.037\">you<\/span>\n        <span begin=\"00:32.037\" end=\"00:33.195\">now?<\/span>\n      <\/p>\n      <p begin=\"00:36.360\" end=\"00:38.417\" ttm:agent=\"v1\">\n        <span begin=\"00:36.369\" end=\"00:36.785\">Where<\/span>\n        <span begin=\"00:36.785\" end=\"00:37.150\">are<\/span>\n        <span begin=\"00:37.150\" end=\"00:37.441\">you<\/span>\n        <span begin=\"00:37.441\" end=\"00:38.417\">now?<\/span>\n      <\/p>\n      <p begin=\"00:41.700\" end=\"00:43.817\" ttm:agent=\"v1\">\n        <span begin=\"00:41.701\" end=\"00:42.048\">Where<\/span>\n        <span begin=\"00:42.048\" end=\"00:42.422\">are<\/span>\n        <span begin=\"00:42.422\" end=\"00:42.777\">you<\/span>\n        <span begin=\"00:42.777\" end=\"00:43.817\">now?<\/span>\n      <\/p>\n      <p begin=\"00:44.260\" end=\"00:46.738\" ttm:agent=\"v1\">\n        <span begin=\"00:44.260\" end=\"00:44.640\">Was<\/span>\n        <span begin=\"00:44.640\" end=\"00:44.813\">it<\/span>\n        <span begin=\"00:44.813\" end=\"00:45.128\">all<\/span>\n        <span begin=\"00:45.128\" end=\"00:45.268\">in<\/span>\n        <span begin=\"00:45.268\" end=\"00:45.458\">my<\/span>\n        <span begin=\"00:45.458\" end=\"00:46.738\">fantasy?<\/span>\n      <\/p>\n      <p begin=\"00:47.010\" end=\"00:49.118\" ttm:agent=\"v1\">\n        <span begin=\"00:47.018\" end=\"00:47.442\">Where<\/span>\n        <span begin=\"00:47.442\" end=\"00:47.844\">are<\/span>\n        <span begin=\"00:47.844\" end=\"00:48.162\">you<\/span>\n        <span begin=\"00:48.162\" end=\"00:49.118\">now?<\/span>\n      <\/p>\n      <p begin=\"00:49.640\" end=\"00:52.418\" ttm:agent=\"v1\">\n        <span begin=\"00:49.646\" end=\"00:49.913\">Were<\/span>\n        <span begin=\"00:49.913\" end=\"00:50.074\">you<\/span>\n        <span begin=\"00:50.074\" end=\"00:50.443\">only<\/span>\n        <span begin=\"00:50.443\" end=\"00:52.418\">imaginary?<\/span>\n      <\/p>\n      <p begin=\"00:53.600\" end=\"00:55.611\" ttm:agent=\"v1\">\n        <span begin=\"00:53.603\" end=\"00:54.087\">Where<\/span>\n        <span begin=\"00:54.087\" end=\"00:54.541\">are<\/span>\n        <span begin=\"00:54.541\" end=\"00:54.823\">you<\/span>\n        <span begin=\"00:54.823\" end=\"00:55.611\">now?<\/span>\n      <\/p>\n      <p begin=\"00:57.000\" end=\"01:00.730\" ttm:agent=\"v1\">\n        <span begin=\"00:57.002\" end=\"00:58.737\">Atlantis,<\/span>\n        <span begin=\"00:59.083\" end=\"00:59.752\">under<\/span>\n        <span begin=\"00:59.752\" end=\"00:59.874\">the<\/span>\n        <span begin=\"00:59.874\" end=\"01:00.730\">sea<\/span>\n      <\/p>\n      <p begin=\"01:01.680\" end=\"01:04.330\" ttm:agent=\"v1\">\n        <span begin=\"01:01.687\" end=\"01:02.459\">Under<\/span>\n        <span begin=\"01:02.459\" end=\"01:02.604\">the<\/span>\n        <span begin=\"01:02.604\" end=\"01:04.330\">sea<\/span>\n      <\/p>\n      <p begin=\"01:04.330\" end=\"01:06.538\" ttm:agent=\"v1\">\n        <span begin=\"01:04.330\" end=\"01:04.706\">Where<\/span>\n        <span begin=\"01:04.706\" end=\"01:05.041\">are<\/span>\n        <span begin=\"01:05.041\" end=\"01:05.382\">you<\/span>\n        <span begin=\"01:05.382\" end=\"01:06.538\">now?<\/span>\n      <\/p>\n      <p begin=\"01:06.960\" end=\"01:09.950\" ttm:agent=\"v1\">\n        <span begin=\"01:06.960\" end=\"01:07.942\">Another<\/span>\n        <span begin=\"01:07.942\" end=\"01:09.950\">dream<\/span>\n      <\/p>\n      <p begin=\"01:10.380\" end=\"01:14.300\" ttm:agent=\"v1\">\n        <span begin=\"01:10.387\" end=\"01:10.804\">The<\/span>\n        <span begin=\"01:10.804\" end=\"01:11.465\">monster&apos;s<\/span>\n        <span begin=\"01:11.465\" end=\"01:12.152\">runnin&apos;<\/span>\n        <span begin=\"01:12.152\" end=\"01:12.461\">wild<\/span>\n        <span begin=\"01:12.461\" end=\"01:13.118\">inside<\/span>\n        <span begin=\"01:13.118\" end=\"01:13.248\">of<\/span>\n        <span begin=\"01:13.248\" end=\"01:14.300\">me<\/span>\n      <\/p>\n      <p begin=\"01:14.300\" end=\"01:16.145\" ttm:agent=\"v1\">\n        <span begin=\"01:14.301\" end=\"01:14.622\">I&apos;m<\/span>\n        <span begin=\"01:14.622\" end=\"01:16.145\">faded<\/span>\n      <\/p>\n      <p begin=\"01:19.660\" end=\"01:21.482\" ttm:agent=\"v1\">\n        <span begin=\"01:19.666\" end=\"01:20.039\">I&apos;m<\/span>\n        <span begin=\"01:20.039\" end=\"01:21.482\">faded<\/span>\n      <\/p>\n      <p begin=\"01:23.530\" end=\"01:26.858\" ttm:agent=\"v1\">\n        <span begin=\"01:23.530\" end=\"01:24.118\">So<\/span>\n        <span begin=\"01:24.118\" end=\"01:24.989\">lost,<\/span>\n        <span begin=\"01:24.989\" end=\"01:25.289\">I&apos;m<\/span>\n        <span begin=\"01:25.289\" end=\"01:26.858\">faded<\/span>\n      <\/p>\n      <p begin=\"01:30.310\" end=\"01:33.596\" ttm:agent=\"v1\">\n        <span begin=\"01:30.312\" end=\"01:30.623\">I&apos;m<\/span>\n        <span begin=\"01:30.623\" end=\"01:33.596\">faded<\/span>\n      <\/p>\n      <p begin=\"01:34.210\" end=\"01:37.443\" ttm:agent=\"v1\">\n        <span begin=\"01:34.215\" end=\"01:34.842\">So<\/span>\n        <span begin=\"01:34.842\" end=\"01:35.603\">lost,<\/span>\n        <span begin=\"01:35.803\" end=\"01:36.050\">I&apos;m<\/span>\n        <span begin=\"01:36.050\" end=\"01:37.443\">faded<\/span>\n      <\/p>\n      <p begin=\"01:37.700\" end=\"01:40.521\" ttm:agent=\"v1\">\n        <span begin=\"01:37.706\" end=\"01:37.979\">These<\/span>\n        <span begin=\"01:37.979\" end=\"01:38.710\">shallow<\/span>\n        <span begin=\"01:38.710\" end=\"01:39.433\">waters<\/span>\n        <span begin=\"01:39.433\" end=\"01:40.109\">never<\/span>\n        <span begin=\"01:40.109\" end=\"01:40.521\">met<\/span>\n      <\/p>\n      <p begin=\"01:40.660\" end=\"01:43.101\" ttm:agent=\"v1\">\n        <span begin=\"01:40.668\" end=\"01:41.114\">What<\/span>\n        <span begin=\"01:41.114\" end=\"01:41.402\">I<\/span>\n        <span begin=\"01:41.402\" end=\"01:43.101\">needed<\/span>\n      <\/p>\n      <p begin=\"01:44.330\" end=\"01:48.118\" ttm:agent=\"v1\">\n        <span begin=\"01:44.332\" end=\"01:44.664\">I&apos;m<\/span>\n        <span begin=\"01:44.664\" end=\"01:45.348\">letting<\/span>\n        <span begin=\"01:45.348\" end=\"01:46.170\">go,<\/span>\n        <span begin=\"01:46.396\" end=\"01:46.705\">a<\/span>\n        <span begin=\"01:46.705\" end=\"01:47.411\">deeper<\/span>\n        <span begin=\"01:47.411\" end=\"01:48.118\">dive<\/span>\n      <\/p>\n      <p begin=\"01:48.340\" end=\"01:51.354\" ttm:agent=\"v1\">\n        <span begin=\"01:48.345\" end=\"01:49.334\">Eternal<\/span>\n        <span begin=\"01:49.334\" end=\"01:50.037\">silence<\/span>\n        <span begin=\"01:50.037\" end=\"01:50.462\">of<\/span>\n        <span begin=\"01:50.462\" end=\"01:50.622\">the<\/span>\n        <span begin=\"01:50.622\" end=\"01:51.354\">sea<\/span>\n      <\/p>\n      <p begin=\"01:51.740\" end=\"01:56.887\" ttm:agent=\"v1\">\n        <span begin=\"01:51.745\" end=\"01:52.146\">I&apos;m<\/span>\n        <span begin=\"01:52.146\" end=\"01:53.763\">breathing,<\/span>\n        <span begin=\"01:55.032\" end=\"01:56.887\">alive<\/span>\n      <\/p>\n      <p begin=\"01:57.640\" end=\"01:59.414\" ttm:agent=\"v1\">\n        <span begin=\"01:57.646\" end=\"01:58.101\">Where<\/span>\n        <span begin=\"01:58.101\" end=\"01:58.384\">are<\/span>\n        <span begin=\"01:58.384\" end=\"01:58.732\">you<\/span>\n        <span begin=\"01:58.732\" end=\"01:59.414\">now?<\/span>\n      <\/p>\n      <p begin=\"02:02.920\" end=\"02:04.770\" ttm:agent=\"v1\">\n        <span begin=\"02:02.922\" end=\"02:03.401\">Where<\/span>\n        <span begin=\"02:03.401\" end=\"02:03.750\">are<\/span>\n        <span begin=\"02:03.750\" end=\"02:04.070\">you<\/span>\n        <span begin=\"02:04.070\" end=\"02:04.770\">now?<\/span>\n      <\/p>\n      <p begin=\"02:08.240\" end=\"02:11.002\" ttm:agent=\"v1\">\n        <span begin=\"02:08.243\" end=\"02:09.058\">Under<\/span>\n        <span begin=\"02:09.058\" end=\"02:09.217\">the<\/span>\n        <span begin=\"02:09.217\" end=\"02:09.729\">bright,<\/span>\n        <span begin=\"02:09.729\" end=\"02:10.032\">but<\/span>\n        <span begin=\"02:10.032\" end=\"02:10.570\">faded<\/span>\n        <span begin=\"02:10.570\" end=\"02:11.002\">lights<\/span>\n      <\/p>\n      <p begin=\"02:11.030\" end=\"02:13.491\" ttm:agent=\"v1\">\n        <span begin=\"02:11.037\" end=\"02:11.209\">You<\/span>\n        <span begin=\"02:11.209\" end=\"02:11.733\">set<\/span>\n        <span begin=\"02:11.733\" end=\"02:11.941\">my<\/span>\n        <span begin=\"02:11.941\" end=\"02:12.449\">heart<\/span>\n        <span begin=\"02:12.449\" end=\"02:12.690\">on<\/span>\n        <span begin=\"02:12.690\" end=\"02:13.491\">fire<\/span>\n      <\/p>\n      <p begin=\"02:13.570\" end=\"02:16.091\" ttm:agent=\"v1\">\n        <span begin=\"02:13.576\" end=\"02:14.107\">Where<\/span>\n        <span begin=\"02:14.107\" end=\"02:14.403\">are<\/span>\n        <span begin=\"02:14.403\" end=\"02:14.665\">you<\/span>\n        <span begin=\"02:14.665\" end=\"02:16.091\">now?<\/span>\n      <\/p>\n      <p begin=\"02:16.340\" end=\"02:18.722\" ttm:agent=\"v1\">\n        <span begin=\"02:16.346\" end=\"02:16.776\">Where<\/span>\n        <span begin=\"02:16.776\" end=\"02:17.018\">are<\/span>\n        <span begin=\"02:17.018\" end=\"02:17.288\">you<\/span>\n        <span begin=\"02:17.288\" end=\"02:18.722\">now?<\/span>\n      <\/p>\n      <p begin=\"02:30.980\" end=\"02:33.010\" ttm:agent=\"v1\">\n        <span begin=\"02:30.986\" end=\"02:31.490\">Where<\/span>\n        <span begin=\"02:31.490\" end=\"02:31.836\">are<\/span>\n        <span begin=\"02:31.836\" end=\"02:32.148\">you<\/span>\n        <span begin=\"02:32.148\" end=\"02:33.010\">now?<\/span>\n      <\/p>\n      <p begin=\"02:34.380\" end=\"02:38.216\" ttm:agent=\"v1\">\n        <span begin=\"02:34.385\" end=\"02:36.130\">Atlantis,<\/span>\n        <span begin=\"02:36.382\" end=\"02:37.090\">under<\/span>\n        <span begin=\"02:37.090\" end=\"02:37.227\">the<\/span>\n        <span begin=\"02:37.227\" end=\"02:38.216\">sea<\/span>\n      <\/p>\n      <p begin=\"02:39.070\" end=\"02:41.613\" ttm:agent=\"v1\">\n        <span begin=\"02:39.072\" end=\"02:39.793\">Under<\/span>\n        <span begin=\"02:39.793\" end=\"02:39.963\">the<\/span>\n        <span begin=\"02:39.963\" end=\"02:41.613\">sea<\/span>\n      <\/p>\n      <p begin=\"02:41.610\" end=\"02:43.610\" ttm:agent=\"v1\">\n        <span begin=\"02:41.614\" end=\"02:42.039\">Where<\/span>\n        <span begin=\"02:42.039\" end=\"02:42.374\">are<\/span>\n        <span begin=\"02:42.374\" end=\"02:42.728\">you<\/span>\n        <span begin=\"02:42.728\" end=\"02:43.610\">now?<\/span>\n      <\/p>\n      <p begin=\"02:44.300\" end=\"02:47.326\" ttm:agent=\"v1\">\n        <span begin=\"02:44.304\" end=\"02:45.242\">Another<\/span>\n        <span begin=\"02:45.242\" end=\"02:47.326\">dream<\/span>\n      <\/p>\n      <p begin=\"02:47.630\" end=\"02:51.629\" ttm:agent=\"v1\">\n        <span begin=\"02:47.634\" end=\"02:48.132\">The<\/span>\n        <span begin=\"02:48.132\" end=\"02:48.759\">monster&apos;s<\/span>\n        <span begin=\"02:48.759\" end=\"02:49.320\">runnin&apos;<\/span>\n        <span begin=\"02:49.320\" end=\"02:49.646\">wild<\/span>\n        <span begin=\"02:49.646\" end=\"02:50.463\">inside<\/span>\n        <span begin=\"02:50.463\" end=\"02:50.644\">of<\/span>\n        <span begin=\"02:50.644\" end=\"02:51.629\">me<\/span>\n      <\/p>\n      <p begin=\"02:51.620\" end=\"02:53.557\" ttm:agent=\"v1\">\n        <span begin=\"02:51.629\" end=\"02:51.921\">I&apos;m<\/span>\n        <span begin=\"02:51.921\" end=\"02:53.557\">faded<\/span>\n      <\/p>\n      <p begin=\"02:56.970\" end=\"02:58.877\" ttm:agent=\"v1\">\n        <span begin=\"02:56.977\" end=\"02:57.223\">I&apos;m<\/span>\n        <span begin=\"02:57.223\" end=\"02:58.877\">faded<\/span>\n      <\/p>\n      <p begin=\"03:00.900\" end=\"03:04.227\" ttm:agent=\"v1\">\n        <span begin=\"03:00.907\" end=\"03:01.355\">So<\/span>\n        <span begin=\"03:01.355\" end=\"03:02.328\">lost,<\/span>\n        <span begin=\"03:02.495\" end=\"03:02.663\">I&apos;m<\/span>\n        <span begin=\"03:02.663\" end=\"03:04.227\">faded<\/span>\n      <\/p>\n      <p begin=\"03:07.740\" end=\"03:10.762\" ttm:agent=\"v1\">\n        <span begin=\"03:07.744\" end=\"03:07.937\">I&apos;m<\/span>\n        <span begin=\"03:07.937\" end=\"03:10.762\">faded<\/span>\n      <\/p>\n      <p begin=\"03:11.530\" end=\"03:14.779\" ttm:agent=\"v1\">\n        <span begin=\"03:11.539\" end=\"03:11.983\">So<\/span>\n        <span begin=\"03:11.983\" end=\"03:12.910\">lost,<\/span>\n        <span begin=\"03:13.034\" end=\"03:13.216\">I&apos;m<\/span>\n        <span begin=\"03:13.216\" end=\"03:14.779\">faded<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 11040,
+      "endTime": 14002,
+      "text": "You were the shadow to my light",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 11044,
+          "endTime": 11406,
+          "word": "You"
+        },
+        {
+          "startTime": 11406,
+          "endTime": 11835,
+          "word": "were"
+        },
+        {
+          "startTime": 11835,
+          "endTime": 11978,
+          "word": "the"
+        },
+        {
+          "startTime": 11978,
+          "endTime": 12846,
+          "word": "shadow"
+        },
+        {
+          "startTime": 12846,
+          "endTime": 13173,
+          "word": "to"
+        },
+        {
+          "startTime": 13173,
+          "endTime": 13512,
+          "word": "my"
+        },
+        {
+          "startTime": 13512,
+          "endTime": 14002,
+          "word": "light"
+        }
+      ]
+    },
+    {
+      "time": 14000,
+      "endTime": 16250,
+      "text": "Did you feel us?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 14002,
+          "endTime": 14493,
+          "word": "Did"
+        },
+        {
+          "startTime": 14493,
+          "endTime": 14731,
+          "word": "you"
+        },
+        {
+          "startTime": 14731,
+          "endTime": 15271,
+          "word": "feel"
+        },
+        {
+          "startTime": 15271,
+          "endTime": 16250,
+          "word": "us?"
+        }
+      ]
+    },
+    {
+      "time": 17660,
+      "endTime": 21587,
+      "text": "Another star, you fade away",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 17662,
+          "endTime": 18536,
+          "word": "Another"
+        },
+        {
+          "startTime": 18536,
+          "endTime": 19479,
+          "word": "star,"
+        },
+        {
+          "startTime": 19779,
+          "endTime": 19976,
+          "word": "you"
+        },
+        {
+          "startTime": 19976,
+          "endTime": 20469,
+          "word": "fade"
+        },
+        {
+          "startTime": 20469,
+          "endTime": 21587,
+          "word": "away"
+        }
+      ]
+    },
+    {
+      "time": 21670,
+      "endTime": 24715,
+      "text": "Afraid our aim is out of sight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21670,
+          "endTime": 22462,
+          "word": "Afraid"
+        },
+        {
+          "startTime": 22462,
+          "endTime": 22845,
+          "word": "our"
+        },
+        {
+          "startTime": 22845,
+          "endTime": 23196,
+          "word": "aim"
+        },
+        {
+          "startTime": 23196,
+          "endTime": 23430,
+          "word": "is"
+        },
+        {
+          "startTime": 23430,
+          "endTime": 23778,
+          "word": "out"
+        },
+        {
+          "startTime": 23778,
+          "endTime": 23982,
+          "word": "of"
+        },
+        {
+          "startTime": 23982,
+          "endTime": 24715,
+          "word": "sight"
+        }
+      ]
+    },
+    {
+      "time": 24710,
+      "endTime": 29854,
+      "text": "Wanna see us alight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24718,
+          "endTime": 25309,
+          "word": "Wanna"
+        },
+        {
+          "startTime": 25309,
+          "endTime": 25800,
+          "word": "see"
+        },
+        {
+          "startTime": 25800,
+          "endTime": 26804,
+          "word": "us"
+        },
+        {
+          "startTime": 28440,
+          "endTime": 29854,
+          "word": "alight"
+        }
+      ]
+    },
+    {
+      "time": 30990,
+      "endTime": 33195,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 30991,
+          "endTime": 31527,
+          "word": "Where"
+        },
+        {
+          "startTime": 31527,
+          "endTime": 31828,
+          "word": "are"
+        },
+        {
+          "startTime": 31828,
+          "endTime": 32037,
+          "word": "you"
+        },
+        {
+          "startTime": 32037,
+          "endTime": 33195,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 36360,
+      "endTime": 38417,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36369,
+          "endTime": 36785,
+          "word": "Where"
+        },
+        {
+          "startTime": 36785,
+          "endTime": 37150,
+          "word": "are"
+        },
+        {
+          "startTime": 37150,
+          "endTime": 37441,
+          "word": "you"
+        },
+        {
+          "startTime": 37441,
+          "endTime": 38417,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 41700,
+      "endTime": 43817,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41701,
+          "endTime": 42048,
+          "word": "Where"
+        },
+        {
+          "startTime": 42048,
+          "endTime": 42422,
+          "word": "are"
+        },
+        {
+          "startTime": 42422,
+          "endTime": 42777,
+          "word": "you"
+        },
+        {
+          "startTime": 42777,
+          "endTime": 43817,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 44260,
+      "endTime": 46738,
+      "text": "Was it all in my fantasy?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44260,
+          "endTime": 44640,
+          "word": "Was"
+        },
+        {
+          "startTime": 44640,
+          "endTime": 44813,
+          "word": "it"
+        },
+        {
+          "startTime": 44813,
+          "endTime": 45128,
+          "word": "all"
+        },
+        {
+          "startTime": 45128,
+          "endTime": 45268,
+          "word": "in"
+        },
+        {
+          "startTime": 45268,
+          "endTime": 45458,
+          "word": "my"
+        },
+        {
+          "startTime": 45458,
+          "endTime": 46738,
+          "word": "fantasy?"
+        }
+      ]
+    },
+    {
+      "time": 47010,
+      "endTime": 49118,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47018,
+          "endTime": 47442,
+          "word": "Where"
+        },
+        {
+          "startTime": 47442,
+          "endTime": 47844,
+          "word": "are"
+        },
+        {
+          "startTime": 47844,
+          "endTime": 48162,
+          "word": "you"
+        },
+        {
+          "startTime": 48162,
+          "endTime": 49118,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 49640,
+      "endTime": 52418,
+      "text": "Were you only imaginary?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49646,
+          "endTime": 49913,
+          "word": "Were"
+        },
+        {
+          "startTime": 49913,
+          "endTime": 50074,
+          "word": "you"
+        },
+        {
+          "startTime": 50074,
+          "endTime": 50443,
+          "word": "only"
+        },
+        {
+          "startTime": 50443,
+          "endTime": 52418,
+          "word": "imaginary?"
+        }
+      ]
+    },
+    {
+      "time": 53600,
+      "endTime": 55611,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53603,
+          "endTime": 54087,
+          "word": "Where"
+        },
+        {
+          "startTime": 54087,
+          "endTime": 54541,
+          "word": "are"
+        },
+        {
+          "startTime": 54541,
+          "endTime": 54823,
+          "word": "you"
+        },
+        {
+          "startTime": 54823,
+          "endTime": 55611,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 57000,
+      "endTime": 60730,
+      "text": "Atlantis, under the sea",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57002,
+          "endTime": 58737,
+          "word": "Atlantis,"
+        },
+        {
+          "startTime": 59083,
+          "endTime": 59752,
+          "word": "under"
+        },
+        {
+          "startTime": 59752,
+          "endTime": 59874,
+          "word": "the"
+        },
+        {
+          "startTime": 59874,
+          "endTime": 60730,
+          "word": "sea"
+        }
+      ]
+    },
+    {
+      "time": 61680,
+      "endTime": 64330,
+      "text": "Under the sea",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 61687,
+          "endTime": 62459,
+          "word": "Under"
+        },
+        {
+          "startTime": 62459,
+          "endTime": 62604,
+          "word": "the"
+        },
+        {
+          "startTime": 62604,
+          "endTime": 64330,
+          "word": "sea"
+        }
+      ]
+    },
+    {
+      "time": 64330,
+      "endTime": 66538,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 64330,
+          "endTime": 64706,
+          "word": "Where"
+        },
+        {
+          "startTime": 64706,
+          "endTime": 65041,
+          "word": "are"
+        },
+        {
+          "startTime": 65041,
+          "endTime": 65382,
+          "word": "you"
+        },
+        {
+          "startTime": 65382,
+          "endTime": 66538,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 66960,
+      "endTime": 69950,
+      "text": "Another dream",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66960,
+          "endTime": 67942,
+          "word": "Another"
+        },
+        {
+          "startTime": 67942,
+          "endTime": 69950,
+          "word": "dream"
+        }
+      ]
+    },
+    {
+      "time": 70380,
+      "endTime": 74300,
+      "text": "The monster's runnin' wild inside of me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 70387,
+          "endTime": 70804,
+          "word": "The"
+        },
+        {
+          "startTime": 70804,
+          "endTime": 71465,
+          "word": "monster's"
+        },
+        {
+          "startTime": 71465,
+          "endTime": 72152,
+          "word": "runnin'"
+        },
+        {
+          "startTime": 72152,
+          "endTime": 72461,
+          "word": "wild"
+        },
+        {
+          "startTime": 72461,
+          "endTime": 73118,
+          "word": "inside"
+        },
+        {
+          "startTime": 73118,
+          "endTime": 73248,
+          "word": "of"
+        },
+        {
+          "startTime": 73248,
+          "endTime": 74300,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 74300,
+      "endTime": 76145,
+      "text": "I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 74301,
+          "endTime": 74622,
+          "word": "I'm"
+        },
+        {
+          "startTime": 74622,
+          "endTime": 76145,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 79660,
+      "endTime": 81482,
+      "text": "I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 79666,
+          "endTime": 80039,
+          "word": "I'm"
+        },
+        {
+          "startTime": 80039,
+          "endTime": 81482,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 83530,
+      "endTime": 86858,
+      "text": "So lost, I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 83530,
+          "endTime": 84118,
+          "word": "So"
+        },
+        {
+          "startTime": 84118,
+          "endTime": 84989,
+          "word": "lost,"
+        },
+        {
+          "startTime": 84989,
+          "endTime": 85289,
+          "word": "I'm"
+        },
+        {
+          "startTime": 85289,
+          "endTime": 86858,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 90310,
+      "endTime": 93596,
+      "text": "I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90312,
+          "endTime": 90623,
+          "word": "I'm"
+        },
+        {
+          "startTime": 90623,
+          "endTime": 93596,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 94210,
+      "endTime": 97443,
+      "text": "So lost, I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94215,
+          "endTime": 94842,
+          "word": "So"
+        },
+        {
+          "startTime": 94842,
+          "endTime": 95603,
+          "word": "lost,"
+        },
+        {
+          "startTime": 95803,
+          "endTime": 96050,
+          "word": "I'm"
+        },
+        {
+          "startTime": 96050,
+          "endTime": 97443,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 97700,
+      "endTime": 100521,
+      "text": "These shallow waters never met",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 97706,
+          "endTime": 97979,
+          "word": "These"
+        },
+        {
+          "startTime": 97979,
+          "endTime": 98710,
+          "word": "shallow"
+        },
+        {
+          "startTime": 98710,
+          "endTime": 99433,
+          "word": "waters"
+        },
+        {
+          "startTime": 99433,
+          "endTime": 100109,
+          "word": "never"
+        },
+        {
+          "startTime": 100109,
+          "endTime": 100521,
+          "word": "met"
+        }
+      ]
+    },
+    {
+      "time": 100660,
+      "endTime": 103101,
+      "text": "What I needed",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 100668,
+          "endTime": 101114,
+          "word": "What"
+        },
+        {
+          "startTime": 101114,
+          "endTime": 101402,
+          "word": "I"
+        },
+        {
+          "startTime": 101402,
+          "endTime": 103101,
+          "word": "needed"
+        }
+      ]
+    },
+    {
+      "time": 104330,
+      "endTime": 108118,
+      "text": "I'm letting go, a deeper dive",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104332,
+          "endTime": 104664,
+          "word": "I'm"
+        },
+        {
+          "startTime": 104664,
+          "endTime": 105348,
+          "word": "letting"
+        },
+        {
+          "startTime": 105348,
+          "endTime": 106170,
+          "word": "go,"
+        },
+        {
+          "startTime": 106396,
+          "endTime": 106705,
+          "word": "a"
+        },
+        {
+          "startTime": 106705,
+          "endTime": 107411,
+          "word": "deeper"
+        },
+        {
+          "startTime": 107411,
+          "endTime": 108118,
+          "word": "dive"
+        }
+      ]
+    },
+    {
+      "time": 108340,
+      "endTime": 111354,
+      "text": "Eternal silence of the sea",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 108345,
+          "endTime": 109334,
+          "word": "Eternal"
+        },
+        {
+          "startTime": 109334,
+          "endTime": 110037,
+          "word": "silence"
+        },
+        {
+          "startTime": 110037,
+          "endTime": 110462,
+          "word": "of"
+        },
+        {
+          "startTime": 110462,
+          "endTime": 110622,
+          "word": "the"
+        },
+        {
+          "startTime": 110622,
+          "endTime": 111354,
+          "word": "sea"
+        }
+      ]
+    },
+    {
+      "time": 111740,
+      "endTime": 116887,
+      "text": "I'm breathing, alive",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 111745,
+          "endTime": 112146,
+          "word": "I'm"
+        },
+        {
+          "startTime": 112146,
+          "endTime": 113763,
+          "word": "breathing,"
+        },
+        {
+          "startTime": 115032,
+          "endTime": 116887,
+          "word": "alive"
+        }
+      ]
+    },
+    {
+      "time": 117640,
+      "endTime": 119414,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117646,
+          "endTime": 118101,
+          "word": "Where"
+        },
+        {
+          "startTime": 118101,
+          "endTime": 118384,
+          "word": "are"
+        },
+        {
+          "startTime": 118384,
+          "endTime": 118732,
+          "word": "you"
+        },
+        {
+          "startTime": 118732,
+          "endTime": 119414,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 122920,
+      "endTime": 124770,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 122922,
+          "endTime": 123401,
+          "word": "Where"
+        },
+        {
+          "startTime": 123401,
+          "endTime": 123750,
+          "word": "are"
+        },
+        {
+          "startTime": 123750,
+          "endTime": 124070,
+          "word": "you"
+        },
+        {
+          "startTime": 124070,
+          "endTime": 124770,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 128240,
+      "endTime": 131002,
+      "text": "Under the bright, but faded lights",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128243,
+          "endTime": 129058,
+          "word": "Under"
+        },
+        {
+          "startTime": 129058,
+          "endTime": 129217,
+          "word": "the"
+        },
+        {
+          "startTime": 129217,
+          "endTime": 129729,
+          "word": "bright,"
+        },
+        {
+          "startTime": 129729,
+          "endTime": 130032,
+          "word": "but"
+        },
+        {
+          "startTime": 130032,
+          "endTime": 130570,
+          "word": "faded"
+        },
+        {
+          "startTime": 130570,
+          "endTime": 131002,
+          "word": "lights"
+        }
+      ]
+    },
+    {
+      "time": 131030,
+      "endTime": 133491,
+      "text": "You set my heart on fire",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131037,
+          "endTime": 131209,
+          "word": "You"
+        },
+        {
+          "startTime": 131209,
+          "endTime": 131733,
+          "word": "set"
+        },
+        {
+          "startTime": 131733,
+          "endTime": 131941,
+          "word": "my"
+        },
+        {
+          "startTime": 131941,
+          "endTime": 132449,
+          "word": "heart"
+        },
+        {
+          "startTime": 132449,
+          "endTime": 132690,
+          "word": "on"
+        },
+        {
+          "startTime": 132690,
+          "endTime": 133491,
+          "word": "fire"
+        }
+      ]
+    },
+    {
+      "time": 133570,
+      "endTime": 136091,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 133576,
+          "endTime": 134107,
+          "word": "Where"
+        },
+        {
+          "startTime": 134107,
+          "endTime": 134403,
+          "word": "are"
+        },
+        {
+          "startTime": 134403,
+          "endTime": 134665,
+          "word": "you"
+        },
+        {
+          "startTime": 134665,
+          "endTime": 136091,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 136340,
+      "endTime": 138722,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136346,
+          "endTime": 136776,
+          "word": "Where"
+        },
+        {
+          "startTime": 136776,
+          "endTime": 137018,
+          "word": "are"
+        },
+        {
+          "startTime": 137018,
+          "endTime": 137288,
+          "word": "you"
+        },
+        {
+          "startTime": 137288,
+          "endTime": 138722,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 150980,
+      "endTime": 153010,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 150986,
+          "endTime": 151490,
+          "word": "Where"
+        },
+        {
+          "startTime": 151490,
+          "endTime": 151836,
+          "word": "are"
+        },
+        {
+          "startTime": 151836,
+          "endTime": 152148,
+          "word": "you"
+        },
+        {
+          "startTime": 152148,
+          "endTime": 153010,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 154380,
+      "endTime": 158216,
+      "text": "Atlantis, under the sea",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 154385,
+          "endTime": 156130,
+          "word": "Atlantis,"
+        },
+        {
+          "startTime": 156382,
+          "endTime": 157090,
+          "word": "under"
+        },
+        {
+          "startTime": 157090,
+          "endTime": 157227,
+          "word": "the"
+        },
+        {
+          "startTime": 157227,
+          "endTime": 158216,
+          "word": "sea"
+        }
+      ]
+    },
+    {
+      "time": 159070,
+      "endTime": 161613,
+      "text": "Under the sea",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159072,
+          "endTime": 159793,
+          "word": "Under"
+        },
+        {
+          "startTime": 159793,
+          "endTime": 159963,
+          "word": "the"
+        },
+        {
+          "startTime": 159963,
+          "endTime": 161613,
+          "word": "sea"
+        }
+      ]
+    },
+    {
+      "time": 161610,
+      "endTime": 163610,
+      "text": "Where are you now?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161614,
+          "endTime": 162039,
+          "word": "Where"
+        },
+        {
+          "startTime": 162039,
+          "endTime": 162374,
+          "word": "are"
+        },
+        {
+          "startTime": 162374,
+          "endTime": 162728,
+          "word": "you"
+        },
+        {
+          "startTime": 162728,
+          "endTime": 163610,
+          "word": "now?"
+        }
+      ]
+    },
+    {
+      "time": 164300,
+      "endTime": 167326,
+      "text": "Another dream",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 164304,
+          "endTime": 165242,
+          "word": "Another"
+        },
+        {
+          "startTime": 165242,
+          "endTime": 167326,
+          "word": "dream"
+        }
+      ]
+    },
+    {
+      "time": 167630,
+      "endTime": 171629,
+      "text": "The monster's runnin' wild inside of me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 167634,
+          "endTime": 168132,
+          "word": "The"
+        },
+        {
+          "startTime": 168132,
+          "endTime": 168759,
+          "word": "monster's"
+        },
+        {
+          "startTime": 168759,
+          "endTime": 169320,
+          "word": "runnin'"
+        },
+        {
+          "startTime": 169320,
+          "endTime": 169646,
+          "word": "wild"
+        },
+        {
+          "startTime": 169646,
+          "endTime": 170463,
+          "word": "inside"
+        },
+        {
+          "startTime": 170463,
+          "endTime": 170644,
+          "word": "of"
+        },
+        {
+          "startTime": 170644,
+          "endTime": 171629,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 171620,
+      "endTime": 173557,
+      "text": "I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 171629,
+          "endTime": 171921,
+          "word": "I'm"
+        },
+        {
+          "startTime": 171921,
+          "endTime": 173557,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 176970,
+      "endTime": 178877,
+      "text": "I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 176977,
+          "endTime": 177223,
+          "word": "I'm"
+        },
+        {
+          "startTime": 177223,
+          "endTime": 178877,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 180900,
+      "endTime": 184227,
+      "text": "So lost, I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 180907,
+          "endTime": 181355,
+          "word": "So"
+        },
+        {
+          "startTime": 181355,
+          "endTime": 182328,
+          "word": "lost,"
+        },
+        {
+          "startTime": 182495,
+          "endTime": 182663,
+          "word": "I'm"
+        },
+        {
+          "startTime": 182663,
+          "endTime": 184227,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 187740,
+      "endTime": 190762,
+      "text": "I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 187744,
+          "endTime": 187937,
+          "word": "I'm"
+        },
+        {
+          "startTime": 187937,
+          "endTime": 190762,
+          "word": "faded"
+        }
+      ]
+    },
+    {
+      "time": 191530,
+      "endTime": 194779,
+      "text": "So lost, I'm faded",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 191539,
+          "endTime": 191983,
+          "word": "So"
+        },
+        {
+          "startTime": 191983,
+          "endTime": 192910,
+          "word": "lost,"
+        },
+        {
+          "startTime": 193034,
+          "endTime": 193216,
+          "word": "I'm"
+        },
+        {
+          "startTime": 193216,
+          "endTime": 194779,
+          "word": "faded"
+        }
+      ]
+    }
+  ]
+}
