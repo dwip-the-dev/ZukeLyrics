@@ -260,6 +260,16 @@
     "path": "lyrics-database/w/E/wEG8y7r4aY4.json"
   },
   {
+    "videoId": "wkri1NUq9ro",
+    "title": "Mrs. Potato Head",
+    "artist": "Melanie Martinez",
+    "duration": 333,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 61,
+    "path": "lyrics-database/w/k/wkri1NUq9ro.json"
+  },
+  {
     "videoId": "wJnBTPUQS5A",
     "title": "Alan Walker - The Spectre",
     "artist": "Alan Walker",
@@ -1578,6 +1588,16 @@
     "syncedType": "word",
     "linesCount": 56,
     "path": "lyrics-database/0/i/0i0mUT2k34U.json"
+  },
+  {
+    "videoId": "04UjShXZbD0",
+    "title": "Mad Hatter",
+    "artist": "Melanie Martinez",
+    "duration": 279,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 58,
+    "path": "lyrics-database/0/4/04UjShXZbD0.json"
   },
   {
     "videoId": "IgITZfS7L_8",
