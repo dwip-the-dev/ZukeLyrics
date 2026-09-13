@@ -1,5 +1,15 @@
 [
   {
+    "videoId": "T5mbQ8aQZw0",
+    "title": "Ariana Grande - we can't be friends (Lyrics)",
+    "artist": "Taj Tracks",
+    "duration": 229,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 45,
+    "path": "lyrics-database/T/5/T5mbQ8aQZw0.json"
+  },
+  {
     "videoId": "TDOxWAMYAvY",
     "title": "Saat Samundar Paar",
     "artist": "Karan Nawani, Viju Shah, Anand Bakshi",
@@ -168,6 +178,16 @@
     "syncedType": "word",
     "linesCount": 51,
     "path": "lyrics-database/5/W/5WEv5voUGio.json"
+  },
+  {
+    "videoId": "5MmxPGSBVGA",
+    "title": "Unstoppable (R3HAB Remix)",
+    "artist": "R3HAB, Sia",
+    "duration": 162,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 37,
+    "path": "lyrics-database/5/M/5MmxPGSBVGA.json"
   },
   {
     "videoId": "GvdKeZO8IzM",
@@ -990,6 +1010,16 @@
     "path": "lyrics-database/S/Y/SYM-RJwSGQ8.json"
   },
   {
+    "videoId": "Sg3hU_sdhKw",
+    "title": "Hozier - Too Sweet (Lyrics) \"i take my whiskey neat\"",
+    "artist": "BangersOnly",
+    "duration": 252,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 51,
+    "path": "lyrics-database/S/g/Sg3hU_sdhKw.json"
+  },
+  {
     "videoId": "SyLtYUk9Ogg",
     "title": "KATSEYE - Animal (Lyrics)",
     "artist": "Vibe Music",
@@ -1120,6 +1150,16 @@
     "path": "lyrics-database/2/x/2xWkATdMQms.json"
   },
   {
+    "videoId": "2ydCvkxuNm4",
+    "title": "Bye Bye Bye",
+    "artist": "*NSYNC",
+    "duration": 201,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 73,
+    "path": "lyrics-database/2/y/2ydCvkxuNm4.json"
+  },
+  {
     "videoId": "kebBJT8NVyM",
     "title": "Aro Kichhu Khan Na Hoy Rahite Kachhe - Mono",
     "artist": "Sandhya Mukherjee",
@@ -1218,6 +1258,16 @@
     "syncedType": "word",
     "linesCount": 35,
     "path": "lyrics-database/P/4/P4UnrmPFPA4.json"
+  },
+  {
+    "videoId": "LGEBBJJaOWY",
+    "title": "Tacata (Remix)",
+    "artist": "Tiagz, Fuerza Regida, El Alfa",
+    "duration": 165,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 64,
+    "path": "lyrics-database/L/G/LGEBBJJaOWY.json"
   },
   {
     "videoId": "Lgs9QUtWc3M",
@@ -1458,6 +1508,16 @@
     "syncedType": "word",
     "linesCount": 7,
     "path": "lyrics-database/f/J/fJ9rUzIMcZQ.json"
+  },
+  {
+    "videoId": "f4gODZFkTJg",
+    "title": "Vois sur ton chemin – Techno Mix",
+    "artist": "BENNETT",
+    "duration": 179,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 76,
+    "path": "lyrics-database/f/4/f4gODZFkTJg.json"
   },
   {
     "videoId": "c9OOR6--05M",
@@ -1880,6 +1940,26 @@
     "path": "lyrics-database/B/L/BLZWkjBXfN8.json"
   },
   {
+    "videoId": "B3Z4XGAxJB0",
+    "title": "End of Beginning",
+    "artist": "Djo",
+    "duration": 160,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 32,
+    "path": "lyrics-database/B/3/B3Z4XGAxJB0.json"
+  },
+  {
+    "videoId": "B1kGH8XGpN4",
+    "title": "Prada",
+    "artist": "Cassö",
+    "duration": 134,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 62,
+    "path": "lyrics-database/B/1/B1kGH8XGpN4.json"
+  },
+  {
     "videoId": "BOMFt9OCsT0",
     "title": "Mortals (feat. Laura Brehm)",
     "artist": "Warriyo",
@@ -2190,6 +2270,16 @@
     "path": "lyrics-database/_/o/_ovdm2yX4MA.json"
   },
   {
+    "videoId": "-sMdatCs4Pc",
+    "title": "Titanic x My Heart Will Go On (Summer Version)",
+    "artist": "Laback, Alexis Carlier",
+    "duration": 189,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 10,
+    "path": "lyrics-database/_/s/-sMdatCs4Pc.json"
+  },
+  {
     "videoId": "qFLhGq0060w",
     "title": "I Feel It Coming ft. Daft Punk (Official Video)",
     "artist": "The Weeknd",
@@ -2398,6 +2488,16 @@
     "syncedType": "word",
     "linesCount": 70,
     "path": "lyrics-database/m/z/mzB1VGEGcSU.json"
+  },
+  {
+    "videoId": "mRD0-GxqHVo",
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "duration": 236,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 64,
+    "path": "lyrics-database/m/R/mRD0-GxqHVo.json"
   },
   {
     "videoId": "m7Bc3pLyij0",
@@ -2870,6 +2970,16 @@
     "path": "lyrics-database/i/R/iR1sAex__VA.json"
   },
   {
+    "videoId": "iCv47xOQNeA",
+    "title": "Hey Daddy (Daddy's Home)",
+    "artist": "USHER",
+    "duration": 225,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 66,
+    "path": "lyrics-database/i/C/iCv47xOQNeA.json"
+  },
+  {
     "videoId": "ixkoVwKQaJg",
     "title": "Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)",
     "artist": "DJ Snake",
@@ -2948,6 +3058,16 @@
     "syncedType": "word",
     "linesCount": 63,
     "path": "lyrics-database/1/L/1LutQSQ-GWY.json"
+  },
+  {
+    "videoId": "1CptfMEEC8g",
+    "title": "HUGEL feat. Amber van Day - WTF (Official Video)",
+    "artist": "HUGEL",
+    "duration": 163,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 38,
+    "path": "lyrics-database/1/C/1CptfMEEC8g.json"
   },
   {
     "videoId": "1XOJFuKHCck",
@@ -3218,6 +3338,16 @@
     "syncedType": "word",
     "linesCount": 46,
     "path": "lyrics-database/J/A/JApegyYlvyY.json"
+  },
+  {
+    "videoId": "JxT8tfCaFxs",
+    "title": "JVKE - golden hour (Lyrics) | 8D Audio 🎧",
+    "artist": "8D TUNES",
+    "duration": 211,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 32,
+    "path": "lyrics-database/J/x/JxT8tfCaFxs.json"
   },
   {
     "videoId": "J_d_Q3pTYcc",
