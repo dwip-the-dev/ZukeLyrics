@@ -1,0 +1,352 @@
+{
+  "videoId": "ih2xubMaZWI",
+  "title": "Hello",
+  "artist": "OMFG",
+  "duration": 226,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:59.860\" end=\"01:13.780\">\n        <span begin=\"00:59.860\" end=\"01:02.445\">How <\/span>\n        <span begin=\"01:02.445\" end=\"01:05.030\">are <\/span>\n        <span begin=\"01:05.030\" end=\"01:07.615\">you <\/span>\n        <span begin=\"01:07.615\" end=\"01:13.780\">today?<\/span>\n      <\/p>\n      <p begin=\"01:13.780\" end=\"01:18.640\">\n        <span begin=\"01:13.780\" end=\"01:16.470\">Hello, <\/span>\n        <span begin=\"01:16.470\" end=\"01:18.640\">hello<\/span>\n      <\/p>\n      <p begin=\"01:18.640\" end=\"01:32.480\">\n        <span begin=\"01:18.640\" end=\"01:21.318\">Oh <\/span>\n        <span begin=\"01:21.318\" end=\"01:23.996\">my <\/span>\n        <span begin=\"01:23.996\" end=\"01:28.237\">God, <\/span>\n        <span begin=\"01:28.237\" end=\"01:32.480\">wow!<\/span>\n      <\/p>\n      <p begin=\"01:32.480\" end=\"01:51.720\">\n        <span begin=\"01:32.480\" end=\"01:36.053\">How <\/span>\n        <span begin=\"01:36.053\" end=\"01:39.626\">are <\/span>\n        <span begin=\"01:39.626\" end=\"01:43.199\">you <\/span>\n        <span begin=\"01:43.199\" end=\"01:51.720\">today?<\/span>\n      <\/p>\n      <p begin=\"01:51.720\" end=\"01:56.550\">\n        <span begin=\"01:51.720\" end=\"01:52.812\">Yes, <\/span>\n        <span begin=\"01:52.812\" end=\"01:53.617\">it&apos;s <\/span>\n        <span begin=\"01:53.617\" end=\"01:54.422\">that <\/span>\n        <span begin=\"01:54.422\" end=\"01:56.550\">amazing<\/span>\n      <\/p>\n      <p begin=\"01:56.550\" end=\"02:01.260\">\n        <span begin=\"01:56.550\" end=\"01:57.615\">Yes, <\/span>\n        <span begin=\"01:57.615\" end=\"01:58.400\">it&apos;s <\/span>\n        <span begin=\"01:58.400\" end=\"01:59.185\">that <\/span>\n        <span begin=\"01:59.185\" end=\"02:01.260\">amazing<\/span>\n      <\/p>\n      <p begin=\"02:01.260\" end=\"02:05.610\">\n        <span begin=\"02:01.260\" end=\"02:02.243\">Yes, <\/span>\n        <span begin=\"02:02.243\" end=\"02:02.968\">it&apos;s <\/span>\n        <span begin=\"02:02.968\" end=\"02:03.693\">that <\/span>\n        <span begin=\"02:03.693\" end=\"02:05.610\">amazing<\/span>\n      <\/p>\n      <p begin=\"02:05.610\" end=\"02:07.950\">\n        <span begin=\"02:05.610\" end=\"02:06.139\">Yes, <\/span>\n        <span begin=\"02:06.139\" end=\"02:06.529\">it&apos;s <\/span>\n        <span begin=\"02:06.529\" end=\"02:06.919\">that <\/span>\n        <span begin=\"02:06.919\" end=\"02:07.950\">amazing<\/span>\n      <\/p>\n      <p begin=\"02:07.950\" end=\"03:08.650\">\n        <span begin=\"02:07.950\" end=\"02:15.675\">Yeah <\/span>\n        <span begin=\"02:15.675\" end=\"02:22.296\">my <\/span>\n        <span begin=\"02:22.296\" end=\"02:32.780\">God, <\/span>\n        <span begin=\"02:32.780\" end=\"02:40.505\">it&apos;s <\/span>\n        <span begin=\"02:40.505\" end=\"02:48.230\">that <\/span>\n        <span begin=\"02:48.230\" end=\"03:08.650\">amazing<\/span>\n      <\/p>\n      <p begin=\"03:08.650\" end=\"03:21.930\">\n        <span begin=\"03:08.650\" end=\"03:11.116\">How <\/span>\n        <span begin=\"03:11.116\" end=\"03:13.582\">are <\/span>\n        <span begin=\"03:13.582\" end=\"03:16.048\">you <\/span>\n        <span begin=\"03:16.048\" end=\"03:21.930\">today?<\/span>\n      <\/p>\n      <p begin=\"03:21.930\" end=\"03:26.380\">\n        <span begin=\"03:21.930\" end=\"03:24.393\">Hello, <\/span>\n        <span begin=\"03:24.393\" end=\"03:26.380\">hello<\/span>\n      <\/p>\n      <p begin=\"03:26.380\" end=\"03:40.540\">\n        <span begin=\"03:26.380\" end=\"03:29.120\">Oh <\/span>\n        <span begin=\"03:29.120\" end=\"03:31.860\">my <\/span>\n        <span begin=\"03:31.860\" end=\"03:36.199\">God, <\/span>\n        <span begin=\"03:36.199\" end=\"03:40.540\">wow!<\/span>\n      <\/p>\n      <p begin=\"03:40.540\" end=\"03:45.540\">\n        <span begin=\"03:40.540\" end=\"03:41.468\">How <\/span>\n        <span begin=\"03:41.468\" end=\"03:42.396\">are <\/span>\n        <span begin=\"03:42.396\" end=\"03:43.324\">you <\/span>\n        <span begin=\"03:43.324\" end=\"03:45.540\">today?<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 59860,
+      "endTime": 73780,
+      "text": "How are you today?",
+      "words": [
+        {
+          "startTime": 59860,
+          "endTime": 62445,
+          "word": "How "
+        },
+        {
+          "startTime": 62445,
+          "endTime": 65030,
+          "word": "are "
+        },
+        {
+          "startTime": 65030,
+          "endTime": 67615,
+          "word": "you "
+        },
+        {
+          "startTime": 67615,
+          "endTime": 73780,
+          "word": "today?"
+        }
+      ]
+    },
+    {
+      "time": 73780,
+      "endTime": 78640,
+      "text": "Hello, hello",
+      "words": [
+        {
+          "startTime": 73780,
+          "endTime": 76470,
+          "word": "Hello, "
+        },
+        {
+          "startTime": 76470,
+          "endTime": 78640,
+          "word": "hello"
+        }
+      ]
+    },
+    {
+      "time": 78640,
+      "endTime": 92480,
+      "text": "Oh my God, wow!",
+      "words": [
+        {
+          "startTime": 78640,
+          "endTime": 81318,
+          "word": "Oh "
+        },
+        {
+          "startTime": 81318,
+          "endTime": 83996,
+          "word": "my "
+        },
+        {
+          "startTime": 83996,
+          "endTime": 88237,
+          "word": "God, "
+        },
+        {
+          "startTime": 88237,
+          "endTime": 92480,
+          "word": "wow!"
+        }
+      ]
+    },
+    {
+      "time": 92480,
+      "endTime": 111720,
+      "text": "How are you today?",
+      "words": [
+        {
+          "startTime": 92480,
+          "endTime": 96053,
+          "word": "How "
+        },
+        {
+          "startTime": 96053,
+          "endTime": 99626,
+          "word": "are "
+        },
+        {
+          "startTime": 99626,
+          "endTime": 103199,
+          "word": "you "
+        },
+        {
+          "startTime": 103199,
+          "endTime": 111720,
+          "word": "today?"
+        }
+      ]
+    },
+    {
+      "time": 111720,
+      "endTime": 116550,
+      "text": "Yes, it's that amazing",
+      "words": [
+        {
+          "startTime": 111720,
+          "endTime": 112812,
+          "word": "Yes, "
+        },
+        {
+          "startTime": 112812,
+          "endTime": 113617,
+          "word": "it's "
+        },
+        {
+          "startTime": 113617,
+          "endTime": 114422,
+          "word": "that "
+        },
+        {
+          "startTime": 114422,
+          "endTime": 116550,
+          "word": "amazing"
+        }
+      ]
+    },
+    {
+      "time": 116550,
+      "endTime": 121260,
+      "text": "Yes, it's that amazing",
+      "words": [
+        {
+          "startTime": 116550,
+          "endTime": 117615,
+          "word": "Yes, "
+        },
+        {
+          "startTime": 117615,
+          "endTime": 118400,
+          "word": "it's "
+        },
+        {
+          "startTime": 118400,
+          "endTime": 119185,
+          "word": "that "
+        },
+        {
+          "startTime": 119185,
+          "endTime": 121260,
+          "word": "amazing"
+        }
+      ]
+    },
+    {
+      "time": 121260,
+      "endTime": 125610,
+      "text": "Yes, it's that amazing",
+      "words": [
+        {
+          "startTime": 121260,
+          "endTime": 122243,
+          "word": "Yes, "
+        },
+        {
+          "startTime": 122243,
+          "endTime": 122968,
+          "word": "it's "
+        },
+        {
+          "startTime": 122968,
+          "endTime": 123693,
+          "word": "that "
+        },
+        {
+          "startTime": 123693,
+          "endTime": 125610,
+          "word": "amazing"
+        }
+      ]
+    },
+    {
+      "time": 125610,
+      "endTime": 127950,
+      "text": "Yes, it's that amazing",
+      "words": [
+        {
+          "startTime": 125610,
+          "endTime": 126139,
+          "word": "Yes, "
+        },
+        {
+          "startTime": 126139,
+          "endTime": 126529,
+          "word": "it's "
+        },
+        {
+          "startTime": 126529,
+          "endTime": 126919,
+          "word": "that "
+        },
+        {
+          "startTime": 126919,
+          "endTime": 127950,
+          "word": "amazing"
+        }
+      ]
+    },
+    {
+      "time": 127950,
+      "endTime": 188650,
+      "text": "Yeah my God, it's that amazing",
+      "words": [
+        {
+          "startTime": 127950,
+          "endTime": 135675,
+          "word": "Yeah "
+        },
+        {
+          "startTime": 135675,
+          "endTime": 142296,
+          "word": "my "
+        },
+        {
+          "startTime": 142296,
+          "endTime": 152780,
+          "word": "God, "
+        },
+        {
+          "startTime": 152780,
+          "endTime": 160505,
+          "word": "it's "
+        },
+        {
+          "startTime": 160505,
+          "endTime": 168230,
+          "word": "that "
+        },
+        {
+          "startTime": 168230,
+          "endTime": 188650,
+          "word": "amazing"
+        }
+      ]
+    },
+    {
+      "time": 188650,
+      "endTime": 201930,
+      "text": "How are you today?",
+      "words": [
+        {
+          "startTime": 188650,
+          "endTime": 191116,
+          "word": "How "
+        },
+        {
+          "startTime": 191116,
+          "endTime": 193582,
+          "word": "are "
+        },
+        {
+          "startTime": 193582,
+          "endTime": 196048,
+          "word": "you "
+        },
+        {
+          "startTime": 196048,
+          "endTime": 201930,
+          "word": "today?"
+        }
+      ]
+    },
+    {
+      "time": 201930,
+      "endTime": 206380,
+      "text": "Hello, hello",
+      "words": [
+        {
+          "startTime": 201930,
+          "endTime": 204393,
+          "word": "Hello, "
+        },
+        {
+          "startTime": 204393,
+          "endTime": 206380,
+          "word": "hello"
+        }
+      ]
+    },
+    {
+      "time": 206380,
+      "endTime": 220540,
+      "text": "Oh my God, wow!",
+      "words": [
+        {
+          "startTime": 206380,
+          "endTime": 209120,
+          "word": "Oh "
+        },
+        {
+          "startTime": 209120,
+          "endTime": 211860,
+          "word": "my "
+        },
+        {
+          "startTime": 211860,
+          "endTime": 216199,
+          "word": "God, "
+        },
+        {
+          "startTime": 216199,
+          "endTime": 220540,
+          "word": "wow!"
+        }
+      ]
+    },
+    {
+      "time": 220540,
+      "endTime": 225540,
+      "text": "How are you today?",
+      "words": [
+        {
+          "startTime": 220540,
+          "endTime": 221468,
+          "word": "How "
+        },
+        {
+          "startTime": 221468,
+          "endTime": 222396,
+          "word": "are "
+        },
+        {
+          "startTime": 222396,
+          "endTime": 223324,
+          "word": "you "
+        },
+        {
+          "startTime": 223324,
+          "endTime": 225540,
+          "word": "today?"
+        }
+      ]
+    }
+  ]
+}
