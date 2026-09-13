@@ -1,0 +1,2850 @@
+{
+  "videoId": "DgdqPbV2fps",
+  "title": "Ez-Ez",
+  "artist": "Shashwat Sachdev, Diljit Dosanjh, Hanumankind, Raj Ranjodh",
+  "duration": 183,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:21.070\" end=\"00:21.961\" ttm:agent=\"v1\">\n        <span begin=\"00:21.073\" end=\"00:21.507\">Kaule<\/span>\n        <span begin=\"00:21.507\" end=\"00:21.692\">donar<\/span>\n        <span begin=\"00:21.692\" end=\"00:21.961\">ae<\/span>\n      <\/p>\n      <p begin=\"00:21.960\" end=\"00:22.786\" ttm:agent=\"v2000\">\n        <span begin=\"00:21.961\" end=\"00:22.786\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"00:22.780\" end=\"00:23.636\" ttm:agent=\"v1\">\n        <span begin=\"00:22.786\" end=\"00:23.137\">Aar<\/span>\n        <span begin=\"00:23.137\" end=\"00:23.411\">ya<\/span>\n        <span begin=\"00:23.411\" end=\"00:23.511\">paar<\/span>\n        <span begin=\"00:23.511\" end=\"00:23.636\">ae<\/span>\n      <\/p>\n      <p begin=\"00:23.630\" end=\"00:24.437\" ttm:agent=\"v2000\">\n        <span begin=\"00:23.636\" end=\"00:24.437\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"00:24.430\" end=\"00:27.137\" ttm:agent=\"v1\">\n        <span begin=\"00:24.437\" end=\"00:24.711\">Naaran<\/span>\n        <span begin=\"00:24.711\" end=\"00:24.853\">de<\/span>\n        <span begin=\"00:24.853\" end=\"00:25.163\">dil<\/span>\n        <span begin=\"00:25.163\" end=\"00:26.144\">te<\/span>\n        <span begin=\"00:26.144\" end=\"00:26.460\">jatt<\/span>\n        <span begin=\"00:26.460\" end=\"00:26.644\">di<\/span>\n        <span begin=\"00:26.644\" end=\"00:27.013\">maar<\/span>\n        <span begin=\"00:27.013\" end=\"00:27.137\">ae<\/span>\n      <\/p>\n      <p begin=\"00:27.670\" end=\"00:28.623\" ttm:agent=\"v1\">\n        <span begin=\"00:27.672\" end=\"00:28.160\">Dabbi<\/span>\n        <span begin=\"00:28.160\" end=\"00:28.309\">ch<\/span>\n        <span begin=\"00:28.309\" end=\"00:28.623\">kali<\/span>\n      <\/p>\n      <p begin=\"00:28.620\" end=\"00:29.428\" ttm:agent=\"v2000\">\n        <span begin=\"00:28.623\" end=\"00:29.428\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"00:29.430\" end=\"00:30.281\" ttm:agent=\"v1\">\n        <span begin=\"00:29.438\" end=\"00:29.813\">Bor<\/span>\n        <span begin=\"00:29.813\" end=\"00:30.000\">aa<\/span>\n        <span begin=\"00:30.000\" end=\"00:30.281\">40<\/span>\n      <\/p>\n      <p begin=\"00:30.290\" end=\"00:31.113\" ttm:agent=\"v2000\">\n        <span begin=\"00:30.295\" end=\"00:31.113\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"00:31.110\" end=\"00:33.707\" ttm:agent=\"v1\">\n        <span begin=\"00:31.113\" end=\"00:31.535\">Agg<\/span>\n        <span begin=\"00:31.535\" end=\"00:31.654\">la<\/span>\n        <span begin=\"00:31.654\" end=\"00:32.803\">sekki<\/span>\n        <span begin=\"00:32.803\" end=\"00:33.082\">veed<\/span>\n        <span begin=\"00:33.082\" end=\"00:33.249\">si<\/span>\n        <span begin=\"00:33.249\" end=\"00:33.707\">wali<\/span>\n      <\/p>\n      <p begin=\"00:34.440\" end=\"00:35.395\" ttm:agent=\"v1\">\n        <span begin=\"00:34.440\" end=\"00:34.803\">Kaule<\/span>\n        <span begin=\"00:34.803\" end=\"00:35.231\">donar<\/span>\n        <span begin=\"00:35.231\" end=\"00:35.395\">ae<\/span>\n      <\/p>\n      <p begin=\"00:36.090\" end=\"00:37.091\" ttm:agent=\"v1\">\n        <span begin=\"00:36.099\" end=\"00:36.498\">Aar<\/span>\n        <span begin=\"00:36.498\" end=\"00:36.682\">ya<\/span>\n        <span begin=\"00:36.682\" end=\"00:36.974\">paar<\/span>\n        <span begin=\"00:36.974\" end=\"00:37.091\">ae<\/span>\n      <\/p>\n      <p begin=\"00:37.710\" end=\"00:40.415\" ttm:agent=\"v1\">\n        <span begin=\"00:37.715\" end=\"00:38.215\">Naaran<\/span>\n        <span begin=\"00:38.215\" end=\"00:38.346\">de<\/span>\n        <span begin=\"00:38.346\" end=\"00:38.649\">dil<\/span>\n        <span begin=\"00:38.649\" end=\"00:39.595\">te<\/span>\n        <span begin=\"00:39.595\" end=\"00:39.904\">jatt<\/span>\n        <span begin=\"00:39.904\" end=\"00:40.059\">di<\/span>\n        <span begin=\"00:40.059\" end=\"00:40.315\">maar<\/span>\n        <span begin=\"00:40.315\" end=\"00:40.415\">ae<\/span>\n      <\/p>\n      <p begin=\"00:41.130\" end=\"00:41.899\" ttm:agent=\"v1\">\n        <span begin=\"00:41.133\" end=\"00:41.419\">Dabbi<\/span>\n        <span begin=\"00:41.419\" end=\"00:41.555\">ch<\/span>\n        <span begin=\"00:41.555\" end=\"00:41.899\">kaali<\/span>\n      <\/p>\n      <p begin=\"00:42.780\" end=\"00:43.666\" ttm:agent=\"v1\">\n        <span begin=\"00:42.780\" end=\"00:43.101\">Bor<\/span>\n        <span begin=\"00:43.101\" end=\"00:43.371\">aa<\/span>\n        <span begin=\"00:43.371\" end=\"00:43.666\">40<\/span>\n      <\/p>\n      <p begin=\"00:44.460\" end=\"00:46.920\" ttm:agent=\"v1\">\n        <span begin=\"00:44.462\" end=\"00:44.795\">Agg<\/span>\n        <span begin=\"00:44.795\" end=\"00:44.926\">la<\/span>\n        <span begin=\"00:44.926\" end=\"00:46.253\">sekki<\/span>\n        <span begin=\"00:46.253\" end=\"00:46.526\">veed<\/span>\n        <span begin=\"00:46.526\" end=\"00:46.711\">si<\/span>\n        <span begin=\"00:46.711\" end=\"00:46.920\">wali<\/span>\n      <\/p>\n      <p begin=\"00:46.850\" end=\"00:50.319\" ttm:agent=\"v1\">\n        <span begin=\"00:46.857\" end=\"00:47.238\">Yaar<\/span>\n        <span begin=\"00:47.238\" end=\"00:47.547\">di<\/span>\n        <span begin=\"00:47.547\" end=\"00:48.112\">gypsy<\/span>\n        <span begin=\"00:48.112\" end=\"00:48.564\">sandha<\/span>\n        <span begin=\"00:48.564\" end=\"00:48.664\">de<\/span>\n        <span begin=\"00:48.664\" end=\"00:49.088\">naal<\/span>\n        <span begin=\"00:49.088\" end=\"00:49.528\">bhari<\/span>\n        <span begin=\"00:49.528\" end=\"00:49.915\">hoyi<\/span>\n        <span begin=\"00:49.915\" end=\"00:50.319\">aa<\/span>\n      <\/p>\n      <p begin=\"00:50.310\" end=\"00:53.529\" ttm:agent=\"v1\">\n        <span begin=\"00:50.319\" end=\"00:50.688\">Baari<\/span>\n        <span begin=\"00:50.688\" end=\"00:51.027\">khulli<\/span>\n        <span begin=\"00:51.027\" end=\"00:51.432\">aa<\/span>\n        <span begin=\"00:51.432\" end=\"00:52.050\">gandasi<\/span>\n        <span begin=\"00:52.050\" end=\"00:52.508\">hath<\/span>\n        <span begin=\"00:52.508\" end=\"00:52.901\">phadi<\/span>\n        <span begin=\"00:52.901\" end=\"00:53.306\">hoyi<\/span>\n        <span begin=\"00:53.306\" end=\"00:53.529\">aa<\/span>\n      <\/p>\n      <p begin=\"00:53.630\" end=\"00:56.930\" ttm:agent=\"v1\">\n        <span begin=\"00:53.632\" end=\"00:54.156\">Vairi<\/span>\n        <span begin=\"00:54.156\" end=\"00:54.388\">di<\/span>\n        <span begin=\"00:54.388\" end=\"00:54.828\">nadd<\/span>\n        <span begin=\"00:54.828\" end=\"00:55.048\">te<\/span>\n        <span begin=\"00:55.048\" end=\"00:55.453\">nadd<\/span>\n        <span begin=\"00:55.453\" end=\"00:55.893\">ni<\/span>\n        <span begin=\"00:55.893\" end=\"00:56.327\">chadhi<\/span>\n        <span begin=\"00:56.327\" end=\"00:56.523\">hoyi<\/span>\n        <span begin=\"00:56.523\" end=\"00:56.930\">aa<\/span>\n      <\/p>\n      <p begin=\"00:56.930\" end=\"01:00.324\" ttm:agent=\"v1\">\n        <span begin=\"00:56.930\" end=\"00:57.376\">Shoota<\/span>\n        <span begin=\"00:57.376\" end=\"00:57.644\">vatt<\/span>\n        <span begin=\"00:57.644\" end=\"00:57.811\">de<\/span>\n        <span begin=\"00:57.811\" end=\"00:58.209\">aa<\/span>\n        <span begin=\"00:58.209\" end=\"00:58.649\">maut<\/span>\n        <span begin=\"00:58.649\" end=\"00:58.994\">mure<\/span>\n        <span begin=\"00:58.994\" end=\"00:59.542\">khadi<\/span>\n        <span begin=\"00:59.542\" end=\"00:59.732\">hoyi<\/span>\n        <span begin=\"00:59.732\" end=\"01:00.324\">aa<\/span>\n      <\/p>\n      <p begin=\"01:00.320\" end=\"01:03.511\" ttm:agent=\"v1\">\n        <span begin=\"01:00.324\" end=\"01:00.621\">Yaar<\/span>\n        <span begin=\"01:00.621\" end=\"01:00.788\">di<\/span>\n        <span begin=\"01:00.788\" end=\"01:01.377\">gypsy<\/span>\n        <span begin=\"01:01.377\" end=\"01:01.859\">sandha<\/span>\n        <span begin=\"01:01.859\" end=\"01:02.031\">de<\/span>\n        <span begin=\"01:02.031\" end=\"01:02.513\">naal<\/span>\n        <span begin=\"01:02.513\" end=\"01:02.954\">bhari<\/span>\n        <span begin=\"01:02.954\" end=\"01:03.245\">hoyi<\/span>\n        <span begin=\"01:03.245\" end=\"01:03.511\">aa<\/span>\n      <\/p>\n      <p begin=\"01:03.650\" end=\"01:06.895\" ttm:agent=\"v1\">\n        <span begin=\"01:03.650\" end=\"01:04.126\">Baari<\/span>\n        <span begin=\"01:04.126\" end=\"01:04.489\">khulli<\/span>\n        <span begin=\"01:04.489\" end=\"01:04.686\">aa<\/span>\n        <span begin=\"01:04.686\" end=\"01:05.358\">gandasi<\/span>\n        <span begin=\"01:05.358\" end=\"01:05.834\">hath<\/span>\n        <span begin=\"01:05.834\" end=\"01:06.257\">phadi<\/span>\n        <span begin=\"01:06.257\" end=\"01:06.394\">hoyi<\/span>\n        <span begin=\"01:06.394\" end=\"01:06.895\">aa<\/span>\n      <\/p>\n      <p begin=\"01:06.890\" end=\"01:10.257\" ttm:agent=\"v1\">\n        <span begin=\"01:06.895\" end=\"01:07.288\">Yaar<\/span>\n        <span begin=\"01:07.288\" end=\"01:07.460\">di<\/span>\n        <span begin=\"01:07.460\" end=\"01:08.019\">gypsy<\/span>\n        <span begin=\"01:08.019\" end=\"01:08.495\">sandha<\/span>\n        <span begin=\"01:08.495\" end=\"01:08.674\">de<\/span>\n        <span begin=\"01:08.674\" end=\"01:09.150\">naal<\/span>\n        <span begin=\"01:09.150\" end=\"01:09.584\">bhari<\/span>\n        <span begin=\"01:09.584\" end=\"01:09.971\">hoyi<\/span>\n        <span begin=\"01:09.971\" end=\"01:10.257\">aa<\/span>\n      <\/p>\n      <p begin=\"01:10.250\" end=\"01:13.612\" ttm:agent=\"v1\">\n        <span begin=\"01:10.257\" end=\"01:10.858\">Baari<\/span>\n        <span begin=\"01:10.858\" end=\"01:11.102\">khulli<\/span>\n        <span begin=\"01:11.102\" end=\"01:11.518\">aa<\/span>\n        <span begin=\"01:11.518\" end=\"01:12.131\">gandasi<\/span>\n        <span begin=\"01:12.131\" end=\"01:12.607\">hath<\/span>\n        <span begin=\"01:12.607\" end=\"01:12.803\">phadi<\/span>\n        <span begin=\"01:12.803\" end=\"01:13.023\">hoyi<\/span>\n        <span begin=\"01:13.023\" end=\"01:13.612\">aa<\/span>\n      <\/p>\n      <p begin=\"01:13.610\" end=\"01:15.450\" ttm:agent=\"v2\">\n        <span begin=\"01:13.612\" end=\"01:14.295\">Yeah,<\/span>\n        <span begin=\"01:14.481\" end=\"01:14.641\">death<\/span>\n        <span begin=\"01:14.641\" end=\"01:14.778\">is<\/span>\n        <span begin=\"01:14.778\" end=\"01:14.939\">a<\/span>\n        <span begin=\"01:14.939\" end=\"01:15.450\">promise<\/span>\n      <\/p>\n      <p begin=\"01:15.940\" end=\"01:17.021\" ttm:agent=\"v2\">\n        <span begin=\"01:15.949\" end=\"01:16.193\">But<\/span>\n        <span begin=\"01:16.193\" end=\"01:16.318\">what<\/span>\n        <span begin=\"01:16.318\" end=\"01:16.490\">is<\/span>\n        <span begin=\"01:16.490\" end=\"01:16.913\">beyond<\/span>\n        <span begin=\"01:16.913\" end=\"01:17.021\">it<\/span>\n      <\/p>\n      <p begin=\"01:17.560\" end=\"01:19.012\" ttm:agent=\"v2\">\n        <span begin=\"01:17.563\" end=\"01:17.890\">I&apos;m<\/span>\n        <span begin=\"01:17.890\" end=\"01:18.069\">sure<\/span>\n        <span begin=\"01:18.069\" end=\"01:18.194\">that<\/span>\n        <span begin=\"01:18.194\" end=\"01:18.330\">I&apos;ll<\/span>\n        <span begin=\"01:18.330\" end=\"01:18.574\">know<\/span>\n        <span begin=\"01:18.574\" end=\"01:19.012\">soon<\/span>\n      <\/p>\n      <p begin=\"01:19.320\" end=\"01:20.468\" ttm:agent=\"v2\">\n        <span begin=\"01:19.327\" end=\"01:19.577\">I<\/span>\n        <span begin=\"01:19.577\" end=\"01:19.785\">know<\/span>\n        <span begin=\"01:19.785\" end=\"01:19.886\">when<\/span>\n        <span begin=\"01:19.886\" end=\"01:20.023\">I<\/span>\n        <span begin=\"01:20.023\" end=\"01:20.368\">find<\/span>\n        <span begin=\"01:20.368\" end=\"01:20.468\">it<\/span>\n      <\/p>\n      <p begin=\"01:20.900\" end=\"01:22.099\" ttm:agent=\"v2\">\n        <span begin=\"01:20.902\" end=\"01:21.093\">I&apos;m<\/span>\n        <span begin=\"01:21.093\" end=\"01:21.343\">looking<\/span>\n        <span begin=\"01:21.343\" end=\"01:21.575\">for<\/span>\n        <span begin=\"01:21.575\" end=\"01:22.099\">answers<\/span>\n      <\/p>\n      <p begin=\"01:22.530\" end=\"01:23.755\" ttm:agent=\"v2\">\n        <span begin=\"01:22.533\" end=\"01:22.652\">And<\/span>\n        <span begin=\"01:22.652\" end=\"01:22.825\">the<\/span>\n        <span begin=\"01:22.825\" end=\"01:23.098\">meaning<\/span>\n        <span begin=\"01:23.098\" end=\"01:23.580\">behind<\/span>\n        <span begin=\"01:23.580\" end=\"01:23.755\">it<\/span>\n      <\/p>\n      <p begin=\"01:24.200\" end=\"01:25.599\" ttm:agent=\"v2\">\n        <span begin=\"01:24.201\" end=\"01:24.504\">I&apos;m<\/span>\n        <span begin=\"01:24.504\" end=\"01:24.760\">taking<\/span>\n        <span begin=\"01:24.760\" end=\"01:24.896\">a<\/span>\n        <span begin=\"01:24.896\" end=\"01:25.254\">chance<\/span>\n        <span begin=\"01:25.254\" end=\"01:25.599\">here<\/span>\n      <\/p>\n      <p begin=\"01:25.910\" end=\"01:27.032\" ttm:agent=\"v2\">\n        <span begin=\"01:25.914\" end=\"01:26.058\">Yeah,<\/span>\n        <span begin=\"01:26.058\" end=\"01:26.242\">I&apos;m<\/span>\n        <span begin=\"01:26.242\" end=\"01:26.700\">gambling<\/span>\n        <span begin=\"01:26.700\" end=\"01:26.932\">on<\/span>\n        <span begin=\"01:26.932\" end=\"01:27.032\">it<\/span>\n      <\/p>\n      <p begin=\"01:27.600\" end=\"01:29.055\" ttm:agent=\"v2\">\n        <span begin=\"01:27.600\" end=\"01:27.926\">When<\/span>\n        <span begin=\"01:27.926\" end=\"01:28.320\">everyone<\/span>\n        <span begin=\"01:28.320\" end=\"01:28.521\">said<\/span>\n        <span begin=\"01:28.521\" end=\"01:28.646\">that<\/span>\n        <span begin=\"01:28.646\" end=\"01:28.820\">we<\/span>\n        <span begin=\"01:28.820\" end=\"01:29.055\">couldn’t<\/span>\n      <\/p>\n      <p begin=\"01:29.050\" end=\"01:30.801\" ttm:agent=\"v2\">\n        <span begin=\"01:29.055\" end=\"01:29.192\">Put<\/span>\n        <span begin=\"01:29.192\" end=\"01:29.311\">in<\/span>\n        <span begin=\"01:29.311\" end=\"01:29.448\">a<\/span>\n        <span begin=\"01:29.448\" end=\"01:29.989\">register<\/span>\n        <span begin=\"01:29.989\" end=\"01:30.132\">even<\/span>\n        <span begin=\"01:30.132\" end=\"01:30.328\">the<\/span>\n        <span begin=\"01:30.328\" end=\"01:30.801\">odds<\/span>\n      <\/p>\n      <p begin=\"01:30.900\" end=\"01:32.808\" ttm:agent=\"v2\">\n        <span begin=\"01:30.906\" end=\"01:31.114\">The<\/span>\n        <span begin=\"01:31.114\" end=\"01:31.388\">odds<\/span>\n        <span begin=\"01:31.388\" end=\"01:31.840\">against<\/span>\n        <span begin=\"01:31.840\" end=\"01:32.001\">me<\/span>\n        <span begin=\"01:32.001\" end=\"01:32.239\">demons<\/span>\n        <span begin=\"01:32.239\" end=\"01:32.441\">that<\/span>\n        <span begin=\"01:32.441\" end=\"01:32.697\">tear<\/span>\n        <span begin=\"01:32.697\" end=\"01:32.808\">me<\/span>\n      <\/p>\n      <p begin=\"01:32.800\" end=\"01:34.241\" ttm:agent=\"v2\">\n        <span begin=\"01:32.808\" end=\"01:33.295\">Usually<\/span>\n        <span begin=\"01:33.295\" end=\"01:33.433\">come<\/span>\n        <span begin=\"01:33.433\" end=\"01:33.539\">with<\/span>\n        <span begin=\"01:33.539\" end=\"01:33.640\">a<\/span>\n        <span begin=\"01:33.640\" end=\"01:34.241\">smile<\/span>\n      <\/p>\n      <p begin=\"01:34.250\" end=\"01:36.025\" ttm:agent=\"v2\">\n        <span begin=\"01:34.256\" end=\"01:34.542\">Ain&apos;t<\/span>\n        <span begin=\"01:34.542\" end=\"01:34.803\">nothing<\/span>\n        <span begin=\"01:34.803\" end=\"01:34.982\">that<\/span>\n        <span begin=\"01:34.982\" end=\"01:35.142\">I<\/span>\n        <span begin=\"01:35.142\" end=\"01:35.416\">wouldn&apos;t<\/span>\n        <span begin=\"01:35.416\" end=\"01:35.577\">do<\/span>\n        <span begin=\"01:35.577\" end=\"01:35.676\">for<\/span>\n        <span begin=\"01:35.676\" end=\"01:35.844\">the<\/span>\n        <span begin=\"01:35.844\" end=\"01:36.025\">people<\/span>\n      <\/p>\n      <p begin=\"01:36.020\" end=\"01:37.443\" ttm:agent=\"v2\">\n        <span begin=\"01:36.025\" end=\"01:36.263\">I<\/span>\n        <span begin=\"01:36.263\" end=\"01:36.424\">love<\/span>\n        <span begin=\"01:36.424\" end=\"01:36.525\">I&apos;ve<\/span>\n        <span begin=\"01:36.525\" end=\"01:36.679\">been<\/span>\n        <span begin=\"01:36.679\" end=\"01:36.852\">ready<\/span>\n        <span begin=\"01:36.852\" end=\"01:36.952\">to<\/span>\n        <span begin=\"01:36.952\" end=\"01:37.443\">die<\/span>\n      <\/p>\n      <p begin=\"01:37.590\" end=\"01:39.314\" ttm:agent=\"v2\">\n        <span begin=\"01:37.592\" end=\"01:37.800\">We’re<\/span>\n        <span begin=\"01:37.800\" end=\"01:38.056\">armed<\/span>\n        <span begin=\"01:38.056\" end=\"01:38.217\">and<\/span>\n        <span begin=\"01:38.217\" end=\"01:38.443\">ready<\/span>\n        <span begin=\"01:38.443\" end=\"01:38.609\">it’s<\/span>\n        <span begin=\"01:38.609\" end=\"01:38.758\">about<\/span>\n        <span begin=\"01:38.758\" end=\"01:38.883\">to<\/span>\n        <span begin=\"01:38.883\" end=\"01:39.032\">get<\/span>\n        <span begin=\"01:39.032\" end=\"01:39.314\">heavy<\/span>\n      <\/p>\n      <p begin=\"01:39.310\" end=\"01:40.770\" ttm:agent=\"v2\">\n        <span begin=\"01:39.314\" end=\"01:39.487\">Now<\/span>\n        <span begin=\"01:39.487\" end=\"01:39.634\">tell<\/span>\n        <span begin=\"01:39.634\" end=\"01:39.771\">me<\/span>\n        <span begin=\"01:39.771\" end=\"01:39.920\">you<\/span>\n        <span begin=\"01:39.920\" end=\"01:40.170\">ready<\/span>\n        <span begin=\"01:40.170\" end=\"01:40.343\">or<\/span>\n        <span begin=\"01:40.343\" end=\"01:40.770\">not<\/span>\n      <\/p>\n      <p begin=\"01:41.070\" end=\"01:42.372\" ttm:agent=\"v2\">\n        <span begin=\"01:41.073\" end=\"01:41.507\">Yeah,<\/span>\n        <span begin=\"01:41.507\" end=\"01:41.650\">you<\/span>\n        <span begin=\"01:41.650\" end=\"01:41.829\">ready<\/span>\n        <span begin=\"01:41.829\" end=\"01:42.055\">or<\/span>\n        <span begin=\"01:42.055\" end=\"01:42.372\">not<\/span>\n      <\/p>\n      <p begin=\"01:42.670\" end=\"01:44.087\" ttm:agent=\"v2\">\n        <span begin=\"01:42.678\" end=\"01:43.035\">Tell<\/span>\n        <span begin=\"01:43.035\" end=\"01:43.148\">me<\/span>\n        <span begin=\"01:43.148\" end=\"01:43.315\">you<\/span>\n        <span begin=\"01:43.315\" end=\"01:43.559\">ready<\/span>\n        <span begin=\"01:43.559\" end=\"01:43.743\">or<\/span>\n        <span begin=\"01:43.743\" end=\"01:44.087\">not<\/span>\n      <\/p>\n      <p begin=\"01:44.740\" end=\"01:45.723\" ttm:agent=\"v2\">\n        <span begin=\"01:44.741\" end=\"01:44.943\">You<\/span>\n        <span begin=\"01:44.943\" end=\"01:45.092\">ready<\/span>\n        <span begin=\"01:45.092\" end=\"01:45.265\">or<\/span>\n        <span begin=\"01:45.265\" end=\"01:45.723\">not<\/span>\n      <\/p>\n      <p begin=\"01:46.090\" end=\"01:47.343\" ttm:agent=\"v2\">\n        <span begin=\"01:46.092\" end=\"01:46.270\">You<\/span>\n        <span begin=\"01:46.270\" end=\"01:46.550\">really<\/span>\n        <span begin=\"01:46.550\" end=\"01:46.812\">ready<\/span>\n        <span begin=\"01:46.812\" end=\"01:46.967\">or<\/span>\n        <span begin=\"01:46.967\" end=\"01:47.343\">not<\/span>\n      <\/p>\n      <p begin=\"01:47.680\" end=\"01:49.044\" ttm:agent=\"v2\">\n        <span begin=\"01:47.683\" end=\"01:47.979\">Tell<\/span>\n        <span begin=\"01:47.979\" end=\"01:48.082\">me<\/span>\n        <span begin=\"01:48.082\" end=\"01:48.259\">you<\/span>\n        <span begin=\"01:48.259\" end=\"01:48.503\">ready<\/span>\n        <span begin=\"01:48.503\" end=\"01:48.676\">or<\/span>\n        <span begin=\"01:48.676\" end=\"01:49.044\">not<\/span>\n      <\/p>\n      <p begin=\"01:49.200\" end=\"01:50.789\" ttm:agent=\"v2\">\n        <span begin=\"01:49.202\" end=\"01:49.517\">Can’t<\/span>\n        <span begin=\"01:49.517\" end=\"01:49.678\">tell<\/span>\n        <span begin=\"01:49.678\" end=\"01:49.821\">if<\/span>\n        <span begin=\"01:49.821\" end=\"01:49.981\">you’re<\/span>\n        <span begin=\"01:49.981\" end=\"01:50.255\">ready<\/span>\n        <span begin=\"01:50.255\" end=\"01:50.410\">or<\/span>\n        <span begin=\"01:50.410\" end=\"01:50.789\">not<\/span>\n      <\/p>\n      <p begin=\"01:50.950\" end=\"01:52.387\" ttm:agent=\"v2\">\n        <span begin=\"01:50.952\" end=\"01:51.273\">Are<\/span>\n        <span begin=\"01:51.273\" end=\"01:51.398\">you<\/span>\n        <span begin=\"01:51.398\" end=\"01:51.702\">really<\/span>\n        <span begin=\"01:51.702\" end=\"01:51.916\">ready<\/span>\n        <span begin=\"01:51.916\" end=\"01:52.088\">or<\/span>\n        <span begin=\"01:52.088\" end=\"01:52.387\">not<\/span>\n      <\/p>\n      <p begin=\"01:52.600\" end=\"01:54.051\" ttm:agent=\"v2\">\n        <span begin=\"01:52.604\" end=\"01:52.931\">We<\/span>\n        <span begin=\"01:52.931\" end=\"01:53.031\">know<\/span>\n        <span begin=\"01:53.031\" end=\"01:53.151\">if<\/span>\n        <span begin=\"01:53.151\" end=\"01:53.251\">you’re<\/span>\n        <span begin=\"01:53.251\" end=\"01:53.407\">ready<\/span>\n        <span begin=\"01:53.407\" end=\"01:53.604\">or<\/span>\n        <span begin=\"01:53.604\" end=\"01:54.051\">not<\/span>\n      <\/p>\n      <p begin=\"01:54.430\" end=\"01:55.338\" ttm:agent=\"v1\">\n        <span begin=\"01:54.438\" end=\"01:54.765\">Kaule<\/span>\n        <span begin=\"01:54.765\" end=\"01:55.170\">donar<\/span>\n        <span begin=\"01:55.170\" end=\"01:55.338\">ea<\/span>\n      <\/p>\n      <p begin=\"01:56.040\" end=\"01:57.009\" ttm:agent=\"v2\">\n        <span begin=\"01:56.043\" end=\"01:56.346\">Death<\/span>\n        <span begin=\"01:56.346\" end=\"01:56.448\">is<\/span>\n        <span begin=\"01:56.448\" end=\"01:56.590\">a<\/span>\n        <span begin=\"01:56.590\" end=\"01:57.009\">promise<\/span>\n      <\/p>\n      <p begin=\"01:57.750\" end=\"01:58.755\" ttm:agent=\"v1\">\n        <span begin=\"01:57.751\" end=\"01:58.102\">Aar<\/span>\n        <span begin=\"01:58.102\" end=\"01:58.370\">ya<\/span>\n        <span begin=\"01:58.370\" end=\"01:58.655\">paar<\/span>\n        <span begin=\"01:58.655\" end=\"01:58.755\">ae<\/span>\n      <\/p>\n      <p begin=\"01:59.320\" end=\"02:00.421\" ttm:agent=\"v2\">\n        <span begin=\"01:59.320\" end=\"01:59.588\">But<\/span>\n        <span begin=\"01:59.588\" end=\"01:59.735\">what<\/span>\n        <span begin=\"01:59.735\" end=\"01:59.890\">is<\/span>\n        <span begin=\"01:59.890\" end=\"02:00.314\">beyond<\/span>\n        <span begin=\"02:00.314\" end=\"02:00.421\">it<\/span>\n      <\/p>\n      <p begin=\"02:01.070\" end=\"02:02.747\" ttm:agent=\"v1\">\n        <span begin=\"02:01.076\" end=\"02:01.540\">Naaran<\/span>\n        <span begin=\"02:01.540\" end=\"02:01.843\">de<\/span>\n        <span begin=\"02:01.843\" end=\"02:02.409\">dil<\/span>\n        <span begin=\"02:02.409\" end=\"02:02.747\">te<\/span>\n      <\/p>\n      <p begin=\"02:02.640\" end=\"02:04.038\" ttm:agent=\"v2\">\n        <span begin=\"02:02.644\" end=\"02:02.769\">I&apos;m<\/span>\n        <span begin=\"02:02.769\" end=\"02:02.936\">sure<\/span>\n        <span begin=\"02:02.936\" end=\"02:03.066\">that<\/span>\n        <span begin=\"02:03.066\" end=\"02:03.203\">I&apos;ll<\/span>\n        <span begin=\"02:03.203\" end=\"02:03.423\">know<\/span>\n        <span begin=\"02:03.423\" end=\"02:04.038\">soon<\/span>\n      <\/p>\n      <p begin=\"02:04.430\" end=\"02:05.404\" ttm:agent=\"v1\">\n        <span begin=\"02:04.435\" end=\"02:04.840\">Jatt<\/span>\n        <span begin=\"02:04.840\" end=\"02:05.018\">di<\/span>\n        <span begin=\"02:05.018\" end=\"02:05.118\">maar<\/span>\n        <span begin=\"02:05.118\" end=\"02:05.404\">ae<\/span>\n      <\/p>\n      <p begin=\"02:05.830\" end=\"02:07.083\" ttm:agent=\"v2\">\n        <span begin=\"02:05.835\" end=\"02:06.210\">I<\/span>\n        <span begin=\"02:06.210\" end=\"02:06.376\">know<\/span>\n        <span begin=\"02:06.376\" end=\"02:06.489\">when<\/span>\n        <span begin=\"02:06.489\" end=\"02:06.680\">I<\/span>\n        <span begin=\"02:06.680\" end=\"02:06.983\">found<\/span>\n        <span begin=\"02:06.983\" end=\"02:07.083\">it<\/span>\n      <\/p>\n      <p begin=\"02:07.740\" end=\"02:08.715\" ttm:agent=\"v1\">\n        <span begin=\"02:07.745\" end=\"02:08.251\">Kaule<\/span>\n        <span begin=\"02:08.251\" end=\"02:08.554\">donar<\/span>\n        <span begin=\"02:08.554\" end=\"02:08.715\">ae<\/span>\n      <\/p>\n      <p begin=\"02:09.290\" end=\"02:10.483\" ttm:agent=\"v2\">\n        <span begin=\"02:09.297\" end=\"02:09.452\">I&apos;m<\/span>\n        <span begin=\"02:09.452\" end=\"02:09.708\">looking<\/span>\n        <span begin=\"02:09.708\" end=\"02:09.904\">for<\/span>\n        <span begin=\"02:09.904\" end=\"02:10.483\">answers<\/span>\n      <\/p>\n      <p begin=\"02:11.170\" end=\"02:12.087\" ttm:agent=\"v1\">\n        <span begin=\"02:11.178\" end=\"02:11.392\">Aar<\/span>\n        <span begin=\"02:11.392\" end=\"02:11.630\">ya<\/span>\n        <span begin=\"02:11.630\" end=\"02:11.987\">paar<\/span>\n        <span begin=\"02:11.987\" end=\"02:12.087\">ae<\/span>\n      <\/p>\n      <p begin=\"02:12.610\" end=\"02:13.721\" ttm:agent=\"v2\">\n        <span begin=\"02:12.614\" end=\"02:12.870\">The<\/span>\n        <span begin=\"02:12.870\" end=\"02:13.132\">meaning<\/span>\n        <span begin=\"02:13.132\" end=\"02:13.584\">behind<\/span>\n        <span begin=\"02:13.584\" end=\"02:13.721\">it<\/span>\n      <\/p>\n      <p begin=\"02:14.400\" end=\"02:16.099\" ttm:agent=\"v1\">\n        <span begin=\"02:14.408\" end=\"02:14.884\">Naaran<\/span>\n        <span begin=\"02:14.884\" end=\"02:15.015\">de<\/span>\n        <span begin=\"02:15.015\" end=\"02:15.312\">dil<\/span>\n        <span begin=\"02:15.312\" end=\"02:16.099\">te<\/span>\n      <\/p>\n      <p begin=\"02:15.950\" end=\"02:17.215\" ttm:agent=\"v2\">\n        <span begin=\"02:15.957\" end=\"02:16.254\">I&apos;m<\/span>\n        <span begin=\"02:16.254\" end=\"02:16.492\">taking<\/span>\n        <span begin=\"02:16.492\" end=\"02:16.647\">a<\/span>\n        <span begin=\"02:16.647\" end=\"02:16.998\">chance<\/span>\n        <span begin=\"02:16.998\" end=\"02:17.215\">here<\/span>\n      <\/p>\n      <p begin=\"02:17.630\" end=\"02:18.787\" ttm:agent=\"v1\">\n        <span begin=\"02:17.634\" end=\"02:18.079\">Jatt<\/span>\n        <span begin=\"02:18.079\" end=\"02:18.241\">di<\/span>\n        <span begin=\"02:18.241\" end=\"02:18.687\">maar<\/span>\n        <span begin=\"02:18.687\" end=\"02:18.787\">ae<\/span>\n      <\/p>\n      <p begin=\"02:19.410\" end=\"02:20.360\" ttm:agent=\"v2\">\n        <span begin=\"02:19.411\" end=\"02:20.360\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"02:20.210\" end=\"02:23.685\" ttm:agent=\"v1\">\n        <span begin=\"02:20.213\" end=\"02:20.499\">Yaar<\/span>\n        <span begin=\"02:20.499\" end=\"02:20.802\">di<\/span>\n        <span begin=\"02:20.802\" end=\"02:21.373\">gypsy<\/span>\n        <span begin=\"02:21.373\" end=\"02:21.861\">sandha<\/span>\n        <span begin=\"02:21.861\" end=\"02:22.039\">de<\/span>\n        <span begin=\"02:22.039\" end=\"02:22.545\">naal<\/span>\n        <span begin=\"02:22.545\" end=\"02:22.985\">bhari<\/span>\n        <span begin=\"02:22.985\" end=\"02:23.372\">hoyi<\/span>\n        <span begin=\"02:23.372\" end=\"02:23.685\">aa<\/span>\n      <\/p>\n      <p begin=\"02:23.680\" end=\"02:26.931\" ttm:agent=\"v1\">\n        <span begin=\"02:23.685\" end=\"02:24.137\">Baari<\/span>\n        <span begin=\"02:24.137\" end=\"02:24.476\">khulli<\/span>\n        <span begin=\"02:24.476\" end=\"02:24.875\">aa<\/span>\n        <span begin=\"02:24.875\" end=\"02:25.303\">gandasi<\/span>\n        <span begin=\"02:25.303\" end=\"02:25.755\">hath<\/span>\n        <span begin=\"02:25.755\" end=\"02:26.154\">phadi<\/span>\n        <span begin=\"02:26.154\" end=\"02:26.362\">hoyi<\/span>\n        <span begin=\"02:26.362\" end=\"02:26.931\">aa<\/span>\n      <\/p>\n      <p begin=\"02:26.930\" end=\"02:30.281\" ttm:agent=\"v1\">\n        <span begin=\"02:26.931\" end=\"02:27.407\">Vairi<\/span>\n        <span begin=\"02:27.407\" end=\"02:27.639\">di<\/span>\n        <span begin=\"02:27.639\" end=\"02:28.079\">nadd<\/span>\n        <span begin=\"02:28.079\" end=\"02:28.270\">te<\/span>\n        <span begin=\"02:28.270\" end=\"02:28.710\">nadd<\/span>\n        <span begin=\"02:28.710\" end=\"02:29.150\">ni<\/span>\n        <span begin=\"02:29.150\" end=\"02:29.578\">chadhi<\/span>\n        <span begin=\"02:29.578\" end=\"02:29.989\">hoyi<\/span>\n        <span begin=\"02:29.989\" end=\"02:30.281\">aa<\/span>\n      <\/p>\n      <p begin=\"02:30.280\" end=\"02:33.789\" ttm:agent=\"v1\">\n        <span begin=\"02:30.281\" end=\"02:30.834\">Shoota<\/span>\n        <span begin=\"02:30.834\" end=\"02:31.102\">vatt<\/span>\n        <span begin=\"02:31.102\" end=\"02:31.263\">de<\/span>\n        <span begin=\"02:31.263\" end=\"02:31.673\">aa<\/span>\n        <span begin=\"02:31.673\" end=\"02:32.119\">maut<\/span>\n        <span begin=\"02:32.119\" end=\"02:32.453\">mure<\/span>\n        <span begin=\"02:32.453\" end=\"02:32.994\">khadi<\/span>\n        <span begin=\"02:32.994\" end=\"02:33.625\">hoyi<\/span>\n        <span begin=\"02:33.625\" end=\"02:33.789\">aa<\/span>\n      <\/p>\n      <p begin=\"02:33.620\" end=\"02:36.856\" ttm:agent=\"v1\">\n        <span begin=\"02:33.629\" end=\"02:33.867\">Yaar<\/span>\n        <span begin=\"02:33.867\" end=\"02:34.040\">di<\/span>\n        <span begin=\"02:34.040\" end=\"02:34.629\">gypsy<\/span>\n        <span begin=\"02:34.629\" end=\"02:35.103\">sandha<\/span>\n        <span begin=\"02:35.103\" end=\"02:35.277\">de<\/span>\n        <span begin=\"02:35.277\" end=\"02:35.765\">naal<\/span>\n        <span begin=\"02:35.765\" end=\"02:36.211\">bhari<\/span>\n        <span begin=\"02:36.211\" end=\"02:36.491\">hoyi<\/span>\n        <span begin=\"02:36.491\" end=\"02:36.856\">aa<\/span>\n      <\/p>\n      <p begin=\"02:36.950\" end=\"02:40.236\" ttm:agent=\"v1\">\n        <span begin=\"02:36.956\" end=\"02:37.378\">Baari<\/span>\n        <span begin=\"02:37.378\" end=\"02:37.741\">khulli<\/span>\n        <span begin=\"02:37.741\" end=\"02:38.146\">aa<\/span>\n        <span begin=\"02:38.146\" end=\"02:38.812\">gandasi<\/span>\n        <span begin=\"02:38.812\" end=\"02:39.288\">hath<\/span>\n        <span begin=\"02:39.288\" end=\"02:39.704\">phadi<\/span>\n        <span begin=\"02:39.704\" end=\"02:39.847\">hoyi<\/span>\n        <span begin=\"02:39.847\" end=\"02:40.236\">aa<\/span>\n      <\/p>\n      <p begin=\"02:40.260\" end=\"02:43.605\" ttm:agent=\"v1\">\n        <span begin=\"02:40.264\" end=\"02:40.746\">Yaar<\/span>\n        <span begin=\"02:40.746\" end=\"02:40.924\">di<\/span>\n        <span begin=\"02:40.924\" end=\"02:41.264\">gypsy<\/span>\n        <span begin=\"02:41.264\" end=\"02:41.751\">sandha<\/span>\n        <span begin=\"02:41.751\" end=\"02:41.936\">de<\/span>\n        <span begin=\"02:41.936\" end=\"02:42.412\">naal<\/span>\n        <span begin=\"02:42.412\" end=\"02:42.840\">bhari<\/span>\n        <span begin=\"02:42.840\" end=\"02:43.227\">hoyi<\/span>\n        <span begin=\"02:43.227\" end=\"02:43.605\">aa<\/span>\n      <\/p>\n      <p begin=\"02:43.600\" end=\"02:46.962\" ttm:agent=\"v1\">\n        <span begin=\"02:43.605\" end=\"02:44.117\">Baari<\/span>\n        <span begin=\"02:44.117\" end=\"02:44.361\">khulli<\/span>\n        <span begin=\"02:44.361\" end=\"02:44.765\">aa<\/span>\n        <span begin=\"02:44.765\" end=\"02:45.390\">gandasi<\/span>\n        <span begin=\"02:45.390\" end=\"02:45.860\">hath<\/span>\n        <span begin=\"02:45.860\" end=\"02:46.258\">phadi<\/span>\n        <span begin=\"02:46.258\" end=\"02:46.473\">hoyi<\/span>\n        <span begin=\"02:46.473\" end=\"02:46.962\">aa<\/span>\n      <\/p>\n      <p begin=\"02:47.700\" end=\"02:49.067\" ttm:agent=\"v2\">\n        <span begin=\"02:47.704\" end=\"02:48.210\">Yeah<\/span>\n        <span begin=\"02:48.210\" end=\"02:48.364\">you<\/span>\n        <span begin=\"02:48.364\" end=\"02:48.590\">ready<\/span>\n        <span begin=\"02:48.590\" end=\"02:48.769\">or<\/span>\n        <span begin=\"02:48.769\" end=\"02:49.067\">not<\/span>\n      <\/p>\n      <p begin=\"02:49.450\" end=\"02:50.331\" ttm:agent=\"v2000\">\n        <span begin=\"02:49.452\" end=\"02:50.331\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"02:51.330\" end=\"02:52.418\" ttm:agent=\"v2\">\n        <span begin=\"02:51.333\" end=\"02:51.571\">You<\/span>\n        <span begin=\"02:51.571\" end=\"02:51.821\">ready<\/span>\n        <span begin=\"02:51.821\" end=\"02:51.993\">or<\/span>\n        <span begin=\"02:51.993\" end=\"02:52.418\">not<\/span>\n      <\/p>\n      <p begin=\"02:52.850\" end=\"02:53.664\" ttm:agent=\"v2000\">\n        <span begin=\"02:52.852\" end=\"02:53.664\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"02:54.420\" end=\"02:55.767\" ttm:agent=\"v2\">\n        <span begin=\"02:54.429\" end=\"02:54.703\">Tell<\/span>\n        <span begin=\"02:54.703\" end=\"02:54.804\">me<\/span>\n        <span begin=\"02:54.804\" end=\"02:54.982\">you<\/span>\n        <span begin=\"02:54.982\" end=\"02:55.220\">ready<\/span>\n        <span begin=\"02:55.220\" end=\"02:55.399\">or<\/span>\n        <span begin=\"02:55.399\" end=\"02:55.767\">not<\/span>\n      <\/p>\n      <p begin=\"02:56.160\" end=\"02:56.999\" ttm:agent=\"v2000\">\n        <span begin=\"02:56.165\" end=\"02:56.999\">Ez-ez<\/span>\n      <\/p>\n      <p begin=\"02:57.570\" end=\"02:59.061\" ttm:agent=\"v2\">\n        <span begin=\"02:57.570\" end=\"02:57.790\">Now<\/span>\n        <span begin=\"02:57.790\" end=\"02:57.921\">you<\/span>\n        <span begin=\"02:57.921\" end=\"02:58.224\">really<\/span>\n        <span begin=\"02:58.224\" end=\"02:58.439\">ready<\/span>\n        <span begin=\"02:58.439\" end=\"02:58.617\">or<\/span>\n        <span begin=\"02:58.617\" end=\"02:59.061\">not<\/span>\n      <\/p>\n      <p begin=\"02:59.390\" end=\"03:00.360\" ttm:agent=\"v2000\">\n        <span begin=\"02:59.397\" end=\"03:00.360\">Ez-ez<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 21070,
+      "endTime": 21961,
+      "text": "Kaule donar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21073,
+          "endTime": 21507,
+          "word": "Kaule"
+        },
+        {
+          "startTime": 21507,
+          "endTime": 21692,
+          "word": "donar"
+        },
+        {
+          "startTime": 21692,
+          "endTime": 21961,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 21960,
+      "endTime": 22786,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 21961,
+          "endTime": 22786,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 22780,
+      "endTime": 23636,
+      "text": "Aar ya paar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 22786,
+          "endTime": 23137,
+          "word": "Aar"
+        },
+        {
+          "startTime": 23137,
+          "endTime": 23411,
+          "word": "ya"
+        },
+        {
+          "startTime": 23411,
+          "endTime": 23511,
+          "word": "paar"
+        },
+        {
+          "startTime": 23511,
+          "endTime": 23636,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 23630,
+      "endTime": 24437,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 23636,
+          "endTime": 24437,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 24430,
+      "endTime": 27137,
+      "text": "Naaran de dil te jatt di maar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24437,
+          "endTime": 24711,
+          "word": "Naaran"
+        },
+        {
+          "startTime": 24711,
+          "endTime": 24853,
+          "word": "de"
+        },
+        {
+          "startTime": 24853,
+          "endTime": 25163,
+          "word": "dil"
+        },
+        {
+          "startTime": 25163,
+          "endTime": 26144,
+          "word": "te"
+        },
+        {
+          "startTime": 26144,
+          "endTime": 26460,
+          "word": "jatt"
+        },
+        {
+          "startTime": 26460,
+          "endTime": 26644,
+          "word": "di"
+        },
+        {
+          "startTime": 26644,
+          "endTime": 27013,
+          "word": "maar"
+        },
+        {
+          "startTime": 27013,
+          "endTime": 27137,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 27670,
+      "endTime": 28623,
+      "text": "Dabbi ch kali",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 27672,
+          "endTime": 28160,
+          "word": "Dabbi"
+        },
+        {
+          "startTime": 28160,
+          "endTime": 28309,
+          "word": "ch"
+        },
+        {
+          "startTime": 28309,
+          "endTime": 28623,
+          "word": "kali"
+        }
+      ]
+    },
+    {
+      "time": 28620,
+      "endTime": 29428,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 28623,
+          "endTime": 29428,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 29430,
+      "endTime": 30281,
+      "text": "Bor aa 40",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29438,
+          "endTime": 29813,
+          "word": "Bor"
+        },
+        {
+          "startTime": 29813,
+          "endTime": 30000,
+          "word": "aa"
+        },
+        {
+          "startTime": 30000,
+          "endTime": 30281,
+          "word": "40"
+        }
+      ]
+    },
+    {
+      "time": 30290,
+      "endTime": 31113,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 30295,
+          "endTime": 31113,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 31110,
+      "endTime": 33707,
+      "text": "Agg la sekki veed si wali",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31113,
+          "endTime": 31535,
+          "word": "Agg"
+        },
+        {
+          "startTime": 31535,
+          "endTime": 31654,
+          "word": "la"
+        },
+        {
+          "startTime": 31654,
+          "endTime": 32803,
+          "word": "sekki"
+        },
+        {
+          "startTime": 32803,
+          "endTime": 33082,
+          "word": "veed"
+        },
+        {
+          "startTime": 33082,
+          "endTime": 33249,
+          "word": "si"
+        },
+        {
+          "startTime": 33249,
+          "endTime": 33707,
+          "word": "wali"
+        }
+      ]
+    },
+    {
+      "time": 34440,
+      "endTime": 35395,
+      "text": "Kaule donar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34440,
+          "endTime": 34803,
+          "word": "Kaule"
+        },
+        {
+          "startTime": 34803,
+          "endTime": 35231,
+          "word": "donar"
+        },
+        {
+          "startTime": 35231,
+          "endTime": 35395,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 36090,
+      "endTime": 37091,
+      "text": "Aar ya paar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36099,
+          "endTime": 36498,
+          "word": "Aar"
+        },
+        {
+          "startTime": 36498,
+          "endTime": 36682,
+          "word": "ya"
+        },
+        {
+          "startTime": 36682,
+          "endTime": 36974,
+          "word": "paar"
+        },
+        {
+          "startTime": 36974,
+          "endTime": 37091,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 37710,
+      "endTime": 40415,
+      "text": "Naaran de dil te jatt di maar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37715,
+          "endTime": 38215,
+          "word": "Naaran"
+        },
+        {
+          "startTime": 38215,
+          "endTime": 38346,
+          "word": "de"
+        },
+        {
+          "startTime": 38346,
+          "endTime": 38649,
+          "word": "dil"
+        },
+        {
+          "startTime": 38649,
+          "endTime": 39595,
+          "word": "te"
+        },
+        {
+          "startTime": 39595,
+          "endTime": 39904,
+          "word": "jatt"
+        },
+        {
+          "startTime": 39904,
+          "endTime": 40059,
+          "word": "di"
+        },
+        {
+          "startTime": 40059,
+          "endTime": 40315,
+          "word": "maar"
+        },
+        {
+          "startTime": 40315,
+          "endTime": 40415,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 41130,
+      "endTime": 41899,
+      "text": "Dabbi ch kaali",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41133,
+          "endTime": 41419,
+          "word": "Dabbi"
+        },
+        {
+          "startTime": 41419,
+          "endTime": 41555,
+          "word": "ch"
+        },
+        {
+          "startTime": 41555,
+          "endTime": 41899,
+          "word": "kaali"
+        }
+      ]
+    },
+    {
+      "time": 42780,
+      "endTime": 43666,
+      "text": "Bor aa 40",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42780,
+          "endTime": 43101,
+          "word": "Bor"
+        },
+        {
+          "startTime": 43101,
+          "endTime": 43371,
+          "word": "aa"
+        },
+        {
+          "startTime": 43371,
+          "endTime": 43666,
+          "word": "40"
+        }
+      ]
+    },
+    {
+      "time": 44460,
+      "endTime": 46920,
+      "text": "Agg la sekki veed si wali",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44462,
+          "endTime": 44795,
+          "word": "Agg"
+        },
+        {
+          "startTime": 44795,
+          "endTime": 44926,
+          "word": "la"
+        },
+        {
+          "startTime": 44926,
+          "endTime": 46253,
+          "word": "sekki"
+        },
+        {
+          "startTime": 46253,
+          "endTime": 46526,
+          "word": "veed"
+        },
+        {
+          "startTime": 46526,
+          "endTime": 46711,
+          "word": "si"
+        },
+        {
+          "startTime": 46711,
+          "endTime": 46920,
+          "word": "wali"
+        }
+      ]
+    },
+    {
+      "time": 46850,
+      "endTime": 50319,
+      "text": "Yaar di gypsy sandha de naal bhari hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46857,
+          "endTime": 47238,
+          "word": "Yaar"
+        },
+        {
+          "startTime": 47238,
+          "endTime": 47547,
+          "word": "di"
+        },
+        {
+          "startTime": 47547,
+          "endTime": 48112,
+          "word": "gypsy"
+        },
+        {
+          "startTime": 48112,
+          "endTime": 48564,
+          "word": "sandha"
+        },
+        {
+          "startTime": 48564,
+          "endTime": 48664,
+          "word": "de"
+        },
+        {
+          "startTime": 48664,
+          "endTime": 49088,
+          "word": "naal"
+        },
+        {
+          "startTime": 49088,
+          "endTime": 49528,
+          "word": "bhari"
+        },
+        {
+          "startTime": 49528,
+          "endTime": 49915,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 49915,
+          "endTime": 50319,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 50310,
+      "endTime": 53529,
+      "text": "Baari khulli aa gandasi hath phadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50319,
+          "endTime": 50688,
+          "word": "Baari"
+        },
+        {
+          "startTime": 50688,
+          "endTime": 51027,
+          "word": "khulli"
+        },
+        {
+          "startTime": 51027,
+          "endTime": 51432,
+          "word": "aa"
+        },
+        {
+          "startTime": 51432,
+          "endTime": 52050,
+          "word": "gandasi"
+        },
+        {
+          "startTime": 52050,
+          "endTime": 52508,
+          "word": "hath"
+        },
+        {
+          "startTime": 52508,
+          "endTime": 52901,
+          "word": "phadi"
+        },
+        {
+          "startTime": 52901,
+          "endTime": 53306,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 53306,
+          "endTime": 53529,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 53630,
+      "endTime": 56930,
+      "text": "Vairi di nadd te nadd ni chadhi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53632,
+          "endTime": 54156,
+          "word": "Vairi"
+        },
+        {
+          "startTime": 54156,
+          "endTime": 54388,
+          "word": "di"
+        },
+        {
+          "startTime": 54388,
+          "endTime": 54828,
+          "word": "nadd"
+        },
+        {
+          "startTime": 54828,
+          "endTime": 55048,
+          "word": "te"
+        },
+        {
+          "startTime": 55048,
+          "endTime": 55453,
+          "word": "nadd"
+        },
+        {
+          "startTime": 55453,
+          "endTime": 55893,
+          "word": "ni"
+        },
+        {
+          "startTime": 55893,
+          "endTime": 56327,
+          "word": "chadhi"
+        },
+        {
+          "startTime": 56327,
+          "endTime": 56523,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 56523,
+          "endTime": 56930,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 56930,
+      "endTime": 60324,
+      "text": "Shoota vatt de aa maut mure khadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56930,
+          "endTime": 57376,
+          "word": "Shoota"
+        },
+        {
+          "startTime": 57376,
+          "endTime": 57644,
+          "word": "vatt"
+        },
+        {
+          "startTime": 57644,
+          "endTime": 57811,
+          "word": "de"
+        },
+        {
+          "startTime": 57811,
+          "endTime": 58209,
+          "word": "aa"
+        },
+        {
+          "startTime": 58209,
+          "endTime": 58649,
+          "word": "maut"
+        },
+        {
+          "startTime": 58649,
+          "endTime": 58994,
+          "word": "mure"
+        },
+        {
+          "startTime": 58994,
+          "endTime": 59542,
+          "word": "khadi"
+        },
+        {
+          "startTime": 59542,
+          "endTime": 59732,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 59732,
+          "endTime": 60324,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 60320,
+      "endTime": 63511,
+      "text": "Yaar di gypsy sandha de naal bhari hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 60324,
+          "endTime": 60621,
+          "word": "Yaar"
+        },
+        {
+          "startTime": 60621,
+          "endTime": 60788,
+          "word": "di"
+        },
+        {
+          "startTime": 60788,
+          "endTime": 61377,
+          "word": "gypsy"
+        },
+        {
+          "startTime": 61377,
+          "endTime": 61859,
+          "word": "sandha"
+        },
+        {
+          "startTime": 61859,
+          "endTime": 62031,
+          "word": "de"
+        },
+        {
+          "startTime": 62031,
+          "endTime": 62513,
+          "word": "naal"
+        },
+        {
+          "startTime": 62513,
+          "endTime": 62954,
+          "word": "bhari"
+        },
+        {
+          "startTime": 62954,
+          "endTime": 63245,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 63245,
+          "endTime": 63511,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 63650,
+      "endTime": 66895,
+      "text": "Baari khulli aa gandasi hath phadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63650,
+          "endTime": 64126,
+          "word": "Baari"
+        },
+        {
+          "startTime": 64126,
+          "endTime": 64489,
+          "word": "khulli"
+        },
+        {
+          "startTime": 64489,
+          "endTime": 64686,
+          "word": "aa"
+        },
+        {
+          "startTime": 64686,
+          "endTime": 65358,
+          "word": "gandasi"
+        },
+        {
+          "startTime": 65358,
+          "endTime": 65834,
+          "word": "hath"
+        },
+        {
+          "startTime": 65834,
+          "endTime": 66257,
+          "word": "phadi"
+        },
+        {
+          "startTime": 66257,
+          "endTime": 66394,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 66394,
+          "endTime": 66895,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 66890,
+      "endTime": 70257,
+      "text": "Yaar di gypsy sandha de naal bhari hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66895,
+          "endTime": 67288,
+          "word": "Yaar"
+        },
+        {
+          "startTime": 67288,
+          "endTime": 67460,
+          "word": "di"
+        },
+        {
+          "startTime": 67460,
+          "endTime": 68019,
+          "word": "gypsy"
+        },
+        {
+          "startTime": 68019,
+          "endTime": 68495,
+          "word": "sandha"
+        },
+        {
+          "startTime": 68495,
+          "endTime": 68674,
+          "word": "de"
+        },
+        {
+          "startTime": 68674,
+          "endTime": 69150,
+          "word": "naal"
+        },
+        {
+          "startTime": 69150,
+          "endTime": 69584,
+          "word": "bhari"
+        },
+        {
+          "startTime": 69584,
+          "endTime": 69971,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 69971,
+          "endTime": 70257,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 70250,
+      "endTime": 73612,
+      "text": "Baari khulli aa gandasi hath phadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 70257,
+          "endTime": 70858,
+          "word": "Baari"
+        },
+        {
+          "startTime": 70858,
+          "endTime": 71102,
+          "word": "khulli"
+        },
+        {
+          "startTime": 71102,
+          "endTime": 71518,
+          "word": "aa"
+        },
+        {
+          "startTime": 71518,
+          "endTime": 72131,
+          "word": "gandasi"
+        },
+        {
+          "startTime": 72131,
+          "endTime": 72607,
+          "word": "hath"
+        },
+        {
+          "startTime": 72607,
+          "endTime": 72803,
+          "word": "phadi"
+        },
+        {
+          "startTime": 72803,
+          "endTime": 73023,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 73023,
+          "endTime": 73612,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 73610,
+      "endTime": 75450,
+      "text": "Yeah, death is a promise",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 73612,
+          "endTime": 74295,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 74481,
+          "endTime": 74641,
+          "word": "death"
+        },
+        {
+          "startTime": 74641,
+          "endTime": 74778,
+          "word": "is"
+        },
+        {
+          "startTime": 74778,
+          "endTime": 74939,
+          "word": "a"
+        },
+        {
+          "startTime": 74939,
+          "endTime": 75450,
+          "word": "promise"
+        }
+      ]
+    },
+    {
+      "time": 75940,
+      "endTime": 77021,
+      "text": "But what is beyond it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 75949,
+          "endTime": 76193,
+          "word": "But"
+        },
+        {
+          "startTime": 76193,
+          "endTime": 76318,
+          "word": "what"
+        },
+        {
+          "startTime": 76318,
+          "endTime": 76490,
+          "word": "is"
+        },
+        {
+          "startTime": 76490,
+          "endTime": 76913,
+          "word": "beyond"
+        },
+        {
+          "startTime": 76913,
+          "endTime": 77021,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 77560,
+      "endTime": 79012,
+      "text": "I'm sure that I'll know soon",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 77563,
+          "endTime": 77890,
+          "word": "I'm"
+        },
+        {
+          "startTime": 77890,
+          "endTime": 78069,
+          "word": "sure"
+        },
+        {
+          "startTime": 78069,
+          "endTime": 78194,
+          "word": "that"
+        },
+        {
+          "startTime": 78194,
+          "endTime": 78330,
+          "word": "I'll"
+        },
+        {
+          "startTime": 78330,
+          "endTime": 78574,
+          "word": "know"
+        },
+        {
+          "startTime": 78574,
+          "endTime": 79012,
+          "word": "soon"
+        }
+      ]
+    },
+    {
+      "time": 79320,
+      "endTime": 80468,
+      "text": "I know when I find it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 79327,
+          "endTime": 79577,
+          "word": "I"
+        },
+        {
+          "startTime": 79577,
+          "endTime": 79785,
+          "word": "know"
+        },
+        {
+          "startTime": 79785,
+          "endTime": 79886,
+          "word": "when"
+        },
+        {
+          "startTime": 79886,
+          "endTime": 80023,
+          "word": "I"
+        },
+        {
+          "startTime": 80023,
+          "endTime": 80368,
+          "word": "find"
+        },
+        {
+          "startTime": 80368,
+          "endTime": 80468,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 80900,
+      "endTime": 82099,
+      "text": "I'm looking for answers",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 80902,
+          "endTime": 81093,
+          "word": "I'm"
+        },
+        {
+          "startTime": 81093,
+          "endTime": 81343,
+          "word": "looking"
+        },
+        {
+          "startTime": 81343,
+          "endTime": 81575,
+          "word": "for"
+        },
+        {
+          "startTime": 81575,
+          "endTime": 82099,
+          "word": "answers"
+        }
+      ]
+    },
+    {
+      "time": 82530,
+      "endTime": 83755,
+      "text": "And the meaning behind it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 82533,
+          "endTime": 82652,
+          "word": "And"
+        },
+        {
+          "startTime": 82652,
+          "endTime": 82825,
+          "word": "the"
+        },
+        {
+          "startTime": 82825,
+          "endTime": 83098,
+          "word": "meaning"
+        },
+        {
+          "startTime": 83098,
+          "endTime": 83580,
+          "word": "behind"
+        },
+        {
+          "startTime": 83580,
+          "endTime": 83755,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 84200,
+      "endTime": 85599,
+      "text": "I'm taking a chance here",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 84201,
+          "endTime": 84504,
+          "word": "I'm"
+        },
+        {
+          "startTime": 84504,
+          "endTime": 84760,
+          "word": "taking"
+        },
+        {
+          "startTime": 84760,
+          "endTime": 84896,
+          "word": "a"
+        },
+        {
+          "startTime": 84896,
+          "endTime": 85254,
+          "word": "chance"
+        },
+        {
+          "startTime": 85254,
+          "endTime": 85599,
+          "word": "here"
+        }
+      ]
+    },
+    {
+      "time": 85910,
+      "endTime": 87032,
+      "text": "Yeah, I'm gambling on it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 85914,
+          "endTime": 86058,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 86058,
+          "endTime": 86242,
+          "word": "I'm"
+        },
+        {
+          "startTime": 86242,
+          "endTime": 86700,
+          "word": "gambling"
+        },
+        {
+          "startTime": 86700,
+          "endTime": 86932,
+          "word": "on"
+        },
+        {
+          "startTime": 86932,
+          "endTime": 87032,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 87600,
+      "endTime": 89055,
+      "text": "When everyone said that we couldn’t",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 87600,
+          "endTime": 87926,
+          "word": "When"
+        },
+        {
+          "startTime": 87926,
+          "endTime": 88320,
+          "word": "everyone"
+        },
+        {
+          "startTime": 88320,
+          "endTime": 88521,
+          "word": "said"
+        },
+        {
+          "startTime": 88521,
+          "endTime": 88646,
+          "word": "that"
+        },
+        {
+          "startTime": 88646,
+          "endTime": 88820,
+          "word": "we"
+        },
+        {
+          "startTime": 88820,
+          "endTime": 89055,
+          "word": "couldn’t"
+        }
+      ]
+    },
+    {
+      "time": 89050,
+      "endTime": 90801,
+      "text": "Put in a register even the odds",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 89055,
+          "endTime": 89192,
+          "word": "Put"
+        },
+        {
+          "startTime": 89192,
+          "endTime": 89311,
+          "word": "in"
+        },
+        {
+          "startTime": 89311,
+          "endTime": 89448,
+          "word": "a"
+        },
+        {
+          "startTime": 89448,
+          "endTime": 89989,
+          "word": "register"
+        },
+        {
+          "startTime": 89989,
+          "endTime": 90132,
+          "word": "even"
+        },
+        {
+          "startTime": 90132,
+          "endTime": 90328,
+          "word": "the"
+        },
+        {
+          "startTime": 90328,
+          "endTime": 90801,
+          "word": "odds"
+        }
+      ]
+    },
+    {
+      "time": 90900,
+      "endTime": 92808,
+      "text": "The odds against me demons that tear me",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 90906,
+          "endTime": 91114,
+          "word": "The"
+        },
+        {
+          "startTime": 91114,
+          "endTime": 91388,
+          "word": "odds"
+        },
+        {
+          "startTime": 91388,
+          "endTime": 91840,
+          "word": "against"
+        },
+        {
+          "startTime": 91840,
+          "endTime": 92001,
+          "word": "me"
+        },
+        {
+          "startTime": 92001,
+          "endTime": 92239,
+          "word": "demons"
+        },
+        {
+          "startTime": 92239,
+          "endTime": 92441,
+          "word": "that"
+        },
+        {
+          "startTime": 92441,
+          "endTime": 92697,
+          "word": "tear"
+        },
+        {
+          "startTime": 92697,
+          "endTime": 92808,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 92800,
+      "endTime": 94241,
+      "text": "Usually come with a smile",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 92808,
+          "endTime": 93295,
+          "word": "Usually"
+        },
+        {
+          "startTime": 93295,
+          "endTime": 93433,
+          "word": "come"
+        },
+        {
+          "startTime": 93433,
+          "endTime": 93539,
+          "word": "with"
+        },
+        {
+          "startTime": 93539,
+          "endTime": 93640,
+          "word": "a"
+        },
+        {
+          "startTime": 93640,
+          "endTime": 94241,
+          "word": "smile"
+        }
+      ]
+    },
+    {
+      "time": 94250,
+      "endTime": 96025,
+      "text": "Ain't nothing that I wouldn't do for the people",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 94256,
+          "endTime": 94542,
+          "word": "Ain't"
+        },
+        {
+          "startTime": 94542,
+          "endTime": 94803,
+          "word": "nothing"
+        },
+        {
+          "startTime": 94803,
+          "endTime": 94982,
+          "word": "that"
+        },
+        {
+          "startTime": 94982,
+          "endTime": 95142,
+          "word": "I"
+        },
+        {
+          "startTime": 95142,
+          "endTime": 95416,
+          "word": "wouldn't"
+        },
+        {
+          "startTime": 95416,
+          "endTime": 95577,
+          "word": "do"
+        },
+        {
+          "startTime": 95577,
+          "endTime": 95676,
+          "word": "for"
+        },
+        {
+          "startTime": 95676,
+          "endTime": 95844,
+          "word": "the"
+        },
+        {
+          "startTime": 95844,
+          "endTime": 96025,
+          "word": "people"
+        }
+      ]
+    },
+    {
+      "time": 96020,
+      "endTime": 97443,
+      "text": "I love I've been ready to die",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 96025,
+          "endTime": 96263,
+          "word": "I"
+        },
+        {
+          "startTime": 96263,
+          "endTime": 96424,
+          "word": "love"
+        },
+        {
+          "startTime": 96424,
+          "endTime": 96525,
+          "word": "I've"
+        },
+        {
+          "startTime": 96525,
+          "endTime": 96679,
+          "word": "been"
+        },
+        {
+          "startTime": 96679,
+          "endTime": 96852,
+          "word": "ready"
+        },
+        {
+          "startTime": 96852,
+          "endTime": 96952,
+          "word": "to"
+        },
+        {
+          "startTime": 96952,
+          "endTime": 97443,
+          "word": "die"
+        }
+      ]
+    },
+    {
+      "time": 97590,
+      "endTime": 99314,
+      "text": "We’re armed and ready it’s about to get heavy",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 97592,
+          "endTime": 97800,
+          "word": "We’re"
+        },
+        {
+          "startTime": 97800,
+          "endTime": 98056,
+          "word": "armed"
+        },
+        {
+          "startTime": 98056,
+          "endTime": 98217,
+          "word": "and"
+        },
+        {
+          "startTime": 98217,
+          "endTime": 98443,
+          "word": "ready"
+        },
+        {
+          "startTime": 98443,
+          "endTime": 98609,
+          "word": "it’s"
+        },
+        {
+          "startTime": 98609,
+          "endTime": 98758,
+          "word": "about"
+        },
+        {
+          "startTime": 98758,
+          "endTime": 98883,
+          "word": "to"
+        },
+        {
+          "startTime": 98883,
+          "endTime": 99032,
+          "word": "get"
+        },
+        {
+          "startTime": 99032,
+          "endTime": 99314,
+          "word": "heavy"
+        }
+      ]
+    },
+    {
+      "time": 99310,
+      "endTime": 100770,
+      "text": "Now tell me you ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 99314,
+          "endTime": 99487,
+          "word": "Now"
+        },
+        {
+          "startTime": 99487,
+          "endTime": 99634,
+          "word": "tell"
+        },
+        {
+          "startTime": 99634,
+          "endTime": 99771,
+          "word": "me"
+        },
+        {
+          "startTime": 99771,
+          "endTime": 99920,
+          "word": "you"
+        },
+        {
+          "startTime": 99920,
+          "endTime": 100170,
+          "word": "ready"
+        },
+        {
+          "startTime": 100170,
+          "endTime": 100343,
+          "word": "or"
+        },
+        {
+          "startTime": 100343,
+          "endTime": 100770,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 101070,
+      "endTime": 102372,
+      "text": "Yeah, you ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 101073,
+          "endTime": 101507,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 101507,
+          "endTime": 101650,
+          "word": "you"
+        },
+        {
+          "startTime": 101650,
+          "endTime": 101829,
+          "word": "ready"
+        },
+        {
+          "startTime": 101829,
+          "endTime": 102055,
+          "word": "or"
+        },
+        {
+          "startTime": 102055,
+          "endTime": 102372,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 102670,
+      "endTime": 104087,
+      "text": "Tell me you ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 102678,
+          "endTime": 103035,
+          "word": "Tell"
+        },
+        {
+          "startTime": 103035,
+          "endTime": 103148,
+          "word": "me"
+        },
+        {
+          "startTime": 103148,
+          "endTime": 103315,
+          "word": "you"
+        },
+        {
+          "startTime": 103315,
+          "endTime": 103559,
+          "word": "ready"
+        },
+        {
+          "startTime": 103559,
+          "endTime": 103743,
+          "word": "or"
+        },
+        {
+          "startTime": 103743,
+          "endTime": 104087,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 104740,
+      "endTime": 105723,
+      "text": "You ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 104741,
+          "endTime": 104943,
+          "word": "You"
+        },
+        {
+          "startTime": 104943,
+          "endTime": 105092,
+          "word": "ready"
+        },
+        {
+          "startTime": 105092,
+          "endTime": 105265,
+          "word": "or"
+        },
+        {
+          "startTime": 105265,
+          "endTime": 105723,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 106090,
+      "endTime": 107343,
+      "text": "You really ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 106092,
+          "endTime": 106270,
+          "word": "You"
+        },
+        {
+          "startTime": 106270,
+          "endTime": 106550,
+          "word": "really"
+        },
+        {
+          "startTime": 106550,
+          "endTime": 106812,
+          "word": "ready"
+        },
+        {
+          "startTime": 106812,
+          "endTime": 106967,
+          "word": "or"
+        },
+        {
+          "startTime": 106967,
+          "endTime": 107343,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 107680,
+      "endTime": 109044,
+      "text": "Tell me you ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 107683,
+          "endTime": 107979,
+          "word": "Tell"
+        },
+        {
+          "startTime": 107979,
+          "endTime": 108082,
+          "word": "me"
+        },
+        {
+          "startTime": 108082,
+          "endTime": 108259,
+          "word": "you"
+        },
+        {
+          "startTime": 108259,
+          "endTime": 108503,
+          "word": "ready"
+        },
+        {
+          "startTime": 108503,
+          "endTime": 108676,
+          "word": "or"
+        },
+        {
+          "startTime": 108676,
+          "endTime": 109044,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 109200,
+      "endTime": 110789,
+      "text": "Can’t tell if you’re ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 109202,
+          "endTime": 109517,
+          "word": "Can’t"
+        },
+        {
+          "startTime": 109517,
+          "endTime": 109678,
+          "word": "tell"
+        },
+        {
+          "startTime": 109678,
+          "endTime": 109821,
+          "word": "if"
+        },
+        {
+          "startTime": 109821,
+          "endTime": 109981,
+          "word": "you’re"
+        },
+        {
+          "startTime": 109981,
+          "endTime": 110255,
+          "word": "ready"
+        },
+        {
+          "startTime": 110255,
+          "endTime": 110410,
+          "word": "or"
+        },
+        {
+          "startTime": 110410,
+          "endTime": 110789,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 110950,
+      "endTime": 112387,
+      "text": "Are you really ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 110952,
+          "endTime": 111273,
+          "word": "Are"
+        },
+        {
+          "startTime": 111273,
+          "endTime": 111398,
+          "word": "you"
+        },
+        {
+          "startTime": 111398,
+          "endTime": 111702,
+          "word": "really"
+        },
+        {
+          "startTime": 111702,
+          "endTime": 111916,
+          "word": "ready"
+        },
+        {
+          "startTime": 111916,
+          "endTime": 112088,
+          "word": "or"
+        },
+        {
+          "startTime": 112088,
+          "endTime": 112387,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 112600,
+      "endTime": 114051,
+      "text": "We know if you’re ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 112604,
+          "endTime": 112931,
+          "word": "We"
+        },
+        {
+          "startTime": 112931,
+          "endTime": 113031,
+          "word": "know"
+        },
+        {
+          "startTime": 113031,
+          "endTime": 113151,
+          "word": "if"
+        },
+        {
+          "startTime": 113151,
+          "endTime": 113251,
+          "word": "you’re"
+        },
+        {
+          "startTime": 113251,
+          "endTime": 113407,
+          "word": "ready"
+        },
+        {
+          "startTime": 113407,
+          "endTime": 113604,
+          "word": "or"
+        },
+        {
+          "startTime": 113604,
+          "endTime": 114051,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 114430,
+      "endTime": 115338,
+      "text": "Kaule donar ea",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 114438,
+          "endTime": 114765,
+          "word": "Kaule"
+        },
+        {
+          "startTime": 114765,
+          "endTime": 115170,
+          "word": "donar"
+        },
+        {
+          "startTime": 115170,
+          "endTime": 115338,
+          "word": "ea"
+        }
+      ]
+    },
+    {
+      "time": 116040,
+      "endTime": 117009,
+      "text": "Death is a promise",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 116043,
+          "endTime": 116346,
+          "word": "Death"
+        },
+        {
+          "startTime": 116346,
+          "endTime": 116448,
+          "word": "is"
+        },
+        {
+          "startTime": 116448,
+          "endTime": 116590,
+          "word": "a"
+        },
+        {
+          "startTime": 116590,
+          "endTime": 117009,
+          "word": "promise"
+        }
+      ]
+    },
+    {
+      "time": 117750,
+      "endTime": 118755,
+      "text": "Aar ya paar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117751,
+          "endTime": 118102,
+          "word": "Aar"
+        },
+        {
+          "startTime": 118102,
+          "endTime": 118370,
+          "word": "ya"
+        },
+        {
+          "startTime": 118370,
+          "endTime": 118655,
+          "word": "paar"
+        },
+        {
+          "startTime": 118655,
+          "endTime": 118755,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 119320,
+      "endTime": 120421,
+      "text": "But what is beyond it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 119320,
+          "endTime": 119588,
+          "word": "But"
+        },
+        {
+          "startTime": 119588,
+          "endTime": 119735,
+          "word": "what"
+        },
+        {
+          "startTime": 119735,
+          "endTime": 119890,
+          "word": "is"
+        },
+        {
+          "startTime": 119890,
+          "endTime": 120314,
+          "word": "beyond"
+        },
+        {
+          "startTime": 120314,
+          "endTime": 120421,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 121070,
+      "endTime": 122747,
+      "text": "Naaran de dil te",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 121076,
+          "endTime": 121540,
+          "word": "Naaran"
+        },
+        {
+          "startTime": 121540,
+          "endTime": 121843,
+          "word": "de"
+        },
+        {
+          "startTime": 121843,
+          "endTime": 122409,
+          "word": "dil"
+        },
+        {
+          "startTime": 122409,
+          "endTime": 122747,
+          "word": "te"
+        }
+      ]
+    },
+    {
+      "time": 122640,
+      "endTime": 124038,
+      "text": "I'm sure that I'll know soon",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 122644,
+          "endTime": 122769,
+          "word": "I'm"
+        },
+        {
+          "startTime": 122769,
+          "endTime": 122936,
+          "word": "sure"
+        },
+        {
+          "startTime": 122936,
+          "endTime": 123066,
+          "word": "that"
+        },
+        {
+          "startTime": 123066,
+          "endTime": 123203,
+          "word": "I'll"
+        },
+        {
+          "startTime": 123203,
+          "endTime": 123423,
+          "word": "know"
+        },
+        {
+          "startTime": 123423,
+          "endTime": 124038,
+          "word": "soon"
+        }
+      ]
+    },
+    {
+      "time": 124430,
+      "endTime": 125404,
+      "text": "Jatt di maar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 124435,
+          "endTime": 124840,
+          "word": "Jatt"
+        },
+        {
+          "startTime": 124840,
+          "endTime": 125018,
+          "word": "di"
+        },
+        {
+          "startTime": 125018,
+          "endTime": 125118,
+          "word": "maar"
+        },
+        {
+          "startTime": 125118,
+          "endTime": 125404,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 125830,
+      "endTime": 127083,
+      "text": "I know when I found it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 125835,
+          "endTime": 126210,
+          "word": "I"
+        },
+        {
+          "startTime": 126210,
+          "endTime": 126376,
+          "word": "know"
+        },
+        {
+          "startTime": 126376,
+          "endTime": 126489,
+          "word": "when"
+        },
+        {
+          "startTime": 126489,
+          "endTime": 126680,
+          "word": "I"
+        },
+        {
+          "startTime": 126680,
+          "endTime": 126983,
+          "word": "found"
+        },
+        {
+          "startTime": 126983,
+          "endTime": 127083,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 127740,
+      "endTime": 128715,
+      "text": "Kaule donar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127745,
+          "endTime": 128251,
+          "word": "Kaule"
+        },
+        {
+          "startTime": 128251,
+          "endTime": 128554,
+          "word": "donar"
+        },
+        {
+          "startTime": 128554,
+          "endTime": 128715,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 129290,
+      "endTime": 130483,
+      "text": "I'm looking for answers",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 129297,
+          "endTime": 129452,
+          "word": "I'm"
+        },
+        {
+          "startTime": 129452,
+          "endTime": 129708,
+          "word": "looking"
+        },
+        {
+          "startTime": 129708,
+          "endTime": 129904,
+          "word": "for"
+        },
+        {
+          "startTime": 129904,
+          "endTime": 130483,
+          "word": "answers"
+        }
+      ]
+    },
+    {
+      "time": 131170,
+      "endTime": 132087,
+      "text": "Aar ya paar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131178,
+          "endTime": 131392,
+          "word": "Aar"
+        },
+        {
+          "startTime": 131392,
+          "endTime": 131630,
+          "word": "ya"
+        },
+        {
+          "startTime": 131630,
+          "endTime": 131987,
+          "word": "paar"
+        },
+        {
+          "startTime": 131987,
+          "endTime": 132087,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 132610,
+      "endTime": 133721,
+      "text": "The meaning behind it",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 132614,
+          "endTime": 132870,
+          "word": "The"
+        },
+        {
+          "startTime": 132870,
+          "endTime": 133132,
+          "word": "meaning"
+        },
+        {
+          "startTime": 133132,
+          "endTime": 133584,
+          "word": "behind"
+        },
+        {
+          "startTime": 133584,
+          "endTime": 133721,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 134400,
+      "endTime": 136099,
+      "text": "Naaran de dil te",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 134408,
+          "endTime": 134884,
+          "word": "Naaran"
+        },
+        {
+          "startTime": 134884,
+          "endTime": 135015,
+          "word": "de"
+        },
+        {
+          "startTime": 135015,
+          "endTime": 135312,
+          "word": "dil"
+        },
+        {
+          "startTime": 135312,
+          "endTime": 136099,
+          "word": "te"
+        }
+      ]
+    },
+    {
+      "time": 135950,
+      "endTime": 137215,
+      "text": "I'm taking a chance here",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 135957,
+          "endTime": 136254,
+          "word": "I'm"
+        },
+        {
+          "startTime": 136254,
+          "endTime": 136492,
+          "word": "taking"
+        },
+        {
+          "startTime": 136492,
+          "endTime": 136647,
+          "word": "a"
+        },
+        {
+          "startTime": 136647,
+          "endTime": 136998,
+          "word": "chance"
+        },
+        {
+          "startTime": 136998,
+          "endTime": 137215,
+          "word": "here"
+        }
+      ]
+    },
+    {
+      "time": 137630,
+      "endTime": 138787,
+      "text": "Jatt di maar ae",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137634,
+          "endTime": 138079,
+          "word": "Jatt"
+        },
+        {
+          "startTime": 138079,
+          "endTime": 138241,
+          "word": "di"
+        },
+        {
+          "startTime": 138241,
+          "endTime": 138687,
+          "word": "maar"
+        },
+        {
+          "startTime": 138687,
+          "endTime": 138787,
+          "word": "ae"
+        }
+      ]
+    },
+    {
+      "time": 139410,
+      "endTime": 140360,
+      "text": "Ez-ez",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 139411,
+          "endTime": 140360,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 140210,
+      "endTime": 143685,
+      "text": "Yaar di gypsy sandha de naal bhari hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140213,
+          "endTime": 140499,
+          "word": "Yaar"
+        },
+        {
+          "startTime": 140499,
+          "endTime": 140802,
+          "word": "di"
+        },
+        {
+          "startTime": 140802,
+          "endTime": 141373,
+          "word": "gypsy"
+        },
+        {
+          "startTime": 141373,
+          "endTime": 141861,
+          "word": "sandha"
+        },
+        {
+          "startTime": 141861,
+          "endTime": 142039,
+          "word": "de"
+        },
+        {
+          "startTime": 142039,
+          "endTime": 142545,
+          "word": "naal"
+        },
+        {
+          "startTime": 142545,
+          "endTime": 142985,
+          "word": "bhari"
+        },
+        {
+          "startTime": 142985,
+          "endTime": 143372,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 143372,
+          "endTime": 143685,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 143680,
+      "endTime": 146931,
+      "text": "Baari khulli aa gandasi hath phadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 143685,
+          "endTime": 144137,
+          "word": "Baari"
+        },
+        {
+          "startTime": 144137,
+          "endTime": 144476,
+          "word": "khulli"
+        },
+        {
+          "startTime": 144476,
+          "endTime": 144875,
+          "word": "aa"
+        },
+        {
+          "startTime": 144875,
+          "endTime": 145303,
+          "word": "gandasi"
+        },
+        {
+          "startTime": 145303,
+          "endTime": 145755,
+          "word": "hath"
+        },
+        {
+          "startTime": 145755,
+          "endTime": 146154,
+          "word": "phadi"
+        },
+        {
+          "startTime": 146154,
+          "endTime": 146362,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 146362,
+          "endTime": 146931,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 146930,
+      "endTime": 150281,
+      "text": "Vairi di nadd te nadd ni chadhi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146931,
+          "endTime": 147407,
+          "word": "Vairi"
+        },
+        {
+          "startTime": 147407,
+          "endTime": 147639,
+          "word": "di"
+        },
+        {
+          "startTime": 147639,
+          "endTime": 148079,
+          "word": "nadd"
+        },
+        {
+          "startTime": 148079,
+          "endTime": 148270,
+          "word": "te"
+        },
+        {
+          "startTime": 148270,
+          "endTime": 148710,
+          "word": "nadd"
+        },
+        {
+          "startTime": 148710,
+          "endTime": 149150,
+          "word": "ni"
+        },
+        {
+          "startTime": 149150,
+          "endTime": 149578,
+          "word": "chadhi"
+        },
+        {
+          "startTime": 149578,
+          "endTime": 149989,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 149989,
+          "endTime": 150281,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 150280,
+      "endTime": 153789,
+      "text": "Shoota vatt de aa maut mure khadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 150281,
+          "endTime": 150834,
+          "word": "Shoota"
+        },
+        {
+          "startTime": 150834,
+          "endTime": 151102,
+          "word": "vatt"
+        },
+        {
+          "startTime": 151102,
+          "endTime": 151263,
+          "word": "de"
+        },
+        {
+          "startTime": 151263,
+          "endTime": 151673,
+          "word": "aa"
+        },
+        {
+          "startTime": 151673,
+          "endTime": 152119,
+          "word": "maut"
+        },
+        {
+          "startTime": 152119,
+          "endTime": 152453,
+          "word": "mure"
+        },
+        {
+          "startTime": 152453,
+          "endTime": 152994,
+          "word": "khadi"
+        },
+        {
+          "startTime": 152994,
+          "endTime": 153625,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 153625,
+          "endTime": 153789,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 153620,
+      "endTime": 156856,
+      "text": "Yaar di gypsy sandha de naal bhari hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153629,
+          "endTime": 153867,
+          "word": "Yaar"
+        },
+        {
+          "startTime": 153867,
+          "endTime": 154040,
+          "word": "di"
+        },
+        {
+          "startTime": 154040,
+          "endTime": 154629,
+          "word": "gypsy"
+        },
+        {
+          "startTime": 154629,
+          "endTime": 155103,
+          "word": "sandha"
+        },
+        {
+          "startTime": 155103,
+          "endTime": 155277,
+          "word": "de"
+        },
+        {
+          "startTime": 155277,
+          "endTime": 155765,
+          "word": "naal"
+        },
+        {
+          "startTime": 155765,
+          "endTime": 156211,
+          "word": "bhari"
+        },
+        {
+          "startTime": 156211,
+          "endTime": 156491,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 156491,
+          "endTime": 156856,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 156950,
+      "endTime": 160236,
+      "text": "Baari khulli aa gandasi hath phadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 156956,
+          "endTime": 157378,
+          "word": "Baari"
+        },
+        {
+          "startTime": 157378,
+          "endTime": 157741,
+          "word": "khulli"
+        },
+        {
+          "startTime": 157741,
+          "endTime": 158146,
+          "word": "aa"
+        },
+        {
+          "startTime": 158146,
+          "endTime": 158812,
+          "word": "gandasi"
+        },
+        {
+          "startTime": 158812,
+          "endTime": 159288,
+          "word": "hath"
+        },
+        {
+          "startTime": 159288,
+          "endTime": 159704,
+          "word": "phadi"
+        },
+        {
+          "startTime": 159704,
+          "endTime": 159847,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 159847,
+          "endTime": 160236,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 160260,
+      "endTime": 163605,
+      "text": "Yaar di gypsy sandha de naal bhari hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 160264,
+          "endTime": 160746,
+          "word": "Yaar"
+        },
+        {
+          "startTime": 160746,
+          "endTime": 160924,
+          "word": "di"
+        },
+        {
+          "startTime": 160924,
+          "endTime": 161264,
+          "word": "gypsy"
+        },
+        {
+          "startTime": 161264,
+          "endTime": 161751,
+          "word": "sandha"
+        },
+        {
+          "startTime": 161751,
+          "endTime": 161936,
+          "word": "de"
+        },
+        {
+          "startTime": 161936,
+          "endTime": 162412,
+          "word": "naal"
+        },
+        {
+          "startTime": 162412,
+          "endTime": 162840,
+          "word": "bhari"
+        },
+        {
+          "startTime": 162840,
+          "endTime": 163227,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 163227,
+          "endTime": 163605,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 163600,
+      "endTime": 166962,
+      "text": "Baari khulli aa gandasi hath phadi hoyi aa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 163605,
+          "endTime": 164117,
+          "word": "Baari"
+        },
+        {
+          "startTime": 164117,
+          "endTime": 164361,
+          "word": "khulli"
+        },
+        {
+          "startTime": 164361,
+          "endTime": 164765,
+          "word": "aa"
+        },
+        {
+          "startTime": 164765,
+          "endTime": 165390,
+          "word": "gandasi"
+        },
+        {
+          "startTime": 165390,
+          "endTime": 165860,
+          "word": "hath"
+        },
+        {
+          "startTime": 165860,
+          "endTime": 166258,
+          "word": "phadi"
+        },
+        {
+          "startTime": 166258,
+          "endTime": 166473,
+          "word": "hoyi"
+        },
+        {
+          "startTime": 166473,
+          "endTime": 166962,
+          "word": "aa"
+        }
+      ]
+    },
+    {
+      "time": 167700,
+      "endTime": 169067,
+      "text": "Yeah you ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 167704,
+          "endTime": 168210,
+          "word": "Yeah"
+        },
+        {
+          "startTime": 168210,
+          "endTime": 168364,
+          "word": "you"
+        },
+        {
+          "startTime": 168364,
+          "endTime": 168590,
+          "word": "ready"
+        },
+        {
+          "startTime": 168590,
+          "endTime": 168769,
+          "word": "or"
+        },
+        {
+          "startTime": 168769,
+          "endTime": 169067,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 169450,
+      "endTime": 170331,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 169452,
+          "endTime": 170331,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 171330,
+      "endTime": 172418,
+      "text": "You ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 171333,
+          "endTime": 171571,
+          "word": "You"
+        },
+        {
+          "startTime": 171571,
+          "endTime": 171821,
+          "word": "ready"
+        },
+        {
+          "startTime": 171821,
+          "endTime": 171993,
+          "word": "or"
+        },
+        {
+          "startTime": 171993,
+          "endTime": 172418,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 172850,
+      "endTime": 173664,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 172852,
+          "endTime": 173664,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 174420,
+      "endTime": 175767,
+      "text": "Tell me you ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 174429,
+          "endTime": 174703,
+          "word": "Tell"
+        },
+        {
+          "startTime": 174703,
+          "endTime": 174804,
+          "word": "me"
+        },
+        {
+          "startTime": 174804,
+          "endTime": 174982,
+          "word": "you"
+        },
+        {
+          "startTime": 174982,
+          "endTime": 175220,
+          "word": "ready"
+        },
+        {
+          "startTime": 175220,
+          "endTime": 175399,
+          "word": "or"
+        },
+        {
+          "startTime": 175399,
+          "endTime": 175767,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 176160,
+      "endTime": 176999,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 176165,
+          "endTime": 176999,
+          "word": "Ez-ez"
+        }
+      ]
+    },
+    {
+      "time": 177570,
+      "endTime": 179061,
+      "text": "Now you really ready or not",
+      "agent": "v2",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 177570,
+          "endTime": 177790,
+          "word": "Now"
+        },
+        {
+          "startTime": 177790,
+          "endTime": 177921,
+          "word": "you"
+        },
+        {
+          "startTime": 177921,
+          "endTime": 178224,
+          "word": "really"
+        },
+        {
+          "startTime": 178224,
+          "endTime": 178439,
+          "word": "ready"
+        },
+        {
+          "startTime": 178439,
+          "endTime": 178617,
+          "word": "or"
+        },
+        {
+          "startTime": 178617,
+          "endTime": 179061,
+          "word": "not"
+        }
+      ]
+    },
+    {
+      "time": 179390,
+      "endTime": 180360,
+      "text": "Ez-ez",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 179397,
+          "endTime": 180360,
+          "word": "Ez-ez"
+        }
+      ]
+    }
+  ]
+}
