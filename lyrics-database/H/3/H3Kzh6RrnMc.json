@@ -1,0 +1,2121 @@
+{
+  "videoId": "H3Kzh6RrnMc",
+  "title": "Hymn for the Weekend",
+  "artist": "Coldplay",
+  "duration": 259,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:10.900\" end=\"00:12.530\" ttm:agent=\"v2000\">\n        <span begin=\"00:10.901\" end=\"00:11.434\">Me,<\/span>\n        <span begin=\"00:11.434\" end=\"00:11.717\">drink<\/span>\n        <span begin=\"00:11.717\" end=\"00:12.066\">from<\/span>\n        <span begin=\"00:12.066\" end=\"00:12.530\">me<\/span>\n      <\/p>\n      <p begin=\"00:14.720\" end=\"00:17.012\" ttm:agent=\"v2000\">\n        <span begin=\"00:14.725\" end=\"00:14.855\">That<\/span>\n        <span begin=\"00:14.855\" end=\"00:14.955\">we<\/span>\n        <span begin=\"00:14.955\" end=\"00:15.132\">shoot<\/span>\n        <span begin=\"00:15.132\" end=\"00:15.716\">across<\/span>\n        <span begin=\"00:15.716\" end=\"00:15.999\">the<\/span>\n        <span begin=\"00:15.999\" end=\"00:17.012\">sky<\/span>\n      <\/p>\n      <p begin=\"00:16.190\" end=\"00:17.964\" ttm:agent=\"v2000\">\n        <span begin=\"00:16.196\" end=\"00:17.964\">Symphony<\/span>\n      <\/p>\n      <p begin=\"00:19.690\" end=\"00:22.262\" ttm:agent=\"v2000\">\n        <span begin=\"00:19.698\" end=\"00:19.907\">That<\/span>\n        <span begin=\"00:19.907\" end=\"00:20.075\">we<\/span>\n        <span begin=\"00:20.075\" end=\"00:20.471\">shoot<\/span>\n        <span begin=\"00:20.471\" end=\"00:21.170\">across<\/span>\n        <span begin=\"00:21.170\" end=\"00:21.487\">the<\/span>\n        <span begin=\"00:21.487\" end=\"00:22.262\">sky<\/span>\n      <\/p>\n      <p begin=\"00:20.830\" end=\"00:23.116\" ttm:agent=\"v2000\">\n        <span begin=\"00:20.832\" end=\"00:21.116\">Drink<\/span>\n        <span begin=\"00:21.116\" end=\"00:21.465\">from<\/span>\n        <span begin=\"00:21.465\" end=\"00:22.189\">me,<\/span>\n        <span begin=\"00:22.189\" end=\"00:22.427\">drink<\/span>\n        <span begin=\"00:22.427\" end=\"00:22.739\">from<\/span>\n        <span begin=\"00:22.739\" end=\"00:23.116\">me<\/span>\n      <\/p>\n      <p begin=\"00:25.080\" end=\"00:27.443\" ttm:agent=\"v2000\">\n        <span begin=\"00:25.084\" end=\"00:25.285\">That<\/span>\n        <span begin=\"00:25.285\" end=\"00:25.453\">we<\/span>\n        <span begin=\"00:25.453\" end=\"00:25.837\">shoot<\/span>\n        <span begin=\"00:25.837\" end=\"00:26.469\">across<\/span>\n        <span begin=\"00:26.469\" end=\"00:26.803\">the<\/span>\n        <span begin=\"00:26.803\" end=\"00:27.443\">sky<\/span>\n      <\/p>\n      <p begin=\"00:26.760\" end=\"00:28.484\" ttm:agent=\"v2000\">\n        <span begin=\"00:26.766\" end=\"00:28.484\">Symphony<\/span>\n      <\/p>\n      <p begin=\"00:29.090\" end=\"00:30.484\" ttm:agent=\"v2000\">\n        <span begin=\"00:29.092\" end=\"00:29.504\">So<\/span>\n        <span begin=\"00:29.504\" end=\"00:30.484\">high<\/span>\n      <\/p>\n      <p begin=\"00:30.510\" end=\"00:32.165\" ttm:agent=\"v2000\">\n        <span begin=\"00:30.519\" end=\"00:30.780\">That<\/span>\n        <span begin=\"00:30.780\" end=\"00:30.880\">we<\/span>\n        <span begin=\"00:30.880\" end=\"00:31.162\">shoot<\/span>\n        <span begin=\"00:31.162\" end=\"00:31.765\">across<\/span>\n        <span begin=\"00:31.765\" end=\"00:32.064\">the<\/span>\n        <span begin=\"00:32.064\" end=\"00:32.165\">s-<\/span>\n      <\/p>\n      <p begin=\"00:41.770\" end=\"00:46.096\" ttm:agent=\"v1\">\n        <span begin=\"00:41.778\" end=\"00:42.122\">Oh,<\/span>\n        <span begin=\"00:42.122\" end=\"00:42.821\">angel<\/span>\n        <span begin=\"00:42.821\" end=\"00:43.359\">sent<\/span>\n        <span begin=\"00:43.771\" end=\"00:44.193\">from<\/span>\n        <span begin=\"00:44.193\" end=\"00:44.768\">up<\/span>\n        <span begin=\"00:45.193\" end=\"00:46.096\">above<\/span>\n      <\/p>\n      <p begin=\"00:47.050\" end=\"00:51.328\" ttm:agent=\"v1\">\n        <span begin=\"00:47.054\" end=\"00:47.535\">You<\/span>\n        <span begin=\"00:47.535\" end=\"00:47.786\">know<\/span>\n        <span begin=\"00:47.786\" end=\"00:48.135\">you<\/span>\n        <span begin=\"00:48.135\" end=\"00:48.590\">make<\/span>\n        <span begin=\"00:49.018\" end=\"00:49.409\">my<\/span>\n        <span begin=\"00:49.409\" end=\"00:50.091\">world<\/span>\n        <span begin=\"00:50.428\" end=\"00:50.814\">light<\/span>\n        <span begin=\"00:50.814\" end=\"00:51.328\">up<\/span>\n      <\/p>\n      <p begin=\"00:52.390\" end=\"00:56.770\" ttm:agent=\"v1\">\n        <span begin=\"00:52.391\" end=\"00:52.785\">When<\/span>\n        <span begin=\"00:52.785\" end=\"00:53.107\">I<\/span>\n        <span begin=\"00:53.107\" end=\"00:53.403\">was<\/span>\n        <span begin=\"00:53.403\" end=\"00:54.103\">down,<\/span>\n        <span begin=\"00:54.418\" end=\"00:54.753\">when<\/span>\n        <span begin=\"00:54.753\" end=\"00:55.268\">I<\/span>\n        <span begin=\"00:55.785\" end=\"00:56.070\">was<\/span>\n        <span begin=\"00:56.070\" end=\"00:56.770\">hurt<\/span>\n      <\/p>\n      <p begin=\"00:57.660\" end=\"01:02.505\" ttm:agent=\"v1\">\n        <span begin=\"00:57.665\" end=\"00:58.076\">You<\/span>\n        <span begin=\"00:58.076\" end=\"00:58.415\">came<\/span>\n        <span begin=\"00:58.415\" end=\"00:58.796\">to<\/span>\n        <span begin=\"00:58.796\" end=\"00:59.775\">lift<\/span>\n        <span begin=\"00:59.775\" end=\"01:00.108\">me<\/span>\n        <span begin=\"01:00.108\" end=\"01:02.505\">up<\/span>\n      <\/p>\n      <p begin=\"01:03.000\" end=\"01:07.342\" ttm:agent=\"v1\">\n        <span begin=\"01:03.009\" end=\"01:03.418\">Life<\/span>\n        <span begin=\"01:03.418\" end=\"01:03.717\">is<\/span>\n        <span begin=\"01:03.717\" end=\"01:04.001\">a<\/span>\n        <span begin=\"01:04.001\" end=\"01:04.571\">drink<\/span>\n        <span begin=\"01:05.030\" end=\"01:05.453\">and<\/span>\n        <span begin=\"01:05.453\" end=\"01:06.116\">love&apos;s<\/span>\n        <span begin=\"01:06.437\" end=\"01:06.738\">a<\/span>\n        <span begin=\"01:06.738\" end=\"01:07.342\">drug<\/span>\n      <\/p>\n      <p begin=\"01:08.430\" end=\"01:12.858\" ttm:agent=\"v1\">\n        <span begin=\"01:08.433\" end=\"01:08.783\">Oh,<\/span>\n        <span begin=\"01:08.783\" end=\"01:09.049\">now<\/span>\n        <span begin=\"01:09.049\" end=\"01:09.383\">I<\/span>\n        <span begin=\"01:09.383\" end=\"01:09.732\">think<\/span>\n        <span begin=\"01:09.732\" end=\"01:09.999\">I<\/span>\n        <span begin=\"01:09.999\" end=\"01:10.332\">must<\/span>\n        <span begin=\"01:10.332\" end=\"01:10.664\">be<\/span>\n        <span begin=\"01:10.664\" end=\"01:12.097\">miles<\/span>\n        <span begin=\"01:12.097\" end=\"01:12.858\">up<\/span>\n      <\/p>\n      <p begin=\"01:13.710\" end=\"01:18.095\" ttm:agent=\"v1\">\n        <span begin=\"01:13.719\" end=\"01:14.099\">When<\/span>\n        <span begin=\"01:14.099\" end=\"01:14.400\">I<\/span>\n        <span begin=\"01:14.400\" end=\"01:14.699\">was<\/span>\n        <span begin=\"01:14.699\" end=\"01:15.479\">a<\/span>\n        <span begin=\"01:15.766\" end=\"01:16.751\">river,<\/span>\n        <span begin=\"01:17.083\" end=\"01:17.374\">dried<\/span>\n        <span begin=\"01:17.374\" end=\"01:18.095\">up<\/span>\n      <\/p>\n      <p begin=\"01:19.060\" end=\"01:24.130\" ttm:agent=\"v1\">\n        <span begin=\"01:19.064\" end=\"01:19.417\">You<\/span>\n        <span begin=\"01:19.417\" end=\"01:19.718\">came<\/span>\n        <span begin=\"01:19.718\" end=\"01:20.033\">to<\/span>\n        <span begin=\"01:20.033\" end=\"01:21.166\">rain<\/span>\n        <span begin=\"01:21.166\" end=\"01:21.406\">a<\/span>\n        <span begin=\"01:21.406\" end=\"01:24.130\">flood<\/span>\n      <\/p>\n      <p begin=\"01:24.270\" end=\"01:27.050\" ttm:agent=\"v1\">\n        <span begin=\"01:24.271\" end=\"01:24.501\">You<\/span>\n        <span begin=\"01:24.501\" end=\"01:24.776\">said,<\/span>\n        <span begin=\"01:24.776\" end=\"01:25.077\">&quot;Drink<\/span>\n        <span begin=\"01:25.077\" end=\"01:25.410\">from<\/span>\n        <span begin=\"01:25.410\" end=\"01:26.084\">me,<\/span>\n        <span begin=\"01:26.084\" end=\"01:26.351\">drink<\/span>\n        <span begin=\"01:26.351\" end=\"01:26.684\">from<\/span>\n        <span begin=\"01:26.684\" end=\"01:27.050\">me&quot;<\/span>\n      <\/p>\n      <p begin=\"01:27.050\" end=\"01:29.706\" ttm:agent=\"v1\">\n        <span begin=\"01:27.050\" end=\"01:27.447\">When<\/span>\n        <span begin=\"01:27.447\" end=\"01:27.780\">I<\/span>\n        <span begin=\"01:27.780\" end=\"01:28.063\">was<\/span>\n        <span begin=\"01:28.063\" end=\"01:29.129\">so<\/span>\n        <span begin=\"01:29.129\" end=\"01:29.706\">thirsty<\/span>\n      <\/p>\n      <p begin=\"01:29.720\" end=\"01:32.402\" ttm:agent=\"v1\">\n        <span begin=\"01:29.726\" end=\"01:30.090\">Pour<\/span>\n        <span begin=\"01:30.090\" end=\"01:30.372\">on<\/span>\n        <span begin=\"01:30.372\" end=\"01:30.690\">a<\/span>\n        <span begin=\"01:30.690\" end=\"01:32.402\">symphony<\/span>\n      <\/p>\n      <p begin=\"01:32.890\" end=\"01:35.054\" ttm:agent=\"v1\">\n        <span begin=\"01:32.896\" end=\"01:33.079\">Now<\/span>\n        <span begin=\"01:33.079\" end=\"01:33.377\">I<\/span>\n        <span begin=\"01:33.377\" end=\"01:33.695\">just<\/span>\n        <span begin=\"01:33.695\" end=\"01:34.027\">can&apos;t<\/span>\n        <span begin=\"01:34.027\" end=\"01:34.393\">get<\/span>\n        <span begin=\"01:34.393\" end=\"01:35.054\">enough<\/span>\n      <\/p>\n      <p begin=\"01:35.060\" end=\"01:37.718\" ttm:agent=\"v1\">\n        <span begin=\"01:35.068\" end=\"01:35.316\">Put<\/span>\n        <span begin=\"01:35.316\" end=\"01:35.509\">your<\/span>\n        <span begin=\"01:35.509\" end=\"01:35.770\">wings<\/span>\n        <span begin=\"01:35.770\" end=\"01:36.103\">on<\/span>\n        <span begin=\"01:36.103\" end=\"01:36.970\">me,<\/span>\n        <span begin=\"01:36.970\" end=\"01:37.158\">wings<\/span>\n        <span begin=\"01:37.158\" end=\"01:37.420\">on<\/span>\n        <span begin=\"01:37.420\" end=\"01:37.718\">me<\/span>\n      <\/p>\n      <p begin=\"01:37.710\" end=\"01:40.384\" ttm:agent=\"v1\">\n        <span begin=\"01:37.718\" end=\"01:38.118\">When<\/span>\n        <span begin=\"01:38.118\" end=\"01:38.451\">I<\/span>\n        <span begin=\"01:38.451\" end=\"01:38.735\">was<\/span>\n        <span begin=\"01:38.735\" end=\"01:39.768\">so<\/span>\n        <span begin=\"01:39.768\" end=\"01:40.384\">heavy<\/span>\n      <\/p>\n      <p begin=\"01:40.380\" end=\"01:43.103\" ttm:agent=\"v1\">\n        <span begin=\"01:40.384\" end=\"01:40.807\">Pour<\/span>\n        <span begin=\"01:40.807\" end=\"01:41.090\">on<\/span>\n        <span begin=\"01:41.090\" end=\"01:41.389\">a<\/span>\n        <span begin=\"01:41.389\" end=\"01:43.103\">symphony<\/span>\n      <\/p>\n      <p begin=\"01:43.700\" end=\"01:46.732\" ttm:agent=\"v1\">\n        <span begin=\"01:43.701\" end=\"01:43.830\">When<\/span>\n        <span begin=\"01:43.830\" end=\"01:44.095\">I&apos;m<\/span>\n        <span begin=\"01:44.095\" end=\"01:44.729\">low,<\/span>\n        <span begin=\"01:44.729\" end=\"01:45.413\">low,<\/span>\n        <span begin=\"01:45.413\" end=\"01:46.110\">low,<\/span>\n        <span begin=\"01:46.110\" end=\"01:46.732\">low<\/span>\n      <\/p>\n      <p begin=\"01:46.740\" end=\"01:50.033\" ttm:agent=\"v1\">\n        <span begin=\"01:46.741\" end=\"01:47.792\">I,<\/span>\n        <span begin=\"01:47.792\" end=\"01:48.091\">oh<\/span>\n        <span begin=\"01:48.091\" end=\"01:48.845\">I,<\/span>\n        <span begin=\"01:49.059\" end=\"01:49.408\">oh<\/span>\n        <span begin=\"01:49.408\" end=\"01:50.033\">I<\/span>\n      <\/p>\n      <p begin=\"01:50.450\" end=\"01:52.726\" ttm:agent=\"v1\">\n        <span begin=\"01:50.457\" end=\"01:50.609\">Got<\/span>\n        <span begin=\"01:50.609\" end=\"01:50.774\">me<\/span>\n        <span begin=\"01:50.774\" end=\"01:51.473\">feeling<\/span>\n        <span begin=\"01:51.473\" end=\"01:51.809\">drunk<\/span>\n        <span begin=\"01:51.809\" end=\"01:52.158\">and<\/span>\n        <span begin=\"01:52.158\" end=\"01:52.726\">high<\/span>\n      <\/p>\n      <p begin=\"01:53.000\" end=\"01:56.233\" ttm:agent=\"v1\">\n        <span begin=\"01:53.000\" end=\"01:53.464\">So<\/span>\n        <span begin=\"01:53.464\" end=\"01:54.432\">high,<\/span>\n        <span begin=\"01:54.432\" end=\"01:54.782\">so<\/span>\n        <span begin=\"01:54.782\" end=\"01:56.233\">high<\/span>\n      <\/p>\n      <p begin=\"01:56.840\" end=\"02:00.881\" ttm:agent=\"v1\">\n        <span begin=\"01:56.846\" end=\"01:57.462\">Oh<\/span>\n        <span begin=\"01:57.462\" end=\"01:58.446\">I,<\/span>\n        <span begin=\"01:58.446\" end=\"01:58.795\">oh<\/span>\n        <span begin=\"01:58.795\" end=\"01:59.745\">I,<\/span>\n        <span begin=\"01:59.745\" end=\"02:00.097\">oh<\/span>\n        <span begin=\"02:00.097\" end=\"02:00.881\">I<\/span>\n      <\/p>\n      <p begin=\"02:01.050\" end=\"02:03.360\" ttm:agent=\"v1\">\n        <span begin=\"02:01.051\" end=\"02:01.280\">Now<\/span>\n        <span begin=\"02:01.280\" end=\"02:01.464\">I&apos;m<\/span>\n        <span begin=\"02:01.464\" end=\"02:02.129\">feeling<\/span>\n        <span begin=\"02:02.129\" end=\"02:02.478\">drunk<\/span>\n        <span begin=\"02:02.478\" end=\"02:02.830\">and<\/span>\n        <span begin=\"02:02.830\" end=\"02:03.360\">high<\/span>\n      <\/p>\n      <p begin=\"02:03.630\" end=\"02:06.671\" ttm:agent=\"v1\">\n        <span begin=\"02:03.639\" end=\"02:04.104\">So<\/span>\n        <span begin=\"02:04.104\" end=\"02:05.037\">high,<\/span>\n        <span begin=\"02:05.037\" end=\"02:05.456\">so<\/span>\n        <span begin=\"02:05.456\" end=\"02:06.671\">high<\/span>\n      <\/p>\n      <p begin=\"02:17.760\" end=\"02:22.025\" ttm:agent=\"v1\">\n        <span begin=\"02:17.764\" end=\"02:18.148\">Oh,<\/span>\n        <span begin=\"02:18.148\" end=\"02:18.796\">angel<\/span>\n        <span begin=\"02:18.796\" end=\"02:19.473\">sent<\/span>\n        <span begin=\"02:19.743\" end=\"02:20.189\">from<\/span>\n        <span begin=\"02:20.189\" end=\"02:20.697\">up<\/span>\n        <span begin=\"02:21.057\" end=\"02:22.025\">above<\/span>\n      <\/p>\n      <p begin=\"02:23.120\" end=\"02:27.438\" ttm:agent=\"v1\">\n        <span begin=\"02:23.129\" end=\"02:23.431\">I<\/span>\n        <span begin=\"02:23.431\" end=\"02:23.748\">feel<\/span>\n        <span begin=\"02:23.748\" end=\"02:24.015\">it<\/span>\n        <span begin=\"02:24.015\" end=\"02:25.415\">coursing<\/span>\n        <span begin=\"02:25.415\" end=\"02:26.158\">through<\/span>\n        <span begin=\"02:26.396\" end=\"02:26.713\">my<\/span>\n        <span begin=\"02:26.713\" end=\"02:27.438\">blood<\/span>\n      <\/p>\n      <p begin=\"02:28.370\" end=\"02:32.831\" ttm:agent=\"v1\">\n        <span begin=\"02:28.372\" end=\"02:28.749\">Life<\/span>\n        <span begin=\"02:28.749\" end=\"02:29.032\">is<\/span>\n        <span begin=\"02:29.032\" end=\"02:29.365\">a<\/span>\n        <span begin=\"02:29.365\" end=\"02:30.076\">drink,<\/span>\n        <span begin=\"02:30.281\" end=\"02:30.457\">and<\/span>\n        <span begin=\"02:30.457\" end=\"02:30.652\">your<\/span>\n        <span begin=\"02:30.652\" end=\"02:31.404\">love&apos;s<\/span>\n        <span begin=\"02:31.713\" end=\"02:32.831\">about<\/span>\n      <\/p>\n      <p begin=\"02:33.700\" end=\"02:37.972\" ttm:agent=\"v1\">\n        <span begin=\"02:33.704\" end=\"02:34.084\">To<\/span>\n        <span begin=\"02:34.084\" end=\"02:34.417\">make<\/span>\n        <span begin=\"02:34.417\" end=\"02:34.750\">the<\/span>\n        <span begin=\"02:34.750\" end=\"02:35.798\">stars<\/span>\n        <span begin=\"02:35.798\" end=\"02:36.150\">come<\/span>\n        <span begin=\"02:36.150\" end=\"02:37.972\">out<\/span>\n      <\/p>\n      <p begin=\"02:39.060\" end=\"02:41.735\" ttm:agent=\"v1\">\n        <span begin=\"02:39.066\" end=\"02:39.246\">Put<\/span>\n        <span begin=\"02:39.246\" end=\"02:39.395\">your<\/span>\n        <span begin=\"02:39.395\" end=\"02:39.790\">wings<\/span>\n        <span begin=\"02:39.790\" end=\"02:40.123\">on<\/span>\n        <span begin=\"02:40.123\" end=\"02:40.784\">me,<\/span>\n        <span begin=\"02:40.784\" end=\"02:41.069\">wings<\/span>\n        <span begin=\"02:41.069\" end=\"02:41.368\">on<\/span>\n        <span begin=\"02:41.368\" end=\"02:41.735\">me<\/span>\n      <\/p>\n      <p begin=\"02:41.730\" end=\"02:44.370\" ttm:agent=\"v1\">\n        <span begin=\"02:41.735\" end=\"02:42.111\">When<\/span>\n        <span begin=\"02:42.111\" end=\"02:42.412\">I<\/span>\n        <span begin=\"02:42.412\" end=\"02:42.746\">was<\/span>\n        <span begin=\"02:42.746\" end=\"02:43.778\">so<\/span>\n        <span begin=\"02:43.778\" end=\"02:44.370\">heavy<\/span>\n      <\/p>\n      <p begin=\"02:44.380\" end=\"02:47.060\" ttm:agent=\"v1\">\n        <span begin=\"02:44.385\" end=\"02:44.793\">Pour<\/span>\n        <span begin=\"02:44.793\" end=\"02:45.095\">on<\/span>\n        <span begin=\"02:45.095\" end=\"02:45.412\">a<\/span>\n        <span begin=\"02:45.412\" end=\"02:47.060\">symphony<\/span>\n      <\/p>\n      <p begin=\"02:47.680\" end=\"02:50.732\" ttm:agent=\"v1\">\n        <span begin=\"02:47.689\" end=\"02:48.058\">When<\/span>\n        <span begin=\"02:48.058\" end=\"02:48.218\">I&apos;m<\/span>\n        <span begin=\"02:48.218\" end=\"02:48.903\">low,<\/span>\n        <span begin=\"02:48.903\" end=\"02:49.396\">low,<\/span>\n        <span begin=\"02:49.396\" end=\"02:50.093\">low,<\/span>\n        <span begin=\"02:50.093\" end=\"02:50.732\">low<\/span>\n      <\/p>\n      <p begin=\"02:50.730\" end=\"02:54.204\" ttm:agent=\"v1\">\n        <span begin=\"02:50.732\" end=\"02:51.755\">I,<\/span>\n        <span begin=\"02:51.755\" end=\"02:52.057\">oh<\/span>\n        <span begin=\"02:52.057\" end=\"02:52.722\">I,<\/span>\n        <span begin=\"02:53.091\" end=\"02:53.425\">oh<\/span>\n        <span begin=\"02:53.425\" end=\"02:54.204\">I<\/span>\n      <\/p>\n      <p begin=\"02:54.410\" end=\"02:56.752\" ttm:agent=\"v1\">\n        <span begin=\"02:54.415\" end=\"02:54.668\">Got<\/span>\n        <span begin=\"02:54.668\" end=\"02:54.835\">me<\/span>\n        <span begin=\"02:54.835\" end=\"02:55.469\">feeling<\/span>\n        <span begin=\"02:55.469\" end=\"02:55.819\">drunk<\/span>\n        <span begin=\"02:55.819\" end=\"02:56.152\">and<\/span>\n        <span begin=\"02:56.152\" end=\"02:56.752\">high<\/span>\n      <\/p>\n      <p begin=\"02:57.020\" end=\"03:00.160\" ttm:agent=\"v1\">\n        <span begin=\"02:57.024\" end=\"02:57.473\">So<\/span>\n        <span begin=\"02:57.473\" end=\"02:58.442\">high,<\/span>\n        <span begin=\"02:58.442\" end=\"02:58.776\">so<\/span>\n        <span begin=\"02:58.776\" end=\"03:00.160\">high<\/span>\n      <\/p>\n      <p begin=\"03:00.760\" end=\"03:04.864\" ttm:agent=\"v1\">\n        <span begin=\"03:00.763\" end=\"03:01.336\">Oh<\/span>\n        <span begin=\"03:01.336\" end=\"03:02.386\">I,<\/span>\n        <span begin=\"03:02.386\" end=\"03:02.637\">oh<\/span>\n        <span begin=\"03:02.637\" end=\"03:03.337\">I,<\/span>\n        <span begin=\"03:03.645\" end=\"03:04.045\">oh<\/span>\n        <span begin=\"03:04.045\" end=\"03:04.864\">I<\/span>\n      <\/p>\n      <p begin=\"03:05.030\" end=\"03:07.478\" ttm:agent=\"v1\">\n        <span begin=\"03:05.031\" end=\"03:05.321\">When<\/span>\n        <span begin=\"03:05.321\" end=\"03:05.486\">I&apos;m<\/span>\n        <span begin=\"03:05.486\" end=\"03:06.105\">feeling<\/span>\n        <span begin=\"03:06.105\" end=\"03:06.470\">drunk<\/span>\n        <span begin=\"03:06.470\" end=\"03:06.819\">and<\/span>\n        <span begin=\"03:06.819\" end=\"03:07.478\">high<\/span>\n      <\/p>\n      <p begin=\"03:07.620\" end=\"03:11.035\" ttm:agent=\"v1\">\n        <span begin=\"03:07.623\" end=\"03:08.118\">So<\/span>\n        <span begin=\"03:08.118\" end=\"03:09.118\">high,<\/span>\n        <span begin=\"03:09.118\" end=\"03:09.433\">so<\/span>\n        <span begin=\"03:09.433\" end=\"03:11.035\">high<\/span>\n      <\/p>\n      <p begin=\"03:12.170\" end=\"03:15.337\" ttm:agent=\"v2000\">\n        <span begin=\"03:12.171\" end=\"03:13.113\">I,<\/span>\n        <span begin=\"03:13.113\" end=\"03:13.433\">oh<\/span>\n        <span begin=\"03:13.433\" end=\"03:14.462\">I,<\/span>\n        <span begin=\"03:14.462\" end=\"03:14.780\">oh<\/span>\n        <span begin=\"03:14.780\" end=\"03:15.337\">I<\/span>\n      <\/p>\n      <p begin=\"03:15.800\" end=\"03:17.971\" ttm:agent=\"v2000\">\n        <span begin=\"03:15.808\" end=\"03:17.971\">La-la-la-la-la-la-la<\/span>\n      <\/p>\n      <p begin=\"03:18.420\" end=\"03:21.166\" ttm:agent=\"v2000\">\n        <span begin=\"03:18.425\" end=\"03:18.794\">So<\/span>\n        <span begin=\"03:18.794\" end=\"03:19.255\">high,<\/span>\n        <span begin=\"03:19.682\" end=\"03:20.031\">so<\/span>\n        <span begin=\"03:20.031\" end=\"03:21.166\">high<\/span>\n      <\/p>\n      <p begin=\"03:22.770\" end=\"03:26.010\" ttm:agent=\"v2000\">\n        <span begin=\"03:22.773\" end=\"03:23.737\">I,<\/span>\n        <span begin=\"03:23.737\" end=\"03:24.089\">oh<\/span>\n        <span begin=\"03:24.089\" end=\"03:24.727\">I,<\/span>\n        <span begin=\"03:25.070\" end=\"03:25.419\">oh<\/span>\n        <span begin=\"03:25.419\" end=\"03:26.010\">I<\/span>\n      <\/p>\n      <p begin=\"03:26.370\" end=\"03:28.722\" ttm:agent=\"v2000\">\n        <span begin=\"03:26.370\" end=\"03:26.640\">Got<\/span>\n        <span begin=\"03:26.640\" end=\"03:26.792\">me<\/span>\n        <span begin=\"03:26.792\" end=\"03:27.440\">feeling<\/span>\n        <span begin=\"03:27.440\" end=\"03:27.808\">drunk<\/span>\n        <span begin=\"03:27.808\" end=\"03:28.141\">and<\/span>\n        <span begin=\"03:28.141\" end=\"03:28.722\">high<\/span>\n      <\/p>\n      <p begin=\"03:28.960\" end=\"03:31.710\" ttm:agent=\"v2000\">\n        <span begin=\"03:28.963\" end=\"03:29.423\">So<\/span>\n        <span begin=\"03:29.423\" end=\"03:29.986\">high,<\/span>\n        <span begin=\"03:30.407\" end=\"03:30.772\">so<\/span>\n        <span begin=\"03:30.772\" end=\"03:31.710\">high<\/span>\n      <\/p>\n      <p begin=\"03:31.710\" end=\"03:36.716\" ttm:agent=\"v2000\">\n        <span begin=\"03:31.710\" end=\"03:31.841\">That<\/span>\n        <span begin=\"03:31.841\" end=\"03:32.022\">we<\/span>\n        <span begin=\"03:32.022\" end=\"03:32.481\">shoot<\/span>\n        <span begin=\"03:32.481\" end=\"03:33.147\">across<\/span>\n        <span begin=\"03:33.147\" end=\"03:33.465\">the<\/span>\n        <span begin=\"03:33.465\" end=\"03:36.716\">sky<\/span>\n      <\/p>\n      <p begin=\"03:37.030\" end=\"03:41.566\" ttm:agent=\"v2000\">\n        <span begin=\"03:37.030\" end=\"03:37.184\">That<\/span>\n        <span begin=\"03:37.184\" end=\"03:37.368\">we<\/span>\n        <span begin=\"03:37.368\" end=\"03:37.784\">shoot<\/span>\n        <span begin=\"03:37.784\" end=\"03:38.466\">across<\/span>\n        <span begin=\"03:38.466\" end=\"03:41.566\">the<\/span>\n      <\/p>\n      <p begin=\"03:42.400\" end=\"03:47.400\" ttm:agent=\"v2000\">\n        <span begin=\"03:42.406\" end=\"03:42.548\">That<\/span>\n        <span begin=\"03:42.548\" end=\"03:42.745\">we<\/span>\n        <span begin=\"03:42.745\" end=\"03:43.172\">shoot<\/span>\n        <span begin=\"03:43.172\" end=\"03:43.807\">across<\/span>\n        <span begin=\"03:43.807\" end=\"03:44.156\">the<\/span>\n        <span begin=\"03:44.156\" end=\"03:47.400\">sky<\/span>\n      <\/p>\n      <p begin=\"03:47.720\" end=\"03:52.640\" ttm:agent=\"v2000\">\n        <span begin=\"03:47.722\" end=\"03:47.987\">That<\/span>\n        <span begin=\"03:47.987\" end=\"03:48.171\">we<\/span>\n        <span begin=\"03:48.171\" end=\"03:48.489\">shoot<\/span>\n        <span begin=\"03:48.489\" end=\"03:49.121\">across<\/span>\n        <span begin=\"03:49.121\" end=\"03:52.640\">the<\/span>\n      <\/p>\n      <p begin=\"03:53.060\" end=\"03:58.175\" ttm:agent=\"v2000\">\n        <span begin=\"03:53.064\" end=\"03:53.288\">That<\/span>\n        <span begin=\"03:53.288\" end=\"03:53.504\">we<\/span>\n        <span begin=\"03:53.504\" end=\"03:53.902\">shoot<\/span>\n        <span begin=\"03:53.902\" end=\"03:54.502\">across<\/span>\n        <span begin=\"03:54.502\" end=\"03:54.718\">the<\/span>\n        <span begin=\"03:54.718\" end=\"03:58.175\">sky<\/span>\n      <\/p>\n      <p begin=\"03:58.290\" end=\"04:01.934\" ttm:agent=\"v2000\">\n        <span begin=\"03:58.296\" end=\"03:58.594\">That<\/span>\n        <span begin=\"03:58.594\" end=\"03:58.746\">we<\/span>\n        <span begin=\"03:58.746\" end=\"03:59.095\">shoot<\/span>\n        <span begin=\"03:59.095\" end=\"03:59.746\">across<\/span>\n        <span begin=\"03:59.746\" end=\"04:01.934\">the<\/span>\n      <\/p>\n      <p begin=\"04:03.700\" end=\"04:09.024\" ttm:agent=\"v2000\">\n        <span begin=\"04:03.701\" end=\"04:03.971\">That<\/span>\n        <span begin=\"04:03.971\" end=\"04:04.171\">we<\/span>\n        <span begin=\"04:04.171\" end=\"04:04.539\">shoot<\/span>\n        <span begin=\"04:04.539\" end=\"04:05.206\">across<\/span>\n        <span begin=\"04:05.206\" end=\"04:05.587\">the<\/span>\n        <span begin=\"04:05.587\" end=\"04:09.024\">sky<\/span>\n      <\/p>\n      <p begin=\"04:09.390\" end=\"04:12.549\" ttm:agent=\"v2000\">\n        <span begin=\"04:09.395\" end=\"04:09.711\">That<\/span>\n        <span begin=\"04:09.711\" end=\"04:09.895\">we<\/span>\n        <span begin=\"04:09.895\" end=\"04:10.228\">shoot<\/span>\n        <span begin=\"04:10.228\" end=\"04:10.977\">across<\/span>\n        <span begin=\"04:10.977\" end=\"04:12.549\">the<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 10900,
+      "endTime": 12530,
+      "text": "Me, drink from me",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 10901,
+          "endTime": 11434,
+          "word": "Me,"
+        },
+        {
+          "startTime": 11434,
+          "endTime": 11717,
+          "word": "drink"
+        },
+        {
+          "startTime": 11717,
+          "endTime": 12066,
+          "word": "from"
+        },
+        {
+          "startTime": 12066,
+          "endTime": 12530,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 14720,
+      "endTime": 17012,
+      "text": "That we shoot across the sky",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 14725,
+          "endTime": 14855,
+          "word": "That"
+        },
+        {
+          "startTime": 14855,
+          "endTime": 14955,
+          "word": "we"
+        },
+        {
+          "startTime": 14955,
+          "endTime": 15132,
+          "word": "shoot"
+        },
+        {
+          "startTime": 15132,
+          "endTime": 15716,
+          "word": "across"
+        },
+        {
+          "startTime": 15716,
+          "endTime": 15999,
+          "word": "the"
+        },
+        {
+          "startTime": 15999,
+          "endTime": 17012,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 16190,
+      "endTime": 17964,
+      "text": "Symphony",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 16196,
+          "endTime": 17964,
+          "word": "Symphony"
+        }
+      ]
+    },
+    {
+      "time": 19690,
+      "endTime": 22262,
+      "text": "That we shoot across the sky",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 19698,
+          "endTime": 19907,
+          "word": "That"
+        },
+        {
+          "startTime": 19907,
+          "endTime": 20075,
+          "word": "we"
+        },
+        {
+          "startTime": 20075,
+          "endTime": 20471,
+          "word": "shoot"
+        },
+        {
+          "startTime": 20471,
+          "endTime": 21170,
+          "word": "across"
+        },
+        {
+          "startTime": 21170,
+          "endTime": 21487,
+          "word": "the"
+        },
+        {
+          "startTime": 21487,
+          "endTime": 22262,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 20830,
+      "endTime": 23116,
+      "text": "Drink from me, drink from me",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 20832,
+          "endTime": 21116,
+          "word": "Drink"
+        },
+        {
+          "startTime": 21116,
+          "endTime": 21465,
+          "word": "from"
+        },
+        {
+          "startTime": 21465,
+          "endTime": 22189,
+          "word": "me,"
+        },
+        {
+          "startTime": 22189,
+          "endTime": 22427,
+          "word": "drink"
+        },
+        {
+          "startTime": 22427,
+          "endTime": 22739,
+          "word": "from"
+        },
+        {
+          "startTime": 22739,
+          "endTime": 23116,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 25080,
+      "endTime": 27443,
+      "text": "That we shoot across the sky",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 25084,
+          "endTime": 25285,
+          "word": "That"
+        },
+        {
+          "startTime": 25285,
+          "endTime": 25453,
+          "word": "we"
+        },
+        {
+          "startTime": 25453,
+          "endTime": 25837,
+          "word": "shoot"
+        },
+        {
+          "startTime": 25837,
+          "endTime": 26469,
+          "word": "across"
+        },
+        {
+          "startTime": 26469,
+          "endTime": 26803,
+          "word": "the"
+        },
+        {
+          "startTime": 26803,
+          "endTime": 27443,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 26760,
+      "endTime": 28484,
+      "text": "Symphony",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 26766,
+          "endTime": 28484,
+          "word": "Symphony"
+        }
+      ]
+    },
+    {
+      "time": 29090,
+      "endTime": 30484,
+      "text": "So high",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 29092,
+          "endTime": 29504,
+          "word": "So"
+        },
+        {
+          "startTime": 29504,
+          "endTime": 30484,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 30510,
+      "endTime": 32165,
+      "text": "That we shoot across the s-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 30519,
+          "endTime": 30780,
+          "word": "That"
+        },
+        {
+          "startTime": 30780,
+          "endTime": 30880,
+          "word": "we"
+        },
+        {
+          "startTime": 30880,
+          "endTime": 31162,
+          "word": "shoot"
+        },
+        {
+          "startTime": 31162,
+          "endTime": 31765,
+          "word": "across"
+        },
+        {
+          "startTime": 31765,
+          "endTime": 32064,
+          "word": "the"
+        },
+        {
+          "startTime": 32064,
+          "endTime": 32165,
+          "word": "s-"
+        }
+      ]
+    },
+    {
+      "time": 41770,
+      "endTime": 46096,
+      "text": "Oh, angel sent from up above",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41778,
+          "endTime": 42122,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 42122,
+          "endTime": 42821,
+          "word": "angel"
+        },
+        {
+          "startTime": 42821,
+          "endTime": 43359,
+          "word": "sent"
+        },
+        {
+          "startTime": 43771,
+          "endTime": 44193,
+          "word": "from"
+        },
+        {
+          "startTime": 44193,
+          "endTime": 44768,
+          "word": "up"
+        },
+        {
+          "startTime": 45193,
+          "endTime": 46096,
+          "word": "above"
+        }
+      ]
+    },
+    {
+      "time": 47050,
+      "endTime": 51328,
+      "text": "You know you make my world light up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47054,
+          "endTime": 47535,
+          "word": "You"
+        },
+        {
+          "startTime": 47535,
+          "endTime": 47786,
+          "word": "know"
+        },
+        {
+          "startTime": 47786,
+          "endTime": 48135,
+          "word": "you"
+        },
+        {
+          "startTime": 48135,
+          "endTime": 48590,
+          "word": "make"
+        },
+        {
+          "startTime": 49018,
+          "endTime": 49409,
+          "word": "my"
+        },
+        {
+          "startTime": 49409,
+          "endTime": 50091,
+          "word": "world"
+        },
+        {
+          "startTime": 50428,
+          "endTime": 50814,
+          "word": "light"
+        },
+        {
+          "startTime": 50814,
+          "endTime": 51328,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 52390,
+      "endTime": 56770,
+      "text": "When I was down, when I was hurt",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 52391,
+          "endTime": 52785,
+          "word": "When"
+        },
+        {
+          "startTime": 52785,
+          "endTime": 53107,
+          "word": "I"
+        },
+        {
+          "startTime": 53107,
+          "endTime": 53403,
+          "word": "was"
+        },
+        {
+          "startTime": 53403,
+          "endTime": 54103,
+          "word": "down,"
+        },
+        {
+          "startTime": 54418,
+          "endTime": 54753,
+          "word": "when"
+        },
+        {
+          "startTime": 54753,
+          "endTime": 55268,
+          "word": "I"
+        },
+        {
+          "startTime": 55785,
+          "endTime": 56070,
+          "word": "was"
+        },
+        {
+          "startTime": 56070,
+          "endTime": 56770,
+          "word": "hurt"
+        }
+      ]
+    },
+    {
+      "time": 57660,
+      "endTime": 62505,
+      "text": "You came to lift me up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57665,
+          "endTime": 58076,
+          "word": "You"
+        },
+        {
+          "startTime": 58076,
+          "endTime": 58415,
+          "word": "came"
+        },
+        {
+          "startTime": 58415,
+          "endTime": 58796,
+          "word": "to"
+        },
+        {
+          "startTime": 58796,
+          "endTime": 59775,
+          "word": "lift"
+        },
+        {
+          "startTime": 59775,
+          "endTime": 60108,
+          "word": "me"
+        },
+        {
+          "startTime": 60108,
+          "endTime": 62505,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 63000,
+      "endTime": 67342,
+      "text": "Life is a drink and love's a drug",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63009,
+          "endTime": 63418,
+          "word": "Life"
+        },
+        {
+          "startTime": 63418,
+          "endTime": 63717,
+          "word": "is"
+        },
+        {
+          "startTime": 63717,
+          "endTime": 64001,
+          "word": "a"
+        },
+        {
+          "startTime": 64001,
+          "endTime": 64571,
+          "word": "drink"
+        },
+        {
+          "startTime": 65030,
+          "endTime": 65453,
+          "word": "and"
+        },
+        {
+          "startTime": 65453,
+          "endTime": 66116,
+          "word": "love's"
+        },
+        {
+          "startTime": 66437,
+          "endTime": 66738,
+          "word": "a"
+        },
+        {
+          "startTime": 66738,
+          "endTime": 67342,
+          "word": "drug"
+        }
+      ]
+    },
+    {
+      "time": 68430,
+      "endTime": 72858,
+      "text": "Oh, now I think I must be miles up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 68433,
+          "endTime": 68783,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 68783,
+          "endTime": 69049,
+          "word": "now"
+        },
+        {
+          "startTime": 69049,
+          "endTime": 69383,
+          "word": "I"
+        },
+        {
+          "startTime": 69383,
+          "endTime": 69732,
+          "word": "think"
+        },
+        {
+          "startTime": 69732,
+          "endTime": 69999,
+          "word": "I"
+        },
+        {
+          "startTime": 69999,
+          "endTime": 70332,
+          "word": "must"
+        },
+        {
+          "startTime": 70332,
+          "endTime": 70664,
+          "word": "be"
+        },
+        {
+          "startTime": 70664,
+          "endTime": 72097,
+          "word": "miles"
+        },
+        {
+          "startTime": 72097,
+          "endTime": 72858,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 73710,
+      "endTime": 78095,
+      "text": "When I was a river, dried up",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 73719,
+          "endTime": 74099,
+          "word": "When"
+        },
+        {
+          "startTime": 74099,
+          "endTime": 74400,
+          "word": "I"
+        },
+        {
+          "startTime": 74400,
+          "endTime": 74699,
+          "word": "was"
+        },
+        {
+          "startTime": 74699,
+          "endTime": 75479,
+          "word": "a"
+        },
+        {
+          "startTime": 75766,
+          "endTime": 76751,
+          "word": "river,"
+        },
+        {
+          "startTime": 77083,
+          "endTime": 77374,
+          "word": "dried"
+        },
+        {
+          "startTime": 77374,
+          "endTime": 78095,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 79060,
+      "endTime": 84130,
+      "text": "You came to rain a flood",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 79064,
+          "endTime": 79417,
+          "word": "You"
+        },
+        {
+          "startTime": 79417,
+          "endTime": 79718,
+          "word": "came"
+        },
+        {
+          "startTime": 79718,
+          "endTime": 80033,
+          "word": "to"
+        },
+        {
+          "startTime": 80033,
+          "endTime": 81166,
+          "word": "rain"
+        },
+        {
+          "startTime": 81166,
+          "endTime": 81406,
+          "word": "a"
+        },
+        {
+          "startTime": 81406,
+          "endTime": 84130,
+          "word": "flood"
+        }
+      ]
+    },
+    {
+      "time": 84270,
+      "endTime": 87050,
+      "text": "You said, \"Drink from me, drink from me\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 84271,
+          "endTime": 84501,
+          "word": "You"
+        },
+        {
+          "startTime": 84501,
+          "endTime": 84776,
+          "word": "said,"
+        },
+        {
+          "startTime": 84776,
+          "endTime": 85077,
+          "word": "\"Drink"
+        },
+        {
+          "startTime": 85077,
+          "endTime": 85410,
+          "word": "from"
+        },
+        {
+          "startTime": 85410,
+          "endTime": 86084,
+          "word": "me,"
+        },
+        {
+          "startTime": 86084,
+          "endTime": 86351,
+          "word": "drink"
+        },
+        {
+          "startTime": 86351,
+          "endTime": 86684,
+          "word": "from"
+        },
+        {
+          "startTime": 86684,
+          "endTime": 87050,
+          "word": "me\""
+        }
+      ]
+    },
+    {
+      "time": 87050,
+      "endTime": 89706,
+      "text": "When I was so thirsty",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 87050,
+          "endTime": 87447,
+          "word": "When"
+        },
+        {
+          "startTime": 87447,
+          "endTime": 87780,
+          "word": "I"
+        },
+        {
+          "startTime": 87780,
+          "endTime": 88063,
+          "word": "was"
+        },
+        {
+          "startTime": 88063,
+          "endTime": 89129,
+          "word": "so"
+        },
+        {
+          "startTime": 89129,
+          "endTime": 89706,
+          "word": "thirsty"
+        }
+      ]
+    },
+    {
+      "time": 89720,
+      "endTime": 92402,
+      "text": "Pour on a symphony",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89726,
+          "endTime": 90090,
+          "word": "Pour"
+        },
+        {
+          "startTime": 90090,
+          "endTime": 90372,
+          "word": "on"
+        },
+        {
+          "startTime": 90372,
+          "endTime": 90690,
+          "word": "a"
+        },
+        {
+          "startTime": 90690,
+          "endTime": 92402,
+          "word": "symphony"
+        }
+      ]
+    },
+    {
+      "time": 92890,
+      "endTime": 95054,
+      "text": "Now I just can't get enough",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92896,
+          "endTime": 93079,
+          "word": "Now"
+        },
+        {
+          "startTime": 93079,
+          "endTime": 93377,
+          "word": "I"
+        },
+        {
+          "startTime": 93377,
+          "endTime": 93695,
+          "word": "just"
+        },
+        {
+          "startTime": 93695,
+          "endTime": 94027,
+          "word": "can't"
+        },
+        {
+          "startTime": 94027,
+          "endTime": 94393,
+          "word": "get"
+        },
+        {
+          "startTime": 94393,
+          "endTime": 95054,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 95060,
+      "endTime": 97718,
+      "text": "Put your wings on me, wings on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95068,
+          "endTime": 95316,
+          "word": "Put"
+        },
+        {
+          "startTime": 95316,
+          "endTime": 95509,
+          "word": "your"
+        },
+        {
+          "startTime": 95509,
+          "endTime": 95770,
+          "word": "wings"
+        },
+        {
+          "startTime": 95770,
+          "endTime": 96103,
+          "word": "on"
+        },
+        {
+          "startTime": 96103,
+          "endTime": 96970,
+          "word": "me,"
+        },
+        {
+          "startTime": 96970,
+          "endTime": 97158,
+          "word": "wings"
+        },
+        {
+          "startTime": 97158,
+          "endTime": 97420,
+          "word": "on"
+        },
+        {
+          "startTime": 97420,
+          "endTime": 97718,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 97710,
+      "endTime": 100384,
+      "text": "When I was so heavy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 97718,
+          "endTime": 98118,
+          "word": "When"
+        },
+        {
+          "startTime": 98118,
+          "endTime": 98451,
+          "word": "I"
+        },
+        {
+          "startTime": 98451,
+          "endTime": 98735,
+          "word": "was"
+        },
+        {
+          "startTime": 98735,
+          "endTime": 99768,
+          "word": "so"
+        },
+        {
+          "startTime": 99768,
+          "endTime": 100384,
+          "word": "heavy"
+        }
+      ]
+    },
+    {
+      "time": 100380,
+      "endTime": 103103,
+      "text": "Pour on a symphony",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 100384,
+          "endTime": 100807,
+          "word": "Pour"
+        },
+        {
+          "startTime": 100807,
+          "endTime": 101090,
+          "word": "on"
+        },
+        {
+          "startTime": 101090,
+          "endTime": 101389,
+          "word": "a"
+        },
+        {
+          "startTime": 101389,
+          "endTime": 103103,
+          "word": "symphony"
+        }
+      ]
+    },
+    {
+      "time": 103700,
+      "endTime": 106732,
+      "text": "When I'm low, low, low, low",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 103701,
+          "endTime": 103830,
+          "word": "When"
+        },
+        {
+          "startTime": 103830,
+          "endTime": 104095,
+          "word": "I'm"
+        },
+        {
+          "startTime": 104095,
+          "endTime": 104729,
+          "word": "low,"
+        },
+        {
+          "startTime": 104729,
+          "endTime": 105413,
+          "word": "low,"
+        },
+        {
+          "startTime": 105413,
+          "endTime": 106110,
+          "word": "low,"
+        },
+        {
+          "startTime": 106110,
+          "endTime": 106732,
+          "word": "low"
+        }
+      ]
+    },
+    {
+      "time": 106740,
+      "endTime": 110033,
+      "text": "I, oh I, oh I",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 106741,
+          "endTime": 107792,
+          "word": "I,"
+        },
+        {
+          "startTime": 107792,
+          "endTime": 108091,
+          "word": "oh"
+        },
+        {
+          "startTime": 108091,
+          "endTime": 108845,
+          "word": "I,"
+        },
+        {
+          "startTime": 109059,
+          "endTime": 109408,
+          "word": "oh"
+        },
+        {
+          "startTime": 109408,
+          "endTime": 110033,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 110450,
+      "endTime": 112726,
+      "text": "Got me feeling drunk and high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 110457,
+          "endTime": 110609,
+          "word": "Got"
+        },
+        {
+          "startTime": 110609,
+          "endTime": 110774,
+          "word": "me"
+        },
+        {
+          "startTime": 110774,
+          "endTime": 111473,
+          "word": "feeling"
+        },
+        {
+          "startTime": 111473,
+          "endTime": 111809,
+          "word": "drunk"
+        },
+        {
+          "startTime": 111809,
+          "endTime": 112158,
+          "word": "and"
+        },
+        {
+          "startTime": 112158,
+          "endTime": 112726,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 113000,
+      "endTime": 116233,
+      "text": "So high, so high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 113000,
+          "endTime": 113464,
+          "word": "So"
+        },
+        {
+          "startTime": 113464,
+          "endTime": 114432,
+          "word": "high,"
+        },
+        {
+          "startTime": 114432,
+          "endTime": 114782,
+          "word": "so"
+        },
+        {
+          "startTime": 114782,
+          "endTime": 116233,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 116840,
+      "endTime": 120881,
+      "text": "Oh I, oh I, oh I",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116846,
+          "endTime": 117462,
+          "word": "Oh"
+        },
+        {
+          "startTime": 117462,
+          "endTime": 118446,
+          "word": "I,"
+        },
+        {
+          "startTime": 118446,
+          "endTime": 118795,
+          "word": "oh"
+        },
+        {
+          "startTime": 118795,
+          "endTime": 119745,
+          "word": "I,"
+        },
+        {
+          "startTime": 119745,
+          "endTime": 120097,
+          "word": "oh"
+        },
+        {
+          "startTime": 120097,
+          "endTime": 120881,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 121050,
+      "endTime": 123360,
+      "text": "Now I'm feeling drunk and high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 121051,
+          "endTime": 121280,
+          "word": "Now"
+        },
+        {
+          "startTime": 121280,
+          "endTime": 121464,
+          "word": "I'm"
+        },
+        {
+          "startTime": 121464,
+          "endTime": 122129,
+          "word": "feeling"
+        },
+        {
+          "startTime": 122129,
+          "endTime": 122478,
+          "word": "drunk"
+        },
+        {
+          "startTime": 122478,
+          "endTime": 122830,
+          "word": "and"
+        },
+        {
+          "startTime": 122830,
+          "endTime": 123360,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 123630,
+      "endTime": 126671,
+      "text": "So high, so high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123639,
+          "endTime": 124104,
+          "word": "So"
+        },
+        {
+          "startTime": 124104,
+          "endTime": 125037,
+          "word": "high,"
+        },
+        {
+          "startTime": 125037,
+          "endTime": 125456,
+          "word": "so"
+        },
+        {
+          "startTime": 125456,
+          "endTime": 126671,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 137760,
+      "endTime": 142025,
+      "text": "Oh, angel sent from up above",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137764,
+          "endTime": 138148,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 138148,
+          "endTime": 138796,
+          "word": "angel"
+        },
+        {
+          "startTime": 138796,
+          "endTime": 139473,
+          "word": "sent"
+        },
+        {
+          "startTime": 139743,
+          "endTime": 140189,
+          "word": "from"
+        },
+        {
+          "startTime": 140189,
+          "endTime": 140697,
+          "word": "up"
+        },
+        {
+          "startTime": 141057,
+          "endTime": 142025,
+          "word": "above"
+        }
+      ]
+    },
+    {
+      "time": 143120,
+      "endTime": 147438,
+      "text": "I feel it coursing through my blood",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 143129,
+          "endTime": 143431,
+          "word": "I"
+        },
+        {
+          "startTime": 143431,
+          "endTime": 143748,
+          "word": "feel"
+        },
+        {
+          "startTime": 143748,
+          "endTime": 144015,
+          "word": "it"
+        },
+        {
+          "startTime": 144015,
+          "endTime": 145415,
+          "word": "coursing"
+        },
+        {
+          "startTime": 145415,
+          "endTime": 146158,
+          "word": "through"
+        },
+        {
+          "startTime": 146396,
+          "endTime": 146713,
+          "word": "my"
+        },
+        {
+          "startTime": 146713,
+          "endTime": 147438,
+          "word": "blood"
+        }
+      ]
+    },
+    {
+      "time": 148370,
+      "endTime": 152831,
+      "text": "Life is a drink, and your love's about",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 148372,
+          "endTime": 148749,
+          "word": "Life"
+        },
+        {
+          "startTime": 148749,
+          "endTime": 149032,
+          "word": "is"
+        },
+        {
+          "startTime": 149032,
+          "endTime": 149365,
+          "word": "a"
+        },
+        {
+          "startTime": 149365,
+          "endTime": 150076,
+          "word": "drink,"
+        },
+        {
+          "startTime": 150281,
+          "endTime": 150457,
+          "word": "and"
+        },
+        {
+          "startTime": 150457,
+          "endTime": 150652,
+          "word": "your"
+        },
+        {
+          "startTime": 150652,
+          "endTime": 151404,
+          "word": "love's"
+        },
+        {
+          "startTime": 151713,
+          "endTime": 152831,
+          "word": "about"
+        }
+      ]
+    },
+    {
+      "time": 153700,
+      "endTime": 157972,
+      "text": "To make the stars come out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153704,
+          "endTime": 154084,
+          "word": "To"
+        },
+        {
+          "startTime": 154084,
+          "endTime": 154417,
+          "word": "make"
+        },
+        {
+          "startTime": 154417,
+          "endTime": 154750,
+          "word": "the"
+        },
+        {
+          "startTime": 154750,
+          "endTime": 155798,
+          "word": "stars"
+        },
+        {
+          "startTime": 155798,
+          "endTime": 156150,
+          "word": "come"
+        },
+        {
+          "startTime": 156150,
+          "endTime": 157972,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 159060,
+      "endTime": 161735,
+      "text": "Put your wings on me, wings on me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159066,
+          "endTime": 159246,
+          "word": "Put"
+        },
+        {
+          "startTime": 159246,
+          "endTime": 159395,
+          "word": "your"
+        },
+        {
+          "startTime": 159395,
+          "endTime": 159790,
+          "word": "wings"
+        },
+        {
+          "startTime": 159790,
+          "endTime": 160123,
+          "word": "on"
+        },
+        {
+          "startTime": 160123,
+          "endTime": 160784,
+          "word": "me,"
+        },
+        {
+          "startTime": 160784,
+          "endTime": 161069,
+          "word": "wings"
+        },
+        {
+          "startTime": 161069,
+          "endTime": 161368,
+          "word": "on"
+        },
+        {
+          "startTime": 161368,
+          "endTime": 161735,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 161730,
+      "endTime": 164370,
+      "text": "When I was so heavy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161735,
+          "endTime": 162111,
+          "word": "When"
+        },
+        {
+          "startTime": 162111,
+          "endTime": 162412,
+          "word": "I"
+        },
+        {
+          "startTime": 162412,
+          "endTime": 162746,
+          "word": "was"
+        },
+        {
+          "startTime": 162746,
+          "endTime": 163778,
+          "word": "so"
+        },
+        {
+          "startTime": 163778,
+          "endTime": 164370,
+          "word": "heavy"
+        }
+      ]
+    },
+    {
+      "time": 164380,
+      "endTime": 167060,
+      "text": "Pour on a symphony",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 164385,
+          "endTime": 164793,
+          "word": "Pour"
+        },
+        {
+          "startTime": 164793,
+          "endTime": 165095,
+          "word": "on"
+        },
+        {
+          "startTime": 165095,
+          "endTime": 165412,
+          "word": "a"
+        },
+        {
+          "startTime": 165412,
+          "endTime": 167060,
+          "word": "symphony"
+        }
+      ]
+    },
+    {
+      "time": 167680,
+      "endTime": 170732,
+      "text": "When I'm low, low, low, low",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 167689,
+          "endTime": 168058,
+          "word": "When"
+        },
+        {
+          "startTime": 168058,
+          "endTime": 168218,
+          "word": "I'm"
+        },
+        {
+          "startTime": 168218,
+          "endTime": 168903,
+          "word": "low,"
+        },
+        {
+          "startTime": 168903,
+          "endTime": 169396,
+          "word": "low,"
+        },
+        {
+          "startTime": 169396,
+          "endTime": 170093,
+          "word": "low,"
+        },
+        {
+          "startTime": 170093,
+          "endTime": 170732,
+          "word": "low"
+        }
+      ]
+    },
+    {
+      "time": 170730,
+      "endTime": 174204,
+      "text": "I, oh I, oh I",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170732,
+          "endTime": 171755,
+          "word": "I,"
+        },
+        {
+          "startTime": 171755,
+          "endTime": 172057,
+          "word": "oh"
+        },
+        {
+          "startTime": 172057,
+          "endTime": 172722,
+          "word": "I,"
+        },
+        {
+          "startTime": 173091,
+          "endTime": 173425,
+          "word": "oh"
+        },
+        {
+          "startTime": 173425,
+          "endTime": 174204,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 174410,
+      "endTime": 176752,
+      "text": "Got me feeling drunk and high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 174415,
+          "endTime": 174668,
+          "word": "Got"
+        },
+        {
+          "startTime": 174668,
+          "endTime": 174835,
+          "word": "me"
+        },
+        {
+          "startTime": 174835,
+          "endTime": 175469,
+          "word": "feeling"
+        },
+        {
+          "startTime": 175469,
+          "endTime": 175819,
+          "word": "drunk"
+        },
+        {
+          "startTime": 175819,
+          "endTime": 176152,
+          "word": "and"
+        },
+        {
+          "startTime": 176152,
+          "endTime": 176752,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 177020,
+      "endTime": 180160,
+      "text": "So high, so high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 177024,
+          "endTime": 177473,
+          "word": "So"
+        },
+        {
+          "startTime": 177473,
+          "endTime": 178442,
+          "word": "high,"
+        },
+        {
+          "startTime": 178442,
+          "endTime": 178776,
+          "word": "so"
+        },
+        {
+          "startTime": 178776,
+          "endTime": 180160,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 180760,
+      "endTime": 184864,
+      "text": "Oh I, oh I, oh I",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 180763,
+          "endTime": 181336,
+          "word": "Oh"
+        },
+        {
+          "startTime": 181336,
+          "endTime": 182386,
+          "word": "I,"
+        },
+        {
+          "startTime": 182386,
+          "endTime": 182637,
+          "word": "oh"
+        },
+        {
+          "startTime": 182637,
+          "endTime": 183337,
+          "word": "I,"
+        },
+        {
+          "startTime": 183645,
+          "endTime": 184045,
+          "word": "oh"
+        },
+        {
+          "startTime": 184045,
+          "endTime": 184864,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 185030,
+      "endTime": 187478,
+      "text": "When I'm feeling drunk and high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 185031,
+          "endTime": 185321,
+          "word": "When"
+        },
+        {
+          "startTime": 185321,
+          "endTime": 185486,
+          "word": "I'm"
+        },
+        {
+          "startTime": 185486,
+          "endTime": 186105,
+          "word": "feeling"
+        },
+        {
+          "startTime": 186105,
+          "endTime": 186470,
+          "word": "drunk"
+        },
+        {
+          "startTime": 186470,
+          "endTime": 186819,
+          "word": "and"
+        },
+        {
+          "startTime": 186819,
+          "endTime": 187478,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 187620,
+      "endTime": 191035,
+      "text": "So high, so high",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 187623,
+          "endTime": 188118,
+          "word": "So"
+        },
+        {
+          "startTime": 188118,
+          "endTime": 189118,
+          "word": "high,"
+        },
+        {
+          "startTime": 189118,
+          "endTime": 189433,
+          "word": "so"
+        },
+        {
+          "startTime": 189433,
+          "endTime": 191035,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 192170,
+      "endTime": 195337,
+      "text": "I, oh I, oh I",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 192171,
+          "endTime": 193113,
+          "word": "I,"
+        },
+        {
+          "startTime": 193113,
+          "endTime": 193433,
+          "word": "oh"
+        },
+        {
+          "startTime": 193433,
+          "endTime": 194462,
+          "word": "I,"
+        },
+        {
+          "startTime": 194462,
+          "endTime": 194780,
+          "word": "oh"
+        },
+        {
+          "startTime": 194780,
+          "endTime": 195337,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 195800,
+      "endTime": 197971,
+      "text": "La-la-la-la-la-la-la",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 195808,
+          "endTime": 197971,
+          "word": "La-la-la-la-la-la-la"
+        }
+      ]
+    },
+    {
+      "time": 198420,
+      "endTime": 201166,
+      "text": "So high, so high",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 198425,
+          "endTime": 198794,
+          "word": "So"
+        },
+        {
+          "startTime": 198794,
+          "endTime": 199255,
+          "word": "high,"
+        },
+        {
+          "startTime": 199682,
+          "endTime": 200031,
+          "word": "so"
+        },
+        {
+          "startTime": 200031,
+          "endTime": 201166,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 202770,
+      "endTime": 206010,
+      "text": "I, oh I, oh I",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 202773,
+          "endTime": 203737,
+          "word": "I,"
+        },
+        {
+          "startTime": 203737,
+          "endTime": 204089,
+          "word": "oh"
+        },
+        {
+          "startTime": 204089,
+          "endTime": 204727,
+          "word": "I,"
+        },
+        {
+          "startTime": 205070,
+          "endTime": 205419,
+          "word": "oh"
+        },
+        {
+          "startTime": 205419,
+          "endTime": 206010,
+          "word": "I"
+        }
+      ]
+    },
+    {
+      "time": 206370,
+      "endTime": 208722,
+      "text": "Got me feeling drunk and high",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 206370,
+          "endTime": 206640,
+          "word": "Got"
+        },
+        {
+          "startTime": 206640,
+          "endTime": 206792,
+          "word": "me"
+        },
+        {
+          "startTime": 206792,
+          "endTime": 207440,
+          "word": "feeling"
+        },
+        {
+          "startTime": 207440,
+          "endTime": 207808,
+          "word": "drunk"
+        },
+        {
+          "startTime": 207808,
+          "endTime": 208141,
+          "word": "and"
+        },
+        {
+          "startTime": 208141,
+          "endTime": 208722,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 208960,
+      "endTime": 211710,
+      "text": "So high, so high",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 208963,
+          "endTime": 209423,
+          "word": "So"
+        },
+        {
+          "startTime": 209423,
+          "endTime": 209986,
+          "word": "high,"
+        },
+        {
+          "startTime": 210407,
+          "endTime": 210772,
+          "word": "so"
+        },
+        {
+          "startTime": 210772,
+          "endTime": 211710,
+          "word": "high"
+        }
+      ]
+    },
+    {
+      "time": 211710,
+      "endTime": 216716,
+      "text": "That we shoot across the sky",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 211710,
+          "endTime": 211841,
+          "word": "That"
+        },
+        {
+          "startTime": 211841,
+          "endTime": 212022,
+          "word": "we"
+        },
+        {
+          "startTime": 212022,
+          "endTime": 212481,
+          "word": "shoot"
+        },
+        {
+          "startTime": 212481,
+          "endTime": 213147,
+          "word": "across"
+        },
+        {
+          "startTime": 213147,
+          "endTime": 213465,
+          "word": "the"
+        },
+        {
+          "startTime": 213465,
+          "endTime": 216716,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 217030,
+      "endTime": 221566,
+      "text": "That we shoot across the",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 217030,
+          "endTime": 217184,
+          "word": "That"
+        },
+        {
+          "startTime": 217184,
+          "endTime": 217368,
+          "word": "we"
+        },
+        {
+          "startTime": 217368,
+          "endTime": 217784,
+          "word": "shoot"
+        },
+        {
+          "startTime": 217784,
+          "endTime": 218466,
+          "word": "across"
+        },
+        {
+          "startTime": 218466,
+          "endTime": 221566,
+          "word": "the"
+        }
+      ]
+    },
+    {
+      "time": 222400,
+      "endTime": 227400,
+      "text": "That we shoot across the sky",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 222406,
+          "endTime": 222548,
+          "word": "That"
+        },
+        {
+          "startTime": 222548,
+          "endTime": 222745,
+          "word": "we"
+        },
+        {
+          "startTime": 222745,
+          "endTime": 223172,
+          "word": "shoot"
+        },
+        {
+          "startTime": 223172,
+          "endTime": 223807,
+          "word": "across"
+        },
+        {
+          "startTime": 223807,
+          "endTime": 224156,
+          "word": "the"
+        },
+        {
+          "startTime": 224156,
+          "endTime": 227400,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 227720,
+      "endTime": 232640,
+      "text": "That we shoot across the",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 227722,
+          "endTime": 227987,
+          "word": "That"
+        },
+        {
+          "startTime": 227987,
+          "endTime": 228171,
+          "word": "we"
+        },
+        {
+          "startTime": 228171,
+          "endTime": 228489,
+          "word": "shoot"
+        },
+        {
+          "startTime": 228489,
+          "endTime": 229121,
+          "word": "across"
+        },
+        {
+          "startTime": 229121,
+          "endTime": 232640,
+          "word": "the"
+        }
+      ]
+    },
+    {
+      "time": 233060,
+      "endTime": 238175,
+      "text": "That we shoot across the sky",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 233064,
+          "endTime": 233288,
+          "word": "That"
+        },
+        {
+          "startTime": 233288,
+          "endTime": 233504,
+          "word": "we"
+        },
+        {
+          "startTime": 233504,
+          "endTime": 233902,
+          "word": "shoot"
+        },
+        {
+          "startTime": 233902,
+          "endTime": 234502,
+          "word": "across"
+        },
+        {
+          "startTime": 234502,
+          "endTime": 234718,
+          "word": "the"
+        },
+        {
+          "startTime": 234718,
+          "endTime": 238175,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 238290,
+      "endTime": 241934,
+      "text": "That we shoot across the",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 238296,
+          "endTime": 238594,
+          "word": "That"
+        },
+        {
+          "startTime": 238594,
+          "endTime": 238746,
+          "word": "we"
+        },
+        {
+          "startTime": 238746,
+          "endTime": 239095,
+          "word": "shoot"
+        },
+        {
+          "startTime": 239095,
+          "endTime": 239746,
+          "word": "across"
+        },
+        {
+          "startTime": 239746,
+          "endTime": 241934,
+          "word": "the"
+        }
+      ]
+    },
+    {
+      "time": 243700,
+      "endTime": 249024,
+      "text": "That we shoot across the sky",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 243701,
+          "endTime": 243971,
+          "word": "That"
+        },
+        {
+          "startTime": 243971,
+          "endTime": 244171,
+          "word": "we"
+        },
+        {
+          "startTime": 244171,
+          "endTime": 244539,
+          "word": "shoot"
+        },
+        {
+          "startTime": 244539,
+          "endTime": 245206,
+          "word": "across"
+        },
+        {
+          "startTime": 245206,
+          "endTime": 245587,
+          "word": "the"
+        },
+        {
+          "startTime": 245587,
+          "endTime": 249024,
+          "word": "sky"
+        }
+      ]
+    },
+    {
+      "time": 249390,
+      "endTime": 252549,
+      "text": "That we shoot across the",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 249395,
+          "endTime": 249711,
+          "word": "That"
+        },
+        {
+          "startTime": 249711,
+          "endTime": 249895,
+          "word": "we"
+        },
+        {
+          "startTime": 249895,
+          "endTime": 250228,
+          "word": "shoot"
+        },
+        {
+          "startTime": 250228,
+          "endTime": 250977,
+          "word": "across"
+        },
+        {
+          "startTime": 250977,
+          "endTime": 252549,
+          "word": "the"
+        }
+      ]
+    }
+  ]
+}
