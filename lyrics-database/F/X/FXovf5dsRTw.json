@@ -1,0 +1,4978 @@
+{
+  "videoId": "FXovf5dsRTw",
+  "title": "Despacito",
+  "artist": "Luis Fonsi, Daddy Yankee",
+  "duration": 229,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:06.420\" end=\"00:11.430\">\n        <span begin=\"00:06.420\" end=\"00:06.992\">Ay <\/span>\n        <span begin=\"00:06.992\" end=\"00:08.518\">(Fonsi, <\/span>\n        <span begin=\"00:08.518\" end=\"00:09.281\">DY)^Ay <\/span>\n        <span begin=\"00:09.281\" end=\"00:10.807\">(Fonsi, <\/span>\n        <span begin=\"00:10.807\" end=\"00:11.430\">DY)<\/span>\n      <\/p>\n      <p begin=\"00:11.430\" end=\"00:16.740\">\n        <span begin=\"00:11.430\" end=\"00:11.903\">(Oh, <\/span>\n        <span begin=\"00:11.903\" end=\"00:12.227\">oh) <\/span>\n        <span begin=\"00:12.227\" end=\"00:12.675\">oh, <\/span>\n        <span begin=\"00:12.675\" end=\"00:13.123\">no, <\/span>\n        <span begin=\"00:13.123\" end=\"00:13.422\">oh <\/span>\n        <span begin=\"00:13.422\" end=\"00:13.721\">no <\/span>\n        <span begin=\"00:13.721\" end=\"00:14.568\">(oh)^(Oh, <\/span>\n        <span begin=\"00:14.568\" end=\"00:14.892\">oh) <\/span>\n        <span begin=\"00:14.892\" end=\"00:15.340\">oh, <\/span>\n        <span begin=\"00:15.340\" end=\"00:15.788\">no, <\/span>\n        <span begin=\"00:15.788\" end=\"00:16.087\">oh <\/span>\n        <span begin=\"00:16.087\" end=\"00:16.386\">no <\/span>\n        <span begin=\"00:16.386\" end=\"00:16.740\">(oh)<\/span>\n      <\/p>\n      <p begin=\"00:16.740\" end=\"00:19.750\">\n        <span begin=\"00:16.740\" end=\"00:16.890\">Hey, <\/span>\n        <span begin=\"00:16.890\" end=\"00:17.048\">yeah, <\/span>\n        <span begin=\"00:17.048\" end=\"00:17.871\">diri-diri-diriridi, <\/span>\n        <span begin=\"00:17.871\" end=\"00:18.116\">Daddy, <\/span>\n        <span begin=\"00:18.116\" end=\"00:18.377\">go!^Hey, <\/span>\n        <span begin=\"00:18.377\" end=\"00:18.535\">yeah, <\/span>\n        <span begin=\"00:18.535\" end=\"00:19.358\">diri-diri-diriridi, <\/span>\n        <span begin=\"00:19.358\" end=\"00:19.603\">Daddy, <\/span>\n        <span begin=\"00:19.603\" end=\"00:19.750\">go!<\/span>\n      <\/p>\n      <p begin=\"00:19.750\" end=\"00:25.210\">\n        <span begin=\"00:19.750\" end=\"00:20.054\">Sí, <\/span>\n        <span begin=\"00:20.054\" end=\"00:20.476\">sabes <\/span>\n        <span begin=\"00:20.476\" end=\"00:20.695\">que <\/span>\n        <span begin=\"00:20.695\" end=\"00:20.897\">ya <\/span>\n        <span begin=\"00:20.897\" end=\"00:21.319\">llevo <\/span>\n        <span begin=\"00:21.319\" end=\"00:21.521\">un <\/span>\n        <span begin=\"00:21.521\" end=\"00:21.926\">rato <\/span>\n        <span begin=\"00:21.926\" end=\"00:22.754\">mirándote^Yes, <\/span>\n        <span begin=\"00:22.754\" end=\"00:22.973\">you <\/span>\n        <span begin=\"00:22.973\" end=\"00:23.209\">know <\/span>\n        <span begin=\"00:23.209\" end=\"00:23.445\">I&apos;ve <\/span>\n        <span begin=\"00:23.445\" end=\"00:23.681\">been <\/span>\n        <span begin=\"00:23.681\" end=\"00:24.154\">watching <\/span>\n        <span begin=\"00:24.154\" end=\"00:24.373\">you <\/span>\n        <span begin=\"00:24.373\" end=\"00:24.592\">for <\/span>\n        <span begin=\"00:24.592\" end=\"00:24.777\">a <\/span>\n        <span begin=\"00:24.777\" end=\"00:25.210\">while<\/span>\n      <\/p>\n      <p begin=\"00:25.210\" end=\"00:30.760\">\n        <span begin=\"00:25.210\" end=\"00:25.795\">Tengo <\/span>\n        <span begin=\"00:25.795\" end=\"00:26.099\">que <\/span>\n        <span begin=\"00:26.099\" end=\"00:26.707\">bailar <\/span>\n        <span begin=\"00:26.707\" end=\"00:27.573\">contigo <\/span>\n        <span begin=\"00:27.573\" end=\"00:27.877\">hoy <\/span>\n        <span begin=\"00:27.877\" end=\"00:28.251\">(DY)^I <\/span>\n        <span begin=\"00:28.251\" end=\"00:28.578\">have <\/span>\n        <span begin=\"00:28.578\" end=\"00:28.859\">to <\/span>\n        <span begin=\"00:28.859\" end=\"00:29.210\">dance <\/span>\n        <span begin=\"00:29.210\" end=\"00:29.537\">with <\/span>\n        <span begin=\"00:29.537\" end=\"00:29.841\">you <\/span>\n        <span begin=\"00:29.841\" end=\"00:30.426\">today <\/span>\n        <span begin=\"00:30.426\" end=\"00:30.760\">(DY)<\/span>\n      <\/p>\n      <p begin=\"00:30.760\" end=\"00:35.990\">\n        <span begin=\"00:30.760\" end=\"00:30.964\">Vi <\/span>\n        <span begin=\"00:30.964\" end=\"00:31.185\">que <\/span>\n        <span begin=\"00:31.185\" end=\"00:31.389\">tu <\/span>\n        <span begin=\"00:31.389\" end=\"00:32.002\">mirada <\/span>\n        <span begin=\"00:32.002\" end=\"00:32.206\">ya <\/span>\n        <span begin=\"00:32.206\" end=\"00:32.819\">estaba <\/span>\n        <span begin=\"00:32.819\" end=\"00:33.534\">llamándome^I <\/span>\n        <span begin=\"00:33.534\" end=\"00:33.755\">saw <\/span>\n        <span begin=\"00:33.755\" end=\"00:33.993\">that <\/span>\n        <span begin=\"00:33.993\" end=\"00:34.231\">your <\/span>\n        <span begin=\"00:34.231\" end=\"00:34.469\">gaze <\/span>\n        <span begin=\"00:34.469\" end=\"00:34.690\">was <\/span>\n        <span begin=\"00:34.690\" end=\"00:35.320\">already <\/span>\n        <span begin=\"00:35.320\" end=\"00:35.779\">calling <\/span>\n        <span begin=\"00:35.779\" end=\"00:35.990\">me<\/span>\n      <\/p>\n      <p begin=\"00:35.990\" end=\"00:41.460\">\n        <span begin=\"00:35.990\" end=\"00:36.632\">Muéstrame <\/span>\n        <span begin=\"00:36.632\" end=\"00:36.897\">el <\/span>\n        <span begin=\"00:36.897\" end=\"00:37.827\">camino, <\/span>\n        <span begin=\"00:37.827\" end=\"00:38.114\">que <\/span>\n        <span begin=\"00:38.114\" end=\"00:38.379\">yo <\/span>\n        <span begin=\"00:38.379\" end=\"00:38.666\">voy <\/span>\n        <span begin=\"00:38.666\" end=\"00:39.308\">(oh)^Show <\/span>\n        <span begin=\"00:39.308\" end=\"00:39.573\">me <\/span>\n        <span begin=\"00:39.573\" end=\"00:39.860\">the <\/span>\n        <span begin=\"00:39.860\" end=\"00:40.280\">way, <\/span>\n        <span begin=\"00:40.280\" end=\"00:40.567\">and <\/span>\n        <span begin=\"00:40.567\" end=\"00:40.877\">I&apos;ll <\/span>\n        <span begin=\"00:40.877\" end=\"00:41.142\">go <\/span>\n        <span begin=\"00:41.142\" end=\"00:41.460\">(oh)<\/span>\n      <\/p>\n      <p begin=\"00:41.460\" end=\"00:44.890\">\n        <span begin=\"00:41.460\" end=\"00:41.657\">Tú, <\/span>\n        <span begin=\"00:41.657\" end=\"00:41.788\">tú <\/span>\n        <span begin=\"00:41.788\" end=\"00:42.051\">eres <\/span>\n        <span begin=\"00:42.051\" end=\"00:42.182\">el <\/span>\n        <span begin=\"00:42.182\" end=\"00:42.335\">imán <\/span>\n        <span begin=\"00:42.335\" end=\"00:42.455\">y <\/span>\n        <span begin=\"00:42.455\" end=\"00:42.586\">yo <\/span>\n        <span begin=\"00:42.586\" end=\"00:42.728\">soy <\/span>\n        <span begin=\"00:42.728\" end=\"00:42.859\">el <\/span>\n        <span begin=\"00:42.859\" end=\"00:43.353\">metal^You, <\/span>\n        <span begin=\"00:43.353\" end=\"00:43.495\">you <\/span>\n        <span begin=\"00:43.495\" end=\"00:43.637\">are <\/span>\n        <span begin=\"00:43.637\" end=\"00:43.779\">the <\/span>\n        <span begin=\"00:43.779\" end=\"00:44.064\">magnet <\/span>\n        <span begin=\"00:44.064\" end=\"00:44.206\">and <\/span>\n        <span begin=\"00:44.206\" end=\"00:44.326\">I <\/span>\n        <span begin=\"00:44.326\" end=\"00:44.457\">am <\/span>\n        <span begin=\"00:44.457\" end=\"00:44.599\">the <\/span>\n        <span begin=\"00:44.599\" end=\"00:44.890\">metal<\/span>\n      <\/p>\n      <p begin=\"00:44.890\" end=\"00:47.470\">\n        <span begin=\"00:44.890\" end=\"00:44.991\">Me <\/span>\n        <span begin=\"00:44.991\" end=\"00:45.100\">voy <\/span>\n        <span begin=\"00:45.100\" end=\"00:45.514\">acercando <\/span>\n        <span begin=\"00:45.514\" end=\"00:45.607\">y <\/span>\n        <span begin=\"00:45.607\" end=\"00:45.716\">voy <\/span>\n        <span begin=\"00:45.716\" end=\"00:46.028\">armando <\/span>\n        <span begin=\"00:46.028\" end=\"00:46.129\">el <\/span>\n        <span begin=\"00:46.129\" end=\"00:46.365\">plan^I&apos;m <\/span>\n        <span begin=\"00:46.365\" end=\"00:46.593\">getting <\/span>\n        <span begin=\"00:46.593\" end=\"00:46.812\">closer <\/span>\n        <span begin=\"00:46.812\" end=\"00:46.921\">and <\/span>\n        <span begin=\"00:46.921\" end=\"00:47.030\">I&apos;m <\/span>\n        <span begin=\"00:47.030\" end=\"00:47.249\">making <\/span>\n        <span begin=\"00:47.249\" end=\"00:47.342\">a <\/span>\n        <span begin=\"00:47.342\" end=\"00:47.470\">plan<\/span>\n      <\/p>\n      <p begin=\"00:47.470\" end=\"00:52.150\">\n        <span begin=\"00:47.470\" end=\"00:47.761\">Solo <\/span>\n        <span begin=\"00:47.761\" end=\"00:47.919\">con <\/span>\n        <span begin=\"00:47.919\" end=\"00:48.380\">pensarlo <\/span>\n        <span begin=\"00:48.380\" end=\"00:48.525\">se <\/span>\n        <span begin=\"00:48.525\" end=\"00:49.096\">acelera <\/span>\n        <span begin=\"00:49.096\" end=\"00:49.241\">el <\/span>\n        <span begin=\"00:49.241\" end=\"00:49.544\">pulso <\/span>\n        <span begin=\"00:49.544\" end=\"00:49.774\">(oh, <\/span>\n        <span begin=\"00:49.774\" end=\"00:50.138\">yeah)^Just <\/span>\n        <span begin=\"00:50.138\" end=\"00:50.478\">thinking <\/span>\n        <span begin=\"00:50.478\" end=\"00:50.781\">about <\/span>\n        <span begin=\"00:50.781\" end=\"00:50.926\">it <\/span>\n        <span begin=\"00:50.926\" end=\"00:51.229\">makes <\/span>\n        <span begin=\"00:51.229\" end=\"00:51.374\">my <\/span>\n        <span begin=\"00:51.374\" end=\"00:51.556\">pulse <\/span>\n        <span begin=\"00:51.556\" end=\"00:51.726\">race <\/span>\n        <span begin=\"00:51.726\" end=\"00:51.956\">(oh, <\/span>\n        <span begin=\"00:51.956\" end=\"00:52.150\">yeah)<\/span>\n      <\/p>\n      <p begin=\"00:52.150\" end=\"00:55.580\">\n        <span begin=\"00:52.150\" end=\"00:52.368\">Ya, <\/span>\n        <span begin=\"00:52.368\" end=\"00:52.513\">ya <\/span>\n        <span begin=\"00:52.513\" end=\"00:52.658\">me <\/span>\n        <span begin=\"00:52.658\" end=\"00:52.839\">estás <\/span>\n        <span begin=\"00:52.839\" end=\"00:53.299\">gustando <\/span>\n        <span begin=\"00:53.299\" end=\"00:53.456\">más <\/span>\n        <span begin=\"00:53.456\" end=\"00:53.601\">de <\/span>\n        <span begin=\"00:53.601\" end=\"00:53.746\">lo <\/span>\n        <span begin=\"00:53.746\" end=\"00:54.303\">normal^Now, <\/span>\n        <span begin=\"00:54.303\" end=\"00:54.460\">I&apos;m <\/span>\n        <span begin=\"00:54.460\" end=\"00:54.775\">liking <\/span>\n        <span begin=\"00:54.775\" end=\"00:54.932\">you <\/span>\n        <span begin=\"00:54.932\" end=\"00:55.101\">more <\/span>\n        <span begin=\"00:55.101\" end=\"00:55.270\">than <\/span>\n        <span begin=\"00:55.270\" end=\"00:55.580\">usual<\/span>\n      <\/p>\n      <p begin=\"00:55.580\" end=\"00:58.140\">\n        <span begin=\"00:55.580\" end=\"00:55.838\">Todos <\/span>\n        <span begin=\"00:55.838\" end=\"00:55.972\">mis <\/span>\n        <span begin=\"00:55.972\" end=\"00:56.364\">sentidos <\/span>\n        <span begin=\"00:56.364\" end=\"00:56.498\">van <\/span>\n        <span begin=\"00:56.498\" end=\"00:56.890\">pidiendo <\/span>\n        <span begin=\"00:56.890\" end=\"00:57.065\">más^All <\/span>\n        <span begin=\"00:57.065\" end=\"00:57.188\">my <\/span>\n        <span begin=\"00:57.188\" end=\"00:57.456\">senses <\/span>\n        <span begin=\"00:57.456\" end=\"00:57.590\">are <\/span>\n        <span begin=\"00:57.590\" end=\"00:57.858\">asking <\/span>\n        <span begin=\"00:57.858\" end=\"00:57.992\">for <\/span>\n        <span begin=\"00:57.992\" end=\"00:58.140\">more<\/span>\n      <\/p>\n      <p begin=\"00:58.140\" end=\"01:01.820\">\n        <span begin=\"00:58.140\" end=\"00:58.517\">Esto <\/span>\n        <span begin=\"00:58.517\" end=\"00:58.721\">hay <\/span>\n        <span begin=\"00:58.721\" end=\"00:58.925\">que <\/span>\n        <span begin=\"00:58.925\" end=\"00:59.506\">tomarlo <\/span>\n        <span begin=\"00:59.506\" end=\"00:59.710\">sin <\/span>\n        <span begin=\"00:59.710\" end=\"00:59.961\">ningún <\/span>\n        <span begin=\"00:59.961\" end=\"01:00.558\">apuro^We <\/span>\n        <span begin=\"01:00.558\" end=\"01:00.778\">have <\/span>\n        <span begin=\"01:00.778\" end=\"01:00.966\">to <\/span>\n        <span begin=\"01:00.966\" end=\"01:01.186\">take <\/span>\n        <span begin=\"01:01.186\" end=\"01:01.406\">this <\/span>\n        <span begin=\"01:01.406\" end=\"01:01.820\">slowly<\/span>\n      <\/p>\n      <p begin=\"01:01.820\" end=\"01:04.330\">\n        <span begin=\"01:01.820\" end=\"01:04.330\">Despacito^Slowly<\/span>\n      <\/p>\n      <p begin=\"01:04.330\" end=\"01:06.980\">\n        <span begin=\"01:04.330\" end=\"01:04.605\">Quiero <\/span>\n        <span begin=\"01:04.605\" end=\"01:05.007\">respirar <\/span>\n        <span begin=\"01:05.007\" end=\"01:05.134\">tu <\/span>\n        <span begin=\"01:05.134\" end=\"01:05.409\">cuello <\/span>\n        <span begin=\"01:05.409\" end=\"01:05.949\">despacito^I <\/span>\n        <span begin=\"01:05.949\" end=\"01:06.097\">want <\/span>\n        <span begin=\"01:06.097\" end=\"01:06.224\">to <\/span>\n        <span begin=\"01:06.224\" end=\"01:06.404\">breathe <\/span>\n        <span begin=\"01:06.404\" end=\"01:06.552\">your <\/span>\n        <span begin=\"01:06.552\" end=\"01:06.700\">neck <\/span>\n        <span begin=\"01:06.700\" end=\"01:06.980\">slowly<\/span>\n      <\/p>\n      <p begin=\"01:06.980\" end=\"01:09.570\">\n        <span begin=\"01:06.980\" end=\"01:07.236\">Deja <\/span>\n        <span begin=\"01:07.236\" end=\"01:07.375\">que <\/span>\n        <span begin=\"01:07.375\" end=\"01:07.503\">te <\/span>\n        <span begin=\"01:07.503\" end=\"01:07.759\">diga <\/span>\n        <span begin=\"01:07.759\" end=\"01:08.026\">cosas <\/span>\n        <span begin=\"01:08.026\" end=\"01:08.154\">al <\/span>\n        <span begin=\"01:08.154\" end=\"01:08.560\">oído^Let <\/span>\n        <span begin=\"01:08.560\" end=\"01:08.688\">me <\/span>\n        <span begin=\"01:08.688\" end=\"01:08.976\">whisper <\/span>\n        <span begin=\"01:08.976\" end=\"01:09.147\">things <\/span>\n        <span begin=\"01:09.147\" end=\"01:09.275\">in <\/span>\n        <span begin=\"01:09.275\" end=\"01:09.424\">your <\/span>\n        <span begin=\"01:09.424\" end=\"01:09.570\">ear<\/span>\n      <\/p>\n      <p begin=\"01:09.570\" end=\"01:12.950\">\n        <span begin=\"01:09.570\" end=\"01:09.833\">Para <\/span>\n        <span begin=\"01:09.833\" end=\"01:09.975\">que <\/span>\n        <span begin=\"01:09.975\" end=\"01:10.106\">te <\/span>\n        <span begin=\"01:10.106\" end=\"01:10.523\">acuerdes <\/span>\n        <span begin=\"01:10.523\" end=\"01:10.654\">si <\/span>\n        <span begin=\"01:10.654\" end=\"01:10.785\">no <\/span>\n        <span begin=\"01:10.785\" end=\"01:10.949\">estás <\/span>\n        <span begin=\"01:10.949\" end=\"01:11.497\">conmigo^So <\/span>\n        <span begin=\"01:11.497\" end=\"01:11.639\">you <\/span>\n        <span begin=\"01:11.639\" end=\"01:12.056\">remember <\/span>\n        <span begin=\"01:12.056\" end=\"01:12.187\">me <\/span>\n        <span begin=\"01:12.187\" end=\"01:12.340\">when <\/span>\n        <span begin=\"01:12.340\" end=\"01:12.515\">you&apos;re <\/span>\n        <span begin=\"01:12.515\" end=\"01:12.657\">not <\/span>\n        <span begin=\"01:12.657\" end=\"01:12.810\">with <\/span>\n        <span begin=\"01:12.810\" end=\"01:12.950\">me<\/span>\n      <\/p>\n      <p begin=\"01:12.950\" end=\"01:14.960\">\n        <span begin=\"01:12.950\" end=\"01:14.960\">Despacito^Slowly<\/span>\n      <\/p>\n      <p begin=\"01:14.960\" end=\"01:17.750\">\n        <span begin=\"01:14.960\" end=\"01:15.204\">Quiero <\/span>\n        <span begin=\"01:15.204\" end=\"01:15.579\">desnudarte <\/span>\n        <span begin=\"01:15.579\" end=\"01:15.682\">a <\/span>\n        <span begin=\"01:15.682\" end=\"01:15.973\">besos, <\/span>\n        <span begin=\"01:15.973\" end=\"01:16.452\">despacito^I <\/span>\n        <span begin=\"01:16.452\" end=\"01:16.583\">want <\/span>\n        <span begin=\"01:16.583\" end=\"01:16.695\">to <\/span>\n        <span begin=\"01:16.695\" end=\"01:16.948\">undress <\/span>\n        <span begin=\"01:16.948\" end=\"01:17.070\">you <\/span>\n        <span begin=\"01:17.070\" end=\"01:17.201\">with <\/span>\n        <span begin=\"01:17.201\" end=\"01:17.501\">kisses, <\/span>\n        <span begin=\"01:17.501\" end=\"01:17.750\">slowly<\/span>\n      <\/p>\n      <p begin=\"01:17.750\" end=\"01:20.440\">\n        <span begin=\"01:17.750\" end=\"01:18.022\">Firmar <\/span>\n        <span begin=\"01:18.022\" end=\"01:18.158\">las <\/span>\n        <span begin=\"01:18.158\" end=\"01:18.545\">paredes <\/span>\n        <span begin=\"01:18.545\" end=\"01:18.670\">de <\/span>\n        <span begin=\"01:18.670\" end=\"01:18.795\">tu <\/span>\n        <span begin=\"01:18.795\" end=\"01:19.464\">laberinto^Sign <\/span>\n        <span begin=\"01:19.464\" end=\"01:19.600\">the <\/span>\n        <span begin=\"01:19.600\" end=\"01:19.757\">walls <\/span>\n        <span begin=\"01:19.757\" end=\"01:19.882\">of <\/span>\n        <span begin=\"01:19.882\" end=\"01:20.028\">your <\/span>\n        <span begin=\"01:20.028\" end=\"01:20.440\">labyrinth<\/span>\n      <\/p>\n      <p begin=\"01:20.440\" end=\"01:24.000\">\n        <span begin=\"01:20.440\" end=\"01:20.525\">Y <\/span>\n        <span begin=\"01:20.525\" end=\"01:20.720\">hacer <\/span>\n        <span begin=\"01:20.720\" end=\"01:20.813\">de <\/span>\n        <span begin=\"01:20.813\" end=\"01:20.906\">tu <\/span>\n        <span begin=\"01:20.906\" end=\"01:21.108\">cuerpo <\/span>\n        <span begin=\"01:21.108\" end=\"01:21.295\">todo <\/span>\n        <span begin=\"01:21.295\" end=\"01:21.388\">un <\/span>\n        <span begin=\"01:21.388\" end=\"01:21.778\">manuscrito <\/span>\n        <span begin=\"01:21.778\" end=\"01:21.941\">(sube, <\/span>\n        <span begin=\"01:21.941\" end=\"01:22.097\">sube, <\/span>\n        <span begin=\"01:22.097\" end=\"01:22.323\">sube)^And <\/span>\n        <span begin=\"01:22.323\" end=\"01:22.432\">make <\/span>\n        <span begin=\"01:22.432\" end=\"01:22.541\">your <\/span>\n        <span begin=\"01:22.541\" end=\"01:22.728\">body <\/span>\n        <span begin=\"01:22.728\" end=\"01:22.813\">a <\/span>\n        <span begin=\"01:22.813\" end=\"01:23.008\">whole <\/span>\n        <span begin=\"01:23.008\" end=\"01:23.320\">manuscript <\/span>\n        <span begin=\"01:23.320\" end=\"01:23.421\">(go <\/span>\n        <span begin=\"01:23.421\" end=\"01:23.561\">up, <\/span>\n        <span begin=\"01:23.561\" end=\"01:23.654\">go <\/span>\n        <span begin=\"01:23.654\" end=\"01:23.794\">up, <\/span>\n        <span begin=\"01:23.794\" end=\"01:23.887\">go <\/span>\n        <span begin=\"01:23.887\" end=\"01:24.000\">up)<\/span>\n      <\/p>\n      <p begin=\"01:24.000\" end=\"01:25.160\">\n        <span begin=\"01:24.000\" end=\"01:24.198\">Sube, <\/span>\n        <span begin=\"01:24.198\" end=\"01:24.336\">sube <\/span>\n        <span begin=\"01:24.336\" end=\"01:24.603\">(oh)^Go <\/span>\n        <span begin=\"01:24.603\" end=\"01:24.781\">up, <\/span>\n        <span begin=\"01:24.781\" end=\"01:24.899\">go <\/span>\n        <span begin=\"01:24.899\" end=\"01:25.017\">up <\/span>\n        <span begin=\"01:25.017\" end=\"01:25.160\">(oh)<\/span>\n      <\/p>\n      <p begin=\"01:25.160\" end=\"01:29.010\">\n        <span begin=\"01:25.160\" end=\"01:25.444\">Quiero <\/span>\n        <span begin=\"01:25.444\" end=\"01:25.586\">ver <\/span>\n        <span begin=\"01:25.586\" end=\"01:25.870\">bailar <\/span>\n        <span begin=\"01:25.870\" end=\"01:26.001\">tu <\/span>\n        <span begin=\"01:26.001\" end=\"01:26.329\">pelo, <\/span>\n        <span begin=\"01:26.329\" end=\"01:26.613\">quiero <\/span>\n        <span begin=\"01:26.613\" end=\"01:26.755\">ser <\/span>\n        <span begin=\"01:26.755\" end=\"01:26.886\">tu <\/span>\n        <span begin=\"01:26.886\" end=\"01:27.181\">ritmo^I <\/span>\n        <span begin=\"01:27.181\" end=\"01:27.334\">want <\/span>\n        <span begin=\"01:27.334\" end=\"01:27.465\">to <\/span>\n        <span begin=\"01:27.465\" end=\"01:27.607\">see <\/span>\n        <span begin=\"01:27.607\" end=\"01:27.760\">your <\/span>\n        <span begin=\"01:27.760\" end=\"01:27.913\">hair <\/span>\n        <span begin=\"01:27.913\" end=\"01:28.142\">dance, <\/span>\n        <span begin=\"01:28.142\" end=\"01:28.262\">I <\/span>\n        <span begin=\"01:28.262\" end=\"01:28.415\">want <\/span>\n        <span begin=\"01:28.415\" end=\"01:28.546\">to <\/span>\n        <span begin=\"01:28.546\" end=\"01:28.677\">be <\/span>\n        <span begin=\"01:28.677\" end=\"01:28.830\">your <\/span>\n        <span begin=\"01:28.830\" end=\"01:29.010\">rhythm<\/span>\n      <\/p>\n      <p begin=\"01:29.010\" end=\"01:33.870\">\n        <span begin=\"01:29.010\" end=\"01:29.188\">Que <\/span>\n        <span begin=\"01:29.188\" end=\"01:29.352\">le <\/span>\n        <span begin=\"01:29.352\" end=\"01:29.859\">enseñes <\/span>\n        <span begin=\"01:29.859\" end=\"01:30.010\">a <\/span>\n        <span begin=\"01:30.010\" end=\"01:30.174\">mi <\/span>\n        <span begin=\"01:30.174\" end=\"01:30.503\">boca <\/span>\n        <span begin=\"01:30.503\" end=\"01:30.681\">tus <\/span>\n        <span begin=\"01:30.681\" end=\"01:31.188\">lugares <\/span>\n        <span begin=\"01:31.188\" end=\"01:32.052\">favoritos^Let <\/span>\n        <span begin=\"01:32.052\" end=\"01:32.230\">you <\/span>\n        <span begin=\"01:32.230\" end=\"01:32.422\">show <\/span>\n        <span begin=\"01:32.422\" end=\"01:32.586\">my <\/span>\n        <span begin=\"01:32.586\" end=\"01:32.791\">mouth <\/span>\n        <span begin=\"01:32.791\" end=\"01:32.983\">your <\/span>\n        <span begin=\"01:32.983\" end=\"01:33.504\">favorite <\/span>\n        <span begin=\"01:33.504\" end=\"01:33.870\">places<\/span>\n      <\/p>\n      <p begin=\"01:33.870\" end=\"01:35.930\">\n        <span begin=\"01:33.870\" end=\"01:34.292\">(Favoritos, <\/span>\n        <span begin=\"01:34.292\" end=\"01:34.707\">favoritos, <\/span>\n        <span begin=\"01:34.707\" end=\"01:35.325\">baby)^(Favorites, <\/span>\n        <span begin=\"01:35.325\" end=\"01:35.740\">favorites, <\/span>\n        <span begin=\"01:35.740\" end=\"01:35.930\">baby)<\/span>\n      <\/p>\n      <p begin=\"01:35.930\" end=\"01:39.680\">\n        <span begin=\"01:35.930\" end=\"01:36.150\">Déjame <\/span>\n        <span begin=\"01:36.150\" end=\"01:36.839\">sobrepasar <\/span>\n        <span begin=\"01:36.839\" end=\"01:37.018\">tus <\/span>\n        <span begin=\"01:37.018\" end=\"01:37.362\">zonas <\/span>\n        <span begin=\"01:37.362\" end=\"01:37.527\">de <\/span>\n        <span begin=\"01:37.527\" end=\"01:38.230\">peligro^Let <\/span>\n        <span begin=\"01:38.230\" end=\"01:38.395\">me <\/span>\n        <span begin=\"01:38.395\" end=\"01:38.560\">go <\/span>\n        <span begin=\"01:38.560\" end=\"01:38.780\">beyond <\/span>\n        <span begin=\"01:38.780\" end=\"01:38.973\">your <\/span>\n        <span begin=\"01:38.973\" end=\"01:39.331\">danger <\/span>\n        <span begin=\"01:39.331\" end=\"01:39.680\">zones<\/span>\n      <\/p>\n      <p begin=\"01:39.680\" end=\"01:45.610\">\n        <span begin=\"01:39.680\" end=\"01:40.048\">Hasta <\/span>\n        <span begin=\"01:40.048\" end=\"01:40.608\">provocar <\/span>\n        <span begin=\"01:40.608\" end=\"01:40.799\">tus <\/span>\n        <span begin=\"01:40.799\" end=\"01:41.182\">gritos <\/span>\n        <span begin=\"01:41.182\" end=\"01:41.344\">y <\/span>\n        <span begin=\"01:41.344\" end=\"01:41.535\">que <\/span>\n        <span begin=\"01:41.535\" end=\"01:42.080\">olvides <\/span>\n        <span begin=\"01:42.080\" end=\"01:42.257\">tu <\/span>\n        <span begin=\"01:42.257\" end=\"01:43.201\">apellido^Until <\/span>\n        <span begin=\"01:43.201\" end=\"01:43.363\">I <\/span>\n        <span begin=\"01:43.363\" end=\"01:43.761\">provoke <\/span>\n        <span begin=\"01:43.761\" end=\"01:43.967\">your <\/span>\n        <span begin=\"01:43.967\" end=\"01:44.217\">screams <\/span>\n        <span begin=\"01:44.217\" end=\"01:44.408\">and <\/span>\n        <span begin=\"01:44.408\" end=\"01:44.599\">you <\/span>\n        <span begin=\"01:44.599\" end=\"01:44.982\">forget <\/span>\n        <span begin=\"01:44.982\" end=\"01:45.188\">your <\/span>\n        <span begin=\"01:45.188\" end=\"01:45.394\">last <\/span>\n        <span begin=\"01:45.394\" end=\"01:45.610\">name<\/span>\n      <\/p>\n      <p begin=\"01:45.610\" end=\"01:47.340\">\n        <span begin=\"01:45.610\" end=\"01:45.681\">Si <\/span>\n        <span begin=\"01:45.681\" end=\"01:45.752\">te <\/span>\n        <span begin=\"01:45.752\" end=\"01:45.895\">pido <\/span>\n        <span begin=\"01:45.895\" end=\"01:45.966\">un <\/span>\n        <span begin=\"01:45.966\" end=\"01:46.145\">beso, <\/span>\n        <span begin=\"01:46.145\" end=\"01:46.258\">ven, <\/span>\n        <span begin=\"01:46.258\" end=\"01:46.431\">dámelo^If <\/span>\n        <span begin=\"01:46.431\" end=\"01:46.496\">I <\/span>\n        <span begin=\"01:46.496\" end=\"01:46.573\">ask <\/span>\n        <span begin=\"01:46.573\" end=\"01:46.650\">you <\/span>\n        <span begin=\"01:46.650\" end=\"01:46.727\">for <\/span>\n        <span begin=\"01:46.727\" end=\"01:46.792\">a <\/span>\n        <span begin=\"01:46.792\" end=\"01:46.911\">kiss, <\/span>\n        <span begin=\"01:46.911\" end=\"01:47.030\">come, <\/span>\n        <span begin=\"01:47.030\" end=\"01:47.113\">give <\/span>\n        <span begin=\"01:47.113\" end=\"01:47.184\">it <\/span>\n        <span begin=\"01:47.184\" end=\"01:47.255\">to <\/span>\n        <span begin=\"01:47.255\" end=\"01:47.340\">me<\/span>\n      <\/p>\n      <p begin=\"01:47.340\" end=\"01:48.620\">\n        <span begin=\"01:47.340\" end=\"01:47.421\">Yo <\/span>\n        <span begin=\"01:47.421\" end=\"01:47.502\">sé <\/span>\n        <span begin=\"01:47.502\" end=\"01:47.590\">que <\/span>\n        <span begin=\"01:47.590\" end=\"01:47.691\">estás <\/span>\n        <span begin=\"01:47.691\" end=\"01:47.975\">pensándolo^I <\/span>\n        <span begin=\"01:47.975\" end=\"01:48.069\">know <\/span>\n        <span begin=\"01:48.069\" end=\"01:48.177\">you&apos;re <\/span>\n        <span begin=\"01:48.177\" end=\"01:48.366\">thinking <\/span>\n        <span begin=\"01:48.366\" end=\"01:48.535\">about <\/span>\n        <span begin=\"01:48.535\" end=\"01:48.620\">it<\/span>\n      <\/p>\n      <p begin=\"01:48.620\" end=\"01:49.910\">\n        <span begin=\"01:48.620\" end=\"01:48.792\">Llevo <\/span>\n        <span begin=\"01:48.792\" end=\"01:48.971\">tiempo <\/span>\n        <span begin=\"01:48.971\" end=\"01:49.364\">intentándolo^I&apos;ve <\/span>\n        <span begin=\"01:49.364\" end=\"01:49.460\">been <\/span>\n        <span begin=\"01:49.460\" end=\"01:49.570\">trying <\/span>\n        <span begin=\"01:49.570\" end=\"01:49.659\">for <\/span>\n        <span begin=\"01:49.659\" end=\"01:49.734\">a <\/span>\n        <span begin=\"01:49.734\" end=\"01:49.910\">while<\/span>\n      <\/p>\n      <p begin=\"01:49.910\" end=\"01:51.360\">\n        <span begin=\"01:49.910\" end=\"01:50.100\">Mami, <\/span>\n        <span begin=\"01:50.100\" end=\"01:50.252\">esto <\/span>\n        <span begin=\"01:50.252\" end=\"01:50.328\">es <\/span>\n        <span begin=\"01:50.328\" end=\"01:50.486\">dando <\/span>\n        <span begin=\"01:50.486\" end=\"01:50.555\">y <\/span>\n        <span begin=\"01:50.555\" end=\"01:50.930\">dándolo^Mommy, <\/span>\n        <span begin=\"01:50.930\" end=\"01:51.019\">this <\/span>\n        <span begin=\"01:51.019\" end=\"01:51.095\">is <\/span>\n        <span begin=\"01:51.095\" end=\"01:51.184\">give <\/span>\n        <span begin=\"01:51.184\" end=\"01:51.266\">and <\/span>\n        <span begin=\"01:51.266\" end=\"01:51.360\">take<\/span>\n      <\/p>\n      <p begin=\"01:51.360\" end=\"01:54.060\">\n        <span begin=\"01:51.360\" end=\"01:51.584\">Sabes <\/span>\n        <span begin=\"01:51.584\" end=\"01:51.700\">que <\/span>\n        <span begin=\"01:51.700\" end=\"01:51.807\">tu <\/span>\n        <span begin=\"01:51.807\" end=\"01:52.049\">corazón <\/span>\n        <span begin=\"01:52.049\" end=\"01:52.380\">conmigo <\/span>\n        <span begin=\"01:52.380\" end=\"01:52.487\">te <\/span>\n        <span begin=\"01:52.487\" end=\"01:52.612\">hace <\/span>\n        <span begin=\"01:52.612\" end=\"01:53.024\">bam-bam^You <\/span>\n        <span begin=\"01:53.024\" end=\"01:53.149\">know <\/span>\n        <span begin=\"01:53.149\" end=\"01:53.274\">your <\/span>\n        <span begin=\"01:53.274\" end=\"01:53.408\">heart <\/span>\n        <span begin=\"01:53.408\" end=\"01:53.533\">goes <\/span>\n        <span begin=\"01:53.533\" end=\"01:53.820\">bam-bam <\/span>\n        <span begin=\"01:53.820\" end=\"01:53.945\">with <\/span>\n        <span begin=\"01:53.945\" end=\"01:54.060\">me<\/span>\n      <\/p>\n      <p begin=\"01:54.060\" end=\"01:56.750\">\n        <span begin=\"01:54.060\" end=\"01:54.254\">Sabes <\/span>\n        <span begin=\"01:54.254\" end=\"01:54.355\">que <\/span>\n        <span begin=\"01:54.355\" end=\"01:54.456\">esa <\/span>\n        <span begin=\"01:54.456\" end=\"01:54.643\">beba <\/span>\n        <span begin=\"01:54.643\" end=\"01:54.752\">está <\/span>\n        <span begin=\"01:54.752\" end=\"01:55.048\">buscando <\/span>\n        <span begin=\"01:55.048\" end=\"01:55.141\">de <\/span>\n        <span begin=\"01:55.141\" end=\"01:55.234\">mi <\/span>\n        <span begin=\"01:55.234\" end=\"01:55.592\">bam-bam^You <\/span>\n        <span begin=\"01:55.592\" end=\"01:55.701\">know <\/span>\n        <span begin=\"01:55.701\" end=\"01:55.810\">that <\/span>\n        <span begin=\"01:55.810\" end=\"01:55.997\">baby <\/span>\n        <span begin=\"01:55.997\" end=\"01:56.090\">is <\/span>\n        <span begin=\"01:56.090\" end=\"01:56.300\">looking <\/span>\n        <span begin=\"01:56.300\" end=\"01:56.401\">for <\/span>\n        <span begin=\"01:56.401\" end=\"01:56.494\">my <\/span>\n        <span begin=\"01:56.494\" end=\"01:56.750\">bam-bam<\/span>\n      <\/p>\n      <p begin=\"01:56.750\" end=\"01:59.410\">\n        <span begin=\"01:56.750\" end=\"01:56.908\">Ven, <\/span>\n        <span begin=\"01:56.908\" end=\"01:57.124\">prueba <\/span>\n        <span begin=\"01:57.124\" end=\"01:57.224\">de <\/span>\n        <span begin=\"01:57.224\" end=\"01:57.324\">mi <\/span>\n        <span begin=\"01:57.324\" end=\"01:57.524\">boca <\/span>\n        <span begin=\"01:57.524\" end=\"01:57.724\">para <\/span>\n        <span begin=\"01:57.724\" end=\"01:57.832\">ver <\/span>\n        <span begin=\"01:57.832\" end=\"01:57.948\">cómo <\/span>\n        <span begin=\"01:57.948\" end=\"01:58.048\">te <\/span>\n        <span begin=\"01:58.048\" end=\"01:58.423\">sabe^Come, <\/span>\n        <span begin=\"01:58.423\" end=\"01:58.548\">taste <\/span>\n        <span begin=\"01:58.548\" end=\"01:58.648\">my <\/span>\n        <span begin=\"01:58.648\" end=\"01:58.773\">mouth <\/span>\n        <span begin=\"01:58.773\" end=\"01:58.873\">to <\/span>\n        <span begin=\"01:58.873\" end=\"01:58.981\">see <\/span>\n        <span begin=\"01:58.981\" end=\"01:59.089\">how <\/span>\n        <span begin=\"01:59.089\" end=\"01:59.189\">it <\/span>\n        <span begin=\"01:59.189\" end=\"01:59.410\">tastes<\/span>\n      <\/p>\n      <p begin=\"01:59.410\" end=\"02:02.270\">\n        <span begin=\"01:59.410\" end=\"01:59.634\">Quiero, <\/span>\n        <span begin=\"01:59.634\" end=\"01:59.858\">quiero, <\/span>\n        <span begin=\"01:59.858\" end=\"02:00.040\">quiero <\/span>\n        <span begin=\"02:00.040\" end=\"02:00.131\">ver <\/span>\n        <span begin=\"02:00.131\" end=\"02:00.313\">cuánto <\/span>\n        <span begin=\"02:00.313\" end=\"02:00.481\">amor <\/span>\n        <span begin=\"02:00.481\" end=\"02:00.558\">a <\/span>\n        <span begin=\"02:00.558\" end=\"02:00.642\">ti <\/span>\n        <span begin=\"02:00.642\" end=\"02:00.726\">te <\/span>\n        <span begin=\"02:00.726\" end=\"02:00.908\">cabe^I <\/span>\n        <span begin=\"02:00.908\" end=\"02:01.048\">want, <\/span>\n        <span begin=\"02:01.048\" end=\"02:01.125\">I <\/span>\n        <span begin=\"02:01.125\" end=\"02:01.265\">want, <\/span>\n        <span begin=\"02:01.265\" end=\"02:01.342\">I <\/span>\n        <span begin=\"02:01.342\" end=\"02:01.440\">want <\/span>\n        <span begin=\"02:01.440\" end=\"02:01.524\">to <\/span>\n        <span begin=\"02:01.524\" end=\"02:01.615\">see <\/span>\n        <span begin=\"02:01.615\" end=\"02:01.706\">how <\/span>\n        <span begin=\"02:01.706\" end=\"02:01.804\">much <\/span>\n        <span begin=\"02:01.804\" end=\"02:01.902\">love <\/span>\n        <span begin=\"02:01.902\" end=\"02:01.993\">you <\/span>\n        <span begin=\"02:01.993\" end=\"02:02.084\">can <\/span>\n        <span begin=\"02:02.084\" end=\"02:02.270\">handle<\/span>\n      <\/p>\n      <p begin=\"02:02.270\" end=\"02:04.920\">\n        <span begin=\"02:02.270\" end=\"02:02.366\">Yo <\/span>\n        <span begin=\"02:02.366\" end=\"02:02.462\">no <\/span>\n        <span begin=\"02:02.462\" end=\"02:02.663\">tengo <\/span>\n        <span begin=\"02:02.663\" end=\"02:02.912\">prisa, <\/span>\n        <span begin=\"02:02.912\" end=\"02:03.008\">yo <\/span>\n        <span begin=\"02:03.008\" end=\"02:03.104\">me <\/span>\n        <span begin=\"02:03.104\" end=\"02:03.313\">quiero <\/span>\n        <span begin=\"02:03.313\" end=\"02:03.417\">dar <\/span>\n        <span begin=\"02:03.417\" end=\"02:03.513\">el <\/span>\n        <span begin=\"02:03.513\" end=\"02:03.746\">viaje^I&apos;m <\/span>\n        <span begin=\"02:03.746\" end=\"02:03.850\">not <\/span>\n        <span begin=\"02:03.850\" end=\"02:03.946\">in <\/span>\n        <span begin=\"02:03.946\" end=\"02:04.034\">a <\/span>\n        <span begin=\"02:04.034\" end=\"02:04.283\">hurry, <\/span>\n        <span begin=\"02:04.283\" end=\"02:04.371\">I <\/span>\n        <span begin=\"02:04.371\" end=\"02:04.483\">want <\/span>\n        <span begin=\"02:04.483\" end=\"02:04.579\">to <\/span>\n        <span begin=\"02:04.579\" end=\"02:04.691\">take <\/span>\n        <span begin=\"02:04.691\" end=\"02:04.795\">the <\/span>\n        <span begin=\"02:04.795\" end=\"02:04.920\">trip<\/span>\n      <\/p>\n      <p begin=\"02:04.920\" end=\"02:07.390\">\n        <span begin=\"02:04.920\" end=\"02:05.496\">Empezamos <\/span>\n        <span begin=\"02:05.496\" end=\"02:05.860\">lento, <\/span>\n        <span begin=\"02:05.860\" end=\"02:06.177\">después <\/span>\n        <span begin=\"02:06.177\" end=\"02:06.647\">salvaje^We <\/span>\n        <span begin=\"02:06.647\" end=\"02:06.823\">start <\/span>\n        <span begin=\"02:06.823\" end=\"02:07.058\">slow, <\/span>\n        <span begin=\"02:07.058\" end=\"02:07.222\">then <\/span>\n        <span begin=\"02:07.222\" end=\"02:07.390\">wild<\/span>\n      <\/p>\n      <p begin=\"02:07.390\" end=\"02:10.130\">\n        <span begin=\"02:07.390\" end=\"02:07.747\">Pasito <\/span>\n        <span begin=\"02:07.747\" end=\"02:07.856\">a <\/span>\n        <span begin=\"02:07.856\" end=\"02:08.272\">pasito, <\/span>\n        <span begin=\"02:08.272\" end=\"02:08.480\">suave, <\/span>\n        <span begin=\"02:08.480\" end=\"02:09.115\">suavecito^Step <\/span>\n        <span begin=\"02:09.115\" end=\"02:09.234\">by <\/span>\n        <span begin=\"02:09.234\" end=\"02:09.432\">step, <\/span>\n        <span begin=\"02:09.432\" end=\"02:09.630\">soft, <\/span>\n        <span begin=\"02:09.630\" end=\"02:09.868\">very <\/span>\n        <span begin=\"02:09.868\" end=\"02:10.130\">softly<\/span>\n      <\/p>\n      <p begin=\"02:10.130\" end=\"02:13.020\">\n        <span begin=\"02:10.130\" end=\"02:10.258\">Nos <\/span>\n        <span begin=\"02:10.258\" end=\"02:10.504\">vamos <\/span>\n        <span begin=\"02:10.504\" end=\"02:10.868\">pegando <\/span>\n        <span begin=\"02:10.868\" end=\"02:11.232\">poquito <\/span>\n        <span begin=\"02:11.232\" end=\"02:11.340\">a <\/span>\n        <span begin=\"02:11.340\" end=\"02:11.862\">poquito^We&apos;re <\/span>\n        <span begin=\"02:11.862\" end=\"02:12.128\">getting <\/span>\n        <span begin=\"02:12.128\" end=\"02:12.384\">closer <\/span>\n        <span begin=\"02:12.384\" end=\"02:12.640\">little <\/span>\n        <span begin=\"02:12.640\" end=\"02:12.758\">by <\/span>\n        <span begin=\"02:12.758\" end=\"02:13.020\">little<\/span>\n      <\/p>\n      <p begin=\"02:13.020\" end=\"02:15.770\">\n        <span begin=\"02:13.020\" end=\"02:13.322\">Cuando <\/span>\n        <span begin=\"02:13.322\" end=\"02:13.461\">tú <\/span>\n        <span begin=\"02:13.461\" end=\"02:13.600\">me <\/span>\n        <span begin=\"02:13.600\" end=\"02:13.891\">besas <\/span>\n        <span begin=\"02:13.891\" end=\"02:14.042\">con <\/span>\n        <span begin=\"02:14.042\" end=\"02:14.193\">esa <\/span>\n        <span begin=\"02:14.193\" end=\"02:14.810\">destreza^When <\/span>\n        <span begin=\"02:14.810\" end=\"02:14.961\">you <\/span>\n        <span begin=\"02:14.961\" end=\"02:15.124\">kiss <\/span>\n        <span begin=\"02:15.124\" end=\"02:15.263\">me <\/span>\n        <span begin=\"02:15.263\" end=\"02:15.426\">with <\/span>\n        <span begin=\"02:15.426\" end=\"02:15.589\">that <\/span>\n        <span begin=\"02:15.589\" end=\"02:15.770\">skill<\/span>\n      <\/p>\n      <p begin=\"02:15.770\" end=\"02:18.190\">\n        <span begin=\"02:15.770\" end=\"02:15.873\">Veo <\/span>\n        <span begin=\"02:15.873\" end=\"02:15.976\">que <\/span>\n        <span begin=\"02:15.976\" end=\"02:16.166\">eres <\/span>\n        <span begin=\"02:16.166\" end=\"02:16.459\">malicia <\/span>\n        <span begin=\"02:16.459\" end=\"02:16.562\">con <\/span>\n        <span begin=\"02:16.562\" end=\"02:17.053\">delicadeza^I <\/span>\n        <span begin=\"02:17.053\" end=\"02:17.156\">see <\/span>\n        <span begin=\"02:17.156\" end=\"02:17.267\">that <\/span>\n        <span begin=\"02:17.267\" end=\"02:17.370\">you <\/span>\n        <span begin=\"02:17.370\" end=\"02:17.473\">are <\/span>\n        <span begin=\"02:17.473\" end=\"02:17.695\">mischief <\/span>\n        <span begin=\"02:17.695\" end=\"02:17.806\">with <\/span>\n        <span begin=\"02:17.806\" end=\"02:18.190\">delicacy<\/span>\n      <\/p>\n      <p begin=\"02:18.190\" end=\"02:21.100\">\n        <span begin=\"02:18.190\" end=\"02:18.569\">Pasito <\/span>\n        <span begin=\"02:18.569\" end=\"02:18.684\">a <\/span>\n        <span begin=\"02:18.684\" end=\"02:19.126\">pasito, <\/span>\n        <span begin=\"02:19.126\" end=\"02:19.347\">suave, <\/span>\n        <span begin=\"02:19.347\" end=\"02:20.021\">suavecito^Step <\/span>\n        <span begin=\"02:20.021\" end=\"02:20.147\">by <\/span>\n        <span begin=\"02:20.147\" end=\"02:20.357\">step, <\/span>\n        <span begin=\"02:20.357\" end=\"02:20.567\">soft, <\/span>\n        <span begin=\"02:20.567\" end=\"02:20.820\">very <\/span>\n        <span begin=\"02:20.820\" end=\"02:21.100\">softly<\/span>\n      <\/p>\n      <p begin=\"02:21.100\" end=\"02:23.710\">\n        <span begin=\"02:21.100\" end=\"02:21.215\">Nos <\/span>\n        <span begin=\"02:21.215\" end=\"02:21.437\">vamos <\/span>\n        <span begin=\"02:21.437\" end=\"02:21.766\">pegando <\/span>\n        <span begin=\"02:21.766\" end=\"02:22.095\">poquito <\/span>\n        <span begin=\"02:22.095\" end=\"02:22.192\">a <\/span>\n        <span begin=\"02:22.192\" end=\"02:22.664\">poquito^We&apos;re <\/span>\n        <span begin=\"02:22.664\" end=\"02:22.904\">getting <\/span>\n        <span begin=\"02:22.904\" end=\"02:23.135\">closer <\/span>\n        <span begin=\"02:23.135\" end=\"02:23.366\">little <\/span>\n        <span begin=\"02:23.366\" end=\"02:23.472\">by <\/span>\n        <span begin=\"02:23.472\" end=\"02:23.710\">little<\/span>\n      <\/p>\n      <p begin=\"02:23.710\" end=\"02:26.320\">\n        <span begin=\"02:23.710\" end=\"02:23.814\">Y <\/span>\n        <span begin=\"02:23.814\" end=\"02:23.927\">es <\/span>\n        <span begin=\"02:23.927\" end=\"02:24.050\">que <\/span>\n        <span begin=\"02:24.050\" end=\"02:24.173\">esa <\/span>\n        <span begin=\"02:24.173\" end=\"02:24.524\">belleza <\/span>\n        <span begin=\"02:24.524\" end=\"02:24.637\">es <\/span>\n        <span begin=\"02:24.637\" end=\"02:24.750\">un <\/span>\n        <span begin=\"02:24.750\" end=\"02:25.471\">rompecabezas^And <\/span>\n        <span begin=\"02:25.471\" end=\"02:25.603\">that <\/span>\n        <span begin=\"02:25.603\" end=\"02:25.849\">beauty <\/span>\n        <span begin=\"02:25.849\" end=\"02:25.962\">is <\/span>\n        <span begin=\"02:25.962\" end=\"02:26.066\">a <\/span>\n        <span begin=\"02:26.066\" end=\"02:26.320\">puzzle<\/span>\n      <\/p>\n      <p begin=\"02:26.320\" end=\"02:29.820\">\n        <span begin=\"02:26.320\" end=\"02:26.548\">Pero <\/span>\n        <span begin=\"02:26.548\" end=\"02:26.671\">pa&apos; <\/span>\n        <span begin=\"02:26.671\" end=\"02:27.090\">montarlo, <\/span>\n        <span begin=\"02:27.090\" end=\"02:27.318\">aquí <\/span>\n        <span begin=\"02:27.318\" end=\"02:27.556\">tengo <\/span>\n        <span begin=\"02:27.556\" end=\"02:27.670\">la <\/span>\n        <span begin=\"02:27.670\" end=\"02:27.965\">pieza, <\/span>\n        <span begin=\"02:27.965\" end=\"02:28.222\">oye^But <\/span>\n        <span begin=\"02:28.222\" end=\"02:28.336\">to <\/span>\n        <span begin=\"02:28.336\" end=\"02:28.459\">put <\/span>\n        <span begin=\"02:28.459\" end=\"02:28.573\">it <\/span>\n        <span begin=\"02:28.573\" end=\"02:28.992\">together, <\/span>\n        <span begin=\"02:28.992\" end=\"02:29.096\">I <\/span>\n        <span begin=\"02:29.096\" end=\"02:29.229\">have <\/span>\n        <span begin=\"02:29.229\" end=\"02:29.352\">the <\/span>\n        <span begin=\"02:29.352\" end=\"02:29.495\">piece <\/span>\n        <span begin=\"02:29.495\" end=\"02:29.685\">here, <\/span>\n        <span begin=\"02:29.685\" end=\"02:29.820\">hey<\/span>\n      <\/p>\n      <p begin=\"02:29.820\" end=\"02:31.900\">\n        <span begin=\"02:29.820\" end=\"02:31.900\">Despacito^Slowly<\/span>\n      <\/p>\n      <p begin=\"02:31.900\" end=\"02:34.700\">\n        <span begin=\"02:31.900\" end=\"02:32.191\">Quiero <\/span>\n        <span begin=\"02:32.191\" end=\"02:32.616\">respirar <\/span>\n        <span begin=\"02:32.616\" end=\"02:32.750\">tu <\/span>\n        <span begin=\"02:32.750\" end=\"02:33.041\">cuello <\/span>\n        <span begin=\"02:33.041\" end=\"02:33.612\">despacito^I <\/span>\n        <span begin=\"02:33.612\" end=\"02:33.768\">want <\/span>\n        <span begin=\"02:33.768\" end=\"02:33.902\">to <\/span>\n        <span begin=\"02:33.902\" end=\"02:34.092\">breathe <\/span>\n        <span begin=\"02:34.092\" end=\"02:34.248\">your <\/span>\n        <span begin=\"02:34.248\" end=\"02:34.404\">neck <\/span>\n        <span begin=\"02:34.404\" end=\"02:34.700\">slowly<\/span>\n      <\/p>\n      <p begin=\"02:34.700\" end=\"02:37.160\">\n        <span begin=\"02:34.700\" end=\"02:34.943\">Deja <\/span>\n        <span begin=\"02:34.943\" end=\"02:35.075\">que <\/span>\n        <span begin=\"02:35.075\" end=\"02:35.196\">te <\/span>\n        <span begin=\"02:35.196\" end=\"02:35.439\">diga <\/span>\n        <span begin=\"02:35.439\" end=\"02:35.693\">cosas <\/span>\n        <span begin=\"02:35.693\" end=\"02:35.814\">al <\/span>\n        <span begin=\"02:35.814\" end=\"02:36.200\">oído^Let <\/span>\n        <span begin=\"02:36.200\" end=\"02:36.321\">me <\/span>\n        <span begin=\"02:36.321\" end=\"02:36.595\">whisper <\/span>\n        <span begin=\"02:36.595\" end=\"02:36.757\">things <\/span>\n        <span begin=\"02:36.757\" end=\"02:36.878\">in <\/span>\n        <span begin=\"02:36.878\" end=\"02:37.020\">your <\/span>\n        <span begin=\"02:37.020\" end=\"02:37.160\">ear<\/span>\n      <\/p>\n      <p begin=\"02:37.160\" end=\"02:40.760\">\n        <span begin=\"02:37.160\" end=\"02:37.440\">Para <\/span>\n        <span begin=\"02:37.440\" end=\"02:37.591\">que <\/span>\n        <span begin=\"02:37.591\" end=\"02:37.731\">te <\/span>\n        <span begin=\"02:37.731\" end=\"02:38.175\">acuerdes <\/span>\n        <span begin=\"02:38.175\" end=\"02:38.315\">si <\/span>\n        <span begin=\"02:38.315\" end=\"02:38.455\">no <\/span>\n        <span begin=\"02:38.455\" end=\"02:38.630\">estás <\/span>\n        <span begin=\"02:38.630\" end=\"02:39.214\">conmigo^So <\/span>\n        <span begin=\"02:39.214\" end=\"02:39.365\">you <\/span>\n        <span begin=\"02:39.365\" end=\"02:39.809\">remember <\/span>\n        <span begin=\"02:39.809\" end=\"02:39.949\">me <\/span>\n        <span begin=\"02:39.949\" end=\"02:40.112\">when <\/span>\n        <span begin=\"02:40.112\" end=\"02:40.299\">you&apos;re <\/span>\n        <span begin=\"02:40.299\" end=\"02:40.450\">not <\/span>\n        <span begin=\"02:40.450\" end=\"02:40.613\">with <\/span>\n        <span begin=\"02:40.613\" end=\"02:40.760\">me<\/span>\n      <\/p>\n      <p begin=\"02:40.760\" end=\"02:42.640\">\n        <span begin=\"02:40.760\" end=\"02:42.640\">Despacito^Slowly<\/span>\n      <\/p>\n      <p begin=\"02:42.640\" end=\"02:45.210\">\n        <span begin=\"02:42.640\" end=\"02:42.869\">Quiero <\/span>\n        <span begin=\"02:42.869\" end=\"02:43.222\">desnudarte <\/span>\n        <span begin=\"02:43.222\" end=\"02:43.319\">a <\/span>\n        <span begin=\"02:43.319\" end=\"02:43.539\">besos <\/span>\n        <span begin=\"02:43.539\" end=\"02:43.989\">despacito^I <\/span>\n        <span begin=\"02:43.989\" end=\"02:44.112\">want <\/span>\n        <span begin=\"02:44.112\" end=\"02:44.217\">To <\/span>\n        <span begin=\"02:44.217\" end=\"02:44.455\">undress <\/span>\n        <span begin=\"02:44.455\" end=\"02:44.569\">you <\/span>\n        <span begin=\"02:44.569\" end=\"02:44.692\">with <\/span>\n        <span begin=\"02:44.692\" end=\"02:44.974\">kisses, <\/span>\n        <span begin=\"02:44.974\" end=\"02:45.210\">slowly<\/span>\n      <\/p>\n      <p begin=\"02:45.210\" end=\"02:48.070\">\n        <span begin=\"02:45.210\" end=\"02:45.486\">Firmar <\/span>\n        <span begin=\"02:45.486\" end=\"02:45.624\">las <\/span>\n        <span begin=\"02:45.624\" end=\"02:46.017\">paredes <\/span>\n        <span begin=\"02:46.017\" end=\"02:46.144\">de <\/span>\n        <span begin=\"02:46.144\" end=\"02:46.271\">tu <\/span>\n        <span begin=\"02:46.271\" end=\"02:46.930\">laberinto^To <\/span>\n        <span begin=\"02:46.930\" end=\"02:47.078\">sign <\/span>\n        <span begin=\"02:47.078\" end=\"02:47.216\">the <\/span>\n        <span begin=\"02:47.216\" end=\"02:47.375\">walls <\/span>\n        <span begin=\"02:47.375\" end=\"02:47.502\">of <\/span>\n        <span begin=\"02:47.502\" end=\"02:47.650\">your <\/span>\n        <span begin=\"02:47.650\" end=\"02:48.070\">labyrinth<\/span>\n      <\/p>\n      <p begin=\"02:48.070\" end=\"02:51.610\">\n        <span begin=\"02:48.070\" end=\"02:48.154\">Y <\/span>\n        <span begin=\"02:48.154\" end=\"02:48.346\">hacer <\/span>\n        <span begin=\"02:48.346\" end=\"02:48.438\">de <\/span>\n        <span begin=\"02:48.438\" end=\"02:48.530\">tu <\/span>\n        <span begin=\"02:48.530\" end=\"02:48.730\">cuerpo <\/span>\n        <span begin=\"02:48.730\" end=\"02:48.915\">todo <\/span>\n        <span begin=\"02:48.915\" end=\"02:49.007\">un <\/span>\n        <span begin=\"02:49.007\" end=\"02:49.392\">manuscrito <\/span>\n        <span begin=\"02:49.392\" end=\"02:49.553\">(sube, <\/span>\n        <span begin=\"02:49.553\" end=\"02:49.707\">sube, <\/span>\n        <span begin=\"02:49.707\" end=\"02:49.930\">sube)^And <\/span>\n        <span begin=\"02:49.930\" end=\"02:50.037\">make <\/span>\n        <span begin=\"02:50.037\" end=\"02:50.144\">your <\/span>\n        <span begin=\"02:50.144\" end=\"02:50.329\">body <\/span>\n        <span begin=\"02:50.329\" end=\"02:50.413\">a <\/span>\n        <span begin=\"02:50.413\" end=\"02:50.628\">complete <\/span>\n        <span begin=\"02:50.628\" end=\"02:50.936\">manuscript <\/span>\n        <span begin=\"02:50.936\" end=\"02:51.036\">(go <\/span>\n        <span begin=\"02:51.036\" end=\"02:51.174\">up, <\/span>\n        <span begin=\"02:51.174\" end=\"02:51.266\">go <\/span>\n        <span begin=\"02:51.266\" end=\"02:51.404\">up, <\/span>\n        <span begin=\"02:51.404\" end=\"02:51.496\">go <\/span>\n        <span begin=\"02:51.496\" end=\"02:51.610\">up)<\/span>\n      <\/p>\n      <p begin=\"02:51.610\" end=\"02:52.720\">\n        <span begin=\"02:51.610\" end=\"02:51.799\">Sube, <\/span>\n        <span begin=\"02:51.799\" end=\"02:51.931\">sube <\/span>\n        <span begin=\"02:51.931\" end=\"02:52.187\">(oh)^Go <\/span>\n        <span begin=\"02:52.187\" end=\"02:52.357\">up, <\/span>\n        <span begin=\"02:52.357\" end=\"02:52.470\">go <\/span>\n        <span begin=\"02:52.470\" end=\"02:52.583\">up <\/span>\n        <span begin=\"02:52.583\" end=\"02:52.720\">(oh)<\/span>\n      <\/p>\n      <p begin=\"02:52.720\" end=\"02:56.840\">\n        <span begin=\"02:52.720\" end=\"02:53.024\">Quiero <\/span>\n        <span begin=\"02:53.024\" end=\"02:53.176\">ver <\/span>\n        <span begin=\"02:53.176\" end=\"02:53.480\">bailar <\/span>\n        <span begin=\"02:53.480\" end=\"02:53.620\">tu <\/span>\n        <span begin=\"02:53.620\" end=\"02:53.971\">pelo, <\/span>\n        <span begin=\"02:53.971\" end=\"02:54.275\">quiero <\/span>\n        <span begin=\"02:54.275\" end=\"02:54.427\">ser <\/span>\n        <span begin=\"02:54.427\" end=\"02:54.567\">tu <\/span>\n        <span begin=\"02:54.567\" end=\"02:54.883\">ritmo^I <\/span>\n        <span begin=\"02:54.883\" end=\"02:55.046\">want <\/span>\n        <span begin=\"02:55.046\" end=\"02:55.186\">to <\/span>\n        <span begin=\"02:55.186\" end=\"02:55.338\">see <\/span>\n        <span begin=\"02:55.338\" end=\"02:55.501\">your <\/span>\n        <span begin=\"02:55.501\" end=\"02:55.664\">hair <\/span>\n        <span begin=\"02:55.664\" end=\"02:55.909\">dance, <\/span>\n        <span begin=\"02:55.909\" end=\"02:56.037\">I <\/span>\n        <span begin=\"02:56.037\" end=\"02:56.200\">want <\/span>\n        <span begin=\"02:56.200\" end=\"02:56.340\">to <\/span>\n        <span begin=\"02:56.340\" end=\"02:56.480\">be <\/span>\n        <span begin=\"02:56.480\" end=\"02:56.643\">your <\/span>\n        <span begin=\"02:56.643\" end=\"02:56.840\">rhythm<\/span>\n      <\/p>\n      <p begin=\"02:56.840\" end=\"03:01.640\">\n        <span begin=\"02:56.840\" end=\"02:57.010\">Que <\/span>\n        <span begin=\"02:57.010\" end=\"02:57.167\">le <\/span>\n        <span begin=\"02:57.167\" end=\"02:57.652\">enseñes <\/span>\n        <span begin=\"02:57.652\" end=\"02:57.796\">a <\/span>\n        <span begin=\"02:57.796\" end=\"02:57.953\">mi <\/span>\n        <span begin=\"02:57.953\" end=\"02:58.267\">boca <\/span>\n        <span begin=\"02:58.267\" end=\"02:58.437\">tus <\/span>\n        <span begin=\"02:58.437\" end=\"02:58.922\">lugares <\/span>\n        <span begin=\"02:58.922\" end=\"02:59.748\">favoritos^For <\/span>\n        <span begin=\"02:59.748\" end=\"02:59.918\">you <\/span>\n        <span begin=\"02:59.918\" end=\"03:00.075\">to <\/span>\n        <span begin=\"03:00.075\" end=\"03:00.258\">show <\/span>\n        <span begin=\"03:00.258\" end=\"03:00.415\">my <\/span>\n        <span begin=\"03:00.415\" end=\"03:00.611\">mouth <\/span>\n        <span begin=\"03:00.611\" end=\"03:00.794\">your <\/span>\n        <span begin=\"03:00.794\" end=\"03:01.292\">favorite <\/span>\n        <span begin=\"03:01.292\" end=\"03:01.640\">places<\/span>\n      <\/p>\n      <p begin=\"03:01.640\" end=\"03:03.510\">\n        <span begin=\"03:01.640\" end=\"03:02.057\">(Favoritos, <\/span>\n        <span begin=\"03:02.057\" end=\"03:02.466\">favoritos, <\/span>\n        <span begin=\"03:02.466\" end=\"03:02.994\">baby)^(Favorite, <\/span>\n        <span begin=\"03:02.994\" end=\"03:03.321\">favorite, <\/span>\n        <span begin=\"03:03.321\" end=\"03:03.510\">baby)<\/span>\n      <\/p>\n      <p begin=\"03:03.510\" end=\"03:07.450\">\n        <span begin=\"03:03.510\" end=\"03:03.741\">Déjame <\/span>\n        <span begin=\"03:03.741\" end=\"03:04.465\">sobrepasar <\/span>\n        <span begin=\"03:04.465\" end=\"03:04.653\">tus <\/span>\n        <span begin=\"03:04.653\" end=\"03:05.015\">zonas <\/span>\n        <span begin=\"03:05.015\" end=\"03:05.188\">de <\/span>\n        <span begin=\"03:05.188\" end=\"03:05.926\">peligro^Let <\/span>\n        <span begin=\"03:05.926\" end=\"03:06.099\">me <\/span>\n        <span begin=\"03:06.099\" end=\"03:06.272\">go <\/span>\n        <span begin=\"03:06.272\" end=\"03:06.503\">beyond <\/span>\n        <span begin=\"03:06.503\" end=\"03:06.705\">your <\/span>\n        <span begin=\"03:06.705\" end=\"03:07.081\">danger <\/span>\n        <span begin=\"03:07.081\" end=\"03:07.450\">zones<\/span>\n      <\/p>\n      <p begin=\"03:07.450\" end=\"03:13.080\">\n        <span begin=\"03:07.450\" end=\"03:07.800\">Hasta <\/span>\n        <span begin=\"03:07.800\" end=\"03:08.332\">provocar <\/span>\n        <span begin=\"03:08.332\" end=\"03:08.514\">tus <\/span>\n        <span begin=\"03:08.514\" end=\"03:08.878\">gritos <\/span>\n        <span begin=\"03:08.878\" end=\"03:09.032\">y <\/span>\n        <span begin=\"03:09.032\" end=\"03:09.214\">que <\/span>\n        <span begin=\"03:09.214\" end=\"03:09.732\">olvides <\/span>\n        <span begin=\"03:09.732\" end=\"03:09.900\">tu <\/span>\n        <span begin=\"03:09.900\" end=\"03:10.796\">apellido^Until <\/span>\n        <span begin=\"03:10.796\" end=\"03:10.950\">I <\/span>\n        <span begin=\"03:10.950\" end=\"03:11.328\">provoke <\/span>\n        <span begin=\"03:11.328\" end=\"03:11.524\">your <\/span>\n        <span begin=\"03:11.524\" end=\"03:11.762\">screams <\/span>\n        <span begin=\"03:11.762\" end=\"03:11.944\">and <\/span>\n        <span begin=\"03:11.944\" end=\"03:12.126\">you <\/span>\n        <span begin=\"03:12.126\" end=\"03:12.490\">forget <\/span>\n        <span begin=\"03:12.490\" end=\"03:12.686\">your <\/span>\n        <span begin=\"03:12.686\" end=\"03:12.882\">last <\/span>\n        <span begin=\"03:12.882\" end=\"03:13.080\">name<\/span>\n      <\/p>\n      <p begin=\"03:13.080\" end=\"03:14.930\">\n        <span begin=\"03:13.080\" end=\"03:14.930\">Despacito^Slowly<\/span>\n      <\/p>\n      <p begin=\"03:14.930\" end=\"03:17.660\">\n        <span begin=\"03:14.930\" end=\"03:15.146\">Vamo&apos; <\/span>\n        <span begin=\"03:15.146\" end=\"03:15.241\">a <\/span>\n        <span begin=\"03:15.241\" end=\"03:15.561\">hacerlo <\/span>\n        <span begin=\"03:15.561\" end=\"03:15.665\">en <\/span>\n        <span begin=\"03:15.665\" end=\"03:15.777\">una <\/span>\n        <span begin=\"03:15.777\" end=\"03:15.907\">playa <\/span>\n        <span begin=\"03:15.907\" end=\"03:16.011\">en <\/span>\n        <span begin=\"03:16.011\" end=\"03:16.236\">Puerto <\/span>\n        <span begin=\"03:16.236\" end=\"03:16.582\">Rico^Let&apos;s <\/span>\n        <span begin=\"03:16.582\" end=\"03:16.686\">do <\/span>\n        <span begin=\"03:16.686\" end=\"03:16.790\">it <\/span>\n        <span begin=\"03:16.790\" end=\"03:16.894\">on <\/span>\n        <span begin=\"03:16.894\" end=\"03:16.989\">a <\/span>\n        <span begin=\"03:16.989\" end=\"03:17.119\">beach <\/span>\n        <span begin=\"03:17.119\" end=\"03:17.223\">in <\/span>\n        <span begin=\"03:17.223\" end=\"03:17.448\">Puerto <\/span>\n        <span begin=\"03:17.448\" end=\"03:17.660\">Rico<\/span>\n      <\/p>\n      <p begin=\"03:17.660\" end=\"03:20.450\">\n        <span begin=\"03:17.660\" end=\"03:17.892\">Hasta <\/span>\n        <span begin=\"03:17.892\" end=\"03:18.012\">que <\/span>\n        <span begin=\"03:18.012\" end=\"03:18.132\">las <\/span>\n        <span begin=\"03:18.132\" end=\"03:18.355\">olas <\/span>\n        <span begin=\"03:18.355\" end=\"03:18.652\">griten: <\/span>\n        <span begin=\"03:18.652\" end=\"03:18.838\">&quot;¡ay, <\/span>\n        <span begin=\"03:18.838\" end=\"03:19.396\">Bendito!&quot;^Until <\/span>\n        <span begin=\"03:19.396\" end=\"03:19.516\">the <\/span>\n        <span begin=\"03:19.516\" end=\"03:19.748\">waves <\/span>\n        <span begin=\"03:19.748\" end=\"03:19.952\">scream: <\/span>\n        <span begin=\"03:19.952\" end=\"03:20.128\">&quot;Oh, <\/span>\n        <span begin=\"03:20.128\" end=\"03:20.450\">blessed!&quot;<\/span>\n      <\/p>\n      <p begin=\"03:20.450\" end=\"03:24.290\">\n        <span begin=\"03:20.450\" end=\"03:20.756\">Para <\/span>\n        <span begin=\"03:20.756\" end=\"03:20.921\">que <\/span>\n        <span begin=\"03:20.921\" end=\"03:21.074\">mi <\/span>\n        <span begin=\"03:21.074\" end=\"03:21.392\">sello <\/span>\n        <span begin=\"03:21.392\" end=\"03:21.545\">se <\/span>\n        <span begin=\"03:21.545\" end=\"03:21.736\">quede <\/span>\n        <span begin=\"03:21.736\" end=\"03:22.208\">contigo <\/span>\n        <span begin=\"03:22.208\" end=\"03:22.871\">(báilalo)^So <\/span>\n        <span begin=\"03:22.871\" end=\"03:23.049\">that <\/span>\n        <span begin=\"03:23.049\" end=\"03:23.202\">my <\/span>\n        <span begin=\"03:23.202\" end=\"03:23.380\">mark <\/span>\n        <span begin=\"03:23.380\" end=\"03:23.571\">stays <\/span>\n        <span begin=\"03:23.571\" end=\"03:23.749\">with <\/span>\n        <span begin=\"03:23.749\" end=\"03:23.914\">you <\/span>\n        <span begin=\"03:23.914\" end=\"03:24.118\">(dance <\/span>\n        <span begin=\"03:24.118\" end=\"03:24.290\">it)<\/span>\n      <\/p>\n      <p begin=\"03:24.290\" end=\"03:26.920\">\n        <span begin=\"03:24.290\" end=\"03:24.618\">Pasito <\/span>\n        <span begin=\"03:24.618\" end=\"03:24.718\">a <\/span>\n        <span begin=\"03:24.718\" end=\"03:25.101\">pasito, <\/span>\n        <span begin=\"03:25.101\" end=\"03:25.292\">suave, <\/span>\n        <span begin=\"03:25.292\" end=\"03:25.876\">suavecito^Step <\/span>\n        <span begin=\"03:25.876\" end=\"03:25.985\">by <\/span>\n        <span begin=\"03:25.985\" end=\"03:26.167\">step, <\/span>\n        <span begin=\"03:26.167\" end=\"03:26.459\">softly, <\/span>\n        <span begin=\"03:26.459\" end=\"03:26.678\">very <\/span>\n        <span begin=\"03:26.678\" end=\"03:26.920\">softly<\/span>\n      <\/p>\n      <p begin=\"03:26.920\" end=\"03:29.460\">\n        <span begin=\"03:26.920\" end=\"03:27.032\">Nos <\/span>\n        <span begin=\"03:27.032\" end=\"03:27.248\">vamos <\/span>\n        <span begin=\"03:27.248\" end=\"03:27.568\">pegando <\/span>\n        <span begin=\"03:27.568\" end=\"03:27.888\">poquito <\/span>\n        <span begin=\"03:27.888\" end=\"03:27.983\">a <\/span>\n        <span begin=\"03:27.983\" end=\"03:28.442\">poquito^We&apos;re <\/span>\n        <span begin=\"03:28.442\" end=\"03:28.676\">getting <\/span>\n        <span begin=\"03:28.676\" end=\"03:28.901\">closer <\/span>\n        <span begin=\"03:28.901\" end=\"03:29.126\">little <\/span>\n        <span begin=\"03:29.126\" end=\"03:29.230\">by <\/span>\n        <span begin=\"03:29.230\" end=\"03:29.460\">little<\/span>\n      <\/p>\n      <p begin=\"03:29.460\" end=\"03:33.970\">\n        <span begin=\"03:29.460\" end=\"03:29.620\">Que <\/span>\n        <span begin=\"03:29.620\" end=\"03:29.767\">le <\/span>\n        <span begin=\"03:29.767\" end=\"03:30.222\">enseñes <\/span>\n        <span begin=\"03:30.222\" end=\"03:30.357\">a <\/span>\n        <span begin=\"03:30.357\" end=\"03:30.504\">mi <\/span>\n        <span begin=\"03:30.504\" end=\"03:30.799\">boca <\/span>\n        <span begin=\"03:30.799\" end=\"03:30.959\">tus <\/span>\n        <span begin=\"03:30.959\" end=\"03:31.414\">lugares <\/span>\n        <span begin=\"03:31.414\" end=\"03:32.190\">favoritos^For <\/span>\n        <span begin=\"03:32.190\" end=\"03:32.350\">you <\/span>\n        <span begin=\"03:32.350\" end=\"03:32.497\">to <\/span>\n        <span begin=\"03:32.497\" end=\"03:32.669\">show <\/span>\n        <span begin=\"03:32.669\" end=\"03:32.816\">my <\/span>\n        <span begin=\"03:32.816\" end=\"03:33.000\">mouth <\/span>\n        <span begin=\"03:33.000\" end=\"03:33.172\">your <\/span>\n        <span begin=\"03:33.172\" end=\"03:33.640\">favorite <\/span>\n        <span begin=\"03:33.640\" end=\"03:33.970\">places<\/span>\n      <\/p>\n      <p begin=\"03:33.970\" end=\"03:35.250\">\n        <span begin=\"03:33.970\" end=\"03:34.255\">(Favoritos, <\/span>\n        <span begin=\"03:34.255\" end=\"03:34.535\">favoritos, <\/span>\n        <span begin=\"03:34.535\" end=\"03:34.897\">baby)^(Favorite, <\/span>\n        <span begin=\"03:34.897\" end=\"03:35.121\">favorite, <\/span>\n        <span begin=\"03:35.121\" end=\"03:35.250\">baby)<\/span>\n      <\/p>\n      <p begin=\"03:35.250\" end=\"03:37.960\">\n        <span begin=\"03:35.250\" end=\"03:35.588\">Pasito <\/span>\n        <span begin=\"03:35.588\" end=\"03:35.691\">a <\/span>\n        <span begin=\"03:35.691\" end=\"03:36.086\">pasito, <\/span>\n        <span begin=\"03:36.086\" end=\"03:36.283\">suave, <\/span>\n        <span begin=\"03:36.283\" end=\"03:36.885\">suavecito^Step <\/span>\n        <span begin=\"03:36.885\" end=\"03:36.997\">by <\/span>\n        <span begin=\"03:36.997\" end=\"03:37.185\">step, <\/span>\n        <span begin=\"03:37.185\" end=\"03:37.486\">softly, <\/span>\n        <span begin=\"03:37.486\" end=\"03:37.711\">very <\/span>\n        <span begin=\"03:37.711\" end=\"03:37.960\">softly<\/span>\n      <\/p>\n      <p begin=\"03:37.960\" end=\"03:40.100\">\n        <span begin=\"03:37.960\" end=\"03:38.054\">Nos <\/span>\n        <span begin=\"03:38.054\" end=\"03:38.236\">vamos <\/span>\n        <span begin=\"03:38.236\" end=\"03:38.506\">pegando <\/span>\n        <span begin=\"03:38.506\" end=\"03:38.776\">poquito <\/span>\n        <span begin=\"03:38.776\" end=\"03:38.856\">a <\/span>\n        <span begin=\"03:38.856\" end=\"03:39.243\">poquito^We&apos;re <\/span>\n        <span begin=\"03:39.243\" end=\"03:39.440\">getting <\/span>\n        <span begin=\"03:39.440\" end=\"03:39.629\">closer <\/span>\n        <span begin=\"03:39.629\" end=\"03:39.818\">little <\/span>\n        <span begin=\"03:39.818\" end=\"03:39.905\">by <\/span>\n        <span begin=\"03:39.905\" end=\"03:40.100\">little<\/span>\n      <\/p>\n      <p begin=\"03:40.100\" end=\"03:45.470\">\n        <span begin=\"03:40.100\" end=\"03:40.412\">Hasta <\/span>\n        <span begin=\"03:40.412\" end=\"03:40.886\">provocar <\/span>\n        <span begin=\"03:40.886\" end=\"03:41.048\">tus <\/span>\n        <span begin=\"03:41.048\" end=\"03:41.372\">gritos <\/span>\n        <span begin=\"03:41.372\" end=\"03:41.509\">y <\/span>\n        <span begin=\"03:41.509\" end=\"03:41.671\">que <\/span>\n        <span begin=\"03:41.671\" end=\"03:42.133\">olvides <\/span>\n        <span begin=\"03:42.133\" end=\"03:42.282\">tu <\/span>\n        <span begin=\"03:42.282\" end=\"03:42.881\">apellido <\/span>\n        <span begin=\"03:42.881\" end=\"03:43.255\">(DY)^Until <\/span>\n        <span begin=\"03:43.255\" end=\"03:43.392\">I <\/span>\n        <span begin=\"03:43.392\" end=\"03:43.729\">provoke <\/span>\n        <span begin=\"03:43.729\" end=\"03:43.903\">your <\/span>\n        <span begin=\"03:43.903\" end=\"03:44.115\">screams <\/span>\n        <span begin=\"03:44.115\" end=\"03:44.277\">and <\/span>\n        <span begin=\"03:44.277\" end=\"03:44.439\">you <\/span>\n        <span begin=\"03:44.439\" end=\"03:44.763\">forget <\/span>\n        <span begin=\"03:44.763\" end=\"03:44.937\">your <\/span>\n        <span begin=\"03:44.937\" end=\"03:45.111\">last <\/span>\n        <span begin=\"03:45.111\" end=\"03:45.285\">name <\/span>\n        <span begin=\"03:45.285\" end=\"03:45.470\">(DY)<\/span>\n      <\/p>\n      <p begin=\"03:45.470\" end=\"03:50.470\">\n        <span begin=\"03:45.470\" end=\"03:50.470\">Despacito^Slowly<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 6420,
+      "endTime": 11430,
+      "text": "Ay (Fonsi, DY)^Ay (Fonsi, DY)",
+      "words": [
+        {
+          "startTime": 6420,
+          "endTime": 6992,
+          "word": "Ay "
+        },
+        {
+          "startTime": 6992,
+          "endTime": 8518,
+          "word": "(Fonsi, "
+        },
+        {
+          "startTime": 8518,
+          "endTime": 9281,
+          "word": "DY)^Ay "
+        },
+        {
+          "startTime": 9281,
+          "endTime": 10807,
+          "word": "(Fonsi, "
+        },
+        {
+          "startTime": 10807,
+          "endTime": 11430,
+          "word": "DY)"
+        }
+      ]
+    },
+    {
+      "time": 11430,
+      "endTime": 16740,
+      "text": "(Oh, oh) oh, no, oh no (oh)^(Oh, oh) oh, no, oh no (oh)",
+      "words": [
+        {
+          "startTime": 11430,
+          "endTime": 11903,
+          "word": "(Oh, "
+        },
+        {
+          "startTime": 11903,
+          "endTime": 12227,
+          "word": "oh) "
+        },
+        {
+          "startTime": 12227,
+          "endTime": 12675,
+          "word": "oh, "
+        },
+        {
+          "startTime": 12675,
+          "endTime": 13123,
+          "word": "no, "
+        },
+        {
+          "startTime": 13123,
+          "endTime": 13422,
+          "word": "oh "
+        },
+        {
+          "startTime": 13422,
+          "endTime": 13721,
+          "word": "no "
+        },
+        {
+          "startTime": 13721,
+          "endTime": 14568,
+          "word": "(oh)^(Oh, "
+        },
+        {
+          "startTime": 14568,
+          "endTime": 14892,
+          "word": "oh) "
+        },
+        {
+          "startTime": 14892,
+          "endTime": 15340,
+          "word": "oh, "
+        },
+        {
+          "startTime": 15340,
+          "endTime": 15788,
+          "word": "no, "
+        },
+        {
+          "startTime": 15788,
+          "endTime": 16087,
+          "word": "oh "
+        },
+        {
+          "startTime": 16087,
+          "endTime": 16386,
+          "word": "no "
+        },
+        {
+          "startTime": 16386,
+          "endTime": 16740,
+          "word": "(oh)"
+        }
+      ]
+    },
+    {
+      "time": 16740,
+      "endTime": 19750,
+      "text": "Hey, yeah, diri-diri-diriridi, Daddy, go!^Hey, yeah, diri-diri-diriridi, Daddy, go!",
+      "words": [
+        {
+          "startTime": 16740,
+          "endTime": 16890,
+          "word": "Hey, "
+        },
+        {
+          "startTime": 16890,
+          "endTime": 17048,
+          "word": "yeah, "
+        },
+        {
+          "startTime": 17048,
+          "endTime": 17871,
+          "word": "diri-diri-diriridi, "
+        },
+        {
+          "startTime": 17871,
+          "endTime": 18116,
+          "word": "Daddy, "
+        },
+        {
+          "startTime": 18116,
+          "endTime": 18377,
+          "word": "go!^Hey, "
+        },
+        {
+          "startTime": 18377,
+          "endTime": 18535,
+          "word": "yeah, "
+        },
+        {
+          "startTime": 18535,
+          "endTime": 19358,
+          "word": "diri-diri-diriridi, "
+        },
+        {
+          "startTime": 19358,
+          "endTime": 19603,
+          "word": "Daddy, "
+        },
+        {
+          "startTime": 19603,
+          "endTime": 19750,
+          "word": "go!"
+        }
+      ]
+    },
+    {
+      "time": 19750,
+      "endTime": 25210,
+      "text": "Sí, sabes que ya llevo un rato mirándote^Yes, you know I've been watching you for a while",
+      "words": [
+        {
+          "startTime": 19750,
+          "endTime": 20054,
+          "word": "Sí, "
+        },
+        {
+          "startTime": 20054,
+          "endTime": 20476,
+          "word": "sabes "
+        },
+        {
+          "startTime": 20476,
+          "endTime": 20695,
+          "word": "que "
+        },
+        {
+          "startTime": 20695,
+          "endTime": 20897,
+          "word": "ya "
+        },
+        {
+          "startTime": 20897,
+          "endTime": 21319,
+          "word": "llevo "
+        },
+        {
+          "startTime": 21319,
+          "endTime": 21521,
+          "word": "un "
+        },
+        {
+          "startTime": 21521,
+          "endTime": 21926,
+          "word": "rato "
+        },
+        {
+          "startTime": 21926,
+          "endTime": 22754,
+          "word": "mirándote^Yes, "
+        },
+        {
+          "startTime": 22754,
+          "endTime": 22973,
+          "word": "you "
+        },
+        {
+          "startTime": 22973,
+          "endTime": 23209,
+          "word": "know "
+        },
+        {
+          "startTime": 23209,
+          "endTime": 23445,
+          "word": "I've "
+        },
+        {
+          "startTime": 23445,
+          "endTime": 23681,
+          "word": "been "
+        },
+        {
+          "startTime": 23681,
+          "endTime": 24154,
+          "word": "watching "
+        },
+        {
+          "startTime": 24154,
+          "endTime": 24373,
+          "word": "you "
+        },
+        {
+          "startTime": 24373,
+          "endTime": 24592,
+          "word": "for "
+        },
+        {
+          "startTime": 24592,
+          "endTime": 24777,
+          "word": "a "
+        },
+        {
+          "startTime": 24777,
+          "endTime": 25210,
+          "word": "while"
+        }
+      ]
+    },
+    {
+      "time": 25210,
+      "endTime": 30760,
+      "text": "Tengo que bailar contigo hoy (DY)^I have to dance with you today (DY)",
+      "words": [
+        {
+          "startTime": 25210,
+          "endTime": 25795,
+          "word": "Tengo "
+        },
+        {
+          "startTime": 25795,
+          "endTime": 26099,
+          "word": "que "
+        },
+        {
+          "startTime": 26099,
+          "endTime": 26707,
+          "word": "bailar "
+        },
+        {
+          "startTime": 26707,
+          "endTime": 27573,
+          "word": "contigo "
+        },
+        {
+          "startTime": 27573,
+          "endTime": 27877,
+          "word": "hoy "
+        },
+        {
+          "startTime": 27877,
+          "endTime": 28251,
+          "word": "(DY)^I "
+        },
+        {
+          "startTime": 28251,
+          "endTime": 28578,
+          "word": "have "
+        },
+        {
+          "startTime": 28578,
+          "endTime": 28859,
+          "word": "to "
+        },
+        {
+          "startTime": 28859,
+          "endTime": 29210,
+          "word": "dance "
+        },
+        {
+          "startTime": 29210,
+          "endTime": 29537,
+          "word": "with "
+        },
+        {
+          "startTime": 29537,
+          "endTime": 29841,
+          "word": "you "
+        },
+        {
+          "startTime": 29841,
+          "endTime": 30426,
+          "word": "today "
+        },
+        {
+          "startTime": 30426,
+          "endTime": 30760,
+          "word": "(DY)"
+        }
+      ]
+    },
+    {
+      "time": 30760,
+      "endTime": 35990,
+      "text": "Vi que tu mirada ya estaba llamándome^I saw that your gaze was already calling me",
+      "words": [
+        {
+          "startTime": 30760,
+          "endTime": 30964,
+          "word": "Vi "
+        },
+        {
+          "startTime": 30964,
+          "endTime": 31185,
+          "word": "que "
+        },
+        {
+          "startTime": 31185,
+          "endTime": 31389,
+          "word": "tu "
+        },
+        {
+          "startTime": 31389,
+          "endTime": 32002,
+          "word": "mirada "
+        },
+        {
+          "startTime": 32002,
+          "endTime": 32206,
+          "word": "ya "
+        },
+        {
+          "startTime": 32206,
+          "endTime": 32819,
+          "word": "estaba "
+        },
+        {
+          "startTime": 32819,
+          "endTime": 33534,
+          "word": "llamándome^I "
+        },
+        {
+          "startTime": 33534,
+          "endTime": 33755,
+          "word": "saw "
+        },
+        {
+          "startTime": 33755,
+          "endTime": 33993,
+          "word": "that "
+        },
+        {
+          "startTime": 33993,
+          "endTime": 34231,
+          "word": "your "
+        },
+        {
+          "startTime": 34231,
+          "endTime": 34469,
+          "word": "gaze "
+        },
+        {
+          "startTime": 34469,
+          "endTime": 34690,
+          "word": "was "
+        },
+        {
+          "startTime": 34690,
+          "endTime": 35320,
+          "word": "already "
+        },
+        {
+          "startTime": 35320,
+          "endTime": 35779,
+          "word": "calling "
+        },
+        {
+          "startTime": 35779,
+          "endTime": 35990,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 35990,
+      "endTime": 41460,
+      "text": "Muéstrame el camino, que yo voy (oh)^Show me the way, and I'll go (oh)",
+      "words": [
+        {
+          "startTime": 35990,
+          "endTime": 36632,
+          "word": "Muéstrame "
+        },
+        {
+          "startTime": 36632,
+          "endTime": 36897,
+          "word": "el "
+        },
+        {
+          "startTime": 36897,
+          "endTime": 37827,
+          "word": "camino, "
+        },
+        {
+          "startTime": 37827,
+          "endTime": 38114,
+          "word": "que "
+        },
+        {
+          "startTime": 38114,
+          "endTime": 38379,
+          "word": "yo "
+        },
+        {
+          "startTime": 38379,
+          "endTime": 38666,
+          "word": "voy "
+        },
+        {
+          "startTime": 38666,
+          "endTime": 39308,
+          "word": "(oh)^Show "
+        },
+        {
+          "startTime": 39308,
+          "endTime": 39573,
+          "word": "me "
+        },
+        {
+          "startTime": 39573,
+          "endTime": 39860,
+          "word": "the "
+        },
+        {
+          "startTime": 39860,
+          "endTime": 40280,
+          "word": "way, "
+        },
+        {
+          "startTime": 40280,
+          "endTime": 40567,
+          "word": "and "
+        },
+        {
+          "startTime": 40567,
+          "endTime": 40877,
+          "word": "I'll "
+        },
+        {
+          "startTime": 40877,
+          "endTime": 41142,
+          "word": "go "
+        },
+        {
+          "startTime": 41142,
+          "endTime": 41460,
+          "word": "(oh)"
+        }
+      ]
+    },
+    {
+      "time": 41460,
+      "endTime": 44890,
+      "text": "Tú, tú eres el imán y yo soy el metal^You, you are the magnet and I am the metal",
+      "words": [
+        {
+          "startTime": 41460,
+          "endTime": 41657,
+          "word": "Tú, "
+        },
+        {
+          "startTime": 41657,
+          "endTime": 41788,
+          "word": "tú "
+        },
+        {
+          "startTime": 41788,
+          "endTime": 42051,
+          "word": "eres "
+        },
+        {
+          "startTime": 42051,
+          "endTime": 42182,
+          "word": "el "
+        },
+        {
+          "startTime": 42182,
+          "endTime": 42335,
+          "word": "imán "
+        },
+        {
+          "startTime": 42335,
+          "endTime": 42455,
+          "word": "y "
+        },
+        {
+          "startTime": 42455,
+          "endTime": 42586,
+          "word": "yo "
+        },
+        {
+          "startTime": 42586,
+          "endTime": 42728,
+          "word": "soy "
+        },
+        {
+          "startTime": 42728,
+          "endTime": 42859,
+          "word": "el "
+        },
+        {
+          "startTime": 42859,
+          "endTime": 43353,
+          "word": "metal^You, "
+        },
+        {
+          "startTime": 43353,
+          "endTime": 43495,
+          "word": "you "
+        },
+        {
+          "startTime": 43495,
+          "endTime": 43637,
+          "word": "are "
+        },
+        {
+          "startTime": 43637,
+          "endTime": 43779,
+          "word": "the "
+        },
+        {
+          "startTime": 43779,
+          "endTime": 44064,
+          "word": "magnet "
+        },
+        {
+          "startTime": 44064,
+          "endTime": 44206,
+          "word": "and "
+        },
+        {
+          "startTime": 44206,
+          "endTime": 44326,
+          "word": "I "
+        },
+        {
+          "startTime": 44326,
+          "endTime": 44457,
+          "word": "am "
+        },
+        {
+          "startTime": 44457,
+          "endTime": 44599,
+          "word": "the "
+        },
+        {
+          "startTime": 44599,
+          "endTime": 44890,
+          "word": "metal"
+        }
+      ]
+    },
+    {
+      "time": 44890,
+      "endTime": 47470,
+      "text": "Me voy acercando y voy armando el plan^I'm getting closer and I'm making a plan",
+      "words": [
+        {
+          "startTime": 44890,
+          "endTime": 44991,
+          "word": "Me "
+        },
+        {
+          "startTime": 44991,
+          "endTime": 45100,
+          "word": "voy "
+        },
+        {
+          "startTime": 45100,
+          "endTime": 45514,
+          "word": "acercando "
+        },
+        {
+          "startTime": 45514,
+          "endTime": 45607,
+          "word": "y "
+        },
+        {
+          "startTime": 45607,
+          "endTime": 45716,
+          "word": "voy "
+        },
+        {
+          "startTime": 45716,
+          "endTime": 46028,
+          "word": "armando "
+        },
+        {
+          "startTime": 46028,
+          "endTime": 46129,
+          "word": "el "
+        },
+        {
+          "startTime": 46129,
+          "endTime": 46365,
+          "word": "plan^I'm "
+        },
+        {
+          "startTime": 46365,
+          "endTime": 46593,
+          "word": "getting "
+        },
+        {
+          "startTime": 46593,
+          "endTime": 46812,
+          "word": "closer "
+        },
+        {
+          "startTime": 46812,
+          "endTime": 46921,
+          "word": "and "
+        },
+        {
+          "startTime": 46921,
+          "endTime": 47030,
+          "word": "I'm "
+        },
+        {
+          "startTime": 47030,
+          "endTime": 47249,
+          "word": "making "
+        },
+        {
+          "startTime": 47249,
+          "endTime": 47342,
+          "word": "a "
+        },
+        {
+          "startTime": 47342,
+          "endTime": 47470,
+          "word": "plan"
+        }
+      ]
+    },
+    {
+      "time": 47470,
+      "endTime": 52150,
+      "text": "Solo con pensarlo se acelera el pulso (oh, yeah)^Just thinking about it makes my pulse race (oh, yeah)",
+      "words": [
+        {
+          "startTime": 47470,
+          "endTime": 47761,
+          "word": "Solo "
+        },
+        {
+          "startTime": 47761,
+          "endTime": 47919,
+          "word": "con "
+        },
+        {
+          "startTime": 47919,
+          "endTime": 48380,
+          "word": "pensarlo "
+        },
+        {
+          "startTime": 48380,
+          "endTime": 48525,
+          "word": "se "
+        },
+        {
+          "startTime": 48525,
+          "endTime": 49096,
+          "word": "acelera "
+        },
+        {
+          "startTime": 49096,
+          "endTime": 49241,
+          "word": "el "
+        },
+        {
+          "startTime": 49241,
+          "endTime": 49544,
+          "word": "pulso "
+        },
+        {
+          "startTime": 49544,
+          "endTime": 49774,
+          "word": "(oh, "
+        },
+        {
+          "startTime": 49774,
+          "endTime": 50138,
+          "word": "yeah)^Just "
+        },
+        {
+          "startTime": 50138,
+          "endTime": 50478,
+          "word": "thinking "
+        },
+        {
+          "startTime": 50478,
+          "endTime": 50781,
+          "word": "about "
+        },
+        {
+          "startTime": 50781,
+          "endTime": 50926,
+          "word": "it "
+        },
+        {
+          "startTime": 50926,
+          "endTime": 51229,
+          "word": "makes "
+        },
+        {
+          "startTime": 51229,
+          "endTime": 51374,
+          "word": "my "
+        },
+        {
+          "startTime": 51374,
+          "endTime": 51556,
+          "word": "pulse "
+        },
+        {
+          "startTime": 51556,
+          "endTime": 51726,
+          "word": "race "
+        },
+        {
+          "startTime": 51726,
+          "endTime": 51956,
+          "word": "(oh, "
+        },
+        {
+          "startTime": 51956,
+          "endTime": 52150,
+          "word": "yeah)"
+        }
+      ]
+    },
+    {
+      "time": 52150,
+      "endTime": 55580,
+      "text": "Ya, ya me estás gustando más de lo normal^Now, I'm liking you more than usual",
+      "words": [
+        {
+          "startTime": 52150,
+          "endTime": 52368,
+          "word": "Ya, "
+        },
+        {
+          "startTime": 52368,
+          "endTime": 52513,
+          "word": "ya "
+        },
+        {
+          "startTime": 52513,
+          "endTime": 52658,
+          "word": "me "
+        },
+        {
+          "startTime": 52658,
+          "endTime": 52839,
+          "word": "estás "
+        },
+        {
+          "startTime": 52839,
+          "endTime": 53299,
+          "word": "gustando "
+        },
+        {
+          "startTime": 53299,
+          "endTime": 53456,
+          "word": "más "
+        },
+        {
+          "startTime": 53456,
+          "endTime": 53601,
+          "word": "de "
+        },
+        {
+          "startTime": 53601,
+          "endTime": 53746,
+          "word": "lo "
+        },
+        {
+          "startTime": 53746,
+          "endTime": 54303,
+          "word": "normal^Now, "
+        },
+        {
+          "startTime": 54303,
+          "endTime": 54460,
+          "word": "I'm "
+        },
+        {
+          "startTime": 54460,
+          "endTime": 54775,
+          "word": "liking "
+        },
+        {
+          "startTime": 54775,
+          "endTime": 54932,
+          "word": "you "
+        },
+        {
+          "startTime": 54932,
+          "endTime": 55101,
+          "word": "more "
+        },
+        {
+          "startTime": 55101,
+          "endTime": 55270,
+          "word": "than "
+        },
+        {
+          "startTime": 55270,
+          "endTime": 55580,
+          "word": "usual"
+        }
+      ]
+    },
+    {
+      "time": 55580,
+      "endTime": 58140,
+      "text": "Todos mis sentidos van pidiendo más^All my senses are asking for more",
+      "words": [
+        {
+          "startTime": 55580,
+          "endTime": 55838,
+          "word": "Todos "
+        },
+        {
+          "startTime": 55838,
+          "endTime": 55972,
+          "word": "mis "
+        },
+        {
+          "startTime": 55972,
+          "endTime": 56364,
+          "word": "sentidos "
+        },
+        {
+          "startTime": 56364,
+          "endTime": 56498,
+          "word": "van "
+        },
+        {
+          "startTime": 56498,
+          "endTime": 56890,
+          "word": "pidiendo "
+        },
+        {
+          "startTime": 56890,
+          "endTime": 57065,
+          "word": "más^All "
+        },
+        {
+          "startTime": 57065,
+          "endTime": 57188,
+          "word": "my "
+        },
+        {
+          "startTime": 57188,
+          "endTime": 57456,
+          "word": "senses "
+        },
+        {
+          "startTime": 57456,
+          "endTime": 57590,
+          "word": "are "
+        },
+        {
+          "startTime": 57590,
+          "endTime": 57858,
+          "word": "asking "
+        },
+        {
+          "startTime": 57858,
+          "endTime": 57992,
+          "word": "for "
+        },
+        {
+          "startTime": 57992,
+          "endTime": 58140,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 58140,
+      "endTime": 61820,
+      "text": "Esto hay que tomarlo sin ningún apuro^We have to take this slowly",
+      "words": [
+        {
+          "startTime": 58140,
+          "endTime": 58517,
+          "word": "Esto "
+        },
+        {
+          "startTime": 58517,
+          "endTime": 58721,
+          "word": "hay "
+        },
+        {
+          "startTime": 58721,
+          "endTime": 58925,
+          "word": "que "
+        },
+        {
+          "startTime": 58925,
+          "endTime": 59506,
+          "word": "tomarlo "
+        },
+        {
+          "startTime": 59506,
+          "endTime": 59710,
+          "word": "sin "
+        },
+        {
+          "startTime": 59710,
+          "endTime": 59961,
+          "word": "ningún "
+        },
+        {
+          "startTime": 59961,
+          "endTime": 60558,
+          "word": "apuro^We "
+        },
+        {
+          "startTime": 60558,
+          "endTime": 60778,
+          "word": "have "
+        },
+        {
+          "startTime": 60778,
+          "endTime": 60966,
+          "word": "to "
+        },
+        {
+          "startTime": 60966,
+          "endTime": 61186,
+          "word": "take "
+        },
+        {
+          "startTime": 61186,
+          "endTime": 61406,
+          "word": "this "
+        },
+        {
+          "startTime": 61406,
+          "endTime": 61820,
+          "word": "slowly"
+        }
+      ]
+    },
+    {
+      "time": 61820,
+      "endTime": 64330,
+      "text": "Despacito^Slowly",
+      "words": [
+        {
+          "startTime": 61820,
+          "endTime": 64330,
+          "word": "Despacito^Slowly"
+        }
+      ]
+    },
+    {
+      "time": 64330,
+      "endTime": 66980,
+      "text": "Quiero respirar tu cuello despacito^I want to breathe your neck slowly",
+      "words": [
+        {
+          "startTime": 64330,
+          "endTime": 64605,
+          "word": "Quiero "
+        },
+        {
+          "startTime": 64605,
+          "endTime": 65007,
+          "word": "respirar "
+        },
+        {
+          "startTime": 65007,
+          "endTime": 65134,
+          "word": "tu "
+        },
+        {
+          "startTime": 65134,
+          "endTime": 65409,
+          "word": "cuello "
+        },
+        {
+          "startTime": 65409,
+          "endTime": 65949,
+          "word": "despacito^I "
+        },
+        {
+          "startTime": 65949,
+          "endTime": 66097,
+          "word": "want "
+        },
+        {
+          "startTime": 66097,
+          "endTime": 66224,
+          "word": "to "
+        },
+        {
+          "startTime": 66224,
+          "endTime": 66404,
+          "word": "breathe "
+        },
+        {
+          "startTime": 66404,
+          "endTime": 66552,
+          "word": "your "
+        },
+        {
+          "startTime": 66552,
+          "endTime": 66700,
+          "word": "neck "
+        },
+        {
+          "startTime": 66700,
+          "endTime": 66980,
+          "word": "slowly"
+        }
+      ]
+    },
+    {
+      "time": 66980,
+      "endTime": 69570,
+      "text": "Deja que te diga cosas al oído^Let me whisper things in your ear",
+      "words": [
+        {
+          "startTime": 66980,
+          "endTime": 67236,
+          "word": "Deja "
+        },
+        {
+          "startTime": 67236,
+          "endTime": 67375,
+          "word": "que "
+        },
+        {
+          "startTime": 67375,
+          "endTime": 67503,
+          "word": "te "
+        },
+        {
+          "startTime": 67503,
+          "endTime": 67759,
+          "word": "diga "
+        },
+        {
+          "startTime": 67759,
+          "endTime": 68026,
+          "word": "cosas "
+        },
+        {
+          "startTime": 68026,
+          "endTime": 68154,
+          "word": "al "
+        },
+        {
+          "startTime": 68154,
+          "endTime": 68560,
+          "word": "oído^Let "
+        },
+        {
+          "startTime": 68560,
+          "endTime": 68688,
+          "word": "me "
+        },
+        {
+          "startTime": 68688,
+          "endTime": 68976,
+          "word": "whisper "
+        },
+        {
+          "startTime": 68976,
+          "endTime": 69147,
+          "word": "things "
+        },
+        {
+          "startTime": 69147,
+          "endTime": 69275,
+          "word": "in "
+        },
+        {
+          "startTime": 69275,
+          "endTime": 69424,
+          "word": "your "
+        },
+        {
+          "startTime": 69424,
+          "endTime": 69570,
+          "word": "ear"
+        }
+      ]
+    },
+    {
+      "time": 69570,
+      "endTime": 72950,
+      "text": "Para que te acuerdes si no estás conmigo^So you remember me when you're not with me",
+      "words": [
+        {
+          "startTime": 69570,
+          "endTime": 69833,
+          "word": "Para "
+        },
+        {
+          "startTime": 69833,
+          "endTime": 69975,
+          "word": "que "
+        },
+        {
+          "startTime": 69975,
+          "endTime": 70106,
+          "word": "te "
+        },
+        {
+          "startTime": 70106,
+          "endTime": 70523,
+          "word": "acuerdes "
+        },
+        {
+          "startTime": 70523,
+          "endTime": 70654,
+          "word": "si "
+        },
+        {
+          "startTime": 70654,
+          "endTime": 70785,
+          "word": "no "
+        },
+        {
+          "startTime": 70785,
+          "endTime": 70949,
+          "word": "estás "
+        },
+        {
+          "startTime": 70949,
+          "endTime": 71497,
+          "word": "conmigo^So "
+        },
+        {
+          "startTime": 71497,
+          "endTime": 71639,
+          "word": "you "
+        },
+        {
+          "startTime": 71639,
+          "endTime": 72056,
+          "word": "remember "
+        },
+        {
+          "startTime": 72056,
+          "endTime": 72187,
+          "word": "me "
+        },
+        {
+          "startTime": 72187,
+          "endTime": 72340,
+          "word": "when "
+        },
+        {
+          "startTime": 72340,
+          "endTime": 72515,
+          "word": "you're "
+        },
+        {
+          "startTime": 72515,
+          "endTime": 72657,
+          "word": "not "
+        },
+        {
+          "startTime": 72657,
+          "endTime": 72810,
+          "word": "with "
+        },
+        {
+          "startTime": 72810,
+          "endTime": 72950,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 72950,
+      "endTime": 74960,
+      "text": "Despacito^Slowly",
+      "words": [
+        {
+          "startTime": 72950,
+          "endTime": 74960,
+          "word": "Despacito^Slowly"
+        }
+      ]
+    },
+    {
+      "time": 74960,
+      "endTime": 77750,
+      "text": "Quiero desnudarte a besos, despacito^I want to undress you with kisses, slowly",
+      "words": [
+        {
+          "startTime": 74960,
+          "endTime": 75204,
+          "word": "Quiero "
+        },
+        {
+          "startTime": 75204,
+          "endTime": 75579,
+          "word": "desnudarte "
+        },
+        {
+          "startTime": 75579,
+          "endTime": 75682,
+          "word": "a "
+        },
+        {
+          "startTime": 75682,
+          "endTime": 75973,
+          "word": "besos, "
+        },
+        {
+          "startTime": 75973,
+          "endTime": 76452,
+          "word": "despacito^I "
+        },
+        {
+          "startTime": 76452,
+          "endTime": 76583,
+          "word": "want "
+        },
+        {
+          "startTime": 76583,
+          "endTime": 76695,
+          "word": "to "
+        },
+        {
+          "startTime": 76695,
+          "endTime": 76948,
+          "word": "undress "
+        },
+        {
+          "startTime": 76948,
+          "endTime": 77070,
+          "word": "you "
+        },
+        {
+          "startTime": 77070,
+          "endTime": 77201,
+          "word": "with "
+        },
+        {
+          "startTime": 77201,
+          "endTime": 77501,
+          "word": "kisses, "
+        },
+        {
+          "startTime": 77501,
+          "endTime": 77750,
+          "word": "slowly"
+        }
+      ]
+    },
+    {
+      "time": 77750,
+      "endTime": 80440,
+      "text": "Firmar las paredes de tu laberinto^Sign the walls of your labyrinth",
+      "words": [
+        {
+          "startTime": 77750,
+          "endTime": 78022,
+          "word": "Firmar "
+        },
+        {
+          "startTime": 78022,
+          "endTime": 78158,
+          "word": "las "
+        },
+        {
+          "startTime": 78158,
+          "endTime": 78545,
+          "word": "paredes "
+        },
+        {
+          "startTime": 78545,
+          "endTime": 78670,
+          "word": "de "
+        },
+        {
+          "startTime": 78670,
+          "endTime": 78795,
+          "word": "tu "
+        },
+        {
+          "startTime": 78795,
+          "endTime": 79464,
+          "word": "laberinto^Sign "
+        },
+        {
+          "startTime": 79464,
+          "endTime": 79600,
+          "word": "the "
+        },
+        {
+          "startTime": 79600,
+          "endTime": 79757,
+          "word": "walls "
+        },
+        {
+          "startTime": 79757,
+          "endTime": 79882,
+          "word": "of "
+        },
+        {
+          "startTime": 79882,
+          "endTime": 80028,
+          "word": "your "
+        },
+        {
+          "startTime": 80028,
+          "endTime": 80440,
+          "word": "labyrinth"
+        }
+      ]
+    },
+    {
+      "time": 80440,
+      "endTime": 84000,
+      "text": "Y hacer de tu cuerpo todo un manuscrito (sube, sube, sube)^And make your body a whole manuscript (go up, go up, go up)",
+      "words": [
+        {
+          "startTime": 80440,
+          "endTime": 80525,
+          "word": "Y "
+        },
+        {
+          "startTime": 80525,
+          "endTime": 80720,
+          "word": "hacer "
+        },
+        {
+          "startTime": 80720,
+          "endTime": 80813,
+          "word": "de "
+        },
+        {
+          "startTime": 80813,
+          "endTime": 80906,
+          "word": "tu "
+        },
+        {
+          "startTime": 80906,
+          "endTime": 81108,
+          "word": "cuerpo "
+        },
+        {
+          "startTime": 81108,
+          "endTime": 81295,
+          "word": "todo "
+        },
+        {
+          "startTime": 81295,
+          "endTime": 81388,
+          "word": "un "
+        },
+        {
+          "startTime": 81388,
+          "endTime": 81778,
+          "word": "manuscrito "
+        },
+        {
+          "startTime": 81778,
+          "endTime": 81941,
+          "word": "(sube, "
+        },
+        {
+          "startTime": 81941,
+          "endTime": 82097,
+          "word": "sube, "
+        },
+        {
+          "startTime": 82097,
+          "endTime": 82323,
+          "word": "sube)^And "
+        },
+        {
+          "startTime": 82323,
+          "endTime": 82432,
+          "word": "make "
+        },
+        {
+          "startTime": 82432,
+          "endTime": 82541,
+          "word": "your "
+        },
+        {
+          "startTime": 82541,
+          "endTime": 82728,
+          "word": "body "
+        },
+        {
+          "startTime": 82728,
+          "endTime": 82813,
+          "word": "a "
+        },
+        {
+          "startTime": 82813,
+          "endTime": 83008,
+          "word": "whole "
+        },
+        {
+          "startTime": 83008,
+          "endTime": 83320,
+          "word": "manuscript "
+        },
+        {
+          "startTime": 83320,
+          "endTime": 83421,
+          "word": "(go "
+        },
+        {
+          "startTime": 83421,
+          "endTime": 83561,
+          "word": "up, "
+        },
+        {
+          "startTime": 83561,
+          "endTime": 83654,
+          "word": "go "
+        },
+        {
+          "startTime": 83654,
+          "endTime": 83794,
+          "word": "up, "
+        },
+        {
+          "startTime": 83794,
+          "endTime": 83887,
+          "word": "go "
+        },
+        {
+          "startTime": 83887,
+          "endTime": 84000,
+          "word": "up)"
+        }
+      ]
+    },
+    {
+      "time": 84000,
+      "endTime": 85160,
+      "text": "Sube, sube (oh)^Go up, go up (oh)",
+      "words": [
+        {
+          "startTime": 84000,
+          "endTime": 84198,
+          "word": "Sube, "
+        },
+        {
+          "startTime": 84198,
+          "endTime": 84336,
+          "word": "sube "
+        },
+        {
+          "startTime": 84336,
+          "endTime": 84603,
+          "word": "(oh)^Go "
+        },
+        {
+          "startTime": 84603,
+          "endTime": 84781,
+          "word": "up, "
+        },
+        {
+          "startTime": 84781,
+          "endTime": 84899,
+          "word": "go "
+        },
+        {
+          "startTime": 84899,
+          "endTime": 85017,
+          "word": "up "
+        },
+        {
+          "startTime": 85017,
+          "endTime": 85160,
+          "word": "(oh)"
+        }
+      ]
+    },
+    {
+      "time": 85160,
+      "endTime": 89010,
+      "text": "Quiero ver bailar tu pelo, quiero ser tu ritmo^I want to see your hair dance, I want to be your rhythm",
+      "words": [
+        {
+          "startTime": 85160,
+          "endTime": 85444,
+          "word": "Quiero "
+        },
+        {
+          "startTime": 85444,
+          "endTime": 85586,
+          "word": "ver "
+        },
+        {
+          "startTime": 85586,
+          "endTime": 85870,
+          "word": "bailar "
+        },
+        {
+          "startTime": 85870,
+          "endTime": 86001,
+          "word": "tu "
+        },
+        {
+          "startTime": 86001,
+          "endTime": 86329,
+          "word": "pelo, "
+        },
+        {
+          "startTime": 86329,
+          "endTime": 86613,
+          "word": "quiero "
+        },
+        {
+          "startTime": 86613,
+          "endTime": 86755,
+          "word": "ser "
+        },
+        {
+          "startTime": 86755,
+          "endTime": 86886,
+          "word": "tu "
+        },
+        {
+          "startTime": 86886,
+          "endTime": 87181,
+          "word": "ritmo^I "
+        },
+        {
+          "startTime": 87181,
+          "endTime": 87334,
+          "word": "want "
+        },
+        {
+          "startTime": 87334,
+          "endTime": 87465,
+          "word": "to "
+        },
+        {
+          "startTime": 87465,
+          "endTime": 87607,
+          "word": "see "
+        },
+        {
+          "startTime": 87607,
+          "endTime": 87760,
+          "word": "your "
+        },
+        {
+          "startTime": 87760,
+          "endTime": 87913,
+          "word": "hair "
+        },
+        {
+          "startTime": 87913,
+          "endTime": 88142,
+          "word": "dance, "
+        },
+        {
+          "startTime": 88142,
+          "endTime": 88262,
+          "word": "I "
+        },
+        {
+          "startTime": 88262,
+          "endTime": 88415,
+          "word": "want "
+        },
+        {
+          "startTime": 88415,
+          "endTime": 88546,
+          "word": "to "
+        },
+        {
+          "startTime": 88546,
+          "endTime": 88677,
+          "word": "be "
+        },
+        {
+          "startTime": 88677,
+          "endTime": 88830,
+          "word": "your "
+        },
+        {
+          "startTime": 88830,
+          "endTime": 89010,
+          "word": "rhythm"
+        }
+      ]
+    },
+    {
+      "time": 89010,
+      "endTime": 93870,
+      "text": "Que le enseñes a mi boca tus lugares favoritos^Let you show my mouth your favorite places",
+      "words": [
+        {
+          "startTime": 89010,
+          "endTime": 89188,
+          "word": "Que "
+        },
+        {
+          "startTime": 89188,
+          "endTime": 89352,
+          "word": "le "
+        },
+        {
+          "startTime": 89352,
+          "endTime": 89859,
+          "word": "enseñes "
+        },
+        {
+          "startTime": 89859,
+          "endTime": 90010,
+          "word": "a "
+        },
+        {
+          "startTime": 90010,
+          "endTime": 90174,
+          "word": "mi "
+        },
+        {
+          "startTime": 90174,
+          "endTime": 90503,
+          "word": "boca "
+        },
+        {
+          "startTime": 90503,
+          "endTime": 90681,
+          "word": "tus "
+        },
+        {
+          "startTime": 90681,
+          "endTime": 91188,
+          "word": "lugares "
+        },
+        {
+          "startTime": 91188,
+          "endTime": 92052,
+          "word": "favoritos^Let "
+        },
+        {
+          "startTime": 92052,
+          "endTime": 92230,
+          "word": "you "
+        },
+        {
+          "startTime": 92230,
+          "endTime": 92422,
+          "word": "show "
+        },
+        {
+          "startTime": 92422,
+          "endTime": 92586,
+          "word": "my "
+        },
+        {
+          "startTime": 92586,
+          "endTime": 92791,
+          "word": "mouth "
+        },
+        {
+          "startTime": 92791,
+          "endTime": 92983,
+          "word": "your "
+        },
+        {
+          "startTime": 92983,
+          "endTime": 93504,
+          "word": "favorite "
+        },
+        {
+          "startTime": 93504,
+          "endTime": 93870,
+          "word": "places"
+        }
+      ]
+    },
+    {
+      "time": 93870,
+      "endTime": 95930,
+      "text": "(Favoritos, favoritos, baby)^(Favorites, favorites, baby)",
+      "words": [
+        {
+          "startTime": 93870,
+          "endTime": 94292,
+          "word": "(Favoritos, "
+        },
+        {
+          "startTime": 94292,
+          "endTime": 94707,
+          "word": "favoritos, "
+        },
+        {
+          "startTime": 94707,
+          "endTime": 95325,
+          "word": "baby)^(Favorites, "
+        },
+        {
+          "startTime": 95325,
+          "endTime": 95740,
+          "word": "favorites, "
+        },
+        {
+          "startTime": 95740,
+          "endTime": 95930,
+          "word": "baby)"
+        }
+      ]
+    },
+    {
+      "time": 95930,
+      "endTime": 99680,
+      "text": "Déjame sobrepasar tus zonas de peligro^Let me go beyond your danger zones",
+      "words": [
+        {
+          "startTime": 95930,
+          "endTime": 96150,
+          "word": "Déjame "
+        },
+        {
+          "startTime": 96150,
+          "endTime": 96839,
+          "word": "sobrepasar "
+        },
+        {
+          "startTime": 96839,
+          "endTime": 97018,
+          "word": "tus "
+        },
+        {
+          "startTime": 97018,
+          "endTime": 97362,
+          "word": "zonas "
+        },
+        {
+          "startTime": 97362,
+          "endTime": 97527,
+          "word": "de "
+        },
+        {
+          "startTime": 97527,
+          "endTime": 98230,
+          "word": "peligro^Let "
+        },
+        {
+          "startTime": 98230,
+          "endTime": 98395,
+          "word": "me "
+        },
+        {
+          "startTime": 98395,
+          "endTime": 98560,
+          "word": "go "
+        },
+        {
+          "startTime": 98560,
+          "endTime": 98780,
+          "word": "beyond "
+        },
+        {
+          "startTime": 98780,
+          "endTime": 98973,
+          "word": "your "
+        },
+        {
+          "startTime": 98973,
+          "endTime": 99331,
+          "word": "danger "
+        },
+        {
+          "startTime": 99331,
+          "endTime": 99680,
+          "word": "zones"
+        }
+      ]
+    },
+    {
+      "time": 99680,
+      "endTime": 105610,
+      "text": "Hasta provocar tus gritos y que olvides tu apellido^Until I provoke your screams and you forget your last name",
+      "words": [
+        {
+          "startTime": 99680,
+          "endTime": 100048,
+          "word": "Hasta "
+        },
+        {
+          "startTime": 100048,
+          "endTime": 100608,
+          "word": "provocar "
+        },
+        {
+          "startTime": 100608,
+          "endTime": 100799,
+          "word": "tus "
+        },
+        {
+          "startTime": 100799,
+          "endTime": 101182,
+          "word": "gritos "
+        },
+        {
+          "startTime": 101182,
+          "endTime": 101344,
+          "word": "y "
+        },
+        {
+          "startTime": 101344,
+          "endTime": 101535,
+          "word": "que "
+        },
+        {
+          "startTime": 101535,
+          "endTime": 102080,
+          "word": "olvides "
+        },
+        {
+          "startTime": 102080,
+          "endTime": 102257,
+          "word": "tu "
+        },
+        {
+          "startTime": 102257,
+          "endTime": 103201,
+          "word": "apellido^Until "
+        },
+        {
+          "startTime": 103201,
+          "endTime": 103363,
+          "word": "I "
+        },
+        {
+          "startTime": 103363,
+          "endTime": 103761,
+          "word": "provoke "
+        },
+        {
+          "startTime": 103761,
+          "endTime": 103967,
+          "word": "your "
+        },
+        {
+          "startTime": 103967,
+          "endTime": 104217,
+          "word": "screams "
+        },
+        {
+          "startTime": 104217,
+          "endTime": 104408,
+          "word": "and "
+        },
+        {
+          "startTime": 104408,
+          "endTime": 104599,
+          "word": "you "
+        },
+        {
+          "startTime": 104599,
+          "endTime": 104982,
+          "word": "forget "
+        },
+        {
+          "startTime": 104982,
+          "endTime": 105188,
+          "word": "your "
+        },
+        {
+          "startTime": 105188,
+          "endTime": 105394,
+          "word": "last "
+        },
+        {
+          "startTime": 105394,
+          "endTime": 105610,
+          "word": "name"
+        }
+      ]
+    },
+    {
+      "time": 105610,
+      "endTime": 107340,
+      "text": "Si te pido un beso, ven, dámelo^If I ask you for a kiss, come, give it to me",
+      "words": [
+        {
+          "startTime": 105610,
+          "endTime": 105681,
+          "word": "Si "
+        },
+        {
+          "startTime": 105681,
+          "endTime": 105752,
+          "word": "te "
+        },
+        {
+          "startTime": 105752,
+          "endTime": 105895,
+          "word": "pido "
+        },
+        {
+          "startTime": 105895,
+          "endTime": 105966,
+          "word": "un "
+        },
+        {
+          "startTime": 105966,
+          "endTime": 106145,
+          "word": "beso, "
+        },
+        {
+          "startTime": 106145,
+          "endTime": 106258,
+          "word": "ven, "
+        },
+        {
+          "startTime": 106258,
+          "endTime": 106431,
+          "word": "dámelo^If "
+        },
+        {
+          "startTime": 106431,
+          "endTime": 106496,
+          "word": "I "
+        },
+        {
+          "startTime": 106496,
+          "endTime": 106573,
+          "word": "ask "
+        },
+        {
+          "startTime": 106573,
+          "endTime": 106650,
+          "word": "you "
+        },
+        {
+          "startTime": 106650,
+          "endTime": 106727,
+          "word": "for "
+        },
+        {
+          "startTime": 106727,
+          "endTime": 106792,
+          "word": "a "
+        },
+        {
+          "startTime": 106792,
+          "endTime": 106911,
+          "word": "kiss, "
+        },
+        {
+          "startTime": 106911,
+          "endTime": 107030,
+          "word": "come, "
+        },
+        {
+          "startTime": 107030,
+          "endTime": 107113,
+          "word": "give "
+        },
+        {
+          "startTime": 107113,
+          "endTime": 107184,
+          "word": "it "
+        },
+        {
+          "startTime": 107184,
+          "endTime": 107255,
+          "word": "to "
+        },
+        {
+          "startTime": 107255,
+          "endTime": 107340,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 107340,
+      "endTime": 108620,
+      "text": "Yo sé que estás pensándolo^I know you're thinking about it",
+      "words": [
+        {
+          "startTime": 107340,
+          "endTime": 107421,
+          "word": "Yo "
+        },
+        {
+          "startTime": 107421,
+          "endTime": 107502,
+          "word": "sé "
+        },
+        {
+          "startTime": 107502,
+          "endTime": 107590,
+          "word": "que "
+        },
+        {
+          "startTime": 107590,
+          "endTime": 107691,
+          "word": "estás "
+        },
+        {
+          "startTime": 107691,
+          "endTime": 107975,
+          "word": "pensándolo^I "
+        },
+        {
+          "startTime": 107975,
+          "endTime": 108069,
+          "word": "know "
+        },
+        {
+          "startTime": 108069,
+          "endTime": 108177,
+          "word": "you're "
+        },
+        {
+          "startTime": 108177,
+          "endTime": 108366,
+          "word": "thinking "
+        },
+        {
+          "startTime": 108366,
+          "endTime": 108535,
+          "word": "about "
+        },
+        {
+          "startTime": 108535,
+          "endTime": 108620,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 108620,
+      "endTime": 109910,
+      "text": "Llevo tiempo intentándolo^I've been trying for a while",
+      "words": [
+        {
+          "startTime": 108620,
+          "endTime": 108792,
+          "word": "Llevo "
+        },
+        {
+          "startTime": 108792,
+          "endTime": 108971,
+          "word": "tiempo "
+        },
+        {
+          "startTime": 108971,
+          "endTime": 109364,
+          "word": "intentándolo^I've "
+        },
+        {
+          "startTime": 109364,
+          "endTime": 109460,
+          "word": "been "
+        },
+        {
+          "startTime": 109460,
+          "endTime": 109570,
+          "word": "trying "
+        },
+        {
+          "startTime": 109570,
+          "endTime": 109659,
+          "word": "for "
+        },
+        {
+          "startTime": 109659,
+          "endTime": 109734,
+          "word": "a "
+        },
+        {
+          "startTime": 109734,
+          "endTime": 109910,
+          "word": "while"
+        }
+      ]
+    },
+    {
+      "time": 109910,
+      "endTime": 111360,
+      "text": "Mami, esto es dando y dándolo^Mommy, this is give and take",
+      "words": [
+        {
+          "startTime": 109910,
+          "endTime": 110100,
+          "word": "Mami, "
+        },
+        {
+          "startTime": 110100,
+          "endTime": 110252,
+          "word": "esto "
+        },
+        {
+          "startTime": 110252,
+          "endTime": 110328,
+          "word": "es "
+        },
+        {
+          "startTime": 110328,
+          "endTime": 110486,
+          "word": "dando "
+        },
+        {
+          "startTime": 110486,
+          "endTime": 110555,
+          "word": "y "
+        },
+        {
+          "startTime": 110555,
+          "endTime": 110930,
+          "word": "dándolo^Mommy, "
+        },
+        {
+          "startTime": 110930,
+          "endTime": 111019,
+          "word": "this "
+        },
+        {
+          "startTime": 111019,
+          "endTime": 111095,
+          "word": "is "
+        },
+        {
+          "startTime": 111095,
+          "endTime": 111184,
+          "word": "give "
+        },
+        {
+          "startTime": 111184,
+          "endTime": 111266,
+          "word": "and "
+        },
+        {
+          "startTime": 111266,
+          "endTime": 111360,
+          "word": "take"
+        }
+      ]
+    },
+    {
+      "time": 111360,
+      "endTime": 114060,
+      "text": "Sabes que tu corazón conmigo te hace bam-bam^You know your heart goes bam-bam with me",
+      "words": [
+        {
+          "startTime": 111360,
+          "endTime": 111584,
+          "word": "Sabes "
+        },
+        {
+          "startTime": 111584,
+          "endTime": 111700,
+          "word": "que "
+        },
+        {
+          "startTime": 111700,
+          "endTime": 111807,
+          "word": "tu "
+        },
+        {
+          "startTime": 111807,
+          "endTime": 112049,
+          "word": "corazón "
+        },
+        {
+          "startTime": 112049,
+          "endTime": 112380,
+          "word": "conmigo "
+        },
+        {
+          "startTime": 112380,
+          "endTime": 112487,
+          "word": "te "
+        },
+        {
+          "startTime": 112487,
+          "endTime": 112612,
+          "word": "hace "
+        },
+        {
+          "startTime": 112612,
+          "endTime": 113024,
+          "word": "bam-bam^You "
+        },
+        {
+          "startTime": 113024,
+          "endTime": 113149,
+          "word": "know "
+        },
+        {
+          "startTime": 113149,
+          "endTime": 113274,
+          "word": "your "
+        },
+        {
+          "startTime": 113274,
+          "endTime": 113408,
+          "word": "heart "
+        },
+        {
+          "startTime": 113408,
+          "endTime": 113533,
+          "word": "goes "
+        },
+        {
+          "startTime": 113533,
+          "endTime": 113820,
+          "word": "bam-bam "
+        },
+        {
+          "startTime": 113820,
+          "endTime": 113945,
+          "word": "with "
+        },
+        {
+          "startTime": 113945,
+          "endTime": 114060,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 114060,
+      "endTime": 116750,
+      "text": "Sabes que esa beba está buscando de mi bam-bam^You know that baby is looking for my bam-bam",
+      "words": [
+        {
+          "startTime": 114060,
+          "endTime": 114254,
+          "word": "Sabes "
+        },
+        {
+          "startTime": 114254,
+          "endTime": 114355,
+          "word": "que "
+        },
+        {
+          "startTime": 114355,
+          "endTime": 114456,
+          "word": "esa "
+        },
+        {
+          "startTime": 114456,
+          "endTime": 114643,
+          "word": "beba "
+        },
+        {
+          "startTime": 114643,
+          "endTime": 114752,
+          "word": "está "
+        },
+        {
+          "startTime": 114752,
+          "endTime": 115048,
+          "word": "buscando "
+        },
+        {
+          "startTime": 115048,
+          "endTime": 115141,
+          "word": "de "
+        },
+        {
+          "startTime": 115141,
+          "endTime": 115234,
+          "word": "mi "
+        },
+        {
+          "startTime": 115234,
+          "endTime": 115592,
+          "word": "bam-bam^You "
+        },
+        {
+          "startTime": 115592,
+          "endTime": 115701,
+          "word": "know "
+        },
+        {
+          "startTime": 115701,
+          "endTime": 115810,
+          "word": "that "
+        },
+        {
+          "startTime": 115810,
+          "endTime": 115997,
+          "word": "baby "
+        },
+        {
+          "startTime": 115997,
+          "endTime": 116090,
+          "word": "is "
+        },
+        {
+          "startTime": 116090,
+          "endTime": 116300,
+          "word": "looking "
+        },
+        {
+          "startTime": 116300,
+          "endTime": 116401,
+          "word": "for "
+        },
+        {
+          "startTime": 116401,
+          "endTime": 116494,
+          "word": "my "
+        },
+        {
+          "startTime": 116494,
+          "endTime": 116750,
+          "word": "bam-bam"
+        }
+      ]
+    },
+    {
+      "time": 116750,
+      "endTime": 119410,
+      "text": "Ven, prueba de mi boca para ver cómo te sabe^Come, taste my mouth to see how it tastes",
+      "words": [
+        {
+          "startTime": 116750,
+          "endTime": 116908,
+          "word": "Ven, "
+        },
+        {
+          "startTime": 116908,
+          "endTime": 117124,
+          "word": "prueba "
+        },
+        {
+          "startTime": 117124,
+          "endTime": 117224,
+          "word": "de "
+        },
+        {
+          "startTime": 117224,
+          "endTime": 117324,
+          "word": "mi "
+        },
+        {
+          "startTime": 117324,
+          "endTime": 117524,
+          "word": "boca "
+        },
+        {
+          "startTime": 117524,
+          "endTime": 117724,
+          "word": "para "
+        },
+        {
+          "startTime": 117724,
+          "endTime": 117832,
+          "word": "ver "
+        },
+        {
+          "startTime": 117832,
+          "endTime": 117948,
+          "word": "cómo "
+        },
+        {
+          "startTime": 117948,
+          "endTime": 118048,
+          "word": "te "
+        },
+        {
+          "startTime": 118048,
+          "endTime": 118423,
+          "word": "sabe^Come, "
+        },
+        {
+          "startTime": 118423,
+          "endTime": 118548,
+          "word": "taste "
+        },
+        {
+          "startTime": 118548,
+          "endTime": 118648,
+          "word": "my "
+        },
+        {
+          "startTime": 118648,
+          "endTime": 118773,
+          "word": "mouth "
+        },
+        {
+          "startTime": 118773,
+          "endTime": 118873,
+          "word": "to "
+        },
+        {
+          "startTime": 118873,
+          "endTime": 118981,
+          "word": "see "
+        },
+        {
+          "startTime": 118981,
+          "endTime": 119089,
+          "word": "how "
+        },
+        {
+          "startTime": 119089,
+          "endTime": 119189,
+          "word": "it "
+        },
+        {
+          "startTime": 119189,
+          "endTime": 119410,
+          "word": "tastes"
+        }
+      ]
+    },
+    {
+      "time": 119410,
+      "endTime": 122270,
+      "text": "Quiero, quiero, quiero ver cuánto amor a ti te cabe^I want, I want, I want to see how much love you can handle",
+      "words": [
+        {
+          "startTime": 119410,
+          "endTime": 119634,
+          "word": "Quiero, "
+        },
+        {
+          "startTime": 119634,
+          "endTime": 119858,
+          "word": "quiero, "
+        },
+        {
+          "startTime": 119858,
+          "endTime": 120040,
+          "word": "quiero "
+        },
+        {
+          "startTime": 120040,
+          "endTime": 120131,
+          "word": "ver "
+        },
+        {
+          "startTime": 120131,
+          "endTime": 120313,
+          "word": "cuánto "
+        },
+        {
+          "startTime": 120313,
+          "endTime": 120481,
+          "word": "amor "
+        },
+        {
+          "startTime": 120481,
+          "endTime": 120558,
+          "word": "a "
+        },
+        {
+          "startTime": 120558,
+          "endTime": 120642,
+          "word": "ti "
+        },
+        {
+          "startTime": 120642,
+          "endTime": 120726,
+          "word": "te "
+        },
+        {
+          "startTime": 120726,
+          "endTime": 120908,
+          "word": "cabe^I "
+        },
+        {
+          "startTime": 120908,
+          "endTime": 121048,
+          "word": "want, "
+        },
+        {
+          "startTime": 121048,
+          "endTime": 121125,
+          "word": "I "
+        },
+        {
+          "startTime": 121125,
+          "endTime": 121265,
+          "word": "want, "
+        },
+        {
+          "startTime": 121265,
+          "endTime": 121342,
+          "word": "I "
+        },
+        {
+          "startTime": 121342,
+          "endTime": 121440,
+          "word": "want "
+        },
+        {
+          "startTime": 121440,
+          "endTime": 121524,
+          "word": "to "
+        },
+        {
+          "startTime": 121524,
+          "endTime": 121615,
+          "word": "see "
+        },
+        {
+          "startTime": 121615,
+          "endTime": 121706,
+          "word": "how "
+        },
+        {
+          "startTime": 121706,
+          "endTime": 121804,
+          "word": "much "
+        },
+        {
+          "startTime": 121804,
+          "endTime": 121902,
+          "word": "love "
+        },
+        {
+          "startTime": 121902,
+          "endTime": 121993,
+          "word": "you "
+        },
+        {
+          "startTime": 121993,
+          "endTime": 122084,
+          "word": "can "
+        },
+        {
+          "startTime": 122084,
+          "endTime": 122270,
+          "word": "handle"
+        }
+      ]
+    },
+    {
+      "time": 122270,
+      "endTime": 124920,
+      "text": "Yo no tengo prisa, yo me quiero dar el viaje^I'm not in a hurry, I want to take the trip",
+      "words": [
+        {
+          "startTime": 122270,
+          "endTime": 122366,
+          "word": "Yo "
+        },
+        {
+          "startTime": 122366,
+          "endTime": 122462,
+          "word": "no "
+        },
+        {
+          "startTime": 122462,
+          "endTime": 122663,
+          "word": "tengo "
+        },
+        {
+          "startTime": 122663,
+          "endTime": 122912,
+          "word": "prisa, "
+        },
+        {
+          "startTime": 122912,
+          "endTime": 123008,
+          "word": "yo "
+        },
+        {
+          "startTime": 123008,
+          "endTime": 123104,
+          "word": "me "
+        },
+        {
+          "startTime": 123104,
+          "endTime": 123313,
+          "word": "quiero "
+        },
+        {
+          "startTime": 123313,
+          "endTime": 123417,
+          "word": "dar "
+        },
+        {
+          "startTime": 123417,
+          "endTime": 123513,
+          "word": "el "
+        },
+        {
+          "startTime": 123513,
+          "endTime": 123746,
+          "word": "viaje^I'm "
+        },
+        {
+          "startTime": 123746,
+          "endTime": 123850,
+          "word": "not "
+        },
+        {
+          "startTime": 123850,
+          "endTime": 123946,
+          "word": "in "
+        },
+        {
+          "startTime": 123946,
+          "endTime": 124034,
+          "word": "a "
+        },
+        {
+          "startTime": 124034,
+          "endTime": 124283,
+          "word": "hurry, "
+        },
+        {
+          "startTime": 124283,
+          "endTime": 124371,
+          "word": "I "
+        },
+        {
+          "startTime": 124371,
+          "endTime": 124483,
+          "word": "want "
+        },
+        {
+          "startTime": 124483,
+          "endTime": 124579,
+          "word": "to "
+        },
+        {
+          "startTime": 124579,
+          "endTime": 124691,
+          "word": "take "
+        },
+        {
+          "startTime": 124691,
+          "endTime": 124795,
+          "word": "the "
+        },
+        {
+          "startTime": 124795,
+          "endTime": 124920,
+          "word": "trip"
+        }
+      ]
+    },
+    {
+      "time": 124920,
+      "endTime": 127390,
+      "text": "Empezamos lento, después salvaje^We start slow, then wild",
+      "words": [
+        {
+          "startTime": 124920,
+          "endTime": 125496,
+          "word": "Empezamos "
+        },
+        {
+          "startTime": 125496,
+          "endTime": 125860,
+          "word": "lento, "
+        },
+        {
+          "startTime": 125860,
+          "endTime": 126177,
+          "word": "después "
+        },
+        {
+          "startTime": 126177,
+          "endTime": 126647,
+          "word": "salvaje^We "
+        },
+        {
+          "startTime": 126647,
+          "endTime": 126823,
+          "word": "start "
+        },
+        {
+          "startTime": 126823,
+          "endTime": 127058,
+          "word": "slow, "
+        },
+        {
+          "startTime": 127058,
+          "endTime": 127222,
+          "word": "then "
+        },
+        {
+          "startTime": 127222,
+          "endTime": 127390,
+          "word": "wild"
+        }
+      ]
+    },
+    {
+      "time": 127390,
+      "endTime": 130130,
+      "text": "Pasito a pasito, suave, suavecito^Step by step, soft, very softly",
+      "words": [
+        {
+          "startTime": 127390,
+          "endTime": 127747,
+          "word": "Pasito "
+        },
+        {
+          "startTime": 127747,
+          "endTime": 127856,
+          "word": "a "
+        },
+        {
+          "startTime": 127856,
+          "endTime": 128272,
+          "word": "pasito, "
+        },
+        {
+          "startTime": 128272,
+          "endTime": 128480,
+          "word": "suave, "
+        },
+        {
+          "startTime": 128480,
+          "endTime": 129115,
+          "word": "suavecito^Step "
+        },
+        {
+          "startTime": 129115,
+          "endTime": 129234,
+          "word": "by "
+        },
+        {
+          "startTime": 129234,
+          "endTime": 129432,
+          "word": "step, "
+        },
+        {
+          "startTime": 129432,
+          "endTime": 129630,
+          "word": "soft, "
+        },
+        {
+          "startTime": 129630,
+          "endTime": 129868,
+          "word": "very "
+        },
+        {
+          "startTime": 129868,
+          "endTime": 130130,
+          "word": "softly"
+        }
+      ]
+    },
+    {
+      "time": 130130,
+      "endTime": 133020,
+      "text": "Nos vamos pegando poquito a poquito^We're getting closer little by little",
+      "words": [
+        {
+          "startTime": 130130,
+          "endTime": 130258,
+          "word": "Nos "
+        },
+        {
+          "startTime": 130258,
+          "endTime": 130504,
+          "word": "vamos "
+        },
+        {
+          "startTime": 130504,
+          "endTime": 130868,
+          "word": "pegando "
+        },
+        {
+          "startTime": 130868,
+          "endTime": 131232,
+          "word": "poquito "
+        },
+        {
+          "startTime": 131232,
+          "endTime": 131340,
+          "word": "a "
+        },
+        {
+          "startTime": 131340,
+          "endTime": 131862,
+          "word": "poquito^We're "
+        },
+        {
+          "startTime": 131862,
+          "endTime": 132128,
+          "word": "getting "
+        },
+        {
+          "startTime": 132128,
+          "endTime": 132384,
+          "word": "closer "
+        },
+        {
+          "startTime": 132384,
+          "endTime": 132640,
+          "word": "little "
+        },
+        {
+          "startTime": 132640,
+          "endTime": 132758,
+          "word": "by "
+        },
+        {
+          "startTime": 132758,
+          "endTime": 133020,
+          "word": "little"
+        }
+      ]
+    },
+    {
+      "time": 133020,
+      "endTime": 135770,
+      "text": "Cuando tú me besas con esa destreza^When you kiss me with that skill",
+      "words": [
+        {
+          "startTime": 133020,
+          "endTime": 133322,
+          "word": "Cuando "
+        },
+        {
+          "startTime": 133322,
+          "endTime": 133461,
+          "word": "tú "
+        },
+        {
+          "startTime": 133461,
+          "endTime": 133600,
+          "word": "me "
+        },
+        {
+          "startTime": 133600,
+          "endTime": 133891,
+          "word": "besas "
+        },
+        {
+          "startTime": 133891,
+          "endTime": 134042,
+          "word": "con "
+        },
+        {
+          "startTime": 134042,
+          "endTime": 134193,
+          "word": "esa "
+        },
+        {
+          "startTime": 134193,
+          "endTime": 134810,
+          "word": "destreza^When "
+        },
+        {
+          "startTime": 134810,
+          "endTime": 134961,
+          "word": "you "
+        },
+        {
+          "startTime": 134961,
+          "endTime": 135124,
+          "word": "kiss "
+        },
+        {
+          "startTime": 135124,
+          "endTime": 135263,
+          "word": "me "
+        },
+        {
+          "startTime": 135263,
+          "endTime": 135426,
+          "word": "with "
+        },
+        {
+          "startTime": 135426,
+          "endTime": 135589,
+          "word": "that "
+        },
+        {
+          "startTime": 135589,
+          "endTime": 135770,
+          "word": "skill"
+        }
+      ]
+    },
+    {
+      "time": 135770,
+      "endTime": 138190,
+      "text": "Veo que eres malicia con delicadeza^I see that you are mischief with delicacy",
+      "words": [
+        {
+          "startTime": 135770,
+          "endTime": 135873,
+          "word": "Veo "
+        },
+        {
+          "startTime": 135873,
+          "endTime": 135976,
+          "word": "que "
+        },
+        {
+          "startTime": 135976,
+          "endTime": 136166,
+          "word": "eres "
+        },
+        {
+          "startTime": 136166,
+          "endTime": 136459,
+          "word": "malicia "
+        },
+        {
+          "startTime": 136459,
+          "endTime": 136562,
+          "word": "con "
+        },
+        {
+          "startTime": 136562,
+          "endTime": 137053,
+          "word": "delicadeza^I "
+        },
+        {
+          "startTime": 137053,
+          "endTime": 137156,
+          "word": "see "
+        },
+        {
+          "startTime": 137156,
+          "endTime": 137267,
+          "word": "that "
+        },
+        {
+          "startTime": 137267,
+          "endTime": 137370,
+          "word": "you "
+        },
+        {
+          "startTime": 137370,
+          "endTime": 137473,
+          "word": "are "
+        },
+        {
+          "startTime": 137473,
+          "endTime": 137695,
+          "word": "mischief "
+        },
+        {
+          "startTime": 137695,
+          "endTime": 137806,
+          "word": "with "
+        },
+        {
+          "startTime": 137806,
+          "endTime": 138190,
+          "word": "delicacy"
+        }
+      ]
+    },
+    {
+      "time": 138190,
+      "endTime": 141100,
+      "text": "Pasito a pasito, suave, suavecito^Step by step, soft, very softly",
+      "words": [
+        {
+          "startTime": 138190,
+          "endTime": 138569,
+          "word": "Pasito "
+        },
+        {
+          "startTime": 138569,
+          "endTime": 138684,
+          "word": "a "
+        },
+        {
+          "startTime": 138684,
+          "endTime": 139126,
+          "word": "pasito, "
+        },
+        {
+          "startTime": 139126,
+          "endTime": 139347,
+          "word": "suave, "
+        },
+        {
+          "startTime": 139347,
+          "endTime": 140021,
+          "word": "suavecito^Step "
+        },
+        {
+          "startTime": 140021,
+          "endTime": 140147,
+          "word": "by "
+        },
+        {
+          "startTime": 140147,
+          "endTime": 140357,
+          "word": "step, "
+        },
+        {
+          "startTime": 140357,
+          "endTime": 140567,
+          "word": "soft, "
+        },
+        {
+          "startTime": 140567,
+          "endTime": 140820,
+          "word": "very "
+        },
+        {
+          "startTime": 140820,
+          "endTime": 141100,
+          "word": "softly"
+        }
+      ]
+    },
+    {
+      "time": 141100,
+      "endTime": 143710,
+      "text": "Nos vamos pegando poquito a poquito^We're getting closer little by little",
+      "words": [
+        {
+          "startTime": 141100,
+          "endTime": 141215,
+          "word": "Nos "
+        },
+        {
+          "startTime": 141215,
+          "endTime": 141437,
+          "word": "vamos "
+        },
+        {
+          "startTime": 141437,
+          "endTime": 141766,
+          "word": "pegando "
+        },
+        {
+          "startTime": 141766,
+          "endTime": 142095,
+          "word": "poquito "
+        },
+        {
+          "startTime": 142095,
+          "endTime": 142192,
+          "word": "a "
+        },
+        {
+          "startTime": 142192,
+          "endTime": 142664,
+          "word": "poquito^We're "
+        },
+        {
+          "startTime": 142664,
+          "endTime": 142904,
+          "word": "getting "
+        },
+        {
+          "startTime": 142904,
+          "endTime": 143135,
+          "word": "closer "
+        },
+        {
+          "startTime": 143135,
+          "endTime": 143366,
+          "word": "little "
+        },
+        {
+          "startTime": 143366,
+          "endTime": 143472,
+          "word": "by "
+        },
+        {
+          "startTime": 143472,
+          "endTime": 143710,
+          "word": "little"
+        }
+      ]
+    },
+    {
+      "time": 143710,
+      "endTime": 146320,
+      "text": "Y es que esa belleza es un rompecabezas^And that beauty is a puzzle",
+      "words": [
+        {
+          "startTime": 143710,
+          "endTime": 143814,
+          "word": "Y "
+        },
+        {
+          "startTime": 143814,
+          "endTime": 143927,
+          "word": "es "
+        },
+        {
+          "startTime": 143927,
+          "endTime": 144050,
+          "word": "que "
+        },
+        {
+          "startTime": 144050,
+          "endTime": 144173,
+          "word": "esa "
+        },
+        {
+          "startTime": 144173,
+          "endTime": 144524,
+          "word": "belleza "
+        },
+        {
+          "startTime": 144524,
+          "endTime": 144637,
+          "word": "es "
+        },
+        {
+          "startTime": 144637,
+          "endTime": 144750,
+          "word": "un "
+        },
+        {
+          "startTime": 144750,
+          "endTime": 145471,
+          "word": "rompecabezas^And "
+        },
+        {
+          "startTime": 145471,
+          "endTime": 145603,
+          "word": "that "
+        },
+        {
+          "startTime": 145603,
+          "endTime": 145849,
+          "word": "beauty "
+        },
+        {
+          "startTime": 145849,
+          "endTime": 145962,
+          "word": "is "
+        },
+        {
+          "startTime": 145962,
+          "endTime": 146066,
+          "word": "a "
+        },
+        {
+          "startTime": 146066,
+          "endTime": 146320,
+          "word": "puzzle"
+        }
+      ]
+    },
+    {
+      "time": 146320,
+      "endTime": 149820,
+      "text": "Pero pa' montarlo, aquí tengo la pieza, oye^But to put it together, I have the piece here, hey",
+      "words": [
+        {
+          "startTime": 146320,
+          "endTime": 146548,
+          "word": "Pero "
+        },
+        {
+          "startTime": 146548,
+          "endTime": 146671,
+          "word": "pa' "
+        },
+        {
+          "startTime": 146671,
+          "endTime": 147090,
+          "word": "montarlo, "
+        },
+        {
+          "startTime": 147090,
+          "endTime": 147318,
+          "word": "aquí "
+        },
+        {
+          "startTime": 147318,
+          "endTime": 147556,
+          "word": "tengo "
+        },
+        {
+          "startTime": 147556,
+          "endTime": 147670,
+          "word": "la "
+        },
+        {
+          "startTime": 147670,
+          "endTime": 147965,
+          "word": "pieza, "
+        },
+        {
+          "startTime": 147965,
+          "endTime": 148222,
+          "word": "oye^But "
+        },
+        {
+          "startTime": 148222,
+          "endTime": 148336,
+          "word": "to "
+        },
+        {
+          "startTime": 148336,
+          "endTime": 148459,
+          "word": "put "
+        },
+        {
+          "startTime": 148459,
+          "endTime": 148573,
+          "word": "it "
+        },
+        {
+          "startTime": 148573,
+          "endTime": 148992,
+          "word": "together, "
+        },
+        {
+          "startTime": 148992,
+          "endTime": 149096,
+          "word": "I "
+        },
+        {
+          "startTime": 149096,
+          "endTime": 149229,
+          "word": "have "
+        },
+        {
+          "startTime": 149229,
+          "endTime": 149352,
+          "word": "the "
+        },
+        {
+          "startTime": 149352,
+          "endTime": 149495,
+          "word": "piece "
+        },
+        {
+          "startTime": 149495,
+          "endTime": 149685,
+          "word": "here, "
+        },
+        {
+          "startTime": 149685,
+          "endTime": 149820,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 149820,
+      "endTime": 151900,
+      "text": "Despacito^Slowly",
+      "words": [
+        {
+          "startTime": 149820,
+          "endTime": 151900,
+          "word": "Despacito^Slowly"
+        }
+      ]
+    },
+    {
+      "time": 151900,
+      "endTime": 154700,
+      "text": "Quiero respirar tu cuello despacito^I want to breathe your neck slowly",
+      "words": [
+        {
+          "startTime": 151900,
+          "endTime": 152191,
+          "word": "Quiero "
+        },
+        {
+          "startTime": 152191,
+          "endTime": 152616,
+          "word": "respirar "
+        },
+        {
+          "startTime": 152616,
+          "endTime": 152750,
+          "word": "tu "
+        },
+        {
+          "startTime": 152750,
+          "endTime": 153041,
+          "word": "cuello "
+        },
+        {
+          "startTime": 153041,
+          "endTime": 153612,
+          "word": "despacito^I "
+        },
+        {
+          "startTime": 153612,
+          "endTime": 153768,
+          "word": "want "
+        },
+        {
+          "startTime": 153768,
+          "endTime": 153902,
+          "word": "to "
+        },
+        {
+          "startTime": 153902,
+          "endTime": 154092,
+          "word": "breathe "
+        },
+        {
+          "startTime": 154092,
+          "endTime": 154248,
+          "word": "your "
+        },
+        {
+          "startTime": 154248,
+          "endTime": 154404,
+          "word": "neck "
+        },
+        {
+          "startTime": 154404,
+          "endTime": 154700,
+          "word": "slowly"
+        }
+      ]
+    },
+    {
+      "time": 154700,
+      "endTime": 157160,
+      "text": "Deja que te diga cosas al oído^Let me whisper things in your ear",
+      "words": [
+        {
+          "startTime": 154700,
+          "endTime": 154943,
+          "word": "Deja "
+        },
+        {
+          "startTime": 154943,
+          "endTime": 155075,
+          "word": "que "
+        },
+        {
+          "startTime": 155075,
+          "endTime": 155196,
+          "word": "te "
+        },
+        {
+          "startTime": 155196,
+          "endTime": 155439,
+          "word": "diga "
+        },
+        {
+          "startTime": 155439,
+          "endTime": 155693,
+          "word": "cosas "
+        },
+        {
+          "startTime": 155693,
+          "endTime": 155814,
+          "word": "al "
+        },
+        {
+          "startTime": 155814,
+          "endTime": 156200,
+          "word": "oído^Let "
+        },
+        {
+          "startTime": 156200,
+          "endTime": 156321,
+          "word": "me "
+        },
+        {
+          "startTime": 156321,
+          "endTime": 156595,
+          "word": "whisper "
+        },
+        {
+          "startTime": 156595,
+          "endTime": 156757,
+          "word": "things "
+        },
+        {
+          "startTime": 156757,
+          "endTime": 156878,
+          "word": "in "
+        },
+        {
+          "startTime": 156878,
+          "endTime": 157020,
+          "word": "your "
+        },
+        {
+          "startTime": 157020,
+          "endTime": 157160,
+          "word": "ear"
+        }
+      ]
+    },
+    {
+      "time": 157160,
+      "endTime": 160760,
+      "text": "Para que te acuerdes si no estás conmigo^So you remember me when you're not with me",
+      "words": [
+        {
+          "startTime": 157160,
+          "endTime": 157440,
+          "word": "Para "
+        },
+        {
+          "startTime": 157440,
+          "endTime": 157591,
+          "word": "que "
+        },
+        {
+          "startTime": 157591,
+          "endTime": 157731,
+          "word": "te "
+        },
+        {
+          "startTime": 157731,
+          "endTime": 158175,
+          "word": "acuerdes "
+        },
+        {
+          "startTime": 158175,
+          "endTime": 158315,
+          "word": "si "
+        },
+        {
+          "startTime": 158315,
+          "endTime": 158455,
+          "word": "no "
+        },
+        {
+          "startTime": 158455,
+          "endTime": 158630,
+          "word": "estás "
+        },
+        {
+          "startTime": 158630,
+          "endTime": 159214,
+          "word": "conmigo^So "
+        },
+        {
+          "startTime": 159214,
+          "endTime": 159365,
+          "word": "you "
+        },
+        {
+          "startTime": 159365,
+          "endTime": 159809,
+          "word": "remember "
+        },
+        {
+          "startTime": 159809,
+          "endTime": 159949,
+          "word": "me "
+        },
+        {
+          "startTime": 159949,
+          "endTime": 160112,
+          "word": "when "
+        },
+        {
+          "startTime": 160112,
+          "endTime": 160299,
+          "word": "you're "
+        },
+        {
+          "startTime": 160299,
+          "endTime": 160450,
+          "word": "not "
+        },
+        {
+          "startTime": 160450,
+          "endTime": 160613,
+          "word": "with "
+        },
+        {
+          "startTime": 160613,
+          "endTime": 160760,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 160760,
+      "endTime": 162640,
+      "text": "Despacito^Slowly",
+      "words": [
+        {
+          "startTime": 160760,
+          "endTime": 162640,
+          "word": "Despacito^Slowly"
+        }
+      ]
+    },
+    {
+      "time": 162640,
+      "endTime": 165210,
+      "text": "Quiero desnudarte a besos despacito^I want To undress you with kisses, slowly",
+      "words": [
+        {
+          "startTime": 162640,
+          "endTime": 162869,
+          "word": "Quiero "
+        },
+        {
+          "startTime": 162869,
+          "endTime": 163222,
+          "word": "desnudarte "
+        },
+        {
+          "startTime": 163222,
+          "endTime": 163319,
+          "word": "a "
+        },
+        {
+          "startTime": 163319,
+          "endTime": 163539,
+          "word": "besos "
+        },
+        {
+          "startTime": 163539,
+          "endTime": 163989,
+          "word": "despacito^I "
+        },
+        {
+          "startTime": 163989,
+          "endTime": 164112,
+          "word": "want "
+        },
+        {
+          "startTime": 164112,
+          "endTime": 164217,
+          "word": "To "
+        },
+        {
+          "startTime": 164217,
+          "endTime": 164455,
+          "word": "undress "
+        },
+        {
+          "startTime": 164455,
+          "endTime": 164569,
+          "word": "you "
+        },
+        {
+          "startTime": 164569,
+          "endTime": 164692,
+          "word": "with "
+        },
+        {
+          "startTime": 164692,
+          "endTime": 164974,
+          "word": "kisses, "
+        },
+        {
+          "startTime": 164974,
+          "endTime": 165210,
+          "word": "slowly"
+        }
+      ]
+    },
+    {
+      "time": 165210,
+      "endTime": 168070,
+      "text": "Firmar las paredes de tu laberinto^To sign the walls of your labyrinth",
+      "words": [
+        {
+          "startTime": 165210,
+          "endTime": 165486,
+          "word": "Firmar "
+        },
+        {
+          "startTime": 165486,
+          "endTime": 165624,
+          "word": "las "
+        },
+        {
+          "startTime": 165624,
+          "endTime": 166017,
+          "word": "paredes "
+        },
+        {
+          "startTime": 166017,
+          "endTime": 166144,
+          "word": "de "
+        },
+        {
+          "startTime": 166144,
+          "endTime": 166271,
+          "word": "tu "
+        },
+        {
+          "startTime": 166271,
+          "endTime": 166930,
+          "word": "laberinto^To "
+        },
+        {
+          "startTime": 166930,
+          "endTime": 167078,
+          "word": "sign "
+        },
+        {
+          "startTime": 167078,
+          "endTime": 167216,
+          "word": "the "
+        },
+        {
+          "startTime": 167216,
+          "endTime": 167375,
+          "word": "walls "
+        },
+        {
+          "startTime": 167375,
+          "endTime": 167502,
+          "word": "of "
+        },
+        {
+          "startTime": 167502,
+          "endTime": 167650,
+          "word": "your "
+        },
+        {
+          "startTime": 167650,
+          "endTime": 168070,
+          "word": "labyrinth"
+        }
+      ]
+    },
+    {
+      "time": 168070,
+      "endTime": 171610,
+      "text": "Y hacer de tu cuerpo todo un manuscrito (sube, sube, sube)^And make your body a complete manuscript (go up, go up, go up)",
+      "words": [
+        {
+          "startTime": 168070,
+          "endTime": 168154,
+          "word": "Y "
+        },
+        {
+          "startTime": 168154,
+          "endTime": 168346,
+          "word": "hacer "
+        },
+        {
+          "startTime": 168346,
+          "endTime": 168438,
+          "word": "de "
+        },
+        {
+          "startTime": 168438,
+          "endTime": 168530,
+          "word": "tu "
+        },
+        {
+          "startTime": 168530,
+          "endTime": 168730,
+          "word": "cuerpo "
+        },
+        {
+          "startTime": 168730,
+          "endTime": 168915,
+          "word": "todo "
+        },
+        {
+          "startTime": 168915,
+          "endTime": 169007,
+          "word": "un "
+        },
+        {
+          "startTime": 169007,
+          "endTime": 169392,
+          "word": "manuscrito "
+        },
+        {
+          "startTime": 169392,
+          "endTime": 169553,
+          "word": "(sube, "
+        },
+        {
+          "startTime": 169553,
+          "endTime": 169707,
+          "word": "sube, "
+        },
+        {
+          "startTime": 169707,
+          "endTime": 169930,
+          "word": "sube)^And "
+        },
+        {
+          "startTime": 169930,
+          "endTime": 170037,
+          "word": "make "
+        },
+        {
+          "startTime": 170037,
+          "endTime": 170144,
+          "word": "your "
+        },
+        {
+          "startTime": 170144,
+          "endTime": 170329,
+          "word": "body "
+        },
+        {
+          "startTime": 170329,
+          "endTime": 170413,
+          "word": "a "
+        },
+        {
+          "startTime": 170413,
+          "endTime": 170628,
+          "word": "complete "
+        },
+        {
+          "startTime": 170628,
+          "endTime": 170936,
+          "word": "manuscript "
+        },
+        {
+          "startTime": 170936,
+          "endTime": 171036,
+          "word": "(go "
+        },
+        {
+          "startTime": 171036,
+          "endTime": 171174,
+          "word": "up, "
+        },
+        {
+          "startTime": 171174,
+          "endTime": 171266,
+          "word": "go "
+        },
+        {
+          "startTime": 171266,
+          "endTime": 171404,
+          "word": "up, "
+        },
+        {
+          "startTime": 171404,
+          "endTime": 171496,
+          "word": "go "
+        },
+        {
+          "startTime": 171496,
+          "endTime": 171610,
+          "word": "up)"
+        }
+      ]
+    },
+    {
+      "time": 171610,
+      "endTime": 172720,
+      "text": "Sube, sube (oh)^Go up, go up (oh)",
+      "words": [
+        {
+          "startTime": 171610,
+          "endTime": 171799,
+          "word": "Sube, "
+        },
+        {
+          "startTime": 171799,
+          "endTime": 171931,
+          "word": "sube "
+        },
+        {
+          "startTime": 171931,
+          "endTime": 172187,
+          "word": "(oh)^Go "
+        },
+        {
+          "startTime": 172187,
+          "endTime": 172357,
+          "word": "up, "
+        },
+        {
+          "startTime": 172357,
+          "endTime": 172470,
+          "word": "go "
+        },
+        {
+          "startTime": 172470,
+          "endTime": 172583,
+          "word": "up "
+        },
+        {
+          "startTime": 172583,
+          "endTime": 172720,
+          "word": "(oh)"
+        }
+      ]
+    },
+    {
+      "time": 172720,
+      "endTime": 176840,
+      "text": "Quiero ver bailar tu pelo, quiero ser tu ritmo^I want to see your hair dance, I want to be your rhythm",
+      "words": [
+        {
+          "startTime": 172720,
+          "endTime": 173024,
+          "word": "Quiero "
+        },
+        {
+          "startTime": 173024,
+          "endTime": 173176,
+          "word": "ver "
+        },
+        {
+          "startTime": 173176,
+          "endTime": 173480,
+          "word": "bailar "
+        },
+        {
+          "startTime": 173480,
+          "endTime": 173620,
+          "word": "tu "
+        },
+        {
+          "startTime": 173620,
+          "endTime": 173971,
+          "word": "pelo, "
+        },
+        {
+          "startTime": 173971,
+          "endTime": 174275,
+          "word": "quiero "
+        },
+        {
+          "startTime": 174275,
+          "endTime": 174427,
+          "word": "ser "
+        },
+        {
+          "startTime": 174427,
+          "endTime": 174567,
+          "word": "tu "
+        },
+        {
+          "startTime": 174567,
+          "endTime": 174883,
+          "word": "ritmo^I "
+        },
+        {
+          "startTime": 174883,
+          "endTime": 175046,
+          "word": "want "
+        },
+        {
+          "startTime": 175046,
+          "endTime": 175186,
+          "word": "to "
+        },
+        {
+          "startTime": 175186,
+          "endTime": 175338,
+          "word": "see "
+        },
+        {
+          "startTime": 175338,
+          "endTime": 175501,
+          "word": "your "
+        },
+        {
+          "startTime": 175501,
+          "endTime": 175664,
+          "word": "hair "
+        },
+        {
+          "startTime": 175664,
+          "endTime": 175909,
+          "word": "dance, "
+        },
+        {
+          "startTime": 175909,
+          "endTime": 176037,
+          "word": "I "
+        },
+        {
+          "startTime": 176037,
+          "endTime": 176200,
+          "word": "want "
+        },
+        {
+          "startTime": 176200,
+          "endTime": 176340,
+          "word": "to "
+        },
+        {
+          "startTime": 176340,
+          "endTime": 176480,
+          "word": "be "
+        },
+        {
+          "startTime": 176480,
+          "endTime": 176643,
+          "word": "your "
+        },
+        {
+          "startTime": 176643,
+          "endTime": 176840,
+          "word": "rhythm"
+        }
+      ]
+    },
+    {
+      "time": 176840,
+      "endTime": 181640,
+      "text": "Que le enseñes a mi boca tus lugares favoritos^For you to show my mouth your favorite places",
+      "words": [
+        {
+          "startTime": 176840,
+          "endTime": 177010,
+          "word": "Que "
+        },
+        {
+          "startTime": 177010,
+          "endTime": 177167,
+          "word": "le "
+        },
+        {
+          "startTime": 177167,
+          "endTime": 177652,
+          "word": "enseñes "
+        },
+        {
+          "startTime": 177652,
+          "endTime": 177796,
+          "word": "a "
+        },
+        {
+          "startTime": 177796,
+          "endTime": 177953,
+          "word": "mi "
+        },
+        {
+          "startTime": 177953,
+          "endTime": 178267,
+          "word": "boca "
+        },
+        {
+          "startTime": 178267,
+          "endTime": 178437,
+          "word": "tus "
+        },
+        {
+          "startTime": 178437,
+          "endTime": 178922,
+          "word": "lugares "
+        },
+        {
+          "startTime": 178922,
+          "endTime": 179748,
+          "word": "favoritos^For "
+        },
+        {
+          "startTime": 179748,
+          "endTime": 179918,
+          "word": "you "
+        },
+        {
+          "startTime": 179918,
+          "endTime": 180075,
+          "word": "to "
+        },
+        {
+          "startTime": 180075,
+          "endTime": 180258,
+          "word": "show "
+        },
+        {
+          "startTime": 180258,
+          "endTime": 180415,
+          "word": "my "
+        },
+        {
+          "startTime": 180415,
+          "endTime": 180611,
+          "word": "mouth "
+        },
+        {
+          "startTime": 180611,
+          "endTime": 180794,
+          "word": "your "
+        },
+        {
+          "startTime": 180794,
+          "endTime": 181292,
+          "word": "favorite "
+        },
+        {
+          "startTime": 181292,
+          "endTime": 181640,
+          "word": "places"
+        }
+      ]
+    },
+    {
+      "time": 181640,
+      "endTime": 183510,
+      "text": "(Favoritos, favoritos, baby)^(Favorite, favorite, baby)",
+      "words": [
+        {
+          "startTime": 181640,
+          "endTime": 182057,
+          "word": "(Favoritos, "
+        },
+        {
+          "startTime": 182057,
+          "endTime": 182466,
+          "word": "favoritos, "
+        },
+        {
+          "startTime": 182466,
+          "endTime": 182994,
+          "word": "baby)^(Favorite, "
+        },
+        {
+          "startTime": 182994,
+          "endTime": 183321,
+          "word": "favorite, "
+        },
+        {
+          "startTime": 183321,
+          "endTime": 183510,
+          "word": "baby)"
+        }
+      ]
+    },
+    {
+      "time": 183510,
+      "endTime": 187450,
+      "text": "Déjame sobrepasar tus zonas de peligro^Let me go beyond your danger zones",
+      "words": [
+        {
+          "startTime": 183510,
+          "endTime": 183741,
+          "word": "Déjame "
+        },
+        {
+          "startTime": 183741,
+          "endTime": 184465,
+          "word": "sobrepasar "
+        },
+        {
+          "startTime": 184465,
+          "endTime": 184653,
+          "word": "tus "
+        },
+        {
+          "startTime": 184653,
+          "endTime": 185015,
+          "word": "zonas "
+        },
+        {
+          "startTime": 185015,
+          "endTime": 185188,
+          "word": "de "
+        },
+        {
+          "startTime": 185188,
+          "endTime": 185926,
+          "word": "peligro^Let "
+        },
+        {
+          "startTime": 185926,
+          "endTime": 186099,
+          "word": "me "
+        },
+        {
+          "startTime": 186099,
+          "endTime": 186272,
+          "word": "go "
+        },
+        {
+          "startTime": 186272,
+          "endTime": 186503,
+          "word": "beyond "
+        },
+        {
+          "startTime": 186503,
+          "endTime": 186705,
+          "word": "your "
+        },
+        {
+          "startTime": 186705,
+          "endTime": 187081,
+          "word": "danger "
+        },
+        {
+          "startTime": 187081,
+          "endTime": 187450,
+          "word": "zones"
+        }
+      ]
+    },
+    {
+      "time": 187450,
+      "endTime": 193080,
+      "text": "Hasta provocar tus gritos y que olvides tu apellido^Until I provoke your screams and you forget your last name",
+      "words": [
+        {
+          "startTime": 187450,
+          "endTime": 187800,
+          "word": "Hasta "
+        },
+        {
+          "startTime": 187800,
+          "endTime": 188332,
+          "word": "provocar "
+        },
+        {
+          "startTime": 188332,
+          "endTime": 188514,
+          "word": "tus "
+        },
+        {
+          "startTime": 188514,
+          "endTime": 188878,
+          "word": "gritos "
+        },
+        {
+          "startTime": 188878,
+          "endTime": 189032,
+          "word": "y "
+        },
+        {
+          "startTime": 189032,
+          "endTime": 189214,
+          "word": "que "
+        },
+        {
+          "startTime": 189214,
+          "endTime": 189732,
+          "word": "olvides "
+        },
+        {
+          "startTime": 189732,
+          "endTime": 189900,
+          "word": "tu "
+        },
+        {
+          "startTime": 189900,
+          "endTime": 190796,
+          "word": "apellido^Until "
+        },
+        {
+          "startTime": 190796,
+          "endTime": 190950,
+          "word": "I "
+        },
+        {
+          "startTime": 190950,
+          "endTime": 191328,
+          "word": "provoke "
+        },
+        {
+          "startTime": 191328,
+          "endTime": 191524,
+          "word": "your "
+        },
+        {
+          "startTime": 191524,
+          "endTime": 191762,
+          "word": "screams "
+        },
+        {
+          "startTime": 191762,
+          "endTime": 191944,
+          "word": "and "
+        },
+        {
+          "startTime": 191944,
+          "endTime": 192126,
+          "word": "you "
+        },
+        {
+          "startTime": 192126,
+          "endTime": 192490,
+          "word": "forget "
+        },
+        {
+          "startTime": 192490,
+          "endTime": 192686,
+          "word": "your "
+        },
+        {
+          "startTime": 192686,
+          "endTime": 192882,
+          "word": "last "
+        },
+        {
+          "startTime": 192882,
+          "endTime": 193080,
+          "word": "name"
+        }
+      ]
+    },
+    {
+      "time": 193080,
+      "endTime": 194930,
+      "text": "Despacito^Slowly",
+      "words": [
+        {
+          "startTime": 193080,
+          "endTime": 194930,
+          "word": "Despacito^Slowly"
+        }
+      ]
+    },
+    {
+      "time": 194930,
+      "endTime": 197660,
+      "text": "Vamo' a hacerlo en una playa en Puerto Rico^Let's do it on a beach in Puerto Rico",
+      "words": [
+        {
+          "startTime": 194930,
+          "endTime": 195146,
+          "word": "Vamo' "
+        },
+        {
+          "startTime": 195146,
+          "endTime": 195241,
+          "word": "a "
+        },
+        {
+          "startTime": 195241,
+          "endTime": 195561,
+          "word": "hacerlo "
+        },
+        {
+          "startTime": 195561,
+          "endTime": 195665,
+          "word": "en "
+        },
+        {
+          "startTime": 195665,
+          "endTime": 195777,
+          "word": "una "
+        },
+        {
+          "startTime": 195777,
+          "endTime": 195907,
+          "word": "playa "
+        },
+        {
+          "startTime": 195907,
+          "endTime": 196011,
+          "word": "en "
+        },
+        {
+          "startTime": 196011,
+          "endTime": 196236,
+          "word": "Puerto "
+        },
+        {
+          "startTime": 196236,
+          "endTime": 196582,
+          "word": "Rico^Let's "
+        },
+        {
+          "startTime": 196582,
+          "endTime": 196686,
+          "word": "do "
+        },
+        {
+          "startTime": 196686,
+          "endTime": 196790,
+          "word": "it "
+        },
+        {
+          "startTime": 196790,
+          "endTime": 196894,
+          "word": "on "
+        },
+        {
+          "startTime": 196894,
+          "endTime": 196989,
+          "word": "a "
+        },
+        {
+          "startTime": 196989,
+          "endTime": 197119,
+          "word": "beach "
+        },
+        {
+          "startTime": 197119,
+          "endTime": 197223,
+          "word": "in "
+        },
+        {
+          "startTime": 197223,
+          "endTime": 197448,
+          "word": "Puerto "
+        },
+        {
+          "startTime": 197448,
+          "endTime": 197660,
+          "word": "Rico"
+        }
+      ]
+    },
+    {
+      "time": 197660,
+      "endTime": 200450,
+      "text": "Hasta que las olas griten: \"¡ay, Bendito!\"^Until the waves scream: \"Oh, blessed!\"",
+      "words": [
+        {
+          "startTime": 197660,
+          "endTime": 197892,
+          "word": "Hasta "
+        },
+        {
+          "startTime": 197892,
+          "endTime": 198012,
+          "word": "que "
+        },
+        {
+          "startTime": 198012,
+          "endTime": 198132,
+          "word": "las "
+        },
+        {
+          "startTime": 198132,
+          "endTime": 198355,
+          "word": "olas "
+        },
+        {
+          "startTime": 198355,
+          "endTime": 198652,
+          "word": "griten: "
+        },
+        {
+          "startTime": 198652,
+          "endTime": 198838,
+          "word": "\"¡ay, "
+        },
+        {
+          "startTime": 198838,
+          "endTime": 199396,
+          "word": "Bendito!\"^Until "
+        },
+        {
+          "startTime": 199396,
+          "endTime": 199516,
+          "word": "the "
+        },
+        {
+          "startTime": 199516,
+          "endTime": 199748,
+          "word": "waves "
+        },
+        {
+          "startTime": 199748,
+          "endTime": 199952,
+          "word": "scream: "
+        },
+        {
+          "startTime": 199952,
+          "endTime": 200128,
+          "word": "\"Oh, "
+        },
+        {
+          "startTime": 200128,
+          "endTime": 200450,
+          "word": "blessed!\""
+        }
+      ]
+    },
+    {
+      "time": 200450,
+      "endTime": 204290,
+      "text": "Para que mi sello se quede contigo (báilalo)^So that my mark stays with you (dance it)",
+      "words": [
+        {
+          "startTime": 200450,
+          "endTime": 200756,
+          "word": "Para "
+        },
+        {
+          "startTime": 200756,
+          "endTime": 200921,
+          "word": "que "
+        },
+        {
+          "startTime": 200921,
+          "endTime": 201074,
+          "word": "mi "
+        },
+        {
+          "startTime": 201074,
+          "endTime": 201392,
+          "word": "sello "
+        },
+        {
+          "startTime": 201392,
+          "endTime": 201545,
+          "word": "se "
+        },
+        {
+          "startTime": 201545,
+          "endTime": 201736,
+          "word": "quede "
+        },
+        {
+          "startTime": 201736,
+          "endTime": 202208,
+          "word": "contigo "
+        },
+        {
+          "startTime": 202208,
+          "endTime": 202871,
+          "word": "(báilalo)^So "
+        },
+        {
+          "startTime": 202871,
+          "endTime": 203049,
+          "word": "that "
+        },
+        {
+          "startTime": 203049,
+          "endTime": 203202,
+          "word": "my "
+        },
+        {
+          "startTime": 203202,
+          "endTime": 203380,
+          "word": "mark "
+        },
+        {
+          "startTime": 203380,
+          "endTime": 203571,
+          "word": "stays "
+        },
+        {
+          "startTime": 203571,
+          "endTime": 203749,
+          "word": "with "
+        },
+        {
+          "startTime": 203749,
+          "endTime": 203914,
+          "word": "you "
+        },
+        {
+          "startTime": 203914,
+          "endTime": 204118,
+          "word": "(dance "
+        },
+        {
+          "startTime": 204118,
+          "endTime": 204290,
+          "word": "it)"
+        }
+      ]
+    },
+    {
+      "time": 204290,
+      "endTime": 206920,
+      "text": "Pasito a pasito, suave, suavecito^Step by step, softly, very softly",
+      "words": [
+        {
+          "startTime": 204290,
+          "endTime": 204618,
+          "word": "Pasito "
+        },
+        {
+          "startTime": 204618,
+          "endTime": 204718,
+          "word": "a "
+        },
+        {
+          "startTime": 204718,
+          "endTime": 205101,
+          "word": "pasito, "
+        },
+        {
+          "startTime": 205101,
+          "endTime": 205292,
+          "word": "suave, "
+        },
+        {
+          "startTime": 205292,
+          "endTime": 205876,
+          "word": "suavecito^Step "
+        },
+        {
+          "startTime": 205876,
+          "endTime": 205985,
+          "word": "by "
+        },
+        {
+          "startTime": 205985,
+          "endTime": 206167,
+          "word": "step, "
+        },
+        {
+          "startTime": 206167,
+          "endTime": 206459,
+          "word": "softly, "
+        },
+        {
+          "startTime": 206459,
+          "endTime": 206678,
+          "word": "very "
+        },
+        {
+          "startTime": 206678,
+          "endTime": 206920,
+          "word": "softly"
+        }
+      ]
+    },
+    {
+      "time": 206920,
+      "endTime": 209460,
+      "text": "Nos vamos pegando poquito a poquito^We're getting closer little by little",
+      "words": [
+        {
+          "startTime": 206920,
+          "endTime": 207032,
+          "word": "Nos "
+        },
+        {
+          "startTime": 207032,
+          "endTime": 207248,
+          "word": "vamos "
+        },
+        {
+          "startTime": 207248,
+          "endTime": 207568,
+          "word": "pegando "
+        },
+        {
+          "startTime": 207568,
+          "endTime": 207888,
+          "word": "poquito "
+        },
+        {
+          "startTime": 207888,
+          "endTime": 207983,
+          "word": "a "
+        },
+        {
+          "startTime": 207983,
+          "endTime": 208442,
+          "word": "poquito^We're "
+        },
+        {
+          "startTime": 208442,
+          "endTime": 208676,
+          "word": "getting "
+        },
+        {
+          "startTime": 208676,
+          "endTime": 208901,
+          "word": "closer "
+        },
+        {
+          "startTime": 208901,
+          "endTime": 209126,
+          "word": "little "
+        },
+        {
+          "startTime": 209126,
+          "endTime": 209230,
+          "word": "by "
+        },
+        {
+          "startTime": 209230,
+          "endTime": 209460,
+          "word": "little"
+        }
+      ]
+    },
+    {
+      "time": 209460,
+      "endTime": 213970,
+      "text": "Que le enseñes a mi boca tus lugares favoritos^For you to show my mouth your favorite places",
+      "words": [
+        {
+          "startTime": 209460,
+          "endTime": 209620,
+          "word": "Que "
+        },
+        {
+          "startTime": 209620,
+          "endTime": 209767,
+          "word": "le "
+        },
+        {
+          "startTime": 209767,
+          "endTime": 210222,
+          "word": "enseñes "
+        },
+        {
+          "startTime": 210222,
+          "endTime": 210357,
+          "word": "a "
+        },
+        {
+          "startTime": 210357,
+          "endTime": 210504,
+          "word": "mi "
+        },
+        {
+          "startTime": 210504,
+          "endTime": 210799,
+          "word": "boca "
+        },
+        {
+          "startTime": 210799,
+          "endTime": 210959,
+          "word": "tus "
+        },
+        {
+          "startTime": 210959,
+          "endTime": 211414,
+          "word": "lugares "
+        },
+        {
+          "startTime": 211414,
+          "endTime": 212190,
+          "word": "favoritos^For "
+        },
+        {
+          "startTime": 212190,
+          "endTime": 212350,
+          "word": "you "
+        },
+        {
+          "startTime": 212350,
+          "endTime": 212497,
+          "word": "to "
+        },
+        {
+          "startTime": 212497,
+          "endTime": 212669,
+          "word": "show "
+        },
+        {
+          "startTime": 212669,
+          "endTime": 212816,
+          "word": "my "
+        },
+        {
+          "startTime": 212816,
+          "endTime": 213000,
+          "word": "mouth "
+        },
+        {
+          "startTime": 213000,
+          "endTime": 213172,
+          "word": "your "
+        },
+        {
+          "startTime": 213172,
+          "endTime": 213640,
+          "word": "favorite "
+        },
+        {
+          "startTime": 213640,
+          "endTime": 213970,
+          "word": "places"
+        }
+      ]
+    },
+    {
+      "time": 213970,
+      "endTime": 215250,
+      "text": "(Favoritos, favoritos, baby)^(Favorite, favorite, baby)",
+      "words": [
+        {
+          "startTime": 213970,
+          "endTime": 214255,
+          "word": "(Favoritos, "
+        },
+        {
+          "startTime": 214255,
+          "endTime": 214535,
+          "word": "favoritos, "
+        },
+        {
+          "startTime": 214535,
+          "endTime": 214897,
+          "word": "baby)^(Favorite, "
+        },
+        {
+          "startTime": 214897,
+          "endTime": 215121,
+          "word": "favorite, "
+        },
+        {
+          "startTime": 215121,
+          "endTime": 215250,
+          "word": "baby)"
+        }
+      ]
+    },
+    {
+      "time": 215250,
+      "endTime": 217960,
+      "text": "Pasito a pasito, suave, suavecito^Step by step, softly, very softly",
+      "words": [
+        {
+          "startTime": 215250,
+          "endTime": 215588,
+          "word": "Pasito "
+        },
+        {
+          "startTime": 215588,
+          "endTime": 215691,
+          "word": "a "
+        },
+        {
+          "startTime": 215691,
+          "endTime": 216086,
+          "word": "pasito, "
+        },
+        {
+          "startTime": 216086,
+          "endTime": 216283,
+          "word": "suave, "
+        },
+        {
+          "startTime": 216283,
+          "endTime": 216885,
+          "word": "suavecito^Step "
+        },
+        {
+          "startTime": 216885,
+          "endTime": 216997,
+          "word": "by "
+        },
+        {
+          "startTime": 216997,
+          "endTime": 217185,
+          "word": "step, "
+        },
+        {
+          "startTime": 217185,
+          "endTime": 217486,
+          "word": "softly, "
+        },
+        {
+          "startTime": 217486,
+          "endTime": 217711,
+          "word": "very "
+        },
+        {
+          "startTime": 217711,
+          "endTime": 217960,
+          "word": "softly"
+        }
+      ]
+    },
+    {
+      "time": 217960,
+      "endTime": 220100,
+      "text": "Nos vamos pegando poquito a poquito^We're getting closer little by little",
+      "words": [
+        {
+          "startTime": 217960,
+          "endTime": 218054,
+          "word": "Nos "
+        },
+        {
+          "startTime": 218054,
+          "endTime": 218236,
+          "word": "vamos "
+        },
+        {
+          "startTime": 218236,
+          "endTime": 218506,
+          "word": "pegando "
+        },
+        {
+          "startTime": 218506,
+          "endTime": 218776,
+          "word": "poquito "
+        },
+        {
+          "startTime": 218776,
+          "endTime": 218856,
+          "word": "a "
+        },
+        {
+          "startTime": 218856,
+          "endTime": 219243,
+          "word": "poquito^We're "
+        },
+        {
+          "startTime": 219243,
+          "endTime": 219440,
+          "word": "getting "
+        },
+        {
+          "startTime": 219440,
+          "endTime": 219629,
+          "word": "closer "
+        },
+        {
+          "startTime": 219629,
+          "endTime": 219818,
+          "word": "little "
+        },
+        {
+          "startTime": 219818,
+          "endTime": 219905,
+          "word": "by "
+        },
+        {
+          "startTime": 219905,
+          "endTime": 220100,
+          "word": "little"
+        }
+      ]
+    },
+    {
+      "time": 220100,
+      "endTime": 225470,
+      "text": "Hasta provocar tus gritos y que olvides tu apellido (DY)^Until I provoke your screams and you forget your last name (DY)",
+      "words": [
+        {
+          "startTime": 220100,
+          "endTime": 220412,
+          "word": "Hasta "
+        },
+        {
+          "startTime": 220412,
+          "endTime": 220886,
+          "word": "provocar "
+        },
+        {
+          "startTime": 220886,
+          "endTime": 221048,
+          "word": "tus "
+        },
+        {
+          "startTime": 221048,
+          "endTime": 221372,
+          "word": "gritos "
+        },
+        {
+          "startTime": 221372,
+          "endTime": 221509,
+          "word": "y "
+        },
+        {
+          "startTime": 221509,
+          "endTime": 221671,
+          "word": "que "
+        },
+        {
+          "startTime": 221671,
+          "endTime": 222133,
+          "word": "olvides "
+        },
+        {
+          "startTime": 222133,
+          "endTime": 222282,
+          "word": "tu "
+        },
+        {
+          "startTime": 222282,
+          "endTime": 222881,
+          "word": "apellido "
+        },
+        {
+          "startTime": 222881,
+          "endTime": 223255,
+          "word": "(DY)^Until "
+        },
+        {
+          "startTime": 223255,
+          "endTime": 223392,
+          "word": "I "
+        },
+        {
+          "startTime": 223392,
+          "endTime": 223729,
+          "word": "provoke "
+        },
+        {
+          "startTime": 223729,
+          "endTime": 223903,
+          "word": "your "
+        },
+        {
+          "startTime": 223903,
+          "endTime": 224115,
+          "word": "screams "
+        },
+        {
+          "startTime": 224115,
+          "endTime": 224277,
+          "word": "and "
+        },
+        {
+          "startTime": 224277,
+          "endTime": 224439,
+          "word": "you "
+        },
+        {
+          "startTime": 224439,
+          "endTime": 224763,
+          "word": "forget "
+        },
+        {
+          "startTime": 224763,
+          "endTime": 224937,
+          "word": "your "
+        },
+        {
+          "startTime": 224937,
+          "endTime": 225111,
+          "word": "last "
+        },
+        {
+          "startTime": 225111,
+          "endTime": 225285,
+          "word": "name "
+        },
+        {
+          "startTime": 225285,
+          "endTime": 225470,
+          "word": "(DY)"
+        }
+      ]
+    },
+    {
+      "time": 225470,
+      "endTime": 230470,
+      "text": "Despacito^Slowly",
+      "words": [
+        {
+          "startTime": 225470,
+          "endTime": 230470,
+          "word": "Despacito^Slowly"
+        }
+      ]
+    }
+  ]
+}
