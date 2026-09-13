@@ -703,6 +703,14 @@
     "s": "SEVDALIZA FT. PABLLO VITTAR & YSEULT - ALIBI (Letra/Lyrics)",
     "l": "und"
   },
+  "rR2gfIj9CG4": {
+    "p": "r/R/rR2gfIj9CG4.json",
+    "t": "word",
+    "d": 143,
+    "a": "OnLyrics",
+    "s": "HUGEL - Movin' To The Sun (Lyrics)",
+    "l": "und"
+  },
   "r7Rn4ryE_w8": {
     "p": "r/7/r7Rn4ryE_w8.json",
     "t": "word",
@@ -887,12 +895,28 @@
     "s": "Kendrick Lamar - luther (Lyrics) ft. SZA",
     "l": "und"
   },
+  "0g3i3mIDP7A": {
+    "p": "0/g/0g3i3mIDP7A.json",
+    "t": "word",
+    "d": 195,
+    "a": "Vory",
+    "s": "SOBER",
+    "l": "und"
+  },
   "0LuignGmX_0": {
     "p": "0/L/0LuignGmX_0.json",
     "t": "word",
     "d": 238,
     "a": "Keane",
     "s": "Somewhere Only We Know",
+    "l": "und"
+  },
+  "0bayqPO6I1U": {
+    "p": "0/b/0bayqPO6I1U.json",
+    "t": "word",
+    "d": 198,
+    "a": "RAYE",
+    "s": "WHERE IS MY HUSBAND!",
     "l": "und"
   },
   "IgITZfS7L_8": {
@@ -1278,6 +1302,14 @@
     "a": "YOASOBI",
     "s": "夜に駆ける (Racing into the Night)",
     "l": "ja"
+  },
+  "bhoybya39QU": {
+    "p": "b/h/bhoybya39QU.json",
+    "t": "word",
+    "d": 220,
+    "a": "InvertOG",
+    "s": "Dave, Tems - Raindance (Lyrics)",
+    "l": "und"
   },
   "tRUVJ_3DUI0": {
     "p": "t/R/tRUVJ_3DUI0.json",
