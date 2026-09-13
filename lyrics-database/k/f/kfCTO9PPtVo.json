@@ -1,0 +1,2399 @@
+{
+  "videoId": "kfCTO9PPtVo",
+  "title": "Happier",
+  "artist": "Marshmello, Bastille",
+  "duration": 215,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.120\" end=\"00:03.366\" ttm:agent=\"v1\">\n        <span begin=\"00:00.120\" end=\"00:00.950\">Lately,<\/span>\n        <span begin=\"00:01.083\" end=\"00:01.386\">I&apos;ve<\/span>\n        <span begin=\"00:01.386\" end=\"00:01.993\">been,<\/span>\n        <span begin=\"00:01.993\" end=\"00:02.285\">I&apos;ve<\/span>\n        <span begin=\"00:02.285\" end=\"00:02.600\">been<\/span>\n        <span begin=\"00:02.600\" end=\"00:03.366\">thinking<\/span>\n      <\/p>\n      <p begin=\"00:03.430\" end=\"00:05.640\" ttm:agent=\"v1\">\n        <span begin=\"00:03.435\" end=\"00:03.768\">I<\/span>\n        <span begin=\"00:03.768\" end=\"00:04.154\">want<\/span>\n        <span begin=\"00:04.154\" end=\"00:04.423\">you<\/span>\n        <span begin=\"00:04.423\" end=\"00:04.670\">to<\/span>\n        <span begin=\"00:04.670\" end=\"00:05.005\">be<\/span>\n        <span begin=\"00:05.005\" end=\"00:05.640\">happier<\/span>\n      <\/p>\n      <p begin=\"00:05.800\" end=\"00:08.809\" ttm:agent=\"v1\">\n        <span begin=\"00:05.809\" end=\"00:06.248\">I<\/span>\n        <span begin=\"00:06.248\" end=\"00:06.611\">want<\/span>\n        <span begin=\"00:06.611\" end=\"00:06.879\">you<\/span>\n        <span begin=\"00:06.879\" end=\"00:07.176\">to<\/span>\n        <span begin=\"00:07.176\" end=\"00:07.462\">be<\/span>\n        <span begin=\"00:07.462\" end=\"00:08.809\">happier<\/span>\n      <\/p>\n      <p begin=\"00:08.820\" end=\"00:10.413\" ttm:agent=\"v1\">\n        <span begin=\"00:08.821\" end=\"00:08.969\">When<\/span>\n        <span begin=\"00:08.969\" end=\"00:09.129\">the<\/span>\n        <span begin=\"00:09.129\" end=\"00:09.736\">morning<\/span>\n        <span begin=\"00:09.736\" end=\"00:10.413\">comes<\/span>\n      <\/p>\n      <p begin=\"00:10.620\" end=\"00:12.731\" ttm:agent=\"v1\">\n        <span begin=\"00:10.628\" end=\"00:10.779\">When<\/span>\n        <span begin=\"00:10.779\" end=\"00:10.914\">we<\/span>\n        <span begin=\"00:10.914\" end=\"00:11.271\">see<\/span>\n        <span begin=\"00:11.271\" end=\"00:11.575\">what<\/span>\n        <span begin=\"00:11.575\" end=\"00:11.896\">we&apos;ve<\/span>\n        <span begin=\"00:11.896\" end=\"00:12.731\">become<\/span>\n      <\/p>\n      <p begin=\"00:12.940\" end=\"00:15.328\" ttm:agent=\"v1\">\n        <span begin=\"00:12.942\" end=\"00:13.215\">In<\/span>\n        <span begin=\"00:13.215\" end=\"00:13.411\">the<\/span>\n        <span begin=\"00:13.411\" end=\"00:13.655\">cold<\/span>\n        <span begin=\"00:13.655\" end=\"00:13.881\">light<\/span>\n        <span begin=\"00:13.881\" end=\"00:13.986\">of<\/span>\n        <span begin=\"00:13.986\" end=\"00:14.134\">day,<\/span>\n        <span begin=\"00:14.134\" end=\"00:14.276\">we&apos;re<\/span>\n        <span begin=\"00:14.276\" end=\"00:14.378\">a<\/span>\n        <span begin=\"00:14.378\" end=\"00:14.623\">flame<\/span>\n        <span begin=\"00:14.623\" end=\"00:14.803\">in<\/span>\n        <span begin=\"00:14.803\" end=\"00:14.968\">the<\/span>\n        <span begin=\"00:14.968\" end=\"00:15.328\">wind<\/span>\n      <\/p>\n      <p begin=\"00:15.320\" end=\"00:17.775\" ttm:agent=\"v1\">\n        <span begin=\"00:15.328\" end=\"00:15.477\">Not<\/span>\n        <span begin=\"00:15.477\" end=\"00:15.698\">the<\/span>\n        <span begin=\"00:15.698\" end=\"00:15.980\">fire<\/span>\n        <span begin=\"00:15.980\" end=\"00:16.283\">that<\/span>\n        <span begin=\"00:16.283\" end=\"00:16.629\">we<\/span>\n        <span begin=\"00:16.629\" end=\"00:17.775\">begun<\/span>\n      <\/p>\n      <p begin=\"00:18.370\" end=\"00:19.911\" ttm:agent=\"v1\">\n        <span begin=\"00:18.372\" end=\"00:18.783\">Every<\/span>\n        <span begin=\"00:18.783\" end=\"00:19.911\">argument<\/span>\n      <\/p>\n      <p begin=\"00:20.180\" end=\"00:22.342\" ttm:agent=\"v1\">\n        <span begin=\"00:20.189\" end=\"00:20.628\">Every<\/span>\n        <span begin=\"00:20.628\" end=\"00:20.914\">word<\/span>\n        <span begin=\"00:20.914\" end=\"00:21.140\">we<\/span>\n        <span begin=\"00:21.140\" end=\"00:21.533\">can&apos;t<\/span>\n        <span begin=\"00:21.533\" end=\"00:21.836\">take<\/span>\n        <span begin=\"00:21.836\" end=\"00:22.342\">back<\/span>\n      <\/p>\n      <p begin=\"00:22.520\" end=\"00:23.923\" ttm:agent=\"v1\">\n        <span begin=\"00:22.528\" end=\"00:22.823\">&apos;Cause<\/span>\n        <span begin=\"00:22.823\" end=\"00:23.072\">with<\/span>\n        <span begin=\"00:23.072\" end=\"00:23.172\">all<\/span>\n        <span begin=\"00:23.172\" end=\"00:23.304\">that<\/span>\n        <span begin=\"00:23.304\" end=\"00:23.429\">has<\/span>\n        <span begin=\"00:23.429\" end=\"00:23.923\">happened<\/span>\n      <\/p>\n      <p begin=\"00:23.920\" end=\"00:27.704\" ttm:agent=\"v1\">\n        <span begin=\"00:23.923\" end=\"00:24.043\">I<\/span>\n        <span begin=\"00:24.043\" end=\"00:24.267\">think<\/span>\n        <span begin=\"00:24.267\" end=\"00:24.490\">that<\/span>\n        <span begin=\"00:24.490\" end=\"00:24.663\">we<\/span>\n        <span begin=\"00:24.663\" end=\"00:24.883\">both<\/span>\n        <span begin=\"00:24.883\" end=\"00:25.121\">know<\/span>\n        <span begin=\"00:25.121\" end=\"00:25.311\">the<\/span>\n        <span begin=\"00:25.311\" end=\"00:25.519\">way<\/span>\n        <span begin=\"00:25.519\" end=\"00:25.680\">that<\/span>\n        <span begin=\"00:25.680\" end=\"00:25.780\">the<\/span>\n        <span begin=\"00:25.780\" end=\"00:26.965\">story<\/span>\n        <span begin=\"00:26.965\" end=\"00:27.704\">ends<\/span>\n      <\/p>\n      <p begin=\"00:28.560\" end=\"00:31.923\" ttm:agent=\"v1\">\n        <span begin=\"00:28.560\" end=\"00:29.025\">Then<\/span>\n        <span begin=\"00:29.025\" end=\"00:29.585\">only<\/span>\n        <span begin=\"00:29.585\" end=\"00:30.078\">for<\/span>\n        <span begin=\"00:30.078\" end=\"00:30.245\">a<\/span>\n        <span begin=\"00:30.245\" end=\"00:31.923\">minute<\/span>\n      <\/p>\n      <p begin=\"00:32.210\" end=\"00:34.326\" ttm:agent=\"v1\">\n        <span begin=\"00:32.212\" end=\"00:32.459\">I<\/span>\n        <span begin=\"00:32.459\" end=\"00:32.807\">want<\/span>\n        <span begin=\"00:32.807\" end=\"00:33.027\">to<\/span>\n        <span begin=\"00:33.027\" end=\"00:33.426\">change<\/span>\n        <span begin=\"00:33.426\" end=\"00:33.735\">my<\/span>\n        <span begin=\"00:33.735\" end=\"00:34.326\">mind<\/span>\n      <\/p>\n      <p begin=\"00:34.330\" end=\"00:37.763\" ttm:agent=\"v1\">\n        <span begin=\"00:34.333\" end=\"00:34.951\">&apos;Cause<\/span>\n        <span begin=\"00:34.951\" end=\"00:35.266\">this<\/span>\n        <span begin=\"00:35.266\" end=\"00:35.564\">just<\/span>\n        <span begin=\"00:35.564\" end=\"00:35.897\">don&apos;t<\/span>\n        <span begin=\"00:35.897\" end=\"00:36.224\">feel<\/span>\n        <span begin=\"00:36.224\" end=\"00:36.813\">right<\/span>\n        <span begin=\"00:36.813\" end=\"00:37.449\">to<\/span>\n        <span begin=\"00:37.449\" end=\"00:37.763\">me<\/span>\n      <\/p>\n      <p begin=\"00:38.180\" end=\"00:41.592\" ttm:agent=\"v1\">\n        <span begin=\"00:38.185\" end=\"00:38.572\">I<\/span>\n        <span begin=\"00:38.572\" end=\"00:39.204\">wanna<\/span>\n        <span begin=\"00:39.204\" end=\"00:39.506\">raise<\/span>\n        <span begin=\"00:39.506\" end=\"00:39.798\">your<\/span>\n        <span begin=\"00:39.798\" end=\"00:41.592\">spirits<\/span>\n      <\/p>\n      <p begin=\"00:41.760\" end=\"00:44.358\" ttm:agent=\"v1\">\n        <span begin=\"00:41.769\" end=\"00:41.994\">I<\/span>\n        <span begin=\"00:41.994\" end=\"00:42.308\">want<\/span>\n        <span begin=\"00:42.308\" end=\"00:42.586\">to<\/span>\n        <span begin=\"00:42.586\" end=\"00:43.027\">see<\/span>\n        <span begin=\"00:43.027\" end=\"00:43.205\">you<\/span>\n        <span begin=\"00:43.205\" end=\"00:43.894\">smile,<\/span>\n        <span begin=\"00:43.894\" end=\"00:44.358\">but<\/span>\n      <\/p>\n      <p begin=\"00:44.460\" end=\"00:47.678\" ttm:agent=\"v1\">\n        <span begin=\"00:44.465\" end=\"00:44.887\">Know<\/span>\n        <span begin=\"00:44.887\" end=\"00:45.194\">that<\/span>\n        <span begin=\"00:45.194\" end=\"00:45.552\">means<\/span>\n        <span begin=\"00:45.552\" end=\"00:45.855\">I&apos;ll<\/span>\n        <span begin=\"00:45.855\" end=\"00:46.456\">have<\/span>\n        <span begin=\"00:46.456\" end=\"00:47.069\">to<\/span>\n        <span begin=\"00:47.069\" end=\"00:47.678\">leave<\/span>\n      <\/p>\n      <p begin=\"00:54.050\" end=\"00:57.371\" ttm:agent=\"v1\">\n        <span begin=\"00:54.055\" end=\"00:54.447\">Know<\/span>\n        <span begin=\"00:54.447\" end=\"00:54.706\">that<\/span>\n        <span begin=\"00:54.706\" end=\"00:55.077\">means<\/span>\n        <span begin=\"00:55.077\" end=\"00:55.477\">I&apos;ll<\/span>\n        <span begin=\"00:55.477\" end=\"00:55.951\">have<\/span>\n        <span begin=\"00:55.951\" end=\"00:56.498\">to<\/span>\n        <span begin=\"00:56.498\" end=\"00:57.371\">leave<\/span>\n      <\/p>\n      <p begin=\"00:57.630\" end=\"01:00.847\" ttm:agent=\"v1\">\n        <span begin=\"00:57.630\" end=\"00:58.228\">Lately,<\/span>\n        <span begin=\"00:58.560\" end=\"00:58.877\">I&apos;ve<\/span>\n        <span begin=\"00:58.877\" end=\"00:59.375\">been,<\/span>\n        <span begin=\"00:59.493\" end=\"00:59.776\">I&apos;ve<\/span>\n        <span begin=\"00:59.776\" end=\"01:00.077\">been<\/span>\n        <span begin=\"01:00.077\" end=\"01:00.847\">thinking<\/span>\n      <\/p>\n      <p begin=\"01:01.010\" end=\"01:03.166\" ttm:agent=\"v1\">\n        <span begin=\"01:01.012\" end=\"01:01.182\">I<\/span>\n        <span begin=\"01:01.182\" end=\"01:01.628\">want<\/span>\n        <span begin=\"01:01.628\" end=\"01:01.911\">you<\/span>\n        <span begin=\"01:01.911\" end=\"01:02.193\">to<\/span>\n        <span begin=\"01:02.193\" end=\"01:02.511\">be<\/span>\n        <span begin=\"01:02.511\" end=\"01:03.166\">happier<\/span>\n      <\/p>\n      <p begin=\"01:03.360\" end=\"01:06.357\" ttm:agent=\"v1\">\n        <span begin=\"01:03.369\" end=\"01:03.596\">I<\/span>\n        <span begin=\"01:03.596\" end=\"01:03.987\">want<\/span>\n        <span begin=\"01:03.987\" end=\"01:04.346\">you<\/span>\n        <span begin=\"01:04.346\" end=\"01:04.590\">to<\/span>\n        <span begin=\"01:04.590\" end=\"01:04.870\">be<\/span>\n        <span begin=\"01:04.870\" end=\"01:06.357\">happier<\/span>\n      <\/p>\n      <p begin=\"01:06.350\" end=\"01:08.000\" ttm:agent=\"v1\">\n        <span begin=\"01:06.357\" end=\"01:06.594\">When<\/span>\n        <span begin=\"01:06.594\" end=\"01:06.761\">the<\/span>\n        <span begin=\"01:06.761\" end=\"01:07.338\">evening<\/span>\n        <span begin=\"01:07.338\" end=\"01:08.000\">falls<\/span>\n      <\/p>\n      <p begin=\"01:08.170\" end=\"01:10.304\" ttm:agent=\"v1\">\n        <span begin=\"01:08.174\" end=\"01:08.392\">And<\/span>\n        <span begin=\"01:08.392\" end=\"01:08.600\">I&apos;m<\/span>\n        <span begin=\"01:08.600\" end=\"01:08.880\">left<\/span>\n        <span begin=\"01:08.880\" end=\"01:09.195\">there<\/span>\n        <span begin=\"01:09.195\" end=\"01:09.505\">with<\/span>\n        <span begin=\"01:09.505\" end=\"01:09.820\">my<\/span>\n        <span begin=\"01:09.820\" end=\"01:10.304\">thoughts<\/span>\n      <\/p>\n      <p begin=\"01:10.470\" end=\"01:12.937\" ttm:agent=\"v1\">\n        <span begin=\"01:10.476\" end=\"01:10.801\">And<\/span>\n        <span begin=\"01:10.801\" end=\"01:10.981\">the<\/span>\n        <span begin=\"01:10.981\" end=\"01:11.460\">image<\/span>\n        <span begin=\"01:11.460\" end=\"01:11.641\">of<\/span>\n        <span begin=\"01:11.641\" end=\"01:11.861\">you<\/span>\n        <span begin=\"01:11.861\" end=\"01:12.178\">being<\/span>\n        <span begin=\"01:12.178\" end=\"01:12.409\">with<\/span>\n        <span begin=\"01:12.409\" end=\"01:12.742\">someone<\/span>\n        <span begin=\"01:12.742\" end=\"01:12.937\">else<\/span>\n      <\/p>\n      <p begin=\"01:12.950\" end=\"01:15.803\" ttm:agent=\"v1\">\n        <span begin=\"01:12.950\" end=\"01:13.104\">Well,<\/span>\n        <span begin=\"01:13.104\" end=\"01:13.336\">it&apos;s<\/span>\n        <span begin=\"01:13.336\" end=\"01:13.758\">eating<\/span>\n        <span begin=\"01:13.758\" end=\"01:13.954\">me<\/span>\n        <span begin=\"01:13.954\" end=\"01:14.264\">up<\/span>\n        <span begin=\"01:14.264\" end=\"01:15.803\">inside<\/span>\n      <\/p>\n      <p begin=\"01:16.000\" end=\"01:17.573\" ttm:agent=\"v1\">\n        <span begin=\"01:16.007\" end=\"01:16.207\">But<\/span>\n        <span begin=\"01:16.207\" end=\"01:16.374\">we<\/span>\n        <span begin=\"01:16.374\" end=\"01:16.666\">ran<\/span>\n        <span begin=\"01:16.666\" end=\"01:16.981\">our<\/span>\n        <span begin=\"01:16.981\" end=\"01:17.573\">course<\/span>\n      <\/p>\n      <p begin=\"01:17.730\" end=\"01:19.890\" ttm:agent=\"v1\">\n        <span begin=\"01:17.737\" end=\"01:18.059\">We<\/span>\n        <span begin=\"01:18.059\" end=\"01:18.826\">pretended<\/span>\n        <span begin=\"01:18.826\" end=\"01:19.148\">we&apos;re<\/span>\n        <span begin=\"01:19.148\" end=\"01:19.890\">okay<\/span>\n      <\/p>\n      <p begin=\"01:20.080\" end=\"01:21.500\" ttm:agent=\"v1\">\n        <span begin=\"01:20.085\" end=\"01:20.298\">Now<\/span>\n        <span begin=\"01:20.298\" end=\"01:20.459\">if<\/span>\n        <span begin=\"01:20.459\" end=\"01:20.697\">we<\/span>\n        <span begin=\"01:20.697\" end=\"01:20.917\">jump<\/span>\n        <span begin=\"01:20.917\" end=\"01:21.500\">together<\/span>\n      <\/p>\n      <p begin=\"01:21.510\" end=\"01:25.053\" ttm:agent=\"v1\">\n        <span begin=\"01:21.510\" end=\"01:21.722\">At<\/span>\n        <span begin=\"01:21.722\" end=\"01:21.922\">least<\/span>\n        <span begin=\"01:21.922\" end=\"01:22.071\">we<\/span>\n        <span begin=\"01:22.071\" end=\"01:22.255\">can<\/span>\n        <span begin=\"01:22.255\" end=\"01:22.521\">swim<\/span>\n        <span begin=\"01:22.521\" end=\"01:22.777\">far<\/span>\n        <span begin=\"01:22.777\" end=\"01:23.080\">away<\/span>\n        <span begin=\"01:23.080\" end=\"01:23.291\">from<\/span>\n        <span begin=\"01:23.291\" end=\"01:23.492\">the<\/span>\n        <span begin=\"01:23.492\" end=\"01:23.753\">wreck<\/span>\n        <span begin=\"01:23.753\" end=\"01:24.503\">we&apos;ve<\/span>\n        <span begin=\"01:24.503\" end=\"01:25.053\">made<\/span>\n      <\/p>\n      <p begin=\"01:26.100\" end=\"01:29.509\" ttm:agent=\"v1\">\n        <span begin=\"01:26.102\" end=\"01:26.576\">Then<\/span>\n        <span begin=\"01:26.576\" end=\"01:27.193\">only<\/span>\n        <span begin=\"01:27.193\" end=\"01:27.674\">for<\/span>\n        <span begin=\"01:27.674\" end=\"01:27.853\">a<\/span>\n        <span begin=\"01:27.853\" end=\"01:29.509\">minute<\/span>\n      <\/p>\n      <p begin=\"01:29.740\" end=\"01:31.876\" ttm:agent=\"v1\">\n        <span begin=\"01:29.749\" end=\"01:30.093\">I<\/span>\n        <span begin=\"01:30.093\" end=\"01:30.414\">want<\/span>\n        <span begin=\"01:30.414\" end=\"01:30.646\">to<\/span>\n        <span begin=\"01:30.646\" end=\"01:31.039\">change<\/span>\n        <span begin=\"01:31.039\" end=\"01:31.348\">my<\/span>\n        <span begin=\"01:31.348\" end=\"01:31.876\">mind<\/span>\n      <\/p>\n      <p begin=\"01:31.880\" end=\"01:35.410\" ttm:agent=\"v1\">\n        <span begin=\"01:31.886\" end=\"01:32.566\">&apos;Cause<\/span>\n        <span begin=\"01:32.566\" end=\"01:32.876\">this<\/span>\n        <span begin=\"01:32.876\" end=\"01:33.173\">just<\/span>\n        <span begin=\"01:33.173\" end=\"01:33.512\">don&apos;t<\/span>\n        <span begin=\"01:33.512\" end=\"01:33.828\">feel<\/span>\n        <span begin=\"01:33.828\" end=\"01:34.435\">right<\/span>\n        <span begin=\"01:34.435\" end=\"01:35.065\">to<\/span>\n        <span begin=\"01:35.065\" end=\"01:35.410\">me<\/span>\n      <\/p>\n      <p begin=\"01:35.760\" end=\"01:39.120\" ttm:agent=\"v1\">\n        <span begin=\"01:35.761\" end=\"01:36.167\">I<\/span>\n        <span begin=\"01:36.167\" end=\"01:36.656\">wanna<\/span>\n        <span begin=\"01:36.656\" end=\"01:36.983\">raise<\/span>\n        <span begin=\"01:36.983\" end=\"01:37.209\">your<\/span>\n        <span begin=\"01:37.209\" end=\"01:39.120\">spirits<\/span>\n      <\/p>\n      <p begin=\"01:39.360\" end=\"01:41.876\" ttm:agent=\"v1\">\n        <span begin=\"01:39.363\" end=\"01:39.676\">I<\/span>\n        <span begin=\"01:39.676\" end=\"01:39.982\">want<\/span>\n        <span begin=\"01:39.982\" end=\"01:40.169\">to<\/span>\n        <span begin=\"01:40.169\" end=\"01:40.551\">see<\/span>\n        <span begin=\"01:40.551\" end=\"01:40.747\">you<\/span>\n        <span begin=\"01:40.747\" end=\"01:41.457\">smile,<\/span>\n        <span begin=\"01:41.457\" end=\"01:41.876\">but<\/span>\n      <\/p>\n      <p begin=\"01:42.090\" end=\"01:45.204\" ttm:agent=\"v1\">\n        <span begin=\"01:42.097\" end=\"01:42.461\">Know<\/span>\n        <span begin=\"01:42.461\" end=\"01:42.685\">that<\/span>\n        <span begin=\"01:42.685\" end=\"01:43.081\">means<\/span>\n        <span begin=\"01:43.081\" end=\"01:43.357\">I&apos;ll<\/span>\n        <span begin=\"01:43.357\" end=\"01:43.889\">have<\/span>\n        <span begin=\"01:43.889\" end=\"01:44.281\">to<\/span>\n        <span begin=\"01:44.281\" end=\"01:45.204\">leave<\/span>\n      <\/p>\n      <p begin=\"01:51.670\" end=\"01:54.801\" ttm:agent=\"v1\">\n        <span begin=\"01:51.672\" end=\"01:52.049\">Know<\/span>\n        <span begin=\"01:52.049\" end=\"01:52.285\">that<\/span>\n        <span begin=\"01:52.285\" end=\"01:52.626\">means<\/span>\n        <span begin=\"01:52.626\" end=\"01:52.907\">I&apos;ll<\/span>\n        <span begin=\"01:52.907\" end=\"01:53.514\">have<\/span>\n        <span begin=\"01:53.514\" end=\"01:54.115\">to<\/span>\n        <span begin=\"01:54.115\" end=\"01:54.801\">leave<\/span>\n      <\/p>\n      <p begin=\"01:55.210\" end=\"01:58.437\" ttm:agent=\"v1\">\n        <span begin=\"01:55.214\" end=\"01:55.832\">Lately,<\/span>\n        <span begin=\"01:56.144\" end=\"01:56.461\">I&apos;ve<\/span>\n        <span begin=\"01:56.461\" end=\"01:56.959\">been,<\/span>\n        <span begin=\"01:57.077\" end=\"01:57.360\">I&apos;ve<\/span>\n        <span begin=\"01:57.360\" end=\"01:57.661\">been<\/span>\n        <span begin=\"01:57.661\" end=\"01:58.437\">thinking<\/span>\n      <\/p>\n      <p begin=\"01:58.570\" end=\"02:00.785\" ttm:agent=\"v1\">\n        <span begin=\"01:58.570\" end=\"01:58.859\">I<\/span>\n        <span begin=\"01:58.859\" end=\"01:59.161\">want<\/span>\n        <span begin=\"01:59.161\" end=\"01:59.426\">you<\/span>\n        <span begin=\"01:59.426\" end=\"01:59.761\">to<\/span>\n        <span begin=\"01:59.761\" end=\"02:00.059\">be<\/span>\n        <span begin=\"02:00.059\" end=\"02:00.785\">happier<\/span>\n      <\/p>\n      <p begin=\"02:00.970\" end=\"02:03.934\" ttm:agent=\"v1\">\n        <span begin=\"02:00.978\" end=\"02:01.267\">I<\/span>\n        <span begin=\"02:01.267\" end=\"02:01.549\">want<\/span>\n        <span begin=\"02:01.549\" end=\"02:01.851\">you<\/span>\n        <span begin=\"02:01.851\" end=\"02:02.149\">to<\/span>\n        <span begin=\"02:02.149\" end=\"02:02.416\">be<\/span>\n        <span begin=\"02:02.416\" end=\"02:03.934\">happier<\/span>\n      <\/p>\n      <p begin=\"02:03.940\" end=\"02:08.771\" ttm:agent=\"v1\">\n        <span begin=\"02:03.942\" end=\"02:04.256\">So<\/span>\n        <span begin=\"02:04.256\" end=\"02:04.964\">I&apos;ll<\/span>\n        <span begin=\"02:04.964\" end=\"02:06.351\">go,<\/span>\n        <span begin=\"02:06.838\" end=\"02:07.326\">I&apos;ll<\/span>\n        <span begin=\"02:07.326\" end=\"02:08.771\">go<\/span>\n      <\/p>\n      <p begin=\"02:09.120\" end=\"02:12.863\" ttm:agent=\"v1\">\n        <span begin=\"02:09.122\" end=\"02:09.222\">I<\/span>\n        <span begin=\"02:09.222\" end=\"02:09.726\">will<\/span>\n        <span begin=\"02:09.726\" end=\"02:10.976\">go,<\/span>\n        <span begin=\"02:10.976\" end=\"02:12.147\">go,<\/span>\n        <span begin=\"02:12.147\" end=\"02:12.863\">go<\/span>\n      <\/p>\n      <p begin=\"02:13.570\" end=\"02:18.525\" ttm:agent=\"v1\">\n        <span begin=\"02:13.579\" end=\"02:13.824\">So<\/span>\n        <span begin=\"02:13.824\" end=\"02:14.593\">I&apos;ll<\/span>\n        <span begin=\"02:14.593\" end=\"02:16.142\">go,<\/span>\n        <span begin=\"02:16.398\" end=\"02:16.878\">I&apos;ll<\/span>\n        <span begin=\"02:16.878\" end=\"02:18.525\">go<\/span>\n      <\/p>\n      <p begin=\"02:18.660\" end=\"02:22.638\" ttm:agent=\"v1\">\n        <span begin=\"02:18.660\" end=\"02:18.760\">I<\/span>\n        <span begin=\"02:18.760\" end=\"02:19.426\">will<\/span>\n        <span begin=\"02:19.426\" end=\"02:20.640\">go,<\/span>\n        <span begin=\"02:20.640\" end=\"02:21.865\">go,<\/span>\n        <span begin=\"02:21.865\" end=\"02:22.638\">go<\/span>\n      <\/p>\n      <p begin=\"02:24.050\" end=\"02:27.255\" ttm:agent=\"v1\">\n        <span begin=\"02:24.055\" end=\"02:24.773\">Lately,<\/span>\n        <span begin=\"02:25.085\" end=\"02:25.402\">I&apos;ve<\/span>\n        <span begin=\"02:25.402\" end=\"02:25.900\">been,<\/span>\n        <span begin=\"02:26.018\" end=\"02:26.301\">I&apos;ve<\/span>\n        <span begin=\"02:26.301\" end=\"02:26.602\">been<\/span>\n        <span begin=\"02:26.602\" end=\"02:27.255\">thinking<\/span>\n      <\/p>\n      <p begin=\"02:27.430\" end=\"02:29.603\" ttm:agent=\"v1\">\n        <span begin=\"02:27.431\" end=\"02:27.763\">I<\/span>\n        <span begin=\"02:27.763\" end=\"02:28.108\">want<\/span>\n        <span begin=\"02:28.108\" end=\"02:28.388\">you<\/span>\n        <span begin=\"02:28.388\" end=\"02:28.697\">to<\/span>\n        <span begin=\"02:28.697\" end=\"02:28.977\">be<\/span>\n        <span begin=\"02:28.977\" end=\"02:29.603\">happier<\/span>\n      <\/p>\n      <p begin=\"02:29.800\" end=\"02:32.197\" ttm:agent=\"v1\">\n        <span begin=\"02:29.804\" end=\"02:30.064\">I<\/span>\n        <span begin=\"02:30.064\" end=\"02:30.320\">want<\/span>\n        <span begin=\"02:30.320\" end=\"02:30.716\">you<\/span>\n        <span begin=\"02:30.716\" end=\"02:30.984\">to<\/span>\n        <span begin=\"02:30.984\" end=\"02:31.285\">be<\/span>\n        <span begin=\"02:31.285\" end=\"02:32.197\">happier<\/span>\n      <\/p>\n      <p begin=\"02:33.700\" end=\"02:36.841\" ttm:agent=\"v1\">\n        <span begin=\"02:33.707\" end=\"02:34.313\">Even<\/span>\n        <span begin=\"02:34.610\" end=\"02:34.954\">though<\/span>\n        <span begin=\"02:34.954\" end=\"02:35.538\">I<\/span>\n        <span begin=\"02:35.538\" end=\"02:35.853\">might<\/span>\n        <span begin=\"02:35.853\" end=\"02:36.127\">not<\/span>\n        <span begin=\"02:36.127\" end=\"02:36.490\">like<\/span>\n        <span begin=\"02:36.490\" end=\"02:36.841\">this<\/span>\n      <\/p>\n      <p begin=\"02:36.960\" end=\"02:39.207\" ttm:agent=\"v1\">\n        <span begin=\"02:36.963\" end=\"02:37.302\">I<\/span>\n        <span begin=\"02:37.302\" end=\"02:37.603\">think<\/span>\n        <span begin=\"02:37.603\" end=\"02:37.902\">that<\/span>\n        <span begin=\"02:37.902\" end=\"02:38.200\">you&apos;ll<\/span>\n        <span begin=\"02:38.200\" end=\"02:38.552\">be<\/span>\n        <span begin=\"02:38.552\" end=\"02:39.207\">happier<\/span>\n      <\/p>\n      <p begin=\"02:39.400\" end=\"02:42.363\" ttm:agent=\"v1\">\n        <span begin=\"02:39.402\" end=\"02:39.530\">I<\/span>\n        <span begin=\"02:39.530\" end=\"02:39.996\">want<\/span>\n        <span begin=\"02:39.996\" end=\"02:40.329\">you<\/span>\n        <span begin=\"02:40.329\" end=\"02:40.612\">to<\/span>\n        <span begin=\"02:40.612\" end=\"02:40.929\">be<\/span>\n        <span begin=\"02:40.929\" end=\"02:42.363\">happier<\/span>\n      <\/p>\n      <p begin=\"02:42.960\" end=\"02:46.266\" ttm:agent=\"v1\">\n        <span begin=\"02:42.966\" end=\"02:43.286\">Then<\/span>\n        <span begin=\"02:43.286\" end=\"02:43.899\">only<\/span>\n        <span begin=\"02:43.899\" end=\"02:44.226\">for<\/span>\n        <span begin=\"02:44.226\" end=\"02:44.369\">a<\/span>\n        <span begin=\"02:44.369\" end=\"02:46.266\">minute<\/span>\n      <\/p>\n      <p begin=\"02:46.600\" end=\"02:48.708\" ttm:agent=\"v1\">\n        <span begin=\"02:46.602\" end=\"02:46.803\">I<\/span>\n        <span begin=\"02:46.803\" end=\"02:47.152\">want<\/span>\n        <span begin=\"02:47.152\" end=\"02:47.454\">to<\/span>\n        <span begin=\"02:47.454\" end=\"02:47.752\">change<\/span>\n        <span begin=\"02:47.752\" end=\"02:48.054\">my<\/span>\n        <span begin=\"02:48.054\" end=\"02:48.708\">mind<\/span>\n      <\/p>\n      <p begin=\"02:48.710\" end=\"02:52.262\" ttm:agent=\"v1\">\n        <span begin=\"02:48.718\" end=\"02:49.270\">&apos;Cause<\/span>\n        <span begin=\"02:49.270\" end=\"02:49.574\">this<\/span>\n        <span begin=\"02:49.574\" end=\"02:49.871\">just<\/span>\n        <span begin=\"02:49.871\" end=\"02:50.269\">don&apos;t<\/span>\n        <span begin=\"02:50.269\" end=\"02:50.507\">feel<\/span>\n        <span begin=\"02:50.507\" end=\"02:51.061\">right<\/span>\n        <span begin=\"02:51.061\" end=\"02:51.573\">to<\/span>\n        <span begin=\"02:51.573\" end=\"02:52.262\">me<\/span>\n      <\/p>\n      <p begin=\"02:52.560\" end=\"02:55.887\" ttm:agent=\"v1\">\n        <span begin=\"02:52.567\" end=\"02:52.964\">I<\/span>\n        <span begin=\"02:52.964\" end=\"02:53.565\">wanna<\/span>\n        <span begin=\"02:53.565\" end=\"02:53.892\">raise<\/span>\n        <span begin=\"02:53.892\" end=\"02:54.124\">your<\/span>\n        <span begin=\"02:54.124\" end=\"02:55.887\">spirits<\/span>\n      <\/p>\n      <p begin=\"02:56.150\" end=\"02:58.650\" ttm:agent=\"v1\">\n        <span begin=\"02:56.156\" end=\"02:56.481\">I<\/span>\n        <span begin=\"02:56.481\" end=\"02:56.753\">want<\/span>\n        <span begin=\"02:56.753\" end=\"02:57.017\">to<\/span>\n        <span begin=\"02:57.017\" end=\"02:57.331\">see<\/span>\n        <span begin=\"02:57.331\" end=\"02:57.633\">you<\/span>\n        <span begin=\"02:57.633\" end=\"02:58.198\">smile,<\/span>\n        <span begin=\"02:58.198\" end=\"02:58.650\">but<\/span>\n      <\/p>\n      <p begin=\"02:58.850\" end=\"03:02.068\" ttm:agent=\"v1\">\n        <span begin=\"02:58.850\" end=\"02:59.216\">Know<\/span>\n        <span begin=\"02:59.216\" end=\"02:59.418\">that<\/span>\n        <span begin=\"02:59.418\" end=\"02:59.767\">means<\/span>\n        <span begin=\"02:59.767\" end=\"03:00.026\">I&apos;ll<\/span>\n        <span begin=\"03:00.026\" end=\"03:00.610\">have<\/span>\n        <span begin=\"03:00.610\" end=\"03:01.175\">to<\/span>\n        <span begin=\"03:01.175\" end=\"03:02.068\">leave<\/span>\n      <\/p>\n      <p begin=\"03:08.440\" end=\"03:11.578\" ttm:agent=\"v1\">\n        <span begin=\"03:08.449\" end=\"03:08.634\">Know<\/span>\n        <span begin=\"03:08.634\" end=\"03:08.999\">that<\/span>\n        <span begin=\"03:08.999\" end=\"03:09.367\">means<\/span>\n        <span begin=\"03:09.367\" end=\"03:09.716\">I&apos;ll<\/span>\n        <span begin=\"03:09.716\" end=\"03:10.284\">have<\/span>\n        <span begin=\"03:10.284\" end=\"03:10.783\">to<\/span>\n        <span begin=\"03:10.783\" end=\"03:11.578\">leave<\/span>\n      <\/p>\n      <p begin=\"03:12.120\" end=\"03:15.252\" ttm:agent=\"v1\">\n        <span begin=\"03:12.120\" end=\"03:12.981\">Lately,<\/span>\n        <span begin=\"03:12.981\" end=\"03:13.248\">I&apos;ve<\/span>\n        <span begin=\"03:13.248\" end=\"03:13.883\">been,<\/span>\n        <span begin=\"03:13.883\" end=\"03:14.181\">I&apos;ve<\/span>\n        <span begin=\"03:14.181\" end=\"03:14.432\">been<\/span>\n        <span begin=\"03:14.432\" end=\"03:15.252\">thinking<\/span>\n      <\/p>\n      <p begin=\"03:15.380\" end=\"03:17.585\" ttm:agent=\"v1\">\n        <span begin=\"03:15.382\" end=\"03:15.608\">I<\/span>\n        <span begin=\"03:15.608\" end=\"03:15.942\">want<\/span>\n        <span begin=\"03:15.942\" end=\"03:16.256\">you<\/span>\n        <span begin=\"03:16.256\" end=\"03:16.574\">to<\/span>\n        <span begin=\"03:16.574\" end=\"03:16.942\">be<\/span>\n        <span begin=\"03:16.942\" end=\"03:17.585\">happier<\/span>\n      <\/p>\n      <p begin=\"03:17.780\" end=\"03:20.067\" ttm:agent=\"v1\">\n        <span begin=\"03:17.788\" end=\"03:17.961\">I<\/span>\n        <span begin=\"03:17.961\" end=\"03:18.213\">want<\/span>\n        <span begin=\"03:18.213\" end=\"03:18.710\">you<\/span>\n        <span begin=\"03:18.710\" end=\"03:19.012\">to<\/span>\n        <span begin=\"03:19.012\" end=\"03:19.262\">be<\/span>\n        <span begin=\"03:19.262\" end=\"03:20.067\">happier<\/span>\n      <\/p>\n      <p begin=\"03:20.720\" end=\"03:25.703\" ttm:agent=\"v1\">\n        <span begin=\"03:20.722\" end=\"03:21.100\">So<\/span>\n        <span begin=\"03:21.100\" end=\"03:21.598\">I&apos;ll<\/span>\n        <span begin=\"03:21.598\" end=\"03:23.096\">go,<\/span>\n        <span begin=\"03:23.465\" end=\"03:23.881\">I&apos;ll<\/span>\n        <span begin=\"03:23.881\" end=\"03:25.703\">go<\/span>\n      <\/p>\n      <p begin=\"03:25.920\" end=\"03:30.086\" ttm:agent=\"v1\">\n        <span begin=\"03:25.928\" end=\"03:26.226\">I<\/span>\n        <span begin=\"03:26.226\" end=\"03:26.623\">will<\/span>\n        <span begin=\"03:26.623\" end=\"03:27.693\">go,<\/span>\n        <span begin=\"03:27.693\" end=\"03:28.941\">go,<\/span>\n        <span begin=\"03:28.941\" end=\"03:30.086\">go<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 120,
+      "endTime": 3366,
+      "text": "Lately, I've been, I've been thinking",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120,
+          "endTime": 950,
+          "word": "Lately,"
+        },
+        {
+          "startTime": 1083,
+          "endTime": 1386,
+          "word": "I've"
+        },
+        {
+          "startTime": 1386,
+          "endTime": 1993,
+          "word": "been,"
+        },
+        {
+          "startTime": 1993,
+          "endTime": 2285,
+          "word": "I've"
+        },
+        {
+          "startTime": 2285,
+          "endTime": 2600,
+          "word": "been"
+        },
+        {
+          "startTime": 2600,
+          "endTime": 3366,
+          "word": "thinking"
+        }
+      ]
+    },
+    {
+      "time": 3430,
+      "endTime": 5640,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 3435,
+          "endTime": 3768,
+          "word": "I"
+        },
+        {
+          "startTime": 3768,
+          "endTime": 4154,
+          "word": "want"
+        },
+        {
+          "startTime": 4154,
+          "endTime": 4423,
+          "word": "you"
+        },
+        {
+          "startTime": 4423,
+          "endTime": 4670,
+          "word": "to"
+        },
+        {
+          "startTime": 4670,
+          "endTime": 5005,
+          "word": "be"
+        },
+        {
+          "startTime": 5005,
+          "endTime": 5640,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 5800,
+      "endTime": 8809,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 5809,
+          "endTime": 6248,
+          "word": "I"
+        },
+        {
+          "startTime": 6248,
+          "endTime": 6611,
+          "word": "want"
+        },
+        {
+          "startTime": 6611,
+          "endTime": 6879,
+          "word": "you"
+        },
+        {
+          "startTime": 6879,
+          "endTime": 7176,
+          "word": "to"
+        },
+        {
+          "startTime": 7176,
+          "endTime": 7462,
+          "word": "be"
+        },
+        {
+          "startTime": 7462,
+          "endTime": 8809,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 8820,
+      "endTime": 10413,
+      "text": "When the morning comes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 8821,
+          "endTime": 8969,
+          "word": "When"
+        },
+        {
+          "startTime": 8969,
+          "endTime": 9129,
+          "word": "the"
+        },
+        {
+          "startTime": 9129,
+          "endTime": 9736,
+          "word": "morning"
+        },
+        {
+          "startTime": 9736,
+          "endTime": 10413,
+          "word": "comes"
+        }
+      ]
+    },
+    {
+      "time": 10620,
+      "endTime": 12731,
+      "text": "When we see what we've become",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 10628,
+          "endTime": 10779,
+          "word": "When"
+        },
+        {
+          "startTime": 10779,
+          "endTime": 10914,
+          "word": "we"
+        },
+        {
+          "startTime": 10914,
+          "endTime": 11271,
+          "word": "see"
+        },
+        {
+          "startTime": 11271,
+          "endTime": 11575,
+          "word": "what"
+        },
+        {
+          "startTime": 11575,
+          "endTime": 11896,
+          "word": "we've"
+        },
+        {
+          "startTime": 11896,
+          "endTime": 12731,
+          "word": "become"
+        }
+      ]
+    },
+    {
+      "time": 12940,
+      "endTime": 15328,
+      "text": "In the cold light of day, we're a flame in the wind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 12942,
+          "endTime": 13215,
+          "word": "In"
+        },
+        {
+          "startTime": 13215,
+          "endTime": 13411,
+          "word": "the"
+        },
+        {
+          "startTime": 13411,
+          "endTime": 13655,
+          "word": "cold"
+        },
+        {
+          "startTime": 13655,
+          "endTime": 13881,
+          "word": "light"
+        },
+        {
+          "startTime": 13881,
+          "endTime": 13986,
+          "word": "of"
+        },
+        {
+          "startTime": 13986,
+          "endTime": 14134,
+          "word": "day,"
+        },
+        {
+          "startTime": 14134,
+          "endTime": 14276,
+          "word": "we're"
+        },
+        {
+          "startTime": 14276,
+          "endTime": 14378,
+          "word": "a"
+        },
+        {
+          "startTime": 14378,
+          "endTime": 14623,
+          "word": "flame"
+        },
+        {
+          "startTime": 14623,
+          "endTime": 14803,
+          "word": "in"
+        },
+        {
+          "startTime": 14803,
+          "endTime": 14968,
+          "word": "the"
+        },
+        {
+          "startTime": 14968,
+          "endTime": 15328,
+          "word": "wind"
+        }
+      ]
+    },
+    {
+      "time": 15320,
+      "endTime": 17775,
+      "text": "Not the fire that we begun",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15328,
+          "endTime": 15477,
+          "word": "Not"
+        },
+        {
+          "startTime": 15477,
+          "endTime": 15698,
+          "word": "the"
+        },
+        {
+          "startTime": 15698,
+          "endTime": 15980,
+          "word": "fire"
+        },
+        {
+          "startTime": 15980,
+          "endTime": 16283,
+          "word": "that"
+        },
+        {
+          "startTime": 16283,
+          "endTime": 16629,
+          "word": "we"
+        },
+        {
+          "startTime": 16629,
+          "endTime": 17775,
+          "word": "begun"
+        }
+      ]
+    },
+    {
+      "time": 18370,
+      "endTime": 19911,
+      "text": "Every argument",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 18372,
+          "endTime": 18783,
+          "word": "Every"
+        },
+        {
+          "startTime": 18783,
+          "endTime": 19911,
+          "word": "argument"
+        }
+      ]
+    },
+    {
+      "time": 20180,
+      "endTime": 22342,
+      "text": "Every word we can't take back",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 20189,
+          "endTime": 20628,
+          "word": "Every"
+        },
+        {
+          "startTime": 20628,
+          "endTime": 20914,
+          "word": "word"
+        },
+        {
+          "startTime": 20914,
+          "endTime": 21140,
+          "word": "we"
+        },
+        {
+          "startTime": 21140,
+          "endTime": 21533,
+          "word": "can't"
+        },
+        {
+          "startTime": 21533,
+          "endTime": 21836,
+          "word": "take"
+        },
+        {
+          "startTime": 21836,
+          "endTime": 22342,
+          "word": "back"
+        }
+      ]
+    },
+    {
+      "time": 22520,
+      "endTime": 23923,
+      "text": "'Cause with all that has happened",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 22528,
+          "endTime": 22823,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 22823,
+          "endTime": 23072,
+          "word": "with"
+        },
+        {
+          "startTime": 23072,
+          "endTime": 23172,
+          "word": "all"
+        },
+        {
+          "startTime": 23172,
+          "endTime": 23304,
+          "word": "that"
+        },
+        {
+          "startTime": 23304,
+          "endTime": 23429,
+          "word": "has"
+        },
+        {
+          "startTime": 23429,
+          "endTime": 23923,
+          "word": "happened"
+        }
+      ]
+    },
+    {
+      "time": 23920,
+      "endTime": 27704,
+      "text": "I think that we both know the way that the story ends",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23923,
+          "endTime": 24043,
+          "word": "I"
+        },
+        {
+          "startTime": 24043,
+          "endTime": 24267,
+          "word": "think"
+        },
+        {
+          "startTime": 24267,
+          "endTime": 24490,
+          "word": "that"
+        },
+        {
+          "startTime": 24490,
+          "endTime": 24663,
+          "word": "we"
+        },
+        {
+          "startTime": 24663,
+          "endTime": 24883,
+          "word": "both"
+        },
+        {
+          "startTime": 24883,
+          "endTime": 25121,
+          "word": "know"
+        },
+        {
+          "startTime": 25121,
+          "endTime": 25311,
+          "word": "the"
+        },
+        {
+          "startTime": 25311,
+          "endTime": 25519,
+          "word": "way"
+        },
+        {
+          "startTime": 25519,
+          "endTime": 25680,
+          "word": "that"
+        },
+        {
+          "startTime": 25680,
+          "endTime": 25780,
+          "word": "the"
+        },
+        {
+          "startTime": 25780,
+          "endTime": 26965,
+          "word": "story"
+        },
+        {
+          "startTime": 26965,
+          "endTime": 27704,
+          "word": "ends"
+        }
+      ]
+    },
+    {
+      "time": 28560,
+      "endTime": 31923,
+      "text": "Then only for a minute",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28560,
+          "endTime": 29025,
+          "word": "Then"
+        },
+        {
+          "startTime": 29025,
+          "endTime": 29585,
+          "word": "only"
+        },
+        {
+          "startTime": 29585,
+          "endTime": 30078,
+          "word": "for"
+        },
+        {
+          "startTime": 30078,
+          "endTime": 30245,
+          "word": "a"
+        },
+        {
+          "startTime": 30245,
+          "endTime": 31923,
+          "word": "minute"
+        }
+      ]
+    },
+    {
+      "time": 32210,
+      "endTime": 34326,
+      "text": "I want to change my mind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32212,
+          "endTime": 32459,
+          "word": "I"
+        },
+        {
+          "startTime": 32459,
+          "endTime": 32807,
+          "word": "want"
+        },
+        {
+          "startTime": 32807,
+          "endTime": 33027,
+          "word": "to"
+        },
+        {
+          "startTime": 33027,
+          "endTime": 33426,
+          "word": "change"
+        },
+        {
+          "startTime": 33426,
+          "endTime": 33735,
+          "word": "my"
+        },
+        {
+          "startTime": 33735,
+          "endTime": 34326,
+          "word": "mind"
+        }
+      ]
+    },
+    {
+      "time": 34330,
+      "endTime": 37763,
+      "text": "'Cause this just don't feel right to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34333,
+          "endTime": 34951,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 34951,
+          "endTime": 35266,
+          "word": "this"
+        },
+        {
+          "startTime": 35266,
+          "endTime": 35564,
+          "word": "just"
+        },
+        {
+          "startTime": 35564,
+          "endTime": 35897,
+          "word": "don't"
+        },
+        {
+          "startTime": 35897,
+          "endTime": 36224,
+          "word": "feel"
+        },
+        {
+          "startTime": 36224,
+          "endTime": 36813,
+          "word": "right"
+        },
+        {
+          "startTime": 36813,
+          "endTime": 37449,
+          "word": "to"
+        },
+        {
+          "startTime": 37449,
+          "endTime": 37763,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 38180,
+      "endTime": 41592,
+      "text": "I wanna raise your spirits",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 38185,
+          "endTime": 38572,
+          "word": "I"
+        },
+        {
+          "startTime": 38572,
+          "endTime": 39204,
+          "word": "wanna"
+        },
+        {
+          "startTime": 39204,
+          "endTime": 39506,
+          "word": "raise"
+        },
+        {
+          "startTime": 39506,
+          "endTime": 39798,
+          "word": "your"
+        },
+        {
+          "startTime": 39798,
+          "endTime": 41592,
+          "word": "spirits"
+        }
+      ]
+    },
+    {
+      "time": 41760,
+      "endTime": 44358,
+      "text": "I want to see you smile, but",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41769,
+          "endTime": 41994,
+          "word": "I"
+        },
+        {
+          "startTime": 41994,
+          "endTime": 42308,
+          "word": "want"
+        },
+        {
+          "startTime": 42308,
+          "endTime": 42586,
+          "word": "to"
+        },
+        {
+          "startTime": 42586,
+          "endTime": 43027,
+          "word": "see"
+        },
+        {
+          "startTime": 43027,
+          "endTime": 43205,
+          "word": "you"
+        },
+        {
+          "startTime": 43205,
+          "endTime": 43894,
+          "word": "smile,"
+        },
+        {
+          "startTime": 43894,
+          "endTime": 44358,
+          "word": "but"
+        }
+      ]
+    },
+    {
+      "time": 44460,
+      "endTime": 47678,
+      "text": "Know that means I'll have to leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44465,
+          "endTime": 44887,
+          "word": "Know"
+        },
+        {
+          "startTime": 44887,
+          "endTime": 45194,
+          "word": "that"
+        },
+        {
+          "startTime": 45194,
+          "endTime": 45552,
+          "word": "means"
+        },
+        {
+          "startTime": 45552,
+          "endTime": 45855,
+          "word": "I'll"
+        },
+        {
+          "startTime": 45855,
+          "endTime": 46456,
+          "word": "have"
+        },
+        {
+          "startTime": 46456,
+          "endTime": 47069,
+          "word": "to"
+        },
+        {
+          "startTime": 47069,
+          "endTime": 47678,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 54050,
+      "endTime": 57371,
+      "text": "Know that means I'll have to leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54055,
+          "endTime": 54447,
+          "word": "Know"
+        },
+        {
+          "startTime": 54447,
+          "endTime": 54706,
+          "word": "that"
+        },
+        {
+          "startTime": 54706,
+          "endTime": 55077,
+          "word": "means"
+        },
+        {
+          "startTime": 55077,
+          "endTime": 55477,
+          "word": "I'll"
+        },
+        {
+          "startTime": 55477,
+          "endTime": 55951,
+          "word": "have"
+        },
+        {
+          "startTime": 55951,
+          "endTime": 56498,
+          "word": "to"
+        },
+        {
+          "startTime": 56498,
+          "endTime": 57371,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 57630,
+      "endTime": 60847,
+      "text": "Lately, I've been, I've been thinking",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57630,
+          "endTime": 58228,
+          "word": "Lately,"
+        },
+        {
+          "startTime": 58560,
+          "endTime": 58877,
+          "word": "I've"
+        },
+        {
+          "startTime": 58877,
+          "endTime": 59375,
+          "word": "been,"
+        },
+        {
+          "startTime": 59493,
+          "endTime": 59776,
+          "word": "I've"
+        },
+        {
+          "startTime": 59776,
+          "endTime": 60077,
+          "word": "been"
+        },
+        {
+          "startTime": 60077,
+          "endTime": 60847,
+          "word": "thinking"
+        }
+      ]
+    },
+    {
+      "time": 61010,
+      "endTime": 63166,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 61012,
+          "endTime": 61182,
+          "word": "I"
+        },
+        {
+          "startTime": 61182,
+          "endTime": 61628,
+          "word": "want"
+        },
+        {
+          "startTime": 61628,
+          "endTime": 61911,
+          "word": "you"
+        },
+        {
+          "startTime": 61911,
+          "endTime": 62193,
+          "word": "to"
+        },
+        {
+          "startTime": 62193,
+          "endTime": 62511,
+          "word": "be"
+        },
+        {
+          "startTime": 62511,
+          "endTime": 63166,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 63360,
+      "endTime": 66357,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63369,
+          "endTime": 63596,
+          "word": "I"
+        },
+        {
+          "startTime": 63596,
+          "endTime": 63987,
+          "word": "want"
+        },
+        {
+          "startTime": 63987,
+          "endTime": 64346,
+          "word": "you"
+        },
+        {
+          "startTime": 64346,
+          "endTime": 64590,
+          "word": "to"
+        },
+        {
+          "startTime": 64590,
+          "endTime": 64870,
+          "word": "be"
+        },
+        {
+          "startTime": 64870,
+          "endTime": 66357,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 66350,
+      "endTime": 68000,
+      "text": "When the evening falls",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66357,
+          "endTime": 66594,
+          "word": "When"
+        },
+        {
+          "startTime": 66594,
+          "endTime": 66761,
+          "word": "the"
+        },
+        {
+          "startTime": 66761,
+          "endTime": 67338,
+          "word": "evening"
+        },
+        {
+          "startTime": 67338,
+          "endTime": 68000,
+          "word": "falls"
+        }
+      ]
+    },
+    {
+      "time": 68170,
+      "endTime": 70304,
+      "text": "And I'm left there with my thoughts",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 68174,
+          "endTime": 68392,
+          "word": "And"
+        },
+        {
+          "startTime": 68392,
+          "endTime": 68600,
+          "word": "I'm"
+        },
+        {
+          "startTime": 68600,
+          "endTime": 68880,
+          "word": "left"
+        },
+        {
+          "startTime": 68880,
+          "endTime": 69195,
+          "word": "there"
+        },
+        {
+          "startTime": 69195,
+          "endTime": 69505,
+          "word": "with"
+        },
+        {
+          "startTime": 69505,
+          "endTime": 69820,
+          "word": "my"
+        },
+        {
+          "startTime": 69820,
+          "endTime": 70304,
+          "word": "thoughts"
+        }
+      ]
+    },
+    {
+      "time": 70470,
+      "endTime": 72937,
+      "text": "And the image of you being with someone else",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 70476,
+          "endTime": 70801,
+          "word": "And"
+        },
+        {
+          "startTime": 70801,
+          "endTime": 70981,
+          "word": "the"
+        },
+        {
+          "startTime": 70981,
+          "endTime": 71460,
+          "word": "image"
+        },
+        {
+          "startTime": 71460,
+          "endTime": 71641,
+          "word": "of"
+        },
+        {
+          "startTime": 71641,
+          "endTime": 71861,
+          "word": "you"
+        },
+        {
+          "startTime": 71861,
+          "endTime": 72178,
+          "word": "being"
+        },
+        {
+          "startTime": 72178,
+          "endTime": 72409,
+          "word": "with"
+        },
+        {
+          "startTime": 72409,
+          "endTime": 72742,
+          "word": "someone"
+        },
+        {
+          "startTime": 72742,
+          "endTime": 72937,
+          "word": "else"
+        }
+      ]
+    },
+    {
+      "time": 72950,
+      "endTime": 75803,
+      "text": "Well, it's eating me up inside",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 72950,
+          "endTime": 73104,
+          "word": "Well,"
+        },
+        {
+          "startTime": 73104,
+          "endTime": 73336,
+          "word": "it's"
+        },
+        {
+          "startTime": 73336,
+          "endTime": 73758,
+          "word": "eating"
+        },
+        {
+          "startTime": 73758,
+          "endTime": 73954,
+          "word": "me"
+        },
+        {
+          "startTime": 73954,
+          "endTime": 74264,
+          "word": "up"
+        },
+        {
+          "startTime": 74264,
+          "endTime": 75803,
+          "word": "inside"
+        }
+      ]
+    },
+    {
+      "time": 76000,
+      "endTime": 77573,
+      "text": "But we ran our course",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 76007,
+          "endTime": 76207,
+          "word": "But"
+        },
+        {
+          "startTime": 76207,
+          "endTime": 76374,
+          "word": "we"
+        },
+        {
+          "startTime": 76374,
+          "endTime": 76666,
+          "word": "ran"
+        },
+        {
+          "startTime": 76666,
+          "endTime": 76981,
+          "word": "our"
+        },
+        {
+          "startTime": 76981,
+          "endTime": 77573,
+          "word": "course"
+        }
+      ]
+    },
+    {
+      "time": 77730,
+      "endTime": 79890,
+      "text": "We pretended we're okay",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 77737,
+          "endTime": 78059,
+          "word": "We"
+        },
+        {
+          "startTime": 78059,
+          "endTime": 78826,
+          "word": "pretended"
+        },
+        {
+          "startTime": 78826,
+          "endTime": 79148,
+          "word": "we're"
+        },
+        {
+          "startTime": 79148,
+          "endTime": 79890,
+          "word": "okay"
+        }
+      ]
+    },
+    {
+      "time": 80080,
+      "endTime": 81500,
+      "text": "Now if we jump together",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 80085,
+          "endTime": 80298,
+          "word": "Now"
+        },
+        {
+          "startTime": 80298,
+          "endTime": 80459,
+          "word": "if"
+        },
+        {
+          "startTime": 80459,
+          "endTime": 80697,
+          "word": "we"
+        },
+        {
+          "startTime": 80697,
+          "endTime": 80917,
+          "word": "jump"
+        },
+        {
+          "startTime": 80917,
+          "endTime": 81500,
+          "word": "together"
+        }
+      ]
+    },
+    {
+      "time": 81510,
+      "endTime": 85053,
+      "text": "At least we can swim far away from the wreck we've made",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81510,
+          "endTime": 81722,
+          "word": "At"
+        },
+        {
+          "startTime": 81722,
+          "endTime": 81922,
+          "word": "least"
+        },
+        {
+          "startTime": 81922,
+          "endTime": 82071,
+          "word": "we"
+        },
+        {
+          "startTime": 82071,
+          "endTime": 82255,
+          "word": "can"
+        },
+        {
+          "startTime": 82255,
+          "endTime": 82521,
+          "word": "swim"
+        },
+        {
+          "startTime": 82521,
+          "endTime": 82777,
+          "word": "far"
+        },
+        {
+          "startTime": 82777,
+          "endTime": 83080,
+          "word": "away"
+        },
+        {
+          "startTime": 83080,
+          "endTime": 83291,
+          "word": "from"
+        },
+        {
+          "startTime": 83291,
+          "endTime": 83492,
+          "word": "the"
+        },
+        {
+          "startTime": 83492,
+          "endTime": 83753,
+          "word": "wreck"
+        },
+        {
+          "startTime": 83753,
+          "endTime": 84503,
+          "word": "we've"
+        },
+        {
+          "startTime": 84503,
+          "endTime": 85053,
+          "word": "made"
+        }
+      ]
+    },
+    {
+      "time": 86100,
+      "endTime": 89509,
+      "text": "Then only for a minute",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 86102,
+          "endTime": 86576,
+          "word": "Then"
+        },
+        {
+          "startTime": 86576,
+          "endTime": 87193,
+          "word": "only"
+        },
+        {
+          "startTime": 87193,
+          "endTime": 87674,
+          "word": "for"
+        },
+        {
+          "startTime": 87674,
+          "endTime": 87853,
+          "word": "a"
+        },
+        {
+          "startTime": 87853,
+          "endTime": 89509,
+          "word": "minute"
+        }
+      ]
+    },
+    {
+      "time": 89740,
+      "endTime": 91876,
+      "text": "I want to change my mind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89749,
+          "endTime": 90093,
+          "word": "I"
+        },
+        {
+          "startTime": 90093,
+          "endTime": 90414,
+          "word": "want"
+        },
+        {
+          "startTime": 90414,
+          "endTime": 90646,
+          "word": "to"
+        },
+        {
+          "startTime": 90646,
+          "endTime": 91039,
+          "word": "change"
+        },
+        {
+          "startTime": 91039,
+          "endTime": 91348,
+          "word": "my"
+        },
+        {
+          "startTime": 91348,
+          "endTime": 91876,
+          "word": "mind"
+        }
+      ]
+    },
+    {
+      "time": 91880,
+      "endTime": 95410,
+      "text": "'Cause this just don't feel right to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91886,
+          "endTime": 92566,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 92566,
+          "endTime": 92876,
+          "word": "this"
+        },
+        {
+          "startTime": 92876,
+          "endTime": 93173,
+          "word": "just"
+        },
+        {
+          "startTime": 93173,
+          "endTime": 93512,
+          "word": "don't"
+        },
+        {
+          "startTime": 93512,
+          "endTime": 93828,
+          "word": "feel"
+        },
+        {
+          "startTime": 93828,
+          "endTime": 94435,
+          "word": "right"
+        },
+        {
+          "startTime": 94435,
+          "endTime": 95065,
+          "word": "to"
+        },
+        {
+          "startTime": 95065,
+          "endTime": 95410,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 95760,
+      "endTime": 99120,
+      "text": "I wanna raise your spirits",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95761,
+          "endTime": 96167,
+          "word": "I"
+        },
+        {
+          "startTime": 96167,
+          "endTime": 96656,
+          "word": "wanna"
+        },
+        {
+          "startTime": 96656,
+          "endTime": 96983,
+          "word": "raise"
+        },
+        {
+          "startTime": 96983,
+          "endTime": 97209,
+          "word": "your"
+        },
+        {
+          "startTime": 97209,
+          "endTime": 99120,
+          "word": "spirits"
+        }
+      ]
+    },
+    {
+      "time": 99360,
+      "endTime": 101876,
+      "text": "I want to see you smile, but",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 99363,
+          "endTime": 99676,
+          "word": "I"
+        },
+        {
+          "startTime": 99676,
+          "endTime": 99982,
+          "word": "want"
+        },
+        {
+          "startTime": 99982,
+          "endTime": 100169,
+          "word": "to"
+        },
+        {
+          "startTime": 100169,
+          "endTime": 100551,
+          "word": "see"
+        },
+        {
+          "startTime": 100551,
+          "endTime": 100747,
+          "word": "you"
+        },
+        {
+          "startTime": 100747,
+          "endTime": 101457,
+          "word": "smile,"
+        },
+        {
+          "startTime": 101457,
+          "endTime": 101876,
+          "word": "but"
+        }
+      ]
+    },
+    {
+      "time": 102090,
+      "endTime": 105204,
+      "text": "Know that means I'll have to leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 102097,
+          "endTime": 102461,
+          "word": "Know"
+        },
+        {
+          "startTime": 102461,
+          "endTime": 102685,
+          "word": "that"
+        },
+        {
+          "startTime": 102685,
+          "endTime": 103081,
+          "word": "means"
+        },
+        {
+          "startTime": 103081,
+          "endTime": 103357,
+          "word": "I'll"
+        },
+        {
+          "startTime": 103357,
+          "endTime": 103889,
+          "word": "have"
+        },
+        {
+          "startTime": 103889,
+          "endTime": 104281,
+          "word": "to"
+        },
+        {
+          "startTime": 104281,
+          "endTime": 105204,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 111670,
+      "endTime": 114801,
+      "text": "Know that means I'll have to leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 111672,
+          "endTime": 112049,
+          "word": "Know"
+        },
+        {
+          "startTime": 112049,
+          "endTime": 112285,
+          "word": "that"
+        },
+        {
+          "startTime": 112285,
+          "endTime": 112626,
+          "word": "means"
+        },
+        {
+          "startTime": 112626,
+          "endTime": 112907,
+          "word": "I'll"
+        },
+        {
+          "startTime": 112907,
+          "endTime": 113514,
+          "word": "have"
+        },
+        {
+          "startTime": 113514,
+          "endTime": 114115,
+          "word": "to"
+        },
+        {
+          "startTime": 114115,
+          "endTime": 114801,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 115210,
+      "endTime": 118437,
+      "text": "Lately, I've been, I've been thinking",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 115214,
+          "endTime": 115832,
+          "word": "Lately,"
+        },
+        {
+          "startTime": 116144,
+          "endTime": 116461,
+          "word": "I've"
+        },
+        {
+          "startTime": 116461,
+          "endTime": 116959,
+          "word": "been,"
+        },
+        {
+          "startTime": 117077,
+          "endTime": 117360,
+          "word": "I've"
+        },
+        {
+          "startTime": 117360,
+          "endTime": 117661,
+          "word": "been"
+        },
+        {
+          "startTime": 117661,
+          "endTime": 118437,
+          "word": "thinking"
+        }
+      ]
+    },
+    {
+      "time": 118570,
+      "endTime": 120785,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118570,
+          "endTime": 118859,
+          "word": "I"
+        },
+        {
+          "startTime": 118859,
+          "endTime": 119161,
+          "word": "want"
+        },
+        {
+          "startTime": 119161,
+          "endTime": 119426,
+          "word": "you"
+        },
+        {
+          "startTime": 119426,
+          "endTime": 119761,
+          "word": "to"
+        },
+        {
+          "startTime": 119761,
+          "endTime": 120059,
+          "word": "be"
+        },
+        {
+          "startTime": 120059,
+          "endTime": 120785,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 120970,
+      "endTime": 123934,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120978,
+          "endTime": 121267,
+          "word": "I"
+        },
+        {
+          "startTime": 121267,
+          "endTime": 121549,
+          "word": "want"
+        },
+        {
+          "startTime": 121549,
+          "endTime": 121851,
+          "word": "you"
+        },
+        {
+          "startTime": 121851,
+          "endTime": 122149,
+          "word": "to"
+        },
+        {
+          "startTime": 122149,
+          "endTime": 122416,
+          "word": "be"
+        },
+        {
+          "startTime": 122416,
+          "endTime": 123934,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 123940,
+      "endTime": 128771,
+      "text": "So I'll go, I'll go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123942,
+          "endTime": 124256,
+          "word": "So"
+        },
+        {
+          "startTime": 124256,
+          "endTime": 124964,
+          "word": "I'll"
+        },
+        {
+          "startTime": 124964,
+          "endTime": 126351,
+          "word": "go,"
+        },
+        {
+          "startTime": 126838,
+          "endTime": 127326,
+          "word": "I'll"
+        },
+        {
+          "startTime": 127326,
+          "endTime": 128771,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 129120,
+      "endTime": 132863,
+      "text": "I will go, go, go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 129122,
+          "endTime": 129222,
+          "word": "I"
+        },
+        {
+          "startTime": 129222,
+          "endTime": 129726,
+          "word": "will"
+        },
+        {
+          "startTime": 129726,
+          "endTime": 130976,
+          "word": "go,"
+        },
+        {
+          "startTime": 130976,
+          "endTime": 132147,
+          "word": "go,"
+        },
+        {
+          "startTime": 132147,
+          "endTime": 132863,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 133570,
+      "endTime": 138525,
+      "text": "So I'll go, I'll go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 133579,
+          "endTime": 133824,
+          "word": "So"
+        },
+        {
+          "startTime": 133824,
+          "endTime": 134593,
+          "word": "I'll"
+        },
+        {
+          "startTime": 134593,
+          "endTime": 136142,
+          "word": "go,"
+        },
+        {
+          "startTime": 136398,
+          "endTime": 136878,
+          "word": "I'll"
+        },
+        {
+          "startTime": 136878,
+          "endTime": 138525,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 138660,
+      "endTime": 142638,
+      "text": "I will go, go, go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 138660,
+          "endTime": 138760,
+          "word": "I"
+        },
+        {
+          "startTime": 138760,
+          "endTime": 139426,
+          "word": "will"
+        },
+        {
+          "startTime": 139426,
+          "endTime": 140640,
+          "word": "go,"
+        },
+        {
+          "startTime": 140640,
+          "endTime": 141865,
+          "word": "go,"
+        },
+        {
+          "startTime": 141865,
+          "endTime": 142638,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 144050,
+      "endTime": 147255,
+      "text": "Lately, I've been, I've been thinking",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144055,
+          "endTime": 144773,
+          "word": "Lately,"
+        },
+        {
+          "startTime": 145085,
+          "endTime": 145402,
+          "word": "I've"
+        },
+        {
+          "startTime": 145402,
+          "endTime": 145900,
+          "word": "been,"
+        },
+        {
+          "startTime": 146018,
+          "endTime": 146301,
+          "word": "I've"
+        },
+        {
+          "startTime": 146301,
+          "endTime": 146602,
+          "word": "been"
+        },
+        {
+          "startTime": 146602,
+          "endTime": 147255,
+          "word": "thinking"
+        }
+      ]
+    },
+    {
+      "time": 147430,
+      "endTime": 149603,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147431,
+          "endTime": 147763,
+          "word": "I"
+        },
+        {
+          "startTime": 147763,
+          "endTime": 148108,
+          "word": "want"
+        },
+        {
+          "startTime": 148108,
+          "endTime": 148388,
+          "word": "you"
+        },
+        {
+          "startTime": 148388,
+          "endTime": 148697,
+          "word": "to"
+        },
+        {
+          "startTime": 148697,
+          "endTime": 148977,
+          "word": "be"
+        },
+        {
+          "startTime": 148977,
+          "endTime": 149603,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 149800,
+      "endTime": 152197,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149804,
+          "endTime": 150064,
+          "word": "I"
+        },
+        {
+          "startTime": 150064,
+          "endTime": 150320,
+          "word": "want"
+        },
+        {
+          "startTime": 150320,
+          "endTime": 150716,
+          "word": "you"
+        },
+        {
+          "startTime": 150716,
+          "endTime": 150984,
+          "word": "to"
+        },
+        {
+          "startTime": 150984,
+          "endTime": 151285,
+          "word": "be"
+        },
+        {
+          "startTime": 151285,
+          "endTime": 152197,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 153700,
+      "endTime": 156841,
+      "text": "Even though I might not like this",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153707,
+          "endTime": 154313,
+          "word": "Even"
+        },
+        {
+          "startTime": 154610,
+          "endTime": 154954,
+          "word": "though"
+        },
+        {
+          "startTime": 154954,
+          "endTime": 155538,
+          "word": "I"
+        },
+        {
+          "startTime": 155538,
+          "endTime": 155853,
+          "word": "might"
+        },
+        {
+          "startTime": 155853,
+          "endTime": 156127,
+          "word": "not"
+        },
+        {
+          "startTime": 156127,
+          "endTime": 156490,
+          "word": "like"
+        },
+        {
+          "startTime": 156490,
+          "endTime": 156841,
+          "word": "this"
+        }
+      ]
+    },
+    {
+      "time": 156960,
+      "endTime": 159207,
+      "text": "I think that you'll be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 156963,
+          "endTime": 157302,
+          "word": "I"
+        },
+        {
+          "startTime": 157302,
+          "endTime": 157603,
+          "word": "think"
+        },
+        {
+          "startTime": 157603,
+          "endTime": 157902,
+          "word": "that"
+        },
+        {
+          "startTime": 157902,
+          "endTime": 158200,
+          "word": "you'll"
+        },
+        {
+          "startTime": 158200,
+          "endTime": 158552,
+          "word": "be"
+        },
+        {
+          "startTime": 158552,
+          "endTime": 159207,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 159400,
+      "endTime": 162363,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159402,
+          "endTime": 159530,
+          "word": "I"
+        },
+        {
+          "startTime": 159530,
+          "endTime": 159996,
+          "word": "want"
+        },
+        {
+          "startTime": 159996,
+          "endTime": 160329,
+          "word": "you"
+        },
+        {
+          "startTime": 160329,
+          "endTime": 160612,
+          "word": "to"
+        },
+        {
+          "startTime": 160612,
+          "endTime": 160929,
+          "word": "be"
+        },
+        {
+          "startTime": 160929,
+          "endTime": 162363,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 162960,
+      "endTime": 166266,
+      "text": "Then only for a minute",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 162966,
+          "endTime": 163286,
+          "word": "Then"
+        },
+        {
+          "startTime": 163286,
+          "endTime": 163899,
+          "word": "only"
+        },
+        {
+          "startTime": 163899,
+          "endTime": 164226,
+          "word": "for"
+        },
+        {
+          "startTime": 164226,
+          "endTime": 164369,
+          "word": "a"
+        },
+        {
+          "startTime": 164369,
+          "endTime": 166266,
+          "word": "minute"
+        }
+      ]
+    },
+    {
+      "time": 166600,
+      "endTime": 168708,
+      "text": "I want to change my mind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 166602,
+          "endTime": 166803,
+          "word": "I"
+        },
+        {
+          "startTime": 166803,
+          "endTime": 167152,
+          "word": "want"
+        },
+        {
+          "startTime": 167152,
+          "endTime": 167454,
+          "word": "to"
+        },
+        {
+          "startTime": 167454,
+          "endTime": 167752,
+          "word": "change"
+        },
+        {
+          "startTime": 167752,
+          "endTime": 168054,
+          "word": "my"
+        },
+        {
+          "startTime": 168054,
+          "endTime": 168708,
+          "word": "mind"
+        }
+      ]
+    },
+    {
+      "time": 168710,
+      "endTime": 172262,
+      "text": "'Cause this just don't feel right to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 168718,
+          "endTime": 169270,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 169270,
+          "endTime": 169574,
+          "word": "this"
+        },
+        {
+          "startTime": 169574,
+          "endTime": 169871,
+          "word": "just"
+        },
+        {
+          "startTime": 169871,
+          "endTime": 170269,
+          "word": "don't"
+        },
+        {
+          "startTime": 170269,
+          "endTime": 170507,
+          "word": "feel"
+        },
+        {
+          "startTime": 170507,
+          "endTime": 171061,
+          "word": "right"
+        },
+        {
+          "startTime": 171061,
+          "endTime": 171573,
+          "word": "to"
+        },
+        {
+          "startTime": 171573,
+          "endTime": 172262,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 172560,
+      "endTime": 175887,
+      "text": "I wanna raise your spirits",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 172567,
+          "endTime": 172964,
+          "word": "I"
+        },
+        {
+          "startTime": 172964,
+          "endTime": 173565,
+          "word": "wanna"
+        },
+        {
+          "startTime": 173565,
+          "endTime": 173892,
+          "word": "raise"
+        },
+        {
+          "startTime": 173892,
+          "endTime": 174124,
+          "word": "your"
+        },
+        {
+          "startTime": 174124,
+          "endTime": 175887,
+          "word": "spirits"
+        }
+      ]
+    },
+    {
+      "time": 176150,
+      "endTime": 178650,
+      "text": "I want to see you smile, but",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 176156,
+          "endTime": 176481,
+          "word": "I"
+        },
+        {
+          "startTime": 176481,
+          "endTime": 176753,
+          "word": "want"
+        },
+        {
+          "startTime": 176753,
+          "endTime": 177017,
+          "word": "to"
+        },
+        {
+          "startTime": 177017,
+          "endTime": 177331,
+          "word": "see"
+        },
+        {
+          "startTime": 177331,
+          "endTime": 177633,
+          "word": "you"
+        },
+        {
+          "startTime": 177633,
+          "endTime": 178198,
+          "word": "smile,"
+        },
+        {
+          "startTime": 178198,
+          "endTime": 178650,
+          "word": "but"
+        }
+      ]
+    },
+    {
+      "time": 178850,
+      "endTime": 182068,
+      "text": "Know that means I'll have to leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 178850,
+          "endTime": 179216,
+          "word": "Know"
+        },
+        {
+          "startTime": 179216,
+          "endTime": 179418,
+          "word": "that"
+        },
+        {
+          "startTime": 179418,
+          "endTime": 179767,
+          "word": "means"
+        },
+        {
+          "startTime": 179767,
+          "endTime": 180026,
+          "word": "I'll"
+        },
+        {
+          "startTime": 180026,
+          "endTime": 180610,
+          "word": "have"
+        },
+        {
+          "startTime": 180610,
+          "endTime": 181175,
+          "word": "to"
+        },
+        {
+          "startTime": 181175,
+          "endTime": 182068,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 188440,
+      "endTime": 191578,
+      "text": "Know that means I'll have to leave",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 188449,
+          "endTime": 188634,
+          "word": "Know"
+        },
+        {
+          "startTime": 188634,
+          "endTime": 188999,
+          "word": "that"
+        },
+        {
+          "startTime": 188999,
+          "endTime": 189367,
+          "word": "means"
+        },
+        {
+          "startTime": 189367,
+          "endTime": 189716,
+          "word": "I'll"
+        },
+        {
+          "startTime": 189716,
+          "endTime": 190284,
+          "word": "have"
+        },
+        {
+          "startTime": 190284,
+          "endTime": 190783,
+          "word": "to"
+        },
+        {
+          "startTime": 190783,
+          "endTime": 191578,
+          "word": "leave"
+        }
+      ]
+    },
+    {
+      "time": 192120,
+      "endTime": 195252,
+      "text": "Lately, I've been, I've been thinking",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 192120,
+          "endTime": 192981,
+          "word": "Lately,"
+        },
+        {
+          "startTime": 192981,
+          "endTime": 193248,
+          "word": "I've"
+        },
+        {
+          "startTime": 193248,
+          "endTime": 193883,
+          "word": "been,"
+        },
+        {
+          "startTime": 193883,
+          "endTime": 194181,
+          "word": "I've"
+        },
+        {
+          "startTime": 194181,
+          "endTime": 194432,
+          "word": "been"
+        },
+        {
+          "startTime": 194432,
+          "endTime": 195252,
+          "word": "thinking"
+        }
+      ]
+    },
+    {
+      "time": 195380,
+      "endTime": 197585,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 195382,
+          "endTime": 195608,
+          "word": "I"
+        },
+        {
+          "startTime": 195608,
+          "endTime": 195942,
+          "word": "want"
+        },
+        {
+          "startTime": 195942,
+          "endTime": 196256,
+          "word": "you"
+        },
+        {
+          "startTime": 196256,
+          "endTime": 196574,
+          "word": "to"
+        },
+        {
+          "startTime": 196574,
+          "endTime": 196942,
+          "word": "be"
+        },
+        {
+          "startTime": 196942,
+          "endTime": 197585,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 197780,
+      "endTime": 200067,
+      "text": "I want you to be happier",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 197788,
+          "endTime": 197961,
+          "word": "I"
+        },
+        {
+          "startTime": 197961,
+          "endTime": 198213,
+          "word": "want"
+        },
+        {
+          "startTime": 198213,
+          "endTime": 198710,
+          "word": "you"
+        },
+        {
+          "startTime": 198710,
+          "endTime": 199012,
+          "word": "to"
+        },
+        {
+          "startTime": 199012,
+          "endTime": 199262,
+          "word": "be"
+        },
+        {
+          "startTime": 199262,
+          "endTime": 200067,
+          "word": "happier"
+        }
+      ]
+    },
+    {
+      "time": 200720,
+      "endTime": 205703,
+      "text": "So I'll go, I'll go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 200722,
+          "endTime": 201100,
+          "word": "So"
+        },
+        {
+          "startTime": 201100,
+          "endTime": 201598,
+          "word": "I'll"
+        },
+        {
+          "startTime": 201598,
+          "endTime": 203096,
+          "word": "go,"
+        },
+        {
+          "startTime": 203465,
+          "endTime": 203881,
+          "word": "I'll"
+        },
+        {
+          "startTime": 203881,
+          "endTime": 205703,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 205920,
+      "endTime": 210086,
+      "text": "I will go, go, go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 205928,
+          "endTime": 206226,
+          "word": "I"
+        },
+        {
+          "startTime": 206226,
+          "endTime": 206623,
+          "word": "will"
+        },
+        {
+          "startTime": 206623,
+          "endTime": 207693,
+          "word": "go,"
+        },
+        {
+          "startTime": 207693,
+          "endTime": 208941,
+          "word": "go,"
+        },
+        {
+          "startTime": 208941,
+          "endTime": 210086,
+          "word": "go"
+        }
+      ]
+    }
+  ]
+}
