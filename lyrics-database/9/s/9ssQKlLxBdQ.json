@@ -1,0 +1,1628 @@
+{
+  "videoId": "9ssQKlLxBdQ",
+  "title": "Thunder",
+  "artist": "Imagine Dragons",
+  "duration": 188,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.500\" end=\"00:03.275\" ttm:agent=\"v1\">\n        <span begin=\"00:00.507\" end=\"00:00.731\">Just<\/span>\n        <span begin=\"00:00.731\" end=\"00:00.899\">a<\/span>\n        <span begin=\"00:00.899\" end=\"00:01.232\">young<\/span>\n        <span begin=\"00:01.232\" end=\"00:01.656\">gun<\/span>\n        <span begin=\"00:01.952\" end=\"00:02.115\">with<\/span>\n        <span begin=\"00:02.115\" end=\"00:02.315\">a<\/span>\n        <span begin=\"00:02.315\" end=\"00:02.648\">quick<\/span>\n        <span begin=\"00:02.648\" end=\"00:03.275\">fuse<\/span>\n      <\/p>\n      <p begin=\"00:03.380\" end=\"00:06.075\" ttm:agent=\"v1\">\n        <span begin=\"00:03.385\" end=\"00:03.592\">I<\/span>\n        <span begin=\"00:03.592\" end=\"00:03.776\">was<\/span>\n        <span begin=\"00:03.776\" end=\"00:04.526\">uptight,<\/span>\n        <span begin=\"00:04.811\" end=\"00:05.160\">wanna<\/span>\n        <span begin=\"00:05.160\" end=\"00:05.526\">let<\/span>\n        <span begin=\"00:05.526\" end=\"00:06.075\">loose<\/span>\n      <\/p>\n      <p begin=\"00:06.240\" end=\"00:08.771\" ttm:agent=\"v1\">\n        <span begin=\"00:06.240\" end=\"00:06.450\">I<\/span>\n        <span begin=\"00:06.450\" end=\"00:06.618\">was<\/span>\n        <span begin=\"00:06.618\" end=\"00:07.341\">dreaming<\/span>\n        <span begin=\"00:07.501\" end=\"00:07.703\">of<\/span>\n        <span begin=\"00:07.703\" end=\"00:08.018\">bigger<\/span>\n        <span begin=\"00:08.018\" end=\"00:08.402\">things,<\/span>\n        <span begin=\"00:08.402\" end=\"00:08.771\">and<\/span>\n      <\/p>\n      <p begin=\"00:09.020\" end=\"00:11.657\" ttm:agent=\"v1\">\n        <span begin=\"00:09.028\" end=\"00:09.393\">Wanna<\/span>\n        <span begin=\"00:09.393\" end=\"00:09.761\">leave<\/span>\n        <span begin=\"00:09.761\" end=\"00:10.145\">my<\/span>\n        <span begin=\"00:10.145\" end=\"00:10.510\">old<\/span>\n        <span begin=\"00:10.510\" end=\"00:10.859\">life<\/span>\n        <span begin=\"00:10.859\" end=\"00:11.657\">behind<\/span>\n      <\/p>\n      <p begin=\"00:11.920\" end=\"00:14.505\" ttm:agent=\"v1\">\n        <span begin=\"00:11.921\" end=\"00:12.126\">Not<\/span>\n        <span begin=\"00:12.126\" end=\"00:12.310\">a<\/span>\n        <span begin=\"00:12.310\" end=\"00:12.659\">&quot;Yes,<\/span>\n        <span begin=\"00:12.659\" end=\"00:13.094\">sir&quot;,<\/span>\n        <span begin=\"00:13.376\" end=\"00:13.576\">not<\/span>\n        <span begin=\"00:13.576\" end=\"00:13.758\">a<\/span>\n        <span begin=\"00:13.758\" end=\"00:14.505\">follower<\/span>\n      <\/p>\n      <p begin=\"00:14.740\" end=\"00:16.248\" ttm:agent=\"v1\">\n        <span begin=\"00:14.740\" end=\"00:14.969\">Fit<\/span>\n        <span begin=\"00:14.969\" end=\"00:15.169\">the<\/span>\n        <span begin=\"00:15.169\" end=\"00:15.502\">box,<\/span>\n        <span begin=\"00:15.502\" end=\"00:15.702\">fit<\/span>\n        <span begin=\"00:15.702\" end=\"00:15.883\">the<\/span>\n        <span begin=\"00:15.883\" end=\"00:16.248\">mold<\/span>\n      <\/p>\n      <p begin=\"00:16.240\" end=\"00:19.417\" ttm:agent=\"v1\">\n        <span begin=\"00:16.248\" end=\"00:16.440\">Have<\/span>\n        <span begin=\"00:16.440\" end=\"00:16.622\">a<\/span>\n        <span begin=\"00:16.622\" end=\"00:16.934\">seat<\/span>\n        <span begin=\"00:16.934\" end=\"00:17.144\">in<\/span>\n        <span begin=\"00:17.144\" end=\"00:17.334\">the<\/span>\n        <span begin=\"00:17.334\" end=\"00:18.059\">foyer,<\/span>\n        <span begin=\"00:18.374\" end=\"00:18.574\">take<\/span>\n        <span begin=\"00:18.574\" end=\"00:18.790\">a<\/span>\n        <span begin=\"00:18.790\" end=\"00:19.417\">number<\/span>\n      <\/p>\n      <p begin=\"00:19.760\" end=\"00:22.260\" ttm:agent=\"v1\">\n        <span begin=\"00:19.767\" end=\"00:19.977\">I<\/span>\n        <span begin=\"00:19.977\" end=\"00:20.177\">was<\/span>\n        <span begin=\"00:20.177\" end=\"00:20.894\">lightning<\/span>\n        <span begin=\"00:21.078\" end=\"00:21.393\">before<\/span>\n        <span begin=\"00:21.393\" end=\"00:21.561\">the<\/span>\n        <span begin=\"00:21.561\" end=\"00:22.260\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:19.760\" end=\"00:23.017\" role=\"x-bg\">\n        <span begin=\"00:22.268\" end=\"00:23.017\">(Thunder)<\/span>\n      <\/p>\n      <p begin=\"00:23.010\" end=\"00:25.578\" ttm:agent=\"v2000\">\n        <span begin=\"00:23.017\" end=\"00:23.723\">Thunder,<\/span>\n        <span begin=\"00:24.456\" end=\"00:25.174\">thunder,<\/span>\n        <span begin=\"00:25.174\" end=\"00:25.578\">thun-<\/span>\n      <\/p>\n      <p begin=\"00:25.860\" end=\"00:28.744\" ttm:agent=\"v2000\">\n        <span begin=\"00:25.861\" end=\"00:26.576\">Thunder,<\/span>\n        <span begin=\"00:26.938\" end=\"00:28.036\">thu-thu-thunder,<\/span>\n        <span begin=\"00:28.036\" end=\"00:28.744\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:28.740\" end=\"00:31.277\" ttm:agent=\"v2000\">\n        <span begin=\"00:28.744\" end=\"00:29.442\">Thunder,<\/span>\n        <span begin=\"00:30.159\" end=\"00:30.909\">thunder,<\/span>\n        <span begin=\"00:30.909\" end=\"00:31.277\">thun-<\/span>\n      <\/p>\n      <p begin=\"00:31.580\" end=\"00:34.367\" ttm:agent=\"v2000\">\n        <span begin=\"00:31.584\" end=\"00:32.287\">Thunder,<\/span>\n        <span begin=\"00:32.631\" end=\"00:33.757\">thu-thu-thunder,<\/span>\n        <span begin=\"00:33.757\" end=\"00:34.367\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:34.360\" end=\"00:36.554\" ttm:agent=\"v1\">\n        <span begin=\"00:34.367\" end=\"00:35.170\">Thunder,<\/span>\n        <span begin=\"00:35.462\" end=\"00:35.646\">feel<\/span>\n        <span begin=\"00:35.646\" end=\"00:35.862\">the<\/span>\n        <span begin=\"00:35.862\" end=\"00:36.554\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:37.580\" end=\"00:39.487\" ttm:agent=\"v1\">\n        <span begin=\"00:37.584\" end=\"00:38.357\">Lightning<\/span>\n        <span begin=\"00:38.357\" end=\"00:38.557\">then<\/span>\n        <span begin=\"00:38.557\" end=\"00:38.738\">the<\/span>\n        <span begin=\"00:38.738\" end=\"00:39.487\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:40.120\" end=\"00:42.287\" ttm:agent=\"v1\">\n        <span begin=\"00:40.123\" end=\"00:40.878\">Thunder,<\/span>\n        <span begin=\"00:41.192\" end=\"00:41.376\">feel<\/span>\n        <span begin=\"00:41.376\" end=\"00:41.560\">the<\/span>\n        <span begin=\"00:41.560\" end=\"00:42.287\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:43.280\" end=\"00:45.105\" ttm:agent=\"v1\">\n        <span begin=\"00:43.289\" end=\"00:44.024\">Lightning<\/span>\n        <span begin=\"00:44.024\" end=\"00:44.224\">then<\/span>\n        <span begin=\"00:44.224\" end=\"00:44.459\">the<\/span>\n        <span begin=\"00:44.459\" end=\"00:45.105\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:45.100\" end=\"00:49.473\" ttm:agent=\"v1\">\n        <span begin=\"00:45.105\" end=\"00:45.896\">Thunder,<\/span>\n        <span begin=\"00:45.896\" end=\"00:46.608\">thunder,<\/span>\n        <span begin=\"00:48.657\" end=\"00:49.473\">thunder<\/span>\n      <\/p>\n      <p begin=\"00:51.900\" end=\"00:54.540\" ttm:agent=\"v1\">\n        <span begin=\"00:51.905\" end=\"00:52.139\">Kids<\/span>\n        <span begin=\"00:52.139\" end=\"00:52.323\">were<\/span>\n        <span begin=\"00:52.323\" end=\"00:53.062\">laughing<\/span>\n        <span begin=\"00:53.355\" end=\"00:53.539\">in<\/span>\n        <span begin=\"00:53.539\" end=\"00:53.755\">my<\/span>\n        <span begin=\"00:53.755\" end=\"00:54.540\">classes<\/span>\n      <\/p>\n      <p begin=\"00:54.620\" end=\"00:57.267\" ttm:agent=\"v1\">\n        <span begin=\"00:54.627\" end=\"00:54.829\">While<\/span>\n        <span begin=\"00:54.829\" end=\"00:55.032\">I<\/span>\n        <span begin=\"00:55.032\" end=\"00:55.205\">was<\/span>\n        <span begin=\"00:55.205\" end=\"00:55.834\">scheming<\/span>\n        <span begin=\"00:56.186\" end=\"00:56.402\">for<\/span>\n        <span begin=\"00:56.402\" end=\"00:56.608\">the<\/span>\n        <span begin=\"00:56.608\" end=\"00:57.267\">masses<\/span>\n      <\/p>\n      <p begin=\"00:57.260\" end=\"00:59.469\" ttm:agent=\"v1\">\n        <span begin=\"00:57.267\" end=\"00:57.496\">Who<\/span>\n        <span begin=\"00:57.496\" end=\"00:57.650\">do<\/span>\n        <span begin=\"00:57.650\" end=\"00:57.832\">you<\/span>\n        <span begin=\"00:57.832\" end=\"00:58.194\">think<\/span>\n        <span begin=\"00:58.194\" end=\"00:58.413\">you<\/span>\n        <span begin=\"00:58.413\" end=\"00:59.469\">are<\/span>\n      <\/p>\n      <p begin=\"01:00.100\" end=\"01:03.754\" ttm:agent=\"v1\">\n        <span begin=\"01:00.106\" end=\"01:00.513\">Dreaming<\/span>\n        <span begin=\"01:00.513\" end=\"01:00.849\">&apos;bout<\/span>\n        <span begin=\"01:00.849\" end=\"01:01.215\">being<\/span>\n        <span begin=\"01:01.215\" end=\"01:01.431\">a<\/span>\n        <span begin=\"01:01.431\" end=\"01:01.748\">big<\/span>\n        <span begin=\"01:01.748\" end=\"01:03.754\">star?<\/span>\n      <\/p>\n      <p begin=\"01:03.160\" end=\"01:05.882\" ttm:agent=\"v1\">\n        <span begin=\"01:03.160\" end=\"01:03.373\">They<\/span>\n        <span begin=\"01:03.373\" end=\"01:03.591\">say<\/span>\n        <span begin=\"01:03.591\" end=\"01:03.757\">you&apos;re<\/span>\n        <span begin=\"01:03.757\" end=\"01:04.519\">basic,<\/span>\n        <span begin=\"01:04.623\" end=\"01:04.807\">they<\/span>\n        <span begin=\"01:04.807\" end=\"01:05.007\">say<\/span>\n        <span begin=\"01:05.007\" end=\"01:05.191\">you&apos;re<\/span>\n        <span begin=\"01:05.191\" end=\"01:05.882\">easy<\/span>\n      <\/p>\n      <p begin=\"01:06.040\" end=\"01:08.716\" ttm:agent=\"v1\">\n        <span begin=\"01:06.045\" end=\"01:06.210\">You&apos;re<\/span>\n        <span begin=\"01:06.210\" end=\"01:06.594\">always<\/span>\n        <span begin=\"01:06.594\" end=\"01:07.362\">riding<\/span>\n        <span begin=\"01:07.599\" end=\"01:07.831\">in<\/span>\n        <span begin=\"01:07.831\" end=\"01:08.060\">the<\/span>\n        <span begin=\"01:08.060\" end=\"01:08.716\">backseat<\/span>\n      <\/p>\n      <p begin=\"01:09.010\" end=\"01:11.618\" ttm:agent=\"v1\">\n        <span begin=\"01:09.015\" end=\"01:09.273\">Now<\/span>\n        <span begin=\"01:09.273\" end=\"01:09.457\">I&apos;m<\/span>\n        <span begin=\"01:09.457\" end=\"01:10.199\">smiling<\/span>\n        <span begin=\"01:10.441\" end=\"01:10.673\">from<\/span>\n        <span begin=\"01:10.673\" end=\"01:10.873\">the<\/span>\n        <span begin=\"01:10.873\" end=\"01:11.206\">stage<\/span>\n        <span begin=\"01:11.206\" end=\"01:11.618\">while<\/span>\n      <\/p>\n      <p begin=\"01:11.880\" end=\"01:14.545\" ttm:agent=\"v1\">\n        <span begin=\"01:11.880\" end=\"01:12.149\">You<\/span>\n        <span begin=\"01:12.149\" end=\"01:12.333\">were<\/span>\n        <span begin=\"01:12.333\" end=\"01:13.050\">clapping<\/span>\n        <span begin=\"01:13.349\" end=\"01:13.533\">in<\/span>\n        <span begin=\"01:13.533\" end=\"01:13.733\">the<\/span>\n        <span begin=\"01:13.733\" end=\"01:14.545\">nosebleeds<\/span>\n      <\/p>\n      <p begin=\"01:14.410\" end=\"01:16.938\" ttm:agent=\"v2000\">\n        <span begin=\"01:14.418\" end=\"01:15.145\">Thunder,<\/span>\n        <span begin=\"01:15.863\" end=\"01:16.588\">thunder,<\/span>\n        <span begin=\"01:16.588\" end=\"01:16.938\">thun-<\/span>\n      <\/p>\n      <p begin=\"01:17.280\" end=\"01:20.140\" ttm:agent=\"v2000\">\n        <span begin=\"01:17.287\" end=\"01:18.004\">Thunder,<\/span>\n        <span begin=\"01:18.377\" end=\"01:19.452\">thu-thu-thunder,<\/span>\n        <span begin=\"01:19.452\" end=\"01:20.140\">thunder<\/span>\n      <\/p>\n      <p begin=\"01:20.140\" end=\"01:22.674\" ttm:agent=\"v2000\">\n        <span begin=\"01:20.140\" end=\"01:20.847\">Thunder,<\/span>\n        <span begin=\"01:21.575\" end=\"01:22.308\">thunder,<\/span>\n        <span begin=\"01:22.308\" end=\"01:22.674\">thun-<\/span>\n      <\/p>\n      <p begin=\"01:23.000\" end=\"01:25.815\" ttm:agent=\"v2000\">\n        <span begin=\"01:23.001\" end=\"01:23.694\">Thunder,<\/span>\n        <span begin=\"01:24.059\" end=\"01:25.160\">thu-thu-thunder,<\/span>\n        <span begin=\"01:25.160\" end=\"01:25.815\">thunder<\/span>\n      <\/p>\n      <p begin=\"01:25.810\" end=\"01:28.007\" ttm:agent=\"v1\">\n        <span begin=\"01:25.815\" end=\"01:26.588\">Thunder,<\/span>\n        <span begin=\"01:26.881\" end=\"01:27.097\">feel<\/span>\n        <span begin=\"01:27.097\" end=\"01:27.313\">the<\/span>\n        <span begin=\"01:27.313\" end=\"01:28.007\">thunder<\/span>\n      <\/p>\n      <p begin=\"01:29.000\" end=\"01:30.874\" ttm:agent=\"v1\">\n        <span begin=\"01:29.007\" end=\"01:29.777\">Lightning<\/span>\n        <span begin=\"01:29.777\" end=\"01:29.977\">then<\/span>\n        <span begin=\"01:29.977\" end=\"01:30.193\">the<\/span>\n        <span begin=\"01:30.193\" end=\"01:30.874\">thunder<\/span>\n      <\/p>\n      <p begin=\"01:31.480\" end=\"01:33.690\" ttm:agent=\"v1\">\n        <span begin=\"01:31.480\" end=\"01:32.312\">Thunder,<\/span>\n        <span begin=\"01:32.583\" end=\"01:32.815\">feel<\/span>\n        <span begin=\"01:32.815\" end=\"01:33.015\">the<\/span>\n        <span begin=\"01:33.015\" end=\"01:33.690\">thunder<\/span>\n      <\/p>\n      <p begin=\"01:34.680\" end=\"01:37.347\" ttm:agent=\"v1\">\n        <span begin=\"01:34.686\" end=\"01:35.472\">Lightning<\/span>\n        <span begin=\"01:35.472\" end=\"01:35.688\">then<\/span>\n        <span begin=\"01:35.688\" end=\"01:35.872\">the<\/span>\n        <span begin=\"01:35.872\" end=\"01:36.555\">thunder,<\/span>\n        <span begin=\"01:36.555\" end=\"01:37.347\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:00.020\" end=\"02:02.318\" ttm:agent=\"v1\">\n        <span begin=\"02:00.021\" end=\"02:00.872\">Thunder,<\/span>\n        <span begin=\"02:01.156\" end=\"02:01.396\">feel<\/span>\n        <span begin=\"02:01.396\" end=\"02:01.626\">the<\/span>\n        <span begin=\"02:01.626\" end=\"02:02.318\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:03.220\" end=\"02:05.860\" ttm:agent=\"v1\">\n        <span begin=\"02:03.229\" end=\"02:04.051\">Lightning<\/span>\n        <span begin=\"02:04.051\" end=\"02:04.236\">then<\/span>\n        <span begin=\"02:04.236\" end=\"02:04.436\">the<\/span>\n        <span begin=\"02:04.436\" end=\"02:05.103\">thunder,<\/span>\n        <span begin=\"02:05.103\" end=\"02:05.860\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:05.860\" end=\"02:08.023\" ttm:agent=\"v1\">\n        <span begin=\"02:05.860\" end=\"02:06.596\">Thunder,<\/span>\n        <span begin=\"02:06.886\" end=\"02:07.118\">feel<\/span>\n        <span begin=\"02:07.118\" end=\"02:07.318\">the<\/span>\n        <span begin=\"02:07.318\" end=\"02:08.023\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:08.960\" end=\"02:11.561\" ttm:agent=\"v1\">\n        <span begin=\"02:08.969\" end=\"02:09.747\">Lightning<\/span>\n        <span begin=\"02:09.747\" end=\"02:09.947\">then<\/span>\n        <span begin=\"02:09.947\" end=\"02:10.150\">the<\/span>\n        <span begin=\"02:10.150\" end=\"02:10.847\">thunder,<\/span>\n        <span begin=\"02:10.847\" end=\"02:11.561\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:11.560\" end=\"02:13.755\" ttm:agent=\"v1\">\n        <span begin=\"02:11.561\" end=\"02:12.292\">Thunder,<\/span>\n        <span begin=\"02:12.622\" end=\"02:12.822\">feel<\/span>\n        <span begin=\"02:12.822\" end=\"02:13.022\">the<\/span>\n        <span begin=\"02:13.022\" end=\"02:13.755\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:14.680\" end=\"02:17.269\" ttm:agent=\"v1\">\n        <span begin=\"02:14.680\" end=\"02:15.485\">Lightning<\/span>\n        <span begin=\"02:15.485\" end=\"02:15.685\">then<\/span>\n        <span begin=\"02:15.685\" end=\"02:15.869\">the<\/span>\n        <span begin=\"02:15.869\" end=\"02:16.567\">thunder,<\/span>\n        <span begin=\"02:16.567\" end=\"02:17.269\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:17.260\" end=\"02:19.438\" ttm:agent=\"v1\">\n        <span begin=\"02:17.269\" end=\"02:18.021\">Thunder,<\/span>\n        <span begin=\"02:18.314\" end=\"02:18.530\">feel<\/span>\n        <span begin=\"02:18.530\" end=\"02:18.730\">the<\/span>\n        <span begin=\"02:18.730\" end=\"02:19.438\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:20.400\" end=\"02:23.000\" ttm:agent=\"v1\">\n        <span begin=\"02:20.403\" end=\"02:21.204\">Lightning<\/span>\n        <span begin=\"02:21.204\" end=\"02:21.389\">then<\/span>\n        <span begin=\"02:21.389\" end=\"02:21.589\">the<\/span>\n        <span begin=\"02:21.589\" end=\"02:22.266\">thunder,<\/span>\n        <span begin=\"02:22.266\" end=\"02:23.000\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:23.000\" end=\"02:25.165\" ttm:agent=\"v1\">\n        <span begin=\"02:23.000\" end=\"02:23.768\">Thunder,<\/span>\n        <span begin=\"02:24.042\" end=\"02:24.242\">feel<\/span>\n        <span begin=\"02:24.242\" end=\"02:24.442\">the<\/span>\n        <span begin=\"02:24.442\" end=\"02:25.165\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:26.140\" end=\"02:28.707\" ttm:agent=\"v1\">\n        <span begin=\"02:26.145\" end=\"02:26.896\">Lightning<\/span>\n        <span begin=\"02:26.896\" end=\"02:27.115\">then<\/span>\n        <span begin=\"02:27.115\" end=\"02:27.296\">the<\/span>\n        <span begin=\"02:27.296\" end=\"02:27.998\">thunder,<\/span>\n        <span begin=\"02:27.998\" end=\"02:28.707\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:28.700\" end=\"02:31.225\" ttm:agent=\"v2000\">\n        <span begin=\"02:28.707\" end=\"02:29.442\">Thunder,<\/span>\n        <span begin=\"02:30.144\" end=\"02:30.877\">thunder,<\/span>\n        <span begin=\"02:30.877\" end=\"02:31.225\">thun-<\/span>\n      <\/p>\n      <p begin=\"02:31.580\" end=\"02:34.427\" ttm:agent=\"v2000\">\n        <span begin=\"02:31.589\" end=\"02:32.277\">Thunder,<\/span>\n        <span begin=\"02:32.628\" end=\"02:33.727\">thu-thu-thunder,<\/span>\n        <span begin=\"02:33.727\" end=\"02:34.427\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:34.420\" end=\"02:36.954\" ttm:agent=\"v2000\">\n        <span begin=\"02:34.427\" end=\"02:35.112\">Thunder,<\/span>\n        <span begin=\"02:35.845\" end=\"02:36.562\">thunder,<\/span>\n        <span begin=\"02:36.562\" end=\"02:36.954\">thun-<\/span>\n      <\/p>\n      <p begin=\"02:37.260\" end=\"02:40.167\" ttm:agent=\"v2000\">\n        <span begin=\"02:37.266\" end=\"02:37.991\">Thunder,<\/span>\n        <span begin=\"02:38.337\" end=\"02:39.471\">thu-thu-thunder,<\/span>\n        <span begin=\"02:39.471\" end=\"02:40.167\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:40.160\" end=\"02:42.656\" ttm:agent=\"v2000\">\n        <span begin=\"02:40.167\" end=\"02:40.833\">Thunder,<\/span>\n        <span begin=\"02:41.534\" end=\"02:42.284\">thunder,<\/span>\n        <span begin=\"02:42.284\" end=\"02:42.656\">thun-<\/span>\n      <\/p>\n      <p begin=\"02:43.000\" end=\"02:45.860\" ttm:agent=\"v2000\">\n        <span begin=\"02:43.009\" end=\"02:43.721\">Thunder,<\/span>\n        <span begin=\"02:44.055\" end=\"02:45.171\">thu-thu-thunder,<\/span>\n        <span begin=\"02:45.171\" end=\"02:45.860\">thunder<\/span>\n      <\/p>\n      <p begin=\"02:45.860\" end=\"02:48.357\" ttm:agent=\"v2000\">\n        <span begin=\"02:45.860\" end=\"02:46.539\">Thunder,<\/span>\n        <span begin=\"02:47.254\" end=\"02:48.038\">thunder,<\/span>\n        <span begin=\"02:48.038\" end=\"02:48.357\">thun-<\/span>\n      <\/p>\n      <p begin=\"02:48.720\" end=\"02:51.557\" ttm:agent=\"v2000\">\n        <span begin=\"02:48.722\" end=\"02:49.461\">Thunder,<\/span>\n        <span begin=\"02:49.769\" end=\"02:50.921\">thu-thu-thunder,<\/span>\n        <span begin=\"02:50.921\" end=\"02:51.557\">thunder<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 500,
+      "endTime": 3275,
+      "text": "Just a young gun with a quick fuse",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 507,
+          "endTime": 731,
+          "word": "Just"
+        },
+        {
+          "startTime": 731,
+          "endTime": 899,
+          "word": "a"
+        },
+        {
+          "startTime": 899,
+          "endTime": 1232,
+          "word": "young"
+        },
+        {
+          "startTime": 1232,
+          "endTime": 1656,
+          "word": "gun"
+        },
+        {
+          "startTime": 1952,
+          "endTime": 2115,
+          "word": "with"
+        },
+        {
+          "startTime": 2115,
+          "endTime": 2315,
+          "word": "a"
+        },
+        {
+          "startTime": 2315,
+          "endTime": 2648,
+          "word": "quick"
+        },
+        {
+          "startTime": 2648,
+          "endTime": 3275,
+          "word": "fuse"
+        }
+      ]
+    },
+    {
+      "time": 3380,
+      "endTime": 6075,
+      "text": "I was uptight, wanna let loose",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 3385,
+          "endTime": 3592,
+          "word": "I"
+        },
+        {
+          "startTime": 3592,
+          "endTime": 3776,
+          "word": "was"
+        },
+        {
+          "startTime": 3776,
+          "endTime": 4526,
+          "word": "uptight,"
+        },
+        {
+          "startTime": 4811,
+          "endTime": 5160,
+          "word": "wanna"
+        },
+        {
+          "startTime": 5160,
+          "endTime": 5526,
+          "word": "let"
+        },
+        {
+          "startTime": 5526,
+          "endTime": 6075,
+          "word": "loose"
+        }
+      ]
+    },
+    {
+      "time": 6240,
+      "endTime": 8771,
+      "text": "I was dreaming of bigger things, and",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 6240,
+          "endTime": 6450,
+          "word": "I"
+        },
+        {
+          "startTime": 6450,
+          "endTime": 6618,
+          "word": "was"
+        },
+        {
+          "startTime": 6618,
+          "endTime": 7341,
+          "word": "dreaming"
+        },
+        {
+          "startTime": 7501,
+          "endTime": 7703,
+          "word": "of"
+        },
+        {
+          "startTime": 7703,
+          "endTime": 8018,
+          "word": "bigger"
+        },
+        {
+          "startTime": 8018,
+          "endTime": 8402,
+          "word": "things,"
+        },
+        {
+          "startTime": 8402,
+          "endTime": 8771,
+          "word": "and"
+        }
+      ]
+    },
+    {
+      "time": 9020,
+      "endTime": 11657,
+      "text": "Wanna leave my old life behind",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 9028,
+          "endTime": 9393,
+          "word": "Wanna"
+        },
+        {
+          "startTime": 9393,
+          "endTime": 9761,
+          "word": "leave"
+        },
+        {
+          "startTime": 9761,
+          "endTime": 10145,
+          "word": "my"
+        },
+        {
+          "startTime": 10145,
+          "endTime": 10510,
+          "word": "old"
+        },
+        {
+          "startTime": 10510,
+          "endTime": 10859,
+          "word": "life"
+        },
+        {
+          "startTime": 10859,
+          "endTime": 11657,
+          "word": "behind"
+        }
+      ]
+    },
+    {
+      "time": 11920,
+      "endTime": 14505,
+      "text": "Not a \"Yes, sir\", not a follower",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 11921,
+          "endTime": 12126,
+          "word": "Not"
+        },
+        {
+          "startTime": 12126,
+          "endTime": 12310,
+          "word": "a"
+        },
+        {
+          "startTime": 12310,
+          "endTime": 12659,
+          "word": "\"Yes,"
+        },
+        {
+          "startTime": 12659,
+          "endTime": 13094,
+          "word": "sir\","
+        },
+        {
+          "startTime": 13376,
+          "endTime": 13576,
+          "word": "not"
+        },
+        {
+          "startTime": 13576,
+          "endTime": 13758,
+          "word": "a"
+        },
+        {
+          "startTime": 13758,
+          "endTime": 14505,
+          "word": "follower"
+        }
+      ]
+    },
+    {
+      "time": 14740,
+      "endTime": 16248,
+      "text": "Fit the box, fit the mold",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 14740,
+          "endTime": 14969,
+          "word": "Fit"
+        },
+        {
+          "startTime": 14969,
+          "endTime": 15169,
+          "word": "the"
+        },
+        {
+          "startTime": 15169,
+          "endTime": 15502,
+          "word": "box,"
+        },
+        {
+          "startTime": 15502,
+          "endTime": 15702,
+          "word": "fit"
+        },
+        {
+          "startTime": 15702,
+          "endTime": 15883,
+          "word": "the"
+        },
+        {
+          "startTime": 15883,
+          "endTime": 16248,
+          "word": "mold"
+        }
+      ]
+    },
+    {
+      "time": 16240,
+      "endTime": 19417,
+      "text": "Have a seat in the foyer, take a number",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 16248,
+          "endTime": 16440,
+          "word": "Have"
+        },
+        {
+          "startTime": 16440,
+          "endTime": 16622,
+          "word": "a"
+        },
+        {
+          "startTime": 16622,
+          "endTime": 16934,
+          "word": "seat"
+        },
+        {
+          "startTime": 16934,
+          "endTime": 17144,
+          "word": "in"
+        },
+        {
+          "startTime": 17144,
+          "endTime": 17334,
+          "word": "the"
+        },
+        {
+          "startTime": 17334,
+          "endTime": 18059,
+          "word": "foyer,"
+        },
+        {
+          "startTime": 18374,
+          "endTime": 18574,
+          "word": "take"
+        },
+        {
+          "startTime": 18574,
+          "endTime": 18790,
+          "word": "a"
+        },
+        {
+          "startTime": 18790,
+          "endTime": 19417,
+          "word": "number"
+        }
+      ]
+    },
+    {
+      "time": 19760,
+      "endTime": 22260,
+      "text": "I was lightning before the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19767,
+          "endTime": 19977,
+          "word": "I"
+        },
+        {
+          "startTime": 19977,
+          "endTime": 20177,
+          "word": "was"
+        },
+        {
+          "startTime": 20177,
+          "endTime": 20894,
+          "word": "lightning"
+        },
+        {
+          "startTime": 21078,
+          "endTime": 21393,
+          "word": "before"
+        },
+        {
+          "startTime": 21393,
+          "endTime": 21561,
+          "word": "the"
+        },
+        {
+          "startTime": 21561,
+          "endTime": 22260,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 19760,
+      "endTime": 23017,
+      "text": "(Thunder)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 22268,
+          "endTime": 23017,
+          "word": "(Thunder)"
+        }
+      ]
+    },
+    {
+      "time": 23010,
+      "endTime": 25578,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 23017,
+          "endTime": 23723,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 24456,
+          "endTime": 25174,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 25174,
+          "endTime": 25578,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 25860,
+      "endTime": 28744,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 25861,
+          "endTime": 26576,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 26938,
+          "endTime": 28036,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 28036,
+          "endTime": 28744,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 28740,
+      "endTime": 31277,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 28744,
+          "endTime": 29442,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 30159,
+          "endTime": 30909,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 30909,
+          "endTime": 31277,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 31580,
+      "endTime": 34367,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 31584,
+          "endTime": 32287,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 32631,
+          "endTime": 33757,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 33757,
+          "endTime": 34367,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 34360,
+      "endTime": 36554,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34367,
+          "endTime": 35170,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 35462,
+          "endTime": 35646,
+          "word": "feel"
+        },
+        {
+          "startTime": 35646,
+          "endTime": 35862,
+          "word": "the"
+        },
+        {
+          "startTime": 35862,
+          "endTime": 36554,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 37580,
+      "endTime": 39487,
+      "text": "Lightning then the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37584,
+          "endTime": 38357,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 38357,
+          "endTime": 38557,
+          "word": "then"
+        },
+        {
+          "startTime": 38557,
+          "endTime": 38738,
+          "word": "the"
+        },
+        {
+          "startTime": 38738,
+          "endTime": 39487,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 40120,
+      "endTime": 42287,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40123,
+          "endTime": 40878,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 41192,
+          "endTime": 41376,
+          "word": "feel"
+        },
+        {
+          "startTime": 41376,
+          "endTime": 41560,
+          "word": "the"
+        },
+        {
+          "startTime": 41560,
+          "endTime": 42287,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 43280,
+      "endTime": 45105,
+      "text": "Lightning then the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43289,
+          "endTime": 44024,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 44024,
+          "endTime": 44224,
+          "word": "then"
+        },
+        {
+          "startTime": 44224,
+          "endTime": 44459,
+          "word": "the"
+        },
+        {
+          "startTime": 44459,
+          "endTime": 45105,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 45100,
+      "endTime": 49473,
+      "text": "Thunder, thunder, thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45105,
+          "endTime": 45896,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 45896,
+          "endTime": 46608,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 48657,
+          "endTime": 49473,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 51900,
+      "endTime": 54540,
+      "text": "Kids were laughing in my classes",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51905,
+          "endTime": 52139,
+          "word": "Kids"
+        },
+        {
+          "startTime": 52139,
+          "endTime": 52323,
+          "word": "were"
+        },
+        {
+          "startTime": 52323,
+          "endTime": 53062,
+          "word": "laughing"
+        },
+        {
+          "startTime": 53355,
+          "endTime": 53539,
+          "word": "in"
+        },
+        {
+          "startTime": 53539,
+          "endTime": 53755,
+          "word": "my"
+        },
+        {
+          "startTime": 53755,
+          "endTime": 54540,
+          "word": "classes"
+        }
+      ]
+    },
+    {
+      "time": 54620,
+      "endTime": 57267,
+      "text": "While I was scheming for the masses",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54627,
+          "endTime": 54829,
+          "word": "While"
+        },
+        {
+          "startTime": 54829,
+          "endTime": 55032,
+          "word": "I"
+        },
+        {
+          "startTime": 55032,
+          "endTime": 55205,
+          "word": "was"
+        },
+        {
+          "startTime": 55205,
+          "endTime": 55834,
+          "word": "scheming"
+        },
+        {
+          "startTime": 56186,
+          "endTime": 56402,
+          "word": "for"
+        },
+        {
+          "startTime": 56402,
+          "endTime": 56608,
+          "word": "the"
+        },
+        {
+          "startTime": 56608,
+          "endTime": 57267,
+          "word": "masses"
+        }
+      ]
+    },
+    {
+      "time": 57260,
+      "endTime": 59469,
+      "text": "Who do you think you are",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57267,
+          "endTime": 57496,
+          "word": "Who"
+        },
+        {
+          "startTime": 57496,
+          "endTime": 57650,
+          "word": "do"
+        },
+        {
+          "startTime": 57650,
+          "endTime": 57832,
+          "word": "you"
+        },
+        {
+          "startTime": 57832,
+          "endTime": 58194,
+          "word": "think"
+        },
+        {
+          "startTime": 58194,
+          "endTime": 58413,
+          "word": "you"
+        },
+        {
+          "startTime": 58413,
+          "endTime": 59469,
+          "word": "are"
+        }
+      ]
+    },
+    {
+      "time": 60100,
+      "endTime": 63754,
+      "text": "Dreaming 'bout being a big star?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 60106,
+          "endTime": 60513,
+          "word": "Dreaming"
+        },
+        {
+          "startTime": 60513,
+          "endTime": 60849,
+          "word": "'bout"
+        },
+        {
+          "startTime": 60849,
+          "endTime": 61215,
+          "word": "being"
+        },
+        {
+          "startTime": 61215,
+          "endTime": 61431,
+          "word": "a"
+        },
+        {
+          "startTime": 61431,
+          "endTime": 61748,
+          "word": "big"
+        },
+        {
+          "startTime": 61748,
+          "endTime": 63754,
+          "word": "star?"
+        }
+      ]
+    },
+    {
+      "time": 63160,
+      "endTime": 65882,
+      "text": "They say you're basic, they say you're easy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63160,
+          "endTime": 63373,
+          "word": "They"
+        },
+        {
+          "startTime": 63373,
+          "endTime": 63591,
+          "word": "say"
+        },
+        {
+          "startTime": 63591,
+          "endTime": 63757,
+          "word": "you're"
+        },
+        {
+          "startTime": 63757,
+          "endTime": 64519,
+          "word": "basic,"
+        },
+        {
+          "startTime": 64623,
+          "endTime": 64807,
+          "word": "they"
+        },
+        {
+          "startTime": 64807,
+          "endTime": 65007,
+          "word": "say"
+        },
+        {
+          "startTime": 65007,
+          "endTime": 65191,
+          "word": "you're"
+        },
+        {
+          "startTime": 65191,
+          "endTime": 65882,
+          "word": "easy"
+        }
+      ]
+    },
+    {
+      "time": 66040,
+      "endTime": 68716,
+      "text": "You're always riding in the backseat",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66045,
+          "endTime": 66210,
+          "word": "You're"
+        },
+        {
+          "startTime": 66210,
+          "endTime": 66594,
+          "word": "always"
+        },
+        {
+          "startTime": 66594,
+          "endTime": 67362,
+          "word": "riding"
+        },
+        {
+          "startTime": 67599,
+          "endTime": 67831,
+          "word": "in"
+        },
+        {
+          "startTime": 67831,
+          "endTime": 68060,
+          "word": "the"
+        },
+        {
+          "startTime": 68060,
+          "endTime": 68716,
+          "word": "backseat"
+        }
+      ]
+    },
+    {
+      "time": 69010,
+      "endTime": 71618,
+      "text": "Now I'm smiling from the stage while",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69015,
+          "endTime": 69273,
+          "word": "Now"
+        },
+        {
+          "startTime": 69273,
+          "endTime": 69457,
+          "word": "I'm"
+        },
+        {
+          "startTime": 69457,
+          "endTime": 70199,
+          "word": "smiling"
+        },
+        {
+          "startTime": 70441,
+          "endTime": 70673,
+          "word": "from"
+        },
+        {
+          "startTime": 70673,
+          "endTime": 70873,
+          "word": "the"
+        },
+        {
+          "startTime": 70873,
+          "endTime": 71206,
+          "word": "stage"
+        },
+        {
+          "startTime": 71206,
+          "endTime": 71618,
+          "word": "while"
+        }
+      ]
+    },
+    {
+      "time": 71880,
+      "endTime": 74545,
+      "text": "You were clapping in the nosebleeds",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 71880,
+          "endTime": 72149,
+          "word": "You"
+        },
+        {
+          "startTime": 72149,
+          "endTime": 72333,
+          "word": "were"
+        },
+        {
+          "startTime": 72333,
+          "endTime": 73050,
+          "word": "clapping"
+        },
+        {
+          "startTime": 73349,
+          "endTime": 73533,
+          "word": "in"
+        },
+        {
+          "startTime": 73533,
+          "endTime": 73733,
+          "word": "the"
+        },
+        {
+          "startTime": 73733,
+          "endTime": 74545,
+          "word": "nosebleeds"
+        }
+      ]
+    },
+    {
+      "time": 74410,
+      "endTime": 76938,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 74418,
+          "endTime": 75145,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 75863,
+          "endTime": 76588,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 76588,
+          "endTime": 76938,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 77280,
+      "endTime": 80140,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 77287,
+          "endTime": 78004,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 78377,
+          "endTime": 79452,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 79452,
+          "endTime": 80140,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 80140,
+      "endTime": 82674,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 80140,
+          "endTime": 80847,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 81575,
+          "endTime": 82308,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 82308,
+          "endTime": 82674,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 83000,
+      "endTime": 85815,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 83001,
+          "endTime": 83694,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 84059,
+          "endTime": 85160,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 85160,
+          "endTime": 85815,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 85810,
+      "endTime": 88007,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85815,
+          "endTime": 86588,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 86881,
+          "endTime": 87097,
+          "word": "feel"
+        },
+        {
+          "startTime": 87097,
+          "endTime": 87313,
+          "word": "the"
+        },
+        {
+          "startTime": 87313,
+          "endTime": 88007,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 89000,
+      "endTime": 90874,
+      "text": "Lightning then the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89007,
+          "endTime": 89777,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 89777,
+          "endTime": 89977,
+          "word": "then"
+        },
+        {
+          "startTime": 89977,
+          "endTime": 90193,
+          "word": "the"
+        },
+        {
+          "startTime": 90193,
+          "endTime": 90874,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 91480,
+      "endTime": 93690,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91480,
+          "endTime": 92312,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 92583,
+          "endTime": 92815,
+          "word": "feel"
+        },
+        {
+          "startTime": 92815,
+          "endTime": 93015,
+          "word": "the"
+        },
+        {
+          "startTime": 93015,
+          "endTime": 93690,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 94680,
+      "endTime": 97347,
+      "text": "Lightning then the thunder, thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94686,
+          "endTime": 95472,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 95472,
+          "endTime": 95688,
+          "word": "then"
+        },
+        {
+          "startTime": 95688,
+          "endTime": 95872,
+          "word": "the"
+        },
+        {
+          "startTime": 95872,
+          "endTime": 96555,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 96555,
+          "endTime": 97347,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 120020,
+      "endTime": 122318,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 120021,
+          "endTime": 120872,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 121156,
+          "endTime": 121396,
+          "word": "feel"
+        },
+        {
+          "startTime": 121396,
+          "endTime": 121626,
+          "word": "the"
+        },
+        {
+          "startTime": 121626,
+          "endTime": 122318,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 123220,
+      "endTime": 125860,
+      "text": "Lightning then the thunder, thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123229,
+          "endTime": 124051,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 124051,
+          "endTime": 124236,
+          "word": "then"
+        },
+        {
+          "startTime": 124236,
+          "endTime": 124436,
+          "word": "the"
+        },
+        {
+          "startTime": 124436,
+          "endTime": 125103,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 125103,
+          "endTime": 125860,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 125860,
+      "endTime": 128023,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125860,
+          "endTime": 126596,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 126886,
+          "endTime": 127118,
+          "word": "feel"
+        },
+        {
+          "startTime": 127118,
+          "endTime": 127318,
+          "word": "the"
+        },
+        {
+          "startTime": 127318,
+          "endTime": 128023,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 128960,
+      "endTime": 131561,
+      "text": "Lightning then the thunder, thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128969,
+          "endTime": 129747,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 129747,
+          "endTime": 129947,
+          "word": "then"
+        },
+        {
+          "startTime": 129947,
+          "endTime": 130150,
+          "word": "the"
+        },
+        {
+          "startTime": 130150,
+          "endTime": 130847,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 130847,
+          "endTime": 131561,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 131560,
+      "endTime": 133755,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131561,
+          "endTime": 132292,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 132622,
+          "endTime": 132822,
+          "word": "feel"
+        },
+        {
+          "startTime": 132822,
+          "endTime": 133022,
+          "word": "the"
+        },
+        {
+          "startTime": 133022,
+          "endTime": 133755,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 134680,
+      "endTime": 137269,
+      "text": "Lightning then the thunder, thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 134680,
+          "endTime": 135485,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 135485,
+          "endTime": 135685,
+          "word": "then"
+        },
+        {
+          "startTime": 135685,
+          "endTime": 135869,
+          "word": "the"
+        },
+        {
+          "startTime": 135869,
+          "endTime": 136567,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 136567,
+          "endTime": 137269,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 137260,
+      "endTime": 139438,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137269,
+          "endTime": 138021,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 138314,
+          "endTime": 138530,
+          "word": "feel"
+        },
+        {
+          "startTime": 138530,
+          "endTime": 138730,
+          "word": "the"
+        },
+        {
+          "startTime": 138730,
+          "endTime": 139438,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 140400,
+      "endTime": 143000,
+      "text": "Lightning then the thunder, thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140403,
+          "endTime": 141204,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 141204,
+          "endTime": 141389,
+          "word": "then"
+        },
+        {
+          "startTime": 141389,
+          "endTime": 141589,
+          "word": "the"
+        },
+        {
+          "startTime": 141589,
+          "endTime": 142266,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 142266,
+          "endTime": 143000,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 143000,
+      "endTime": 145165,
+      "text": "Thunder, feel the thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 143000,
+          "endTime": 143768,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 144042,
+          "endTime": 144242,
+          "word": "feel"
+        },
+        {
+          "startTime": 144242,
+          "endTime": 144442,
+          "word": "the"
+        },
+        {
+          "startTime": 144442,
+          "endTime": 145165,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 146140,
+      "endTime": 148707,
+      "text": "Lightning then the thunder, thunder",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146145,
+          "endTime": 146896,
+          "word": "Lightning"
+        },
+        {
+          "startTime": 146896,
+          "endTime": 147115,
+          "word": "then"
+        },
+        {
+          "startTime": 147115,
+          "endTime": 147296,
+          "word": "the"
+        },
+        {
+          "startTime": 147296,
+          "endTime": 147998,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 147998,
+          "endTime": 148707,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 148700,
+      "endTime": 151225,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 148707,
+          "endTime": 149442,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 150144,
+          "endTime": 150877,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 150877,
+          "endTime": 151225,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 151580,
+      "endTime": 154427,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 151589,
+          "endTime": 152277,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 152628,
+          "endTime": 153727,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 153727,
+          "endTime": 154427,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 154420,
+      "endTime": 156954,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 154427,
+          "endTime": 155112,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 155845,
+          "endTime": 156562,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 156562,
+          "endTime": 156954,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 157260,
+      "endTime": 160167,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 157266,
+          "endTime": 157991,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 158337,
+          "endTime": 159471,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 159471,
+          "endTime": 160167,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 160160,
+      "endTime": 162656,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 160167,
+          "endTime": 160833,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 161534,
+          "endTime": 162284,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 162284,
+          "endTime": 162656,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 163000,
+      "endTime": 165860,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 163009,
+          "endTime": 163721,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 164055,
+          "endTime": 165171,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 165171,
+          "endTime": 165860,
+          "word": "thunder"
+        }
+      ]
+    },
+    {
+      "time": 165860,
+      "endTime": 168357,
+      "text": "Thunder, thunder, thun-",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 165860,
+          "endTime": 166539,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 167254,
+          "endTime": 168038,
+          "word": "thunder,"
+        },
+        {
+          "startTime": 168038,
+          "endTime": 168357,
+          "word": "thun-"
+        }
+      ]
+    },
+    {
+      "time": 168720,
+      "endTime": 171557,
+      "text": "Thunder, thu-thu-thunder, thunder",
+      "agent": "v2000",
+      "isDuet": true,
+      "words": [
+        {
+          "startTime": 168722,
+          "endTime": 169461,
+          "word": "Thunder,"
+        },
+        {
+          "startTime": 169769,
+          "endTime": 170921,
+          "word": "thu-thu-thunder,"
+        },
+        {
+          "startTime": 170921,
+          "endTime": 171557,
+          "word": "thunder"
+        }
+      ]
+    }
+  ]
+}
