@@ -100,6 +100,16 @@
     "path": "lyrics-database/T/1/T1LRsp8qBY0.json"
   },
   {
+    "videoId": "Fu2eb63lsg8",
+    "title": "Goom Hai Kisi Ke Pyar Mein",
+    "artist": "Kishore Kumar, Lata Mangeshkar",
+    "duration": 276,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 35,
+    "path": "lyrics-database/F/u/Fu2eb63lsg8.json"
+  },
+  {
     "videoId": "F7KdQ8CTe5E",
     "title": "Smile",
     "artist": "Morgan Wallen",
@@ -608,6 +618,16 @@
     "syncedType": "word",
     "linesCount": 67,
     "path": "lyrics-database/R/C/RCaoGyIXI6Y.json"
+  },
+  {
+    "videoId": "RB4Mw1_aeE8",
+    "title": "Udena Jaba Jaba Zulfena Teri",
+    "artist": "Asha Bhosle, Mohammed Rafi",
+    "duration": 282,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 32,
+    "path": "lyrics-database/R/B/RB4Mw1_aeE8.json"
   },
   {
     "videoId": "Rh3bJKkEhk8",
@@ -1218,6 +1238,16 @@
     "syncedType": "word",
     "linesCount": 90,
     "path": "lyrics-database/7/n/7nVctvQVz0U.json"
+  },
+  {
+    "videoId": "7jZVZQl8Qfg",
+    "title": "Ek Ajnabee Haseena Se",
+    "artist": "Kishore Kumar",
+    "duration": 284,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 18,
+    "path": "lyrics-database/7/j/7jZVZQl8Qfg.json"
   },
   {
     "videoId": "8SalYX22p_o",
@@ -2338,6 +2368,16 @@
     "syncedType": "word",
     "linesCount": 50,
     "path": "lyrics-database/c/s/cswfR85D7jM.json"
+  },
+  {
+    "videoId": "c1SYQ7SIeTQ",
+    "title": "Ae Phoolon Ki Rani",
+    "artist": "Mohammed Rafi",
+    "duration": 272,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 26,
+    "path": "lyrics-database/c/1/c1SYQ7SIeTQ.json"
   },
   {
     "videoId": "cWppAbqm9I8",
