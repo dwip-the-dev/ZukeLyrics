@@ -1,0 +1,977 @@
+{
+  "videoId": "y0OOubnvXYk",
+  "title": "Chirodini Tumi Je Aamar (Female Version) (From \"Amar Sangi\")",
+  "artist": "Asha Bhosle",
+  "duration": 430,
+  "source": "Kugou",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:48.880\" end=\"00:54.900\">\n        <span begin=\"00:48.880\" end=\"00:51.586\">Chirodini <\/span>\n        <span begin=\"00:51.586\" end=\"00:52.911\">tumi <\/span>\n        <span begin=\"00:52.911\" end=\"00:53.573\">je <\/span>\n        <span begin=\"00:53.573\" end=\"00:54.900\">amar<\/span>\n      <\/p>\n      <p begin=\"00:54.900\" end=\"01:01.230\">\n        <span begin=\"00:54.900\" end=\"00:56.050\">Juge <\/span>\n        <span begin=\"00:56.050\" end=\"00:57.200\">juge <\/span>\n        <span begin=\"00:57.200\" end=\"00:58.268\">ami <\/span>\n        <span begin=\"00:58.268\" end=\"01:01.230\">tomari<\/span>\n      <\/p>\n      <p begin=\"01:01.230\" end=\"01:07.360\">\n        <span begin=\"01:01.230\" end=\"01:03.985\">Chirodini <\/span>\n        <span begin=\"01:03.985\" end=\"01:05.334\">tumi <\/span>\n        <span begin=\"01:05.334\" end=\"01:06.008\">je <\/span>\n        <span begin=\"01:06.008\" end=\"01:07.360\">amar<\/span>\n      <\/p>\n      <p begin=\"01:07.360\" end=\"01:13.580\">\n        <span begin=\"01:07.360\" end=\"01:08.490\">Juge <\/span>\n        <span begin=\"01:08.490\" end=\"01:09.620\">juge <\/span>\n        <span begin=\"01:09.620\" end=\"01:10.670\">ami <\/span>\n        <span begin=\"01:10.670\" end=\"01:13.580\">tomari<\/span>\n      <\/p>\n      <p begin=\"01:13.580\" end=\"01:19.630\">\n        <span begin=\"01:13.580\" end=\"01:14.484\">Ami <\/span>\n        <span begin=\"01:14.484\" end=\"01:16.152\">achi <\/span>\n        <span begin=\"01:16.152\" end=\"01:17.056\">sei <\/span>\n        <span begin=\"01:17.056\" end=\"01:17.890\">je <\/span>\n        <span begin=\"01:17.890\" end=\"01:19.630\">tomar<\/span>\n      <\/p>\n      <p begin=\"01:19.630\" end=\"01:25.300\">\n        <span begin=\"01:19.630\" end=\"01:21.047\">Tumi <\/span>\n        <span begin=\"01:21.047\" end=\"01:22.464\">acho <\/span>\n        <span begin=\"01:22.464\" end=\"01:23.231\">sei <\/span>\n        <span begin=\"01:23.231\" end=\"01:25.300\">amari<\/span>\n      <\/p>\n      <p begin=\"01:25.300\" end=\"01:31.390\">\n        <span begin=\"01:25.300\" end=\"01:31.390\">Songi<\/span>\n      <\/p>\n      <p begin=\"01:31.390\" end=\"01:37.300\">\n        <span begin=\"01:31.390\" end=\"01:37.300\">Songi<\/span>\n      <\/p>\n      <p begin=\"01:37.300\" end=\"02:35.360\">\n        <span begin=\"01:37.300\" end=\"01:56.388\">Amra <\/span>\n        <span begin=\"01:56.388\" end=\"02:15.476\">omor <\/span>\n        <span begin=\"02:15.476\" end=\"02:35.360\">songi<\/span>\n      <\/p>\n      <p begin=\"02:35.360\" end=\"02:41.220\">\n        <span begin=\"02:35.360\" end=\"02:36.324\">Eto <\/span>\n        <span begin=\"02:36.324\" end=\"02:37.436\">kache <\/span>\n        <span begin=\"02:37.436\" end=\"02:39.438\">royecho <\/span>\n        <span begin=\"02:39.438\" end=\"02:41.220\">tumi<\/span>\n      <\/p>\n      <p begin=\"02:41.220\" end=\"02:47.140\">\n        <span begin=\"02:41.220\" end=\"02:42.182\">Aro <\/span>\n        <span begin=\"02:42.182\" end=\"02:43.292\">kache <\/span>\n        <span begin=\"02:43.292\" end=\"02:45.216\">tomake <\/span>\n        <span begin=\"02:45.216\" end=\"02:46.104\">je <\/span>\n        <span begin=\"02:46.104\" end=\"02:47.140\">chai<\/span>\n      <\/p>\n      <p begin=\"02:47.140\" end=\"02:53.220\">\n        <span begin=\"02:47.140\" end=\"02:48.644\">Tumi <\/span>\n        <span begin=\"02:48.644\" end=\"02:50.211\">chara <\/span>\n        <span begin=\"02:50.211\" end=\"02:51.715\">emon <\/span>\n        <span begin=\"02:51.715\" end=\"02:53.220\">apon<\/span>\n      <\/p>\n      <p begin=\"02:53.220\" end=\"03:05.180\">\n        <span begin=\"02:53.220\" end=\"02:57.098\">Amar <\/span>\n        <span begin=\"02:57.098\" end=\"02:59.037\">je <\/span>\n        <span begin=\"02:59.037\" end=\"03:00.976\">ar <\/span>\n        <span begin=\"03:00.976\" end=\"03:03.077\">keu <\/span>\n        <span begin=\"03:03.077\" end=\"03:05.180\">nai<\/span>\n      <\/p>\n      <p begin=\"03:05.180\" end=\"03:11.090\">\n        <span begin=\"03:05.180\" end=\"03:06.152\">Eto <\/span>\n        <span begin=\"03:06.152\" end=\"03:07.274\">kache <\/span>\n        <span begin=\"03:07.274\" end=\"03:09.293\">royecho <\/span>\n        <span begin=\"03:09.293\" end=\"03:11.090\">tumi<\/span>\n      <\/p>\n      <p begin=\"03:11.090\" end=\"03:17.010\">\n        <span begin=\"03:11.090\" end=\"03:12.052\">Aro <\/span>\n        <span begin=\"03:12.052\" end=\"03:13.162\">kache <\/span>\n        <span begin=\"03:13.162\" end=\"03:15.086\">tomake <\/span>\n        <span begin=\"03:15.086\" end=\"03:15.974\">je <\/span>\n        <span begin=\"03:15.974\" end=\"03:17.010\">chai<\/span>\n      <\/p>\n      <p begin=\"03:17.010\" end=\"03:22.960\">\n        <span begin=\"03:17.010\" end=\"03:18.482\">Tumi <\/span>\n        <span begin=\"03:18.482\" end=\"03:20.015\">chara <\/span>\n        <span begin=\"03:20.015\" end=\"03:21.487\">emon <\/span>\n        <span begin=\"03:21.487\" end=\"03:22.960\">apon<\/span>\n      <\/p>\n      <p begin=\"03:22.960\" end=\"03:29.300\">\n        <span begin=\"03:22.960\" end=\"03:25.016\">Amar <\/span>\n        <span begin=\"03:25.016\" end=\"03:26.044\">je <\/span>\n        <span begin=\"03:26.044\" end=\"03:27.072\">ar <\/span>\n        <span begin=\"03:27.072\" end=\"03:28.185\">keu <\/span>\n        <span begin=\"03:28.185\" end=\"03:29.300\">nai<\/span>\n      <\/p>\n      <p begin=\"03:29.300\" end=\"03:35.330\">\n        <span begin=\"03:29.300\" end=\"03:30.233\">AMi <\/span>\n        <span begin=\"03:30.233\" end=\"03:32.386\">ki-go <\/span>\n        <span begin=\"03:32.386\" end=\"03:34.252\">tomake <\/span>\n        <span begin=\"03:34.252\" end=\"03:35.330\">chere<\/span>\n      <\/p>\n      <p begin=\"03:35.330\" end=\"03:40.820\">\n        <span begin=\"03:35.330\" end=\"03:36.411\">Eka <\/span>\n        <span begin=\"03:36.411\" end=\"03:37.492\">eka <\/span>\n        <span begin=\"03:37.492\" end=\"03:38.822\">thakte <\/span>\n        <span begin=\"03:38.822\" end=\"03:40.820\">pari<\/span>\n      <\/p>\n      <p begin=\"03:40.820\" end=\"03:52.750\">\n        <span begin=\"03:40.820\" end=\"03:46.785\">Songi <\/span>\n        <span begin=\"03:46.785\" end=\"03:52.750\">songi<\/span>\n      <\/p>\n      <p begin=\"03:52.750\" end=\"04:57.800\">\n        <span begin=\"03:52.750\" end=\"04:14.136\">Amra <\/span>\n        <span begin=\"04:14.136\" end=\"04:35.522\">omar <\/span>\n        <span begin=\"04:35.522\" end=\"04:57.800\">songi<\/span>\n      <\/p>\n      <p begin=\"04:57.800\" end=\"05:03.380\">\n        <span begin=\"04:57.800\" end=\"05:00.320\">E-jibon <\/span>\n        <span begin=\"05:00.320\" end=\"05:01.880\">furiye <\/span>\n        <span begin=\"05:01.880\" end=\"05:02.600\">je <\/span>\n        <span begin=\"05:02.600\" end=\"05:03.380\">din<\/span>\n      <\/p>\n      <p begin=\"05:03.380\" end=\"05:09.210\">\n        <span begin=\"05:03.380\" end=\"05:05.006\">Pabo <\/span>\n        <span begin=\"05:05.006\" end=\"05:05.819\">ek <\/span>\n        <span begin=\"05:05.819\" end=\"05:07.513\">natun <\/span>\n        <span begin=\"05:07.513\" end=\"05:09.210\">jibon<\/span>\n      <\/p>\n      <p begin=\"05:09.210\" end=\"05:15.110\">\n        <span begin=\"05:09.210\" end=\"05:12.231\">Sedin-o <\/span>\n        <span begin=\"05:12.231\" end=\"05:13.238\">hobe <\/span>\n        <span begin=\"05:13.238\" end=\"05:14.173\">eka <\/span>\n        <span begin=\"05:14.173\" end=\"05:15.110\">kar<\/span>\n      <\/p>\n      <p begin=\"05:15.110\" end=\"05:26.660\">\n        <span begin=\"05:15.110\" end=\"05:20.079\">Dujonar <\/span>\n        <span begin=\"05:20.079\" end=\"05:21.690\">ei <\/span>\n        <span begin=\"05:21.690\" end=\"05:24.913\">duti <\/span>\n        <span begin=\"05:24.913\" end=\"05:26.660\">mon<\/span>\n      <\/p>\n      <p begin=\"05:26.660\" end=\"05:32.560\">\n        <span begin=\"05:26.660\" end=\"05:29.324\">E-jibon <\/span>\n        <span begin=\"05:29.324\" end=\"05:30.973\">furiye <\/span>\n        <span begin=\"05:30.973\" end=\"05:31.734\">je <\/span>\n        <span begin=\"05:31.734\" end=\"05:32.560\">din<\/span>\n      <\/p>\n      <p begin=\"05:32.560\" end=\"05:38.370\">\n        <span begin=\"05:32.560\" end=\"05:34.181\">Pabo <\/span>\n        <span begin=\"05:34.181\" end=\"05:34.991\">ek <\/span>\n        <span begin=\"05:34.991\" end=\"05:36.679\">natun <\/span>\n        <span begin=\"05:36.679\" end=\"05:38.370\">jibon<\/span>\n      <\/p>\n      <p begin=\"05:38.370\" end=\"05:44.110\">\n        <span begin=\"05:38.370\" end=\"05:41.310\">Sedin-o <\/span>\n        <span begin=\"05:41.310\" end=\"05:42.290\">hobe <\/span>\n        <span begin=\"05:42.290\" end=\"05:43.200\">eka <\/span>\n        <span begin=\"05:43.200\" end=\"05:44.110\">kar<\/span>\n      <\/p>\n      <p begin=\"05:44.110\" end=\"05:50.430\">\n        <span begin=\"05:44.110\" end=\"05:46.829\">Dujonar <\/span>\n        <span begin=\"05:46.829\" end=\"05:47.710\">ei <\/span>\n        <span begin=\"05:47.710\" end=\"05:49.473\">duti <\/span>\n        <span begin=\"05:49.473\" end=\"05:50.430\">mon<\/span>\n      <\/p>\n      <p begin=\"05:50.430\" end=\"05:56.370\">\n        <span begin=\"05:50.430\" end=\"05:52.535\">Hridoyer <\/span>\n        <span begin=\"05:52.535\" end=\"05:53.587\">sobh <\/span>\n        <span begin=\"05:53.587\" end=\"05:56.370\">kobitay<\/span>\n      <\/p>\n      <p begin=\"05:56.370\" end=\"06:02.260\">\n        <span begin=\"05:56.370\" end=\"05:57.474\">Jhore <\/span>\n        <span begin=\"05:57.474\" end=\"05:58.504\">pore <\/span>\n        <span begin=\"05:58.504\" end=\"06:00.418\">chondo <\/span>\n        <span begin=\"06:00.418\" end=\"06:02.260\">taari<\/span>\n      <\/p>\n      <p begin=\"06:02.260\" end=\"06:08.020\">\n        <span begin=\"06:02.260\" end=\"06:04.849\">Chirodini <\/span>\n        <span begin=\"06:04.849\" end=\"06:06.117\">tumi <\/span>\n        <span begin=\"06:06.117\" end=\"06:06.751\">je <\/span>\n        <span begin=\"06:06.751\" end=\"06:08.020\">amar<\/span>\n      <\/p>\n      <p begin=\"06:08.020\" end=\"06:14.150\">\n        <span begin=\"06:08.020\" end=\"06:09.134\">Juge <\/span>\n        <span begin=\"06:09.134\" end=\"06:10.248\">juge <\/span>\n        <span begin=\"06:10.248\" end=\"06:11.282\">ami <\/span>\n        <span begin=\"06:11.282\" end=\"06:14.150\">tomari<\/span>\n      <\/p>\n      <p begin=\"06:14.150\" end=\"06:19.780\">\n        <span begin=\"06:14.150\" end=\"06:14.991\">Ami <\/span>\n        <span begin=\"06:14.991\" end=\"06:16.544\">achi <\/span>\n        <span begin=\"06:16.544\" end=\"06:17.385\">sei <\/span>\n        <span begin=\"06:17.385\" end=\"06:18.161\">je <\/span>\n        <span begin=\"06:18.161\" end=\"06:19.780\">tomar<\/span>\n      <\/p>\n      <p begin=\"06:19.780\" end=\"06:25.300\">\n        <span begin=\"06:19.780\" end=\"06:21.160\">Tumi <\/span>\n        <span begin=\"06:21.160\" end=\"06:22.540\">acho <\/span>\n        <span begin=\"06:22.540\" end=\"06:23.287\">sei <\/span>\n        <span begin=\"06:23.287\" end=\"06:25.300\">amari<\/span>\n      <\/p>\n      <p begin=\"06:25.300\" end=\"06:31.150\">\n        <span begin=\"06:25.300\" end=\"06:31.150\">Songi<\/span>\n      <\/p>\n      <p begin=\"06:31.150\" end=\"06:36.830\">\n        <span begin=\"06:31.150\" end=\"06:36.830\">Songi<\/span>\n      <\/p>\n      <p begin=\"06:36.830\" end=\"06:41.830\">\n        <span begin=\"06:36.830\" end=\"06:38.473\">Amra <\/span>\n        <span begin=\"06:38.473\" end=\"06:40.116\">omar <\/span>\n        <span begin=\"06:40.116\" end=\"06:41.830\">songi<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 48880,
+      "endTime": 54900,
+      "text": "Chirodini tumi je amar",
+      "words": [
+        {
+          "startTime": 48880,
+          "endTime": 51586,
+          "word": "Chirodini "
+        },
+        {
+          "startTime": 51586,
+          "endTime": 52911,
+          "word": "tumi "
+        },
+        {
+          "startTime": 52911,
+          "endTime": 53573,
+          "word": "je "
+        },
+        {
+          "startTime": 53573,
+          "endTime": 54900,
+          "word": "amar"
+        }
+      ]
+    },
+    {
+      "time": 54900,
+      "endTime": 61230,
+      "text": "Juge juge ami tomari",
+      "words": [
+        {
+          "startTime": 54900,
+          "endTime": 56050,
+          "word": "Juge "
+        },
+        {
+          "startTime": 56050,
+          "endTime": 57200,
+          "word": "juge "
+        },
+        {
+          "startTime": 57200,
+          "endTime": 58268,
+          "word": "ami "
+        },
+        {
+          "startTime": 58268,
+          "endTime": 61230,
+          "word": "tomari"
+        }
+      ]
+    },
+    {
+      "time": 61230,
+      "endTime": 67360,
+      "text": "Chirodini tumi je amar",
+      "words": [
+        {
+          "startTime": 61230,
+          "endTime": 63985,
+          "word": "Chirodini "
+        },
+        {
+          "startTime": 63985,
+          "endTime": 65334,
+          "word": "tumi "
+        },
+        {
+          "startTime": 65334,
+          "endTime": 66008,
+          "word": "je "
+        },
+        {
+          "startTime": 66008,
+          "endTime": 67360,
+          "word": "amar"
+        }
+      ]
+    },
+    {
+      "time": 67360,
+      "endTime": 73580,
+      "text": "Juge juge ami tomari",
+      "words": [
+        {
+          "startTime": 67360,
+          "endTime": 68490,
+          "word": "Juge "
+        },
+        {
+          "startTime": 68490,
+          "endTime": 69620,
+          "word": "juge "
+        },
+        {
+          "startTime": 69620,
+          "endTime": 70670,
+          "word": "ami "
+        },
+        {
+          "startTime": 70670,
+          "endTime": 73580,
+          "word": "tomari"
+        }
+      ]
+    },
+    {
+      "time": 73580,
+      "endTime": 79630,
+      "text": "Ami achi sei je tomar",
+      "words": [
+        {
+          "startTime": 73580,
+          "endTime": 74484,
+          "word": "Ami "
+        },
+        {
+          "startTime": 74484,
+          "endTime": 76152,
+          "word": "achi "
+        },
+        {
+          "startTime": 76152,
+          "endTime": 77056,
+          "word": "sei "
+        },
+        {
+          "startTime": 77056,
+          "endTime": 77890,
+          "word": "je "
+        },
+        {
+          "startTime": 77890,
+          "endTime": 79630,
+          "word": "tomar"
+        }
+      ]
+    },
+    {
+      "time": 79630,
+      "endTime": 85300,
+      "text": "Tumi acho sei amari",
+      "words": [
+        {
+          "startTime": 79630,
+          "endTime": 81047,
+          "word": "Tumi "
+        },
+        {
+          "startTime": 81047,
+          "endTime": 82464,
+          "word": "acho "
+        },
+        {
+          "startTime": 82464,
+          "endTime": 83231,
+          "word": "sei "
+        },
+        {
+          "startTime": 83231,
+          "endTime": 85300,
+          "word": "amari"
+        }
+      ]
+    },
+    {
+      "time": 85300,
+      "endTime": 91390,
+      "text": "Songi",
+      "words": [
+        {
+          "startTime": 85300,
+          "endTime": 91390,
+          "word": "Songi"
+        }
+      ]
+    },
+    {
+      "time": 91390,
+      "endTime": 97300,
+      "text": "Songi",
+      "words": [
+        {
+          "startTime": 91390,
+          "endTime": 97300,
+          "word": "Songi"
+        }
+      ]
+    },
+    {
+      "time": 97300,
+      "endTime": 155360,
+      "text": "Amra omor songi",
+      "words": [
+        {
+          "startTime": 97300,
+          "endTime": 116388,
+          "word": "Amra "
+        },
+        {
+          "startTime": 116388,
+          "endTime": 135476,
+          "word": "omor "
+        },
+        {
+          "startTime": 135476,
+          "endTime": 155360,
+          "word": "songi"
+        }
+      ]
+    },
+    {
+      "time": 155360,
+      "endTime": 161220,
+      "text": "Eto kache royecho tumi",
+      "words": [
+        {
+          "startTime": 155360,
+          "endTime": 156324,
+          "word": "Eto "
+        },
+        {
+          "startTime": 156324,
+          "endTime": 157436,
+          "word": "kache "
+        },
+        {
+          "startTime": 157436,
+          "endTime": 159438,
+          "word": "royecho "
+        },
+        {
+          "startTime": 159438,
+          "endTime": 161220,
+          "word": "tumi"
+        }
+      ]
+    },
+    {
+      "time": 161220,
+      "endTime": 167140,
+      "text": "Aro kache tomake je chai",
+      "words": [
+        {
+          "startTime": 161220,
+          "endTime": 162182,
+          "word": "Aro "
+        },
+        {
+          "startTime": 162182,
+          "endTime": 163292,
+          "word": "kache "
+        },
+        {
+          "startTime": 163292,
+          "endTime": 165216,
+          "word": "tomake "
+        },
+        {
+          "startTime": 165216,
+          "endTime": 166104,
+          "word": "je "
+        },
+        {
+          "startTime": 166104,
+          "endTime": 167140,
+          "word": "chai"
+        }
+      ]
+    },
+    {
+      "time": 167140,
+      "endTime": 173220,
+      "text": "Tumi chara emon apon",
+      "words": [
+        {
+          "startTime": 167140,
+          "endTime": 168644,
+          "word": "Tumi "
+        },
+        {
+          "startTime": 168644,
+          "endTime": 170211,
+          "word": "chara "
+        },
+        {
+          "startTime": 170211,
+          "endTime": 171715,
+          "word": "emon "
+        },
+        {
+          "startTime": 171715,
+          "endTime": 173220,
+          "word": "apon"
+        }
+      ]
+    },
+    {
+      "time": 173220,
+      "endTime": 185180,
+      "text": "Amar je ar keu nai",
+      "words": [
+        {
+          "startTime": 173220,
+          "endTime": 177098,
+          "word": "Amar "
+        },
+        {
+          "startTime": 177098,
+          "endTime": 179037,
+          "word": "je "
+        },
+        {
+          "startTime": 179037,
+          "endTime": 180976,
+          "word": "ar "
+        },
+        {
+          "startTime": 180976,
+          "endTime": 183077,
+          "word": "keu "
+        },
+        {
+          "startTime": 183077,
+          "endTime": 185180,
+          "word": "nai"
+        }
+      ]
+    },
+    {
+      "time": 185180,
+      "endTime": 191090,
+      "text": "Eto kache royecho tumi",
+      "words": [
+        {
+          "startTime": 185180,
+          "endTime": 186152,
+          "word": "Eto "
+        },
+        {
+          "startTime": 186152,
+          "endTime": 187274,
+          "word": "kache "
+        },
+        {
+          "startTime": 187274,
+          "endTime": 189293,
+          "word": "royecho "
+        },
+        {
+          "startTime": 189293,
+          "endTime": 191090,
+          "word": "tumi"
+        }
+      ]
+    },
+    {
+      "time": 191090,
+      "endTime": 197010,
+      "text": "Aro kache tomake je chai",
+      "words": [
+        {
+          "startTime": 191090,
+          "endTime": 192052,
+          "word": "Aro "
+        },
+        {
+          "startTime": 192052,
+          "endTime": 193162,
+          "word": "kache "
+        },
+        {
+          "startTime": 193162,
+          "endTime": 195086,
+          "word": "tomake "
+        },
+        {
+          "startTime": 195086,
+          "endTime": 195974,
+          "word": "je "
+        },
+        {
+          "startTime": 195974,
+          "endTime": 197010,
+          "word": "chai"
+        }
+      ]
+    },
+    {
+      "time": 197010,
+      "endTime": 202960,
+      "text": "Tumi chara emon apon",
+      "words": [
+        {
+          "startTime": 197010,
+          "endTime": 198482,
+          "word": "Tumi "
+        },
+        {
+          "startTime": 198482,
+          "endTime": 200015,
+          "word": "chara "
+        },
+        {
+          "startTime": 200015,
+          "endTime": 201487,
+          "word": "emon "
+        },
+        {
+          "startTime": 201487,
+          "endTime": 202960,
+          "word": "apon"
+        }
+      ]
+    },
+    {
+      "time": 202960,
+      "endTime": 209300,
+      "text": "Amar je ar keu nai",
+      "words": [
+        {
+          "startTime": 202960,
+          "endTime": 205016,
+          "word": "Amar "
+        },
+        {
+          "startTime": 205016,
+          "endTime": 206044,
+          "word": "je "
+        },
+        {
+          "startTime": 206044,
+          "endTime": 207072,
+          "word": "ar "
+        },
+        {
+          "startTime": 207072,
+          "endTime": 208185,
+          "word": "keu "
+        },
+        {
+          "startTime": 208185,
+          "endTime": 209300,
+          "word": "nai"
+        }
+      ]
+    },
+    {
+      "time": 209300,
+      "endTime": 215330,
+      "text": "AMi ki-go tomake chere",
+      "words": [
+        {
+          "startTime": 209300,
+          "endTime": 210233,
+          "word": "AMi "
+        },
+        {
+          "startTime": 210233,
+          "endTime": 212386,
+          "word": "ki-go "
+        },
+        {
+          "startTime": 212386,
+          "endTime": 214252,
+          "word": "tomake "
+        },
+        {
+          "startTime": 214252,
+          "endTime": 215330,
+          "word": "chere"
+        }
+      ]
+    },
+    {
+      "time": 215330,
+      "endTime": 220820,
+      "text": "Eka eka thakte pari",
+      "words": [
+        {
+          "startTime": 215330,
+          "endTime": 216411,
+          "word": "Eka "
+        },
+        {
+          "startTime": 216411,
+          "endTime": 217492,
+          "word": "eka "
+        },
+        {
+          "startTime": 217492,
+          "endTime": 218822,
+          "word": "thakte "
+        },
+        {
+          "startTime": 218822,
+          "endTime": 220820,
+          "word": "pari"
+        }
+      ]
+    },
+    {
+      "time": 220820,
+      "endTime": 232750,
+      "text": "Songi songi",
+      "words": [
+        {
+          "startTime": 220820,
+          "endTime": 226785,
+          "word": "Songi "
+        },
+        {
+          "startTime": 226785,
+          "endTime": 232750,
+          "word": "songi"
+        }
+      ]
+    },
+    {
+      "time": 232750,
+      "endTime": 297800,
+      "text": "Amra omar songi",
+      "words": [
+        {
+          "startTime": 232750,
+          "endTime": 254136,
+          "word": "Amra "
+        },
+        {
+          "startTime": 254136,
+          "endTime": 275522,
+          "word": "omar "
+        },
+        {
+          "startTime": 275522,
+          "endTime": 297800,
+          "word": "songi"
+        }
+      ]
+    },
+    {
+      "time": 297800,
+      "endTime": 303380,
+      "text": "E-jibon furiye je din",
+      "words": [
+        {
+          "startTime": 297800,
+          "endTime": 300320,
+          "word": "E-jibon "
+        },
+        {
+          "startTime": 300320,
+          "endTime": 301880,
+          "word": "furiye "
+        },
+        {
+          "startTime": 301880,
+          "endTime": 302600,
+          "word": "je "
+        },
+        {
+          "startTime": 302600,
+          "endTime": 303380,
+          "word": "din"
+        }
+      ]
+    },
+    {
+      "time": 303380,
+      "endTime": 309210,
+      "text": "Pabo ek natun jibon",
+      "words": [
+        {
+          "startTime": 303380,
+          "endTime": 305006,
+          "word": "Pabo "
+        },
+        {
+          "startTime": 305006,
+          "endTime": 305819,
+          "word": "ek "
+        },
+        {
+          "startTime": 305819,
+          "endTime": 307513,
+          "word": "natun "
+        },
+        {
+          "startTime": 307513,
+          "endTime": 309210,
+          "word": "jibon"
+        }
+      ]
+    },
+    {
+      "time": 309210,
+      "endTime": 315110,
+      "text": "Sedin-o hobe eka kar",
+      "words": [
+        {
+          "startTime": 309210,
+          "endTime": 312231,
+          "word": "Sedin-o "
+        },
+        {
+          "startTime": 312231,
+          "endTime": 313238,
+          "word": "hobe "
+        },
+        {
+          "startTime": 313238,
+          "endTime": 314173,
+          "word": "eka "
+        },
+        {
+          "startTime": 314173,
+          "endTime": 315110,
+          "word": "kar"
+        }
+      ]
+    },
+    {
+      "time": 315110,
+      "endTime": 326660,
+      "text": "Dujonar ei duti mon",
+      "words": [
+        {
+          "startTime": 315110,
+          "endTime": 320079,
+          "word": "Dujonar "
+        },
+        {
+          "startTime": 320079,
+          "endTime": 321690,
+          "word": "ei "
+        },
+        {
+          "startTime": 321690,
+          "endTime": 324913,
+          "word": "duti "
+        },
+        {
+          "startTime": 324913,
+          "endTime": 326660,
+          "word": "mon"
+        }
+      ]
+    },
+    {
+      "time": 326660,
+      "endTime": 332560,
+      "text": "E-jibon furiye je din",
+      "words": [
+        {
+          "startTime": 326660,
+          "endTime": 329324,
+          "word": "E-jibon "
+        },
+        {
+          "startTime": 329324,
+          "endTime": 330973,
+          "word": "furiye "
+        },
+        {
+          "startTime": 330973,
+          "endTime": 331734,
+          "word": "je "
+        },
+        {
+          "startTime": 331734,
+          "endTime": 332560,
+          "word": "din"
+        }
+      ]
+    },
+    {
+      "time": 332560,
+      "endTime": 338370,
+      "text": "Pabo ek natun jibon",
+      "words": [
+        {
+          "startTime": 332560,
+          "endTime": 334181,
+          "word": "Pabo "
+        },
+        {
+          "startTime": 334181,
+          "endTime": 334991,
+          "word": "ek "
+        },
+        {
+          "startTime": 334991,
+          "endTime": 336679,
+          "word": "natun "
+        },
+        {
+          "startTime": 336679,
+          "endTime": 338370,
+          "word": "jibon"
+        }
+      ]
+    },
+    {
+      "time": 338370,
+      "endTime": 344110,
+      "text": "Sedin-o hobe eka kar",
+      "words": [
+        {
+          "startTime": 338370,
+          "endTime": 341310,
+          "word": "Sedin-o "
+        },
+        {
+          "startTime": 341310,
+          "endTime": 342290,
+          "word": "hobe "
+        },
+        {
+          "startTime": 342290,
+          "endTime": 343200,
+          "word": "eka "
+        },
+        {
+          "startTime": 343200,
+          "endTime": 344110,
+          "word": "kar"
+        }
+      ]
+    },
+    {
+      "time": 344110,
+      "endTime": 350430,
+      "text": "Dujonar ei duti mon",
+      "words": [
+        {
+          "startTime": 344110,
+          "endTime": 346829,
+          "word": "Dujonar "
+        },
+        {
+          "startTime": 346829,
+          "endTime": 347710,
+          "word": "ei "
+        },
+        {
+          "startTime": 347710,
+          "endTime": 349473,
+          "word": "duti "
+        },
+        {
+          "startTime": 349473,
+          "endTime": 350430,
+          "word": "mon"
+        }
+      ]
+    },
+    {
+      "time": 350430,
+      "endTime": 356370,
+      "text": "Hridoyer sobh kobitay",
+      "words": [
+        {
+          "startTime": 350430,
+          "endTime": 352535,
+          "word": "Hridoyer "
+        },
+        {
+          "startTime": 352535,
+          "endTime": 353587,
+          "word": "sobh "
+        },
+        {
+          "startTime": 353587,
+          "endTime": 356370,
+          "word": "kobitay"
+        }
+      ]
+    },
+    {
+      "time": 356370,
+      "endTime": 362260,
+      "text": "Jhore pore chondo taari",
+      "words": [
+        {
+          "startTime": 356370,
+          "endTime": 357474,
+          "word": "Jhore "
+        },
+        {
+          "startTime": 357474,
+          "endTime": 358504,
+          "word": "pore "
+        },
+        {
+          "startTime": 358504,
+          "endTime": 360418,
+          "word": "chondo "
+        },
+        {
+          "startTime": 360418,
+          "endTime": 362260,
+          "word": "taari"
+        }
+      ]
+    },
+    {
+      "time": 362260,
+      "endTime": 368020,
+      "text": "Chirodini tumi je amar",
+      "words": [
+        {
+          "startTime": 362260,
+          "endTime": 364849,
+          "word": "Chirodini "
+        },
+        {
+          "startTime": 364849,
+          "endTime": 366117,
+          "word": "tumi "
+        },
+        {
+          "startTime": 366117,
+          "endTime": 366751,
+          "word": "je "
+        },
+        {
+          "startTime": 366751,
+          "endTime": 368020,
+          "word": "amar"
+        }
+      ]
+    },
+    {
+      "time": 368020,
+      "endTime": 374150,
+      "text": "Juge juge ami tomari",
+      "words": [
+        {
+          "startTime": 368020,
+          "endTime": 369134,
+          "word": "Juge "
+        },
+        {
+          "startTime": 369134,
+          "endTime": 370248,
+          "word": "juge "
+        },
+        {
+          "startTime": 370248,
+          "endTime": 371282,
+          "word": "ami "
+        },
+        {
+          "startTime": 371282,
+          "endTime": 374150,
+          "word": "tomari"
+        }
+      ]
+    },
+    {
+      "time": 374150,
+      "endTime": 379780,
+      "text": "Ami achi sei je tomar",
+      "words": [
+        {
+          "startTime": 374150,
+          "endTime": 374991,
+          "word": "Ami "
+        },
+        {
+          "startTime": 374991,
+          "endTime": 376544,
+          "word": "achi "
+        },
+        {
+          "startTime": 376544,
+          "endTime": 377385,
+          "word": "sei "
+        },
+        {
+          "startTime": 377385,
+          "endTime": 378161,
+          "word": "je "
+        },
+        {
+          "startTime": 378161,
+          "endTime": 379780,
+          "word": "tomar"
+        }
+      ]
+    },
+    {
+      "time": 379780,
+      "endTime": 385300,
+      "text": "Tumi acho sei amari",
+      "words": [
+        {
+          "startTime": 379780,
+          "endTime": 381160,
+          "word": "Tumi "
+        },
+        {
+          "startTime": 381160,
+          "endTime": 382540,
+          "word": "acho "
+        },
+        {
+          "startTime": 382540,
+          "endTime": 383287,
+          "word": "sei "
+        },
+        {
+          "startTime": 383287,
+          "endTime": 385300,
+          "word": "amari"
+        }
+      ]
+    },
+    {
+      "time": 385300,
+      "endTime": 391150,
+      "text": "Songi",
+      "words": [
+        {
+          "startTime": 385300,
+          "endTime": 391150,
+          "word": "Songi"
+        }
+      ]
+    },
+    {
+      "time": 391150,
+      "endTime": 396830,
+      "text": "Songi",
+      "words": [
+        {
+          "startTime": 391150,
+          "endTime": 396830,
+          "word": "Songi"
+        }
+      ]
+    },
+    {
+      "time": 396830,
+      "endTime": 401830,
+      "text": "Amra omar songi",
+      "words": [
+        {
+          "startTime": 396830,
+          "endTime": 398473,
+          "word": "Amra "
+        },
+        {
+          "startTime": 398473,
+          "endTime": 400116,
+          "word": "omar "
+        },
+        {
+          "startTime": 400116,
+          "endTime": 401830,
+          "word": "songi"
+        }
+      ]
+    }
+  ]
+}
