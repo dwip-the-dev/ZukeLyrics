@@ -1,0 +1,1271 @@
+{
+  "videoId": "Fu2eb63lsg8",
+  "title": "Goom Hai Kisi Ke Pyar Mein",
+  "artist": "Kishore Kumar, Lata Mangeshkar",
+  "duration": 276,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.340\" end=\"00:05.400\">\n        <span begin=\"00:00.340\" end=\"00:02.476\">Hmm, <\/span>\n        <span begin=\"00:02.476\" end=\"00:05.400\">hmm-hmm-hmm<\/span>\n      <\/p>\n      <p begin=\"00:05.400\" end=\"00:08.100\">\n        <span begin=\"00:05.400\" end=\"00:06.780\">Hmm-hmm, <\/span>\n        <span begin=\"00:06.780\" end=\"00:08.100\">hmm-hmm<\/span>\n      <\/p>\n      <p begin=\"00:08.100\" end=\"00:15.240\">\n        <span begin=\"00:08.100\" end=\"00:10.708\">हाँ? <\/span>\n        <span begin=\"00:10.708\" end=\"00:12.630\">क्या <\/span>\n        <span begin=\"00:12.630\" end=\"00:15.240\">कहा?<\/span>\n      <\/p>\n      <p begin=\"00:15.240\" end=\"00:24.210\">\n        <span begin=\"00:15.240\" end=\"00:16.245\">गुम <\/span>\n        <span begin=\"00:16.245\" end=\"00:17.172\">है <\/span>\n        <span begin=\"00:17.172\" end=\"00:18.254\">किसी <\/span>\n        <span begin=\"00:18.254\" end=\"00:19.181\">के <\/span>\n        <span begin=\"00:19.181\" end=\"00:20.340\">प्यार <\/span>\n        <span begin=\"00:20.340\" end=\"00:21.345\">में <\/span>\n        <span begin=\"00:21.345\" end=\"00:22.350\">दिल <\/span>\n        <span begin=\"00:22.350\" end=\"00:24.210\">सुब्ह-शाम<\/span>\n      <\/p>\n      <p begin=\"00:24.210\" end=\"00:31.360\">\n        <span begin=\"00:24.210\" end=\"00:24.989\">पर <\/span>\n        <span begin=\"00:24.989\" end=\"00:26.094\">तुम्हें <\/span>\n        <span begin=\"00:26.094\" end=\"00:26.938\">लिख <\/span>\n        <span begin=\"00:26.938\" end=\"00:27.847\">नहीं <\/span>\n        <span begin=\"00:27.847\" end=\"00:28.756\">पाऊँ <\/span>\n        <span begin=\"00:28.756\" end=\"00:29.600\">मैं <\/span>\n        <span begin=\"00:29.600\" end=\"00:30.509\">उसका <\/span>\n        <span begin=\"00:30.509\" end=\"00:31.360\">नाम<\/span>\n      <\/p>\n      <p begin=\"00:31.360\" end=\"00:40.690\">\n        <span begin=\"00:31.360\" end=\"00:33.451\">हाय <\/span>\n        <span begin=\"00:33.451\" end=\"00:36.507\">राम, <\/span>\n        <span begin=\"00:36.507\" end=\"00:38.598\">हाय <\/span>\n        <span begin=\"00:38.598\" end=\"00:40.690\">राम<\/span>\n      <\/p>\n      <p begin=\"00:40.690\" end=\"00:42.570\">\n        <span begin=\"00:40.690\" end=\"00:41.221\">कुछ <\/span>\n        <span begin=\"00:41.221\" end=\"00:42.038\">लिखा? <\/span>\n        <span begin=\"00:42.038\" end=\"00:42.570\">हाँ<\/span>\n      <\/p>\n      <p begin=\"00:42.570\" end=\"00:44.300\">\n        <span begin=\"00:42.570\" end=\"00:43.282\">क्या <\/span>\n        <span begin=\"00:43.282\" end=\"00:44.300\">लिखा?<\/span>\n      <\/p>\n      <p begin=\"00:44.300\" end=\"00:53.650\">\n        <span begin=\"00:44.300\" end=\"00:45.555\">हो, <\/span>\n        <span begin=\"00:45.555\" end=\"00:46.462\">गुम <\/span>\n        <span begin=\"00:46.462\" end=\"00:47.299\">है <\/span>\n        <span begin=\"00:47.299\" end=\"00:48.275\">किसी <\/span>\n        <span begin=\"00:48.275\" end=\"00:49.112\">के <\/span>\n        <span begin=\"00:49.112\" end=\"00:50.158\">प्यार <\/span>\n        <span begin=\"00:50.158\" end=\"00:51.065\">में <\/span>\n        <span begin=\"00:51.065\" end=\"00:51.972\">दिल <\/span>\n        <span begin=\"00:51.972\" end=\"00:53.650\">सुब्ह-शाम<\/span>\n      <\/p>\n      <p begin=\"00:53.650\" end=\"01:00.700\">\n        <span begin=\"00:53.650\" end=\"00:54.419\">पर <\/span>\n        <span begin=\"00:54.419\" end=\"00:55.508\">तुम्हें <\/span>\n        <span begin=\"00:55.508\" end=\"00:56.341\">लिख <\/span>\n        <span begin=\"00:56.341\" end=\"00:57.238\">नहीं <\/span>\n        <span begin=\"00:57.238\" end=\"00:58.135\">पाऊँ <\/span>\n        <span begin=\"00:58.135\" end=\"00:58.968\">मैं <\/span>\n        <span begin=\"00:58.968\" end=\"00:59.865\">उसका <\/span>\n        <span begin=\"00:59.865\" end=\"01:00.700\">नाम<\/span>\n      <\/p>\n      <p begin=\"01:00.700\" end=\"01:10.120\">\n        <span begin=\"01:00.700\" end=\"01:02.811\">हाय <\/span>\n        <span begin=\"01:02.811\" end=\"01:05.896\">राम, <\/span>\n        <span begin=\"01:05.896\" end=\"01:08.007\">हाय <\/span>\n        <span begin=\"01:08.007\" end=\"01:10.120\">राम<\/span>\n      <\/p>\n      <p begin=\"01:10.120\" end=\"01:13.090\">\n        <span begin=\"01:10.120\" end=\"01:11.023\">अच्छा, <\/span>\n        <span begin=\"01:11.023\" end=\"01:11.582\">आगे <\/span>\n        <span begin=\"01:11.582\" end=\"01:12.184\">क्या <\/span>\n        <span begin=\"01:12.184\" end=\"01:13.090\">लिखूँ?<\/span>\n      <\/p>\n      <p begin=\"01:13.090\" end=\"01:14.610\">\n        <span begin=\"01:13.090\" end=\"01:14.610\">आगे...<\/span>\n      <\/p>\n      <p begin=\"01:14.610\" end=\"01:23.130\">\n        <span begin=\"01:14.610\" end=\"01:15.704\">सोचा <\/span>\n        <span begin=\"01:15.704\" end=\"01:17.110\">है, <\/span>\n        <span begin=\"01:17.110\" end=\"01:18.047\">एक <\/span>\n        <span begin=\"01:18.047\" end=\"01:19.063\">दिन <\/span>\n        <span begin=\"01:19.063\" end=\"01:20.079\">मैं <\/span>\n        <span begin=\"01:20.079\" end=\"01:21.173\">उससे <\/span>\n        <span begin=\"01:21.173\" end=\"01:22.189\">मिल <\/span>\n        <span begin=\"01:22.189\" end=\"01:23.130\">के<\/span>\n      <\/p>\n      <p begin=\"01:23.130\" end=\"01:30.900\">\n        <span begin=\"01:23.130\" end=\"01:24.154\">कह <\/span>\n        <span begin=\"01:24.154\" end=\"01:25.434\">डालूँ <\/span>\n        <span begin=\"01:25.434\" end=\"01:26.629\">अपने <\/span>\n        <span begin=\"01:26.629\" end=\"01:27.653\">सब <\/span>\n        <span begin=\"01:27.653\" end=\"01:28.763\">हाल <\/span>\n        <span begin=\"01:28.763\" end=\"01:29.873\">दिल <\/span>\n        <span begin=\"01:29.873\" end=\"01:30.900\">के<\/span>\n      <\/p>\n      <p begin=\"01:30.900\" end=\"01:39.230\">\n        <span begin=\"01:30.900\" end=\"01:32.149\">और <\/span>\n        <span begin=\"01:32.149\" end=\"01:33.398\">कर <\/span>\n        <span begin=\"01:33.398\" end=\"01:34.751\">दूँ <\/span>\n        <span begin=\"01:34.751\" end=\"01:36.208\">जीवन <\/span>\n        <span begin=\"01:36.208\" end=\"01:37.665\">उसके <\/span>\n        <span begin=\"01:37.665\" end=\"01:39.230\">हवाले<\/span>\n      <\/p>\n      <p begin=\"01:39.230\" end=\"01:47.350\">\n        <span begin=\"01:39.230\" end=\"01:40.390\">फिर <\/span>\n        <span begin=\"01:40.390\" end=\"01:41.550\">छोड़ <\/span>\n        <span begin=\"01:41.550\" end=\"01:42.620\">दे <\/span>\n        <span begin=\"01:42.620\" end=\"01:43.869\">चाहे <\/span>\n        <span begin=\"01:43.869\" end=\"01:45.118\">अपना <\/span>\n        <span begin=\"01:45.118\" end=\"01:46.278\">बना <\/span>\n        <span begin=\"01:46.278\" end=\"01:47.350\">ले<\/span>\n      <\/p>\n      <p begin=\"01:47.350\" end=\"01:55.600\">\n        <span begin=\"01:47.350\" end=\"01:48.690\">मैं <\/span>\n        <span begin=\"01:48.690\" end=\"01:49.927\">तो <\/span>\n        <span begin=\"01:49.927\" end=\"01:51.370\">उसका <\/span>\n        <span begin=\"01:51.370\" end=\"01:52.607\">रे <\/span>\n        <span begin=\"01:52.607\" end=\"01:53.947\">हुआ <\/span>\n        <span begin=\"01:53.947\" end=\"01:55.600\">दीवाना<\/span>\n      <\/p>\n      <p begin=\"01:55.600\" end=\"02:02.630\">\n        <span begin=\"01:55.600\" end=\"01:56.527\">अब <\/span>\n        <span begin=\"01:56.527\" end=\"01:57.454\">तो <\/span>\n        <span begin=\"01:57.454\" end=\"01:58.535\">जैसा <\/span>\n        <span begin=\"01:58.535\" end=\"01:59.462\">भी <\/span>\n        <span begin=\"01:59.462\" end=\"02:00.543\">मेरा <\/span>\n        <span begin=\"02:00.543\" end=\"02:01.470\">हो <\/span>\n        <span begin=\"02:01.470\" end=\"02:02.630\">अंजाम<\/span>\n      <\/p>\n      <p begin=\"02:02.630\" end=\"02:12.020\">\n        <span begin=\"02:02.630\" end=\"02:03.891\">हो, <\/span>\n        <span begin=\"02:03.891\" end=\"02:04.801\">गुम <\/span>\n        <span begin=\"02:04.801\" end=\"02:05.641\">है <\/span>\n        <span begin=\"02:05.641\" end=\"02:06.622\">किसी <\/span>\n        <span begin=\"02:06.622\" end=\"02:07.462\">के <\/span>\n        <span begin=\"02:07.462\" end=\"02:08.513\">प्यार <\/span>\n        <span begin=\"02:08.513\" end=\"02:09.423\">में <\/span>\n        <span begin=\"02:09.423\" end=\"02:10.333\">दिल <\/span>\n        <span begin=\"02:10.333\" end=\"02:12.020\">सुब्ह-शाम<\/span>\n      <\/p>\n      <p begin=\"02:12.020\" end=\"02:18.960\">\n        <span begin=\"02:12.020\" end=\"02:12.777\">पर <\/span>\n        <span begin=\"02:12.777\" end=\"02:13.849\">तुम्हें <\/span>\n        <span begin=\"02:13.849\" end=\"02:14.669\">लिख <\/span>\n        <span begin=\"02:14.669\" end=\"02:15.552\">नहीं <\/span>\n        <span begin=\"02:15.552\" end=\"02:16.435\">पाऊँ <\/span>\n        <span begin=\"02:16.435\" end=\"02:17.255\">मैं <\/span>\n        <span begin=\"02:17.255\" end=\"02:18.138\">उसका <\/span>\n        <span begin=\"02:18.138\" end=\"02:18.960\">नाम<\/span>\n      <\/p>\n      <p begin=\"02:18.960\" end=\"02:28.220\">\n        <span begin=\"02:18.960\" end=\"02:21.035\">हाय <\/span>\n        <span begin=\"02:21.035\" end=\"02:24.068\">राम, <\/span>\n        <span begin=\"02:24.068\" end=\"02:26.143\">हाय <\/span>\n        <span begin=\"02:26.143\" end=\"02:28.220\">राम<\/span>\n      <\/p>\n      <p begin=\"02:28.220\" end=\"02:29.970\">\n        <span begin=\"02:28.220\" end=\"02:28.714\">लिख <\/span>\n        <span begin=\"02:28.714\" end=\"02:29.474\">लिया? <\/span>\n        <span begin=\"02:29.474\" end=\"02:29.970\">हाँ<\/span>\n      <\/p>\n      <p begin=\"02:29.970\" end=\"02:32.910\">\n        <span begin=\"02:29.970\" end=\"02:30.472\">ज़रा <\/span>\n        <span begin=\"02:30.472\" end=\"02:30.936\">पढ़ <\/span>\n        <span begin=\"02:30.936\" end=\"02:31.400\">के <\/span>\n        <span begin=\"02:31.400\" end=\"02:31.864\">तो <\/span>\n        <span begin=\"02:31.864\" end=\"02:32.444\">सुनाओ <\/span>\n        <span begin=\"02:32.444\" end=\"02:32.910\">ना<\/span>\n      <\/p>\n      <p begin=\"02:32.910\" end=\"02:41.100\">\n        <span begin=\"02:32.910\" end=\"02:34.325\">चाहा <\/span>\n        <span begin=\"02:34.325\" end=\"02:35.538\">है <\/span>\n        <span begin=\"02:35.538\" end=\"02:37.054\">तुमने <\/span>\n        <span begin=\"02:37.054\" end=\"02:38.368\">जिस <\/span>\n        <span begin=\"02:38.368\" end=\"02:39.884\">बावरी <\/span>\n        <span begin=\"02:39.884\" end=\"02:41.100\">को<\/span>\n      <\/p>\n      <p begin=\"02:41.100\" end=\"02:49.360\">\n        <span begin=\"02:41.100\" end=\"02:42.154\">वो <\/span>\n        <span begin=\"02:42.154\" end=\"02:43.735\">भी, <\/span>\n        <span begin=\"02:43.735\" end=\"02:45.580\">सजनवा, <\/span>\n        <span begin=\"02:45.580\" end=\"02:46.810\">चाहे <\/span>\n        <span begin=\"02:46.810\" end=\"02:48.303\">तुम्हीं <\/span>\n        <span begin=\"02:48.303\" end=\"02:49.360\">को<\/span>\n      <\/p>\n      <p begin=\"02:49.360\" end=\"02:57.690\">\n        <span begin=\"02:49.360\" end=\"02:51.026\">नैना <\/span>\n        <span begin=\"02:51.026\" end=\"02:52.811\">उठाएँ <\/span>\n        <span begin=\"02:52.811\" end=\"02:54.239\">तो <\/span>\n        <span begin=\"02:54.239\" end=\"02:56.024\">प्यार <\/span>\n        <span begin=\"02:56.024\" end=\"02:57.690\">समझो<\/span>\n      <\/p>\n      <p begin=\"02:57.690\" end=\"03:05.400\">\n        <span begin=\"02:57.690\" end=\"02:59.083\">पलकें <\/span>\n        <span begin=\"02:59.083\" end=\"03:00.383\">झुका <\/span>\n        <span begin=\"03:00.383\" end=\"03:01.590\">दें <\/span>\n        <span begin=\"03:01.590\" end=\"03:02.704\">तो <\/span>\n        <span begin=\"03:02.704\" end=\"03:04.097\">इक़रार <\/span>\n        <span begin=\"03:04.097\" end=\"03:05.400\">समझो<\/span>\n      <\/p>\n      <p begin=\"03:05.400\" end=\"03:13.360\">\n        <span begin=\"03:05.400\" end=\"03:06.431\">रखती <\/span>\n        <span begin=\"03:06.431\" end=\"03:07.315\">है <\/span>\n        <span begin=\"03:07.315\" end=\"03:08.199\">कब <\/span>\n        <span begin=\"03:08.199\" end=\"03:09.083\">से <\/span>\n        <span begin=\"03:09.083\" end=\"03:10.851\">छुपा-छुपा <\/span>\n        <span begin=\"03:10.851\" end=\"03:11.735\">के <\/span>\n        <span begin=\"03:11.735\" end=\"03:13.360\">(क्या?)<\/span>\n      <\/p>\n      <p begin=\"03:13.360\" end=\"03:20.540\">\n        <span begin=\"03:13.360\" end=\"03:14.407\">अपने <\/span>\n        <span begin=\"03:14.407\" end=\"03:15.603\">होंठों <\/span>\n        <span begin=\"03:15.603\" end=\"03:17.024\">में, <\/span>\n        <span begin=\"03:17.024\" end=\"03:18.519\">पिया, <\/span>\n        <span begin=\"03:18.519\" end=\"03:19.566\">तेरा <\/span>\n        <span begin=\"03:19.566\" end=\"03:20.540\">नाम<\/span>\n      <\/p>\n      <p begin=\"03:20.540\" end=\"03:29.940\">\n        <span begin=\"03:20.540\" end=\"03:21.802\">हो, <\/span>\n        <span begin=\"03:21.802\" end=\"03:22.713\">गुम <\/span>\n        <span begin=\"03:22.713\" end=\"03:23.554\">है <\/span>\n        <span begin=\"03:23.554\" end=\"03:24.536\">किसी <\/span>\n        <span begin=\"03:24.536\" end=\"03:25.377\">के <\/span>\n        <span begin=\"03:25.377\" end=\"03:26.429\">प्यार <\/span>\n        <span begin=\"03:26.429\" end=\"03:27.340\">में <\/span>\n        <span begin=\"03:27.340\" end=\"03:28.251\">दिल <\/span>\n        <span begin=\"03:28.251\" end=\"03:29.940\">सुब्ह-शाम<\/span>\n      <\/p>\n      <p begin=\"03:29.940\" end=\"03:36.940\">\n        <span begin=\"03:29.940\" end=\"03:30.703\">पर <\/span>\n        <span begin=\"03:30.703\" end=\"03:31.784\">तुम्हें <\/span>\n        <span begin=\"03:31.784\" end=\"03:32.611\">लिख <\/span>\n        <span begin=\"03:32.611\" end=\"03:33.501\">नहीं <\/span>\n        <span begin=\"03:33.501\" end=\"03:34.391\">पाऊँ <\/span>\n        <span begin=\"03:34.391\" end=\"03:35.218\">मैं <\/span>\n        <span begin=\"03:35.218\" end=\"03:36.108\">उसका <\/span>\n        <span begin=\"03:36.108\" end=\"03:36.940\">नाम<\/span>\n      <\/p>\n      <p begin=\"03:36.940\" end=\"03:46.150\">\n        <span begin=\"03:36.940\" end=\"03:38.177\">हो, <\/span>\n        <span begin=\"03:38.177\" end=\"03:39.070\">गुम <\/span>\n        <span begin=\"03:39.070\" end=\"03:39.894\">है <\/span>\n        <span begin=\"03:39.894\" end=\"03:40.856\">किसी <\/span>\n        <span begin=\"03:40.856\" end=\"03:41.680\">के <\/span>\n        <span begin=\"03:41.680\" end=\"03:42.710\">प्यार <\/span>\n        <span begin=\"03:42.710\" end=\"03:43.603\">में <\/span>\n        <span begin=\"03:43.603\" end=\"03:44.496\">दिल <\/span>\n        <span begin=\"03:44.496\" end=\"03:46.150\">सुब्ह-शाम<\/span>\n      <\/p>\n      <p begin=\"03:46.150\" end=\"03:52.890\">\n        <span begin=\"03:46.150\" end=\"03:46.885\">पर <\/span>\n        <span begin=\"03:46.885\" end=\"03:47.926\">तुम्हें <\/span>\n        <span begin=\"03:47.926\" end=\"03:48.722\">लिख <\/span>\n        <span begin=\"03:48.722\" end=\"03:49.579\">नहीं <\/span>\n        <span begin=\"03:49.579\" end=\"03:50.436\">पाऊँ <\/span>\n        <span begin=\"03:50.436\" end=\"03:51.232\">मैं <\/span>\n        <span begin=\"03:51.232\" end=\"03:52.089\">उसका <\/span>\n        <span begin=\"03:52.089\" end=\"03:52.890\">नाम<\/span>\n      <\/p>\n      <p begin=\"03:52.890\" end=\"03:57.890\">\n        <span begin=\"03:52.890\" end=\"03:54.010\">हाय <\/span>\n        <span begin=\"03:54.010\" end=\"03:55.647\">राम, <\/span>\n        <span begin=\"03:55.647\" end=\"03:56.767\">हाय <\/span>\n        <span begin=\"03:56.767\" end=\"03:57.890\">राम<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 340,
+      "endTime": 5400,
+      "text": "Hmm, hmm-hmm-hmm",
+      "words": [
+        {
+          "startTime": 340,
+          "endTime": 2476,
+          "word": "Hmm, "
+        },
+        {
+          "startTime": 2476,
+          "endTime": 5400,
+          "word": "hmm-hmm-hmm"
+        }
+      ]
+    },
+    {
+      "time": 5400,
+      "endTime": 8100,
+      "text": "Hmm-hmm, hmm-hmm",
+      "words": [
+        {
+          "startTime": 5400,
+          "endTime": 6780,
+          "word": "Hmm-hmm, "
+        },
+        {
+          "startTime": 6780,
+          "endTime": 8100,
+          "word": "hmm-hmm"
+        }
+      ]
+    },
+    {
+      "time": 8100,
+      "endTime": 15240,
+      "text": "हाँ? क्या कहा?",
+      "words": [
+        {
+          "startTime": 8100,
+          "endTime": 10708,
+          "word": "हाँ? "
+        },
+        {
+          "startTime": 10708,
+          "endTime": 12630,
+          "word": "क्या "
+        },
+        {
+          "startTime": 12630,
+          "endTime": 15240,
+          "word": "कहा?"
+        }
+      ]
+    },
+    {
+      "time": 15240,
+      "endTime": 24210,
+      "text": "गुम है किसी के प्यार में दिल सुब्ह-शाम",
+      "words": [
+        {
+          "startTime": 15240,
+          "endTime": 16245,
+          "word": "गुम "
+        },
+        {
+          "startTime": 16245,
+          "endTime": 17172,
+          "word": "है "
+        },
+        {
+          "startTime": 17172,
+          "endTime": 18254,
+          "word": "किसी "
+        },
+        {
+          "startTime": 18254,
+          "endTime": 19181,
+          "word": "के "
+        },
+        {
+          "startTime": 19181,
+          "endTime": 20340,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 20340,
+          "endTime": 21345,
+          "word": "में "
+        },
+        {
+          "startTime": 21345,
+          "endTime": 22350,
+          "word": "दिल "
+        },
+        {
+          "startTime": 22350,
+          "endTime": 24210,
+          "word": "सुब्ह-शाम"
+        }
+      ]
+    },
+    {
+      "time": 24210,
+      "endTime": 31360,
+      "text": "पर तुम्हें लिख नहीं पाऊँ मैं उसका नाम",
+      "words": [
+        {
+          "startTime": 24210,
+          "endTime": 24989,
+          "word": "पर "
+        },
+        {
+          "startTime": 24989,
+          "endTime": 26094,
+          "word": "तुम्हें "
+        },
+        {
+          "startTime": 26094,
+          "endTime": 26938,
+          "word": "लिख "
+        },
+        {
+          "startTime": 26938,
+          "endTime": 27847,
+          "word": "नहीं "
+        },
+        {
+          "startTime": 27847,
+          "endTime": 28756,
+          "word": "पाऊँ "
+        },
+        {
+          "startTime": 28756,
+          "endTime": 29600,
+          "word": "मैं "
+        },
+        {
+          "startTime": 29600,
+          "endTime": 30509,
+          "word": "उसका "
+        },
+        {
+          "startTime": 30509,
+          "endTime": 31360,
+          "word": "नाम"
+        }
+      ]
+    },
+    {
+      "time": 31360,
+      "endTime": 40690,
+      "text": "हाय राम, हाय राम",
+      "words": [
+        {
+          "startTime": 31360,
+          "endTime": 33451,
+          "word": "हाय "
+        },
+        {
+          "startTime": 33451,
+          "endTime": 36507,
+          "word": "राम, "
+        },
+        {
+          "startTime": 36507,
+          "endTime": 38598,
+          "word": "हाय "
+        },
+        {
+          "startTime": 38598,
+          "endTime": 40690,
+          "word": "राम"
+        }
+      ]
+    },
+    {
+      "time": 40690,
+      "endTime": 42570,
+      "text": "कुछ लिखा? हाँ",
+      "words": [
+        {
+          "startTime": 40690,
+          "endTime": 41221,
+          "word": "कुछ "
+        },
+        {
+          "startTime": 41221,
+          "endTime": 42038,
+          "word": "लिखा? "
+        },
+        {
+          "startTime": 42038,
+          "endTime": 42570,
+          "word": "हाँ"
+        }
+      ]
+    },
+    {
+      "time": 42570,
+      "endTime": 44300,
+      "text": "क्या लिखा?",
+      "words": [
+        {
+          "startTime": 42570,
+          "endTime": 43282,
+          "word": "क्या "
+        },
+        {
+          "startTime": 43282,
+          "endTime": 44300,
+          "word": "लिखा?"
+        }
+      ]
+    },
+    {
+      "time": 44300,
+      "endTime": 53650,
+      "text": "हो, गुम है किसी के प्यार में दिल सुब्ह-शाम",
+      "words": [
+        {
+          "startTime": 44300,
+          "endTime": 45555,
+          "word": "हो, "
+        },
+        {
+          "startTime": 45555,
+          "endTime": 46462,
+          "word": "गुम "
+        },
+        {
+          "startTime": 46462,
+          "endTime": 47299,
+          "word": "है "
+        },
+        {
+          "startTime": 47299,
+          "endTime": 48275,
+          "word": "किसी "
+        },
+        {
+          "startTime": 48275,
+          "endTime": 49112,
+          "word": "के "
+        },
+        {
+          "startTime": 49112,
+          "endTime": 50158,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 50158,
+          "endTime": 51065,
+          "word": "में "
+        },
+        {
+          "startTime": 51065,
+          "endTime": 51972,
+          "word": "दिल "
+        },
+        {
+          "startTime": 51972,
+          "endTime": 53650,
+          "word": "सुब्ह-शाम"
+        }
+      ]
+    },
+    {
+      "time": 53650,
+      "endTime": 60700,
+      "text": "पर तुम्हें लिख नहीं पाऊँ मैं उसका नाम",
+      "words": [
+        {
+          "startTime": 53650,
+          "endTime": 54419,
+          "word": "पर "
+        },
+        {
+          "startTime": 54419,
+          "endTime": 55508,
+          "word": "तुम्हें "
+        },
+        {
+          "startTime": 55508,
+          "endTime": 56341,
+          "word": "लिख "
+        },
+        {
+          "startTime": 56341,
+          "endTime": 57238,
+          "word": "नहीं "
+        },
+        {
+          "startTime": 57238,
+          "endTime": 58135,
+          "word": "पाऊँ "
+        },
+        {
+          "startTime": 58135,
+          "endTime": 58968,
+          "word": "मैं "
+        },
+        {
+          "startTime": 58968,
+          "endTime": 59865,
+          "word": "उसका "
+        },
+        {
+          "startTime": 59865,
+          "endTime": 60700,
+          "word": "नाम"
+        }
+      ]
+    },
+    {
+      "time": 60700,
+      "endTime": 70120,
+      "text": "हाय राम, हाय राम",
+      "words": [
+        {
+          "startTime": 60700,
+          "endTime": 62811,
+          "word": "हाय "
+        },
+        {
+          "startTime": 62811,
+          "endTime": 65896,
+          "word": "राम, "
+        },
+        {
+          "startTime": 65896,
+          "endTime": 68007,
+          "word": "हाय "
+        },
+        {
+          "startTime": 68007,
+          "endTime": 70120,
+          "word": "राम"
+        }
+      ]
+    },
+    {
+      "time": 70120,
+      "endTime": 73090,
+      "text": "अच्छा, आगे क्या लिखूँ?",
+      "words": [
+        {
+          "startTime": 70120,
+          "endTime": 71023,
+          "word": "अच्छा, "
+        },
+        {
+          "startTime": 71023,
+          "endTime": 71582,
+          "word": "आगे "
+        },
+        {
+          "startTime": 71582,
+          "endTime": 72184,
+          "word": "क्या "
+        },
+        {
+          "startTime": 72184,
+          "endTime": 73090,
+          "word": "लिखूँ?"
+        }
+      ]
+    },
+    {
+      "time": 73090,
+      "endTime": 74610,
+      "text": "आगे...",
+      "words": [
+        {
+          "startTime": 73090,
+          "endTime": 74610,
+          "word": "आगे..."
+        }
+      ]
+    },
+    {
+      "time": 74610,
+      "endTime": 83130,
+      "text": "सोचा है, एक दिन मैं उससे मिल के",
+      "words": [
+        {
+          "startTime": 74610,
+          "endTime": 75704,
+          "word": "सोचा "
+        },
+        {
+          "startTime": 75704,
+          "endTime": 77110,
+          "word": "है, "
+        },
+        {
+          "startTime": 77110,
+          "endTime": 78047,
+          "word": "एक "
+        },
+        {
+          "startTime": 78047,
+          "endTime": 79063,
+          "word": "दिन "
+        },
+        {
+          "startTime": 79063,
+          "endTime": 80079,
+          "word": "मैं "
+        },
+        {
+          "startTime": 80079,
+          "endTime": 81173,
+          "word": "उससे "
+        },
+        {
+          "startTime": 81173,
+          "endTime": 82189,
+          "word": "मिल "
+        },
+        {
+          "startTime": 82189,
+          "endTime": 83130,
+          "word": "के"
+        }
+      ]
+    },
+    {
+      "time": 83130,
+      "endTime": 90900,
+      "text": "कह डालूँ अपने सब हाल दिल के",
+      "words": [
+        {
+          "startTime": 83130,
+          "endTime": 84154,
+          "word": "कह "
+        },
+        {
+          "startTime": 84154,
+          "endTime": 85434,
+          "word": "डालूँ "
+        },
+        {
+          "startTime": 85434,
+          "endTime": 86629,
+          "word": "अपने "
+        },
+        {
+          "startTime": 86629,
+          "endTime": 87653,
+          "word": "सब "
+        },
+        {
+          "startTime": 87653,
+          "endTime": 88763,
+          "word": "हाल "
+        },
+        {
+          "startTime": 88763,
+          "endTime": 89873,
+          "word": "दिल "
+        },
+        {
+          "startTime": 89873,
+          "endTime": 90900,
+          "word": "के"
+        }
+      ]
+    },
+    {
+      "time": 90900,
+      "endTime": 99230,
+      "text": "और कर दूँ जीवन उसके हवाले",
+      "words": [
+        {
+          "startTime": 90900,
+          "endTime": 92149,
+          "word": "और "
+        },
+        {
+          "startTime": 92149,
+          "endTime": 93398,
+          "word": "कर "
+        },
+        {
+          "startTime": 93398,
+          "endTime": 94751,
+          "word": "दूँ "
+        },
+        {
+          "startTime": 94751,
+          "endTime": 96208,
+          "word": "जीवन "
+        },
+        {
+          "startTime": 96208,
+          "endTime": 97665,
+          "word": "उसके "
+        },
+        {
+          "startTime": 97665,
+          "endTime": 99230,
+          "word": "हवाले"
+        }
+      ]
+    },
+    {
+      "time": 99230,
+      "endTime": 107350,
+      "text": "फिर छोड़ दे चाहे अपना बना ले",
+      "words": [
+        {
+          "startTime": 99230,
+          "endTime": 100390,
+          "word": "फिर "
+        },
+        {
+          "startTime": 100390,
+          "endTime": 101550,
+          "word": "छोड़ "
+        },
+        {
+          "startTime": 101550,
+          "endTime": 102620,
+          "word": "दे "
+        },
+        {
+          "startTime": 102620,
+          "endTime": 103869,
+          "word": "चाहे "
+        },
+        {
+          "startTime": 103869,
+          "endTime": 105118,
+          "word": "अपना "
+        },
+        {
+          "startTime": 105118,
+          "endTime": 106278,
+          "word": "बना "
+        },
+        {
+          "startTime": 106278,
+          "endTime": 107350,
+          "word": "ले"
+        }
+      ]
+    },
+    {
+      "time": 107350,
+      "endTime": 115600,
+      "text": "मैं तो उसका रे हुआ दीवाना",
+      "words": [
+        {
+          "startTime": 107350,
+          "endTime": 108690,
+          "word": "मैं "
+        },
+        {
+          "startTime": 108690,
+          "endTime": 109927,
+          "word": "तो "
+        },
+        {
+          "startTime": 109927,
+          "endTime": 111370,
+          "word": "उसका "
+        },
+        {
+          "startTime": 111370,
+          "endTime": 112607,
+          "word": "रे "
+        },
+        {
+          "startTime": 112607,
+          "endTime": 113947,
+          "word": "हुआ "
+        },
+        {
+          "startTime": 113947,
+          "endTime": 115600,
+          "word": "दीवाना"
+        }
+      ]
+    },
+    {
+      "time": 115600,
+      "endTime": 122630,
+      "text": "अब तो जैसा भी मेरा हो अंजाम",
+      "words": [
+        {
+          "startTime": 115600,
+          "endTime": 116527,
+          "word": "अब "
+        },
+        {
+          "startTime": 116527,
+          "endTime": 117454,
+          "word": "तो "
+        },
+        {
+          "startTime": 117454,
+          "endTime": 118535,
+          "word": "जैसा "
+        },
+        {
+          "startTime": 118535,
+          "endTime": 119462,
+          "word": "भी "
+        },
+        {
+          "startTime": 119462,
+          "endTime": 120543,
+          "word": "मेरा "
+        },
+        {
+          "startTime": 120543,
+          "endTime": 121470,
+          "word": "हो "
+        },
+        {
+          "startTime": 121470,
+          "endTime": 122630,
+          "word": "अंजाम"
+        }
+      ]
+    },
+    {
+      "time": 122630,
+      "endTime": 132020,
+      "text": "हो, गुम है किसी के प्यार में दिल सुब्ह-शाम",
+      "words": [
+        {
+          "startTime": 122630,
+          "endTime": 123891,
+          "word": "हो, "
+        },
+        {
+          "startTime": 123891,
+          "endTime": 124801,
+          "word": "गुम "
+        },
+        {
+          "startTime": 124801,
+          "endTime": 125641,
+          "word": "है "
+        },
+        {
+          "startTime": 125641,
+          "endTime": 126622,
+          "word": "किसी "
+        },
+        {
+          "startTime": 126622,
+          "endTime": 127462,
+          "word": "के "
+        },
+        {
+          "startTime": 127462,
+          "endTime": 128513,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 128513,
+          "endTime": 129423,
+          "word": "में "
+        },
+        {
+          "startTime": 129423,
+          "endTime": 130333,
+          "word": "दिल "
+        },
+        {
+          "startTime": 130333,
+          "endTime": 132020,
+          "word": "सुब्ह-शाम"
+        }
+      ]
+    },
+    {
+      "time": 132020,
+      "endTime": 138960,
+      "text": "पर तुम्हें लिख नहीं पाऊँ मैं उसका नाम",
+      "words": [
+        {
+          "startTime": 132020,
+          "endTime": 132777,
+          "word": "पर "
+        },
+        {
+          "startTime": 132777,
+          "endTime": 133849,
+          "word": "तुम्हें "
+        },
+        {
+          "startTime": 133849,
+          "endTime": 134669,
+          "word": "लिख "
+        },
+        {
+          "startTime": 134669,
+          "endTime": 135552,
+          "word": "नहीं "
+        },
+        {
+          "startTime": 135552,
+          "endTime": 136435,
+          "word": "पाऊँ "
+        },
+        {
+          "startTime": 136435,
+          "endTime": 137255,
+          "word": "मैं "
+        },
+        {
+          "startTime": 137255,
+          "endTime": 138138,
+          "word": "उसका "
+        },
+        {
+          "startTime": 138138,
+          "endTime": 138960,
+          "word": "नाम"
+        }
+      ]
+    },
+    {
+      "time": 138960,
+      "endTime": 148220,
+      "text": "हाय राम, हाय राम",
+      "words": [
+        {
+          "startTime": 138960,
+          "endTime": 141035,
+          "word": "हाय "
+        },
+        {
+          "startTime": 141035,
+          "endTime": 144068,
+          "word": "राम, "
+        },
+        {
+          "startTime": 144068,
+          "endTime": 146143,
+          "word": "हाय "
+        },
+        {
+          "startTime": 146143,
+          "endTime": 148220,
+          "word": "राम"
+        }
+      ]
+    },
+    {
+      "time": 148220,
+      "endTime": 149970,
+      "text": "लिख लिया? हाँ",
+      "words": [
+        {
+          "startTime": 148220,
+          "endTime": 148714,
+          "word": "लिख "
+        },
+        {
+          "startTime": 148714,
+          "endTime": 149474,
+          "word": "लिया? "
+        },
+        {
+          "startTime": 149474,
+          "endTime": 149970,
+          "word": "हाँ"
+        }
+      ]
+    },
+    {
+      "time": 149970,
+      "endTime": 152910,
+      "text": "ज़रा पढ़ के तो सुनाओ ना",
+      "words": [
+        {
+          "startTime": 149970,
+          "endTime": 150472,
+          "word": "ज़रा "
+        },
+        {
+          "startTime": 150472,
+          "endTime": 150936,
+          "word": "पढ़ "
+        },
+        {
+          "startTime": 150936,
+          "endTime": 151400,
+          "word": "के "
+        },
+        {
+          "startTime": 151400,
+          "endTime": 151864,
+          "word": "तो "
+        },
+        {
+          "startTime": 151864,
+          "endTime": 152444,
+          "word": "सुनाओ "
+        },
+        {
+          "startTime": 152444,
+          "endTime": 152910,
+          "word": "ना"
+        }
+      ]
+    },
+    {
+      "time": 152910,
+      "endTime": 161100,
+      "text": "चाहा है तुमने जिस बावरी को",
+      "words": [
+        {
+          "startTime": 152910,
+          "endTime": 154325,
+          "word": "चाहा "
+        },
+        {
+          "startTime": 154325,
+          "endTime": 155538,
+          "word": "है "
+        },
+        {
+          "startTime": 155538,
+          "endTime": 157054,
+          "word": "तुमने "
+        },
+        {
+          "startTime": 157054,
+          "endTime": 158368,
+          "word": "जिस "
+        },
+        {
+          "startTime": 158368,
+          "endTime": 159884,
+          "word": "बावरी "
+        },
+        {
+          "startTime": 159884,
+          "endTime": 161100,
+          "word": "को"
+        }
+      ]
+    },
+    {
+      "time": 161100,
+      "endTime": 169360,
+      "text": "वो भी, सजनवा, चाहे तुम्हीं को",
+      "words": [
+        {
+          "startTime": 161100,
+          "endTime": 162154,
+          "word": "वो "
+        },
+        {
+          "startTime": 162154,
+          "endTime": 163735,
+          "word": "भी, "
+        },
+        {
+          "startTime": 163735,
+          "endTime": 165580,
+          "word": "सजनवा, "
+        },
+        {
+          "startTime": 165580,
+          "endTime": 166810,
+          "word": "चाहे "
+        },
+        {
+          "startTime": 166810,
+          "endTime": 168303,
+          "word": "तुम्हीं "
+        },
+        {
+          "startTime": 168303,
+          "endTime": 169360,
+          "word": "को"
+        }
+      ]
+    },
+    {
+      "time": 169360,
+      "endTime": 177690,
+      "text": "नैना उठाएँ तो प्यार समझो",
+      "words": [
+        {
+          "startTime": 169360,
+          "endTime": 171026,
+          "word": "नैना "
+        },
+        {
+          "startTime": 171026,
+          "endTime": 172811,
+          "word": "उठाएँ "
+        },
+        {
+          "startTime": 172811,
+          "endTime": 174239,
+          "word": "तो "
+        },
+        {
+          "startTime": 174239,
+          "endTime": 176024,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 176024,
+          "endTime": 177690,
+          "word": "समझो"
+        }
+      ]
+    },
+    {
+      "time": 177690,
+      "endTime": 185400,
+      "text": "पलकें झुका दें तो इक़रार समझो",
+      "words": [
+        {
+          "startTime": 177690,
+          "endTime": 179083,
+          "word": "पलकें "
+        },
+        {
+          "startTime": 179083,
+          "endTime": 180383,
+          "word": "झुका "
+        },
+        {
+          "startTime": 180383,
+          "endTime": 181590,
+          "word": "दें "
+        },
+        {
+          "startTime": 181590,
+          "endTime": 182704,
+          "word": "तो "
+        },
+        {
+          "startTime": 182704,
+          "endTime": 184097,
+          "word": "इक़रार "
+        },
+        {
+          "startTime": 184097,
+          "endTime": 185400,
+          "word": "समझो"
+        }
+      ]
+    },
+    {
+      "time": 185400,
+      "endTime": 193360,
+      "text": "रखती है कब से छुपा-छुपा के (क्या?)",
+      "words": [
+        {
+          "startTime": 185400,
+          "endTime": 186431,
+          "word": "रखती "
+        },
+        {
+          "startTime": 186431,
+          "endTime": 187315,
+          "word": "है "
+        },
+        {
+          "startTime": 187315,
+          "endTime": 188199,
+          "word": "कब "
+        },
+        {
+          "startTime": 188199,
+          "endTime": 189083,
+          "word": "से "
+        },
+        {
+          "startTime": 189083,
+          "endTime": 190851,
+          "word": "छुपा-छुपा "
+        },
+        {
+          "startTime": 190851,
+          "endTime": 191735,
+          "word": "के "
+        },
+        {
+          "startTime": 191735,
+          "endTime": 193360,
+          "word": "(क्या?)"
+        }
+      ]
+    },
+    {
+      "time": 193360,
+      "endTime": 200540,
+      "text": "अपने होंठों में, पिया, तेरा नाम",
+      "words": [
+        {
+          "startTime": 193360,
+          "endTime": 194407,
+          "word": "अपने "
+        },
+        {
+          "startTime": 194407,
+          "endTime": 195603,
+          "word": "होंठों "
+        },
+        {
+          "startTime": 195603,
+          "endTime": 197024,
+          "word": "में, "
+        },
+        {
+          "startTime": 197024,
+          "endTime": 198519,
+          "word": "पिया, "
+        },
+        {
+          "startTime": 198519,
+          "endTime": 199566,
+          "word": "तेरा "
+        },
+        {
+          "startTime": 199566,
+          "endTime": 200540,
+          "word": "नाम"
+        }
+      ]
+    },
+    {
+      "time": 200540,
+      "endTime": 209940,
+      "text": "हो, गुम है किसी के प्यार में दिल सुब्ह-शाम",
+      "words": [
+        {
+          "startTime": 200540,
+          "endTime": 201802,
+          "word": "हो, "
+        },
+        {
+          "startTime": 201802,
+          "endTime": 202713,
+          "word": "गुम "
+        },
+        {
+          "startTime": 202713,
+          "endTime": 203554,
+          "word": "है "
+        },
+        {
+          "startTime": 203554,
+          "endTime": 204536,
+          "word": "किसी "
+        },
+        {
+          "startTime": 204536,
+          "endTime": 205377,
+          "word": "के "
+        },
+        {
+          "startTime": 205377,
+          "endTime": 206429,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 206429,
+          "endTime": 207340,
+          "word": "में "
+        },
+        {
+          "startTime": 207340,
+          "endTime": 208251,
+          "word": "दिल "
+        },
+        {
+          "startTime": 208251,
+          "endTime": 209940,
+          "word": "सुब्ह-शाम"
+        }
+      ]
+    },
+    {
+      "time": 209940,
+      "endTime": 216940,
+      "text": "पर तुम्हें लिख नहीं पाऊँ मैं उसका नाम",
+      "words": [
+        {
+          "startTime": 209940,
+          "endTime": 210703,
+          "word": "पर "
+        },
+        {
+          "startTime": 210703,
+          "endTime": 211784,
+          "word": "तुम्हें "
+        },
+        {
+          "startTime": 211784,
+          "endTime": 212611,
+          "word": "लिख "
+        },
+        {
+          "startTime": 212611,
+          "endTime": 213501,
+          "word": "नहीं "
+        },
+        {
+          "startTime": 213501,
+          "endTime": 214391,
+          "word": "पाऊँ "
+        },
+        {
+          "startTime": 214391,
+          "endTime": 215218,
+          "word": "मैं "
+        },
+        {
+          "startTime": 215218,
+          "endTime": 216108,
+          "word": "उसका "
+        },
+        {
+          "startTime": 216108,
+          "endTime": 216940,
+          "word": "नाम"
+        }
+      ]
+    },
+    {
+      "time": 216940,
+      "endTime": 226150,
+      "text": "हो, गुम है किसी के प्यार में दिल सुब्ह-शाम",
+      "words": [
+        {
+          "startTime": 216940,
+          "endTime": 218177,
+          "word": "हो, "
+        },
+        {
+          "startTime": 218177,
+          "endTime": 219070,
+          "word": "गुम "
+        },
+        {
+          "startTime": 219070,
+          "endTime": 219894,
+          "word": "है "
+        },
+        {
+          "startTime": 219894,
+          "endTime": 220856,
+          "word": "किसी "
+        },
+        {
+          "startTime": 220856,
+          "endTime": 221680,
+          "word": "के "
+        },
+        {
+          "startTime": 221680,
+          "endTime": 222710,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 222710,
+          "endTime": 223603,
+          "word": "में "
+        },
+        {
+          "startTime": 223603,
+          "endTime": 224496,
+          "word": "दिल "
+        },
+        {
+          "startTime": 224496,
+          "endTime": 226150,
+          "word": "सुब्ह-शाम"
+        }
+      ]
+    },
+    {
+      "time": 226150,
+      "endTime": 232890,
+      "text": "पर तुम्हें लिख नहीं पाऊँ मैं उसका नाम",
+      "words": [
+        {
+          "startTime": 226150,
+          "endTime": 226885,
+          "word": "पर "
+        },
+        {
+          "startTime": 226885,
+          "endTime": 227926,
+          "word": "तुम्हें "
+        },
+        {
+          "startTime": 227926,
+          "endTime": 228722,
+          "word": "लिख "
+        },
+        {
+          "startTime": 228722,
+          "endTime": 229579,
+          "word": "नहीं "
+        },
+        {
+          "startTime": 229579,
+          "endTime": 230436,
+          "word": "पाऊँ "
+        },
+        {
+          "startTime": 230436,
+          "endTime": 231232,
+          "word": "मैं "
+        },
+        {
+          "startTime": 231232,
+          "endTime": 232089,
+          "word": "उसका "
+        },
+        {
+          "startTime": 232089,
+          "endTime": 232890,
+          "word": "नाम"
+        }
+      ]
+    },
+    {
+      "time": 232890,
+      "endTime": 237890,
+      "text": "हाय राम, हाय राम",
+      "words": [
+        {
+          "startTime": 232890,
+          "endTime": 234010,
+          "word": "हाय "
+        },
+        {
+          "startTime": 234010,
+          "endTime": 235647,
+          "word": "राम, "
+        },
+        {
+          "startTime": 235647,
+          "endTime": 236767,
+          "word": "हाय "
+        },
+        {
+          "startTime": 236767,
+          "endTime": 237890,
+          "word": "राम"
+        }
+      ]
+    }
+  ]
+}
