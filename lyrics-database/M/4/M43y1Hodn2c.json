@@ -1,0 +1,842 @@
+{
+  "videoId": "M43y1Hodn2c",
+  "title": "Teri Bindiya Re - Dialogue",
+  "artist": "Lata Mangeshkar",
+  "duration": 213,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:06.720\" end=\"00:14.890\">\n        <span begin=\"00:06.720\" end=\"00:08.940\">Aankhein <\/span>\n        <span begin=\"00:08.940\" end=\"00:10.923\">khuli <\/span>\n        <span begin=\"00:10.923\" end=\"00:11.874\">ho <\/span>\n        <span begin=\"00:11.874\" end=\"00:12.825\">ya <\/span>\n        <span begin=\"00:12.825\" end=\"00:13.776\">ho <\/span>\n        <span begin=\"00:13.776\" end=\"00:14.890\">band<\/span>\n      <\/p>\n      <p begin=\"00:14.890\" end=\"00:23.100\">\n        <span begin=\"00:14.890\" end=\"00:17.343\">Deedar <\/span>\n        <span begin=\"00:17.343\" end=\"00:19.607\">unka <\/span>\n        <span begin=\"00:19.607\" end=\"00:21.871\">hota <\/span>\n        <span begin=\"00:21.871\" end=\"00:23.100\">hai<\/span>\n      <\/p>\n      <p begin=\"00:23.100\" end=\"00:26.550\">\n        <span begin=\"00:23.100\" end=\"00:23.668\">Kaise <\/span>\n        <span begin=\"00:23.668\" end=\"00:24.653\">kahoon <\/span>\n        <span begin=\"00:24.653\" end=\"00:25.183\">main <\/span>\n        <span begin=\"00:25.183\" end=\"00:25.600\">o <\/span>\n        <span begin=\"00:25.600\" end=\"00:26.550\">yaara<\/span>\n      <\/p>\n      <p begin=\"00:26.550\" end=\"00:38.960\">\n        <span begin=\"00:26.550\" end=\"00:28.459\">Ye <\/span>\n        <span begin=\"00:28.459\" end=\"00:30.686\">pyar <\/span>\n        <span begin=\"00:30.686\" end=\"00:33.072\">kaise <\/span>\n        <span begin=\"00:33.072\" end=\"00:36.890\">hota <\/span>\n        <span begin=\"00:36.890\" end=\"00:38.960\">hai<\/span>\n      <\/p>\n      <p begin=\"00:38.960\" end=\"00:42.810\">\n        <span begin=\"00:38.960\" end=\"00:40.006\">Aankhein <\/span>\n        <span begin=\"00:40.006\" end=\"00:40.940\">khuli <\/span>\n        <span begin=\"00:40.940\" end=\"00:41.388\">ho <\/span>\n        <span begin=\"00:41.388\" end=\"00:41.836\">ya <\/span>\n        <span begin=\"00:41.836\" end=\"00:42.284\">ho <\/span>\n        <span begin=\"00:42.284\" end=\"00:42.810\">band<\/span>\n      <\/p>\n      <p begin=\"00:42.810\" end=\"00:46.910\">\n        <span begin=\"00:42.810\" end=\"00:44.035\">Deedar <\/span>\n        <span begin=\"00:44.035\" end=\"00:45.166\">unka <\/span>\n        <span begin=\"00:45.166\" end=\"00:46.297\">hota <\/span>\n        <span begin=\"00:46.297\" end=\"00:46.910\">hai<\/span>\n      <\/p>\n      <p begin=\"00:46.910\" end=\"00:50.810\">\n        <span begin=\"00:46.910\" end=\"00:47.970\">Aankhein <\/span>\n        <span begin=\"00:47.970\" end=\"00:48.916\">khuli <\/span>\n        <span begin=\"00:48.916\" end=\"00:49.370\">ho <\/span>\n        <span begin=\"00:49.370\" end=\"00:49.824\">ya <\/span>\n        <span begin=\"00:49.824\" end=\"00:50.278\">ho <\/span>\n        <span begin=\"00:50.278\" end=\"00:50.810\">band<\/span>\n      <\/p>\n      <p begin=\"00:50.810\" end=\"00:54.750\">\n        <span begin=\"00:50.810\" end=\"00:51.987\">Deedar <\/span>\n        <span begin=\"00:51.987\" end=\"00:53.073\">unka <\/span>\n        <span begin=\"00:53.073\" end=\"00:54.159\">hota <\/span>\n        <span begin=\"00:54.159\" end=\"00:54.750\">hai<\/span>\n      <\/p>\n      <p begin=\"00:54.750\" end=\"00:58.100\">\n        <span begin=\"00:54.750\" end=\"00:55.302\">Kaise <\/span>\n        <span begin=\"00:55.302\" end=\"00:56.259\">kahoon <\/span>\n        <span begin=\"00:56.259\" end=\"00:56.774\">main <\/span>\n        <span begin=\"00:56.774\" end=\"00:57.178\">o <\/span>\n        <span begin=\"00:57.178\" end=\"00:58.100\">yaara<\/span>\n      <\/p>\n      <p begin=\"00:58.100\" end=\"01:10.520\">\n        <span begin=\"00:58.100\" end=\"01:00.010\">Ye <\/span>\n        <span begin=\"01:00.010\" end=\"01:02.239\">pyar <\/span>\n        <span begin=\"01:02.239\" end=\"01:04.627\">kaise <\/span>\n        <span begin=\"01:04.627\" end=\"01:08.448\">hota <\/span>\n        <span begin=\"01:08.448\" end=\"01:10.520\">hai<\/span>\n      <\/p>\n      <p begin=\"01:10.520\" end=\"01:14.380\">\n        <span begin=\"01:10.520\" end=\"01:11.569\">Aankhein <\/span>\n        <span begin=\"01:11.569\" end=\"01:12.505\">khuli <\/span>\n        <span begin=\"01:12.505\" end=\"01:12.954\">ho <\/span>\n        <span begin=\"01:12.954\" end=\"01:13.403\">ya <\/span>\n        <span begin=\"01:13.403\" end=\"01:13.852\">ho <\/span>\n        <span begin=\"01:13.852\" end=\"01:14.380\">band<\/span>\n      <\/p>\n      <p begin=\"01:14.380\" end=\"01:18.380\">\n        <span begin=\"01:14.380\" end=\"01:15.575\">Deedar <\/span>\n        <span begin=\"01:15.575\" end=\"01:16.678\">unka <\/span>\n        <span begin=\"01:16.678\" end=\"01:17.781\">hota <\/span>\n        <span begin=\"01:17.781\" end=\"01:18.380\">hai<\/span>\n      <\/p>\n      <p begin=\"01:18.380\" end=\"01:21.790\">\n        <span begin=\"01:18.380\" end=\"01:18.942\">Kaise <\/span>\n        <span begin=\"01:18.942\" end=\"01:19.916\">kahoon <\/span>\n        <span begin=\"01:19.916\" end=\"01:20.440\">main <\/span>\n        <span begin=\"01:20.440\" end=\"01:20.852\">o <\/span>\n        <span begin=\"01:20.852\" end=\"01:21.790\">yaara<\/span>\n      <\/p>\n      <p begin=\"01:21.790\" end=\"02:35.410\">\n        <span begin=\"01:21.790\" end=\"01:33.116\">Ye <\/span>\n        <span begin=\"01:33.116\" end=\"01:46.329\">pyar <\/span>\n        <span begin=\"01:46.329\" end=\"02:00.486\">kaise <\/span>\n        <span begin=\"02:00.486\" end=\"02:23.138\">hota <\/span>\n        <span begin=\"02:23.138\" end=\"02:35.410\">hai<\/span>\n      <\/p>\n      <p begin=\"02:35.410\" end=\"02:42.970\">\n        <span begin=\"02:35.410\" end=\"02:36.097\">Aaj <\/span>\n        <span begin=\"02:36.097\" end=\"02:36.731\">hi <\/span>\n        <span begin=\"02:36.731\" end=\"02:38.105\">yaaron <\/span>\n        <span begin=\"02:38.105\" end=\"02:39.373\">kisi <\/span>\n        <span begin=\"02:39.373\" end=\"02:40.007\">pe <\/span>\n        <span begin=\"02:40.007\" end=\"02:40.800\">marke <\/span>\n        <span begin=\"02:40.800\" end=\"02:42.280\">dekhenge <\/span>\n        <span begin=\"02:42.280\" end=\"02:42.970\">hum<\/span>\n      <\/p>\n      <p begin=\"02:42.970\" end=\"02:50.980\">\n        <span begin=\"02:42.970\" end=\"02:43.748\">Pyar <\/span>\n        <span begin=\"02:43.748\" end=\"02:45.083\">hota <\/span>\n        <span begin=\"02:45.083\" end=\"02:45.806\">hai <\/span>\n        <span begin=\"02:45.806\" end=\"02:46.473\">ye <\/span>\n        <span begin=\"02:46.473\" end=\"02:47.307\">kaise <\/span>\n        <span begin=\"02:47.307\" end=\"02:48.030\">kar <\/span>\n        <span begin=\"02:48.030\" end=\"02:48.697\">ke <\/span>\n        <span begin=\"02:48.697\" end=\"02:50.254\">dekhenge <\/span>\n        <span begin=\"02:50.254\" end=\"02:50.980\">hum<\/span>\n      <\/p>\n      <p begin=\"02:50.980\" end=\"02:54.740\">\n        <span begin=\"02:50.980\" end=\"02:51.847\">Kisi <\/span>\n        <span begin=\"02:51.847\" end=\"02:52.280\">ki <\/span>\n        <span begin=\"02:52.280\" end=\"02:53.220\">yaadon <\/span>\n        <span begin=\"02:53.220\" end=\"02:53.726\">mein <\/span>\n        <span begin=\"02:53.726\" end=\"02:54.268\">khoye <\/span>\n        <span begin=\"02:54.268\" end=\"02:54.740\">hue<\/span>\n      <\/p>\n      <p begin=\"02:54.740\" end=\"02:59.090\">\n        <span begin=\"02:54.740\" end=\"02:55.891\">Khaabon <\/span>\n        <span begin=\"02:55.891\" end=\"02:56.402\">ko <\/span>\n        <span begin=\"02:56.402\" end=\"02:56.956\">hum <\/span>\n        <span begin=\"02:56.956\" end=\"02:57.467\">ne <\/span>\n        <span begin=\"02:57.467\" end=\"02:58.490\">saja <\/span>\n        <span begin=\"02:58.490\" end=\"02:59.090\">liya<\/span>\n      <\/p>\n      <p begin=\"02:59.090\" end=\"03:02.710\">\n        <span begin=\"02:59.090\" end=\"02:59.933\">Kisi <\/span>\n        <span begin=\"02:59.933\" end=\"03:00.354\">ki <\/span>\n        <span begin=\"03:00.354\" end=\"03:01.267\">baahon <\/span>\n        <span begin=\"03:01.267\" end=\"03:01.759\">mein <\/span>\n        <span begin=\"03:01.759\" end=\"03:02.251\">soye <\/span>\n        <span begin=\"03:02.251\" end=\"03:02.710\">hue<\/span>\n      <\/p>\n      <p begin=\"03:02.710\" end=\"03:06.840\">\n        <span begin=\"03:02.710\" end=\"03:04.014\">Apna <\/span>\n        <span begin=\"03:04.014\" end=\"03:04.774\">usse <\/span>\n        <span begin=\"03:04.774\" end=\"03:06.078\">bana <\/span>\n        <span begin=\"03:06.078\" end=\"03:06.840\">liya<\/span>\n      <\/p>\n      <p begin=\"03:06.840\" end=\"03:14.600\">\n        <span begin=\"03:06.840\" end=\"03:08.323\">Aye <\/span>\n        <span begin=\"03:08.323\" end=\"03:09.920\">yaar <\/span>\n        <span begin=\"03:09.920\" end=\"03:11.517\">pyar <\/span>\n        <span begin=\"03:11.517\" end=\"03:13.114\">mein <\/span>\n        <span begin=\"03:13.114\" end=\"03:14.600\">koi<\/span>\n      <\/p>\n      <p begin=\"03:14.600\" end=\"03:22.440\">\n        <span begin=\"03:14.600\" end=\"03:15.257\">Aye <\/span>\n        <span begin=\"03:15.257\" end=\"03:15.965\">yaar <\/span>\n        <span begin=\"03:15.965\" end=\"03:16.673\">pyar <\/span>\n        <span begin=\"03:16.673\" end=\"03:17.381\">mein <\/span>\n        <span begin=\"03:17.381\" end=\"03:18.038\">koi <\/span>\n        <span begin=\"03:18.038\" end=\"03:18.644\">na <\/span>\n        <span begin=\"03:18.644\" end=\"03:19.959\">jaagta <\/span>\n        <span begin=\"03:19.959\" end=\"03:20.565\">na <\/span>\n        <span begin=\"03:20.565\" end=\"03:21.778\">sota <\/span>\n        <span begin=\"03:21.778\" end=\"03:22.440\">hai<\/span>\n      <\/p>\n      <p begin=\"03:22.440\" end=\"03:27.440\">\n        <span begin=\"03:22.440\" end=\"03:22.883\">Kaise <\/span>\n        <span begin=\"03:22.883\" end=\"03:23.652\">kahoon <\/span>\n        <span begin=\"03:23.652\" end=\"03:24.066\">main <\/span>\n        <span begin=\"03:24.066\" end=\"03:24.391\">o <\/span>\n        <span begin=\"03:24.391\" end=\"03:25.130\">yaara <\/span>\n        <span begin=\"03:25.130\" end=\"03:25.485\">ye <\/span>\n        <span begin=\"03:25.485\" end=\"03:25.899\">pyar <\/span>\n        <span begin=\"03:25.899\" end=\"03:26.342\">kaise <\/span>\n        <span begin=\"03:26.342\" end=\"03:27.052\">hota <\/span>\n        <span begin=\"03:27.052\" end=\"03:27.440\">hai<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 6720,
+      "endTime": 14890,
+      "text": "Aankhein khuli ho ya ho band",
+      "words": [
+        {
+          "startTime": 6720,
+          "endTime": 8940,
+          "word": "Aankhein "
+        },
+        {
+          "startTime": 8940,
+          "endTime": 10923,
+          "word": "khuli "
+        },
+        {
+          "startTime": 10923,
+          "endTime": 11874,
+          "word": "ho "
+        },
+        {
+          "startTime": 11874,
+          "endTime": 12825,
+          "word": "ya "
+        },
+        {
+          "startTime": 12825,
+          "endTime": 13776,
+          "word": "ho "
+        },
+        {
+          "startTime": 13776,
+          "endTime": 14890,
+          "word": "band"
+        }
+      ]
+    },
+    {
+      "time": 14890,
+      "endTime": 23100,
+      "text": "Deedar unka hota hai",
+      "words": [
+        {
+          "startTime": 14890,
+          "endTime": 17343,
+          "word": "Deedar "
+        },
+        {
+          "startTime": 17343,
+          "endTime": 19607,
+          "word": "unka "
+        },
+        {
+          "startTime": 19607,
+          "endTime": 21871,
+          "word": "hota "
+        },
+        {
+          "startTime": 21871,
+          "endTime": 23100,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 23100,
+      "endTime": 26550,
+      "text": "Kaise kahoon main o yaara",
+      "words": [
+        {
+          "startTime": 23100,
+          "endTime": 23668,
+          "word": "Kaise "
+        },
+        {
+          "startTime": 23668,
+          "endTime": 24653,
+          "word": "kahoon "
+        },
+        {
+          "startTime": 24653,
+          "endTime": 25183,
+          "word": "main "
+        },
+        {
+          "startTime": 25183,
+          "endTime": 25600,
+          "word": "o "
+        },
+        {
+          "startTime": 25600,
+          "endTime": 26550,
+          "word": "yaara"
+        }
+      ]
+    },
+    {
+      "time": 26550,
+      "endTime": 38960,
+      "text": "Ye pyar kaise hota hai",
+      "words": [
+        {
+          "startTime": 26550,
+          "endTime": 28459,
+          "word": "Ye "
+        },
+        {
+          "startTime": 28459,
+          "endTime": 30686,
+          "word": "pyar "
+        },
+        {
+          "startTime": 30686,
+          "endTime": 33072,
+          "word": "kaise "
+        },
+        {
+          "startTime": 33072,
+          "endTime": 36890,
+          "word": "hota "
+        },
+        {
+          "startTime": 36890,
+          "endTime": 38960,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 38960,
+      "endTime": 42810,
+      "text": "Aankhein khuli ho ya ho band",
+      "words": [
+        {
+          "startTime": 38960,
+          "endTime": 40006,
+          "word": "Aankhein "
+        },
+        {
+          "startTime": 40006,
+          "endTime": 40940,
+          "word": "khuli "
+        },
+        {
+          "startTime": 40940,
+          "endTime": 41388,
+          "word": "ho "
+        },
+        {
+          "startTime": 41388,
+          "endTime": 41836,
+          "word": "ya "
+        },
+        {
+          "startTime": 41836,
+          "endTime": 42284,
+          "word": "ho "
+        },
+        {
+          "startTime": 42284,
+          "endTime": 42810,
+          "word": "band"
+        }
+      ]
+    },
+    {
+      "time": 42810,
+      "endTime": 46910,
+      "text": "Deedar unka hota hai",
+      "words": [
+        {
+          "startTime": 42810,
+          "endTime": 44035,
+          "word": "Deedar "
+        },
+        {
+          "startTime": 44035,
+          "endTime": 45166,
+          "word": "unka "
+        },
+        {
+          "startTime": 45166,
+          "endTime": 46297,
+          "word": "hota "
+        },
+        {
+          "startTime": 46297,
+          "endTime": 46910,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 46910,
+      "endTime": 50810,
+      "text": "Aankhein khuli ho ya ho band",
+      "words": [
+        {
+          "startTime": 46910,
+          "endTime": 47970,
+          "word": "Aankhein "
+        },
+        {
+          "startTime": 47970,
+          "endTime": 48916,
+          "word": "khuli "
+        },
+        {
+          "startTime": 48916,
+          "endTime": 49370,
+          "word": "ho "
+        },
+        {
+          "startTime": 49370,
+          "endTime": 49824,
+          "word": "ya "
+        },
+        {
+          "startTime": 49824,
+          "endTime": 50278,
+          "word": "ho "
+        },
+        {
+          "startTime": 50278,
+          "endTime": 50810,
+          "word": "band"
+        }
+      ]
+    },
+    {
+      "time": 50810,
+      "endTime": 54750,
+      "text": "Deedar unka hota hai",
+      "words": [
+        {
+          "startTime": 50810,
+          "endTime": 51987,
+          "word": "Deedar "
+        },
+        {
+          "startTime": 51987,
+          "endTime": 53073,
+          "word": "unka "
+        },
+        {
+          "startTime": 53073,
+          "endTime": 54159,
+          "word": "hota "
+        },
+        {
+          "startTime": 54159,
+          "endTime": 54750,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 54750,
+      "endTime": 58100,
+      "text": "Kaise kahoon main o yaara",
+      "words": [
+        {
+          "startTime": 54750,
+          "endTime": 55302,
+          "word": "Kaise "
+        },
+        {
+          "startTime": 55302,
+          "endTime": 56259,
+          "word": "kahoon "
+        },
+        {
+          "startTime": 56259,
+          "endTime": 56774,
+          "word": "main "
+        },
+        {
+          "startTime": 56774,
+          "endTime": 57178,
+          "word": "o "
+        },
+        {
+          "startTime": 57178,
+          "endTime": 58100,
+          "word": "yaara"
+        }
+      ]
+    },
+    {
+      "time": 58100,
+      "endTime": 70520,
+      "text": "Ye pyar kaise hota hai",
+      "words": [
+        {
+          "startTime": 58100,
+          "endTime": 60010,
+          "word": "Ye "
+        },
+        {
+          "startTime": 60010,
+          "endTime": 62239,
+          "word": "pyar "
+        },
+        {
+          "startTime": 62239,
+          "endTime": 64627,
+          "word": "kaise "
+        },
+        {
+          "startTime": 64627,
+          "endTime": 68448,
+          "word": "hota "
+        },
+        {
+          "startTime": 68448,
+          "endTime": 70520,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 70520,
+      "endTime": 74380,
+      "text": "Aankhein khuli ho ya ho band",
+      "words": [
+        {
+          "startTime": 70520,
+          "endTime": 71569,
+          "word": "Aankhein "
+        },
+        {
+          "startTime": 71569,
+          "endTime": 72505,
+          "word": "khuli "
+        },
+        {
+          "startTime": 72505,
+          "endTime": 72954,
+          "word": "ho "
+        },
+        {
+          "startTime": 72954,
+          "endTime": 73403,
+          "word": "ya "
+        },
+        {
+          "startTime": 73403,
+          "endTime": 73852,
+          "word": "ho "
+        },
+        {
+          "startTime": 73852,
+          "endTime": 74380,
+          "word": "band"
+        }
+      ]
+    },
+    {
+      "time": 74380,
+      "endTime": 78380,
+      "text": "Deedar unka hota hai",
+      "words": [
+        {
+          "startTime": 74380,
+          "endTime": 75575,
+          "word": "Deedar "
+        },
+        {
+          "startTime": 75575,
+          "endTime": 76678,
+          "word": "unka "
+        },
+        {
+          "startTime": 76678,
+          "endTime": 77781,
+          "word": "hota "
+        },
+        {
+          "startTime": 77781,
+          "endTime": 78380,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 78380,
+      "endTime": 81790,
+      "text": "Kaise kahoon main o yaara",
+      "words": [
+        {
+          "startTime": 78380,
+          "endTime": 78942,
+          "word": "Kaise "
+        },
+        {
+          "startTime": 78942,
+          "endTime": 79916,
+          "word": "kahoon "
+        },
+        {
+          "startTime": 79916,
+          "endTime": 80440,
+          "word": "main "
+        },
+        {
+          "startTime": 80440,
+          "endTime": 80852,
+          "word": "o "
+        },
+        {
+          "startTime": 80852,
+          "endTime": 81790,
+          "word": "yaara"
+        }
+      ]
+    },
+    {
+      "time": 81790,
+      "endTime": 155410,
+      "text": "Ye pyar kaise hota hai",
+      "words": [
+        {
+          "startTime": 81790,
+          "endTime": 93116,
+          "word": "Ye "
+        },
+        {
+          "startTime": 93116,
+          "endTime": 106329,
+          "word": "pyar "
+        },
+        {
+          "startTime": 106329,
+          "endTime": 120486,
+          "word": "kaise "
+        },
+        {
+          "startTime": 120486,
+          "endTime": 143138,
+          "word": "hota "
+        },
+        {
+          "startTime": 143138,
+          "endTime": 155410,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 155410,
+      "endTime": 162970,
+      "text": "Aaj hi yaaron kisi pe marke dekhenge hum",
+      "words": [
+        {
+          "startTime": 155410,
+          "endTime": 156097,
+          "word": "Aaj "
+        },
+        {
+          "startTime": 156097,
+          "endTime": 156731,
+          "word": "hi "
+        },
+        {
+          "startTime": 156731,
+          "endTime": 158105,
+          "word": "yaaron "
+        },
+        {
+          "startTime": 158105,
+          "endTime": 159373,
+          "word": "kisi "
+        },
+        {
+          "startTime": 159373,
+          "endTime": 160007,
+          "word": "pe "
+        },
+        {
+          "startTime": 160007,
+          "endTime": 160800,
+          "word": "marke "
+        },
+        {
+          "startTime": 160800,
+          "endTime": 162280,
+          "word": "dekhenge "
+        },
+        {
+          "startTime": 162280,
+          "endTime": 162970,
+          "word": "hum"
+        }
+      ]
+    },
+    {
+      "time": 162970,
+      "endTime": 170980,
+      "text": "Pyar hota hai ye kaise kar ke dekhenge hum",
+      "words": [
+        {
+          "startTime": 162970,
+          "endTime": 163748,
+          "word": "Pyar "
+        },
+        {
+          "startTime": 163748,
+          "endTime": 165083,
+          "word": "hota "
+        },
+        {
+          "startTime": 165083,
+          "endTime": 165806,
+          "word": "hai "
+        },
+        {
+          "startTime": 165806,
+          "endTime": 166473,
+          "word": "ye "
+        },
+        {
+          "startTime": 166473,
+          "endTime": 167307,
+          "word": "kaise "
+        },
+        {
+          "startTime": 167307,
+          "endTime": 168030,
+          "word": "kar "
+        },
+        {
+          "startTime": 168030,
+          "endTime": 168697,
+          "word": "ke "
+        },
+        {
+          "startTime": 168697,
+          "endTime": 170254,
+          "word": "dekhenge "
+        },
+        {
+          "startTime": 170254,
+          "endTime": 170980,
+          "word": "hum"
+        }
+      ]
+    },
+    {
+      "time": 170980,
+      "endTime": 174740,
+      "text": "Kisi ki yaadon mein khoye hue",
+      "words": [
+        {
+          "startTime": 170980,
+          "endTime": 171847,
+          "word": "Kisi "
+        },
+        {
+          "startTime": 171847,
+          "endTime": 172280,
+          "word": "ki "
+        },
+        {
+          "startTime": 172280,
+          "endTime": 173220,
+          "word": "yaadon "
+        },
+        {
+          "startTime": 173220,
+          "endTime": 173726,
+          "word": "mein "
+        },
+        {
+          "startTime": 173726,
+          "endTime": 174268,
+          "word": "khoye "
+        },
+        {
+          "startTime": 174268,
+          "endTime": 174740,
+          "word": "hue"
+        }
+      ]
+    },
+    {
+      "time": 174740,
+      "endTime": 179090,
+      "text": "Khaabon ko hum ne saja liya",
+      "words": [
+        {
+          "startTime": 174740,
+          "endTime": 175891,
+          "word": "Khaabon "
+        },
+        {
+          "startTime": 175891,
+          "endTime": 176402,
+          "word": "ko "
+        },
+        {
+          "startTime": 176402,
+          "endTime": 176956,
+          "word": "hum "
+        },
+        {
+          "startTime": 176956,
+          "endTime": 177467,
+          "word": "ne "
+        },
+        {
+          "startTime": 177467,
+          "endTime": 178490,
+          "word": "saja "
+        },
+        {
+          "startTime": 178490,
+          "endTime": 179090,
+          "word": "liya"
+        }
+      ]
+    },
+    {
+      "time": 179090,
+      "endTime": 182710,
+      "text": "Kisi ki baahon mein soye hue",
+      "words": [
+        {
+          "startTime": 179090,
+          "endTime": 179933,
+          "word": "Kisi "
+        },
+        {
+          "startTime": 179933,
+          "endTime": 180354,
+          "word": "ki "
+        },
+        {
+          "startTime": 180354,
+          "endTime": 181267,
+          "word": "baahon "
+        },
+        {
+          "startTime": 181267,
+          "endTime": 181759,
+          "word": "mein "
+        },
+        {
+          "startTime": 181759,
+          "endTime": 182251,
+          "word": "soye "
+        },
+        {
+          "startTime": 182251,
+          "endTime": 182710,
+          "word": "hue"
+        }
+      ]
+    },
+    {
+      "time": 182710,
+      "endTime": 186840,
+      "text": "Apna usse bana liya",
+      "words": [
+        {
+          "startTime": 182710,
+          "endTime": 184014,
+          "word": "Apna "
+        },
+        {
+          "startTime": 184014,
+          "endTime": 184774,
+          "word": "usse "
+        },
+        {
+          "startTime": 184774,
+          "endTime": 186078,
+          "word": "bana "
+        },
+        {
+          "startTime": 186078,
+          "endTime": 186840,
+          "word": "liya"
+        }
+      ]
+    },
+    {
+      "time": 186840,
+      "endTime": 194600,
+      "text": "Aye yaar pyar mein koi",
+      "words": [
+        {
+          "startTime": 186840,
+          "endTime": 188323,
+          "word": "Aye "
+        },
+        {
+          "startTime": 188323,
+          "endTime": 189920,
+          "word": "yaar "
+        },
+        {
+          "startTime": 189920,
+          "endTime": 191517,
+          "word": "pyar "
+        },
+        {
+          "startTime": 191517,
+          "endTime": 193114,
+          "word": "mein "
+        },
+        {
+          "startTime": 193114,
+          "endTime": 194600,
+          "word": "koi"
+        }
+      ]
+    },
+    {
+      "time": 194600,
+      "endTime": 202440,
+      "text": "Aye yaar pyar mein koi na jaagta na sota hai",
+      "words": [
+        {
+          "startTime": 194600,
+          "endTime": 195257,
+          "word": "Aye "
+        },
+        {
+          "startTime": 195257,
+          "endTime": 195965,
+          "word": "yaar "
+        },
+        {
+          "startTime": 195965,
+          "endTime": 196673,
+          "word": "pyar "
+        },
+        {
+          "startTime": 196673,
+          "endTime": 197381,
+          "word": "mein "
+        },
+        {
+          "startTime": 197381,
+          "endTime": 198038,
+          "word": "koi "
+        },
+        {
+          "startTime": 198038,
+          "endTime": 198644,
+          "word": "na "
+        },
+        {
+          "startTime": 198644,
+          "endTime": 199959,
+          "word": "jaagta "
+        },
+        {
+          "startTime": 199959,
+          "endTime": 200565,
+          "word": "na "
+        },
+        {
+          "startTime": 200565,
+          "endTime": 201778,
+          "word": "sota "
+        },
+        {
+          "startTime": 201778,
+          "endTime": 202440,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 202440,
+      "endTime": 207440,
+      "text": "Kaise kahoon main o yaara ye pyar kaise hota hai",
+      "words": [
+        {
+          "startTime": 202440,
+          "endTime": 202883,
+          "word": "Kaise "
+        },
+        {
+          "startTime": 202883,
+          "endTime": 203652,
+          "word": "kahoon "
+        },
+        {
+          "startTime": 203652,
+          "endTime": 204066,
+          "word": "main "
+        },
+        {
+          "startTime": 204066,
+          "endTime": 204391,
+          "word": "o "
+        },
+        {
+          "startTime": 204391,
+          "endTime": 205130,
+          "word": "yaara "
+        },
+        {
+          "startTime": 205130,
+          "endTime": 205485,
+          "word": "ye "
+        },
+        {
+          "startTime": 205485,
+          "endTime": 205899,
+          "word": "pyar "
+        },
+        {
+          "startTime": 205899,
+          "endTime": 206342,
+          "word": "kaise "
+        },
+        {
+          "startTime": 206342,
+          "endTime": 207052,
+          "word": "hota "
+        },
+        {
+          "startTime": 207052,
+          "endTime": 207440,
+          "word": "hai"
+        }
+      ]
+    }
+  ]
+}
