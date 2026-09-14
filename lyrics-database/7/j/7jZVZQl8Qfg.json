@@ -1,0 +1,982 @@
+{
+  "videoId": "7jZVZQl8Qfg",
+  "title": "Ek Ajnabee Haseena Se",
+  "artist": "Kishore Kumar",
+  "duration": 284,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:18.110\" end=\"00:31.350\">\n        <span begin=\"00:18.110\" end=\"00:19.039\">Ek <\/span>\n        <span begin=\"00:19.039\" end=\"00:21.826\">ajnabi <\/span>\n        <span begin=\"00:21.826\" end=\"00:24.613\">hasina <\/span>\n        <span begin=\"00:24.613\" end=\"00:25.542\">se <\/span>\n        <span begin=\"00:25.542\" end=\"00:26.471\">yu <\/span>\n        <span begin=\"00:26.471\" end=\"00:29.335\">mulakat <\/span>\n        <span begin=\"00:29.335\" end=\"00:30.264\">ho <\/span>\n        <span begin=\"00:30.264\" end=\"00:31.350\">gayi<\/span>\n      <\/p>\n      <p begin=\"00:31.350\" end=\"00:41.430\">\n        <span begin=\"00:31.350\" end=\"00:32.057\">Ek <\/span>\n        <span begin=\"00:32.057\" end=\"00:34.179\">ajnabi <\/span>\n        <span begin=\"00:34.179\" end=\"00:36.301\">hasina <\/span>\n        <span begin=\"00:36.301\" end=\"00:37.008\">se <\/span>\n        <span begin=\"00:37.008\" end=\"00:37.715\">yu <\/span>\n        <span begin=\"00:37.715\" end=\"00:39.896\">mulakat <\/span>\n        <span begin=\"00:39.896\" end=\"00:40.603\">ho <\/span>\n        <span begin=\"00:40.603\" end=\"00:41.430\">gayi<\/span>\n      <\/p>\n      <p begin=\"00:41.430\" end=\"00:51.490\">\n        <span begin=\"00:41.430\" end=\"00:42.183\">Phir <\/span>\n        <span begin=\"00:42.183\" end=\"00:42.882\">kya <\/span>\n        <span begin=\"00:42.882\" end=\"00:44.173\">huwa <\/span>\n        <span begin=\"00:44.173\" end=\"00:44.872\">yeh <\/span>\n        <span begin=\"00:44.872\" end=\"00:45.571\">naa <\/span>\n        <span begin=\"00:45.571\" end=\"00:47.292\">puchho, <\/span>\n        <span begin=\"00:47.292\" end=\"00:48.098\">kuchh <\/span>\n        <span begin=\"00:48.098\" end=\"00:49.389\">aisi <\/span>\n        <span begin=\"00:49.389\" end=\"00:50.088\">bat <\/span>\n        <span begin=\"00:50.088\" end=\"00:50.733\">ho <\/span>\n        <span begin=\"00:50.733\" end=\"00:51.490\">gayi<\/span>\n      <\/p>\n      <p begin=\"00:51.490\" end=\"01:22.970\">\n        <span begin=\"00:51.490\" end=\"00:53.699\">Ek <\/span>\n        <span begin=\"00:53.699\" end=\"01:00.326\">ajnabi <\/span>\n        <span begin=\"01:00.326\" end=\"01:06.953\">hasina <\/span>\n        <span begin=\"01:06.953\" end=\"01:09.162\">se <\/span>\n        <span begin=\"01:09.162\" end=\"01:11.371\">yu <\/span>\n        <span begin=\"01:11.371\" end=\"01:18.182\">mulakat <\/span>\n        <span begin=\"01:18.182\" end=\"01:20.391\">ho <\/span>\n        <span begin=\"01:20.391\" end=\"01:22.970\">gayi<\/span>\n      <\/p>\n      <p begin=\"01:22.970\" end=\"01:32.090\">\n        <span begin=\"01:22.970\" end=\"01:23.720\">Woh <\/span>\n        <span begin=\"01:23.720\" end=\"01:25.855\">achanak <\/span>\n        <span begin=\"01:25.855\" end=\"01:26.547\">aa <\/span>\n        <span begin=\"01:26.547\" end=\"01:27.701\">gayi, <\/span>\n        <span begin=\"01:27.701\" end=\"01:28.451\">yun <\/span>\n        <span begin=\"01:28.451\" end=\"01:29.894\">najar <\/span>\n        <span begin=\"01:29.894\" end=\"01:30.586\">ke <\/span>\n        <span begin=\"01:30.586\" end=\"01:32.090\">samane<\/span>\n      <\/p>\n      <p begin=\"01:32.090\" end=\"01:42.170\">\n        <span begin=\"01:32.090\" end=\"01:33.530\">Jaise <\/span>\n        <span begin=\"01:33.530\" end=\"01:35.930\">nikal <\/span>\n        <span begin=\"01:35.930\" end=\"01:37.178\">aya <\/span>\n        <span begin=\"01:37.178\" end=\"01:39.578\">ghata <\/span>\n        <span begin=\"01:39.578\" end=\"01:40.730\">se <\/span>\n        <span begin=\"01:40.730\" end=\"01:42.170\">chand<\/span>\n      <\/p>\n      <p begin=\"01:42.170\" end=\"01:51.390\">\n        <span begin=\"01:42.170\" end=\"01:42.928\">Woh <\/span>\n        <span begin=\"01:42.928\" end=\"01:45.087\">achanak <\/span>\n        <span begin=\"01:45.087\" end=\"01:45.787\">aa <\/span>\n        <span begin=\"01:45.787\" end=\"01:46.954\">gayi, <\/span>\n        <span begin=\"01:46.954\" end=\"01:47.712\">yun <\/span>\n        <span begin=\"01:47.712\" end=\"01:49.170\">najar <\/span>\n        <span begin=\"01:49.170\" end=\"01:49.870\">ke <\/span>\n        <span begin=\"01:49.870\" end=\"01:51.390\">samane<\/span>\n      <\/p>\n      <p begin=\"01:51.390\" end=\"01:58.750\">\n        <span begin=\"01:51.390\" end=\"01:52.441\">Jaise <\/span>\n        <span begin=\"01:52.441\" end=\"01:54.193\">nikal <\/span>\n        <span begin=\"01:54.193\" end=\"01:55.104\">aya <\/span>\n        <span begin=\"01:55.104\" end=\"01:56.856\">ghata <\/span>\n        <span begin=\"01:56.856\" end=\"01:57.697\">se <\/span>\n        <span begin=\"01:57.697\" end=\"01:58.750\">chand<\/span>\n      <\/p>\n      <p begin=\"01:58.750\" end=\"02:07.670\">\n        <span begin=\"01:58.750\" end=\"01:59.919\">Chehare <\/span>\n        <span begin=\"01:59.919\" end=\"02:00.438\">pe <\/span>\n        <span begin=\"02:00.438\" end=\"02:01.823\">julfen, <\/span>\n        <span begin=\"02:01.823\" end=\"02:03.425\">bikhari <\/span>\n        <span begin=\"02:03.425\" end=\"02:04.031\">huyi <\/span>\n        <span begin=\"02:04.031\" end=\"02:04.853\">thi, <\/span>\n        <span begin=\"02:04.853\" end=\"02:05.415\">din <\/span>\n        <span begin=\"02:05.415\" end=\"02:05.934\">me <\/span>\n        <span begin=\"02:05.934\" end=\"02:06.540\">raat <\/span>\n        <span begin=\"02:06.540\" end=\"02:07.059\">ho <\/span>\n        <span begin=\"02:07.059\" end=\"02:07.670\">gayi<\/span>\n      <\/p>\n      <p begin=\"02:07.670\" end=\"02:28.840\">\n        <span begin=\"02:07.670\" end=\"02:09.155\">Ek <\/span>\n        <span begin=\"02:09.155\" end=\"02:13.611\">ajnabi <\/span>\n        <span begin=\"02:13.611\" end=\"02:18.067\">hasina <\/span>\n        <span begin=\"02:18.067\" end=\"02:19.552\">se <\/span>\n        <span begin=\"02:19.552\" end=\"02:21.037\">yu <\/span>\n        <span begin=\"02:21.037\" end=\"02:25.617\">mulakat <\/span>\n        <span begin=\"02:25.617\" end=\"02:27.102\">ho <\/span>\n        <span begin=\"02:27.102\" end=\"02:28.840\">gayi<\/span>\n      <\/p>\n      <p begin=\"02:28.840\" end=\"02:47.960\">\n        <span begin=\"02:28.840\" end=\"02:31.238\">Janeman <\/span>\n        <span begin=\"02:31.238\" end=\"02:34.478\">jaanejigar <\/span>\n        <span begin=\"02:34.478\" end=\"02:36.033\">hota <\/span>\n        <span begin=\"02:36.033\" end=\"02:36.875\">mai <\/span>\n        <span begin=\"02:36.875\" end=\"02:37.912\">shayar <\/span>\n        <span begin=\"02:37.912\" end=\"02:39.856\">agar, <\/span>\n        <span begin=\"02:39.856\" end=\"02:42.189\">kahata <\/span>\n        <span begin=\"02:42.189\" end=\"02:43.874\">ghazal <\/span>\n        <span begin=\"02:43.874\" end=\"02:45.429\">teri <\/span>\n        <span begin=\"02:45.429\" end=\"02:47.114\">aadaon <\/span>\n        <span begin=\"02:47.114\" end=\"02:47.960\">par<\/span>\n      <\/p>\n      <p begin=\"02:47.960\" end=\"03:04.420\">\n        <span begin=\"02:47.960\" end=\"02:50.024\">Janeman <\/span>\n        <span begin=\"02:50.024\" end=\"02:52.813\">jaanejigar <\/span>\n        <span begin=\"02:52.813\" end=\"02:54.152\">hota <\/span>\n        <span begin=\"02:54.152\" end=\"02:54.877\">mai <\/span>\n        <span begin=\"02:54.877\" end=\"02:55.769\">shayar <\/span>\n        <span begin=\"02:55.769\" end=\"02:57.442\">agar, <\/span>\n        <span begin=\"02:57.442\" end=\"02:59.450\">kahata <\/span>\n        <span begin=\"02:59.450\" end=\"03:00.900\">ghazal <\/span>\n        <span begin=\"03:00.900\" end=\"03:02.239\">teri <\/span>\n        <span begin=\"03:02.239\" end=\"03:03.689\">aadaon <\/span>\n        <span begin=\"03:03.689\" end=\"03:04.420\">par<\/span>\n      <\/p>\n      <p begin=\"03:04.420\" end=\"03:13.340\">\n        <span begin=\"03:04.420\" end=\"03:05.151\">Maine <\/span>\n        <span begin=\"03:05.151\" end=\"03:05.784\">yeh <\/span>\n        <span begin=\"03:05.784\" end=\"03:06.953\">kaha <\/span>\n        <span begin=\"03:06.953\" end=\"03:07.586\">toh <\/span>\n        <span begin=\"03:07.586\" end=\"03:08.365\">mujhse <\/span>\n        <span begin=\"03:08.365\" end=\"03:09.534\">kafa <\/span>\n        <span begin=\"03:09.534\" end=\"03:10.167\">woh <\/span>\n        <span begin=\"03:10.167\" end=\"03:12.067\">janehayat <\/span>\n        <span begin=\"03:12.067\" end=\"03:12.651\">ho <\/span>\n        <span begin=\"03:12.651\" end=\"03:13.340\">gayi<\/span>\n      <\/p>\n      <p begin=\"03:13.340\" end=\"03:44.180\">\n        <span begin=\"03:13.340\" end=\"03:15.504\">Ek <\/span>\n        <span begin=\"03:15.504\" end=\"03:21.996\">ajnabi <\/span>\n        <span begin=\"03:21.996\" end=\"03:28.488\">hasina <\/span>\n        <span begin=\"03:28.488\" end=\"03:30.652\">se <\/span>\n        <span begin=\"03:30.652\" end=\"03:32.816\">yu <\/span>\n        <span begin=\"03:32.816\" end=\"03:39.488\">mulakat <\/span>\n        <span begin=\"03:39.488\" end=\"03:41.652\">ho <\/span>\n        <span begin=\"03:41.652\" end=\"03:44.180\">gayi<\/span>\n      <\/p>\n      <p begin=\"03:44.180\" end=\"04:03.430\">\n        <span begin=\"03:44.180\" end=\"03:47.056\">Khubsurat <\/span>\n        <span begin=\"03:47.056\" end=\"03:48.014\">bat <\/span>\n        <span begin=\"03:48.014\" end=\"03:48.972\">yeh <\/span>\n        <span begin=\"03:48.972\" end=\"03:50.004\">char <\/span>\n        <span begin=\"03:50.004\" end=\"03:50.962\">pal <\/span>\n        <span begin=\"03:50.962\" end=\"03:51.920\">kaa <\/span>\n        <span begin=\"03:51.920\" end=\"03:52.952\">sath <\/span>\n        <span begin=\"03:52.952\" end=\"03:54.353\">yeh, <\/span>\n        <span begin=\"03:54.353\" end=\"03:56.123\">sari <\/span>\n        <span begin=\"03:56.123\" end=\"03:57.893\">umar <\/span>\n        <span begin=\"03:57.893\" end=\"03:59.810\">mujhko <\/span>\n        <span begin=\"03:59.810\" end=\"04:02.465\">rahega <\/span>\n        <span begin=\"04:02.465\" end=\"04:03.430\">yad<\/span>\n      <\/p>\n      <p begin=\"04:03.430\" end=\"04:19.830\">\n        <span begin=\"04:03.430\" end=\"04:05.880\">Khubsurat <\/span>\n        <span begin=\"04:05.880\" end=\"04:06.696\">bat <\/span>\n        <span begin=\"04:06.696\" end=\"04:07.512\">yeh <\/span>\n        <span begin=\"04:07.512\" end=\"04:08.391\">char <\/span>\n        <span begin=\"04:08.391\" end=\"04:09.207\">pal <\/span>\n        <span begin=\"04:09.207\" end=\"04:10.023\">kaa <\/span>\n        <span begin=\"04:10.023\" end=\"04:10.902\">sath <\/span>\n        <span begin=\"04:10.902\" end=\"04:12.095\">yeh, <\/span>\n        <span begin=\"04:12.095\" end=\"04:13.603\">sari <\/span>\n        <span begin=\"04:13.603\" end=\"04:15.111\">umar <\/span>\n        <span begin=\"04:15.111\" end=\"04:16.744\">mujhko <\/span>\n        <span begin=\"04:16.744\" end=\"04:19.006\">rahega <\/span>\n        <span begin=\"04:19.006\" end=\"04:19.830\">yad<\/span>\n      <\/p>\n      <p begin=\"04:19.830\" end=\"04:28.390\">\n        <span begin=\"04:19.830\" end=\"04:20.287\">Mai <\/span>\n        <span begin=\"04:20.287\" end=\"04:21.519\">akela <\/span>\n        <span begin=\"04:21.519\" end=\"04:21.976\">tha <\/span>\n        <span begin=\"04:21.976\" end=\"04:23.068\">magar, <\/span>\n        <span begin=\"04:23.068\" end=\"04:23.525\">ban <\/span>\n        <span begin=\"04:23.525\" end=\"04:24.018\">gayi <\/span>\n        <span begin=\"04:24.018\" end=\"04:24.475\">woh <\/span>\n        <span begin=\"04:24.475\" end=\"04:26.024\">humsafar, <\/span>\n        <span begin=\"04:26.024\" end=\"04:26.481\">woh <\/span>\n        <span begin=\"04:26.481\" end=\"04:26.974\">mere <\/span>\n        <span begin=\"04:26.974\" end=\"04:27.467\">sath <\/span>\n        <span begin=\"04:27.467\" end=\"04:27.889\">ho <\/span>\n        <span begin=\"04:27.889\" end=\"04:28.390\">gayi<\/span>\n      <\/p>\n      <p begin=\"04:28.390\" end=\"04:33.390\">\n        <span begin=\"04:28.390\" end=\"04:28.740\">Ek <\/span>\n        <span begin=\"04:28.740\" end=\"04:29.792\">ajnabi <\/span>\n        <span begin=\"04:29.792\" end=\"04:30.844\">hasina <\/span>\n        <span begin=\"04:30.844\" end=\"04:31.194\">se <\/span>\n        <span begin=\"04:31.194\" end=\"04:31.544\">yu <\/span>\n        <span begin=\"04:31.544\" end=\"04:32.625\">mulakat <\/span>\n        <span begin=\"04:32.625\" end=\"04:32.975\">ho <\/span>\n        <span begin=\"04:32.975\" end=\"04:33.390\">gayi<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 18110,
+      "endTime": 31350,
+      "text": "Ek ajnabi hasina se yu mulakat ho gayi",
+      "words": [
+        {
+          "startTime": 18110,
+          "endTime": 19039,
+          "word": "Ek "
+        },
+        {
+          "startTime": 19039,
+          "endTime": 21826,
+          "word": "ajnabi "
+        },
+        {
+          "startTime": 21826,
+          "endTime": 24613,
+          "word": "hasina "
+        },
+        {
+          "startTime": 24613,
+          "endTime": 25542,
+          "word": "se "
+        },
+        {
+          "startTime": 25542,
+          "endTime": 26471,
+          "word": "yu "
+        },
+        {
+          "startTime": 26471,
+          "endTime": 29335,
+          "word": "mulakat "
+        },
+        {
+          "startTime": 29335,
+          "endTime": 30264,
+          "word": "ho "
+        },
+        {
+          "startTime": 30264,
+          "endTime": 31350,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 31350,
+      "endTime": 41430,
+      "text": "Ek ajnabi hasina se yu mulakat ho gayi",
+      "words": [
+        {
+          "startTime": 31350,
+          "endTime": 32057,
+          "word": "Ek "
+        },
+        {
+          "startTime": 32057,
+          "endTime": 34179,
+          "word": "ajnabi "
+        },
+        {
+          "startTime": 34179,
+          "endTime": 36301,
+          "word": "hasina "
+        },
+        {
+          "startTime": 36301,
+          "endTime": 37008,
+          "word": "se "
+        },
+        {
+          "startTime": 37008,
+          "endTime": 37715,
+          "word": "yu "
+        },
+        {
+          "startTime": 37715,
+          "endTime": 39896,
+          "word": "mulakat "
+        },
+        {
+          "startTime": 39896,
+          "endTime": 40603,
+          "word": "ho "
+        },
+        {
+          "startTime": 40603,
+          "endTime": 41430,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 41430,
+      "endTime": 51490,
+      "text": "Phir kya huwa yeh naa puchho, kuchh aisi bat ho gayi",
+      "words": [
+        {
+          "startTime": 41430,
+          "endTime": 42183,
+          "word": "Phir "
+        },
+        {
+          "startTime": 42183,
+          "endTime": 42882,
+          "word": "kya "
+        },
+        {
+          "startTime": 42882,
+          "endTime": 44173,
+          "word": "huwa "
+        },
+        {
+          "startTime": 44173,
+          "endTime": 44872,
+          "word": "yeh "
+        },
+        {
+          "startTime": 44872,
+          "endTime": 45571,
+          "word": "naa "
+        },
+        {
+          "startTime": 45571,
+          "endTime": 47292,
+          "word": "puchho, "
+        },
+        {
+          "startTime": 47292,
+          "endTime": 48098,
+          "word": "kuchh "
+        },
+        {
+          "startTime": 48098,
+          "endTime": 49389,
+          "word": "aisi "
+        },
+        {
+          "startTime": 49389,
+          "endTime": 50088,
+          "word": "bat "
+        },
+        {
+          "startTime": 50088,
+          "endTime": 50733,
+          "word": "ho "
+        },
+        {
+          "startTime": 50733,
+          "endTime": 51490,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 51490,
+      "endTime": 82970,
+      "text": "Ek ajnabi hasina se yu mulakat ho gayi",
+      "words": [
+        {
+          "startTime": 51490,
+          "endTime": 53699,
+          "word": "Ek "
+        },
+        {
+          "startTime": 53699,
+          "endTime": 60326,
+          "word": "ajnabi "
+        },
+        {
+          "startTime": 60326,
+          "endTime": 66953,
+          "word": "hasina "
+        },
+        {
+          "startTime": 66953,
+          "endTime": 69162,
+          "word": "se "
+        },
+        {
+          "startTime": 69162,
+          "endTime": 71371,
+          "word": "yu "
+        },
+        {
+          "startTime": 71371,
+          "endTime": 78182,
+          "word": "mulakat "
+        },
+        {
+          "startTime": 78182,
+          "endTime": 80391,
+          "word": "ho "
+        },
+        {
+          "startTime": 80391,
+          "endTime": 82970,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 82970,
+      "endTime": 92090,
+      "text": "Woh achanak aa gayi, yun najar ke samane",
+      "words": [
+        {
+          "startTime": 82970,
+          "endTime": 83720,
+          "word": "Woh "
+        },
+        {
+          "startTime": 83720,
+          "endTime": 85855,
+          "word": "achanak "
+        },
+        {
+          "startTime": 85855,
+          "endTime": 86547,
+          "word": "aa "
+        },
+        {
+          "startTime": 86547,
+          "endTime": 87701,
+          "word": "gayi, "
+        },
+        {
+          "startTime": 87701,
+          "endTime": 88451,
+          "word": "yun "
+        },
+        {
+          "startTime": 88451,
+          "endTime": 89894,
+          "word": "najar "
+        },
+        {
+          "startTime": 89894,
+          "endTime": 90586,
+          "word": "ke "
+        },
+        {
+          "startTime": 90586,
+          "endTime": 92090,
+          "word": "samane"
+        }
+      ]
+    },
+    {
+      "time": 92090,
+      "endTime": 102170,
+      "text": "Jaise nikal aya ghata se chand",
+      "words": [
+        {
+          "startTime": 92090,
+          "endTime": 93530,
+          "word": "Jaise "
+        },
+        {
+          "startTime": 93530,
+          "endTime": 95930,
+          "word": "nikal "
+        },
+        {
+          "startTime": 95930,
+          "endTime": 97178,
+          "word": "aya "
+        },
+        {
+          "startTime": 97178,
+          "endTime": 99578,
+          "word": "ghata "
+        },
+        {
+          "startTime": 99578,
+          "endTime": 100730,
+          "word": "se "
+        },
+        {
+          "startTime": 100730,
+          "endTime": 102170,
+          "word": "chand"
+        }
+      ]
+    },
+    {
+      "time": 102170,
+      "endTime": 111390,
+      "text": "Woh achanak aa gayi, yun najar ke samane",
+      "words": [
+        {
+          "startTime": 102170,
+          "endTime": 102928,
+          "word": "Woh "
+        },
+        {
+          "startTime": 102928,
+          "endTime": 105087,
+          "word": "achanak "
+        },
+        {
+          "startTime": 105087,
+          "endTime": 105787,
+          "word": "aa "
+        },
+        {
+          "startTime": 105787,
+          "endTime": 106954,
+          "word": "gayi, "
+        },
+        {
+          "startTime": 106954,
+          "endTime": 107712,
+          "word": "yun "
+        },
+        {
+          "startTime": 107712,
+          "endTime": 109170,
+          "word": "najar "
+        },
+        {
+          "startTime": 109170,
+          "endTime": 109870,
+          "word": "ke "
+        },
+        {
+          "startTime": 109870,
+          "endTime": 111390,
+          "word": "samane"
+        }
+      ]
+    },
+    {
+      "time": 111390,
+      "endTime": 118750,
+      "text": "Jaise nikal aya ghata se chand",
+      "words": [
+        {
+          "startTime": 111390,
+          "endTime": 112441,
+          "word": "Jaise "
+        },
+        {
+          "startTime": 112441,
+          "endTime": 114193,
+          "word": "nikal "
+        },
+        {
+          "startTime": 114193,
+          "endTime": 115104,
+          "word": "aya "
+        },
+        {
+          "startTime": 115104,
+          "endTime": 116856,
+          "word": "ghata "
+        },
+        {
+          "startTime": 116856,
+          "endTime": 117697,
+          "word": "se "
+        },
+        {
+          "startTime": 117697,
+          "endTime": 118750,
+          "word": "chand"
+        }
+      ]
+    },
+    {
+      "time": 118750,
+      "endTime": 127670,
+      "text": "Chehare pe julfen, bikhari huyi thi, din me raat ho gayi",
+      "words": [
+        {
+          "startTime": 118750,
+          "endTime": 119919,
+          "word": "Chehare "
+        },
+        {
+          "startTime": 119919,
+          "endTime": 120438,
+          "word": "pe "
+        },
+        {
+          "startTime": 120438,
+          "endTime": 121823,
+          "word": "julfen, "
+        },
+        {
+          "startTime": 121823,
+          "endTime": 123425,
+          "word": "bikhari "
+        },
+        {
+          "startTime": 123425,
+          "endTime": 124031,
+          "word": "huyi "
+        },
+        {
+          "startTime": 124031,
+          "endTime": 124853,
+          "word": "thi, "
+        },
+        {
+          "startTime": 124853,
+          "endTime": 125415,
+          "word": "din "
+        },
+        {
+          "startTime": 125415,
+          "endTime": 125934,
+          "word": "me "
+        },
+        {
+          "startTime": 125934,
+          "endTime": 126540,
+          "word": "raat "
+        },
+        {
+          "startTime": 126540,
+          "endTime": 127059,
+          "word": "ho "
+        },
+        {
+          "startTime": 127059,
+          "endTime": 127670,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 127670,
+      "endTime": 148840,
+      "text": "Ek ajnabi hasina se yu mulakat ho gayi",
+      "words": [
+        {
+          "startTime": 127670,
+          "endTime": 129155,
+          "word": "Ek "
+        },
+        {
+          "startTime": 129155,
+          "endTime": 133611,
+          "word": "ajnabi "
+        },
+        {
+          "startTime": 133611,
+          "endTime": 138067,
+          "word": "hasina "
+        },
+        {
+          "startTime": 138067,
+          "endTime": 139552,
+          "word": "se "
+        },
+        {
+          "startTime": 139552,
+          "endTime": 141037,
+          "word": "yu "
+        },
+        {
+          "startTime": 141037,
+          "endTime": 145617,
+          "word": "mulakat "
+        },
+        {
+          "startTime": 145617,
+          "endTime": 147102,
+          "word": "ho "
+        },
+        {
+          "startTime": 147102,
+          "endTime": 148840,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 148840,
+      "endTime": 167960,
+      "text": "Janeman jaanejigar hota mai shayar agar, kahata ghazal teri aadaon par",
+      "words": [
+        {
+          "startTime": 148840,
+          "endTime": 151238,
+          "word": "Janeman "
+        },
+        {
+          "startTime": 151238,
+          "endTime": 154478,
+          "word": "jaanejigar "
+        },
+        {
+          "startTime": 154478,
+          "endTime": 156033,
+          "word": "hota "
+        },
+        {
+          "startTime": 156033,
+          "endTime": 156875,
+          "word": "mai "
+        },
+        {
+          "startTime": 156875,
+          "endTime": 157912,
+          "word": "shayar "
+        },
+        {
+          "startTime": 157912,
+          "endTime": 159856,
+          "word": "agar, "
+        },
+        {
+          "startTime": 159856,
+          "endTime": 162189,
+          "word": "kahata "
+        },
+        {
+          "startTime": 162189,
+          "endTime": 163874,
+          "word": "ghazal "
+        },
+        {
+          "startTime": 163874,
+          "endTime": 165429,
+          "word": "teri "
+        },
+        {
+          "startTime": 165429,
+          "endTime": 167114,
+          "word": "aadaon "
+        },
+        {
+          "startTime": 167114,
+          "endTime": 167960,
+          "word": "par"
+        }
+      ]
+    },
+    {
+      "time": 167960,
+      "endTime": 184420,
+      "text": "Janeman jaanejigar hota mai shayar agar, kahata ghazal teri aadaon par",
+      "words": [
+        {
+          "startTime": 167960,
+          "endTime": 170024,
+          "word": "Janeman "
+        },
+        {
+          "startTime": 170024,
+          "endTime": 172813,
+          "word": "jaanejigar "
+        },
+        {
+          "startTime": 172813,
+          "endTime": 174152,
+          "word": "hota "
+        },
+        {
+          "startTime": 174152,
+          "endTime": 174877,
+          "word": "mai "
+        },
+        {
+          "startTime": 174877,
+          "endTime": 175769,
+          "word": "shayar "
+        },
+        {
+          "startTime": 175769,
+          "endTime": 177442,
+          "word": "agar, "
+        },
+        {
+          "startTime": 177442,
+          "endTime": 179450,
+          "word": "kahata "
+        },
+        {
+          "startTime": 179450,
+          "endTime": 180900,
+          "word": "ghazal "
+        },
+        {
+          "startTime": 180900,
+          "endTime": 182239,
+          "word": "teri "
+        },
+        {
+          "startTime": 182239,
+          "endTime": 183689,
+          "word": "aadaon "
+        },
+        {
+          "startTime": 183689,
+          "endTime": 184420,
+          "word": "par"
+        }
+      ]
+    },
+    {
+      "time": 184420,
+      "endTime": 193340,
+      "text": "Maine yeh kaha toh mujhse kafa woh janehayat ho gayi",
+      "words": [
+        {
+          "startTime": 184420,
+          "endTime": 185151,
+          "word": "Maine "
+        },
+        {
+          "startTime": 185151,
+          "endTime": 185784,
+          "word": "yeh "
+        },
+        {
+          "startTime": 185784,
+          "endTime": 186953,
+          "word": "kaha "
+        },
+        {
+          "startTime": 186953,
+          "endTime": 187586,
+          "word": "toh "
+        },
+        {
+          "startTime": 187586,
+          "endTime": 188365,
+          "word": "mujhse "
+        },
+        {
+          "startTime": 188365,
+          "endTime": 189534,
+          "word": "kafa "
+        },
+        {
+          "startTime": 189534,
+          "endTime": 190167,
+          "word": "woh "
+        },
+        {
+          "startTime": 190167,
+          "endTime": 192067,
+          "word": "janehayat "
+        },
+        {
+          "startTime": 192067,
+          "endTime": 192651,
+          "word": "ho "
+        },
+        {
+          "startTime": 192651,
+          "endTime": 193340,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 193340,
+      "endTime": 224180,
+      "text": "Ek ajnabi hasina se yu mulakat ho gayi",
+      "words": [
+        {
+          "startTime": 193340,
+          "endTime": 195504,
+          "word": "Ek "
+        },
+        {
+          "startTime": 195504,
+          "endTime": 201996,
+          "word": "ajnabi "
+        },
+        {
+          "startTime": 201996,
+          "endTime": 208488,
+          "word": "hasina "
+        },
+        {
+          "startTime": 208488,
+          "endTime": 210652,
+          "word": "se "
+        },
+        {
+          "startTime": 210652,
+          "endTime": 212816,
+          "word": "yu "
+        },
+        {
+          "startTime": 212816,
+          "endTime": 219488,
+          "word": "mulakat "
+        },
+        {
+          "startTime": 219488,
+          "endTime": 221652,
+          "word": "ho "
+        },
+        {
+          "startTime": 221652,
+          "endTime": 224180,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 224180,
+      "endTime": 243430,
+      "text": "Khubsurat bat yeh char pal kaa sath yeh, sari umar mujhko rahega yad",
+      "words": [
+        {
+          "startTime": 224180,
+          "endTime": 227056,
+          "word": "Khubsurat "
+        },
+        {
+          "startTime": 227056,
+          "endTime": 228014,
+          "word": "bat "
+        },
+        {
+          "startTime": 228014,
+          "endTime": 228972,
+          "word": "yeh "
+        },
+        {
+          "startTime": 228972,
+          "endTime": 230004,
+          "word": "char "
+        },
+        {
+          "startTime": 230004,
+          "endTime": 230962,
+          "word": "pal "
+        },
+        {
+          "startTime": 230962,
+          "endTime": 231920,
+          "word": "kaa "
+        },
+        {
+          "startTime": 231920,
+          "endTime": 232952,
+          "word": "sath "
+        },
+        {
+          "startTime": 232952,
+          "endTime": 234353,
+          "word": "yeh, "
+        },
+        {
+          "startTime": 234353,
+          "endTime": 236123,
+          "word": "sari "
+        },
+        {
+          "startTime": 236123,
+          "endTime": 237893,
+          "word": "umar "
+        },
+        {
+          "startTime": 237893,
+          "endTime": 239810,
+          "word": "mujhko "
+        },
+        {
+          "startTime": 239810,
+          "endTime": 242465,
+          "word": "rahega "
+        },
+        {
+          "startTime": 242465,
+          "endTime": 243430,
+          "word": "yad"
+        }
+      ]
+    },
+    {
+      "time": 243430,
+      "endTime": 259830,
+      "text": "Khubsurat bat yeh char pal kaa sath yeh, sari umar mujhko rahega yad",
+      "words": [
+        {
+          "startTime": 243430,
+          "endTime": 245880,
+          "word": "Khubsurat "
+        },
+        {
+          "startTime": 245880,
+          "endTime": 246696,
+          "word": "bat "
+        },
+        {
+          "startTime": 246696,
+          "endTime": 247512,
+          "word": "yeh "
+        },
+        {
+          "startTime": 247512,
+          "endTime": 248391,
+          "word": "char "
+        },
+        {
+          "startTime": 248391,
+          "endTime": 249207,
+          "word": "pal "
+        },
+        {
+          "startTime": 249207,
+          "endTime": 250023,
+          "word": "kaa "
+        },
+        {
+          "startTime": 250023,
+          "endTime": 250902,
+          "word": "sath "
+        },
+        {
+          "startTime": 250902,
+          "endTime": 252095,
+          "word": "yeh, "
+        },
+        {
+          "startTime": 252095,
+          "endTime": 253603,
+          "word": "sari "
+        },
+        {
+          "startTime": 253603,
+          "endTime": 255111,
+          "word": "umar "
+        },
+        {
+          "startTime": 255111,
+          "endTime": 256744,
+          "word": "mujhko "
+        },
+        {
+          "startTime": 256744,
+          "endTime": 259006,
+          "word": "rahega "
+        },
+        {
+          "startTime": 259006,
+          "endTime": 259830,
+          "word": "yad"
+        }
+      ]
+    },
+    {
+      "time": 259830,
+      "endTime": 268390,
+      "text": "Mai akela tha magar, ban gayi woh humsafar, woh mere sath ho gayi",
+      "words": [
+        {
+          "startTime": 259830,
+          "endTime": 260287,
+          "word": "Mai "
+        },
+        {
+          "startTime": 260287,
+          "endTime": 261519,
+          "word": "akela "
+        },
+        {
+          "startTime": 261519,
+          "endTime": 261976,
+          "word": "tha "
+        },
+        {
+          "startTime": 261976,
+          "endTime": 263068,
+          "word": "magar, "
+        },
+        {
+          "startTime": 263068,
+          "endTime": 263525,
+          "word": "ban "
+        },
+        {
+          "startTime": 263525,
+          "endTime": 264018,
+          "word": "gayi "
+        },
+        {
+          "startTime": 264018,
+          "endTime": 264475,
+          "word": "woh "
+        },
+        {
+          "startTime": 264475,
+          "endTime": 266024,
+          "word": "humsafar, "
+        },
+        {
+          "startTime": 266024,
+          "endTime": 266481,
+          "word": "woh "
+        },
+        {
+          "startTime": 266481,
+          "endTime": 266974,
+          "word": "mere "
+        },
+        {
+          "startTime": 266974,
+          "endTime": 267467,
+          "word": "sath "
+        },
+        {
+          "startTime": 267467,
+          "endTime": 267889,
+          "word": "ho "
+        },
+        {
+          "startTime": 267889,
+          "endTime": 268390,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 268390,
+      "endTime": 273390,
+      "text": "Ek ajnabi hasina se yu mulakat ho gayi",
+      "words": [
+        {
+          "startTime": 268390,
+          "endTime": 268740,
+          "word": "Ek "
+        },
+        {
+          "startTime": 268740,
+          "endTime": 269792,
+          "word": "ajnabi "
+        },
+        {
+          "startTime": 269792,
+          "endTime": 270844,
+          "word": "hasina "
+        },
+        {
+          "startTime": 270844,
+          "endTime": 271194,
+          "word": "se "
+        },
+        {
+          "startTime": 271194,
+          "endTime": 271544,
+          "word": "yu "
+        },
+        {
+          "startTime": 271544,
+          "endTime": 272625,
+          "word": "mulakat "
+        },
+        {
+          "startTime": 272625,
+          "endTime": 272975,
+          "word": "ho "
+        },
+        {
+          "startTime": 272975,
+          "endTime": 273390,
+          "word": "gayi"
+        }
+      ]
+    }
+  ]
+}
