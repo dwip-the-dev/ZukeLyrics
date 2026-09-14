@@ -1,0 +1,2397 @@
+{
+  "videoId": "VSXT4a2kRHA",
+  "title": "The Door",
+  "artist": "Teddy Swims",
+  "duration": 212,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:15.940\" end=\"00:18.788\" ttm:agent=\"v1\">\n        <span begin=\"00:15.940\" end=\"00:16.126\">I<\/span>\n        <span begin=\"00:16.126\" end=\"00:16.388\">took<\/span>\n        <span begin=\"00:16.388\" end=\"00:16.513\">a<\/span>\n        <span begin=\"00:16.513\" end=\"00:16.917\">page<\/span>\n        <span begin=\"00:16.917\" end=\"00:17.161\">out<\/span>\n        <span begin=\"00:17.161\" end=\"00:17.346\">of<\/span>\n        <span begin=\"00:17.346\" end=\"00:17.760\">your<\/span>\n        <span begin=\"00:17.804\" end=\"00:18.326\">favorite<\/span>\n        <span begin=\"00:18.326\" end=\"00:18.788\">book<\/span>\n      <\/p>\n      <p begin=\"00:19.660\" end=\"00:22.882\" ttm:agent=\"v1\">\n        <span begin=\"00:19.664\" end=\"00:19.874\">You<\/span>\n        <span begin=\"00:19.874\" end=\"00:20.213\">sold<\/span>\n        <span begin=\"00:20.213\" end=\"00:20.381\">me<\/span>\n        <span begin=\"00:20.381\" end=\"00:20.729\">lies<\/span>\n        <span begin=\"00:20.729\" end=\"00:20.983\">just<\/span>\n        <span begin=\"00:20.983\" end=\"00:21.207\">by<\/span>\n        <span begin=\"00:21.207\" end=\"00:21.472\">the<\/span>\n        <span begin=\"00:21.695\" end=\"00:21.980\">way<\/span>\n        <span begin=\"00:21.980\" end=\"00:22.205\">you<\/span>\n        <span begin=\"00:22.205\" end=\"00:22.882\">look<\/span>\n      <\/p>\n      <p begin=\"00:23.380\" end=\"00:26.320\" ttm:agent=\"v1\">\n        <span begin=\"00:23.385\" end=\"00:23.742\">Taught<\/span>\n        <span begin=\"00:23.758\" end=\"00:23.999\">me<\/span>\n        <span begin=\"00:23.999\" end=\"00:24.144\">a<\/span>\n        <span begin=\"00:24.144\" end=\"00:24.643\">language<\/span>\n        <span begin=\"00:24.643\" end=\"00:24.862\">that<\/span>\n        <span begin=\"00:24.862\" end=\"00:25.232\">I&apos;ll<\/span>\n        <span begin=\"00:25.338\" end=\"00:25.862\">never<\/span>\n        <span begin=\"00:25.862\" end=\"00:26.320\">speak<\/span>\n      <\/p>\n      <p begin=\"00:26.700\" end=\"00:30.202\" ttm:agent=\"v1\">\n        <span begin=\"00:26.701\" end=\"00:27.051\">Baby,<\/span>\n        <span begin=\"00:27.051\" end=\"00:27.375\">that<\/span>\n        <span begin=\"00:27.375\" end=\"00:27.720\">ain&apos;t<\/span>\n        <span begin=\"00:27.720\" end=\"00:27.964\">for<\/span>\n        <span begin=\"00:27.964\" end=\"00:28.387\">me,<\/span>\n        <span begin=\"00:28.440\" end=\"00:28.843\">that,<\/span>\n        <span begin=\"00:28.922\" end=\"00:29.297\">that<\/span>\n        <span begin=\"00:29.297\" end=\"00:29.575\">ain&apos;t<\/span>\n        <span begin=\"00:29.585\" end=\"00:29.868\">for<\/span>\n        <span begin=\"00:29.868\" end=\"00:30.202\">me<\/span>\n      <\/p>\n      <p begin=\"00:30.920\" end=\"00:33.869\" ttm:agent=\"v1\">\n        <span begin=\"00:30.920\" end=\"00:31.326\">I<\/span>\n        <span begin=\"00:31.326\" end=\"00:31.535\">dug<\/span>\n        <span begin=\"00:31.535\" end=\"00:31.677\">my<\/span>\n        <span begin=\"00:31.677\" end=\"00:32.052\">grave<\/span>\n        <span begin=\"00:32.052\" end=\"00:32.430\">watchin&apos;<\/span>\n        <span begin=\"00:32.774\" end=\"00:33.075\">the way<\/span>\n        <span begin=\"00:33.075\" end=\"00:33.350\">you<\/span>\n        <span begin=\"00:33.350\" end=\"00:33.869\">move<\/span>\n      <\/p>\n      <p begin=\"00:34.650\" end=\"00:38.021\" ttm:agent=\"v1\">\n        <span begin=\"00:34.653\" end=\"00:34.958\">You<\/span>\n        <span begin=\"00:34.958\" end=\"00:35.215\">took<\/span>\n        <span begin=\"00:35.215\" end=\"00:35.440\">me<\/span>\n        <span begin=\"00:35.440\" end=\"00:35.934\">higher<\/span>\n        <span begin=\"00:35.934\" end=\"00:36.190\">than<\/span>\n        <span begin=\"00:36.190\" end=\"00:36.479\">I<\/span>\n        <span begin=\"00:36.666\" end=\"00:37.142\">ever<\/span>\n        <span begin=\"00:37.142\" end=\"00:37.500\">flew,<\/span>\n        <span begin=\"00:37.624\" end=\"00:38.021\">ooh<\/span>\n      <\/p>\n      <p begin=\"00:38.400\" end=\"00:41.580\" ttm:agent=\"v1\">\n        <span begin=\"00:38.407\" end=\"00:38.787\">Too<\/span>\n        <span begin=\"00:38.787\" end=\"00:39.147\">many<\/span>\n        <span begin=\"00:39.147\" end=\"00:39.484\">times,<\/span>\n        <span begin=\"00:39.484\" end=\"00:39.813\">gave<\/span>\n        <span begin=\"00:39.813\" end=\"00:40.015\">you<\/span>\n        <span begin=\"00:40.015\" end=\"00:40.305\">a<\/span>\n        <span begin=\"00:40.305\" end=\"00:40.817\">second<\/span>\n        <span begin=\"00:40.817\" end=\"00:41.580\">chance<\/span>\n      <\/p>\n      <p begin=\"00:41.690\" end=\"00:45.301\" ttm:agent=\"v1\">\n        <span begin=\"00:41.697\" end=\"00:42.079\">Baby,<\/span>\n        <span begin=\"00:42.079\" end=\"00:42.341\">I&apos;m<\/span>\n        <span begin=\"00:42.341\" end=\"00:42.716\">just<\/span>\n        <span begin=\"00:42.716\" end=\"00:42.962\">a<\/span>\n        <span begin=\"00:42.962\" end=\"00:43.466\">man,<\/span>\n        <span begin=\"00:43.466\" end=\"00:43.906\">I&apos;m,<\/span>\n        <span begin=\"00:43.906\" end=\"00:44.275\">I&apos;m<\/span>\n        <span begin=\"00:44.275\" end=\"00:44.650\">just<\/span>\n        <span begin=\"00:44.650\" end=\"00:44.854\">a<\/span>\n        <span begin=\"00:44.854\" end=\"00:45.301\">man<\/span>\n      <\/p>\n      <p begin=\"00:45.700\" end=\"00:49.351\" ttm:agent=\"v1\">\n        <span begin=\"00:45.704\" end=\"00:46.125\">No<\/span>\n        <span begin=\"00:46.508\" end=\"00:46.755\">more<\/span>\n        <span begin=\"00:46.777\" end=\"00:47.288\">thinkin&apos;<\/span>\n        <span begin=\"00:47.288\" end=\"00:47.920\">about<\/span>\n        <span begin=\"00:47.920\" end=\"00:48.290\">you<\/span>\n        <span begin=\"00:48.290\" end=\"00:48.871\">late<\/span>\n        <span begin=\"00:48.871\" end=\"00:49.351\">night<\/span>\n      <\/p>\n      <p begin=\"00:49.480\" end=\"00:53.612\" ttm:agent=\"v1\">\n        <span begin=\"00:49.482\" end=\"00:49.894\">No<\/span>\n        <span begin=\"00:50.169\" end=\"00:50.412\">more<\/span>\n        <span begin=\"00:50.412\" end=\"00:50.906\">runnin&apos;<\/span>\n        <span begin=\"00:50.906\" end=\"00:51.649\">around<\/span>\n        <span begin=\"00:51.649\" end=\"00:51.911\">with<\/span>\n        <span begin=\"00:51.911\" end=\"00:52.476\">your<\/span>\n        <span begin=\"00:52.476\" end=\"00:53.014\">friends<\/span>\n        <span begin=\"00:53.014\" end=\"00:53.612\">now<\/span>\n      <\/p>\n      <p begin=\"00:53.900\" end=\"00:56.522\" ttm:agent=\"v1\">\n        <span begin=\"00:53.902\" end=\"00:54.234\">Done<\/span>\n        <span begin=\"00:54.248\" end=\"00:54.747\">pickin&apos;<\/span>\n        <span begin=\"00:54.747\" end=\"00:54.979\">the<\/span>\n        <span begin=\"00:54.979\" end=\"00:55.950\">pieces<\/span>\n        <span begin=\"00:55.950\" end=\"00:56.242\">of<\/span>\n        <span begin=\"00:56.242\" end=\"00:56.522\">my<\/span>\n      <\/p>\n      <p begin=\"00:56.660\" end=\"01:01.178\" ttm:agent=\"v1\">\n        <span begin=\"00:56.662\" end=\"00:57.525\">Soul<\/span>\n        <span begin=\"00:57.525\" end=\"00:57.776\">up<\/span>\n        <span begin=\"00:57.776\" end=\"00:58.377\">off<\/span>\n        <span begin=\"00:58.377\" end=\"00:58.677\">the<\/span>\n        <span begin=\"00:58.677\" end=\"00:59.555\">floor,<\/span>\n        <span begin=\"00:59.555\" end=\"01:00.391\">oh,<\/span>\n        <span begin=\"01:00.391\" end=\"01:01.178\">oh<\/span>\n      <\/p>\n      <p begin=\"01:01.380\" end=\"01:04.303\" ttm:agent=\"v1\">\n        <span begin=\"01:01.389\" end=\"01:01.575\">I<\/span>\n        <span begin=\"01:01.575\" end=\"01:02.049\">said<\/span>\n        <span begin=\"01:02.049\" end=\"01:02.236\">I<\/span>\n        <span begin=\"01:02.236\" end=\"01:02.474\">would<\/span>\n        <span begin=\"01:02.474\" end=\"01:02.814\">die<\/span>\n        <span begin=\"01:02.967\" end=\"01:03.193\">for<\/span>\n        <span begin=\"01:03.193\" end=\"01:03.427\">you,<\/span>\n        <span begin=\"01:03.427\" end=\"01:04.303\">baby<\/span>\n      <\/p>\n      <p begin=\"01:05.130\" end=\"01:08.503\" ttm:agent=\"v1\">\n        <span begin=\"01:05.135\" end=\"01:05.375\">But<\/span>\n        <span begin=\"01:05.375\" end=\"01:05.642\">I<\/span>\n        <span begin=\"01:05.642\" end=\"01:06.107\">can&apos;t<\/span>\n        <span begin=\"01:06.107\" end=\"01:06.606\">take<\/span>\n        <span begin=\"01:06.606\" end=\"01:07.159\">this<\/span>\n        <span begin=\"01:07.159\" end=\"01:07.551\">pain<\/span>\n        <span begin=\"01:07.551\" end=\"01:08.053\">no<\/span>\n        <span begin=\"01:08.053\" end=\"01:08.503\">more<\/span>\n      <\/p>\n      <p begin=\"01:08.880\" end=\"01:10.742\" ttm:agent=\"v1\">\n        <span begin=\"01:08.887\" end=\"01:09.210\">I<\/span>\n        <span begin=\"01:09.210\" end=\"01:09.542\">thought<\/span>\n        <span begin=\"01:09.542\" end=\"01:09.710\">I<\/span>\n        <span begin=\"01:09.710\" end=\"01:09.956\">was<\/span>\n        <span begin=\"01:09.956\" end=\"01:10.742\">willin&apos;<\/span>\n      <\/p>\n      <p begin=\"01:11.250\" end=\"01:15.916\" ttm:agent=\"v1\">\n        <span begin=\"01:11.259\" end=\"01:11.636\">But<\/span>\n        <span begin=\"01:11.636\" end=\"01:12.379\">tonight,<\/span>\n        <span begin=\"01:12.379\" end=\"01:12.607\">I<\/span>\n        <span begin=\"01:12.607\" end=\"01:13.117\">saved<\/span>\n        <span begin=\"01:13.117\" end=\"01:13.668\">my<\/span>\n        <span begin=\"01:13.668\" end=\"01:14.164\">life<\/span>\n        <span begin=\"01:14.164\" end=\"01:14.374\">when<\/span>\n        <span begin=\"01:14.374\" end=\"01:14.584\">I<\/span>\n        <span begin=\"01:14.584\" end=\"01:15.029\">showed<\/span>\n        <span begin=\"01:15.029\" end=\"01:15.294\">you<\/span>\n        <span begin=\"01:15.294\" end=\"01:15.549\">the<\/span>\n        <span begin=\"01:15.549\" end=\"01:15.916\">door<\/span>\n      <\/p>\n      <p begin=\"01:16.370\" end=\"01:19.370\" ttm:agent=\"v1\">\n        <span begin=\"01:16.372\" end=\"01:16.701\">I<\/span>\n        <span begin=\"01:16.701\" end=\"01:16.951\">don&apos;t<\/span>\n        <span begin=\"01:16.951\" end=\"01:17.426\">wanna<\/span>\n        <span begin=\"01:17.426\" end=\"01:17.926\">lose<\/span>\n        <span begin=\"01:17.926\" end=\"01:18.385\">you,<\/span>\n        <span begin=\"01:18.385\" end=\"01:19.370\">baby<\/span>\n      <\/p>\n      <p begin=\"01:20.120\" end=\"01:23.621\" ttm:agent=\"v1\">\n        <span begin=\"01:20.124\" end=\"01:20.465\">But<\/span>\n        <span begin=\"01:20.465\" end=\"01:20.652\">I<\/span>\n        <span begin=\"01:20.652\" end=\"01:21.090\">can&apos;t<\/span>\n        <span begin=\"01:21.090\" end=\"01:21.577\">play<\/span>\n        <span begin=\"01:21.577\" end=\"01:22.071\">this<\/span>\n        <span begin=\"01:22.071\" end=\"01:22.529\">game<\/span>\n        <span begin=\"01:22.529\" end=\"01:22.999\">no<\/span>\n        <span begin=\"01:22.999\" end=\"01:23.621\">more<\/span>\n      <\/p>\n      <p begin=\"01:23.860\" end=\"01:25.854\" ttm:agent=\"v1\">\n        <span begin=\"01:23.867\" end=\"01:24.104\">I<\/span>\n        <span begin=\"01:24.104\" end=\"01:24.527\">thought<\/span>\n        <span begin=\"01:24.527\" end=\"01:24.686\">it<\/span>\n        <span begin=\"01:24.693\" end=\"01:24.971\">would<\/span>\n        <span begin=\"01:24.971\" end=\"01:25.486\">kill<\/span>\n        <span begin=\"01:25.486\" end=\"01:25.854\">me<\/span>\n      <\/p>\n      <p begin=\"01:26.230\" end=\"01:30.837\" ttm:agent=\"v1\">\n        <span begin=\"01:26.238\" end=\"01:26.603\">But<\/span>\n        <span begin=\"01:26.603\" end=\"01:27.346\">tonight,<\/span>\n        <span begin=\"01:27.346\" end=\"01:27.721\">I<\/span>\n        <span begin=\"01:27.721\" end=\"01:28.286\">saved<\/span>\n        <span begin=\"01:28.286\" end=\"01:28.662\">my<\/span>\n        <span begin=\"01:28.662\" end=\"01:29.048\">life<\/span>\n        <span begin=\"01:29.048\" end=\"01:29.298\">when<\/span>\n        <span begin=\"01:29.298\" end=\"01:29.512\">I<\/span>\n        <span begin=\"01:29.512\" end=\"01:30.035\">showed<\/span>\n        <span begin=\"01:30.035\" end=\"01:30.250\">you<\/span>\n        <span begin=\"01:30.250\" end=\"01:30.535\">the<\/span>\n        <span begin=\"01:30.535\" end=\"01:30.837\">door<\/span>\n      <\/p>\n      <p begin=\"01:30.950\" end=\"01:33.765\" ttm:agent=\"v1\">\n        <span begin=\"01:30.951\" end=\"01:31.271\">You<\/span>\n        <span begin=\"01:31.271\" end=\"01:31.563\">never<\/span>\n        <span begin=\"01:31.572\" end=\"01:31.996\">thought<\/span>\n        <span begin=\"01:31.996\" end=\"01:32.184\">this<\/span>\n        <span begin=\"01:32.184\" end=\"01:32.440\">day<\/span>\n        <span begin=\"01:32.440\" end=\"01:32.727\">would<\/span>\n        <span begin=\"01:32.902\" end=\"01:33.378\">ever<\/span>\n        <span begin=\"01:33.378\" end=\"01:33.765\">come<\/span>\n      <\/p>\n      <p begin=\"01:34.580\" end=\"01:38.020\" ttm:agent=\"v1\">\n        <span begin=\"01:34.584\" end=\"01:34.812\">But<\/span>\n        <span begin=\"01:34.812\" end=\"01:35.001\">I<\/span>\n        <span begin=\"01:35.001\" end=\"01:35.257\">looked<\/span>\n        <span begin=\"01:35.257\" end=\"01:35.425\">you<\/span>\n        <span begin=\"01:35.425\" end=\"01:35.761\">in<\/span>\n        <span begin=\"01:35.761\" end=\"01:36.014\">the<\/span>\n        <span begin=\"01:36.014\" end=\"01:36.299\">eyes<\/span>\n        <span begin=\"01:36.299\" end=\"01:36.489\">and<\/span>\n        <span begin=\"01:36.519\" end=\"01:36.836\">pulled<\/span>\n        <span begin=\"01:36.836\" end=\"01:37.140\">the<\/span>\n        <span begin=\"01:37.140\" end=\"01:38.020\">rug<\/span>\n      <\/p>\n      <p begin=\"01:38.400\" end=\"01:41.271\" ttm:agent=\"v1\">\n        <span begin=\"01:38.406\" end=\"01:38.681\">You<\/span>\n        <span begin=\"01:38.681\" end=\"01:38.931\">tried<\/span>\n        <span begin=\"01:38.931\" end=\"01:39.068\">to<\/span>\n        <span begin=\"01:39.068\" end=\"01:39.479\">take<\/span>\n        <span begin=\"01:39.479\" end=\"01:39.907\">away<\/span>\n        <span begin=\"01:39.907\" end=\"01:40.252\">my<\/span>\n        <span begin=\"01:40.318\" end=\"01:41.271\">sanity<\/span>\n      <\/p>\n      <p begin=\"01:41.670\" end=\"01:45.144\" ttm:agent=\"v1\">\n        <span begin=\"01:41.676\" end=\"01:42.070\">Baby,<\/span>\n        <span begin=\"01:42.070\" end=\"01:42.456\">that<\/span>\n        <span begin=\"01:42.456\" end=\"01:42.789\">ain&apos;t<\/span>\n        <span begin=\"01:42.789\" end=\"01:43.039\">for<\/span>\n        <span begin=\"01:43.039\" end=\"01:43.396\">me,<\/span>\n        <span begin=\"01:43.475\" end=\"01:43.848\">that,<\/span>\n        <span begin=\"01:43.985\" end=\"01:44.292\">that<\/span>\n        <span begin=\"01:44.301\" end=\"01:44.646\">ain&apos;t<\/span>\n        <span begin=\"01:44.646\" end=\"01:44.846\">for<\/span>\n        <span begin=\"01:44.846\" end=\"01:45.144\">me<\/span>\n      <\/p>\n      <p begin=\"01:45.240\" end=\"01:49.226\" ttm:agent=\"v1\">\n        <span begin=\"01:45.247\" end=\"01:45.750\">Oh,<\/span>\n        <span begin=\"01:45.750\" end=\"01:46.441\">no<\/span>\n        <span begin=\"01:46.472\" end=\"01:46.741\">more<\/span>\n        <span begin=\"01:46.741\" end=\"01:47.152\">thinkin&apos;<\/span>\n        <span begin=\"01:47.152\" end=\"01:47.856\">about<\/span>\n        <span begin=\"01:47.856\" end=\"01:48.354\">you<\/span>\n        <span begin=\"01:48.354\" end=\"01:48.773\">late<\/span>\n        <span begin=\"01:48.773\" end=\"01:49.226\">night<\/span>\n      <\/p>\n      <p begin=\"01:49.440\" end=\"01:53.491\" ttm:agent=\"v1\">\n        <span begin=\"01:49.440\" end=\"01:50.133\">No<\/span>\n        <span begin=\"01:50.287\" end=\"01:50.485\">more<\/span>\n        <span begin=\"01:50.485\" end=\"01:51.018\">runnin&apos;<\/span>\n        <span begin=\"01:51.018\" end=\"01:51.750\">around<\/span>\n        <span begin=\"01:51.750\" end=\"01:52.031\">with<\/span>\n        <span begin=\"01:52.031\" end=\"01:52.559\">your<\/span>\n        <span begin=\"01:52.559\" end=\"01:52.996\">friends<\/span>\n        <span begin=\"01:52.996\" end=\"01:53.491\">now<\/span>\n      <\/p>\n      <p begin=\"01:53.860\" end=\"01:56.592\" ttm:agent=\"v1\">\n        <span begin=\"01:53.860\" end=\"01:54.160\">Done<\/span>\n        <span begin=\"01:54.160\" end=\"01:54.642\">pickin&apos;<\/span>\n        <span begin=\"01:54.642\" end=\"01:54.957\">the<\/span>\n        <span begin=\"01:54.957\" end=\"01:55.868\">pieces<\/span>\n        <span begin=\"01:55.868\" end=\"01:56.311\">of<\/span>\n        <span begin=\"01:56.311\" end=\"01:56.592\">my<\/span>\n      <\/p>\n      <p begin=\"01:56.710\" end=\"02:01.223\" ttm:agent=\"v1\">\n        <span begin=\"01:56.710\" end=\"01:57.432\">Soul<\/span>\n        <span begin=\"01:57.432\" end=\"01:57.747\">from<\/span>\n        <span begin=\"01:57.747\" end=\"01:58.446\">off<\/span>\n        <span begin=\"01:58.446\" end=\"01:58.666\">the<\/span>\n        <span begin=\"01:58.666\" end=\"01:59.544\">floor,<\/span>\n        <span begin=\"01:59.663\" end=\"02:00.576\">oh,<\/span>\n        <span begin=\"02:00.576\" end=\"02:01.223\">oh<\/span>\n      <\/p>\n      <p begin=\"02:01.360\" end=\"02:04.222\" ttm:agent=\"v1\">\n        <span begin=\"02:01.368\" end=\"02:01.494\">I<\/span>\n        <span begin=\"02:01.494\" end=\"02:01.905\">said<\/span>\n        <span begin=\"02:01.905\" end=\"02:02.119\">I<\/span>\n        <span begin=\"02:02.119\" end=\"02:02.455\">would<\/span>\n        <span begin=\"02:02.455\" end=\"02:02.851\">die<\/span>\n        <span begin=\"02:02.851\" end=\"02:03.141\">for<\/span>\n        <span begin=\"02:03.141\" end=\"02:03.415\">you,<\/span>\n        <span begin=\"02:03.415\" end=\"02:04.222\">baby<\/span>\n      <\/p>\n      <p begin=\"02:05.160\" end=\"02:08.517\" ttm:agent=\"v1\">\n        <span begin=\"02:05.166\" end=\"02:05.471\">But<\/span>\n        <span begin=\"02:05.471\" end=\"02:05.604\">I<\/span>\n        <span begin=\"02:05.604\" end=\"02:06.110\">can&apos;t<\/span>\n        <span begin=\"02:06.110\" end=\"02:06.691\">take<\/span>\n        <span begin=\"02:06.691\" end=\"02:07.150\">this<\/span>\n        <span begin=\"02:07.150\" end=\"02:07.643\">pain<\/span>\n        <span begin=\"02:07.643\" end=\"02:08.084\">no<\/span>\n        <span begin=\"02:08.084\" end=\"02:08.517\">more<\/span>\n      <\/p>\n      <p begin=\"02:08.880\" end=\"02:10.791\" ttm:agent=\"v1\">\n        <span begin=\"02:08.883\" end=\"02:09.104\">I<\/span>\n        <span begin=\"02:09.104\" end=\"02:09.469\">thought<\/span>\n        <span begin=\"02:09.469\" end=\"02:09.683\">I<\/span>\n        <span begin=\"02:09.683\" end=\"02:09.911\">was<\/span>\n        <span begin=\"02:09.911\" end=\"02:10.791\">willin&apos;<\/span>\n      <\/p>\n      <p begin=\"02:11.200\" end=\"02:15.942\" ttm:agent=\"v1\">\n        <span begin=\"02:11.205\" end=\"02:11.522\">But<\/span>\n        <span begin=\"02:11.522\" end=\"02:12.260\">tonight,<\/span>\n        <span begin=\"02:12.260\" end=\"02:12.641\">I<\/span>\n        <span begin=\"02:12.641\" end=\"02:13.212\">saved<\/span>\n        <span begin=\"02:13.212\" end=\"02:13.713\">my<\/span>\n        <span begin=\"02:13.713\" end=\"02:14.116\">life<\/span>\n        <span begin=\"02:14.164\" end=\"02:14.425\">when<\/span>\n        <span begin=\"02:14.425\" end=\"02:14.637\">I<\/span>\n        <span begin=\"02:14.637\" end=\"02:15.163\">showed<\/span>\n        <span begin=\"02:15.163\" end=\"02:15.365\">you<\/span>\n        <span begin=\"02:15.365\" end=\"02:15.528\">the<\/span>\n        <span begin=\"02:15.528\" end=\"02:15.942\">door<\/span>\n      <\/p>\n      <p begin=\"02:16.380\" end=\"02:19.335\" ttm:agent=\"v1\">\n        <span begin=\"02:16.385\" end=\"02:16.553\">I<\/span>\n        <span begin=\"02:16.553\" end=\"02:16.845\">don&apos;t<\/span>\n        <span begin=\"02:16.845\" end=\"02:17.372\">wanna<\/span>\n        <span begin=\"02:17.372\" end=\"02:17.832\">lose<\/span>\n        <span begin=\"02:17.832\" end=\"02:18.365\">you,<\/span>\n        <span begin=\"02:18.365\" end=\"02:19.335\">baby<\/span>\n      <\/p>\n      <p begin=\"02:20.150\" end=\"02:23.537\" ttm:agent=\"v1\">\n        <span begin=\"02:20.153\" end=\"02:20.428\">But<\/span>\n        <span begin=\"02:20.428\" end=\"02:20.690\">I<\/span>\n        <span begin=\"02:20.690\" end=\"02:21.172\">can&apos;t<\/span>\n        <span begin=\"02:21.172\" end=\"02:21.654\">play<\/span>\n        <span begin=\"02:21.654\" end=\"02:22.160\">this<\/span>\n        <span begin=\"02:22.160\" end=\"02:22.624\">game<\/span>\n        <span begin=\"02:22.624\" end=\"02:23.106\">no<\/span>\n        <span begin=\"02:23.106\" end=\"02:23.537\">more<\/span>\n      <\/p>\n      <p begin=\"02:23.880\" end=\"02:25.762\" ttm:agent=\"v1\">\n        <span begin=\"02:23.883\" end=\"02:24.245\">I<\/span>\n        <span begin=\"02:24.245\" end=\"02:24.546\">thought<\/span>\n        <span begin=\"02:24.546\" end=\"02:24.730\">it<\/span>\n        <span begin=\"02:24.730\" end=\"02:24.972\">would<\/span>\n        <span begin=\"02:24.972\" end=\"02:25.417\">kill<\/span>\n        <span begin=\"02:25.417\" end=\"02:25.762\">me<\/span>\n      <\/p>\n      <p begin=\"02:26.230\" end=\"02:30.948\" ttm:agent=\"v1\">\n        <span begin=\"02:26.239\" end=\"02:26.559\">But<\/span>\n        <span begin=\"02:26.559\" end=\"02:27.261\">tonight,<\/span>\n        <span begin=\"02:27.261\" end=\"02:27.700\">I<\/span>\n        <span begin=\"02:27.700\" end=\"02:28.183\">saved<\/span>\n        <span begin=\"02:28.183\" end=\"02:28.641\">my<\/span>\n        <span begin=\"02:28.641\" end=\"02:29.141\">life<\/span>\n        <span begin=\"02:29.141\" end=\"02:29.391\">when<\/span>\n        <span begin=\"02:29.391\" end=\"02:29.606\">I<\/span>\n        <span begin=\"02:29.606\" end=\"02:30.120\">showed<\/span>\n        <span begin=\"02:30.120\" end=\"02:30.349\">you<\/span>\n        <span begin=\"02:30.349\" end=\"02:30.551\">the<\/span>\n        <span begin=\"02:30.551\" end=\"02:30.948\">door<\/span>\n      <\/p>\n      <p begin=\"02:32.870\" end=\"02:36.225\" ttm:agent=\"v1\">\n        <span begin=\"02:32.878\" end=\"02:33.156\">When<\/span>\n        <span begin=\"02:33.156\" end=\"02:33.311\">I<\/span>\n        <span begin=\"02:33.311\" end=\"02:33.768\">showed<\/span>\n        <span begin=\"02:33.768\" end=\"02:33.989\">you<\/span>\n        <span begin=\"02:33.989\" end=\"02:34.300\">the<\/span>\n        <span begin=\"02:34.300\" end=\"02:36.225\">door<\/span>\n      <\/p>\n      <p begin=\"02:36.570\" end=\"02:39.890\" ttm:agent=\"v1\">\n        <span begin=\"02:36.572\" end=\"02:36.852\">When<\/span>\n        <span begin=\"02:36.852\" end=\"02:37.053\">I<\/span>\n        <span begin=\"02:37.053\" end=\"02:37.602\">showed<\/span>\n        <span begin=\"02:37.602\" end=\"02:37.834\">you<\/span>\n        <span begin=\"02:37.834\" end=\"02:38.043\">the<\/span>\n        <span begin=\"02:38.043\" end=\"02:39.890\">door<\/span>\n      <\/p>\n      <p begin=\"02:41.220\" end=\"02:44.353\" ttm:agent=\"v1\">\n        <span begin=\"02:41.226\" end=\"02:41.472\">But<\/span>\n        <span begin=\"02:41.472\" end=\"02:42.221\">tonight,<\/span>\n        <span begin=\"02:42.221\" end=\"02:42.578\">I<\/span>\n        <span begin=\"02:42.578\" end=\"02:43.231\">saved<\/span>\n        <span begin=\"02:43.231\" end=\"02:43.481\">my<\/span>\n        <span begin=\"02:43.481\" end=\"02:44.353\">life<\/span>\n      <\/p>\n      <p begin=\"02:46.360\" end=\"02:49.349\" ttm:agent=\"v1\">\n        <span begin=\"02:46.369\" end=\"02:46.591\">I<\/span>\n        <span begin=\"02:46.591\" end=\"02:46.964\">said<\/span>\n        <span begin=\"02:46.964\" end=\"02:47.154\">I<\/span>\n        <span begin=\"02:47.154\" end=\"02:47.477\">would<\/span>\n        <span begin=\"02:47.477\" end=\"02:47.899\">die<\/span>\n        <span begin=\"02:47.899\" end=\"02:48.197\">for<\/span>\n        <span begin=\"02:48.197\" end=\"02:48.432\">you,<\/span>\n        <span begin=\"02:48.432\" end=\"02:49.349\">baby<\/span>\n      <\/p>\n      <p begin=\"02:50.120\" end=\"02:53.511\" ttm:agent=\"v1\">\n        <span begin=\"02:50.123\" end=\"02:50.387\">But<\/span>\n        <span begin=\"02:50.387\" end=\"02:50.654\">I<\/span>\n        <span begin=\"02:50.654\" end=\"02:51.124\">can&apos;t<\/span>\n        <span begin=\"02:51.124\" end=\"02:51.612\">take<\/span>\n        <span begin=\"02:51.612\" end=\"02:52.106\">this<\/span>\n        <span begin=\"02:52.106\" end=\"02:52.552\">pain<\/span>\n        <span begin=\"02:52.552\" end=\"02:53.046\">no<\/span>\n        <span begin=\"02:53.046\" end=\"02:53.511\">more<\/span>\n      <\/p>\n      <p begin=\"02:53.910\" end=\"02:55.829\" ttm:agent=\"v1\">\n        <span begin=\"02:53.912\" end=\"02:54.220\">I<\/span>\n        <span begin=\"02:54.220\" end=\"02:54.552\">thought<\/span>\n        <span begin=\"02:54.552\" end=\"02:54.742\">I<\/span>\n        <span begin=\"02:54.742\" end=\"02:54.981\">was<\/span>\n        <span begin=\"02:54.981\" end=\"02:55.829\">willin&apos;<\/span>\n      <\/p>\n      <p begin=\"02:56.220\" end=\"03:00.946\" ttm:agent=\"v1\">\n        <span begin=\"02:56.228\" end=\"02:56.641\">But<\/span>\n        <span begin=\"02:56.641\" end=\"02:57.177\">tonight,<\/span>\n        <span begin=\"02:57.177\" end=\"02:57.557\">I<\/span>\n        <span begin=\"02:57.557\" end=\"02:58.141\">saved<\/span>\n        <span begin=\"02:58.141\" end=\"02:58.593\">my<\/span>\n        <span begin=\"02:58.593\" end=\"02:59.139\">life<\/span>\n        <span begin=\"02:59.139\" end=\"02:59.336\">when<\/span>\n        <span begin=\"02:59.336\" end=\"02:59.531\">I<\/span>\n        <span begin=\"02:59.531\" end=\"03:00.063\">showed<\/span>\n        <span begin=\"03:00.063\" end=\"03:00.294\">you<\/span>\n        <span begin=\"03:00.294\" end=\"03:00.509\">the<\/span>\n        <span begin=\"03:00.509\" end=\"03:00.946\">door<\/span>\n      <\/p>\n      <p begin=\"03:01.360\" end=\"03:04.181\" ttm:agent=\"v1\">\n        <span begin=\"03:01.367\" end=\"03:01.708\">I<\/span>\n        <span begin=\"03:01.708\" end=\"03:01.970\">don&apos;t<\/span>\n        <span begin=\"03:01.970\" end=\"03:02.421\">wanna<\/span>\n        <span begin=\"03:02.421\" end=\"03:02.951\">lose<\/span>\n        <span begin=\"03:02.951\" end=\"03:03.389\">you,<\/span>\n        <span begin=\"03:03.389\" end=\"03:04.181\">baby<\/span>\n      <\/p>\n      <p begin=\"03:01.360\" end=\"03:06.380\" role=\"x-bg\">\n        <span begin=\"03:03.378\" end=\"03:03.614\">(I<\/span>\n        <span begin=\"03:03.614\" end=\"03:03.923\">don&apos;t<\/span>\n        <span begin=\"03:03.923\" end=\"03:04.226\">wanna<\/span>\n        <span begin=\"03:04.226\" end=\"03:04.911\">lose<\/span>\n        <span begin=\"03:04.911\" end=\"03:05.523\">you,<\/span>\n        <span begin=\"03:05.523\" end=\"03:06.380\">baby)<\/span>\n      <\/p>\n      <p begin=\"03:05.170\" end=\"03:08.524\" ttm:agent=\"v1\">\n        <span begin=\"03:05.175\" end=\"03:05.363\">But<\/span>\n        <span begin=\"03:05.363\" end=\"03:05.605\">I<\/span>\n        <span begin=\"03:05.605\" end=\"03:06.075\">can&apos;t<\/span>\n        <span begin=\"03:06.075\" end=\"03:06.587\">take<\/span>\n        <span begin=\"03:06.587\" end=\"03:07.075\">this<\/span>\n        <span begin=\"03:07.075\" end=\"03:07.539\">game<\/span>\n        <span begin=\"03:07.539\" end=\"03:08.096\">no<\/span>\n        <span begin=\"03:08.096\" end=\"03:08.524\">more<\/span>\n      <\/p>\n      <p begin=\"03:05.170\" end=\"03:08.672\" role=\"x-bg\">\n        <span begin=\"03:07.773\" end=\"03:08.096\">(No<\/span>\n        <span begin=\"03:08.096\" end=\"03:08.672\">more)<\/span>\n      <\/p>\n      <p begin=\"03:08.900\" end=\"03:10.882\" ttm:agent=\"v1\">\n        <span begin=\"03:08.909\" end=\"03:09.208\">I<\/span>\n        <span begin=\"03:09.208\" end=\"03:09.546\">thought<\/span>\n        <span begin=\"03:09.546\" end=\"03:09.735\">it<\/span>\n        <span begin=\"03:09.735\" end=\"03:09.928\">would<\/span>\n        <span begin=\"03:09.928\" end=\"03:10.453\">kill<\/span>\n        <span begin=\"03:10.453\" end=\"03:10.882\">me<\/span>\n      <\/p>\n      <p begin=\"03:08.900\" end=\"03:11.853\" role=\"x-bg\">\n        <span begin=\"03:09.901\" end=\"03:10.133\">(I<\/span>\n        <span begin=\"03:10.133\" end=\"03:10.472\">thought<\/span>\n        <span begin=\"03:10.472\" end=\"03:10.669\">it<\/span>\n        <span begin=\"03:10.669\" end=\"03:11.052\">would<\/span>\n        <span begin=\"03:11.052\" end=\"03:11.392\">kill<\/span>\n        <span begin=\"03:11.392\" end=\"03:11.853\">me)<\/span>\n      <\/p>\n      <p begin=\"03:11.240\" end=\"03:16.053\" ttm:agent=\"v1\">\n        <span begin=\"03:11.240\" end=\"03:11.515\">But<\/span>\n        <span begin=\"03:11.515\" end=\"03:12.330\">tonight,<\/span>\n        <span begin=\"03:12.330\" end=\"03:12.747\">I<\/span>\n        <span begin=\"03:12.747\" end=\"03:13.185\">saved<\/span>\n        <span begin=\"03:13.185\" end=\"03:13.562\">my<\/span>\n        <span begin=\"03:13.562\" end=\"03:14.062\">life<\/span>\n        <span begin=\"03:14.062\" end=\"03:14.312\">when<\/span>\n        <span begin=\"03:14.312\" end=\"03:14.524\">I<\/span>\n        <span begin=\"03:14.524\" end=\"03:15.020\">showed<\/span>\n        <span begin=\"03:15.020\" end=\"03:15.264\">you<\/span>\n        <span begin=\"03:15.264\" end=\"03:15.528\">the<\/span>\n        <span begin=\"03:15.528\" end=\"03:16.053\">door<\/span>\n      <\/p>\n      <p begin=\"03:16.880\" end=\"03:18.248\" ttm:agent=\"v1\">\n        <span begin=\"03:16.883\" end=\"03:18.248\">Mmm<\/span>\n      <\/p>\n      <p begin=\"03:23.010\" end=\"03:26.028\" ttm:agent=\"v1\">\n        <span begin=\"03:23.012\" end=\"03:26.028\">Whoa<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 15940,
+      "endTime": 18788,
+      "text": "I took a page out of your favorite book",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15940,
+          "endTime": 16126,
+          "word": "I"
+        },
+        {
+          "startTime": 16126,
+          "endTime": 16388,
+          "word": "took"
+        },
+        {
+          "startTime": 16388,
+          "endTime": 16513,
+          "word": "a"
+        },
+        {
+          "startTime": 16513,
+          "endTime": 16917,
+          "word": "page"
+        },
+        {
+          "startTime": 16917,
+          "endTime": 17161,
+          "word": "out"
+        },
+        {
+          "startTime": 17161,
+          "endTime": 17346,
+          "word": "of"
+        },
+        {
+          "startTime": 17346,
+          "endTime": 17760,
+          "word": "your"
+        },
+        {
+          "startTime": 17804,
+          "endTime": 18326,
+          "word": "favorite"
+        },
+        {
+          "startTime": 18326,
+          "endTime": 18788,
+          "word": "book"
+        }
+      ]
+    },
+    {
+      "time": 19660,
+      "endTime": 22882,
+      "text": "You sold me lies just by the way you look",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19664,
+          "endTime": 19874,
+          "word": "You"
+        },
+        {
+          "startTime": 19874,
+          "endTime": 20213,
+          "word": "sold"
+        },
+        {
+          "startTime": 20213,
+          "endTime": 20381,
+          "word": "me"
+        },
+        {
+          "startTime": 20381,
+          "endTime": 20729,
+          "word": "lies"
+        },
+        {
+          "startTime": 20729,
+          "endTime": 20983,
+          "word": "just"
+        },
+        {
+          "startTime": 20983,
+          "endTime": 21207,
+          "word": "by"
+        },
+        {
+          "startTime": 21207,
+          "endTime": 21472,
+          "word": "the"
+        },
+        {
+          "startTime": 21695,
+          "endTime": 21980,
+          "word": "way"
+        },
+        {
+          "startTime": 21980,
+          "endTime": 22205,
+          "word": "you"
+        },
+        {
+          "startTime": 22205,
+          "endTime": 22882,
+          "word": "look"
+        }
+      ]
+    },
+    {
+      "time": 23380,
+      "endTime": 26320,
+      "text": "Taught me a language that I'll never speak",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23385,
+          "endTime": 23742,
+          "word": "Taught"
+        },
+        {
+          "startTime": 23758,
+          "endTime": 23999,
+          "word": "me"
+        },
+        {
+          "startTime": 23999,
+          "endTime": 24144,
+          "word": "a"
+        },
+        {
+          "startTime": 24144,
+          "endTime": 24643,
+          "word": "language"
+        },
+        {
+          "startTime": 24643,
+          "endTime": 24862,
+          "word": "that"
+        },
+        {
+          "startTime": 24862,
+          "endTime": 25232,
+          "word": "I'll"
+        },
+        {
+          "startTime": 25338,
+          "endTime": 25862,
+          "word": "never"
+        },
+        {
+          "startTime": 25862,
+          "endTime": 26320,
+          "word": "speak"
+        }
+      ]
+    },
+    {
+      "time": 26700,
+      "endTime": 30202,
+      "text": "Baby, that ain't for me, that, that ain't for me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 26701,
+          "endTime": 27051,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 27051,
+          "endTime": 27375,
+          "word": "that"
+        },
+        {
+          "startTime": 27375,
+          "endTime": 27720,
+          "word": "ain't"
+        },
+        {
+          "startTime": 27720,
+          "endTime": 27964,
+          "word": "for"
+        },
+        {
+          "startTime": 27964,
+          "endTime": 28387,
+          "word": "me,"
+        },
+        {
+          "startTime": 28440,
+          "endTime": 28843,
+          "word": "that,"
+        },
+        {
+          "startTime": 28922,
+          "endTime": 29297,
+          "word": "that"
+        },
+        {
+          "startTime": 29297,
+          "endTime": 29575,
+          "word": "ain't"
+        },
+        {
+          "startTime": 29585,
+          "endTime": 29868,
+          "word": "for"
+        },
+        {
+          "startTime": 29868,
+          "endTime": 30202,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 30920,
+      "endTime": 33869,
+      "text": "I dug my grave watchin' the way you move",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 30920,
+          "endTime": 31326,
+          "word": "I"
+        },
+        {
+          "startTime": 31326,
+          "endTime": 31535,
+          "word": "dug"
+        },
+        {
+          "startTime": 31535,
+          "endTime": 31677,
+          "word": "my"
+        },
+        {
+          "startTime": 31677,
+          "endTime": 32052,
+          "word": "grave"
+        },
+        {
+          "startTime": 32052,
+          "endTime": 32430,
+          "word": "watchin'"
+        },
+        {
+          "startTime": 32774,
+          "endTime": 33075,
+          "word": "the way"
+        },
+        {
+          "startTime": 33075,
+          "endTime": 33350,
+          "word": "you"
+        },
+        {
+          "startTime": 33350,
+          "endTime": 33869,
+          "word": "move"
+        }
+      ]
+    },
+    {
+      "time": 34650,
+      "endTime": 38021,
+      "text": "You took me higher than I ever flew, ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34653,
+          "endTime": 34958,
+          "word": "You"
+        },
+        {
+          "startTime": 34958,
+          "endTime": 35215,
+          "word": "took"
+        },
+        {
+          "startTime": 35215,
+          "endTime": 35440,
+          "word": "me"
+        },
+        {
+          "startTime": 35440,
+          "endTime": 35934,
+          "word": "higher"
+        },
+        {
+          "startTime": 35934,
+          "endTime": 36190,
+          "word": "than"
+        },
+        {
+          "startTime": 36190,
+          "endTime": 36479,
+          "word": "I"
+        },
+        {
+          "startTime": 36666,
+          "endTime": 37142,
+          "word": "ever"
+        },
+        {
+          "startTime": 37142,
+          "endTime": 37500,
+          "word": "flew,"
+        },
+        {
+          "startTime": 37624,
+          "endTime": 38021,
+          "word": "ooh"
+        }
+      ]
+    },
+    {
+      "time": 38400,
+      "endTime": 41580,
+      "text": "Too many times, gave you a second chance",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 38407,
+          "endTime": 38787,
+          "word": "Too"
+        },
+        {
+          "startTime": 38787,
+          "endTime": 39147,
+          "word": "many"
+        },
+        {
+          "startTime": 39147,
+          "endTime": 39484,
+          "word": "times,"
+        },
+        {
+          "startTime": 39484,
+          "endTime": 39813,
+          "word": "gave"
+        },
+        {
+          "startTime": 39813,
+          "endTime": 40015,
+          "word": "you"
+        },
+        {
+          "startTime": 40015,
+          "endTime": 40305,
+          "word": "a"
+        },
+        {
+          "startTime": 40305,
+          "endTime": 40817,
+          "word": "second"
+        },
+        {
+          "startTime": 40817,
+          "endTime": 41580,
+          "word": "chance"
+        }
+      ]
+    },
+    {
+      "time": 41690,
+      "endTime": 45301,
+      "text": "Baby, I'm just a man, I'm, I'm just a man",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41697,
+          "endTime": 42079,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 42079,
+          "endTime": 42341,
+          "word": "I'm"
+        },
+        {
+          "startTime": 42341,
+          "endTime": 42716,
+          "word": "just"
+        },
+        {
+          "startTime": 42716,
+          "endTime": 42962,
+          "word": "a"
+        },
+        {
+          "startTime": 42962,
+          "endTime": 43466,
+          "word": "man,"
+        },
+        {
+          "startTime": 43466,
+          "endTime": 43906,
+          "word": "I'm,"
+        },
+        {
+          "startTime": 43906,
+          "endTime": 44275,
+          "word": "I'm"
+        },
+        {
+          "startTime": 44275,
+          "endTime": 44650,
+          "word": "just"
+        },
+        {
+          "startTime": 44650,
+          "endTime": 44854,
+          "word": "a"
+        },
+        {
+          "startTime": 44854,
+          "endTime": 45301,
+          "word": "man"
+        }
+      ]
+    },
+    {
+      "time": 45700,
+      "endTime": 49351,
+      "text": "No more thinkin' about you late night",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45704,
+          "endTime": 46125,
+          "word": "No"
+        },
+        {
+          "startTime": 46508,
+          "endTime": 46755,
+          "word": "more"
+        },
+        {
+          "startTime": 46777,
+          "endTime": 47288,
+          "word": "thinkin'"
+        },
+        {
+          "startTime": 47288,
+          "endTime": 47920,
+          "word": "about"
+        },
+        {
+          "startTime": 47920,
+          "endTime": 48290,
+          "word": "you"
+        },
+        {
+          "startTime": 48290,
+          "endTime": 48871,
+          "word": "late"
+        },
+        {
+          "startTime": 48871,
+          "endTime": 49351,
+          "word": "night"
+        }
+      ]
+    },
+    {
+      "time": 49480,
+      "endTime": 53612,
+      "text": "No more runnin' around with your friends now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49482,
+          "endTime": 49894,
+          "word": "No"
+        },
+        {
+          "startTime": 50169,
+          "endTime": 50412,
+          "word": "more"
+        },
+        {
+          "startTime": 50412,
+          "endTime": 50906,
+          "word": "runnin'"
+        },
+        {
+          "startTime": 50906,
+          "endTime": 51649,
+          "word": "around"
+        },
+        {
+          "startTime": 51649,
+          "endTime": 51911,
+          "word": "with"
+        },
+        {
+          "startTime": 51911,
+          "endTime": 52476,
+          "word": "your"
+        },
+        {
+          "startTime": 52476,
+          "endTime": 53014,
+          "word": "friends"
+        },
+        {
+          "startTime": 53014,
+          "endTime": 53612,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 53900,
+      "endTime": 56522,
+      "text": "Done pickin' the pieces of my",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53902,
+          "endTime": 54234,
+          "word": "Done"
+        },
+        {
+          "startTime": 54248,
+          "endTime": 54747,
+          "word": "pickin'"
+        },
+        {
+          "startTime": 54747,
+          "endTime": 54979,
+          "word": "the"
+        },
+        {
+          "startTime": 54979,
+          "endTime": 55950,
+          "word": "pieces"
+        },
+        {
+          "startTime": 55950,
+          "endTime": 56242,
+          "word": "of"
+        },
+        {
+          "startTime": 56242,
+          "endTime": 56522,
+          "word": "my"
+        }
+      ]
+    },
+    {
+      "time": 56660,
+      "endTime": 61178,
+      "text": "Soul up off the floor, oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56662,
+          "endTime": 57525,
+          "word": "Soul"
+        },
+        {
+          "startTime": 57525,
+          "endTime": 57776,
+          "word": "up"
+        },
+        {
+          "startTime": 57776,
+          "endTime": 58377,
+          "word": "off"
+        },
+        {
+          "startTime": 58377,
+          "endTime": 58677,
+          "word": "the"
+        },
+        {
+          "startTime": 58677,
+          "endTime": 59555,
+          "word": "floor,"
+        },
+        {
+          "startTime": 59555,
+          "endTime": 60391,
+          "word": "oh,"
+        },
+        {
+          "startTime": 60391,
+          "endTime": 61178,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 61380,
+      "endTime": 64303,
+      "text": "I said I would die for you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 61389,
+          "endTime": 61575,
+          "word": "I"
+        },
+        {
+          "startTime": 61575,
+          "endTime": 62049,
+          "word": "said"
+        },
+        {
+          "startTime": 62049,
+          "endTime": 62236,
+          "word": "I"
+        },
+        {
+          "startTime": 62236,
+          "endTime": 62474,
+          "word": "would"
+        },
+        {
+          "startTime": 62474,
+          "endTime": 62814,
+          "word": "die"
+        },
+        {
+          "startTime": 62967,
+          "endTime": 63193,
+          "word": "for"
+        },
+        {
+          "startTime": 63193,
+          "endTime": 63427,
+          "word": "you,"
+        },
+        {
+          "startTime": 63427,
+          "endTime": 64303,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 65130,
+      "endTime": 68503,
+      "text": "But I can't take this pain no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65135,
+          "endTime": 65375,
+          "word": "But"
+        },
+        {
+          "startTime": 65375,
+          "endTime": 65642,
+          "word": "I"
+        },
+        {
+          "startTime": 65642,
+          "endTime": 66107,
+          "word": "can't"
+        },
+        {
+          "startTime": 66107,
+          "endTime": 66606,
+          "word": "take"
+        },
+        {
+          "startTime": 66606,
+          "endTime": 67159,
+          "word": "this"
+        },
+        {
+          "startTime": 67159,
+          "endTime": 67551,
+          "word": "pain"
+        },
+        {
+          "startTime": 67551,
+          "endTime": 68053,
+          "word": "no"
+        },
+        {
+          "startTime": 68053,
+          "endTime": 68503,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 68880,
+      "endTime": 70742,
+      "text": "I thought I was willin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 68887,
+          "endTime": 69210,
+          "word": "I"
+        },
+        {
+          "startTime": 69210,
+          "endTime": 69542,
+          "word": "thought"
+        },
+        {
+          "startTime": 69542,
+          "endTime": 69710,
+          "word": "I"
+        },
+        {
+          "startTime": 69710,
+          "endTime": 69956,
+          "word": "was"
+        },
+        {
+          "startTime": 69956,
+          "endTime": 70742,
+          "word": "willin'"
+        }
+      ]
+    },
+    {
+      "time": 71250,
+      "endTime": 75916,
+      "text": "But tonight, I saved my life when I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 71259,
+          "endTime": 71636,
+          "word": "But"
+        },
+        {
+          "startTime": 71636,
+          "endTime": 72379,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 72379,
+          "endTime": 72607,
+          "word": "I"
+        },
+        {
+          "startTime": 72607,
+          "endTime": 73117,
+          "word": "saved"
+        },
+        {
+          "startTime": 73117,
+          "endTime": 73668,
+          "word": "my"
+        },
+        {
+          "startTime": 73668,
+          "endTime": 74164,
+          "word": "life"
+        },
+        {
+          "startTime": 74164,
+          "endTime": 74374,
+          "word": "when"
+        },
+        {
+          "startTime": 74374,
+          "endTime": 74584,
+          "word": "I"
+        },
+        {
+          "startTime": 74584,
+          "endTime": 75029,
+          "word": "showed"
+        },
+        {
+          "startTime": 75029,
+          "endTime": 75294,
+          "word": "you"
+        },
+        {
+          "startTime": 75294,
+          "endTime": 75549,
+          "word": "the"
+        },
+        {
+          "startTime": 75549,
+          "endTime": 75916,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 76370,
+      "endTime": 79370,
+      "text": "I don't wanna lose you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 76372,
+          "endTime": 76701,
+          "word": "I"
+        },
+        {
+          "startTime": 76701,
+          "endTime": 76951,
+          "word": "don't"
+        },
+        {
+          "startTime": 76951,
+          "endTime": 77426,
+          "word": "wanna"
+        },
+        {
+          "startTime": 77426,
+          "endTime": 77926,
+          "word": "lose"
+        },
+        {
+          "startTime": 77926,
+          "endTime": 78385,
+          "word": "you,"
+        },
+        {
+          "startTime": 78385,
+          "endTime": 79370,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 80120,
+      "endTime": 83621,
+      "text": "But I can't play this game no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 80124,
+          "endTime": 80465,
+          "word": "But"
+        },
+        {
+          "startTime": 80465,
+          "endTime": 80652,
+          "word": "I"
+        },
+        {
+          "startTime": 80652,
+          "endTime": 81090,
+          "word": "can't"
+        },
+        {
+          "startTime": 81090,
+          "endTime": 81577,
+          "word": "play"
+        },
+        {
+          "startTime": 81577,
+          "endTime": 82071,
+          "word": "this"
+        },
+        {
+          "startTime": 82071,
+          "endTime": 82529,
+          "word": "game"
+        },
+        {
+          "startTime": 82529,
+          "endTime": 82999,
+          "word": "no"
+        },
+        {
+          "startTime": 82999,
+          "endTime": 83621,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 83860,
+      "endTime": 85854,
+      "text": "I thought it would kill me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 83867,
+          "endTime": 84104,
+          "word": "I"
+        },
+        {
+          "startTime": 84104,
+          "endTime": 84527,
+          "word": "thought"
+        },
+        {
+          "startTime": 84527,
+          "endTime": 84686,
+          "word": "it"
+        },
+        {
+          "startTime": 84693,
+          "endTime": 84971,
+          "word": "would"
+        },
+        {
+          "startTime": 84971,
+          "endTime": 85486,
+          "word": "kill"
+        },
+        {
+          "startTime": 85486,
+          "endTime": 85854,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 86230,
+      "endTime": 90837,
+      "text": "But tonight, I saved my life when I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 86238,
+          "endTime": 86603,
+          "word": "But"
+        },
+        {
+          "startTime": 86603,
+          "endTime": 87346,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 87346,
+          "endTime": 87721,
+          "word": "I"
+        },
+        {
+          "startTime": 87721,
+          "endTime": 88286,
+          "word": "saved"
+        },
+        {
+          "startTime": 88286,
+          "endTime": 88662,
+          "word": "my"
+        },
+        {
+          "startTime": 88662,
+          "endTime": 89048,
+          "word": "life"
+        },
+        {
+          "startTime": 89048,
+          "endTime": 89298,
+          "word": "when"
+        },
+        {
+          "startTime": 89298,
+          "endTime": 89512,
+          "word": "I"
+        },
+        {
+          "startTime": 89512,
+          "endTime": 90035,
+          "word": "showed"
+        },
+        {
+          "startTime": 90035,
+          "endTime": 90250,
+          "word": "you"
+        },
+        {
+          "startTime": 90250,
+          "endTime": 90535,
+          "word": "the"
+        },
+        {
+          "startTime": 90535,
+          "endTime": 90837,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 90950,
+      "endTime": 93765,
+      "text": "You never thought this day would ever come",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90951,
+          "endTime": 91271,
+          "word": "You"
+        },
+        {
+          "startTime": 91271,
+          "endTime": 91563,
+          "word": "never"
+        },
+        {
+          "startTime": 91572,
+          "endTime": 91996,
+          "word": "thought"
+        },
+        {
+          "startTime": 91996,
+          "endTime": 92184,
+          "word": "this"
+        },
+        {
+          "startTime": 92184,
+          "endTime": 92440,
+          "word": "day"
+        },
+        {
+          "startTime": 92440,
+          "endTime": 92727,
+          "word": "would"
+        },
+        {
+          "startTime": 92902,
+          "endTime": 93378,
+          "word": "ever"
+        },
+        {
+          "startTime": 93378,
+          "endTime": 93765,
+          "word": "come"
+        }
+      ]
+    },
+    {
+      "time": 94580,
+      "endTime": 98020,
+      "text": "But I looked you in the eyes and pulled the rug",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94584,
+          "endTime": 94812,
+          "word": "But"
+        },
+        {
+          "startTime": 94812,
+          "endTime": 95001,
+          "word": "I"
+        },
+        {
+          "startTime": 95001,
+          "endTime": 95257,
+          "word": "looked"
+        },
+        {
+          "startTime": 95257,
+          "endTime": 95425,
+          "word": "you"
+        },
+        {
+          "startTime": 95425,
+          "endTime": 95761,
+          "word": "in"
+        },
+        {
+          "startTime": 95761,
+          "endTime": 96014,
+          "word": "the"
+        },
+        {
+          "startTime": 96014,
+          "endTime": 96299,
+          "word": "eyes"
+        },
+        {
+          "startTime": 96299,
+          "endTime": 96489,
+          "word": "and"
+        },
+        {
+          "startTime": 96519,
+          "endTime": 96836,
+          "word": "pulled"
+        },
+        {
+          "startTime": 96836,
+          "endTime": 97140,
+          "word": "the"
+        },
+        {
+          "startTime": 97140,
+          "endTime": 98020,
+          "word": "rug"
+        }
+      ]
+    },
+    {
+      "time": 98400,
+      "endTime": 101271,
+      "text": "You tried to take away my sanity",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98406,
+          "endTime": 98681,
+          "word": "You"
+        },
+        {
+          "startTime": 98681,
+          "endTime": 98931,
+          "word": "tried"
+        },
+        {
+          "startTime": 98931,
+          "endTime": 99068,
+          "word": "to"
+        },
+        {
+          "startTime": 99068,
+          "endTime": 99479,
+          "word": "take"
+        },
+        {
+          "startTime": 99479,
+          "endTime": 99907,
+          "word": "away"
+        },
+        {
+          "startTime": 99907,
+          "endTime": 100252,
+          "word": "my"
+        },
+        {
+          "startTime": 100318,
+          "endTime": 101271,
+          "word": "sanity"
+        }
+      ]
+    },
+    {
+      "time": 101670,
+      "endTime": 105144,
+      "text": "Baby, that ain't for me, that, that ain't for me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101676,
+          "endTime": 102070,
+          "word": "Baby,"
+        },
+        {
+          "startTime": 102070,
+          "endTime": 102456,
+          "word": "that"
+        },
+        {
+          "startTime": 102456,
+          "endTime": 102789,
+          "word": "ain't"
+        },
+        {
+          "startTime": 102789,
+          "endTime": 103039,
+          "word": "for"
+        },
+        {
+          "startTime": 103039,
+          "endTime": 103396,
+          "word": "me,"
+        },
+        {
+          "startTime": 103475,
+          "endTime": 103848,
+          "word": "that,"
+        },
+        {
+          "startTime": 103985,
+          "endTime": 104292,
+          "word": "that"
+        },
+        {
+          "startTime": 104301,
+          "endTime": 104646,
+          "word": "ain't"
+        },
+        {
+          "startTime": 104646,
+          "endTime": 104846,
+          "word": "for"
+        },
+        {
+          "startTime": 104846,
+          "endTime": 105144,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 105240,
+      "endTime": 109226,
+      "text": "Oh, no more thinkin' about you late night",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 105247,
+          "endTime": 105750,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 105750,
+          "endTime": 106441,
+          "word": "no"
+        },
+        {
+          "startTime": 106472,
+          "endTime": 106741,
+          "word": "more"
+        },
+        {
+          "startTime": 106741,
+          "endTime": 107152,
+          "word": "thinkin'"
+        },
+        {
+          "startTime": 107152,
+          "endTime": 107856,
+          "word": "about"
+        },
+        {
+          "startTime": 107856,
+          "endTime": 108354,
+          "word": "you"
+        },
+        {
+          "startTime": 108354,
+          "endTime": 108773,
+          "word": "late"
+        },
+        {
+          "startTime": 108773,
+          "endTime": 109226,
+          "word": "night"
+        }
+      ]
+    },
+    {
+      "time": 109440,
+      "endTime": 113491,
+      "text": "No more runnin' around with your friends now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 109440,
+          "endTime": 110133,
+          "word": "No"
+        },
+        {
+          "startTime": 110287,
+          "endTime": 110485,
+          "word": "more"
+        },
+        {
+          "startTime": 110485,
+          "endTime": 111018,
+          "word": "runnin'"
+        },
+        {
+          "startTime": 111018,
+          "endTime": 111750,
+          "word": "around"
+        },
+        {
+          "startTime": 111750,
+          "endTime": 112031,
+          "word": "with"
+        },
+        {
+          "startTime": 112031,
+          "endTime": 112559,
+          "word": "your"
+        },
+        {
+          "startTime": 112559,
+          "endTime": 112996,
+          "word": "friends"
+        },
+        {
+          "startTime": 112996,
+          "endTime": 113491,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 113860,
+      "endTime": 116592,
+      "text": "Done pickin' the pieces of my",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 113860,
+          "endTime": 114160,
+          "word": "Done"
+        },
+        {
+          "startTime": 114160,
+          "endTime": 114642,
+          "word": "pickin'"
+        },
+        {
+          "startTime": 114642,
+          "endTime": 114957,
+          "word": "the"
+        },
+        {
+          "startTime": 114957,
+          "endTime": 115868,
+          "word": "pieces"
+        },
+        {
+          "startTime": 115868,
+          "endTime": 116311,
+          "word": "of"
+        },
+        {
+          "startTime": 116311,
+          "endTime": 116592,
+          "word": "my"
+        }
+      ]
+    },
+    {
+      "time": 116710,
+      "endTime": 121223,
+      "text": "Soul from off the floor, oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116710,
+          "endTime": 117432,
+          "word": "Soul"
+        },
+        {
+          "startTime": 117432,
+          "endTime": 117747,
+          "word": "from"
+        },
+        {
+          "startTime": 117747,
+          "endTime": 118446,
+          "word": "off"
+        },
+        {
+          "startTime": 118446,
+          "endTime": 118666,
+          "word": "the"
+        },
+        {
+          "startTime": 118666,
+          "endTime": 119544,
+          "word": "floor,"
+        },
+        {
+          "startTime": 119663,
+          "endTime": 120576,
+          "word": "oh,"
+        },
+        {
+          "startTime": 120576,
+          "endTime": 121223,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 121360,
+      "endTime": 124222,
+      "text": "I said I would die for you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 121368,
+          "endTime": 121494,
+          "word": "I"
+        },
+        {
+          "startTime": 121494,
+          "endTime": 121905,
+          "word": "said"
+        },
+        {
+          "startTime": 121905,
+          "endTime": 122119,
+          "word": "I"
+        },
+        {
+          "startTime": 122119,
+          "endTime": 122455,
+          "word": "would"
+        },
+        {
+          "startTime": 122455,
+          "endTime": 122851,
+          "word": "die"
+        },
+        {
+          "startTime": 122851,
+          "endTime": 123141,
+          "word": "for"
+        },
+        {
+          "startTime": 123141,
+          "endTime": 123415,
+          "word": "you,"
+        },
+        {
+          "startTime": 123415,
+          "endTime": 124222,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 125160,
+      "endTime": 128517,
+      "text": "But I can't take this pain no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125166,
+          "endTime": 125471,
+          "word": "But"
+        },
+        {
+          "startTime": 125471,
+          "endTime": 125604,
+          "word": "I"
+        },
+        {
+          "startTime": 125604,
+          "endTime": 126110,
+          "word": "can't"
+        },
+        {
+          "startTime": 126110,
+          "endTime": 126691,
+          "word": "take"
+        },
+        {
+          "startTime": 126691,
+          "endTime": 127150,
+          "word": "this"
+        },
+        {
+          "startTime": 127150,
+          "endTime": 127643,
+          "word": "pain"
+        },
+        {
+          "startTime": 127643,
+          "endTime": 128084,
+          "word": "no"
+        },
+        {
+          "startTime": 128084,
+          "endTime": 128517,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 128880,
+      "endTime": 130791,
+      "text": "I thought I was willin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128883,
+          "endTime": 129104,
+          "word": "I"
+        },
+        {
+          "startTime": 129104,
+          "endTime": 129469,
+          "word": "thought"
+        },
+        {
+          "startTime": 129469,
+          "endTime": 129683,
+          "word": "I"
+        },
+        {
+          "startTime": 129683,
+          "endTime": 129911,
+          "word": "was"
+        },
+        {
+          "startTime": 129911,
+          "endTime": 130791,
+          "word": "willin'"
+        }
+      ]
+    },
+    {
+      "time": 131200,
+      "endTime": 135942,
+      "text": "But tonight, I saved my life when I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131205,
+          "endTime": 131522,
+          "word": "But"
+        },
+        {
+          "startTime": 131522,
+          "endTime": 132260,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 132260,
+          "endTime": 132641,
+          "word": "I"
+        },
+        {
+          "startTime": 132641,
+          "endTime": 133212,
+          "word": "saved"
+        },
+        {
+          "startTime": 133212,
+          "endTime": 133713,
+          "word": "my"
+        },
+        {
+          "startTime": 133713,
+          "endTime": 134116,
+          "word": "life"
+        },
+        {
+          "startTime": 134164,
+          "endTime": 134425,
+          "word": "when"
+        },
+        {
+          "startTime": 134425,
+          "endTime": 134637,
+          "word": "I"
+        },
+        {
+          "startTime": 134637,
+          "endTime": 135163,
+          "word": "showed"
+        },
+        {
+          "startTime": 135163,
+          "endTime": 135365,
+          "word": "you"
+        },
+        {
+          "startTime": 135365,
+          "endTime": 135528,
+          "word": "the"
+        },
+        {
+          "startTime": 135528,
+          "endTime": 135942,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 136380,
+      "endTime": 139335,
+      "text": "I don't wanna lose you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136385,
+          "endTime": 136553,
+          "word": "I"
+        },
+        {
+          "startTime": 136553,
+          "endTime": 136845,
+          "word": "don't"
+        },
+        {
+          "startTime": 136845,
+          "endTime": 137372,
+          "word": "wanna"
+        },
+        {
+          "startTime": 137372,
+          "endTime": 137832,
+          "word": "lose"
+        },
+        {
+          "startTime": 137832,
+          "endTime": 138365,
+          "word": "you,"
+        },
+        {
+          "startTime": 138365,
+          "endTime": 139335,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 140150,
+      "endTime": 143537,
+      "text": "But I can't play this game no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140153,
+          "endTime": 140428,
+          "word": "But"
+        },
+        {
+          "startTime": 140428,
+          "endTime": 140690,
+          "word": "I"
+        },
+        {
+          "startTime": 140690,
+          "endTime": 141172,
+          "word": "can't"
+        },
+        {
+          "startTime": 141172,
+          "endTime": 141654,
+          "word": "play"
+        },
+        {
+          "startTime": 141654,
+          "endTime": 142160,
+          "word": "this"
+        },
+        {
+          "startTime": 142160,
+          "endTime": 142624,
+          "word": "game"
+        },
+        {
+          "startTime": 142624,
+          "endTime": 143106,
+          "word": "no"
+        },
+        {
+          "startTime": 143106,
+          "endTime": 143537,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 143880,
+      "endTime": 145762,
+      "text": "I thought it would kill me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 143883,
+          "endTime": 144245,
+          "word": "I"
+        },
+        {
+          "startTime": 144245,
+          "endTime": 144546,
+          "word": "thought"
+        },
+        {
+          "startTime": 144546,
+          "endTime": 144730,
+          "word": "it"
+        },
+        {
+          "startTime": 144730,
+          "endTime": 144972,
+          "word": "would"
+        },
+        {
+          "startTime": 144972,
+          "endTime": 145417,
+          "word": "kill"
+        },
+        {
+          "startTime": 145417,
+          "endTime": 145762,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 146230,
+      "endTime": 150948,
+      "text": "But tonight, I saved my life when I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146239,
+          "endTime": 146559,
+          "word": "But"
+        },
+        {
+          "startTime": 146559,
+          "endTime": 147261,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 147261,
+          "endTime": 147700,
+          "word": "I"
+        },
+        {
+          "startTime": 147700,
+          "endTime": 148183,
+          "word": "saved"
+        },
+        {
+          "startTime": 148183,
+          "endTime": 148641,
+          "word": "my"
+        },
+        {
+          "startTime": 148641,
+          "endTime": 149141,
+          "word": "life"
+        },
+        {
+          "startTime": 149141,
+          "endTime": 149391,
+          "word": "when"
+        },
+        {
+          "startTime": 149391,
+          "endTime": 149606,
+          "word": "I"
+        },
+        {
+          "startTime": 149606,
+          "endTime": 150120,
+          "word": "showed"
+        },
+        {
+          "startTime": 150120,
+          "endTime": 150349,
+          "word": "you"
+        },
+        {
+          "startTime": 150349,
+          "endTime": 150551,
+          "word": "the"
+        },
+        {
+          "startTime": 150551,
+          "endTime": 150948,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 152870,
+      "endTime": 156225,
+      "text": "When I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 152878,
+          "endTime": 153156,
+          "word": "When"
+        },
+        {
+          "startTime": 153156,
+          "endTime": 153311,
+          "word": "I"
+        },
+        {
+          "startTime": 153311,
+          "endTime": 153768,
+          "word": "showed"
+        },
+        {
+          "startTime": 153768,
+          "endTime": 153989,
+          "word": "you"
+        },
+        {
+          "startTime": 153989,
+          "endTime": 154300,
+          "word": "the"
+        },
+        {
+          "startTime": 154300,
+          "endTime": 156225,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 156570,
+      "endTime": 159890,
+      "text": "When I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 156572,
+          "endTime": 156852,
+          "word": "When"
+        },
+        {
+          "startTime": 156852,
+          "endTime": 157053,
+          "word": "I"
+        },
+        {
+          "startTime": 157053,
+          "endTime": 157602,
+          "word": "showed"
+        },
+        {
+          "startTime": 157602,
+          "endTime": 157834,
+          "word": "you"
+        },
+        {
+          "startTime": 157834,
+          "endTime": 158043,
+          "word": "the"
+        },
+        {
+          "startTime": 158043,
+          "endTime": 159890,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 161220,
+      "endTime": 164353,
+      "text": "But tonight, I saved my life",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161226,
+          "endTime": 161472,
+          "word": "But"
+        },
+        {
+          "startTime": 161472,
+          "endTime": 162221,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 162221,
+          "endTime": 162578,
+          "word": "I"
+        },
+        {
+          "startTime": 162578,
+          "endTime": 163231,
+          "word": "saved"
+        },
+        {
+          "startTime": 163231,
+          "endTime": 163481,
+          "word": "my"
+        },
+        {
+          "startTime": 163481,
+          "endTime": 164353,
+          "word": "life"
+        }
+      ]
+    },
+    {
+      "time": 166360,
+      "endTime": 169349,
+      "text": "I said I would die for you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 166369,
+          "endTime": 166591,
+          "word": "I"
+        },
+        {
+          "startTime": 166591,
+          "endTime": 166964,
+          "word": "said"
+        },
+        {
+          "startTime": 166964,
+          "endTime": 167154,
+          "word": "I"
+        },
+        {
+          "startTime": 167154,
+          "endTime": 167477,
+          "word": "would"
+        },
+        {
+          "startTime": 167477,
+          "endTime": 167899,
+          "word": "die"
+        },
+        {
+          "startTime": 167899,
+          "endTime": 168197,
+          "word": "for"
+        },
+        {
+          "startTime": 168197,
+          "endTime": 168432,
+          "word": "you,"
+        },
+        {
+          "startTime": 168432,
+          "endTime": 169349,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 170120,
+      "endTime": 173511,
+      "text": "But I can't take this pain no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170123,
+          "endTime": 170387,
+          "word": "But"
+        },
+        {
+          "startTime": 170387,
+          "endTime": 170654,
+          "word": "I"
+        },
+        {
+          "startTime": 170654,
+          "endTime": 171124,
+          "word": "can't"
+        },
+        {
+          "startTime": 171124,
+          "endTime": 171612,
+          "word": "take"
+        },
+        {
+          "startTime": 171612,
+          "endTime": 172106,
+          "word": "this"
+        },
+        {
+          "startTime": 172106,
+          "endTime": 172552,
+          "word": "pain"
+        },
+        {
+          "startTime": 172552,
+          "endTime": 173046,
+          "word": "no"
+        },
+        {
+          "startTime": 173046,
+          "endTime": 173511,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 173910,
+      "endTime": 175829,
+      "text": "I thought I was willin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 173912,
+          "endTime": 174220,
+          "word": "I"
+        },
+        {
+          "startTime": 174220,
+          "endTime": 174552,
+          "word": "thought"
+        },
+        {
+          "startTime": 174552,
+          "endTime": 174742,
+          "word": "I"
+        },
+        {
+          "startTime": 174742,
+          "endTime": 174981,
+          "word": "was"
+        },
+        {
+          "startTime": 174981,
+          "endTime": 175829,
+          "word": "willin'"
+        }
+      ]
+    },
+    {
+      "time": 176220,
+      "endTime": 180946,
+      "text": "But tonight, I saved my life when I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 176228,
+          "endTime": 176641,
+          "word": "But"
+        },
+        {
+          "startTime": 176641,
+          "endTime": 177177,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 177177,
+          "endTime": 177557,
+          "word": "I"
+        },
+        {
+          "startTime": 177557,
+          "endTime": 178141,
+          "word": "saved"
+        },
+        {
+          "startTime": 178141,
+          "endTime": 178593,
+          "word": "my"
+        },
+        {
+          "startTime": 178593,
+          "endTime": 179139,
+          "word": "life"
+        },
+        {
+          "startTime": 179139,
+          "endTime": 179336,
+          "word": "when"
+        },
+        {
+          "startTime": 179336,
+          "endTime": 179531,
+          "word": "I"
+        },
+        {
+          "startTime": 179531,
+          "endTime": 180063,
+          "word": "showed"
+        },
+        {
+          "startTime": 180063,
+          "endTime": 180294,
+          "word": "you"
+        },
+        {
+          "startTime": 180294,
+          "endTime": 180509,
+          "word": "the"
+        },
+        {
+          "startTime": 180509,
+          "endTime": 180946,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 181360,
+      "endTime": 184181,
+      "text": "I don't wanna lose you, baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181367,
+          "endTime": 181708,
+          "word": "I"
+        },
+        {
+          "startTime": 181708,
+          "endTime": 181970,
+          "word": "don't"
+        },
+        {
+          "startTime": 181970,
+          "endTime": 182421,
+          "word": "wanna"
+        },
+        {
+          "startTime": 182421,
+          "endTime": 182951,
+          "word": "lose"
+        },
+        {
+          "startTime": 182951,
+          "endTime": 183389,
+          "word": "you,"
+        },
+        {
+          "startTime": 183389,
+          "endTime": 184181,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 181360,
+      "endTime": 186380,
+      "text": "(I don't wanna lose you, baby)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 183378,
+          "endTime": 183614,
+          "word": "(I"
+        },
+        {
+          "startTime": 183614,
+          "endTime": 183923,
+          "word": "don't"
+        },
+        {
+          "startTime": 183923,
+          "endTime": 184226,
+          "word": "wanna"
+        },
+        {
+          "startTime": 184226,
+          "endTime": 184911,
+          "word": "lose"
+        },
+        {
+          "startTime": 184911,
+          "endTime": 185523,
+          "word": "you,"
+        },
+        {
+          "startTime": 185523,
+          "endTime": 186380,
+          "word": "baby)"
+        }
+      ]
+    },
+    {
+      "time": 185170,
+      "endTime": 188524,
+      "text": "But I can't take this game no more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 185175,
+          "endTime": 185363,
+          "word": "But"
+        },
+        {
+          "startTime": 185363,
+          "endTime": 185605,
+          "word": "I"
+        },
+        {
+          "startTime": 185605,
+          "endTime": 186075,
+          "word": "can't"
+        },
+        {
+          "startTime": 186075,
+          "endTime": 186587,
+          "word": "take"
+        },
+        {
+          "startTime": 186587,
+          "endTime": 187075,
+          "word": "this"
+        },
+        {
+          "startTime": 187075,
+          "endTime": 187539,
+          "word": "game"
+        },
+        {
+          "startTime": 187539,
+          "endTime": 188096,
+          "word": "no"
+        },
+        {
+          "startTime": 188096,
+          "endTime": 188524,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 185170,
+      "endTime": 188672,
+      "text": "(No more)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 187773,
+          "endTime": 188096,
+          "word": "(No"
+        },
+        {
+          "startTime": 188096,
+          "endTime": 188672,
+          "word": "more)"
+        }
+      ]
+    },
+    {
+      "time": 188900,
+      "endTime": 190882,
+      "text": "I thought it would kill me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 188909,
+          "endTime": 189208,
+          "word": "I"
+        },
+        {
+          "startTime": 189208,
+          "endTime": 189546,
+          "word": "thought"
+        },
+        {
+          "startTime": 189546,
+          "endTime": 189735,
+          "word": "it"
+        },
+        {
+          "startTime": 189735,
+          "endTime": 189928,
+          "word": "would"
+        },
+        {
+          "startTime": 189928,
+          "endTime": 190453,
+          "word": "kill"
+        },
+        {
+          "startTime": 190453,
+          "endTime": 190882,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 188900,
+      "endTime": 191853,
+      "text": "(I thought it would kill me)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 189901,
+          "endTime": 190133,
+          "word": "(I"
+        },
+        {
+          "startTime": 190133,
+          "endTime": 190472,
+          "word": "thought"
+        },
+        {
+          "startTime": 190472,
+          "endTime": 190669,
+          "word": "it"
+        },
+        {
+          "startTime": 190669,
+          "endTime": 191052,
+          "word": "would"
+        },
+        {
+          "startTime": 191052,
+          "endTime": 191392,
+          "word": "kill"
+        },
+        {
+          "startTime": 191392,
+          "endTime": 191853,
+          "word": "me)"
+        }
+      ]
+    },
+    {
+      "time": 191240,
+      "endTime": 196053,
+      "text": "But tonight, I saved my life when I showed you the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 191240,
+          "endTime": 191515,
+          "word": "But"
+        },
+        {
+          "startTime": 191515,
+          "endTime": 192330,
+          "word": "tonight,"
+        },
+        {
+          "startTime": 192330,
+          "endTime": 192747,
+          "word": "I"
+        },
+        {
+          "startTime": 192747,
+          "endTime": 193185,
+          "word": "saved"
+        },
+        {
+          "startTime": 193185,
+          "endTime": 193562,
+          "word": "my"
+        },
+        {
+          "startTime": 193562,
+          "endTime": 194062,
+          "word": "life"
+        },
+        {
+          "startTime": 194062,
+          "endTime": 194312,
+          "word": "when"
+        },
+        {
+          "startTime": 194312,
+          "endTime": 194524,
+          "word": "I"
+        },
+        {
+          "startTime": 194524,
+          "endTime": 195020,
+          "word": "showed"
+        },
+        {
+          "startTime": 195020,
+          "endTime": 195264,
+          "word": "you"
+        },
+        {
+          "startTime": 195264,
+          "endTime": 195528,
+          "word": "the"
+        },
+        {
+          "startTime": 195528,
+          "endTime": 196053,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 196880,
+      "endTime": 198248,
+      "text": "Mmm",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 196883,
+          "endTime": 198248,
+          "word": "Mmm"
+        }
+      ]
+    },
+    {
+      "time": 203010,
+      "endTime": 206028,
+      "text": "Whoa",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 203012,
+          "endTime": 206028,
+          "word": "Whoa"
+        }
+      ]
+    }
+  ]
+}
