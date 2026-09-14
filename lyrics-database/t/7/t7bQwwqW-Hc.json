@@ -1,0 +1,2425 @@
+{
+  "videoId": "t7bQwwqW-Hc",
+  "title": "A Bar Song (Tipsy)",
+  "artist": "Shaboozey",
+  "duration": 174,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:12.480\" end=\"00:14.781\" ttm:agent=\"v1\">\n        <span begin=\"00:12.482\" end=\"00:12.804\">My<\/span>\n        <span begin=\"00:12.804\" end=\"00:13.339\">baby<\/span>\n        <span begin=\"00:13.339\" end=\"00:13.928\">want<\/span>\n        <span begin=\"00:13.928\" end=\"00:14.130\">a<\/span>\n        <span begin=\"00:14.130\" end=\"00:14.781\">Birkin<\/span>\n      <\/p>\n      <p begin=\"00:15.270\" end=\"00:17.765\" ttm:agent=\"v1\">\n        <span begin=\"00:15.271\" end=\"00:15.538\">She&apos;s<\/span>\n        <span begin=\"00:15.548\" end=\"00:15.816\">been<\/span>\n        <span begin=\"00:15.816\" end=\"00:16.096\">tellin&apos;<\/span>\n        <span begin=\"00:16.096\" end=\"00:16.369\">me<\/span>\n        <span begin=\"00:16.369\" end=\"00:16.758\">all<\/span>\n        <span begin=\"00:16.758\" end=\"00:17.155\">night<\/span>\n        <span begin=\"00:17.155\" end=\"00:17.765\">long<\/span>\n      <\/p>\n      <p begin=\"00:18.580\" end=\"00:23.413\" ttm:agent=\"v1\">\n        <span begin=\"00:18.580\" end=\"00:19.689\">Gasoline<\/span>\n        <span begin=\"00:19.789\" end=\"00:20.007\">and<\/span>\n        <span begin=\"00:20.007\" end=\"00:21.250\">groceries,<\/span>\n        <span begin=\"00:21.446\" end=\"00:21.648\">the<\/span>\n        <span begin=\"00:21.648\" end=\"00:21.849\">list<\/span>\n        <span begin=\"00:21.849\" end=\"00:22.345\">goes<\/span>\n        <span begin=\"00:22.369\" end=\"00:22.648\">on<\/span>\n        <span begin=\"00:22.648\" end=\"00:22.926\">and<\/span>\n        <span begin=\"00:22.926\" end=\"00:23.413\">on<\/span>\n      <\/p>\n      <p begin=\"00:24.330\" end=\"00:29.569\" ttm:agent=\"v1\">\n        <span begin=\"00:24.332\" end=\"00:24.547\">This<\/span>\n        <span begin=\"00:24.547\" end=\"00:25.478\">9-to-5<\/span>\n        <span begin=\"00:25.478\" end=\"00:25.827\">ain&apos;t<\/span>\n        <span begin=\"00:25.827\" end=\"00:26.606\">workin&apos;,<\/span>\n        <span begin=\"00:27.185\" end=\"00:27.375\">why<\/span>\n        <span begin=\"00:27.375\" end=\"00:27.547\">the<\/span>\n        <span begin=\"00:27.547\" end=\"00:27.752\">hell<\/span>\n        <span begin=\"00:27.752\" end=\"00:27.946\">do<\/span>\n        <span begin=\"00:27.946\" end=\"00:28.294\">I<\/span>\n        <span begin=\"00:28.294\" end=\"00:28.606\">work<\/span>\n        <span begin=\"00:28.606\" end=\"00:29.029\">so<\/span>\n        <span begin=\"00:29.029\" end=\"00:29.569\">hard?<\/span>\n      <\/p>\n      <p begin=\"00:29.900\" end=\"00:35.201\" ttm:agent=\"v1\">\n        <span begin=\"00:29.900\" end=\"00:30.222\">I<\/span>\n        <span begin=\"00:30.222\" end=\"00:30.609\">can&apos;t<\/span>\n        <span begin=\"00:30.609\" end=\"00:31.162\">worry<\/span>\n        <span begin=\"00:31.162\" end=\"00:31.727\">&apos;bout<\/span>\n        <span begin=\"00:31.727\" end=\"00:31.917\">my<\/span>\n        <span begin=\"00:31.917\" end=\"00:32.707\">problems,<\/span>\n        <span begin=\"00:32.769\" end=\"00:32.965\">I<\/span>\n        <span begin=\"00:32.965\" end=\"00:33.250\">can&apos;t<\/span>\n        <span begin=\"00:33.250\" end=\"00:33.709\">take<\/span>\n        <span begin=\"00:33.709\" end=\"00:34.100\">&apos;em<\/span>\n        <span begin=\"00:34.100\" end=\"00:34.369\">when<\/span>\n        <span begin=\"00:34.369\" end=\"00:34.745\">I&apos;m<\/span>\n        <span begin=\"00:34.756\" end=\"00:35.201\">gone<\/span>\n      <\/p>\n      <p begin=\"00:36.310\" end=\"00:39.830\" ttm:agent=\"v1\">\n        <span begin=\"00:36.315\" end=\"00:36.919\">One,<\/span>\n        <span begin=\"00:37.264\" end=\"00:37.460\">here<\/span>\n        <span begin=\"00:37.460\" end=\"00:37.840\">comes<\/span>\n        <span begin=\"00:37.840\" end=\"00:37.992\">the<\/span>\n        <span begin=\"00:37.992\" end=\"00:38.287\">two<\/span>\n        <span begin=\"00:38.287\" end=\"00:38.537\">to<\/span>\n        <span begin=\"00:38.537\" end=\"00:38.733\">the<\/span>\n        <span begin=\"00:38.733\" end=\"00:39.132\">three<\/span>\n        <span begin=\"00:39.132\" end=\"00:39.287\">to<\/span>\n        <span begin=\"00:39.287\" end=\"00:39.436\">the<\/span>\n        <span begin=\"00:39.436\" end=\"00:39.830\">four<\/span>\n      <\/p>\n      <p begin=\"00:40.100\" end=\"00:42.647\" ttm:agent=\"v1\">\n        <span begin=\"00:40.101\" end=\"00:40.253\">Tell<\/span>\n        <span begin=\"00:40.253\" end=\"00:40.491\">&apos;em<\/span>\n        <span begin=\"00:40.491\" end=\"00:40.739\">bring<\/span>\n        <span begin=\"00:40.739\" end=\"00:41.235\">another<\/span>\n        <span begin=\"00:41.235\" end=\"00:41.598\">round,<\/span>\n        <span begin=\"00:41.598\" end=\"00:41.802\">we<\/span>\n        <span begin=\"00:41.802\" end=\"00:42.021\">need<\/span>\n        <span begin=\"00:42.021\" end=\"00:42.392\">plenty<\/span>\n        <span begin=\"00:42.392\" end=\"00:42.647\">more<\/span>\n      <\/p>\n      <p begin=\"00:42.680\" end=\"00:45.580\" ttm:agent=\"v1\">\n        <span begin=\"00:42.683\" end=\"00:43.001\">Two<\/span>\n        <span begin=\"00:43.001\" end=\"00:43.455\">steppin&apos;<\/span>\n        <span begin=\"00:43.507\" end=\"00:43.650\">on<\/span>\n        <span begin=\"00:43.650\" end=\"00:43.804\">the<\/span>\n        <span begin=\"00:43.804\" end=\"00:44.114\">table,<\/span>\n        <span begin=\"00:44.114\" end=\"00:44.334\">she<\/span>\n        <span begin=\"00:44.334\" end=\"00:44.612\">don&apos;t<\/span>\n        <span begin=\"00:44.612\" end=\"00:44.807\">need<\/span>\n        <span begin=\"00:44.807\" end=\"00:44.911\">a<\/span>\n        <span begin=\"00:44.911\" end=\"00:45.289\">dance<\/span>\n        <span begin=\"00:45.289\" end=\"00:45.580\">floor<\/span>\n      <\/p>\n      <p begin=\"00:46.000\" end=\"00:48.280\" ttm:agent=\"v1\">\n        <span begin=\"00:46.005\" end=\"00:46.530\">Oh<\/span>\n        <span begin=\"00:46.530\" end=\"00:46.981\">my,<\/span>\n        <span begin=\"00:47.578\" end=\"00:47.893\">good<\/span>\n        <span begin=\"00:47.893\" end=\"00:48.280\">Lord<\/span>\n      <\/p>\n      <p begin=\"00:48.480\" end=\"00:51.213\" ttm:agent=\"v1\">\n        <span begin=\"00:48.489\" end=\"00:48.955\">Someone<\/span>\n        <span begin=\"00:48.955\" end=\"00:49.158\">pour<\/span>\n        <span begin=\"00:49.158\" end=\"00:49.366\">me<\/span>\n        <span begin=\"00:49.366\" end=\"00:49.550\">up<\/span>\n        <span begin=\"00:49.550\" end=\"00:49.756\">a<\/span>\n        <span begin=\"00:49.756\" end=\"00:50.065\">double<\/span>\n        <span begin=\"00:50.065\" end=\"00:50.324\">shot<\/span>\n        <span begin=\"00:50.324\" end=\"00:50.585\">of<\/span>\n        <span begin=\"00:50.585\" end=\"00:51.213\">whiskey<\/span>\n      <\/p>\n      <p begin=\"00:51.520\" end=\"00:54.163\" ttm:agent=\"v1\">\n        <span begin=\"00:51.529\" end=\"00:51.758\">They<\/span>\n        <span begin=\"00:51.758\" end=\"00:51.984\">know<\/span>\n        <span begin=\"00:51.984\" end=\"00:52.084\">me<\/span>\n        <span begin=\"00:52.084\" end=\"00:52.359\">and<\/span>\n        <span begin=\"00:52.359\" end=\"00:52.740\">Jack<\/span>\n        <span begin=\"00:52.740\" end=\"00:53.150\">Daniel&apos;s<\/span>\n        <span begin=\"00:53.150\" end=\"00:53.352\">got<\/span>\n        <span begin=\"00:53.352\" end=\"00:53.531\">a<\/span>\n        <span begin=\"00:53.531\" end=\"00:54.163\">history<\/span>\n      <\/p>\n      <p begin=\"00:54.510\" end=\"00:57.187\" ttm:agent=\"v1\">\n        <span begin=\"00:54.512\" end=\"00:54.844\">There&apos;s<\/span>\n        <span begin=\"00:54.844\" end=\"00:55.008\">a<\/span>\n        <span begin=\"00:55.008\" end=\"00:55.397\">party<\/span>\n        <span begin=\"00:55.398\" end=\"00:56.114\">downtown<\/span>\n        <span begin=\"00:56.164\" end=\"00:56.440\">near<\/span>\n        <span begin=\"00:56.440\" end=\"00:56.789\">5th<\/span>\n        <span begin=\"00:56.789\" end=\"00:57.187\">Street<\/span>\n      <\/p>\n      <p begin=\"00:57.430\" end=\"01:00.097\" ttm:agent=\"v1\">\n        <span begin=\"00:57.433\" end=\"00:58.288\">Everybody<\/span>\n        <span begin=\"00:58.288\" end=\"00:58.431\">at<\/span>\n        <span begin=\"00:58.431\" end=\"00:58.633\">the<\/span>\n        <span begin=\"00:58.633\" end=\"00:59.035\">bar<\/span>\n        <span begin=\"00:59.035\" end=\"00:59.436\">gettin&apos;<\/span>\n        <span begin=\"00:59.436\" end=\"01:00.097\">tipsy<\/span>\n      <\/p>\n      <p begin=\"01:03.380\" end=\"01:05.937\" ttm:agent=\"v1\">\n        <span begin=\"01:03.384\" end=\"01:04.277\">Everybody<\/span>\n        <span begin=\"01:04.277\" end=\"01:04.417\">at<\/span>\n        <span begin=\"01:04.417\" end=\"01:04.614\">the<\/span>\n        <span begin=\"01:04.614\" end=\"01:04.890\">bar<\/span>\n        <span begin=\"01:04.890\" end=\"01:05.376\">gettin&apos;<\/span>\n        <span begin=\"01:05.376\" end=\"01:05.937\">tipsy<\/span>\n      <\/p>\n      <p begin=\"01:09.280\" end=\"01:11.959\" ttm:agent=\"v1\">\n        <span begin=\"01:09.286\" end=\"01:10.217\">Everybody<\/span>\n        <span begin=\"01:10.217\" end=\"01:10.376\">at<\/span>\n        <span begin=\"01:10.376\" end=\"01:10.553\">the<\/span>\n        <span begin=\"01:10.553\" end=\"01:10.913\">bar<\/span>\n        <span begin=\"01:10.913\" end=\"01:11.318\">gettin&apos;<\/span>\n        <span begin=\"01:11.318\" end=\"01:11.959\">tipsy<\/span>\n      <\/p>\n      <p begin=\"01:12.220\" end=\"01:13.709\" ttm:agent=\"v1\">\n        <span begin=\"01:12.221\" end=\"01:12.563\">I&apos;ve<\/span>\n        <span begin=\"01:12.563\" end=\"01:12.766\">been<\/span>\n        <span begin=\"01:12.766\" end=\"01:13.082\">Boozey<\/span>\n        <span begin=\"01:13.082\" end=\"01:13.262\">since<\/span>\n        <span begin=\"01:13.262\" end=\"01:13.487\">I<\/span>\n        <span begin=\"01:13.487\" end=\"01:13.709\">left<\/span>\n      <\/p>\n      <p begin=\"01:13.820\" end=\"01:15.136\" ttm:agent=\"v1\">\n        <span begin=\"01:13.824\" end=\"01:13.969\">I<\/span>\n        <span begin=\"01:13.969\" end=\"01:14.218\">ain&apos;t<\/span>\n        <span begin=\"01:14.218\" end=\"01:14.536\">changin&apos;<\/span>\n        <span begin=\"01:14.536\" end=\"01:14.683\">for<\/span>\n        <span begin=\"01:14.683\" end=\"01:14.863\">a<\/span>\n        <span begin=\"01:14.863\" end=\"01:15.136\">check<\/span>\n      <\/p>\n      <p begin=\"01:15.240\" end=\"01:16.761\" ttm:agent=\"v1\">\n        <span begin=\"01:15.240\" end=\"01:15.489\">Tell<\/span>\n        <span begin=\"01:15.489\" end=\"01:15.680\">my<\/span>\n        <span begin=\"01:15.680\" end=\"01:15.996\">ma<\/span>\n        <span begin=\"01:15.996\" end=\"01:16.168\">I<\/span>\n        <span begin=\"01:16.168\" end=\"01:16.375\">ain&apos;t<\/span>\n        <span begin=\"01:16.375\" end=\"01:16.761\">forget<\/span>\n      <\/p>\n      <p begin=\"01:15.240\" end=\"01:17.959\" role=\"x-bg\">\n        <span begin=\"01:17.100\" end=\"01:17.519\">(Oh,<\/span>\n        <span begin=\"01:17.519\" end=\"01:17.959\">Lord)<\/span>\n      <\/p>\n      <p begin=\"01:18.210\" end=\"01:19.637\" ttm:agent=\"v1\">\n        <span begin=\"01:18.210\" end=\"01:18.497\">Woke<\/span>\n        <span begin=\"01:18.497\" end=\"01:18.705\">up<\/span>\n        <span begin=\"01:18.705\" end=\"01:18.906\">drunk<\/span>\n        <span begin=\"01:18.906\" end=\"01:19.048\">at<\/span>\n        <span begin=\"00:00.000\" end=\"01:19.048\">10<\/span>\n        <span begin=\"01:19.328\" end=\"01:19.637\">a.m.<\/span>\n      <\/p>\n      <p begin=\"01:19.730\" end=\"01:21.121\" ttm:agent=\"v1\">\n        <span begin=\"01:19.737\" end=\"01:19.955\">We<\/span>\n        <span begin=\"01:19.955\" end=\"01:20.218\">gon&apos;<\/span>\n        <span begin=\"01:20.218\" end=\"01:20.394\">do<\/span>\n        <span begin=\"01:20.394\" end=\"01:20.560\">this<\/span>\n        <span begin=\"01:20.560\" end=\"01:20.762\">shit<\/span>\n        <span begin=\"01:20.762\" end=\"01:21.121\">again<\/span>\n      <\/p>\n      <p begin=\"01:21.120\" end=\"01:22.716\" ttm:agent=\"v1\">\n        <span begin=\"01:21.121\" end=\"01:21.402\">Tell<\/span>\n        <span begin=\"01:21.402\" end=\"01:21.622\">your<\/span>\n        <span begin=\"01:21.622\" end=\"01:21.803\">girl<\/span>\n        <span begin=\"01:21.803\" end=\"01:21.990\">to<\/span>\n        <span begin=\"01:21.990\" end=\"01:22.170\">bring<\/span>\n        <span begin=\"01:22.170\" end=\"01:22.339\">a<\/span>\n        <span begin=\"01:22.339\" end=\"01:22.716\">friend<\/span>\n      <\/p>\n      <p begin=\"01:21.120\" end=\"01:23.758\" role=\"x-bg\">\n        <span begin=\"01:23.056\" end=\"01:23.524\">(Oh,<\/span>\n        <span begin=\"01:23.524\" end=\"01:23.758\">Lord)<\/span>\n      <\/p>\n      <p begin=\"01:23.750\" end=\"01:27.136\" ttm:agent=\"v1\">\n        <span begin=\"01:23.758\" end=\"01:24.426\">One,<\/span>\n        <span begin=\"01:24.644\" end=\"01:24.846\">here<\/span>\n        <span begin=\"01:24.846\" end=\"01:25.180\">comes<\/span>\n        <span begin=\"01:25.180\" end=\"01:25.340\">the<\/span>\n        <span begin=\"01:25.340\" end=\"01:25.673\">two<\/span>\n        <span begin=\"01:25.673\" end=\"01:25.923\">to<\/span>\n        <span begin=\"01:25.923\" end=\"01:26.125\">the<\/span>\n        <span begin=\"01:26.125\" end=\"01:26.443\">three<\/span>\n        <span begin=\"01:26.482\" end=\"01:26.667\">to<\/span>\n        <span begin=\"01:26.667\" end=\"01:26.893\">the<\/span>\n        <span begin=\"01:26.893\" end=\"01:27.136\">four<\/span>\n      <\/p>\n      <p begin=\"01:27.430\" end=\"01:30.007\" ttm:agent=\"v1\">\n        <span begin=\"01:27.436\" end=\"01:27.602\">Tell<\/span>\n        <span begin=\"01:27.602\" end=\"01:27.856\">&apos;em<\/span>\n        <span begin=\"01:27.856\" end=\"01:28.156\">bring<\/span>\n        <span begin=\"01:28.156\" end=\"01:28.694\">another<\/span>\n        <span begin=\"01:28.694\" end=\"01:28.945\">round,<\/span>\n        <span begin=\"01:28.945\" end=\"01:29.158\">we<\/span>\n        <span begin=\"01:29.158\" end=\"01:29.408\">need<\/span>\n        <span begin=\"01:29.408\" end=\"01:29.735\">plenty<\/span>\n        <span begin=\"01:29.735\" end=\"01:30.007\">more<\/span>\n      <\/p>\n      <p begin=\"01:30.080\" end=\"01:33.086\" ttm:agent=\"v1\">\n        <span begin=\"01:30.086\" end=\"01:30.309\">Two<\/span>\n        <span begin=\"01:30.309\" end=\"01:30.892\">steppin&apos;<\/span>\n        <span begin=\"01:30.892\" end=\"01:31.043\">on<\/span>\n        <span begin=\"01:31.043\" end=\"01:31.213\">the<\/span>\n        <span begin=\"01:31.213\" end=\"01:31.539\">table,<\/span>\n        <span begin=\"01:31.539\" end=\"01:31.701\">she<\/span>\n        <span begin=\"01:31.701\" end=\"01:31.990\">don&apos;t<\/span>\n        <span begin=\"01:32.021\" end=\"01:32.213\">need<\/span>\n        <span begin=\"01:32.213\" end=\"01:32.358\">a<\/span>\n        <span begin=\"01:32.358\" end=\"01:32.715\">dance<\/span>\n        <span begin=\"01:32.715\" end=\"01:33.086\">floor<\/span>\n      <\/p>\n      <p begin=\"01:33.440\" end=\"01:35.688\" ttm:agent=\"v1\">\n        <span begin=\"01:33.440\" end=\"01:33.906\">Oh<\/span>\n        <span begin=\"01:33.906\" end=\"01:34.390\">my,<\/span>\n        <span begin=\"01:34.904\" end=\"01:35.387\">good<\/span>\n        <span begin=\"01:35.387\" end=\"01:35.688\">Lord<\/span>\n      <\/p>\n      <p begin=\"01:36.000\" end=\"01:38.644\" ttm:agent=\"v1\">\n        <span begin=\"01:36.002\" end=\"01:36.490\">Someone<\/span>\n        <span begin=\"01:36.490\" end=\"01:36.679\">pour<\/span>\n        <span begin=\"01:36.679\" end=\"01:36.948\">me<\/span>\n        <span begin=\"01:36.948\" end=\"01:37.121\">up<\/span>\n        <span begin=\"01:37.121\" end=\"01:37.233\">a<\/span>\n        <span begin=\"01:37.233\" end=\"01:37.488\">double<\/span>\n        <span begin=\"01:37.488\" end=\"01:37.741\">shot<\/span>\n        <span begin=\"01:37.741\" end=\"01:37.983\">of<\/span>\n        <span begin=\"01:37.983\" end=\"01:38.644\">whiskey<\/span>\n      <\/p>\n      <p begin=\"01:36.000\" end=\"01:39.090\" role=\"x-bg\">\n        <span begin=\"01:37.860\" end=\"01:38.239\">(Double<\/span>\n        <span begin=\"01:38.239\" end=\"01:38.442\">shot<\/span>\n        <span begin=\"01:38.442\" end=\"01:38.646\">of<\/span>\n        <span begin=\"01:38.646\" end=\"01:39.090\">whiskey)<\/span>\n      <\/p>\n      <p begin=\"01:38.970\" end=\"01:41.669\" ttm:agent=\"v1\">\n        <span begin=\"01:38.970\" end=\"01:39.240\">They<\/span>\n        <span begin=\"01:39.240\" end=\"01:39.389\">know<\/span>\n        <span begin=\"01:39.389\" end=\"01:39.582\">me<\/span>\n        <span begin=\"01:39.582\" end=\"01:39.770\">and<\/span>\n        <span begin=\"01:39.770\" end=\"01:40.140\">Jack<\/span>\n        <span begin=\"01:40.140\" end=\"01:40.532\">Daniel&apos;s<\/span>\n        <span begin=\"01:40.532\" end=\"01:40.728\">got<\/span>\n        <span begin=\"01:40.728\" end=\"01:40.923\">a<\/span>\n        <span begin=\"01:40.923\" end=\"01:41.669\">history<\/span>\n      <\/p>\n      <p begin=\"01:38.970\" end=\"01:41.904\" role=\"x-bg\">\n        <span begin=\"01:40.839\" end=\"01:41.006\">(We<\/span>\n        <span begin=\"01:41.006\" end=\"01:41.173\">go<\/span>\n        <span begin=\"01:41.173\" end=\"01:41.669\">way<\/span>\n        <span begin=\"01:41.669\" end=\"01:41.904\">back)<\/span>\n      <\/p>\n      <p begin=\"01:41.900\" end=\"01:44.569\" ttm:agent=\"v1\">\n        <span begin=\"01:41.904\" end=\"01:42.264\">There&apos;s<\/span>\n        <span begin=\"01:42.264\" end=\"01:42.412\">a<\/span>\n        <span begin=\"01:42.412\" end=\"01:42.799\">party<\/span>\n        <span begin=\"01:42.799\" end=\"01:43.573\">downtown<\/span>\n        <span begin=\"01:43.573\" end=\"01:43.808\">near<\/span>\n        <span begin=\"01:43.808\" end=\"01:44.189\">5th<\/span>\n        <span begin=\"01:44.189\" end=\"01:44.569\">Street<\/span>\n      <\/p>\n      <p begin=\"01:41.900\" end=\"01:44.888\" role=\"x-bg\">\n        <span begin=\"01:44.121\" end=\"01:44.888\">(Downtown)<\/span>\n      <\/p>\n      <p begin=\"01:44.880\" end=\"01:47.443\" ttm:agent=\"v1\">\n        <span begin=\"01:44.888\" end=\"01:45.747\">Everybody<\/span>\n        <span begin=\"01:45.747\" end=\"01:45.870\">at<\/span>\n        <span begin=\"01:45.870\" end=\"01:46.039\">the<\/span>\n        <span begin=\"01:46.039\" end=\"01:46.485\">bar<\/span>\n        <span begin=\"01:46.485\" end=\"01:46.818\">gettin&apos;<\/span>\n        <span begin=\"01:46.818\" end=\"01:47.443\">tipsy<\/span>\n      <\/p>\n      <p begin=\"01:50.830\" end=\"01:53.384\" ttm:agent=\"v1\">\n        <span begin=\"01:50.830\" end=\"01:51.690\">Everybody<\/span>\n        <span begin=\"01:51.690\" end=\"01:51.812\">at<\/span>\n        <span begin=\"01:51.812\" end=\"01:51.982\">the<\/span>\n        <span begin=\"01:51.982\" end=\"01:52.348\">bar<\/span>\n        <span begin=\"01:52.348\" end=\"01:52.759\">gettin&apos;<\/span>\n        <span begin=\"01:52.759\" end=\"01:53.384\">tipsy<\/span>\n      <\/p>\n      <p begin=\"01:56.700\" end=\"01:59.253\" ttm:agent=\"v1\">\n        <span begin=\"01:56.708\" end=\"01:57.558\">Everybody<\/span>\n        <span begin=\"01:57.558\" end=\"01:57.680\">at<\/span>\n        <span begin=\"01:57.680\" end=\"01:57.850\">the<\/span>\n        <span begin=\"01:57.850\" end=\"01:58.204\">bar<\/span>\n        <span begin=\"01:58.295\" end=\"01:58.628\">gettin&apos;<\/span>\n        <span begin=\"01:58.628\" end=\"01:59.253\">tipsy<\/span>\n      <\/p>\n      <p begin=\"01:59.340\" end=\"02:02.751\" ttm:agent=\"v1\">\n        <span begin=\"01:59.348\" end=\"01:59.882\">One,<\/span>\n        <span begin=\"02:00.225\" end=\"02:00.475\">here<\/span>\n        <span begin=\"02:00.475\" end=\"02:00.725\">comes<\/span>\n        <span begin=\"02:00.725\" end=\"02:00.884\">the<\/span>\n        <span begin=\"02:00.884\" end=\"02:01.130\">two<\/span>\n        <span begin=\"02:01.130\" end=\"02:01.344\">to<\/span>\n        <span begin=\"02:01.344\" end=\"02:01.540\">the<\/span>\n        <span begin=\"02:01.540\" end=\"02:01.909\">three<\/span>\n        <span begin=\"02:01.909\" end=\"02:02.117\">to<\/span>\n        <span begin=\"02:02.117\" end=\"02:02.356\">the<\/span>\n        <span begin=\"02:02.356\" end=\"02:02.751\">four<\/span>\n      <\/p>\n      <p begin=\"02:03.030\" end=\"02:05.705\" ttm:agent=\"v1\">\n        <span begin=\"02:03.030\" end=\"02:03.316\">When<\/span>\n        <span begin=\"02:03.316\" end=\"02:03.533\">it&apos;s<\/span>\n        <span begin=\"02:03.533\" end=\"02:03.831\">last<\/span>\n        <span begin=\"02:03.831\" end=\"02:04.258\">call<\/span>\n        <span begin=\"02:04.258\" end=\"02:04.449\">and<\/span>\n        <span begin=\"02:04.449\" end=\"02:04.609\">they<\/span>\n        <span begin=\"02:04.609\" end=\"02:04.800\">kick<\/span>\n        <span begin=\"02:04.800\" end=\"02:05.005\">us<\/span>\n        <span begin=\"02:05.005\" end=\"02:05.168\">out<\/span>\n        <span begin=\"02:05.168\" end=\"02:05.356\">the<\/span>\n        <span begin=\"02:05.356\" end=\"02:05.705\">door<\/span>\n      <\/p>\n      <p begin=\"02:05.840\" end=\"02:08.616\" ttm:agent=\"v1\">\n        <span begin=\"02:05.848\" end=\"02:06.107\">It&apos;s<\/span>\n        <span begin=\"02:06.107\" end=\"02:06.470\">gettin&apos;<\/span>\n        <span begin=\"02:06.470\" end=\"02:06.868\">kinda<\/span>\n        <span begin=\"02:06.868\" end=\"02:07.249\">late,<\/span>\n        <span begin=\"02:07.249\" end=\"02:07.404\">but<\/span>\n        <span begin=\"02:07.404\" end=\"02:07.624\">the<\/span>\n        <span begin=\"02:07.624\" end=\"02:07.928\">ladies<\/span>\n        <span begin=\"02:07.928\" end=\"02:08.122\">want<\/span>\n        <span begin=\"02:08.122\" end=\"02:08.390\">some<\/span>\n        <span begin=\"02:08.390\" end=\"02:08.616\">more<\/span>\n      <\/p>\n      <p begin=\"02:08.980\" end=\"02:11.346\" ttm:agent=\"v1\">\n        <span begin=\"02:08.981\" end=\"02:09.347\">Oh<\/span>\n        <span begin=\"02:09.347\" end=\"02:09.965\">my,<\/span>\n        <span begin=\"02:10.483\" end=\"02:10.851\">good<\/span>\n        <span begin=\"02:10.851\" end=\"02:11.346\">Lord<\/span>\n      <\/p>\n      <p begin=\"02:08.980\" end=\"02:12.989\" role=\"x-bg\">\n        <span begin=\"02:11.528\" end=\"02:11.730\">(Tell<\/span>\n        <span begin=\"02:11.730\" end=\"02:11.973\">&apos;em<\/span>\n        <span begin=\"02:11.973\" end=\"02:12.390\">drinks<\/span>\n        <span begin=\"02:12.390\" end=\"02:12.652\">on<\/span>\n        <span begin=\"02:12.652\" end=\"02:12.989\">me)<\/span>\n      <\/p>\n      <p begin=\"02:12.980\" end=\"02:15.672\" ttm:agent=\"v1\">\n        <span begin=\"02:12.989\" end=\"02:13.515\">Someone<\/span>\n        <span begin=\"02:13.515\" end=\"02:13.706\">pour<\/span>\n        <span begin=\"02:13.706\" end=\"02:13.926\">me<\/span>\n        <span begin=\"02:13.926\" end=\"02:14.098\">up<\/span>\n        <span begin=\"02:14.098\" end=\"02:14.277\">a<\/span>\n        <span begin=\"02:14.277\" end=\"02:14.527\">double<\/span>\n        <span begin=\"02:14.527\" end=\"02:14.819\">shot<\/span>\n        <span begin=\"02:14.819\" end=\"02:15.035\">of<\/span>\n        <span begin=\"02:15.035\" end=\"02:15.672\">whiskey<\/span>\n      <\/p>\n      <p begin=\"02:12.980\" end=\"02:16.083\" role=\"x-bg\">\n        <span begin=\"02:14.893\" end=\"02:15.300\">(Double<\/span>\n        <span begin=\"02:15.300\" end=\"02:15.500\">shot<\/span>\n        <span begin=\"02:15.500\" end=\"02:15.676\">of<\/span>\n        <span begin=\"02:15.676\" end=\"02:16.083\">whiskey)<\/span>\n      <\/p>\n      <p begin=\"02:15.970\" end=\"02:18.690\" ttm:agent=\"v1\">\n        <span begin=\"02:15.972\" end=\"02:16.273\">They<\/span>\n        <span begin=\"02:16.273\" end=\"02:16.546\">know<\/span>\n        <span begin=\"02:16.546\" end=\"02:16.720\">me<\/span>\n        <span begin=\"02:16.720\" end=\"02:16.875\">and<\/span>\n        <span begin=\"02:16.875\" end=\"02:17.139\">Jack<\/span>\n        <span begin=\"02:17.139\" end=\"02:17.480\">Daniel&apos;s<\/span>\n        <span begin=\"02:17.480\" end=\"02:17.682\">got<\/span>\n        <span begin=\"02:17.682\" end=\"02:17.962\">a<\/span>\n        <span begin=\"02:17.962\" end=\"02:18.690\">history<\/span>\n      <\/p>\n      <p begin=\"02:15.970\" end=\"02:18.946\" role=\"x-bg\">\n        <span begin=\"02:18.157\" end=\"02:18.581\">(Way<\/span>\n        <span begin=\"02:18.581\" end=\"02:18.946\">back)<\/span>\n      <\/p>\n      <p begin=\"02:18.940\" end=\"02:21.557\" ttm:agent=\"v1\">\n        <span begin=\"02:18.946\" end=\"02:19.206\">There&apos;s<\/span>\n        <span begin=\"02:19.206\" end=\"02:19.426\">a<\/span>\n        <span begin=\"02:19.426\" end=\"02:19.814\">party<\/span>\n        <span begin=\"02:19.832\" end=\"02:20.579\">downtown<\/span>\n        <span begin=\"02:20.579\" end=\"02:20.800\">near<\/span>\n        <span begin=\"02:20.800\" end=\"02:21.249\">5th<\/span>\n        <span begin=\"02:21.249\" end=\"02:21.557\">Street<\/span>\n      <\/p>\n      <p begin=\"02:18.940\" end=\"02:21.922\" role=\"x-bg\">\n        <span begin=\"02:21.168\" end=\"02:21.922\">(C&apos;mon!)<\/span>\n      <\/p>\n      <p begin=\"02:21.920\" end=\"02:24.477\" ttm:agent=\"v1\">\n        <span begin=\"02:21.922\" end=\"02:22.749\">Everybody<\/span>\n        <span begin=\"02:22.768\" end=\"02:22.904\">at<\/span>\n        <span begin=\"02:22.904\" end=\"02:23.074\">the<\/span>\n        <span begin=\"02:23.074\" end=\"02:23.515\">bar<\/span>\n        <span begin=\"02:23.520\" end=\"02:23.883\">gettin&apos;<\/span>\n        <span begin=\"02:23.883\" end=\"02:24.477\">tipsy<\/span>\n      <\/p>\n      <p begin=\"02:24.770\" end=\"02:27.522\" ttm:agent=\"v1\">\n        <span begin=\"02:24.773\" end=\"02:25.329\">Someone<\/span>\n        <span begin=\"02:25.329\" end=\"02:25.579\">pour<\/span>\n        <span begin=\"02:25.579\" end=\"02:25.764\">me<\/span>\n        <span begin=\"02:25.764\" end=\"02:25.871\">up<\/span>\n        <span begin=\"02:25.871\" end=\"02:26.041\">a<\/span>\n        <span begin=\"02:26.041\" end=\"02:26.350\">double<\/span>\n        <span begin=\"02:26.350\" end=\"02:26.620\">shot<\/span>\n        <span begin=\"02:26.620\" end=\"02:26.852\">of<\/span>\n        <span begin=\"02:26.852\" end=\"02:27.522\">whiskey<\/span>\n      <\/p>\n      <p begin=\"02:24.770\" end=\"02:27.952\" role=\"x-bg\">\n        <span begin=\"02:26.720\" end=\"02:27.100\">(Double<\/span>\n        <span begin=\"02:27.100\" end=\"02:27.350\">shot<\/span>\n        <span begin=\"02:27.350\" end=\"02:27.508\">of<\/span>\n        <span begin=\"02:27.508\" end=\"02:27.952\">whiskey)<\/span>\n      <\/p>\n      <p begin=\"02:27.820\" end=\"02:30.456\" ttm:agent=\"v1\">\n        <span begin=\"02:27.822\" end=\"02:28.079\">They<\/span>\n        <span begin=\"02:28.079\" end=\"02:28.301\">know<\/span>\n        <span begin=\"02:28.301\" end=\"02:28.459\">me<\/span>\n        <span begin=\"02:28.459\" end=\"02:28.690\">and<\/span>\n        <span begin=\"02:28.690\" end=\"02:29.033\">Jack<\/span>\n        <span begin=\"02:29.033\" end=\"02:29.407\">Daniel&apos;s<\/span>\n        <span begin=\"02:29.407\" end=\"02:29.639\">got<\/span>\n        <span begin=\"02:29.639\" end=\"02:29.840\">a<\/span>\n        <span begin=\"02:29.840\" end=\"02:30.456\">history<\/span>\n      <\/p>\n      <p begin=\"02:27.820\" end=\"02:30.740\" role=\"x-bg\">\n        <span begin=\"02:29.896\" end=\"02:30.173\">(It&apos;s<\/span>\n        <span begin=\"02:30.173\" end=\"02:30.542\">Jack<\/span>\n        <span begin=\"02:30.542\" end=\"02:30.740\">D)<\/span>\n      <\/p>\n      <p begin=\"02:30.740\" end=\"02:33.373\" ttm:agent=\"v1\">\n        <span begin=\"02:30.740\" end=\"02:31.001\">At<\/span>\n        <span begin=\"02:31.001\" end=\"02:31.270\">the<\/span>\n        <span begin=\"02:31.270\" end=\"02:31.715\">bottom<\/span>\n        <span begin=\"02:31.719\" end=\"02:31.915\">of<\/span>\n        <span begin=\"02:31.915\" end=\"02:32.047\">a<\/span>\n        <span begin=\"02:32.047\" end=\"02:32.478\">bottle,<\/span>\n        <span begin=\"02:32.480\" end=\"02:32.784\">gon&apos;<\/span>\n        <span begin=\"02:32.784\" end=\"02:33.117\">miss<\/span>\n        <span begin=\"02:33.117\" end=\"02:33.373\">me<\/span>\n      <\/p>\n      <p begin=\"02:30.740\" end=\"02:33.961\" role=\"x-bg\">\n        <span begin=\"02:32.635\" end=\"02:33.124\">(Baby,<\/span>\n        <span begin=\"02:33.124\" end=\"02:33.520\">don&apos;t<\/span>\n        <span begin=\"02:33.520\" end=\"02:33.771\">miss<\/span>\n        <span begin=\"02:33.771\" end=\"02:33.961\">me)<\/span>\n      <\/p>\n      <p begin=\"02:33.770\" end=\"02:36.328\" ttm:agent=\"v1\">\n        <span begin=\"02:33.773\" end=\"02:34.633\">Everybody<\/span>\n        <span begin=\"02:34.633\" end=\"02:34.755\">at<\/span>\n        <span begin=\"02:34.755\" end=\"02:34.966\">the<\/span>\n        <span begin=\"02:34.966\" end=\"02:35.373\">bar<\/span>\n        <span begin=\"02:35.373\" end=\"02:35.703\">gettin&apos;<\/span>\n        <span begin=\"02:35.703\" end=\"02:36.328\">tipsy<\/span>\n      <\/p>\n      <p begin=\"02:33.770\" end=\"02:37.019\" role=\"x-bg\">\n        <span begin=\"02:35.515\" end=\"02:35.961\">(Bar<\/span>\n        <span begin=\"02:35.961\" end=\"02:36.329\">gettin&apos;<\/span>\n        <span begin=\"02:36.329\" end=\"02:37.019\">tipsy)<\/span>\n      <\/p>\n      <p begin=\"02:39.710\" end=\"02:42.270\" ttm:agent=\"v1\">\n        <span begin=\"02:39.715\" end=\"02:40.575\">Everybody<\/span>\n        <span begin=\"02:40.575\" end=\"02:40.697\">at<\/span>\n        <span begin=\"02:40.697\" end=\"02:40.867\">the<\/span>\n        <span begin=\"02:40.867\" end=\"02:41.319\">bar<\/span>\n        <span begin=\"02:41.319\" end=\"02:41.645\">gettin&apos;<\/span>\n        <span begin=\"02:41.645\" end=\"02:42.270\">tipsy<\/span>\n      <\/p>\n      <p begin=\"02:45.620\" end=\"02:48.179\" ttm:agent=\"v1\">\n        <span begin=\"02:45.624\" end=\"02:46.432\">Everybody<\/span>\n        <span begin=\"02:46.432\" end=\"02:46.640\">at<\/span>\n        <span begin=\"02:46.640\" end=\"02:46.839\">the<\/span>\n        <span begin=\"02:46.839\" end=\"02:47.221\">bar<\/span>\n        <span begin=\"02:47.222\" end=\"02:47.548\">gettin&apos;<\/span>\n        <span begin=\"02:47.548\" end=\"02:48.179\">tipsy<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 12480,
+      "endTime": 14781,
+      "text": "My baby want a Birkin",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 12482,
+          "endTime": 12804,
+          "word": "My"
+        },
+        {
+          "startTime": 12804,
+          "endTime": 13339,
+          "word": "baby"
+        },
+        {
+          "startTime": 13339,
+          "endTime": 13928,
+          "word": "want"
+        },
+        {
+          "startTime": 13928,
+          "endTime": 14130,
+          "word": "a"
+        },
+        {
+          "startTime": 14130,
+          "endTime": 14781,
+          "word": "Birkin"
+        }
+      ]
+    },
+    {
+      "time": 15270,
+      "endTime": 17765,
+      "text": "She's been tellin' me all night long",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15271,
+          "endTime": 15538,
+          "word": "She's"
+        },
+        {
+          "startTime": 15548,
+          "endTime": 15816,
+          "word": "been"
+        },
+        {
+          "startTime": 15816,
+          "endTime": 16096,
+          "word": "tellin'"
+        },
+        {
+          "startTime": 16096,
+          "endTime": 16369,
+          "word": "me"
+        },
+        {
+          "startTime": 16369,
+          "endTime": 16758,
+          "word": "all"
+        },
+        {
+          "startTime": 16758,
+          "endTime": 17155,
+          "word": "night"
+        },
+        {
+          "startTime": 17155,
+          "endTime": 17765,
+          "word": "long"
+        }
+      ]
+    },
+    {
+      "time": 18580,
+      "endTime": 23413,
+      "text": "Gasoline and groceries, the list goes on and on",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 18580,
+          "endTime": 19689,
+          "word": "Gasoline"
+        },
+        {
+          "startTime": 19789,
+          "endTime": 20007,
+          "word": "and"
+        },
+        {
+          "startTime": 20007,
+          "endTime": 21250,
+          "word": "groceries,"
+        },
+        {
+          "startTime": 21446,
+          "endTime": 21648,
+          "word": "the"
+        },
+        {
+          "startTime": 21648,
+          "endTime": 21849,
+          "word": "list"
+        },
+        {
+          "startTime": 21849,
+          "endTime": 22345,
+          "word": "goes"
+        },
+        {
+          "startTime": 22369,
+          "endTime": 22648,
+          "word": "on"
+        },
+        {
+          "startTime": 22648,
+          "endTime": 22926,
+          "word": "and"
+        },
+        {
+          "startTime": 22926,
+          "endTime": 23413,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 24330,
+      "endTime": 29569,
+      "text": "This 9-to-5 ain't workin', why the hell do I work so hard?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24332,
+          "endTime": 24547,
+          "word": "This"
+        },
+        {
+          "startTime": 24547,
+          "endTime": 25478,
+          "word": "9-to-5"
+        },
+        {
+          "startTime": 25478,
+          "endTime": 25827,
+          "word": "ain't"
+        },
+        {
+          "startTime": 25827,
+          "endTime": 26606,
+          "word": "workin',"
+        },
+        {
+          "startTime": 27185,
+          "endTime": 27375,
+          "word": "why"
+        },
+        {
+          "startTime": 27375,
+          "endTime": 27547,
+          "word": "the"
+        },
+        {
+          "startTime": 27547,
+          "endTime": 27752,
+          "word": "hell"
+        },
+        {
+          "startTime": 27752,
+          "endTime": 27946,
+          "word": "do"
+        },
+        {
+          "startTime": 27946,
+          "endTime": 28294,
+          "word": "I"
+        },
+        {
+          "startTime": 28294,
+          "endTime": 28606,
+          "word": "work"
+        },
+        {
+          "startTime": 28606,
+          "endTime": 29029,
+          "word": "so"
+        },
+        {
+          "startTime": 29029,
+          "endTime": 29569,
+          "word": "hard?"
+        }
+      ]
+    },
+    {
+      "time": 29900,
+      "endTime": 35201,
+      "text": "I can't worry 'bout my problems, I can't take 'em when I'm gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29900,
+          "endTime": 30222,
+          "word": "I"
+        },
+        {
+          "startTime": 30222,
+          "endTime": 30609,
+          "word": "can't"
+        },
+        {
+          "startTime": 30609,
+          "endTime": 31162,
+          "word": "worry"
+        },
+        {
+          "startTime": 31162,
+          "endTime": 31727,
+          "word": "'bout"
+        },
+        {
+          "startTime": 31727,
+          "endTime": 31917,
+          "word": "my"
+        },
+        {
+          "startTime": 31917,
+          "endTime": 32707,
+          "word": "problems,"
+        },
+        {
+          "startTime": 32769,
+          "endTime": 32965,
+          "word": "I"
+        },
+        {
+          "startTime": 32965,
+          "endTime": 33250,
+          "word": "can't"
+        },
+        {
+          "startTime": 33250,
+          "endTime": 33709,
+          "word": "take"
+        },
+        {
+          "startTime": 33709,
+          "endTime": 34100,
+          "word": "'em"
+        },
+        {
+          "startTime": 34100,
+          "endTime": 34369,
+          "word": "when"
+        },
+        {
+          "startTime": 34369,
+          "endTime": 34745,
+          "word": "I'm"
+        },
+        {
+          "startTime": 34756,
+          "endTime": 35201,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 36310,
+      "endTime": 39830,
+      "text": "One, here comes the two to the three to the four",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36315,
+          "endTime": 36919,
+          "word": "One,"
+        },
+        {
+          "startTime": 37264,
+          "endTime": 37460,
+          "word": "here"
+        },
+        {
+          "startTime": 37460,
+          "endTime": 37840,
+          "word": "comes"
+        },
+        {
+          "startTime": 37840,
+          "endTime": 37992,
+          "word": "the"
+        },
+        {
+          "startTime": 37992,
+          "endTime": 38287,
+          "word": "two"
+        },
+        {
+          "startTime": 38287,
+          "endTime": 38537,
+          "word": "to"
+        },
+        {
+          "startTime": 38537,
+          "endTime": 38733,
+          "word": "the"
+        },
+        {
+          "startTime": 38733,
+          "endTime": 39132,
+          "word": "three"
+        },
+        {
+          "startTime": 39132,
+          "endTime": 39287,
+          "word": "to"
+        },
+        {
+          "startTime": 39287,
+          "endTime": 39436,
+          "word": "the"
+        },
+        {
+          "startTime": 39436,
+          "endTime": 39830,
+          "word": "four"
+        }
+      ]
+    },
+    {
+      "time": 40100,
+      "endTime": 42647,
+      "text": "Tell 'em bring another round, we need plenty more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40101,
+          "endTime": 40253,
+          "word": "Tell"
+        },
+        {
+          "startTime": 40253,
+          "endTime": 40491,
+          "word": "'em"
+        },
+        {
+          "startTime": 40491,
+          "endTime": 40739,
+          "word": "bring"
+        },
+        {
+          "startTime": 40739,
+          "endTime": 41235,
+          "word": "another"
+        },
+        {
+          "startTime": 41235,
+          "endTime": 41598,
+          "word": "round,"
+        },
+        {
+          "startTime": 41598,
+          "endTime": 41802,
+          "word": "we"
+        },
+        {
+          "startTime": 41802,
+          "endTime": 42021,
+          "word": "need"
+        },
+        {
+          "startTime": 42021,
+          "endTime": 42392,
+          "word": "plenty"
+        },
+        {
+          "startTime": 42392,
+          "endTime": 42647,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 42680,
+      "endTime": 45580,
+      "text": "Two steppin' on the table, she don't need a dance floor",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42683,
+          "endTime": 43001,
+          "word": "Two"
+        },
+        {
+          "startTime": 43001,
+          "endTime": 43455,
+          "word": "steppin'"
+        },
+        {
+          "startTime": 43507,
+          "endTime": 43650,
+          "word": "on"
+        },
+        {
+          "startTime": 43650,
+          "endTime": 43804,
+          "word": "the"
+        },
+        {
+          "startTime": 43804,
+          "endTime": 44114,
+          "word": "table,"
+        },
+        {
+          "startTime": 44114,
+          "endTime": 44334,
+          "word": "she"
+        },
+        {
+          "startTime": 44334,
+          "endTime": 44612,
+          "word": "don't"
+        },
+        {
+          "startTime": 44612,
+          "endTime": 44807,
+          "word": "need"
+        },
+        {
+          "startTime": 44807,
+          "endTime": 44911,
+          "word": "a"
+        },
+        {
+          "startTime": 44911,
+          "endTime": 45289,
+          "word": "dance"
+        },
+        {
+          "startTime": 45289,
+          "endTime": 45580,
+          "word": "floor"
+        }
+      ]
+    },
+    {
+      "time": 46000,
+      "endTime": 48280,
+      "text": "Oh my, good Lord",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46005,
+          "endTime": 46530,
+          "word": "Oh"
+        },
+        {
+          "startTime": 46530,
+          "endTime": 46981,
+          "word": "my,"
+        },
+        {
+          "startTime": 47578,
+          "endTime": 47893,
+          "word": "good"
+        },
+        {
+          "startTime": 47893,
+          "endTime": 48280,
+          "word": "Lord"
+        }
+      ]
+    },
+    {
+      "time": 48480,
+      "endTime": 51213,
+      "text": "Someone pour me up a double shot of whiskey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 48489,
+          "endTime": 48955,
+          "word": "Someone"
+        },
+        {
+          "startTime": 48955,
+          "endTime": 49158,
+          "word": "pour"
+        },
+        {
+          "startTime": 49158,
+          "endTime": 49366,
+          "word": "me"
+        },
+        {
+          "startTime": 49366,
+          "endTime": 49550,
+          "word": "up"
+        },
+        {
+          "startTime": 49550,
+          "endTime": 49756,
+          "word": "a"
+        },
+        {
+          "startTime": 49756,
+          "endTime": 50065,
+          "word": "double"
+        },
+        {
+          "startTime": 50065,
+          "endTime": 50324,
+          "word": "shot"
+        },
+        {
+          "startTime": 50324,
+          "endTime": 50585,
+          "word": "of"
+        },
+        {
+          "startTime": 50585,
+          "endTime": 51213,
+          "word": "whiskey"
+        }
+      ]
+    },
+    {
+      "time": 51520,
+      "endTime": 54163,
+      "text": "They know me and Jack Daniel's got a history",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51529,
+          "endTime": 51758,
+          "word": "They"
+        },
+        {
+          "startTime": 51758,
+          "endTime": 51984,
+          "word": "know"
+        },
+        {
+          "startTime": 51984,
+          "endTime": 52084,
+          "word": "me"
+        },
+        {
+          "startTime": 52084,
+          "endTime": 52359,
+          "word": "and"
+        },
+        {
+          "startTime": 52359,
+          "endTime": 52740,
+          "word": "Jack"
+        },
+        {
+          "startTime": 52740,
+          "endTime": 53150,
+          "word": "Daniel's"
+        },
+        {
+          "startTime": 53150,
+          "endTime": 53352,
+          "word": "got"
+        },
+        {
+          "startTime": 53352,
+          "endTime": 53531,
+          "word": "a"
+        },
+        {
+          "startTime": 53531,
+          "endTime": 54163,
+          "word": "history"
+        }
+      ]
+    },
+    {
+      "time": 54510,
+      "endTime": 57187,
+      "text": "There's a party downtown near 5th Street",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54512,
+          "endTime": 54844,
+          "word": "There's"
+        },
+        {
+          "startTime": 54844,
+          "endTime": 55008,
+          "word": "a"
+        },
+        {
+          "startTime": 55008,
+          "endTime": 55397,
+          "word": "party"
+        },
+        {
+          "startTime": 55398,
+          "endTime": 56114,
+          "word": "downtown"
+        },
+        {
+          "startTime": 56164,
+          "endTime": 56440,
+          "word": "near"
+        },
+        {
+          "startTime": 56440,
+          "endTime": 56789,
+          "word": "5th"
+        },
+        {
+          "startTime": 56789,
+          "endTime": 57187,
+          "word": "Street"
+        }
+      ]
+    },
+    {
+      "time": 57430,
+      "endTime": 60097,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 57433,
+          "endTime": 58288,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 58288,
+          "endTime": 58431,
+          "word": "at"
+        },
+        {
+          "startTime": 58431,
+          "endTime": 58633,
+          "word": "the"
+        },
+        {
+          "startTime": 58633,
+          "endTime": 59035,
+          "word": "bar"
+        },
+        {
+          "startTime": 59035,
+          "endTime": 59436,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 59436,
+          "endTime": 60097,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 63380,
+      "endTime": 65937,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63384,
+          "endTime": 64277,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 64277,
+          "endTime": 64417,
+          "word": "at"
+        },
+        {
+          "startTime": 64417,
+          "endTime": 64614,
+          "word": "the"
+        },
+        {
+          "startTime": 64614,
+          "endTime": 64890,
+          "word": "bar"
+        },
+        {
+          "startTime": 64890,
+          "endTime": 65376,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 65376,
+          "endTime": 65937,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 69280,
+      "endTime": 71959,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69286,
+          "endTime": 70217,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 70217,
+          "endTime": 70376,
+          "word": "at"
+        },
+        {
+          "startTime": 70376,
+          "endTime": 70553,
+          "word": "the"
+        },
+        {
+          "startTime": 70553,
+          "endTime": 70913,
+          "word": "bar"
+        },
+        {
+          "startTime": 70913,
+          "endTime": 71318,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 71318,
+          "endTime": 71959,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 72220,
+      "endTime": 73709,
+      "text": "I've been Boozey since I left",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 72221,
+          "endTime": 72563,
+          "word": "I've"
+        },
+        {
+          "startTime": 72563,
+          "endTime": 72766,
+          "word": "been"
+        },
+        {
+          "startTime": 72766,
+          "endTime": 73082,
+          "word": "Boozey"
+        },
+        {
+          "startTime": 73082,
+          "endTime": 73262,
+          "word": "since"
+        },
+        {
+          "startTime": 73262,
+          "endTime": 73487,
+          "word": "I"
+        },
+        {
+          "startTime": 73487,
+          "endTime": 73709,
+          "word": "left"
+        }
+      ]
+    },
+    {
+      "time": 73820,
+      "endTime": 75136,
+      "text": "I ain't changin' for a check",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 73824,
+          "endTime": 73969,
+          "word": "I"
+        },
+        {
+          "startTime": 73969,
+          "endTime": 74218,
+          "word": "ain't"
+        },
+        {
+          "startTime": 74218,
+          "endTime": 74536,
+          "word": "changin'"
+        },
+        {
+          "startTime": 74536,
+          "endTime": 74683,
+          "word": "for"
+        },
+        {
+          "startTime": 74683,
+          "endTime": 74863,
+          "word": "a"
+        },
+        {
+          "startTime": 74863,
+          "endTime": 75136,
+          "word": "check"
+        }
+      ]
+    },
+    {
+      "time": 75240,
+      "endTime": 76761,
+      "text": "Tell my ma I ain't forget",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 75240,
+          "endTime": 75489,
+          "word": "Tell"
+        },
+        {
+          "startTime": 75489,
+          "endTime": 75680,
+          "word": "my"
+        },
+        {
+          "startTime": 75680,
+          "endTime": 75996,
+          "word": "ma"
+        },
+        {
+          "startTime": 75996,
+          "endTime": 76168,
+          "word": "I"
+        },
+        {
+          "startTime": 76168,
+          "endTime": 76375,
+          "word": "ain't"
+        },
+        {
+          "startTime": 76375,
+          "endTime": 76761,
+          "word": "forget"
+        }
+      ]
+    },
+    {
+      "time": 75240,
+      "endTime": 77959,
+      "text": "(Oh, Lord)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 77100,
+          "endTime": 77519,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 77519,
+          "endTime": 77959,
+          "word": "Lord)"
+        }
+      ]
+    },
+    {
+      "time": 78210,
+      "endTime": 79637,
+      "text": "Woke up drunk at 10:00 a.m.",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 78210,
+          "endTime": 78497,
+          "word": "Woke"
+        },
+        {
+          "startTime": 78497,
+          "endTime": 78705,
+          "word": "up"
+        },
+        {
+          "startTime": 78705,
+          "endTime": 78906,
+          "word": "drunk"
+        },
+        {
+          "startTime": 78906,
+          "endTime": 79048,
+          "word": "at"
+        },
+        {
+          "startTime": 0,
+          "endTime": 79048,
+          "word": "10"
+        },
+        {
+          "startTime": 79328,
+          "endTime": 79637,
+          "word": "a.m."
+        }
+      ]
+    },
+    {
+      "time": 79730,
+      "endTime": 81121,
+      "text": "We gon' do this shit again",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 79737,
+          "endTime": 79955,
+          "word": "We"
+        },
+        {
+          "startTime": 79955,
+          "endTime": 80218,
+          "word": "gon'"
+        },
+        {
+          "startTime": 80218,
+          "endTime": 80394,
+          "word": "do"
+        },
+        {
+          "startTime": 80394,
+          "endTime": 80560,
+          "word": "this"
+        },
+        {
+          "startTime": 80560,
+          "endTime": 80762,
+          "word": "shit"
+        },
+        {
+          "startTime": 80762,
+          "endTime": 81121,
+          "word": "again"
+        }
+      ]
+    },
+    {
+      "time": 81120,
+      "endTime": 82716,
+      "text": "Tell your girl to bring a friend",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81121,
+          "endTime": 81402,
+          "word": "Tell"
+        },
+        {
+          "startTime": 81402,
+          "endTime": 81622,
+          "word": "your"
+        },
+        {
+          "startTime": 81622,
+          "endTime": 81803,
+          "word": "girl"
+        },
+        {
+          "startTime": 81803,
+          "endTime": 81990,
+          "word": "to"
+        },
+        {
+          "startTime": 81990,
+          "endTime": 82170,
+          "word": "bring"
+        },
+        {
+          "startTime": 82170,
+          "endTime": 82339,
+          "word": "a"
+        },
+        {
+          "startTime": 82339,
+          "endTime": 82716,
+          "word": "friend"
+        }
+      ]
+    },
+    {
+      "time": 81120,
+      "endTime": 83758,
+      "text": "(Oh, Lord)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 83056,
+          "endTime": 83524,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 83524,
+          "endTime": 83758,
+          "word": "Lord)"
+        }
+      ]
+    },
+    {
+      "time": 83750,
+      "endTime": 87136,
+      "text": "One, here comes the two to the three to the four",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 83758,
+          "endTime": 84426,
+          "word": "One,"
+        },
+        {
+          "startTime": 84644,
+          "endTime": 84846,
+          "word": "here"
+        },
+        {
+          "startTime": 84846,
+          "endTime": 85180,
+          "word": "comes"
+        },
+        {
+          "startTime": 85180,
+          "endTime": 85340,
+          "word": "the"
+        },
+        {
+          "startTime": 85340,
+          "endTime": 85673,
+          "word": "two"
+        },
+        {
+          "startTime": 85673,
+          "endTime": 85923,
+          "word": "to"
+        },
+        {
+          "startTime": 85923,
+          "endTime": 86125,
+          "word": "the"
+        },
+        {
+          "startTime": 86125,
+          "endTime": 86443,
+          "word": "three"
+        },
+        {
+          "startTime": 86482,
+          "endTime": 86667,
+          "word": "to"
+        },
+        {
+          "startTime": 86667,
+          "endTime": 86893,
+          "word": "the"
+        },
+        {
+          "startTime": 86893,
+          "endTime": 87136,
+          "word": "four"
+        }
+      ]
+    },
+    {
+      "time": 87430,
+      "endTime": 90007,
+      "text": "Tell 'em bring another round, we need plenty more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 87436,
+          "endTime": 87602,
+          "word": "Tell"
+        },
+        {
+          "startTime": 87602,
+          "endTime": 87856,
+          "word": "'em"
+        },
+        {
+          "startTime": 87856,
+          "endTime": 88156,
+          "word": "bring"
+        },
+        {
+          "startTime": 88156,
+          "endTime": 88694,
+          "word": "another"
+        },
+        {
+          "startTime": 88694,
+          "endTime": 88945,
+          "word": "round,"
+        },
+        {
+          "startTime": 88945,
+          "endTime": 89158,
+          "word": "we"
+        },
+        {
+          "startTime": 89158,
+          "endTime": 89408,
+          "word": "need"
+        },
+        {
+          "startTime": 89408,
+          "endTime": 89735,
+          "word": "plenty"
+        },
+        {
+          "startTime": 89735,
+          "endTime": 90007,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 90080,
+      "endTime": 93086,
+      "text": "Two steppin' on the table, she don't need a dance floor",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90086,
+          "endTime": 90309,
+          "word": "Two"
+        },
+        {
+          "startTime": 90309,
+          "endTime": 90892,
+          "word": "steppin'"
+        },
+        {
+          "startTime": 90892,
+          "endTime": 91043,
+          "word": "on"
+        },
+        {
+          "startTime": 91043,
+          "endTime": 91213,
+          "word": "the"
+        },
+        {
+          "startTime": 91213,
+          "endTime": 91539,
+          "word": "table,"
+        },
+        {
+          "startTime": 91539,
+          "endTime": 91701,
+          "word": "she"
+        },
+        {
+          "startTime": 91701,
+          "endTime": 91990,
+          "word": "don't"
+        },
+        {
+          "startTime": 92021,
+          "endTime": 92213,
+          "word": "need"
+        },
+        {
+          "startTime": 92213,
+          "endTime": 92358,
+          "word": "a"
+        },
+        {
+          "startTime": 92358,
+          "endTime": 92715,
+          "word": "dance"
+        },
+        {
+          "startTime": 92715,
+          "endTime": 93086,
+          "word": "floor"
+        }
+      ]
+    },
+    {
+      "time": 93440,
+      "endTime": 95688,
+      "text": "Oh my, good Lord",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93440,
+          "endTime": 93906,
+          "word": "Oh"
+        },
+        {
+          "startTime": 93906,
+          "endTime": 94390,
+          "word": "my,"
+        },
+        {
+          "startTime": 94904,
+          "endTime": 95387,
+          "word": "good"
+        },
+        {
+          "startTime": 95387,
+          "endTime": 95688,
+          "word": "Lord"
+        }
+      ]
+    },
+    {
+      "time": 96000,
+      "endTime": 98644,
+      "text": "Someone pour me up a double shot of whiskey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 96002,
+          "endTime": 96490,
+          "word": "Someone"
+        },
+        {
+          "startTime": 96490,
+          "endTime": 96679,
+          "word": "pour"
+        },
+        {
+          "startTime": 96679,
+          "endTime": 96948,
+          "word": "me"
+        },
+        {
+          "startTime": 96948,
+          "endTime": 97121,
+          "word": "up"
+        },
+        {
+          "startTime": 97121,
+          "endTime": 97233,
+          "word": "a"
+        },
+        {
+          "startTime": 97233,
+          "endTime": 97488,
+          "word": "double"
+        },
+        {
+          "startTime": 97488,
+          "endTime": 97741,
+          "word": "shot"
+        },
+        {
+          "startTime": 97741,
+          "endTime": 97983,
+          "word": "of"
+        },
+        {
+          "startTime": 97983,
+          "endTime": 98644,
+          "word": "whiskey"
+        }
+      ]
+    },
+    {
+      "time": 96000,
+      "endTime": 99090,
+      "text": "(Double shot of whiskey)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 97860,
+          "endTime": 98239,
+          "word": "(Double"
+        },
+        {
+          "startTime": 98239,
+          "endTime": 98442,
+          "word": "shot"
+        },
+        {
+          "startTime": 98442,
+          "endTime": 98646,
+          "word": "of"
+        },
+        {
+          "startTime": 98646,
+          "endTime": 99090,
+          "word": "whiskey)"
+        }
+      ]
+    },
+    {
+      "time": 98970,
+      "endTime": 101669,
+      "text": "They know me and Jack Daniel's got a history",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98970,
+          "endTime": 99240,
+          "word": "They"
+        },
+        {
+          "startTime": 99240,
+          "endTime": 99389,
+          "word": "know"
+        },
+        {
+          "startTime": 99389,
+          "endTime": 99582,
+          "word": "me"
+        },
+        {
+          "startTime": 99582,
+          "endTime": 99770,
+          "word": "and"
+        },
+        {
+          "startTime": 99770,
+          "endTime": 100140,
+          "word": "Jack"
+        },
+        {
+          "startTime": 100140,
+          "endTime": 100532,
+          "word": "Daniel's"
+        },
+        {
+          "startTime": 100532,
+          "endTime": 100728,
+          "word": "got"
+        },
+        {
+          "startTime": 100728,
+          "endTime": 100923,
+          "word": "a"
+        },
+        {
+          "startTime": 100923,
+          "endTime": 101669,
+          "word": "history"
+        }
+      ]
+    },
+    {
+      "time": 98970,
+      "endTime": 101904,
+      "text": "(We go way back)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 100839,
+          "endTime": 101006,
+          "word": "(We"
+        },
+        {
+          "startTime": 101006,
+          "endTime": 101173,
+          "word": "go"
+        },
+        {
+          "startTime": 101173,
+          "endTime": 101669,
+          "word": "way"
+        },
+        {
+          "startTime": 101669,
+          "endTime": 101904,
+          "word": "back)"
+        }
+      ]
+    },
+    {
+      "time": 101900,
+      "endTime": 104569,
+      "text": "There's a party downtown near 5th Street",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101904,
+          "endTime": 102264,
+          "word": "There's"
+        },
+        {
+          "startTime": 102264,
+          "endTime": 102412,
+          "word": "a"
+        },
+        {
+          "startTime": 102412,
+          "endTime": 102799,
+          "word": "party"
+        },
+        {
+          "startTime": 102799,
+          "endTime": 103573,
+          "word": "downtown"
+        },
+        {
+          "startTime": 103573,
+          "endTime": 103808,
+          "word": "near"
+        },
+        {
+          "startTime": 103808,
+          "endTime": 104189,
+          "word": "5th"
+        },
+        {
+          "startTime": 104189,
+          "endTime": 104569,
+          "word": "Street"
+        }
+      ]
+    },
+    {
+      "time": 101900,
+      "endTime": 104888,
+      "text": "(Downtown)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 104121,
+          "endTime": 104888,
+          "word": "(Downtown)"
+        }
+      ]
+    },
+    {
+      "time": 104880,
+      "endTime": 107443,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104888,
+          "endTime": 105747,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 105747,
+          "endTime": 105870,
+          "word": "at"
+        },
+        {
+          "startTime": 105870,
+          "endTime": 106039,
+          "word": "the"
+        },
+        {
+          "startTime": 106039,
+          "endTime": 106485,
+          "word": "bar"
+        },
+        {
+          "startTime": 106485,
+          "endTime": 106818,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 106818,
+          "endTime": 107443,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 110830,
+      "endTime": 113384,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 110830,
+          "endTime": 111690,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 111690,
+          "endTime": 111812,
+          "word": "at"
+        },
+        {
+          "startTime": 111812,
+          "endTime": 111982,
+          "word": "the"
+        },
+        {
+          "startTime": 111982,
+          "endTime": 112348,
+          "word": "bar"
+        },
+        {
+          "startTime": 112348,
+          "endTime": 112759,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 112759,
+          "endTime": 113384,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 116700,
+      "endTime": 119253,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116708,
+          "endTime": 117558,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 117558,
+          "endTime": 117680,
+          "word": "at"
+        },
+        {
+          "startTime": 117680,
+          "endTime": 117850,
+          "word": "the"
+        },
+        {
+          "startTime": 117850,
+          "endTime": 118204,
+          "word": "bar"
+        },
+        {
+          "startTime": 118295,
+          "endTime": 118628,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 118628,
+          "endTime": 119253,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 119340,
+      "endTime": 122751,
+      "text": "One, here comes the two to the three to the four",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 119348,
+          "endTime": 119882,
+          "word": "One,"
+        },
+        {
+          "startTime": 120225,
+          "endTime": 120475,
+          "word": "here"
+        },
+        {
+          "startTime": 120475,
+          "endTime": 120725,
+          "word": "comes"
+        },
+        {
+          "startTime": 120725,
+          "endTime": 120884,
+          "word": "the"
+        },
+        {
+          "startTime": 120884,
+          "endTime": 121130,
+          "word": "two"
+        },
+        {
+          "startTime": 121130,
+          "endTime": 121344,
+          "word": "to"
+        },
+        {
+          "startTime": 121344,
+          "endTime": 121540,
+          "word": "the"
+        },
+        {
+          "startTime": 121540,
+          "endTime": 121909,
+          "word": "three"
+        },
+        {
+          "startTime": 121909,
+          "endTime": 122117,
+          "word": "to"
+        },
+        {
+          "startTime": 122117,
+          "endTime": 122356,
+          "word": "the"
+        },
+        {
+          "startTime": 122356,
+          "endTime": 122751,
+          "word": "four"
+        }
+      ]
+    },
+    {
+      "time": 123030,
+      "endTime": 125705,
+      "text": "When it's last call and they kick us out the door",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123030,
+          "endTime": 123316,
+          "word": "When"
+        },
+        {
+          "startTime": 123316,
+          "endTime": 123533,
+          "word": "it's"
+        },
+        {
+          "startTime": 123533,
+          "endTime": 123831,
+          "word": "last"
+        },
+        {
+          "startTime": 123831,
+          "endTime": 124258,
+          "word": "call"
+        },
+        {
+          "startTime": 124258,
+          "endTime": 124449,
+          "word": "and"
+        },
+        {
+          "startTime": 124449,
+          "endTime": 124609,
+          "word": "they"
+        },
+        {
+          "startTime": 124609,
+          "endTime": 124800,
+          "word": "kick"
+        },
+        {
+          "startTime": 124800,
+          "endTime": 125005,
+          "word": "us"
+        },
+        {
+          "startTime": 125005,
+          "endTime": 125168,
+          "word": "out"
+        },
+        {
+          "startTime": 125168,
+          "endTime": 125356,
+          "word": "the"
+        },
+        {
+          "startTime": 125356,
+          "endTime": 125705,
+          "word": "door"
+        }
+      ]
+    },
+    {
+      "time": 125840,
+      "endTime": 128616,
+      "text": "It's gettin' kinda late, but the ladies want some more",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125848,
+          "endTime": 126107,
+          "word": "It's"
+        },
+        {
+          "startTime": 126107,
+          "endTime": 126470,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 126470,
+          "endTime": 126868,
+          "word": "kinda"
+        },
+        {
+          "startTime": 126868,
+          "endTime": 127249,
+          "word": "late,"
+        },
+        {
+          "startTime": 127249,
+          "endTime": 127404,
+          "word": "but"
+        },
+        {
+          "startTime": 127404,
+          "endTime": 127624,
+          "word": "the"
+        },
+        {
+          "startTime": 127624,
+          "endTime": 127928,
+          "word": "ladies"
+        },
+        {
+          "startTime": 127928,
+          "endTime": 128122,
+          "word": "want"
+        },
+        {
+          "startTime": 128122,
+          "endTime": 128390,
+          "word": "some"
+        },
+        {
+          "startTime": 128390,
+          "endTime": 128616,
+          "word": "more"
+        }
+      ]
+    },
+    {
+      "time": 128980,
+      "endTime": 131346,
+      "text": "Oh my, good Lord",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128981,
+          "endTime": 129347,
+          "word": "Oh"
+        },
+        {
+          "startTime": 129347,
+          "endTime": 129965,
+          "word": "my,"
+        },
+        {
+          "startTime": 130483,
+          "endTime": 130851,
+          "word": "good"
+        },
+        {
+          "startTime": 130851,
+          "endTime": 131346,
+          "word": "Lord"
+        }
+      ]
+    },
+    {
+      "time": 128980,
+      "endTime": 132989,
+      "text": "(Tell 'em drinks on me)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 131528,
+          "endTime": 131730,
+          "word": "(Tell"
+        },
+        {
+          "startTime": 131730,
+          "endTime": 131973,
+          "word": "'em"
+        },
+        {
+          "startTime": 131973,
+          "endTime": 132390,
+          "word": "drinks"
+        },
+        {
+          "startTime": 132390,
+          "endTime": 132652,
+          "word": "on"
+        },
+        {
+          "startTime": 132652,
+          "endTime": 132989,
+          "word": "me)"
+        }
+      ]
+    },
+    {
+      "time": 132980,
+      "endTime": 135672,
+      "text": "Someone pour me up a double shot of whiskey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 132989,
+          "endTime": 133515,
+          "word": "Someone"
+        },
+        {
+          "startTime": 133515,
+          "endTime": 133706,
+          "word": "pour"
+        },
+        {
+          "startTime": 133706,
+          "endTime": 133926,
+          "word": "me"
+        },
+        {
+          "startTime": 133926,
+          "endTime": 134098,
+          "word": "up"
+        },
+        {
+          "startTime": 134098,
+          "endTime": 134277,
+          "word": "a"
+        },
+        {
+          "startTime": 134277,
+          "endTime": 134527,
+          "word": "double"
+        },
+        {
+          "startTime": 134527,
+          "endTime": 134819,
+          "word": "shot"
+        },
+        {
+          "startTime": 134819,
+          "endTime": 135035,
+          "word": "of"
+        },
+        {
+          "startTime": 135035,
+          "endTime": 135672,
+          "word": "whiskey"
+        }
+      ]
+    },
+    {
+      "time": 132980,
+      "endTime": 136083,
+      "text": "(Double shot of whiskey)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 134893,
+          "endTime": 135300,
+          "word": "(Double"
+        },
+        {
+          "startTime": 135300,
+          "endTime": 135500,
+          "word": "shot"
+        },
+        {
+          "startTime": 135500,
+          "endTime": 135676,
+          "word": "of"
+        },
+        {
+          "startTime": 135676,
+          "endTime": 136083,
+          "word": "whiskey)"
+        }
+      ]
+    },
+    {
+      "time": 135970,
+      "endTime": 138690,
+      "text": "They know me and Jack Daniel's got a history",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 135972,
+          "endTime": 136273,
+          "word": "They"
+        },
+        {
+          "startTime": 136273,
+          "endTime": 136546,
+          "word": "know"
+        },
+        {
+          "startTime": 136546,
+          "endTime": 136720,
+          "word": "me"
+        },
+        {
+          "startTime": 136720,
+          "endTime": 136875,
+          "word": "and"
+        },
+        {
+          "startTime": 136875,
+          "endTime": 137139,
+          "word": "Jack"
+        },
+        {
+          "startTime": 137139,
+          "endTime": 137480,
+          "word": "Daniel's"
+        },
+        {
+          "startTime": 137480,
+          "endTime": 137682,
+          "word": "got"
+        },
+        {
+          "startTime": 137682,
+          "endTime": 137962,
+          "word": "a"
+        },
+        {
+          "startTime": 137962,
+          "endTime": 138690,
+          "word": "history"
+        }
+      ]
+    },
+    {
+      "time": 135970,
+      "endTime": 138946,
+      "text": "(Way back)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 138157,
+          "endTime": 138581,
+          "word": "(Way"
+        },
+        {
+          "startTime": 138581,
+          "endTime": 138946,
+          "word": "back)"
+        }
+      ]
+    },
+    {
+      "time": 138940,
+      "endTime": 141557,
+      "text": "There's a party downtown near 5th Street",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 138946,
+          "endTime": 139206,
+          "word": "There's"
+        },
+        {
+          "startTime": 139206,
+          "endTime": 139426,
+          "word": "a"
+        },
+        {
+          "startTime": 139426,
+          "endTime": 139814,
+          "word": "party"
+        },
+        {
+          "startTime": 139832,
+          "endTime": 140579,
+          "word": "downtown"
+        },
+        {
+          "startTime": 140579,
+          "endTime": 140800,
+          "word": "near"
+        },
+        {
+          "startTime": 140800,
+          "endTime": 141249,
+          "word": "5th"
+        },
+        {
+          "startTime": 141249,
+          "endTime": 141557,
+          "word": "Street"
+        }
+      ]
+    },
+    {
+      "time": 138940,
+      "endTime": 141922,
+      "text": "(C'mon!)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 141168,
+          "endTime": 141922,
+          "word": "(C'mon!)"
+        }
+      ]
+    },
+    {
+      "time": 141920,
+      "endTime": 144477,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 141922,
+          "endTime": 142749,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 142768,
+          "endTime": 142904,
+          "word": "at"
+        },
+        {
+          "startTime": 142904,
+          "endTime": 143074,
+          "word": "the"
+        },
+        {
+          "startTime": 143074,
+          "endTime": 143515,
+          "word": "bar"
+        },
+        {
+          "startTime": 143520,
+          "endTime": 143883,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 143883,
+          "endTime": 144477,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 144770,
+      "endTime": 147522,
+      "text": "Someone pour me up a double shot of whiskey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144773,
+          "endTime": 145329,
+          "word": "Someone"
+        },
+        {
+          "startTime": 145329,
+          "endTime": 145579,
+          "word": "pour"
+        },
+        {
+          "startTime": 145579,
+          "endTime": 145764,
+          "word": "me"
+        },
+        {
+          "startTime": 145764,
+          "endTime": 145871,
+          "word": "up"
+        },
+        {
+          "startTime": 145871,
+          "endTime": 146041,
+          "word": "a"
+        },
+        {
+          "startTime": 146041,
+          "endTime": 146350,
+          "word": "double"
+        },
+        {
+          "startTime": 146350,
+          "endTime": 146620,
+          "word": "shot"
+        },
+        {
+          "startTime": 146620,
+          "endTime": 146852,
+          "word": "of"
+        },
+        {
+          "startTime": 146852,
+          "endTime": 147522,
+          "word": "whiskey"
+        }
+      ]
+    },
+    {
+      "time": 144770,
+      "endTime": 147952,
+      "text": "(Double shot of whiskey)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 146720,
+          "endTime": 147100,
+          "word": "(Double"
+        },
+        {
+          "startTime": 147100,
+          "endTime": 147350,
+          "word": "shot"
+        },
+        {
+          "startTime": 147350,
+          "endTime": 147508,
+          "word": "of"
+        },
+        {
+          "startTime": 147508,
+          "endTime": 147952,
+          "word": "whiskey)"
+        }
+      ]
+    },
+    {
+      "time": 147820,
+      "endTime": 150456,
+      "text": "They know me and Jack Daniel's got a history",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147822,
+          "endTime": 148079,
+          "word": "They"
+        },
+        {
+          "startTime": 148079,
+          "endTime": 148301,
+          "word": "know"
+        },
+        {
+          "startTime": 148301,
+          "endTime": 148459,
+          "word": "me"
+        },
+        {
+          "startTime": 148459,
+          "endTime": 148690,
+          "word": "and"
+        },
+        {
+          "startTime": 148690,
+          "endTime": 149033,
+          "word": "Jack"
+        },
+        {
+          "startTime": 149033,
+          "endTime": 149407,
+          "word": "Daniel's"
+        },
+        {
+          "startTime": 149407,
+          "endTime": 149639,
+          "word": "got"
+        },
+        {
+          "startTime": 149639,
+          "endTime": 149840,
+          "word": "a"
+        },
+        {
+          "startTime": 149840,
+          "endTime": 150456,
+          "word": "history"
+        }
+      ]
+    },
+    {
+      "time": 147820,
+      "endTime": 150740,
+      "text": "(It's Jack D)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 149896,
+          "endTime": 150173,
+          "word": "(It's"
+        },
+        {
+          "startTime": 150173,
+          "endTime": 150542,
+          "word": "Jack"
+        },
+        {
+          "startTime": 150542,
+          "endTime": 150740,
+          "word": "D)"
+        }
+      ]
+    },
+    {
+      "time": 150740,
+      "endTime": 153373,
+      "text": "At the bottom of a bottle, gon' miss me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 150740,
+          "endTime": 151001,
+          "word": "At"
+        },
+        {
+          "startTime": 151001,
+          "endTime": 151270,
+          "word": "the"
+        },
+        {
+          "startTime": 151270,
+          "endTime": 151715,
+          "word": "bottom"
+        },
+        {
+          "startTime": 151719,
+          "endTime": 151915,
+          "word": "of"
+        },
+        {
+          "startTime": 151915,
+          "endTime": 152047,
+          "word": "a"
+        },
+        {
+          "startTime": 152047,
+          "endTime": 152478,
+          "word": "bottle,"
+        },
+        {
+          "startTime": 152480,
+          "endTime": 152784,
+          "word": "gon'"
+        },
+        {
+          "startTime": 152784,
+          "endTime": 153117,
+          "word": "miss"
+        },
+        {
+          "startTime": 153117,
+          "endTime": 153373,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 150740,
+      "endTime": 153961,
+      "text": "(Baby, don't miss me)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 152635,
+          "endTime": 153124,
+          "word": "(Baby,"
+        },
+        {
+          "startTime": 153124,
+          "endTime": 153520,
+          "word": "don't"
+        },
+        {
+          "startTime": 153520,
+          "endTime": 153771,
+          "word": "miss"
+        },
+        {
+          "startTime": 153771,
+          "endTime": 153961,
+          "word": "me)"
+        }
+      ]
+    },
+    {
+      "time": 153770,
+      "endTime": 156328,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153773,
+          "endTime": 154633,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 154633,
+          "endTime": 154755,
+          "word": "at"
+        },
+        {
+          "startTime": 154755,
+          "endTime": 154966,
+          "word": "the"
+        },
+        {
+          "startTime": 154966,
+          "endTime": 155373,
+          "word": "bar"
+        },
+        {
+          "startTime": 155373,
+          "endTime": 155703,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 155703,
+          "endTime": 156328,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 153770,
+      "endTime": 157019,
+      "text": "(Bar gettin' tipsy)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 155515,
+          "endTime": 155961,
+          "word": "(Bar"
+        },
+        {
+          "startTime": 155961,
+          "endTime": 156329,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 156329,
+          "endTime": 157019,
+          "word": "tipsy)"
+        }
+      ]
+    },
+    {
+      "time": 159710,
+      "endTime": 162270,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159715,
+          "endTime": 160575,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 160575,
+          "endTime": 160697,
+          "word": "at"
+        },
+        {
+          "startTime": 160697,
+          "endTime": 160867,
+          "word": "the"
+        },
+        {
+          "startTime": 160867,
+          "endTime": 161319,
+          "word": "bar"
+        },
+        {
+          "startTime": 161319,
+          "endTime": 161645,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 161645,
+          "endTime": 162270,
+          "word": "tipsy"
+        }
+      ]
+    },
+    {
+      "time": 165620,
+      "endTime": 168179,
+      "text": "Everybody at the bar gettin' tipsy",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165624,
+          "endTime": 166432,
+          "word": "Everybody"
+        },
+        {
+          "startTime": 166432,
+          "endTime": 166640,
+          "word": "at"
+        },
+        {
+          "startTime": 166640,
+          "endTime": 166839,
+          "word": "the"
+        },
+        {
+          "startTime": 166839,
+          "endTime": 167221,
+          "word": "bar"
+        },
+        {
+          "startTime": 167222,
+          "endTime": 167548,
+          "word": "gettin'"
+        },
+        {
+          "startTime": 167548,
+          "endTime": 168179,
+          "word": "tipsy"
+        }
+      ]
+    }
+  ]
+}
