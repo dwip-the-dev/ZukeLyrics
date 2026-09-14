@@ -1,0 +1,954 @@
+{
+  "videoId": "ltIvlvgEmkA",
+  "title": "Ek Pyar Ka Naghma Hai",
+  "artist": "Mukesh, Lata Mangeshkar",
+  "duration": 380,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:15.000\" end=\"00:32.650\">\n        <span begin=\"00:15.000\" end=\"00:16.260\">ek <\/span>\n        <span begin=\"00:16.260\" end=\"00:17.835\">pyaar <\/span>\n        <span begin=\"00:17.835\" end=\"00:19.200\">kaa <\/span>\n        <span begin=\"00:19.200\" end=\"00:21.931\">nagmaa <\/span>\n        <span begin=\"00:21.931\" end=\"00:23.296\">hai <\/span>\n        <span begin=\"00:23.296\" end=\"00:26.027\">maujon <\/span>\n        <span begin=\"00:26.027\" end=\"00:27.392\">kii <\/span>\n        <span begin=\"00:27.392\" end=\"00:31.279\">ravaani <\/span>\n        <span begin=\"00:31.279\" end=\"00:32.650\">hai<\/span>\n      <\/p>\n      <p begin=\"00:32.650\" end=\"00:53.980\">\n        <span begin=\"00:32.650\" end=\"00:36.518\">zindagi <\/span>\n        <span begin=\"00:36.518\" end=\"00:37.772\">or <\/span>\n        <span begin=\"00:37.772\" end=\"00:39.235\">kuch <\/span>\n        <span begin=\"00:39.235\" end=\"00:40.594\">bhi <\/span>\n        <span begin=\"00:40.594\" end=\"00:43.207\">nahin <\/span>\n        <span begin=\"00:43.207\" end=\"00:48.853\">teri-meri <\/span>\n        <span begin=\"00:48.853\" end=\"00:52.617\">kahani <\/span>\n        <span begin=\"00:52.617\" end=\"00:53.980\">hai<\/span>\n      <\/p>\n      <p begin=\"00:53.980\" end=\"01:11.630\">\n        <span begin=\"00:53.980\" end=\"00:55.240\">ek <\/span>\n        <span begin=\"00:55.240\" end=\"00:56.815\">pyaar <\/span>\n        <span begin=\"00:56.815\" end=\"00:58.180\">kaa <\/span>\n        <span begin=\"00:58.180\" end=\"01:00.911\">nagmaa <\/span>\n        <span begin=\"01:00.911\" end=\"01:02.276\">hai <\/span>\n        <span begin=\"01:02.276\" end=\"01:05.007\">maujon <\/span>\n        <span begin=\"01:05.007\" end=\"01:06.372\">kii <\/span>\n        <span begin=\"01:06.372\" end=\"01:10.259\">ravaani <\/span>\n        <span begin=\"01:10.259\" end=\"01:11.630\">hai<\/span>\n      <\/p>\n      <p begin=\"01:11.630\" end=\"01:32.970\">\n        <span begin=\"01:11.630\" end=\"01:15.500\">zindagi <\/span>\n        <span begin=\"01:15.500\" end=\"01:16.755\">or <\/span>\n        <span begin=\"01:16.755\" end=\"01:18.219\">kuch <\/span>\n        <span begin=\"01:18.219\" end=\"01:19.578\">bhi <\/span>\n        <span begin=\"01:19.578\" end=\"01:22.193\">nahin <\/span>\n        <span begin=\"01:22.193\" end=\"01:27.841\">teri-meri <\/span>\n        <span begin=\"01:27.841\" end=\"01:31.606\">kahani <\/span>\n        <span begin=\"01:31.606\" end=\"01:32.970\">hai<\/span>\n      <\/p>\n      <p begin=\"01:32.970\" end=\"01:50.540\">\n        <span begin=\"01:32.970\" end=\"01:34.536\">kuch <\/span>\n        <span begin=\"01:34.536\" end=\"01:35.990\">paa <\/span>\n        <span begin=\"01:35.990\" end=\"01:37.444\">kar <\/span>\n        <span begin=\"01:37.444\" end=\"01:40.241\">khona <\/span>\n        <span begin=\"01:40.241\" end=\"01:41.695\">hai <\/span>\n        <span begin=\"01:41.695\" end=\"01:43.261\">kuch <\/span>\n        <span begin=\"01:43.261\" end=\"01:44.715\">kho <\/span>\n        <span begin=\"01:44.715\" end=\"01:46.169\">kar <\/span>\n        <span begin=\"01:46.169\" end=\"01:49.078\">paanaa <\/span>\n        <span begin=\"01:49.078\" end=\"01:50.540\">hai<\/span>\n      <\/p>\n      <p begin=\"01:50.540\" end=\"02:05.470\">\n        <span begin=\"01:50.540\" end=\"01:53.028\">jivan <\/span>\n        <span begin=\"01:53.028\" end=\"01:54.321\">kaa <\/span>\n        <span begin=\"01:54.321\" end=\"01:56.908\">matlab <\/span>\n        <span begin=\"01:56.908\" end=\"01:58.102\">to <\/span>\n        <span begin=\"01:58.102\" end=\"02:00.490\">aana <\/span>\n        <span begin=\"02:00.490\" end=\"02:01.684\">or <\/span>\n        <span begin=\"02:01.684\" end=\"02:04.172\">janaa <\/span>\n        <span begin=\"02:04.172\" end=\"02:05.470\">hai<\/span>\n      <\/p>\n      <p begin=\"02:05.470\" end=\"02:23.040\">\n        <span begin=\"02:05.470\" end=\"02:07.036\">kuch <\/span>\n        <span begin=\"02:07.036\" end=\"02:08.490\">paa <\/span>\n        <span begin=\"02:08.490\" end=\"02:09.944\">kar <\/span>\n        <span begin=\"02:09.944\" end=\"02:12.741\">khona <\/span>\n        <span begin=\"02:12.741\" end=\"02:14.195\">hai <\/span>\n        <span begin=\"02:14.195\" end=\"02:15.761\">kuch <\/span>\n        <span begin=\"02:15.761\" end=\"02:17.215\">kho <\/span>\n        <span begin=\"02:17.215\" end=\"02:18.669\">kar <\/span>\n        <span begin=\"02:18.669\" end=\"02:21.578\">paanaa <\/span>\n        <span begin=\"02:21.578\" end=\"02:23.040\">hai<\/span>\n      <\/p>\n      <p begin=\"02:23.040\" end=\"02:37.980\">\n        <span begin=\"02:23.040\" end=\"02:25.530\">jivan <\/span>\n        <span begin=\"02:25.530\" end=\"02:26.824\">kaa <\/span>\n        <span begin=\"02:26.824\" end=\"02:29.413\">matlab <\/span>\n        <span begin=\"02:29.413\" end=\"02:30.608\">to <\/span>\n        <span begin=\"02:30.608\" end=\"02:32.998\">aana <\/span>\n        <span begin=\"02:32.998\" end=\"02:34.193\">or <\/span>\n        <span begin=\"02:34.193\" end=\"02:36.683\">janaa <\/span>\n        <span begin=\"02:36.683\" end=\"02:37.980\">hai<\/span>\n      <\/p>\n      <p begin=\"02:37.980\" end=\"02:52.910\">\n        <span begin=\"02:37.980\" end=\"02:39.174\">do <\/span>\n        <span begin=\"02:39.174\" end=\"02:40.467\">pal <\/span>\n        <span begin=\"02:40.467\" end=\"02:41.661\">ke <\/span>\n        <span begin=\"02:41.661\" end=\"02:44.149\">jivan <\/span>\n        <span begin=\"02:44.149\" end=\"02:45.343\">se <\/span>\n        <span begin=\"02:45.343\" end=\"02:46.537\">ek <\/span>\n        <span begin=\"02:46.537\" end=\"02:47.830\">umr <\/span>\n        <span begin=\"02:47.830\" end=\"02:51.612\">churaani <\/span>\n        <span begin=\"02:51.612\" end=\"02:52.910\">hai<\/span>\n      <\/p>\n      <p begin=\"02:52.910\" end=\"03:14.240\">\n        <span begin=\"02:52.910\" end=\"02:56.778\">zindagi <\/span>\n        <span begin=\"02:56.778\" end=\"02:58.032\">or <\/span>\n        <span begin=\"02:58.032\" end=\"02:59.495\">kuch <\/span>\n        <span begin=\"02:59.495\" end=\"03:00.854\">bhi <\/span>\n        <span begin=\"03:00.854\" end=\"03:03.467\">nahin <\/span>\n        <span begin=\"03:03.467\" end=\"03:09.113\">teri-meri <\/span>\n        <span begin=\"03:09.113\" end=\"03:12.877\">kahani <\/span>\n        <span begin=\"03:12.877\" end=\"03:14.240\">hai<\/span>\n      <\/p>\n      <p begin=\"03:14.240\" end=\"03:31.890\">\n        <span begin=\"03:14.240\" end=\"03:15.500\">ek <\/span>\n        <span begin=\"03:15.500\" end=\"03:17.075\">pyaar <\/span>\n        <span begin=\"03:17.075\" end=\"03:18.440\">kaa <\/span>\n        <span begin=\"03:18.440\" end=\"03:21.171\">nagmaa <\/span>\n        <span begin=\"03:21.171\" end=\"03:22.536\">hai <\/span>\n        <span begin=\"03:22.536\" end=\"03:25.267\">maujon <\/span>\n        <span begin=\"03:25.267\" end=\"03:26.632\">kii <\/span>\n        <span begin=\"03:26.632\" end=\"03:30.519\">ravaani <\/span>\n        <span begin=\"03:30.519\" end=\"03:31.890\">hai<\/span>\n      <\/p>\n      <p begin=\"03:31.890\" end=\"03:53.230\">\n        <span begin=\"03:31.890\" end=\"03:35.760\">zindagi <\/span>\n        <span begin=\"03:35.760\" end=\"03:37.015\">or <\/span>\n        <span begin=\"03:37.015\" end=\"03:38.479\">kuch <\/span>\n        <span begin=\"03:38.479\" end=\"03:39.838\">bhi <\/span>\n        <span begin=\"03:39.838\" end=\"03:42.453\">nahin <\/span>\n        <span begin=\"03:42.453\" end=\"03:48.101\">teri-meri <\/span>\n        <span begin=\"03:48.101\" end=\"03:51.866\">kahani <\/span>\n        <span begin=\"03:51.866\" end=\"03:53.230\">hai<\/span>\n      <\/p>\n      <p begin=\"03:53.230\" end=\"04:11.030\">\n        <span begin=\"03:53.230\" end=\"03:54.486\">tu <\/span>\n        <span begin=\"03:54.486\" end=\"03:55.951\">dhar <\/span>\n        <span begin=\"03:55.951\" end=\"03:57.312\">hai <\/span>\n        <span begin=\"03:57.312\" end=\"04:00.243\">nadiyaan <\/span>\n        <span begin=\"04:00.243\" end=\"04:01.604\">kii <\/span>\n        <span begin=\"04:01.604\" end=\"04:03.069\">main <\/span>\n        <span begin=\"04:03.069\" end=\"04:05.581\">tera <\/span>\n        <span begin=\"04:05.581\" end=\"04:09.559\">kinaaraa <\/span>\n        <span begin=\"04:09.559\" end=\"04:11.030\">hoon<\/span>\n      <\/p>\n      <p begin=\"04:11.030\" end=\"04:28.530\">\n        <span begin=\"04:11.030\" end=\"04:12.223\">tu <\/span>\n        <span begin=\"04:12.223\" end=\"04:14.708\">meraa <\/span>\n        <span begin=\"04:14.708\" end=\"04:18.386\">sahaara <\/span>\n        <span begin=\"04:18.386\" end=\"04:19.678\">hai <\/span>\n        <span begin=\"04:19.678\" end=\"04:21.070\">main <\/span>\n        <span begin=\"04:21.070\" end=\"04:23.456\">tera <\/span>\n        <span begin=\"04:23.456\" end=\"04:27.134\">sahaara <\/span>\n        <span begin=\"04:27.134\" end=\"04:28.530\">hoon<\/span>\n      <\/p>\n      <p begin=\"04:28.530\" end=\"04:46.330\">\n        <span begin=\"04:28.530\" end=\"04:31.357\">aankhon <\/span>\n        <span begin=\"04:31.357\" end=\"04:32.822\">main <\/span>\n        <span begin=\"04:32.822\" end=\"04:36.800\">samandar <\/span>\n        <span begin=\"04:36.800\" end=\"04:38.161\">hai <\/span>\n        <span begin=\"04:38.161\" end=\"04:41.092\">aashaaon <\/span>\n        <span begin=\"04:41.092\" end=\"04:42.453\">kaa <\/span>\n        <span begin=\"04:42.453\" end=\"04:44.965\">pani <\/span>\n        <span begin=\"04:44.965\" end=\"04:46.330\">hai<\/span>\n      <\/p>\n      <p begin=\"04:46.330\" end=\"05:07.670\">\n        <span begin=\"04:46.330\" end=\"04:50.200\">zindagi <\/span>\n        <span begin=\"04:50.200\" end=\"04:51.455\">or <\/span>\n        <span begin=\"04:51.455\" end=\"04:52.919\">kuch <\/span>\n        <span begin=\"04:52.919\" end=\"04:54.278\">bhi <\/span>\n        <span begin=\"04:54.278\" end=\"04:56.893\">nahin <\/span>\n        <span begin=\"04:56.893\" end=\"05:02.541\">teri-meri <\/span>\n        <span begin=\"05:02.541\" end=\"05:06.306\">kahani <\/span>\n        <span begin=\"05:06.306\" end=\"05:07.670\">hai<\/span>\n      <\/p>\n      <p begin=\"05:07.670\" end=\"05:25.320\">\n        <span begin=\"05:07.670\" end=\"05:08.930\">ek <\/span>\n        <span begin=\"05:08.930\" end=\"05:10.505\">pyaar <\/span>\n        <span begin=\"05:10.505\" end=\"05:11.870\">kaa <\/span>\n        <span begin=\"05:11.870\" end=\"05:14.601\">nagmaa <\/span>\n        <span begin=\"05:14.601\" end=\"05:15.966\">hai <\/span>\n        <span begin=\"05:15.966\" end=\"05:18.697\">maujon <\/span>\n        <span begin=\"05:18.697\" end=\"05:20.062\">kii <\/span>\n        <span begin=\"05:20.062\" end=\"05:23.949\">ravaani <\/span>\n        <span begin=\"05:23.949\" end=\"05:25.320\">hai<\/span>\n      <\/p>\n      <p begin=\"05:25.320\" end=\"05:46.650\">\n        <span begin=\"05:25.320\" end=\"05:29.188\">zindagi <\/span>\n        <span begin=\"05:29.188\" end=\"05:30.442\">or <\/span>\n        <span begin=\"05:30.442\" end=\"05:31.905\">kuch <\/span>\n        <span begin=\"05:31.905\" end=\"05:33.264\">bhi <\/span>\n        <span begin=\"05:33.264\" end=\"05:35.877\">nahin <\/span>\n        <span begin=\"05:35.877\" end=\"05:41.523\">teri-meri <\/span>\n        <span begin=\"05:41.523\" end=\"05:45.287\">kahani <\/span>\n        <span begin=\"05:45.287\" end=\"05:46.650\">hai<\/span>\n      <\/p>\n      <p begin=\"05:46.650\" end=\"05:51.650\">\n        <span begin=\"05:46.650\" end=\"05:47.556\">zindagi <\/span>\n        <span begin=\"05:47.556\" end=\"05:47.850\">or <\/span>\n        <span begin=\"05:47.850\" end=\"05:48.193\">kuch <\/span>\n        <span begin=\"05:48.193\" end=\"05:48.511\">bhi <\/span>\n        <span begin=\"05:48.511\" end=\"05:49.123\">nahin <\/span>\n        <span begin=\"05:49.123\" end=\"05:50.446\">teri-meri <\/span>\n        <span begin=\"05:50.446\" end=\"05:51.328\">kahani <\/span>\n        <span begin=\"05:51.328\" end=\"05:51.650\">hai<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 15000,
+      "endTime": 32650,
+      "text": "ek pyaar kaa nagmaa hai maujon kii ravaani hai",
+      "words": [
+        {
+          "startTime": 15000,
+          "endTime": 16260,
+          "word": "ek "
+        },
+        {
+          "startTime": 16260,
+          "endTime": 17835,
+          "word": "pyaar "
+        },
+        {
+          "startTime": 17835,
+          "endTime": 19200,
+          "word": "kaa "
+        },
+        {
+          "startTime": 19200,
+          "endTime": 21931,
+          "word": "nagmaa "
+        },
+        {
+          "startTime": 21931,
+          "endTime": 23296,
+          "word": "hai "
+        },
+        {
+          "startTime": 23296,
+          "endTime": 26027,
+          "word": "maujon "
+        },
+        {
+          "startTime": 26027,
+          "endTime": 27392,
+          "word": "kii "
+        },
+        {
+          "startTime": 27392,
+          "endTime": 31279,
+          "word": "ravaani "
+        },
+        {
+          "startTime": 31279,
+          "endTime": 32650,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 32650,
+      "endTime": 53980,
+      "text": "zindagi or kuch bhi nahin teri-meri kahani hai",
+      "words": [
+        {
+          "startTime": 32650,
+          "endTime": 36518,
+          "word": "zindagi "
+        },
+        {
+          "startTime": 36518,
+          "endTime": 37772,
+          "word": "or "
+        },
+        {
+          "startTime": 37772,
+          "endTime": 39235,
+          "word": "kuch "
+        },
+        {
+          "startTime": 39235,
+          "endTime": 40594,
+          "word": "bhi "
+        },
+        {
+          "startTime": 40594,
+          "endTime": 43207,
+          "word": "nahin "
+        },
+        {
+          "startTime": 43207,
+          "endTime": 48853,
+          "word": "teri-meri "
+        },
+        {
+          "startTime": 48853,
+          "endTime": 52617,
+          "word": "kahani "
+        },
+        {
+          "startTime": 52617,
+          "endTime": 53980,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 53980,
+      "endTime": 71630,
+      "text": "ek pyaar kaa nagmaa hai maujon kii ravaani hai",
+      "words": [
+        {
+          "startTime": 53980,
+          "endTime": 55240,
+          "word": "ek "
+        },
+        {
+          "startTime": 55240,
+          "endTime": 56815,
+          "word": "pyaar "
+        },
+        {
+          "startTime": 56815,
+          "endTime": 58180,
+          "word": "kaa "
+        },
+        {
+          "startTime": 58180,
+          "endTime": 60911,
+          "word": "nagmaa "
+        },
+        {
+          "startTime": 60911,
+          "endTime": 62276,
+          "word": "hai "
+        },
+        {
+          "startTime": 62276,
+          "endTime": 65007,
+          "word": "maujon "
+        },
+        {
+          "startTime": 65007,
+          "endTime": 66372,
+          "word": "kii "
+        },
+        {
+          "startTime": 66372,
+          "endTime": 70259,
+          "word": "ravaani "
+        },
+        {
+          "startTime": 70259,
+          "endTime": 71630,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 71630,
+      "endTime": 92970,
+      "text": "zindagi or kuch bhi nahin teri-meri kahani hai",
+      "words": [
+        {
+          "startTime": 71630,
+          "endTime": 75500,
+          "word": "zindagi "
+        },
+        {
+          "startTime": 75500,
+          "endTime": 76755,
+          "word": "or "
+        },
+        {
+          "startTime": 76755,
+          "endTime": 78219,
+          "word": "kuch "
+        },
+        {
+          "startTime": 78219,
+          "endTime": 79578,
+          "word": "bhi "
+        },
+        {
+          "startTime": 79578,
+          "endTime": 82193,
+          "word": "nahin "
+        },
+        {
+          "startTime": 82193,
+          "endTime": 87841,
+          "word": "teri-meri "
+        },
+        {
+          "startTime": 87841,
+          "endTime": 91606,
+          "word": "kahani "
+        },
+        {
+          "startTime": 91606,
+          "endTime": 92970,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 92970,
+      "endTime": 110540,
+      "text": "kuch paa kar khona hai kuch kho kar paanaa hai",
+      "words": [
+        {
+          "startTime": 92970,
+          "endTime": 94536,
+          "word": "kuch "
+        },
+        {
+          "startTime": 94536,
+          "endTime": 95990,
+          "word": "paa "
+        },
+        {
+          "startTime": 95990,
+          "endTime": 97444,
+          "word": "kar "
+        },
+        {
+          "startTime": 97444,
+          "endTime": 100241,
+          "word": "khona "
+        },
+        {
+          "startTime": 100241,
+          "endTime": 101695,
+          "word": "hai "
+        },
+        {
+          "startTime": 101695,
+          "endTime": 103261,
+          "word": "kuch "
+        },
+        {
+          "startTime": 103261,
+          "endTime": 104715,
+          "word": "kho "
+        },
+        {
+          "startTime": 104715,
+          "endTime": 106169,
+          "word": "kar "
+        },
+        {
+          "startTime": 106169,
+          "endTime": 109078,
+          "word": "paanaa "
+        },
+        {
+          "startTime": 109078,
+          "endTime": 110540,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 110540,
+      "endTime": 125470,
+      "text": "jivan kaa matlab to aana or janaa hai",
+      "words": [
+        {
+          "startTime": 110540,
+          "endTime": 113028,
+          "word": "jivan "
+        },
+        {
+          "startTime": 113028,
+          "endTime": 114321,
+          "word": "kaa "
+        },
+        {
+          "startTime": 114321,
+          "endTime": 116908,
+          "word": "matlab "
+        },
+        {
+          "startTime": 116908,
+          "endTime": 118102,
+          "word": "to "
+        },
+        {
+          "startTime": 118102,
+          "endTime": 120490,
+          "word": "aana "
+        },
+        {
+          "startTime": 120490,
+          "endTime": 121684,
+          "word": "or "
+        },
+        {
+          "startTime": 121684,
+          "endTime": 124172,
+          "word": "janaa "
+        },
+        {
+          "startTime": 124172,
+          "endTime": 125470,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 125470,
+      "endTime": 143040,
+      "text": "kuch paa kar khona hai kuch kho kar paanaa hai",
+      "words": [
+        {
+          "startTime": 125470,
+          "endTime": 127036,
+          "word": "kuch "
+        },
+        {
+          "startTime": 127036,
+          "endTime": 128490,
+          "word": "paa "
+        },
+        {
+          "startTime": 128490,
+          "endTime": 129944,
+          "word": "kar "
+        },
+        {
+          "startTime": 129944,
+          "endTime": 132741,
+          "word": "khona "
+        },
+        {
+          "startTime": 132741,
+          "endTime": 134195,
+          "word": "hai "
+        },
+        {
+          "startTime": 134195,
+          "endTime": 135761,
+          "word": "kuch "
+        },
+        {
+          "startTime": 135761,
+          "endTime": 137215,
+          "word": "kho "
+        },
+        {
+          "startTime": 137215,
+          "endTime": 138669,
+          "word": "kar "
+        },
+        {
+          "startTime": 138669,
+          "endTime": 141578,
+          "word": "paanaa "
+        },
+        {
+          "startTime": 141578,
+          "endTime": 143040,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 143040,
+      "endTime": 157980,
+      "text": "jivan kaa matlab to aana or janaa hai",
+      "words": [
+        {
+          "startTime": 143040,
+          "endTime": 145530,
+          "word": "jivan "
+        },
+        {
+          "startTime": 145530,
+          "endTime": 146824,
+          "word": "kaa "
+        },
+        {
+          "startTime": 146824,
+          "endTime": 149413,
+          "word": "matlab "
+        },
+        {
+          "startTime": 149413,
+          "endTime": 150608,
+          "word": "to "
+        },
+        {
+          "startTime": 150608,
+          "endTime": 152998,
+          "word": "aana "
+        },
+        {
+          "startTime": 152998,
+          "endTime": 154193,
+          "word": "or "
+        },
+        {
+          "startTime": 154193,
+          "endTime": 156683,
+          "word": "janaa "
+        },
+        {
+          "startTime": 156683,
+          "endTime": 157980,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 157980,
+      "endTime": 172910,
+      "text": "do pal ke jivan se ek umr churaani hai",
+      "words": [
+        {
+          "startTime": 157980,
+          "endTime": 159174,
+          "word": "do "
+        },
+        {
+          "startTime": 159174,
+          "endTime": 160467,
+          "word": "pal "
+        },
+        {
+          "startTime": 160467,
+          "endTime": 161661,
+          "word": "ke "
+        },
+        {
+          "startTime": 161661,
+          "endTime": 164149,
+          "word": "jivan "
+        },
+        {
+          "startTime": 164149,
+          "endTime": 165343,
+          "word": "se "
+        },
+        {
+          "startTime": 165343,
+          "endTime": 166537,
+          "word": "ek "
+        },
+        {
+          "startTime": 166537,
+          "endTime": 167830,
+          "word": "umr "
+        },
+        {
+          "startTime": 167830,
+          "endTime": 171612,
+          "word": "churaani "
+        },
+        {
+          "startTime": 171612,
+          "endTime": 172910,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 172910,
+      "endTime": 194240,
+      "text": "zindagi or kuch bhi nahin teri-meri kahani hai",
+      "words": [
+        {
+          "startTime": 172910,
+          "endTime": 176778,
+          "word": "zindagi "
+        },
+        {
+          "startTime": 176778,
+          "endTime": 178032,
+          "word": "or "
+        },
+        {
+          "startTime": 178032,
+          "endTime": 179495,
+          "word": "kuch "
+        },
+        {
+          "startTime": 179495,
+          "endTime": 180854,
+          "word": "bhi "
+        },
+        {
+          "startTime": 180854,
+          "endTime": 183467,
+          "word": "nahin "
+        },
+        {
+          "startTime": 183467,
+          "endTime": 189113,
+          "word": "teri-meri "
+        },
+        {
+          "startTime": 189113,
+          "endTime": 192877,
+          "word": "kahani "
+        },
+        {
+          "startTime": 192877,
+          "endTime": 194240,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 194240,
+      "endTime": 211890,
+      "text": "ek pyaar kaa nagmaa hai maujon kii ravaani hai",
+      "words": [
+        {
+          "startTime": 194240,
+          "endTime": 195500,
+          "word": "ek "
+        },
+        {
+          "startTime": 195500,
+          "endTime": 197075,
+          "word": "pyaar "
+        },
+        {
+          "startTime": 197075,
+          "endTime": 198440,
+          "word": "kaa "
+        },
+        {
+          "startTime": 198440,
+          "endTime": 201171,
+          "word": "nagmaa "
+        },
+        {
+          "startTime": 201171,
+          "endTime": 202536,
+          "word": "hai "
+        },
+        {
+          "startTime": 202536,
+          "endTime": 205267,
+          "word": "maujon "
+        },
+        {
+          "startTime": 205267,
+          "endTime": 206632,
+          "word": "kii "
+        },
+        {
+          "startTime": 206632,
+          "endTime": 210519,
+          "word": "ravaani "
+        },
+        {
+          "startTime": 210519,
+          "endTime": 211890,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 211890,
+      "endTime": 233230,
+      "text": "zindagi or kuch bhi nahin teri-meri kahani hai",
+      "words": [
+        {
+          "startTime": 211890,
+          "endTime": 215760,
+          "word": "zindagi "
+        },
+        {
+          "startTime": 215760,
+          "endTime": 217015,
+          "word": "or "
+        },
+        {
+          "startTime": 217015,
+          "endTime": 218479,
+          "word": "kuch "
+        },
+        {
+          "startTime": 218479,
+          "endTime": 219838,
+          "word": "bhi "
+        },
+        {
+          "startTime": 219838,
+          "endTime": 222453,
+          "word": "nahin "
+        },
+        {
+          "startTime": 222453,
+          "endTime": 228101,
+          "word": "teri-meri "
+        },
+        {
+          "startTime": 228101,
+          "endTime": 231866,
+          "word": "kahani "
+        },
+        {
+          "startTime": 231866,
+          "endTime": 233230,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 233230,
+      "endTime": 251030,
+      "text": "tu dhar hai nadiyaan kii main tera kinaaraa hoon",
+      "words": [
+        {
+          "startTime": 233230,
+          "endTime": 234486,
+          "word": "tu "
+        },
+        {
+          "startTime": 234486,
+          "endTime": 235951,
+          "word": "dhar "
+        },
+        {
+          "startTime": 235951,
+          "endTime": 237312,
+          "word": "hai "
+        },
+        {
+          "startTime": 237312,
+          "endTime": 240243,
+          "word": "nadiyaan "
+        },
+        {
+          "startTime": 240243,
+          "endTime": 241604,
+          "word": "kii "
+        },
+        {
+          "startTime": 241604,
+          "endTime": 243069,
+          "word": "main "
+        },
+        {
+          "startTime": 243069,
+          "endTime": 245581,
+          "word": "tera "
+        },
+        {
+          "startTime": 245581,
+          "endTime": 249559,
+          "word": "kinaaraa "
+        },
+        {
+          "startTime": 249559,
+          "endTime": 251030,
+          "word": "hoon"
+        }
+      ]
+    },
+    {
+      "time": 251030,
+      "endTime": 268530,
+      "text": "tu meraa sahaara hai main tera sahaara hoon",
+      "words": [
+        {
+          "startTime": 251030,
+          "endTime": 252223,
+          "word": "tu "
+        },
+        {
+          "startTime": 252223,
+          "endTime": 254708,
+          "word": "meraa "
+        },
+        {
+          "startTime": 254708,
+          "endTime": 258386,
+          "word": "sahaara "
+        },
+        {
+          "startTime": 258386,
+          "endTime": 259678,
+          "word": "hai "
+        },
+        {
+          "startTime": 259678,
+          "endTime": 261070,
+          "word": "main "
+        },
+        {
+          "startTime": 261070,
+          "endTime": 263456,
+          "word": "tera "
+        },
+        {
+          "startTime": 263456,
+          "endTime": 267134,
+          "word": "sahaara "
+        },
+        {
+          "startTime": 267134,
+          "endTime": 268530,
+          "word": "hoon"
+        }
+      ]
+    },
+    {
+      "time": 268530,
+      "endTime": 286330,
+      "text": "aankhon main samandar hai aashaaon kaa pani hai",
+      "words": [
+        {
+          "startTime": 268530,
+          "endTime": 271357,
+          "word": "aankhon "
+        },
+        {
+          "startTime": 271357,
+          "endTime": 272822,
+          "word": "main "
+        },
+        {
+          "startTime": 272822,
+          "endTime": 276800,
+          "word": "samandar "
+        },
+        {
+          "startTime": 276800,
+          "endTime": 278161,
+          "word": "hai "
+        },
+        {
+          "startTime": 278161,
+          "endTime": 281092,
+          "word": "aashaaon "
+        },
+        {
+          "startTime": 281092,
+          "endTime": 282453,
+          "word": "kaa "
+        },
+        {
+          "startTime": 282453,
+          "endTime": 284965,
+          "word": "pani "
+        },
+        {
+          "startTime": 284965,
+          "endTime": 286330,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 286330,
+      "endTime": 307670,
+      "text": "zindagi or kuch bhi nahin teri-meri kahani hai",
+      "words": [
+        {
+          "startTime": 286330,
+          "endTime": 290200,
+          "word": "zindagi "
+        },
+        {
+          "startTime": 290200,
+          "endTime": 291455,
+          "word": "or "
+        },
+        {
+          "startTime": 291455,
+          "endTime": 292919,
+          "word": "kuch "
+        },
+        {
+          "startTime": 292919,
+          "endTime": 294278,
+          "word": "bhi "
+        },
+        {
+          "startTime": 294278,
+          "endTime": 296893,
+          "word": "nahin "
+        },
+        {
+          "startTime": 296893,
+          "endTime": 302541,
+          "word": "teri-meri "
+        },
+        {
+          "startTime": 302541,
+          "endTime": 306306,
+          "word": "kahani "
+        },
+        {
+          "startTime": 306306,
+          "endTime": 307670,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 307670,
+      "endTime": 325320,
+      "text": "ek pyaar kaa nagmaa hai maujon kii ravaani hai",
+      "words": [
+        {
+          "startTime": 307670,
+          "endTime": 308930,
+          "word": "ek "
+        },
+        {
+          "startTime": 308930,
+          "endTime": 310505,
+          "word": "pyaar "
+        },
+        {
+          "startTime": 310505,
+          "endTime": 311870,
+          "word": "kaa "
+        },
+        {
+          "startTime": 311870,
+          "endTime": 314601,
+          "word": "nagmaa "
+        },
+        {
+          "startTime": 314601,
+          "endTime": 315966,
+          "word": "hai "
+        },
+        {
+          "startTime": 315966,
+          "endTime": 318697,
+          "word": "maujon "
+        },
+        {
+          "startTime": 318697,
+          "endTime": 320062,
+          "word": "kii "
+        },
+        {
+          "startTime": 320062,
+          "endTime": 323949,
+          "word": "ravaani "
+        },
+        {
+          "startTime": 323949,
+          "endTime": 325320,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 325320,
+      "endTime": 346650,
+      "text": "zindagi or kuch bhi nahin teri-meri kahani hai",
+      "words": [
+        {
+          "startTime": 325320,
+          "endTime": 329188,
+          "word": "zindagi "
+        },
+        {
+          "startTime": 329188,
+          "endTime": 330442,
+          "word": "or "
+        },
+        {
+          "startTime": 330442,
+          "endTime": 331905,
+          "word": "kuch "
+        },
+        {
+          "startTime": 331905,
+          "endTime": 333264,
+          "word": "bhi "
+        },
+        {
+          "startTime": 333264,
+          "endTime": 335877,
+          "word": "nahin "
+        },
+        {
+          "startTime": 335877,
+          "endTime": 341523,
+          "word": "teri-meri "
+        },
+        {
+          "startTime": 341523,
+          "endTime": 345287,
+          "word": "kahani "
+        },
+        {
+          "startTime": 345287,
+          "endTime": 346650,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 346650,
+      "endTime": 351650,
+      "text": "zindagi or kuch bhi nahin teri-meri kahani hai",
+      "words": [
+        {
+          "startTime": 346650,
+          "endTime": 347556,
+          "word": "zindagi "
+        },
+        {
+          "startTime": 347556,
+          "endTime": 347850,
+          "word": "or "
+        },
+        {
+          "startTime": 347850,
+          "endTime": 348193,
+          "word": "kuch "
+        },
+        {
+          "startTime": 348193,
+          "endTime": 348511,
+          "word": "bhi "
+        },
+        {
+          "startTime": 348511,
+          "endTime": 349123,
+          "word": "nahin "
+        },
+        {
+          "startTime": 349123,
+          "endTime": 350446,
+          "word": "teri-meri "
+        },
+        {
+          "startTime": 350446,
+          "endTime": 351328,
+          "word": "kahani "
+        },
+        {
+          "startTime": 351328,
+          "endTime": 351650,
+          "word": "hai"
+        }
+      ]
+    }
+  ]
+}
