@@ -1,0 +1,2519 @@
+{
+  "videoId": "mrV8kK5t0V8",
+  "title": "I Just Might",
+  "artist": "Bruno Mars",
+  "duration": 213,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:14.400\" end=\"00:20.072\" ttm:agent=\"v1\">\n        <span begin=\"00:14.406\" end=\"00:14.718\">You<\/span>\n        <span begin=\"00:14.718\" end=\"00:15.036\">stepped<\/span>\n        <span begin=\"00:15.036\" end=\"00:15.846\">inside<\/span>\n        <span begin=\"00:15.846\" end=\"00:16.163\">with<\/span>\n        <span begin=\"00:16.163\" end=\"00:16.531\">a<\/span>\n        <span begin=\"00:16.531\" end=\"00:17.065\">vibe<\/span>\n        <span begin=\"00:17.065\" end=\"00:17.379\">I<\/span>\n        <span begin=\"00:17.379\" end=\"00:17.761\">ain&apos;t<\/span>\n        <span begin=\"00:17.969\" end=\"00:18.569\">never<\/span>\n        <span begin=\"00:18.569\" end=\"00:20.072\">seen<\/span>\n      <\/p>\n      <p begin=\"00:20.790\" end=\"00:23.501\" ttm:agent=\"v1\">\n        <span begin=\"00:20.792\" end=\"00:21.009\">Yes,<\/span>\n        <span begin=\"00:21.009\" end=\"00:21.326\">you<\/span>\n        <span begin=\"00:21.326\" end=\"00:22.176\">did,<\/span>\n        <span begin=\"00:22.609\" end=\"00:23.501\">ooh<\/span>\n      <\/p>\n      <p begin=\"00:23.680\" end=\"00:29.379\" ttm:agent=\"v1\">\n        <span begin=\"00:23.680\" end=\"00:23.846\">So,<\/span>\n        <span begin=\"00:23.846\" end=\"00:24.080\">girl,<\/span>\n        <span begin=\"00:24.080\" end=\"00:24.363\">if<\/span>\n        <span begin=\"00:24.363\" end=\"00:24.664\">you<\/span>\n        <span begin=\"00:24.664\" end=\"00:25.230\">talk<\/span>\n        <span begin=\"00:25.230\" end=\"00:25.531\">like<\/span>\n        <span begin=\"00:25.531\" end=\"00:25.846\">you<\/span>\n        <span begin=\"00:25.846\" end=\"00:26.430\">walk,<\/span>\n        <span begin=\"00:26.430\" end=\"00:26.726\">come<\/span>\n        <span begin=\"00:26.726\" end=\"00:27.127\">and<\/span>\n        <span begin=\"00:27.292\" end=\"00:27.774\">talk<\/span>\n        <span begin=\"00:27.774\" end=\"00:28.142\">to<\/span>\n        <span begin=\"00:28.142\" end=\"00:29.379\">me<\/span>\n      <\/p>\n      <p begin=\"00:31.240\" end=\"00:31.958\" ttm:agent=\"v1\">\n        <span begin=\"00:31.245\" end=\"00:31.345\">But<\/span>\n        <span begin=\"00:31.345\" end=\"00:31.468\">look<\/span>\n        <span begin=\"00:31.468\" end=\"00:31.958\">here<\/span>\n      <\/p>\n      <p begin=\"00:32.520\" end=\"00:36.035\" ttm:agent=\"v1\">\n        <span begin=\"00:32.528\" end=\"00:32.680\">It<\/span>\n        <span begin=\"00:32.680\" end=\"00:32.880\">would<\/span>\n        <span begin=\"00:32.880\" end=\"00:33.119\">break<\/span>\n        <span begin=\"00:33.119\" end=\"00:33.307\">my<\/span>\n        <span begin=\"00:33.307\" end=\"00:33.680\">heart,<\/span>\n        <span begin=\"00:33.680\" end=\"00:33.948\">break<\/span>\n        <span begin=\"00:33.948\" end=\"00:34.214\">my<\/span>\n        <span begin=\"00:34.214\" end=\"00:34.519\">heart,<\/span>\n        <span begin=\"00:34.519\" end=\"00:34.876\">break<\/span>\n        <span begin=\"00:34.876\" end=\"00:35.318\">my<\/span>\n        <span begin=\"00:35.318\" end=\"00:36.035\">heart<\/span>\n      <\/p>\n      <p begin=\"00:36.030\" end=\"00:41.185\" ttm:agent=\"v1\">\n        <span begin=\"00:36.035\" end=\"00:36.135\">If<\/span>\n        <span begin=\"00:36.135\" end=\"00:36.358\">I<\/span>\n        <span begin=\"00:36.358\" end=\"00:36.635\">find<\/span>\n        <span begin=\"00:36.635\" end=\"00:36.892\">out<\/span>\n        <span begin=\"00:36.892\" end=\"00:37.068\">you<\/span>\n        <span begin=\"00:37.068\" end=\"00:37.519\">can&apos;t<\/span>\n        <span begin=\"00:37.519\" end=\"00:41.185\">move<\/span>\n      <\/p>\n      <p begin=\"00:41.720\" end=\"00:45.239\" ttm:agent=\"v1\">\n        <span begin=\"00:41.724\" end=\"00:41.834\">You<\/span>\n        <span begin=\"00:41.834\" end=\"00:42.113\">better<\/span>\n        <span begin=\"00:42.113\" end=\"00:42.433\">show<\/span>\n        <span begin=\"00:42.433\" end=\"00:42.634\">me<\/span>\n        <span begin=\"00:42.634\" end=\"00:42.954\">now,<\/span>\n        <span begin=\"00:42.954\" end=\"00:43.353\">show<\/span>\n        <span begin=\"00:43.353\" end=\"00:43.540\">me<\/span>\n        <span begin=\"00:43.540\" end=\"00:43.794\">now,<\/span>\n        <span begin=\"00:43.794\" end=\"00:44.204\">show<\/span>\n        <span begin=\"00:44.204\" end=\"00:44.432\">me<\/span>\n        <span begin=\"00:44.432\" end=\"00:45.239\">now<\/span>\n      <\/p>\n      <p begin=\"00:45.810\" end=\"00:49.017\" ttm:agent=\"v1\">\n        <span begin=\"00:45.815\" end=\"00:45.917\">&apos;Cause<\/span>\n        <span begin=\"00:45.917\" end=\"00:46.064\">when<\/span>\n        <span begin=\"00:46.064\" end=\"00:46.237\">I<\/span>\n        <span begin=\"00:46.237\" end=\"00:46.373\">take<\/span>\n        <span begin=\"00:46.373\" end=\"00:46.558\">you<\/span>\n        <span begin=\"00:46.558\" end=\"00:46.693\">to<\/span>\n        <span begin=\"00:46.693\" end=\"00:46.827\">the<\/span>\n        <span begin=\"00:46.827\" end=\"00:47.371\">floor,<\/span>\n        <span begin=\"00:47.404\" end=\"00:47.845\">ooh,<\/span>\n        <span begin=\"00:47.845\" end=\"00:48.033\">you<\/span>\n        <span begin=\"00:48.033\" end=\"00:48.272\">gotta<\/span>\n        <span begin=\"00:48.272\" end=\"00:48.553\">get<\/span>\n        <span begin=\"00:48.553\" end=\"00:49.017\">down<\/span>\n      <\/p>\n      <p begin=\"00:49.140\" end=\"00:50.471\" ttm:agent=\"v1\">\n        <span begin=\"00:49.148\" end=\"00:49.273\">You<\/span>\n        <span begin=\"00:49.273\" end=\"00:49.552\">know<\/span>\n        <span begin=\"00:49.552\" end=\"00:49.844\">what<\/span>\n        <span begin=\"00:49.844\" end=\"00:50.045\">to<\/span>\n        <span begin=\"00:50.045\" end=\"00:50.471\">do<\/span>\n      <\/p>\n      <p begin=\"00:50.510\" end=\"00:54.676\" ttm:agent=\"v1\">\n        <span begin=\"00:50.511\" end=\"00:50.938\">Hey,<\/span>\n        <span begin=\"00:50.938\" end=\"00:51.393\">Mr.<\/span>\n        <span begin=\"00:51.393\" end=\"00:52.539\">DJ<\/span>\n        <span begin=\"00:52.964\" end=\"00:53.404\">(Oh,<\/span>\n        <span begin=\"00:53.404\" end=\"00:53.843\">oh,<\/span>\n        <span begin=\"00:53.843\" end=\"00:54.676\">oh)<\/span>\n      <\/p>\n      <p begin=\"00:54.340\" end=\"00:59.380\" ttm:agent=\"v1\">\n        <span begin=\"00:54.345\" end=\"00:54.534\">Play<\/span>\n        <span begin=\"00:54.534\" end=\"00:54.788\">a<\/span>\n        <span begin=\"00:54.788\" end=\"00:55.121\">song<\/span>\n        <span begin=\"00:55.121\" end=\"00:55.268\">for<\/span>\n        <span begin=\"00:55.268\" end=\"00:55.535\">this<\/span>\n        <span begin=\"00:55.535\" end=\"00:55.735\">pretty<\/span>\n        <span begin=\"00:55.735\" end=\"00:56.068\">little<\/span>\n        <span begin=\"00:56.068\" end=\"00:57.254\">lady<\/span>\n        <span begin=\"00:57.559\" end=\"00:58.107\">(Oh,<\/span>\n        <span begin=\"00:58.107\" end=\"00:58.519\">oh,<\/span>\n        <span begin=\"00:58.519\" end=\"00:59.380\">oh)<\/span>\n      <\/p>\n      <p begin=\"00:58.900\" end=\"01:04.129\" ttm:agent=\"v1\">\n        <span begin=\"00:58.904\" end=\"00:59.004\">&apos;Cause<\/span>\n        <span begin=\"00:59.004\" end=\"00:59.179\">if<\/span>\n        <span begin=\"00:59.179\" end=\"00:59.484\">she<\/span>\n        <span begin=\"00:59.484\" end=\"00:59.819\">dance<\/span>\n        <span begin=\"00:59.819\" end=\"01:00.136\">as<\/span>\n        <span begin=\"01:00.136\" end=\"01:00.296\">good<\/span>\n        <span begin=\"01:00.296\" end=\"01:00.456\">as<\/span>\n        <span begin=\"01:00.456\" end=\"01:00.631\">she<\/span>\n        <span begin=\"01:00.631\" end=\"01:01.030\">look<\/span>\n        <span begin=\"01:01.030\" end=\"01:01.383\">right<\/span>\n        <span begin=\"01:01.383\" end=\"01:02.064\">now<\/span>\n        <span begin=\"01:02.236\" end=\"01:02.743\">(Oh,<\/span>\n        <span begin=\"01:02.743\" end=\"01:03.142\">oh,<\/span>\n        <span begin=\"01:03.142\" end=\"01:04.129\">oh)<\/span>\n      <\/p>\n      <p begin=\"01:03.300\" end=\"01:06.379\" ttm:agent=\"v1\">\n        <span begin=\"01:03.309\" end=\"01:03.440\">I<\/span>\n        <span begin=\"01:03.440\" end=\"01:03.694\">just<\/span>\n        <span begin=\"01:03.694\" end=\"01:04.025\">might,<\/span>\n        <span begin=\"01:04.161\" end=\"01:04.321\">I<\/span>\n        <span begin=\"01:04.321\" end=\"01:04.575\">just<\/span>\n        <span begin=\"01:04.575\" end=\"01:04.813\">might<\/span>\n        <span begin=\"01:04.813\" end=\"01:04.971\">make<\/span>\n        <span begin=\"01:04.971\" end=\"01:05.169\">her<\/span>\n        <span begin=\"01:05.169\" end=\"01:05.420\">my<\/span>\n        <span begin=\"01:05.420\" end=\"01:06.379\">baby<\/span>\n      <\/p>\n      <p begin=\"01:06.460\" end=\"01:10.110\" ttm:agent=\"v1\">\n        <span begin=\"01:06.462\" end=\"01:06.603\">I<\/span>\n        <span begin=\"01:06.603\" end=\"01:06.857\">just<\/span>\n        <span begin=\"01:06.857\" end=\"01:07.150\">might<\/span>\n        <span begin=\"01:07.150\" end=\"01:07.284\">make<\/span>\n        <span begin=\"01:07.284\" end=\"01:07.457\">her<\/span>\n        <span begin=\"01:07.457\" end=\"01:07.764\">my<\/span>\n        <span begin=\"01:07.764\" end=\"01:08.630\">baby,<\/span>\n        <span begin=\"01:08.630\" end=\"01:10.110\">hey<\/span>\n      <\/p>\n      <p begin=\"01:13.180\" end=\"01:18.806\" ttm:agent=\"v1\">\n        <span begin=\"01:13.186\" end=\"01:13.344\">I<\/span>\n        <span begin=\"01:13.344\" end=\"01:13.596\">just<\/span>\n        <span begin=\"01:13.596\" end=\"01:14.080\">might,<\/span>\n        <span begin=\"01:17.373\" end=\"01:17.825\">oh,<\/span>\n        <span begin=\"01:17.825\" end=\"01:18.000\">I<\/span>\n        <span begin=\"01:18.000\" end=\"01:18.279\">just<\/span>\n        <span begin=\"01:18.279\" end=\"01:18.806\">might<\/span>\n      <\/p>\n      <p begin=\"01:19.020\" end=\"01:25.542\" ttm:agent=\"v1\">\n        <span begin=\"01:19.024\" end=\"01:19.249\">But<\/span>\n        <span begin=\"01:19.249\" end=\"01:19.525\">first,<\/span>\n        <span begin=\"01:19.673\" end=\"01:19.990\">may<\/span>\n        <span begin=\"01:19.990\" end=\"01:20.257\">I<\/span>\n        <span begin=\"01:20.257\" end=\"01:20.558\">just<\/span>\n        <span begin=\"01:20.558\" end=\"01:21.139\">say<\/span>\n        <span begin=\"01:21.139\" end=\"01:21.457\">that<\/span>\n        <span begin=\"01:21.457\" end=\"01:21.739\">your<\/span>\n        <span begin=\"01:21.739\" end=\"01:22.291\">face<\/span>\n        <span begin=\"01:22.291\" end=\"01:22.583\">got<\/span>\n        <span begin=\"01:22.583\" end=\"01:22.932\">me<\/span>\n        <span begin=\"01:23.190\" end=\"01:23.691\">so<\/span>\n        <span begin=\"01:23.691\" end=\"01:25.542\">intrigued?<\/span>\n      <\/p>\n      <p begin=\"01:26.080\" end=\"01:27.832\" ttm:agent=\"v1\">\n        <span begin=\"01:26.087\" end=\"01:26.487\">I&apos;m<\/span>\n        <span begin=\"01:26.487\" end=\"01:26.737\">so<\/span>\n        <span begin=\"01:26.737\" end=\"01:27.832\">intrigued<\/span>\n      <\/p>\n      <p begin=\"01:28.870\" end=\"01:33.734\" ttm:agent=\"v1\">\n        <span begin=\"01:28.874\" end=\"01:28.974\">But<\/span>\n        <span begin=\"01:28.974\" end=\"01:29.291\">what<\/span>\n        <span begin=\"01:29.291\" end=\"01:29.574\">good<\/span>\n        <span begin=\"01:29.574\" end=\"01:29.890\">is<\/span>\n        <span begin=\"01:29.890\" end=\"01:30.475\">beauty<\/span>\n        <span begin=\"01:30.475\" end=\"01:30.726\">if<\/span>\n        <span begin=\"01:30.726\" end=\"01:31.025\">your<\/span>\n        <span begin=\"01:31.025\" end=\"01:31.625\">booty<\/span>\n        <span begin=\"01:31.625\" end=\"01:32.094\">can&apos;t<\/span>\n        <span begin=\"01:32.094\" end=\"01:32.472\">find<\/span>\n        <span begin=\"01:32.472\" end=\"01:32.723\">the<\/span>\n        <span begin=\"01:32.723\" end=\"01:33.734\">beat?<\/span>\n      <\/p>\n      <p begin=\"01:34.180\" end=\"01:35.630\" ttm:agent=\"v1\">\n        <span begin=\"01:34.181\" end=\"01:34.281\">I<\/span>\n        <span begin=\"01:34.281\" end=\"01:34.443\">don&apos;t<\/span>\n        <span begin=\"01:34.443\" end=\"01:34.710\">wanna<\/span>\n        <span begin=\"01:34.710\" end=\"01:34.908\">know,<\/span>\n        <span begin=\"01:34.908\" end=\"01:35.630\">girl<\/span>\n      <\/p>\n      <p begin=\"01:35.810\" end=\"01:37.273\" ttm:agent=\"v1\">\n        <span begin=\"01:35.816\" end=\"01:35.916\">So<\/span>\n        <span begin=\"01:35.916\" end=\"01:36.128\">please<\/span>\n        <span begin=\"01:36.128\" end=\"01:36.338\">don&apos;t<\/span>\n        <span begin=\"01:36.338\" end=\"01:36.545\">do<\/span>\n        <span begin=\"01:36.545\" end=\"01:36.708\">that<\/span>\n        <span begin=\"01:36.708\" end=\"01:36.858\">to<\/span>\n        <span begin=\"01:36.858\" end=\"01:37.273\">me<\/span>\n      <\/p>\n      <p begin=\"01:37.640\" end=\"01:41.270\" ttm:agent=\"v1\">\n        <span begin=\"01:37.640\" end=\"01:37.776\">&apos;Cause<\/span>\n        <span begin=\"01:37.776\" end=\"01:37.923\">it<\/span>\n        <span begin=\"01:37.923\" end=\"01:38.096\">would<\/span>\n        <span begin=\"01:38.096\" end=\"01:38.350\">break<\/span>\n        <span begin=\"01:38.350\" end=\"01:38.521\">my<\/span>\n        <span begin=\"01:38.521\" end=\"01:38.883\">heart,<\/span>\n        <span begin=\"01:38.883\" end=\"01:39.282\">break<\/span>\n        <span begin=\"01:39.282\" end=\"01:39.444\">my<\/span>\n        <span begin=\"01:39.444\" end=\"01:39.801\">heart,<\/span>\n        <span begin=\"01:39.801\" end=\"01:40.069\">break<\/span>\n        <span begin=\"01:40.069\" end=\"01:40.554\">my<\/span>\n        <span begin=\"01:40.554\" end=\"01:41.270\">heart<\/span>\n      <\/p>\n      <p begin=\"01:41.270\" end=\"01:46.408\" ttm:agent=\"v1\">\n        <span begin=\"01:41.270\" end=\"01:41.386\">If<\/span>\n        <span begin=\"01:41.386\" end=\"01:41.574\">I<\/span>\n        <span begin=\"01:41.574\" end=\"01:41.841\">find<\/span>\n        <span begin=\"01:41.841\" end=\"01:42.120\">out<\/span>\n        <span begin=\"01:42.120\" end=\"01:42.346\">you<\/span>\n        <span begin=\"01:42.346\" end=\"01:42.707\">can&apos;t<\/span>\n        <span begin=\"01:42.707\" end=\"01:46.408\">move<\/span>\n      <\/p>\n      <p begin=\"01:46.970\" end=\"01:50.384\" ttm:agent=\"v1\">\n        <span begin=\"01:46.973\" end=\"01:47.109\">You<\/span>\n        <span begin=\"01:47.109\" end=\"01:47.350\">better<\/span>\n        <span begin=\"01:47.350\" end=\"01:47.683\">show<\/span>\n        <span begin=\"01:47.683\" end=\"01:47.884\">me<\/span>\n        <span begin=\"01:47.884\" end=\"01:48.176\">now,<\/span>\n        <span begin=\"01:48.176\" end=\"01:48.564\">show<\/span>\n        <span begin=\"01:48.564\" end=\"01:48.737\">me<\/span>\n        <span begin=\"01:48.737\" end=\"01:49.015\">now,<\/span>\n        <span begin=\"01:49.015\" end=\"01:49.449\">show<\/span>\n        <span begin=\"01:49.449\" end=\"01:49.662\">me<\/span>\n        <span begin=\"01:49.662\" end=\"01:50.384\">now<\/span>\n      <\/p>\n      <p begin=\"01:51.050\" end=\"01:54.283\" ttm:agent=\"v1\">\n        <span begin=\"01:51.059\" end=\"01:51.176\">&apos;Cause<\/span>\n        <span begin=\"01:51.176\" end=\"01:51.311\">when<\/span>\n        <span begin=\"01:51.311\" end=\"01:51.456\">I<\/span>\n        <span begin=\"01:51.456\" end=\"01:51.604\">take<\/span>\n        <span begin=\"01:51.604\" end=\"01:51.751\">you<\/span>\n        <span begin=\"01:51.751\" end=\"01:51.883\">to<\/span>\n        <span begin=\"01:51.883\" end=\"01:52.030\">the<\/span>\n        <span begin=\"01:52.030\" end=\"01:52.561\">floor,<\/span>\n        <span begin=\"01:52.634\" end=\"01:53.021\">ooh,<\/span>\n        <span begin=\"01:53.021\" end=\"01:53.247\">you<\/span>\n        <span begin=\"01:53.247\" end=\"01:53.476\">gotta<\/span>\n        <span begin=\"01:53.476\" end=\"01:53.768\">get<\/span>\n        <span begin=\"01:53.768\" end=\"01:54.283\">down<\/span>\n      <\/p>\n      <p begin=\"01:54.330\" end=\"01:55.768\" ttm:agent=\"v1\">\n        <span begin=\"01:54.339\" end=\"01:54.512\">You<\/span>\n        <span begin=\"01:54.512\" end=\"01:54.845\">know<\/span>\n        <span begin=\"01:54.845\" end=\"01:55.126\">what<\/span>\n        <span begin=\"01:55.126\" end=\"01:55.299\">to<\/span>\n        <span begin=\"01:55.299\" end=\"01:55.768\">do<\/span>\n      <\/p>\n      <p begin=\"01:55.780\" end=\"02:00.120\" ttm:agent=\"v1\">\n        <span begin=\"01:55.787\" end=\"01:56.094\">Hey,<\/span>\n        <span begin=\"01:56.094\" end=\"01:56.572\">Mr.<\/span>\n        <span begin=\"01:56.572\" end=\"01:57.770\">DJ<\/span>\n        <span begin=\"01:58.190\" end=\"01:58.685\">(Oh,<\/span>\n        <span begin=\"01:58.685\" end=\"01:59.097\">oh,<\/span>\n        <span begin=\"01:59.097\" end=\"02:00.120\">oh)<\/span>\n      <\/p>\n      <p begin=\"01:59.580\" end=\"02:04.633\" ttm:agent=\"v1\">\n        <span begin=\"01:59.587\" end=\"01:59.809\">Play<\/span>\n        <span begin=\"01:59.809\" end=\"02:00.063\">a<\/span>\n        <span begin=\"02:00.063\" end=\"02:00.342\">song<\/span>\n        <span begin=\"02:00.342\" end=\"02:00.502\">for<\/span>\n        <span begin=\"02:00.502\" end=\"02:00.784\">this<\/span>\n        <span begin=\"02:00.784\" end=\"02:01.027\">pretty<\/span>\n        <span begin=\"02:01.027\" end=\"02:01.347\">little<\/span>\n        <span begin=\"02:01.347\" end=\"02:02.586\">lady<\/span>\n        <span begin=\"02:02.816\" end=\"02:03.283\">(Oh,<\/span>\n        <span begin=\"02:03.283\" end=\"02:03.697\">oh,<\/span>\n        <span begin=\"02:03.697\" end=\"02:04.633\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:04.150\" end=\"02:09.312\" ttm:agent=\"v1\">\n        <span begin=\"02:04.153\" end=\"02:04.253\">&apos;Cause<\/span>\n        <span begin=\"02:04.253\" end=\"02:04.413\">if<\/span>\n        <span begin=\"02:04.413\" end=\"02:04.720\">she<\/span>\n        <span begin=\"02:04.720\" end=\"02:05.121\">dance<\/span>\n        <span begin=\"02:05.121\" end=\"02:05.454\">as<\/span>\n        <span begin=\"02:05.454\" end=\"02:05.614\">good<\/span>\n        <span begin=\"02:05.614\" end=\"02:05.774\">as<\/span>\n        <span begin=\"02:05.774\" end=\"02:05.920\">she<\/span>\n        <span begin=\"02:05.920\" end=\"02:06.253\">look<\/span>\n        <span begin=\"02:06.253\" end=\"02:06.626\">right<\/span>\n        <span begin=\"02:06.626\" end=\"02:07.397\">now<\/span>\n        <span begin=\"02:07.475\" end=\"02:07.968\">(Oh,<\/span>\n        <span begin=\"02:07.968\" end=\"02:08.353\">oh,<\/span>\n        <span begin=\"02:08.353\" end=\"02:09.312\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:08.520\" end=\"02:11.606\" ttm:agent=\"v1\">\n        <span begin=\"02:08.529\" end=\"02:08.672\">I<\/span>\n        <span begin=\"02:08.672\" end=\"02:08.898\">just<\/span>\n        <span begin=\"02:08.898\" end=\"02:09.265\">might,<\/span>\n        <span begin=\"02:09.366\" end=\"02:09.555\">I<\/span>\n        <span begin=\"02:09.555\" end=\"02:09.809\">just<\/span>\n        <span begin=\"02:09.809\" end=\"02:10.079\">might<\/span>\n        <span begin=\"02:10.079\" end=\"02:10.226\">make<\/span>\n        <span begin=\"02:10.226\" end=\"02:10.399\">her<\/span>\n        <span begin=\"02:10.399\" end=\"02:10.681\">my<\/span>\n        <span begin=\"02:10.681\" end=\"02:11.606\">baby<\/span>\n      <\/p>\n      <p begin=\"02:11.690\" end=\"02:15.294\" ttm:agent=\"v1\">\n        <span begin=\"02:11.694\" end=\"02:11.837\">I<\/span>\n        <span begin=\"02:11.837\" end=\"02:12.103\">just<\/span>\n        <span begin=\"02:12.103\" end=\"02:12.423\">might<\/span>\n        <span begin=\"02:12.423\" end=\"02:12.583\">make<\/span>\n        <span begin=\"02:12.583\" end=\"02:12.743\">her<\/span>\n        <span begin=\"02:12.743\" end=\"02:13.023\">my<\/span>\n        <span begin=\"02:13.023\" end=\"02:13.863\">baby,<\/span>\n        <span begin=\"02:13.863\" end=\"02:15.294\">hey<\/span>\n      <\/p>\n      <p begin=\"02:24.670\" end=\"02:29.221\" ttm:agent=\"v1\">\n        <span begin=\"02:24.676\" end=\"02:24.931\">This<\/span>\n        <span begin=\"02:24.931\" end=\"02:25.132\">the<\/span>\n        <span begin=\"02:25.132\" end=\"02:25.488\">part<\/span>\n        <span begin=\"02:25.488\" end=\"02:25.678\">where<\/span>\n        <span begin=\"02:25.678\" end=\"02:25.853\">you<\/span>\n        <span begin=\"02:25.853\" end=\"02:25.985\">break<\/span>\n        <span begin=\"02:25.985\" end=\"02:26.117\">it<\/span>\n        <span begin=\"02:26.117\" end=\"02:26.257\">all<\/span>\n        <span begin=\"02:26.257\" end=\"02:26.417\">the<\/span>\n        <span begin=\"02:26.417\" end=\"02:26.712\">way<\/span>\n        <span begin=\"02:26.712\" end=\"02:27.296\">down,<\/span>\n        <span begin=\"02:27.296\" end=\"02:27.870\">down,<\/span>\n        <span begin=\"02:27.870\" end=\"02:28.469\">down,<\/span>\n        <span begin=\"02:28.469\" end=\"02:29.221\">down<\/span>\n      <\/p>\n      <p begin=\"02:29.330\" end=\"02:33.870\" ttm:agent=\"v1\">\n        <span begin=\"02:29.337\" end=\"02:29.614\">This<\/span>\n        <span begin=\"02:29.614\" end=\"02:29.787\">the<\/span>\n        <span begin=\"02:29.787\" end=\"02:30.152\">part<\/span>\n        <span begin=\"02:30.152\" end=\"02:30.308\">where<\/span>\n        <span begin=\"02:30.308\" end=\"02:30.443\">I<\/span>\n        <span begin=\"02:30.443\" end=\"02:30.609\">turn<\/span>\n        <span begin=\"02:30.609\" end=\"02:30.749\">you<\/span>\n        <span begin=\"02:30.749\" end=\"02:30.922\">all<\/span>\n        <span begin=\"02:30.922\" end=\"02:31.044\">the<\/span>\n        <span begin=\"02:31.044\" end=\"02:31.191\">way<\/span>\n        <span begin=\"02:31.191\" end=\"02:31.957\">around,<\/span>\n        <span begin=\"02:31.957\" end=\"02:32.518\">&apos;round,<\/span>\n        <span begin=\"02:32.518\" end=\"02:33.077\">&apos;round,<\/span>\n        <span begin=\"02:33.077\" end=\"02:33.870\">&apos;round<\/span>\n      <\/p>\n      <p begin=\"02:33.960\" end=\"02:37.249\" ttm:agent=\"v1\">\n        <span begin=\"02:33.961\" end=\"02:34.161\">Put<\/span>\n        <span begin=\"02:34.161\" end=\"02:34.481\">some<\/span>\n        <span begin=\"02:34.481\" end=\"02:35.067\">spirit<\/span>\n        <span begin=\"02:35.067\" end=\"02:35.242\">in<\/span>\n        <span begin=\"02:35.242\" end=\"02:35.577\">it,<\/span>\n        <span begin=\"02:35.700\" end=\"02:35.873\">put<\/span>\n        <span begin=\"02:35.873\" end=\"02:36.165\">your<\/span>\n        <span begin=\"02:36.165\" end=\"02:36.513\">heart<\/span>\n        <span begin=\"02:36.513\" end=\"02:36.980\">into<\/span>\n        <span begin=\"02:36.980\" end=\"02:37.249\">it<\/span>\n      <\/p>\n      <p begin=\"02:37.240\" end=\"02:39.448\" ttm:agent=\"v1\">\n        <span begin=\"02:37.249\" end=\"02:37.484\">That&apos;s<\/span>\n        <span begin=\"02:37.484\" end=\"02:37.949\">all<\/span>\n        <span begin=\"02:37.949\" end=\"02:38.376\">I<\/span>\n        <span begin=\"02:38.376\" end=\"02:39.448\">need<\/span>\n      <\/p>\n      <p begin=\"02:39.440\" end=\"02:42.460\" ttm:agent=\"v1\">\n        <span begin=\"02:39.448\" end=\"02:39.548\">And<\/span>\n        <span begin=\"02:39.548\" end=\"02:39.648\">if<\/span>\n        <span begin=\"02:39.648\" end=\"02:39.768\">I<\/span>\n        <span begin=\"02:39.768\" end=\"02:39.993\">like<\/span>\n        <span begin=\"02:39.993\" end=\"02:40.093\">what<\/span>\n        <span begin=\"02:40.093\" end=\"02:40.276\">I<\/span>\n        <span begin=\"02:40.276\" end=\"02:40.976\">see,<\/span>\n        <span begin=\"02:41.114\" end=\"02:41.281\">you&apos;re<\/span>\n        <span begin=\"02:41.281\" end=\"02:41.589\">coming<\/span>\n        <span begin=\"02:41.589\" end=\"02:41.855\">home<\/span>\n        <span begin=\"02:41.855\" end=\"02:42.055\">with<\/span>\n        <span begin=\"02:42.055\" end=\"02:42.460\">me<\/span>\n      <\/p>\n      <p begin=\"02:42.480\" end=\"02:46.647\" ttm:agent=\"v1\">\n        <span begin=\"02:42.481\" end=\"02:42.773\">Hey,<\/span>\n        <span begin=\"02:42.773\" end=\"02:43.171\">Mr.<\/span>\n        <span begin=\"02:43.171\" end=\"02:44.375\">DJ<\/span>\n        <span begin=\"02:44.761\" end=\"02:45.254\">(Oh,<\/span>\n        <span begin=\"02:45.254\" end=\"02:45.655\">oh,<\/span>\n        <span begin=\"02:45.655\" end=\"02:46.647\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:46.160\" end=\"02:51.230\" ttm:agent=\"v1\">\n        <span begin=\"02:46.164\" end=\"02:46.430\">Play<\/span>\n        <span begin=\"02:46.430\" end=\"02:46.656\">a<\/span>\n        <span begin=\"02:46.656\" end=\"02:47.089\">song<\/span>\n        <span begin=\"02:47.089\" end=\"02:47.234\">for<\/span>\n        <span begin=\"02:47.234\" end=\"02:47.447\">this<\/span>\n        <span begin=\"02:47.447\" end=\"02:47.688\">pretty<\/span>\n        <span begin=\"02:47.688\" end=\"02:47.940\">little<\/span>\n        <span begin=\"02:47.940\" end=\"02:49.195\">lady<\/span>\n        <span begin=\"02:49.406\" end=\"02:49.925\">(Oh,<\/span>\n        <span begin=\"02:49.925\" end=\"02:50.299\">oh,<\/span>\n        <span begin=\"02:50.299\" end=\"02:51.230\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:50.730\" end=\"02:55.918\" ttm:agent=\"v1\">\n        <span begin=\"02:50.737\" end=\"02:50.837\">&apos;Cause<\/span>\n        <span begin=\"02:50.837\" end=\"02:51.012\">if<\/span>\n        <span begin=\"02:51.012\" end=\"02:51.292\">she<\/span>\n        <span begin=\"02:51.292\" end=\"02:51.784\">dance<\/span>\n        <span begin=\"02:51.784\" end=\"02:52.050\">as<\/span>\n        <span begin=\"02:52.050\" end=\"02:52.184\">good<\/span>\n        <span begin=\"02:52.184\" end=\"02:52.370\">as<\/span>\n        <span begin=\"02:52.370\" end=\"02:52.517\">she<\/span>\n        <span begin=\"02:52.517\" end=\"02:52.908\">look<\/span>\n        <span begin=\"02:52.908\" end=\"02:53.228\">right<\/span>\n        <span begin=\"02:53.228\" end=\"02:53.881\">now<\/span>\n        <span begin=\"02:54.110\" end=\"02:54.590\">(Oh,<\/span>\n        <span begin=\"02:54.590\" end=\"02:55.004\">oh,<\/span>\n        <span begin=\"02:55.004\" end=\"02:55.918\">oh)<\/span>\n      <\/p>\n      <p begin=\"02:55.150\" end=\"02:58.153\" ttm:agent=\"v1\">\n        <span begin=\"02:55.159\" end=\"02:55.259\">I<\/span>\n        <span begin=\"02:55.259\" end=\"02:55.526\">just<\/span>\n        <span begin=\"02:55.526\" end=\"02:55.926\">might,<\/span>\n        <span begin=\"02:56.033\" end=\"02:56.192\">I<\/span>\n        <span begin=\"02:56.192\" end=\"02:56.392\">just<\/span>\n        <span begin=\"02:56.392\" end=\"02:56.686\">might<\/span>\n        <span begin=\"02:56.686\" end=\"02:56.833\">make<\/span>\n        <span begin=\"02:56.833\" end=\"02:56.993\">her<\/span>\n        <span begin=\"02:56.993\" end=\"02:57.273\">my<\/span>\n        <span begin=\"02:57.273\" end=\"02:58.153\">baby<\/span>\n      <\/p>\n      <p begin=\"02:58.340\" end=\"03:00.924\" ttm:agent=\"v1\">\n        <span begin=\"02:58.341\" end=\"02:58.478\">I<\/span>\n        <span begin=\"02:58.478\" end=\"02:58.694\">just<\/span>\n        <span begin=\"02:58.694\" end=\"02:58.999\">might<\/span>\n        <span begin=\"02:58.999\" end=\"02:59.240\">make<\/span>\n        <span begin=\"02:59.240\" end=\"02:59.466\">her<\/span>\n        <span begin=\"02:59.466\" end=\"02:59.861\">my<\/span>\n        <span begin=\"02:59.861\" end=\"03:00.924\">baby<\/span>\n      <\/p>\n      <p begin=\"03:01.040\" end=\"03:05.311\" ttm:agent=\"v1\">\n        <span begin=\"03:01.044\" end=\"03:01.410\">Hey,<\/span>\n        <span begin=\"03:01.410\" end=\"03:02.071\">Mr.<\/span>\n        <span begin=\"03:02.071\" end=\"03:03.397\">DJ<\/span>\n        <span begin=\"03:03.397\" end=\"03:03.877\">(Oh,<\/span>\n        <span begin=\"03:03.877\" end=\"03:04.342\">oh,<\/span>\n        <span begin=\"03:04.342\" end=\"03:05.311\">oh)<\/span>\n      <\/p>\n      <p begin=\"03:04.830\" end=\"03:09.898\" ttm:agent=\"v1\">\n        <span begin=\"03:04.831\" end=\"03:05.087\">Play<\/span>\n        <span begin=\"03:05.087\" end=\"03:05.275\">a<\/span>\n        <span begin=\"03:05.275\" end=\"03:05.636\">song<\/span>\n        <span begin=\"03:05.636\" end=\"03:05.796\">for<\/span>\n        <span begin=\"03:05.796\" end=\"03:06.034\">this<\/span>\n        <span begin=\"03:06.034\" end=\"03:06.301\">pretty<\/span>\n        <span begin=\"03:06.301\" end=\"03:06.581\">little<\/span>\n        <span begin=\"03:06.581\" end=\"03:08.127\">lady<\/span>\n        <span begin=\"03:08.127\" end=\"03:08.661\">(Oh,<\/span>\n        <span begin=\"03:08.661\" end=\"03:09.074\">oh,<\/span>\n        <span begin=\"03:09.074\" end=\"03:09.898\">oh)<\/span>\n      <\/p>\n      <p begin=\"03:09.420\" end=\"03:14.653\" ttm:agent=\"v1\">\n        <span begin=\"03:09.422\" end=\"03:09.522\">&apos;Cause<\/span>\n        <span begin=\"03:09.522\" end=\"03:09.663\">if<\/span>\n        <span begin=\"03:09.663\" end=\"03:09.971\">she<\/span>\n        <span begin=\"03:09.971\" end=\"03:10.465\">dance<\/span>\n        <span begin=\"03:10.465\" end=\"03:10.660\">as<\/span>\n        <span begin=\"03:10.660\" end=\"03:10.780\">good<\/span>\n        <span begin=\"03:10.780\" end=\"03:10.913\">as<\/span>\n        <span begin=\"03:10.913\" end=\"03:11.192\">she<\/span>\n        <span begin=\"03:11.192\" end=\"03:11.566\">look<\/span>\n        <span begin=\"03:11.566\" end=\"03:11.883\">right<\/span>\n        <span begin=\"03:11.883\" end=\"03:12.658\">now<\/span>\n        <span begin=\"03:12.744\" end=\"03:13.183\">(Oh,<\/span>\n        <span begin=\"03:13.183\" end=\"03:13.584\">oh,<\/span>\n        <span begin=\"03:13.584\" end=\"03:14.653\">oh)<\/span>\n      <\/p>\n      <p begin=\"03:13.800\" end=\"03:16.885\" ttm:agent=\"v1\">\n        <span begin=\"03:13.800\" end=\"03:13.900\">I<\/span>\n        <span begin=\"03:13.900\" end=\"03:14.154\">just<\/span>\n        <span begin=\"03:14.154\" end=\"03:14.543\">might,<\/span>\n        <span begin=\"03:14.674\" end=\"03:14.822\">I<\/span>\n        <span begin=\"03:14.822\" end=\"03:15.033\">just<\/span>\n        <span begin=\"03:15.033\" end=\"03:15.287\">might<\/span>\n        <span begin=\"03:15.287\" end=\"03:15.487\">make<\/span>\n        <span begin=\"03:15.487\" end=\"03:15.634\">her<\/span>\n        <span begin=\"03:15.634\" end=\"03:15.927\">my<\/span>\n        <span begin=\"03:15.927\" end=\"03:16.885\">baby<\/span>\n      <\/p>\n      <p begin=\"03:16.980\" end=\"03:20.512\" ttm:agent=\"v1\">\n        <span begin=\"03:16.983\" end=\"03:17.105\">I<\/span>\n        <span begin=\"03:17.105\" end=\"03:17.331\">just<\/span>\n        <span begin=\"03:17.331\" end=\"03:17.651\">might<\/span>\n        <span begin=\"03:17.651\" end=\"03:17.824\">make<\/span>\n        <span begin=\"03:17.824\" end=\"03:17.958\">her<\/span>\n        <span begin=\"03:17.958\" end=\"03:18.238\">my<\/span>\n        <span begin=\"03:18.238\" end=\"03:19.198\">baby,<\/span>\n        <span begin=\"03:19.198\" end=\"03:20.512\">hey<\/span>\n      <\/p>\n      <p begin=\"03:23.650\" end=\"03:29.243\" ttm:agent=\"v1\">\n        <span begin=\"03:23.655\" end=\"03:23.765\">I<\/span>\n        <span begin=\"03:23.765\" end=\"03:24.045\">just<\/span>\n        <span begin=\"03:24.045\" end=\"03:24.527\">might,<\/span>\n        <span begin=\"03:27.893\" end=\"03:28.320\">oh,<\/span>\n        <span begin=\"03:28.320\" end=\"03:28.465\">I<\/span>\n        <span begin=\"03:28.465\" end=\"03:28.759\">just<\/span>\n        <span begin=\"03:28.759\" end=\"03:29.243\">might<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 14400,
+      "endTime": 20072,
+      "text": "You stepped inside with a vibe I ain't never seen",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 14406,
+          "endTime": 14718,
+          "word": "You"
+        },
+        {
+          "startTime": 14718,
+          "endTime": 15036,
+          "word": "stepped"
+        },
+        {
+          "startTime": 15036,
+          "endTime": 15846,
+          "word": "inside"
+        },
+        {
+          "startTime": 15846,
+          "endTime": 16163,
+          "word": "with"
+        },
+        {
+          "startTime": 16163,
+          "endTime": 16531,
+          "word": "a"
+        },
+        {
+          "startTime": 16531,
+          "endTime": 17065,
+          "word": "vibe"
+        },
+        {
+          "startTime": 17065,
+          "endTime": 17379,
+          "word": "I"
+        },
+        {
+          "startTime": 17379,
+          "endTime": 17761,
+          "word": "ain't"
+        },
+        {
+          "startTime": 17969,
+          "endTime": 18569,
+          "word": "never"
+        },
+        {
+          "startTime": 18569,
+          "endTime": 20072,
+          "word": "seen"
+        }
+      ]
+    },
+    {
+      "time": 20790,
+      "endTime": 23501,
+      "text": "Yes, you did, ooh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 20792,
+          "endTime": 21009,
+          "word": "Yes,"
+        },
+        {
+          "startTime": 21009,
+          "endTime": 21326,
+          "word": "you"
+        },
+        {
+          "startTime": 21326,
+          "endTime": 22176,
+          "word": "did,"
+        },
+        {
+          "startTime": 22609,
+          "endTime": 23501,
+          "word": "ooh"
+        }
+      ]
+    },
+    {
+      "time": 23680,
+      "endTime": 29379,
+      "text": "So, girl, if you talk like you walk, come and talk to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23680,
+          "endTime": 23846,
+          "word": "So,"
+        },
+        {
+          "startTime": 23846,
+          "endTime": 24080,
+          "word": "girl,"
+        },
+        {
+          "startTime": 24080,
+          "endTime": 24363,
+          "word": "if"
+        },
+        {
+          "startTime": 24363,
+          "endTime": 24664,
+          "word": "you"
+        },
+        {
+          "startTime": 24664,
+          "endTime": 25230,
+          "word": "talk"
+        },
+        {
+          "startTime": 25230,
+          "endTime": 25531,
+          "word": "like"
+        },
+        {
+          "startTime": 25531,
+          "endTime": 25846,
+          "word": "you"
+        },
+        {
+          "startTime": 25846,
+          "endTime": 26430,
+          "word": "walk,"
+        },
+        {
+          "startTime": 26430,
+          "endTime": 26726,
+          "word": "come"
+        },
+        {
+          "startTime": 26726,
+          "endTime": 27127,
+          "word": "and"
+        },
+        {
+          "startTime": 27292,
+          "endTime": 27774,
+          "word": "talk"
+        },
+        {
+          "startTime": 27774,
+          "endTime": 28142,
+          "word": "to"
+        },
+        {
+          "startTime": 28142,
+          "endTime": 29379,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 31240,
+      "endTime": 31958,
+      "text": "But look here",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31245,
+          "endTime": 31345,
+          "word": "But"
+        },
+        {
+          "startTime": 31345,
+          "endTime": 31468,
+          "word": "look"
+        },
+        {
+          "startTime": 31468,
+          "endTime": 31958,
+          "word": "here"
+        }
+      ]
+    },
+    {
+      "time": 32520,
+      "endTime": 36035,
+      "text": "It would break my heart, break my heart, break my heart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32528,
+          "endTime": 32680,
+          "word": "It"
+        },
+        {
+          "startTime": 32680,
+          "endTime": 32880,
+          "word": "would"
+        },
+        {
+          "startTime": 32880,
+          "endTime": 33119,
+          "word": "break"
+        },
+        {
+          "startTime": 33119,
+          "endTime": 33307,
+          "word": "my"
+        },
+        {
+          "startTime": 33307,
+          "endTime": 33680,
+          "word": "heart,"
+        },
+        {
+          "startTime": 33680,
+          "endTime": 33948,
+          "word": "break"
+        },
+        {
+          "startTime": 33948,
+          "endTime": 34214,
+          "word": "my"
+        },
+        {
+          "startTime": 34214,
+          "endTime": 34519,
+          "word": "heart,"
+        },
+        {
+          "startTime": 34519,
+          "endTime": 34876,
+          "word": "break"
+        },
+        {
+          "startTime": 34876,
+          "endTime": 35318,
+          "word": "my"
+        },
+        {
+          "startTime": 35318,
+          "endTime": 36035,
+          "word": "heart"
+        }
+      ]
+    },
+    {
+      "time": 36030,
+      "endTime": 41185,
+      "text": "If I find out you can't move",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36035,
+          "endTime": 36135,
+          "word": "If"
+        },
+        {
+          "startTime": 36135,
+          "endTime": 36358,
+          "word": "I"
+        },
+        {
+          "startTime": 36358,
+          "endTime": 36635,
+          "word": "find"
+        },
+        {
+          "startTime": 36635,
+          "endTime": 36892,
+          "word": "out"
+        },
+        {
+          "startTime": 36892,
+          "endTime": 37068,
+          "word": "you"
+        },
+        {
+          "startTime": 37068,
+          "endTime": 37519,
+          "word": "can't"
+        },
+        {
+          "startTime": 37519,
+          "endTime": 41185,
+          "word": "move"
+        }
+      ]
+    },
+    {
+      "time": 41720,
+      "endTime": 45239,
+      "text": "You better show me now, show me now, show me now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41724,
+          "endTime": 41834,
+          "word": "You"
+        },
+        {
+          "startTime": 41834,
+          "endTime": 42113,
+          "word": "better"
+        },
+        {
+          "startTime": 42113,
+          "endTime": 42433,
+          "word": "show"
+        },
+        {
+          "startTime": 42433,
+          "endTime": 42634,
+          "word": "me"
+        },
+        {
+          "startTime": 42634,
+          "endTime": 42954,
+          "word": "now,"
+        },
+        {
+          "startTime": 42954,
+          "endTime": 43353,
+          "word": "show"
+        },
+        {
+          "startTime": 43353,
+          "endTime": 43540,
+          "word": "me"
+        },
+        {
+          "startTime": 43540,
+          "endTime": 43794,
+          "word": "now,"
+        },
+        {
+          "startTime": 43794,
+          "endTime": 44204,
+          "word": "show"
+        },
+        {
+          "startTime": 44204,
+          "endTime": 44432,
+          "word": "me"
+        },
+        {
+          "startTime": 44432,
+          "endTime": 45239,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 45810,
+      "endTime": 49017,
+      "text": "'Cause when I take you to the floor, ooh, you gotta get down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45815,
+          "endTime": 45917,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 45917,
+          "endTime": 46064,
+          "word": "when"
+        },
+        {
+          "startTime": 46064,
+          "endTime": 46237,
+          "word": "I"
+        },
+        {
+          "startTime": 46237,
+          "endTime": 46373,
+          "word": "take"
+        },
+        {
+          "startTime": 46373,
+          "endTime": 46558,
+          "word": "you"
+        },
+        {
+          "startTime": 46558,
+          "endTime": 46693,
+          "word": "to"
+        },
+        {
+          "startTime": 46693,
+          "endTime": 46827,
+          "word": "the"
+        },
+        {
+          "startTime": 46827,
+          "endTime": 47371,
+          "word": "floor,"
+        },
+        {
+          "startTime": 47404,
+          "endTime": 47845,
+          "word": "ooh,"
+        },
+        {
+          "startTime": 47845,
+          "endTime": 48033,
+          "word": "you"
+        },
+        {
+          "startTime": 48033,
+          "endTime": 48272,
+          "word": "gotta"
+        },
+        {
+          "startTime": 48272,
+          "endTime": 48553,
+          "word": "get"
+        },
+        {
+          "startTime": 48553,
+          "endTime": 49017,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 49140,
+      "endTime": 50471,
+      "text": "You know what to do",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49148,
+          "endTime": 49273,
+          "word": "You"
+        },
+        {
+          "startTime": 49273,
+          "endTime": 49552,
+          "word": "know"
+        },
+        {
+          "startTime": 49552,
+          "endTime": 49844,
+          "word": "what"
+        },
+        {
+          "startTime": 49844,
+          "endTime": 50045,
+          "word": "to"
+        },
+        {
+          "startTime": 50045,
+          "endTime": 50471,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "time": 50510,
+      "endTime": 54676,
+      "text": "Hey, Mr. DJ (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50511,
+          "endTime": 50938,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 50938,
+          "endTime": 51393,
+          "word": "Mr."
+        },
+        {
+          "startTime": 51393,
+          "endTime": 52539,
+          "word": "DJ"
+        },
+        {
+          "startTime": 52964,
+          "endTime": 53404,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 53404,
+          "endTime": 53843,
+          "word": "oh,"
+        },
+        {
+          "startTime": 53843,
+          "endTime": 54676,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 54340,
+      "endTime": 59380,
+      "text": "Play a song for this pretty little lady (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54345,
+          "endTime": 54534,
+          "word": "Play"
+        },
+        {
+          "startTime": 54534,
+          "endTime": 54788,
+          "word": "a"
+        },
+        {
+          "startTime": 54788,
+          "endTime": 55121,
+          "word": "song"
+        },
+        {
+          "startTime": 55121,
+          "endTime": 55268,
+          "word": "for"
+        },
+        {
+          "startTime": 55268,
+          "endTime": 55535,
+          "word": "this"
+        },
+        {
+          "startTime": 55535,
+          "endTime": 55735,
+          "word": "pretty"
+        },
+        {
+          "startTime": 55735,
+          "endTime": 56068,
+          "word": "little"
+        },
+        {
+          "startTime": 56068,
+          "endTime": 57254,
+          "word": "lady"
+        },
+        {
+          "startTime": 57559,
+          "endTime": 58107,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 58107,
+          "endTime": 58519,
+          "word": "oh,"
+        },
+        {
+          "startTime": 58519,
+          "endTime": 59380,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 58900,
+      "endTime": 64129,
+      "text": "'Cause if she dance as good as she look right now (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 58904,
+          "endTime": 59004,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 59004,
+          "endTime": 59179,
+          "word": "if"
+        },
+        {
+          "startTime": 59179,
+          "endTime": 59484,
+          "word": "she"
+        },
+        {
+          "startTime": 59484,
+          "endTime": 59819,
+          "word": "dance"
+        },
+        {
+          "startTime": 59819,
+          "endTime": 60136,
+          "word": "as"
+        },
+        {
+          "startTime": 60136,
+          "endTime": 60296,
+          "word": "good"
+        },
+        {
+          "startTime": 60296,
+          "endTime": 60456,
+          "word": "as"
+        },
+        {
+          "startTime": 60456,
+          "endTime": 60631,
+          "word": "she"
+        },
+        {
+          "startTime": 60631,
+          "endTime": 61030,
+          "word": "look"
+        },
+        {
+          "startTime": 61030,
+          "endTime": 61383,
+          "word": "right"
+        },
+        {
+          "startTime": 61383,
+          "endTime": 62064,
+          "word": "now"
+        },
+        {
+          "startTime": 62236,
+          "endTime": 62743,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 62743,
+          "endTime": 63142,
+          "word": "oh,"
+        },
+        {
+          "startTime": 63142,
+          "endTime": 64129,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 63300,
+      "endTime": 66379,
+      "text": "I just might, I just might make her my baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 63309,
+          "endTime": 63440,
+          "word": "I"
+        },
+        {
+          "startTime": 63440,
+          "endTime": 63694,
+          "word": "just"
+        },
+        {
+          "startTime": 63694,
+          "endTime": 64025,
+          "word": "might,"
+        },
+        {
+          "startTime": 64161,
+          "endTime": 64321,
+          "word": "I"
+        },
+        {
+          "startTime": 64321,
+          "endTime": 64575,
+          "word": "just"
+        },
+        {
+          "startTime": 64575,
+          "endTime": 64813,
+          "word": "might"
+        },
+        {
+          "startTime": 64813,
+          "endTime": 64971,
+          "word": "make"
+        },
+        {
+          "startTime": 64971,
+          "endTime": 65169,
+          "word": "her"
+        },
+        {
+          "startTime": 65169,
+          "endTime": 65420,
+          "word": "my"
+        },
+        {
+          "startTime": 65420,
+          "endTime": 66379,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 66460,
+      "endTime": 70110,
+      "text": "I just might make her my baby, hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66462,
+          "endTime": 66603,
+          "word": "I"
+        },
+        {
+          "startTime": 66603,
+          "endTime": 66857,
+          "word": "just"
+        },
+        {
+          "startTime": 66857,
+          "endTime": 67150,
+          "word": "might"
+        },
+        {
+          "startTime": 67150,
+          "endTime": 67284,
+          "word": "make"
+        },
+        {
+          "startTime": 67284,
+          "endTime": 67457,
+          "word": "her"
+        },
+        {
+          "startTime": 67457,
+          "endTime": 67764,
+          "word": "my"
+        },
+        {
+          "startTime": 67764,
+          "endTime": 68630,
+          "word": "baby,"
+        },
+        {
+          "startTime": 68630,
+          "endTime": 70110,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 73180,
+      "endTime": 78806,
+      "text": "I just might, oh, I just might",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 73186,
+          "endTime": 73344,
+          "word": "I"
+        },
+        {
+          "startTime": 73344,
+          "endTime": 73596,
+          "word": "just"
+        },
+        {
+          "startTime": 73596,
+          "endTime": 74080,
+          "word": "might,"
+        },
+        {
+          "startTime": 77373,
+          "endTime": 77825,
+          "word": "oh,"
+        },
+        {
+          "startTime": 77825,
+          "endTime": 78000,
+          "word": "I"
+        },
+        {
+          "startTime": 78000,
+          "endTime": 78279,
+          "word": "just"
+        },
+        {
+          "startTime": 78279,
+          "endTime": 78806,
+          "word": "might"
+        }
+      ]
+    },
+    {
+      "time": 79020,
+      "endTime": 85542,
+      "text": "But first, may I just say that your face got me so intrigued?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 79024,
+          "endTime": 79249,
+          "word": "But"
+        },
+        {
+          "startTime": 79249,
+          "endTime": 79525,
+          "word": "first,"
+        },
+        {
+          "startTime": 79673,
+          "endTime": 79990,
+          "word": "may"
+        },
+        {
+          "startTime": 79990,
+          "endTime": 80257,
+          "word": "I"
+        },
+        {
+          "startTime": 80257,
+          "endTime": 80558,
+          "word": "just"
+        },
+        {
+          "startTime": 80558,
+          "endTime": 81139,
+          "word": "say"
+        },
+        {
+          "startTime": 81139,
+          "endTime": 81457,
+          "word": "that"
+        },
+        {
+          "startTime": 81457,
+          "endTime": 81739,
+          "word": "your"
+        },
+        {
+          "startTime": 81739,
+          "endTime": 82291,
+          "word": "face"
+        },
+        {
+          "startTime": 82291,
+          "endTime": 82583,
+          "word": "got"
+        },
+        {
+          "startTime": 82583,
+          "endTime": 82932,
+          "word": "me"
+        },
+        {
+          "startTime": 83190,
+          "endTime": 83691,
+          "word": "so"
+        },
+        {
+          "startTime": 83691,
+          "endTime": 85542,
+          "word": "intrigued?"
+        }
+      ]
+    },
+    {
+      "time": 86080,
+      "endTime": 87832,
+      "text": "I'm so intrigued",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 86087,
+          "endTime": 86487,
+          "word": "I'm"
+        },
+        {
+          "startTime": 86487,
+          "endTime": 86737,
+          "word": "so"
+        },
+        {
+          "startTime": 86737,
+          "endTime": 87832,
+          "word": "intrigued"
+        }
+      ]
+    },
+    {
+      "time": 88870,
+      "endTime": 93734,
+      "text": "But what good is beauty if your booty can't find the beat?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 88874,
+          "endTime": 88974,
+          "word": "But"
+        },
+        {
+          "startTime": 88974,
+          "endTime": 89291,
+          "word": "what"
+        },
+        {
+          "startTime": 89291,
+          "endTime": 89574,
+          "word": "good"
+        },
+        {
+          "startTime": 89574,
+          "endTime": 89890,
+          "word": "is"
+        },
+        {
+          "startTime": 89890,
+          "endTime": 90475,
+          "word": "beauty"
+        },
+        {
+          "startTime": 90475,
+          "endTime": 90726,
+          "word": "if"
+        },
+        {
+          "startTime": 90726,
+          "endTime": 91025,
+          "word": "your"
+        },
+        {
+          "startTime": 91025,
+          "endTime": 91625,
+          "word": "booty"
+        },
+        {
+          "startTime": 91625,
+          "endTime": 92094,
+          "word": "can't"
+        },
+        {
+          "startTime": 92094,
+          "endTime": 92472,
+          "word": "find"
+        },
+        {
+          "startTime": 92472,
+          "endTime": 92723,
+          "word": "the"
+        },
+        {
+          "startTime": 92723,
+          "endTime": 93734,
+          "word": "beat?"
+        }
+      ]
+    },
+    {
+      "time": 94180,
+      "endTime": 95630,
+      "text": "I don't wanna know, girl",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94181,
+          "endTime": 94281,
+          "word": "I"
+        },
+        {
+          "startTime": 94281,
+          "endTime": 94443,
+          "word": "don't"
+        },
+        {
+          "startTime": 94443,
+          "endTime": 94710,
+          "word": "wanna"
+        },
+        {
+          "startTime": 94710,
+          "endTime": 94908,
+          "word": "know,"
+        },
+        {
+          "startTime": 94908,
+          "endTime": 95630,
+          "word": "girl"
+        }
+      ]
+    },
+    {
+      "time": 95810,
+      "endTime": 97273,
+      "text": "So please don't do that to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95816,
+          "endTime": 95916,
+          "word": "So"
+        },
+        {
+          "startTime": 95916,
+          "endTime": 96128,
+          "word": "please"
+        },
+        {
+          "startTime": 96128,
+          "endTime": 96338,
+          "word": "don't"
+        },
+        {
+          "startTime": 96338,
+          "endTime": 96545,
+          "word": "do"
+        },
+        {
+          "startTime": 96545,
+          "endTime": 96708,
+          "word": "that"
+        },
+        {
+          "startTime": 96708,
+          "endTime": 96858,
+          "word": "to"
+        },
+        {
+          "startTime": 96858,
+          "endTime": 97273,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 97640,
+      "endTime": 101270,
+      "text": "'Cause it would break my heart, break my heart, break my heart",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 97640,
+          "endTime": 97776,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 97776,
+          "endTime": 97923,
+          "word": "it"
+        },
+        {
+          "startTime": 97923,
+          "endTime": 98096,
+          "word": "would"
+        },
+        {
+          "startTime": 98096,
+          "endTime": 98350,
+          "word": "break"
+        },
+        {
+          "startTime": 98350,
+          "endTime": 98521,
+          "word": "my"
+        },
+        {
+          "startTime": 98521,
+          "endTime": 98883,
+          "word": "heart,"
+        },
+        {
+          "startTime": 98883,
+          "endTime": 99282,
+          "word": "break"
+        },
+        {
+          "startTime": 99282,
+          "endTime": 99444,
+          "word": "my"
+        },
+        {
+          "startTime": 99444,
+          "endTime": 99801,
+          "word": "heart,"
+        },
+        {
+          "startTime": 99801,
+          "endTime": 100069,
+          "word": "break"
+        },
+        {
+          "startTime": 100069,
+          "endTime": 100554,
+          "word": "my"
+        },
+        {
+          "startTime": 100554,
+          "endTime": 101270,
+          "word": "heart"
+        }
+      ]
+    },
+    {
+      "time": 101270,
+      "endTime": 106408,
+      "text": "If I find out you can't move",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101270,
+          "endTime": 101386,
+          "word": "If"
+        },
+        {
+          "startTime": 101386,
+          "endTime": 101574,
+          "word": "I"
+        },
+        {
+          "startTime": 101574,
+          "endTime": 101841,
+          "word": "find"
+        },
+        {
+          "startTime": 101841,
+          "endTime": 102120,
+          "word": "out"
+        },
+        {
+          "startTime": 102120,
+          "endTime": 102346,
+          "word": "you"
+        },
+        {
+          "startTime": 102346,
+          "endTime": 102707,
+          "word": "can't"
+        },
+        {
+          "startTime": 102707,
+          "endTime": 106408,
+          "word": "move"
+        }
+      ]
+    },
+    {
+      "time": 106970,
+      "endTime": 110384,
+      "text": "You better show me now, show me now, show me now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 106973,
+          "endTime": 107109,
+          "word": "You"
+        },
+        {
+          "startTime": 107109,
+          "endTime": 107350,
+          "word": "better"
+        },
+        {
+          "startTime": 107350,
+          "endTime": 107683,
+          "word": "show"
+        },
+        {
+          "startTime": 107683,
+          "endTime": 107884,
+          "word": "me"
+        },
+        {
+          "startTime": 107884,
+          "endTime": 108176,
+          "word": "now,"
+        },
+        {
+          "startTime": 108176,
+          "endTime": 108564,
+          "word": "show"
+        },
+        {
+          "startTime": 108564,
+          "endTime": 108737,
+          "word": "me"
+        },
+        {
+          "startTime": 108737,
+          "endTime": 109015,
+          "word": "now,"
+        },
+        {
+          "startTime": 109015,
+          "endTime": 109449,
+          "word": "show"
+        },
+        {
+          "startTime": 109449,
+          "endTime": 109662,
+          "word": "me"
+        },
+        {
+          "startTime": 109662,
+          "endTime": 110384,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 111050,
+      "endTime": 114283,
+      "text": "'Cause when I take you to the floor, ooh, you gotta get down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 111059,
+          "endTime": 111176,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 111176,
+          "endTime": 111311,
+          "word": "when"
+        },
+        {
+          "startTime": 111311,
+          "endTime": 111456,
+          "word": "I"
+        },
+        {
+          "startTime": 111456,
+          "endTime": 111604,
+          "word": "take"
+        },
+        {
+          "startTime": 111604,
+          "endTime": 111751,
+          "word": "you"
+        },
+        {
+          "startTime": 111751,
+          "endTime": 111883,
+          "word": "to"
+        },
+        {
+          "startTime": 111883,
+          "endTime": 112030,
+          "word": "the"
+        },
+        {
+          "startTime": 112030,
+          "endTime": 112561,
+          "word": "floor,"
+        },
+        {
+          "startTime": 112634,
+          "endTime": 113021,
+          "word": "ooh,"
+        },
+        {
+          "startTime": 113021,
+          "endTime": 113247,
+          "word": "you"
+        },
+        {
+          "startTime": 113247,
+          "endTime": 113476,
+          "word": "gotta"
+        },
+        {
+          "startTime": 113476,
+          "endTime": 113768,
+          "word": "get"
+        },
+        {
+          "startTime": 113768,
+          "endTime": 114283,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 114330,
+      "endTime": 115768,
+      "text": "You know what to do",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 114339,
+          "endTime": 114512,
+          "word": "You"
+        },
+        {
+          "startTime": 114512,
+          "endTime": 114845,
+          "word": "know"
+        },
+        {
+          "startTime": 114845,
+          "endTime": 115126,
+          "word": "what"
+        },
+        {
+          "startTime": 115126,
+          "endTime": 115299,
+          "word": "to"
+        },
+        {
+          "startTime": 115299,
+          "endTime": 115768,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "time": 115780,
+      "endTime": 120120,
+      "text": "Hey, Mr. DJ (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 115787,
+          "endTime": 116094,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 116094,
+          "endTime": 116572,
+          "word": "Mr."
+        },
+        {
+          "startTime": 116572,
+          "endTime": 117770,
+          "word": "DJ"
+        },
+        {
+          "startTime": 118190,
+          "endTime": 118685,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 118685,
+          "endTime": 119097,
+          "word": "oh,"
+        },
+        {
+          "startTime": 119097,
+          "endTime": 120120,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 119580,
+      "endTime": 124633,
+      "text": "Play a song for this pretty little lady (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 119587,
+          "endTime": 119809,
+          "word": "Play"
+        },
+        {
+          "startTime": 119809,
+          "endTime": 120063,
+          "word": "a"
+        },
+        {
+          "startTime": 120063,
+          "endTime": 120342,
+          "word": "song"
+        },
+        {
+          "startTime": 120342,
+          "endTime": 120502,
+          "word": "for"
+        },
+        {
+          "startTime": 120502,
+          "endTime": 120784,
+          "word": "this"
+        },
+        {
+          "startTime": 120784,
+          "endTime": 121027,
+          "word": "pretty"
+        },
+        {
+          "startTime": 121027,
+          "endTime": 121347,
+          "word": "little"
+        },
+        {
+          "startTime": 121347,
+          "endTime": 122586,
+          "word": "lady"
+        },
+        {
+          "startTime": 122816,
+          "endTime": 123283,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 123283,
+          "endTime": 123697,
+          "word": "oh,"
+        },
+        {
+          "startTime": 123697,
+          "endTime": 124633,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 124150,
+      "endTime": 129312,
+      "text": "'Cause if she dance as good as she look right now (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 124153,
+          "endTime": 124253,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 124253,
+          "endTime": 124413,
+          "word": "if"
+        },
+        {
+          "startTime": 124413,
+          "endTime": 124720,
+          "word": "she"
+        },
+        {
+          "startTime": 124720,
+          "endTime": 125121,
+          "word": "dance"
+        },
+        {
+          "startTime": 125121,
+          "endTime": 125454,
+          "word": "as"
+        },
+        {
+          "startTime": 125454,
+          "endTime": 125614,
+          "word": "good"
+        },
+        {
+          "startTime": 125614,
+          "endTime": 125774,
+          "word": "as"
+        },
+        {
+          "startTime": 125774,
+          "endTime": 125920,
+          "word": "she"
+        },
+        {
+          "startTime": 125920,
+          "endTime": 126253,
+          "word": "look"
+        },
+        {
+          "startTime": 126253,
+          "endTime": 126626,
+          "word": "right"
+        },
+        {
+          "startTime": 126626,
+          "endTime": 127397,
+          "word": "now"
+        },
+        {
+          "startTime": 127475,
+          "endTime": 127968,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 127968,
+          "endTime": 128353,
+          "word": "oh,"
+        },
+        {
+          "startTime": 128353,
+          "endTime": 129312,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 128520,
+      "endTime": 131606,
+      "text": "I just might, I just might make her my baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128529,
+          "endTime": 128672,
+          "word": "I"
+        },
+        {
+          "startTime": 128672,
+          "endTime": 128898,
+          "word": "just"
+        },
+        {
+          "startTime": 128898,
+          "endTime": 129265,
+          "word": "might,"
+        },
+        {
+          "startTime": 129366,
+          "endTime": 129555,
+          "word": "I"
+        },
+        {
+          "startTime": 129555,
+          "endTime": 129809,
+          "word": "just"
+        },
+        {
+          "startTime": 129809,
+          "endTime": 130079,
+          "word": "might"
+        },
+        {
+          "startTime": 130079,
+          "endTime": 130226,
+          "word": "make"
+        },
+        {
+          "startTime": 130226,
+          "endTime": 130399,
+          "word": "her"
+        },
+        {
+          "startTime": 130399,
+          "endTime": 130681,
+          "word": "my"
+        },
+        {
+          "startTime": 130681,
+          "endTime": 131606,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 131690,
+      "endTime": 135294,
+      "text": "I just might make her my baby, hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131694,
+          "endTime": 131837,
+          "word": "I"
+        },
+        {
+          "startTime": 131837,
+          "endTime": 132103,
+          "word": "just"
+        },
+        {
+          "startTime": 132103,
+          "endTime": 132423,
+          "word": "might"
+        },
+        {
+          "startTime": 132423,
+          "endTime": 132583,
+          "word": "make"
+        },
+        {
+          "startTime": 132583,
+          "endTime": 132743,
+          "word": "her"
+        },
+        {
+          "startTime": 132743,
+          "endTime": 133023,
+          "word": "my"
+        },
+        {
+          "startTime": 133023,
+          "endTime": 133863,
+          "word": "baby,"
+        },
+        {
+          "startTime": 133863,
+          "endTime": 135294,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 144670,
+      "endTime": 149221,
+      "text": "This the part where you break it all the way down, down, down, down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144676,
+          "endTime": 144931,
+          "word": "This"
+        },
+        {
+          "startTime": 144931,
+          "endTime": 145132,
+          "word": "the"
+        },
+        {
+          "startTime": 145132,
+          "endTime": 145488,
+          "word": "part"
+        },
+        {
+          "startTime": 145488,
+          "endTime": 145678,
+          "word": "where"
+        },
+        {
+          "startTime": 145678,
+          "endTime": 145853,
+          "word": "you"
+        },
+        {
+          "startTime": 145853,
+          "endTime": 145985,
+          "word": "break"
+        },
+        {
+          "startTime": 145985,
+          "endTime": 146117,
+          "word": "it"
+        },
+        {
+          "startTime": 146117,
+          "endTime": 146257,
+          "word": "all"
+        },
+        {
+          "startTime": 146257,
+          "endTime": 146417,
+          "word": "the"
+        },
+        {
+          "startTime": 146417,
+          "endTime": 146712,
+          "word": "way"
+        },
+        {
+          "startTime": 146712,
+          "endTime": 147296,
+          "word": "down,"
+        },
+        {
+          "startTime": 147296,
+          "endTime": 147870,
+          "word": "down,"
+        },
+        {
+          "startTime": 147870,
+          "endTime": 148469,
+          "word": "down,"
+        },
+        {
+          "startTime": 148469,
+          "endTime": 149221,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 149330,
+      "endTime": 153870,
+      "text": "This the part where I turn you all the way around, 'round, 'round, 'round",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 149337,
+          "endTime": 149614,
+          "word": "This"
+        },
+        {
+          "startTime": 149614,
+          "endTime": 149787,
+          "word": "the"
+        },
+        {
+          "startTime": 149787,
+          "endTime": 150152,
+          "word": "part"
+        },
+        {
+          "startTime": 150152,
+          "endTime": 150308,
+          "word": "where"
+        },
+        {
+          "startTime": 150308,
+          "endTime": 150443,
+          "word": "I"
+        },
+        {
+          "startTime": 150443,
+          "endTime": 150609,
+          "word": "turn"
+        },
+        {
+          "startTime": 150609,
+          "endTime": 150749,
+          "word": "you"
+        },
+        {
+          "startTime": 150749,
+          "endTime": 150922,
+          "word": "all"
+        },
+        {
+          "startTime": 150922,
+          "endTime": 151044,
+          "word": "the"
+        },
+        {
+          "startTime": 151044,
+          "endTime": 151191,
+          "word": "way"
+        },
+        {
+          "startTime": 151191,
+          "endTime": 151957,
+          "word": "around,"
+        },
+        {
+          "startTime": 151957,
+          "endTime": 152518,
+          "word": "'round,"
+        },
+        {
+          "startTime": 152518,
+          "endTime": 153077,
+          "word": "'round,"
+        },
+        {
+          "startTime": 153077,
+          "endTime": 153870,
+          "word": "'round"
+        }
+      ]
+    },
+    {
+      "time": 153960,
+      "endTime": 157249,
+      "text": "Put some spirit in it, put your heart into it",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153961,
+          "endTime": 154161,
+          "word": "Put"
+        },
+        {
+          "startTime": 154161,
+          "endTime": 154481,
+          "word": "some"
+        },
+        {
+          "startTime": 154481,
+          "endTime": 155067,
+          "word": "spirit"
+        },
+        {
+          "startTime": 155067,
+          "endTime": 155242,
+          "word": "in"
+        },
+        {
+          "startTime": 155242,
+          "endTime": 155577,
+          "word": "it,"
+        },
+        {
+          "startTime": 155700,
+          "endTime": 155873,
+          "word": "put"
+        },
+        {
+          "startTime": 155873,
+          "endTime": 156165,
+          "word": "your"
+        },
+        {
+          "startTime": 156165,
+          "endTime": 156513,
+          "word": "heart"
+        },
+        {
+          "startTime": 156513,
+          "endTime": 156980,
+          "word": "into"
+        },
+        {
+          "startTime": 156980,
+          "endTime": 157249,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 157240,
+      "endTime": 159448,
+      "text": "That's all I need",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157249,
+          "endTime": 157484,
+          "word": "That's"
+        },
+        {
+          "startTime": 157484,
+          "endTime": 157949,
+          "word": "all"
+        },
+        {
+          "startTime": 157949,
+          "endTime": 158376,
+          "word": "I"
+        },
+        {
+          "startTime": 158376,
+          "endTime": 159448,
+          "word": "need"
+        }
+      ]
+    },
+    {
+      "time": 159440,
+      "endTime": 162460,
+      "text": "And if I like what I see, you're coming home with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159448,
+          "endTime": 159548,
+          "word": "And"
+        },
+        {
+          "startTime": 159548,
+          "endTime": 159648,
+          "word": "if"
+        },
+        {
+          "startTime": 159648,
+          "endTime": 159768,
+          "word": "I"
+        },
+        {
+          "startTime": 159768,
+          "endTime": 159993,
+          "word": "like"
+        },
+        {
+          "startTime": 159993,
+          "endTime": 160093,
+          "word": "what"
+        },
+        {
+          "startTime": 160093,
+          "endTime": 160276,
+          "word": "I"
+        },
+        {
+          "startTime": 160276,
+          "endTime": 160976,
+          "word": "see,"
+        },
+        {
+          "startTime": 161114,
+          "endTime": 161281,
+          "word": "you're"
+        },
+        {
+          "startTime": 161281,
+          "endTime": 161589,
+          "word": "coming"
+        },
+        {
+          "startTime": 161589,
+          "endTime": 161855,
+          "word": "home"
+        },
+        {
+          "startTime": 161855,
+          "endTime": 162055,
+          "word": "with"
+        },
+        {
+          "startTime": 162055,
+          "endTime": 162460,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 162480,
+      "endTime": 166647,
+      "text": "Hey, Mr. DJ (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 162481,
+          "endTime": 162773,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 162773,
+          "endTime": 163171,
+          "word": "Mr."
+        },
+        {
+          "startTime": 163171,
+          "endTime": 164375,
+          "word": "DJ"
+        },
+        {
+          "startTime": 164761,
+          "endTime": 165254,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 165254,
+          "endTime": 165655,
+          "word": "oh,"
+        },
+        {
+          "startTime": 165655,
+          "endTime": 166647,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 166160,
+      "endTime": 171230,
+      "text": "Play a song for this pretty little lady (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 166164,
+          "endTime": 166430,
+          "word": "Play"
+        },
+        {
+          "startTime": 166430,
+          "endTime": 166656,
+          "word": "a"
+        },
+        {
+          "startTime": 166656,
+          "endTime": 167089,
+          "word": "song"
+        },
+        {
+          "startTime": 167089,
+          "endTime": 167234,
+          "word": "for"
+        },
+        {
+          "startTime": 167234,
+          "endTime": 167447,
+          "word": "this"
+        },
+        {
+          "startTime": 167447,
+          "endTime": 167688,
+          "word": "pretty"
+        },
+        {
+          "startTime": 167688,
+          "endTime": 167940,
+          "word": "little"
+        },
+        {
+          "startTime": 167940,
+          "endTime": 169195,
+          "word": "lady"
+        },
+        {
+          "startTime": 169406,
+          "endTime": 169925,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 169925,
+          "endTime": 170299,
+          "word": "oh,"
+        },
+        {
+          "startTime": 170299,
+          "endTime": 171230,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 170730,
+      "endTime": 175918,
+      "text": "'Cause if she dance as good as she look right now (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170737,
+          "endTime": 170837,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 170837,
+          "endTime": 171012,
+          "word": "if"
+        },
+        {
+          "startTime": 171012,
+          "endTime": 171292,
+          "word": "she"
+        },
+        {
+          "startTime": 171292,
+          "endTime": 171784,
+          "word": "dance"
+        },
+        {
+          "startTime": 171784,
+          "endTime": 172050,
+          "word": "as"
+        },
+        {
+          "startTime": 172050,
+          "endTime": 172184,
+          "word": "good"
+        },
+        {
+          "startTime": 172184,
+          "endTime": 172370,
+          "word": "as"
+        },
+        {
+          "startTime": 172370,
+          "endTime": 172517,
+          "word": "she"
+        },
+        {
+          "startTime": 172517,
+          "endTime": 172908,
+          "word": "look"
+        },
+        {
+          "startTime": 172908,
+          "endTime": 173228,
+          "word": "right"
+        },
+        {
+          "startTime": 173228,
+          "endTime": 173881,
+          "word": "now"
+        },
+        {
+          "startTime": 174110,
+          "endTime": 174590,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 174590,
+          "endTime": 175004,
+          "word": "oh,"
+        },
+        {
+          "startTime": 175004,
+          "endTime": 175918,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 175150,
+      "endTime": 178153,
+      "text": "I just might, I just might make her my baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 175159,
+          "endTime": 175259,
+          "word": "I"
+        },
+        {
+          "startTime": 175259,
+          "endTime": 175526,
+          "word": "just"
+        },
+        {
+          "startTime": 175526,
+          "endTime": 175926,
+          "word": "might,"
+        },
+        {
+          "startTime": 176033,
+          "endTime": 176192,
+          "word": "I"
+        },
+        {
+          "startTime": 176192,
+          "endTime": 176392,
+          "word": "just"
+        },
+        {
+          "startTime": 176392,
+          "endTime": 176686,
+          "word": "might"
+        },
+        {
+          "startTime": 176686,
+          "endTime": 176833,
+          "word": "make"
+        },
+        {
+          "startTime": 176833,
+          "endTime": 176993,
+          "word": "her"
+        },
+        {
+          "startTime": 176993,
+          "endTime": 177273,
+          "word": "my"
+        },
+        {
+          "startTime": 177273,
+          "endTime": 178153,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 178340,
+      "endTime": 180924,
+      "text": "I just might make her my baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 178341,
+          "endTime": 178478,
+          "word": "I"
+        },
+        {
+          "startTime": 178478,
+          "endTime": 178694,
+          "word": "just"
+        },
+        {
+          "startTime": 178694,
+          "endTime": 178999,
+          "word": "might"
+        },
+        {
+          "startTime": 178999,
+          "endTime": 179240,
+          "word": "make"
+        },
+        {
+          "startTime": 179240,
+          "endTime": 179466,
+          "word": "her"
+        },
+        {
+          "startTime": 179466,
+          "endTime": 179861,
+          "word": "my"
+        },
+        {
+          "startTime": 179861,
+          "endTime": 180924,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 181040,
+      "endTime": 185311,
+      "text": "Hey, Mr. DJ (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181044,
+          "endTime": 181410,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 181410,
+          "endTime": 182071,
+          "word": "Mr."
+        },
+        {
+          "startTime": 182071,
+          "endTime": 183397,
+          "word": "DJ"
+        },
+        {
+          "startTime": 183397,
+          "endTime": 183877,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 183877,
+          "endTime": 184342,
+          "word": "oh,"
+        },
+        {
+          "startTime": 184342,
+          "endTime": 185311,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 184830,
+      "endTime": 189898,
+      "text": "Play a song for this pretty little lady (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 184831,
+          "endTime": 185087,
+          "word": "Play"
+        },
+        {
+          "startTime": 185087,
+          "endTime": 185275,
+          "word": "a"
+        },
+        {
+          "startTime": 185275,
+          "endTime": 185636,
+          "word": "song"
+        },
+        {
+          "startTime": 185636,
+          "endTime": 185796,
+          "word": "for"
+        },
+        {
+          "startTime": 185796,
+          "endTime": 186034,
+          "word": "this"
+        },
+        {
+          "startTime": 186034,
+          "endTime": 186301,
+          "word": "pretty"
+        },
+        {
+          "startTime": 186301,
+          "endTime": 186581,
+          "word": "little"
+        },
+        {
+          "startTime": 186581,
+          "endTime": 188127,
+          "word": "lady"
+        },
+        {
+          "startTime": 188127,
+          "endTime": 188661,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 188661,
+          "endTime": 189074,
+          "word": "oh,"
+        },
+        {
+          "startTime": 189074,
+          "endTime": 189898,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 189420,
+      "endTime": 194653,
+      "text": "'Cause if she dance as good as she look right now (Oh, oh, oh)",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 189422,
+          "endTime": 189522,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 189522,
+          "endTime": 189663,
+          "word": "if"
+        },
+        {
+          "startTime": 189663,
+          "endTime": 189971,
+          "word": "she"
+        },
+        {
+          "startTime": 189971,
+          "endTime": 190465,
+          "word": "dance"
+        },
+        {
+          "startTime": 190465,
+          "endTime": 190660,
+          "word": "as"
+        },
+        {
+          "startTime": 190660,
+          "endTime": 190780,
+          "word": "good"
+        },
+        {
+          "startTime": 190780,
+          "endTime": 190913,
+          "word": "as"
+        },
+        {
+          "startTime": 190913,
+          "endTime": 191192,
+          "word": "she"
+        },
+        {
+          "startTime": 191192,
+          "endTime": 191566,
+          "word": "look"
+        },
+        {
+          "startTime": 191566,
+          "endTime": 191883,
+          "word": "right"
+        },
+        {
+          "startTime": 191883,
+          "endTime": 192658,
+          "word": "now"
+        },
+        {
+          "startTime": 192744,
+          "endTime": 193183,
+          "word": "(Oh,"
+        },
+        {
+          "startTime": 193183,
+          "endTime": 193584,
+          "word": "oh,"
+        },
+        {
+          "startTime": 193584,
+          "endTime": 194653,
+          "word": "oh)"
+        }
+      ]
+    },
+    {
+      "time": 193800,
+      "endTime": 196885,
+      "text": "I just might, I just might make her my baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 193800,
+          "endTime": 193900,
+          "word": "I"
+        },
+        {
+          "startTime": 193900,
+          "endTime": 194154,
+          "word": "just"
+        },
+        {
+          "startTime": 194154,
+          "endTime": 194543,
+          "word": "might,"
+        },
+        {
+          "startTime": 194674,
+          "endTime": 194822,
+          "word": "I"
+        },
+        {
+          "startTime": 194822,
+          "endTime": 195033,
+          "word": "just"
+        },
+        {
+          "startTime": 195033,
+          "endTime": 195287,
+          "word": "might"
+        },
+        {
+          "startTime": 195287,
+          "endTime": 195487,
+          "word": "make"
+        },
+        {
+          "startTime": 195487,
+          "endTime": 195634,
+          "word": "her"
+        },
+        {
+          "startTime": 195634,
+          "endTime": 195927,
+          "word": "my"
+        },
+        {
+          "startTime": 195927,
+          "endTime": 196885,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 196980,
+      "endTime": 200512,
+      "text": "I just might make her my baby, hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 196983,
+          "endTime": 197105,
+          "word": "I"
+        },
+        {
+          "startTime": 197105,
+          "endTime": 197331,
+          "word": "just"
+        },
+        {
+          "startTime": 197331,
+          "endTime": 197651,
+          "word": "might"
+        },
+        {
+          "startTime": 197651,
+          "endTime": 197824,
+          "word": "make"
+        },
+        {
+          "startTime": 197824,
+          "endTime": 197958,
+          "word": "her"
+        },
+        {
+          "startTime": 197958,
+          "endTime": 198238,
+          "word": "my"
+        },
+        {
+          "startTime": 198238,
+          "endTime": 199198,
+          "word": "baby,"
+        },
+        {
+          "startTime": 199198,
+          "endTime": 200512,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 203650,
+      "endTime": 209243,
+      "text": "I just might, oh, I just might",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 203655,
+          "endTime": 203765,
+          "word": "I"
+        },
+        {
+          "startTime": 203765,
+          "endTime": 204045,
+          "word": "just"
+        },
+        {
+          "startTime": 204045,
+          "endTime": 204527,
+          "word": "might,"
+        },
+        {
+          "startTime": 207893,
+          "endTime": 208320,
+          "word": "oh,"
+        },
+        {
+          "startTime": 208320,
+          "endTime": 208465,
+          "word": "I"
+        },
+        {
+          "startTime": 208465,
+          "endTime": 208759,
+          "word": "just"
+        },
+        {
+          "startTime": 208759,
+          "endTime": 209243,
+          "word": "might"
+        }
+      ]
+    }
+  ]
+}
