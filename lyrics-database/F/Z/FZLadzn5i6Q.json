@@ -1,0 +1,1944 @@
+{
+  "videoId": "FZLadzn5i6Q",
+  "title": "Uyi Amma (From \"Azaad\")",
+  "artist": "Amit Trivedi",
+  "duration": 195,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:32.050\" end=\"00:34.810\">\n        <span begin=\"00:32.050\" end=\"00:32.753\">Moochho <\/span>\n        <span begin=\"00:32.753\" end=\"00:33.117\">mein <\/span>\n        <span begin=\"00:33.117\" end=\"00:33.741\">akad <\/span>\n        <span begin=\"00:33.741\" end=\"00:34.053\">ke <\/span>\n        <span begin=\"00:34.053\" end=\"00:34.417\">taav <\/span>\n        <span begin=\"00:34.417\" end=\"00:34.810\">bhare<\/span>\n      <\/p>\n      <p begin=\"00:34.810\" end=\"00:41.270\">\n        <span begin=\"00:34.810\" end=\"00:35.385\">Jab <\/span>\n        <span begin=\"00:35.385\" end=\"00:37.154\">mojadiyaan <\/span>\n        <span begin=\"00:37.154\" end=\"00:37.773\">mein <\/span>\n        <span begin=\"00:37.773\" end=\"00:38.436\">paanv <\/span>\n        <span begin=\"00:38.436\" end=\"00:39.365\">dhare, <\/span>\n        <span begin=\"00:39.365\" end=\"00:39.940\">jab <\/span>\n        <span begin=\"00:39.940\" end=\"00:40.603\">paanv <\/span>\n        <span begin=\"00:40.603\" end=\"00:41.270\">dhare<\/span>\n      <\/p>\n      <p begin=\"00:41.270\" end=\"00:45.260\">\n        <span begin=\"00:41.270\" end=\"00:42.318\">Aaye-haaye, <\/span>\n        <span begin=\"00:42.318\" end=\"00:43.075\">naazuk <\/span>\n        <span begin=\"00:43.075\" end=\"00:43.424\">si <\/span>\n        <span begin=\"00:43.424\" end=\"00:43.802\">mom <\/span>\n        <span begin=\"00:43.802\" end=\"00:44.151\">ki <\/span>\n        <span begin=\"00:44.151\" end=\"00:44.908\">moorat <\/span>\n        <span begin=\"00:44.908\" end=\"00:45.260\">se<\/span>\n      <\/p>\n      <p begin=\"00:45.260\" end=\"00:53.770\">\n        <span begin=\"00:45.260\" end=\"00:46.136\">Bada <\/span>\n        <span begin=\"00:46.136\" end=\"00:47.122\">patthar <\/span>\n        <span begin=\"00:47.122\" end=\"00:47.596\">dil <\/span>\n        <span begin=\"00:47.596\" end=\"00:48.582\">bartaav <\/span>\n        <span begin=\"00:48.582\" end=\"00:49.312\">kare, <\/span>\n        <span begin=\"00:49.312\" end=\"00:50.298\">patthar <\/span>\n        <span begin=\"00:50.298\" end=\"00:50.772\">dil <\/span>\n        <span begin=\"00:50.772\" end=\"00:51.758\">bartaav <\/span>\n        <span begin=\"00:51.758\" end=\"00:52.269\">kare <\/span>\n        <span begin=\"00:52.269\" end=\"00:53.255\">bartaav <\/span>\n        <span begin=\"00:53.255\" end=\"00:53.770\">kare<\/span>\n      <\/p>\n      <p begin=\"00:53.770\" end=\"00:56.470\">\n        <span begin=\"00:53.770\" end=\"00:54.035\">Uyi <\/span>\n        <span begin=\"00:54.035\" end=\"00:54.648\">amma, <\/span>\n        <span begin=\"00:54.648\" end=\"00:55.363\">haye-haye, <\/span>\n        <span begin=\"00:55.363\" end=\"00:55.649\">main <\/span>\n        <span begin=\"00:55.649\" end=\"00:55.914\">toh <\/span>\n        <span begin=\"00:55.914\" end=\"00:56.179\">mar <\/span>\n        <span begin=\"00:56.179\" end=\"00:56.470\">gayi<\/span>\n      <\/p>\n      <p begin=\"00:56.470\" end=\"00:59.040\">\n        <span begin=\"00:56.470\" end=\"00:56.715\">Uyi <\/span>\n        <span begin=\"00:56.715\" end=\"00:57.281\">amma, <\/span>\n        <span begin=\"00:57.281\" end=\"00:57.545\">main <\/span>\n        <span begin=\"00:57.545\" end=\"00:57.790\">toh <\/span>\n        <span begin=\"00:57.790\" end=\"00:58.054\">toot <\/span>\n        <span begin=\"00:58.054\" end=\"00:58.280\">ke <\/span>\n        <span begin=\"00:58.280\" end=\"00:58.771\">bikhar <\/span>\n        <span begin=\"00:58.771\" end=\"00:59.040\">gayi<\/span>\n      <\/p>\n      <p begin=\"00:59.040\" end=\"01:04.300\">\n        <span begin=\"00:59.040\" end=\"00:59.447\">Uyi <\/span>\n        <span begin=\"00:59.447\" end=\"01:00.198\">amma <\/span>\n        <span begin=\"01:00.198\" end=\"01:00.855\">(hey), <\/span>\n        <span begin=\"01:00.855\" end=\"01:01.262\">uyi <\/span>\n        <span begin=\"01:01.262\" end=\"01:02.013\">amma <\/span>\n        <span begin=\"01:02.013\" end=\"01:02.670\">(hey), <\/span>\n        <span begin=\"01:02.670\" end=\"01:03.077\">uyi <\/span>\n        <span begin=\"01:03.077\" end=\"01:03.828\">amma <\/span>\n        <span begin=\"01:03.828\" end=\"01:04.300\">(hey)<\/span>\n      <\/p>\n      <p begin=\"01:04.300\" end=\"01:06.930\">\n        <span begin=\"01:04.300\" end=\"01:04.582\">Uyi <\/span>\n        <span begin=\"01:04.582\" end=\"01:05.234\">amma, <\/span>\n        <span begin=\"01:05.234\" end=\"01:05.842\">chhuimui <\/span>\n        <span begin=\"01:05.842\" end=\"01:06.102\">si <\/span>\n        <span begin=\"01:06.102\" end=\"01:06.930\">hiraniya<\/span>\n      <\/p>\n      <p begin=\"01:06.930\" end=\"01:09.610\">\n        <span begin=\"01:06.930\" end=\"01:07.190\">Uyi <\/span>\n        <span begin=\"01:07.190\" end=\"01:07.790\">amma, <\/span>\n        <span begin=\"01:07.790\" end=\"01:08.290\">kaale <\/span>\n        <span begin=\"01:08.290\" end=\"01:08.830\">bediyon <\/span>\n        <span begin=\"01:08.830\" end=\"01:09.070\">se <\/span>\n        <span begin=\"01:09.070\" end=\"01:09.330\">dar <\/span>\n        <span begin=\"01:09.330\" end=\"01:09.610\">gayi<\/span>\n      <\/p>\n      <p begin=\"01:09.610\" end=\"01:15.020\">\n        <span begin=\"01:09.610\" end=\"01:10.181\">Uyi <\/span>\n        <span begin=\"01:10.181\" end=\"01:11.500\">amma, <\/span>\n        <span begin=\"01:11.500\" end=\"01:12.071\">uyi <\/span>\n        <span begin=\"01:12.071\" end=\"01:13.390\">amma, <\/span>\n        <span begin=\"01:13.390\" end=\"01:13.961\">uyi <\/span>\n        <span begin=\"01:13.961\" end=\"01:15.020\">amma<\/span>\n      <\/p>\n      <p begin=\"01:15.020\" end=\"01:20.230\">\n        <span begin=\"01:15.020\" end=\"01:15.449\">Paanv <\/span>\n        <span begin=\"01:15.449\" end=\"01:15.849\">jiya <\/span>\n        <span begin=\"01:15.849\" end=\"01:16.192\">pe <\/span>\n        <span begin=\"01:16.192\" end=\"01:16.592\">dhar <\/span>\n        <span begin=\"01:16.592\" end=\"01:16.992\">gayi <\/span>\n        <span begin=\"01:16.992\" end=\"01:17.507\">re, <\/span>\n        <span begin=\"01:17.507\" end=\"01:17.936\">saans <\/span>\n        <span begin=\"01:17.936\" end=\"01:18.336\">mein <\/span>\n        <span begin=\"01:18.336\" end=\"01:19.080\">sandal <\/span>\n        <span begin=\"01:19.080\" end=\"01:19.480\">bhar <\/span>\n        <span begin=\"01:19.480\" end=\"01:19.880\">gayi <\/span>\n        <span begin=\"01:19.880\" end=\"01:20.230\">re<\/span>\n      <\/p>\n      <p begin=\"01:20.230\" end=\"01:25.750\">\n        <span begin=\"01:20.230\" end=\"01:21.137\">Katal <\/span>\n        <span begin=\"01:21.137\" end=\"01:21.863\">kare, <\/span>\n        <span begin=\"01:21.863\" end=\"01:22.734\">upar <\/span>\n        <span begin=\"01:22.734\" end=\"01:23.169\">se <\/span>\n        <span begin=\"01:23.169\" end=\"01:24.258\">bole, <\/span>\n        <span begin=\"01:24.258\" end=\"01:24.766\">&quot;Mar <\/span>\n        <span begin=\"01:24.766\" end=\"01:25.274\">gayi <\/span>\n        <span begin=\"01:25.274\" end=\"01:25.750\">re&quot;<\/span>\n      <\/p>\n      <p begin=\"01:25.750\" end=\"01:30.950\">\n        <span begin=\"01:25.750\" end=\"01:26.105\">Ghus <\/span>\n        <span begin=\"01:26.105\" end=\"01:26.409\">ke <\/span>\n        <span begin=\"01:26.409\" end=\"01:26.764\">ghar <\/span>\n        <span begin=\"01:26.764\" end=\"01:27.119\">mein <\/span>\n        <span begin=\"01:27.119\" end=\"01:28.082\">dakaiton <\/span>\n        <span begin=\"01:28.082\" end=\"01:28.386\">ke <\/span>\n        <span begin=\"01:28.386\" end=\"01:28.715\">tak <\/span>\n        <span begin=\"01:28.715\" end=\"01:29.019\">se <\/span>\n        <span begin=\"01:29.019\" end=\"01:29.957\">dakaiti <\/span>\n        <span begin=\"01:29.957\" end=\"01:30.286\">kar <\/span>\n        <span begin=\"01:30.286\" end=\"01:30.641\">gayi <\/span>\n        <span begin=\"01:30.641\" end=\"01:30.950\">re<\/span>\n      <\/p>\n      <p begin=\"01:30.950\" end=\"01:36.110\">\n        <span begin=\"01:30.950\" end=\"01:31.798\">Katal <\/span>\n        <span begin=\"01:31.798\" end=\"01:32.476\">kare, <\/span>\n        <span begin=\"01:32.476\" end=\"01:33.290\">upar <\/span>\n        <span begin=\"01:33.290\" end=\"01:33.697\">se <\/span>\n        <span begin=\"01:33.697\" end=\"01:34.715\">bole, <\/span>\n        <span begin=\"01:34.715\" end=\"01:35.190\">&quot;Mar <\/span>\n        <span begin=\"01:35.190\" end=\"01:35.665\">gayi <\/span>\n        <span begin=\"01:35.665\" end=\"01:36.110\">re&quot;<\/span>\n      <\/p>\n      <p begin=\"01:36.110\" end=\"01:41.360\">\n        <span begin=\"01:36.110\" end=\"01:36.693\">Oh <\/span>\n        <span begin=\"01:36.693\" end=\"01:38.345\">chhamiya, <\/span>\n        <span begin=\"01:38.345\" end=\"01:38.928\">oh <\/span>\n        <span begin=\"01:38.928\" end=\"01:39.511\">re <\/span>\n        <span begin=\"01:39.511\" end=\"01:41.360\">julamiya<\/span>\n      <\/p>\n      <p begin=\"01:41.360\" end=\"01:47.180\">\n        <span begin=\"01:41.360\" end=\"01:42.006\">Oh <\/span>\n        <span begin=\"01:42.006\" end=\"01:43.838\">chhamiya, <\/span>\n        <span begin=\"01:43.838\" end=\"01:44.484\">oh <\/span>\n        <span begin=\"01:44.484\" end=\"01:45.130\">re <\/span>\n        <span begin=\"01:45.130\" end=\"01:47.180\">julamiya<\/span>\n      <\/p>\n      <p begin=\"01:47.180\" end=\"01:49.770\">\n        <span begin=\"01:47.180\" end=\"01:47.435\">Uyi <\/span>\n        <span begin=\"01:47.435\" end=\"01:48.023\">amma, <\/span>\n        <span begin=\"01:48.023\" end=\"01:48.709\">haye-haye, <\/span>\n        <span begin=\"01:48.709\" end=\"01:48.983\">main <\/span>\n        <span begin=\"01:48.983\" end=\"01:49.238\">toh <\/span>\n        <span begin=\"01:49.238\" end=\"01:49.493\">mar <\/span>\n        <span begin=\"01:49.493\" end=\"01:49.770\">gayi<\/span>\n      <\/p>\n      <p begin=\"01:49.770\" end=\"01:52.490\">\n        <span begin=\"01:49.770\" end=\"01:50.030\">Uyi <\/span>\n        <span begin=\"01:50.030\" end=\"01:50.630\">amma, <\/span>\n        <span begin=\"01:50.630\" end=\"01:50.910\">main <\/span>\n        <span begin=\"01:50.910\" end=\"01:51.170\">toh <\/span>\n        <span begin=\"01:51.170\" end=\"01:51.450\">toot <\/span>\n        <span begin=\"01:51.450\" end=\"01:51.690\">ke <\/span>\n        <span begin=\"01:51.690\" end=\"01:52.210\">bikhar <\/span>\n        <span begin=\"01:52.210\" end=\"01:52.490\">gayi<\/span>\n      <\/p>\n      <p begin=\"01:52.490\" end=\"01:57.770\">\n        <span begin=\"01:52.490\" end=\"01:52.898\">Uyi <\/span>\n        <span begin=\"01:52.898\" end=\"01:53.652\">amma <\/span>\n        <span begin=\"01:53.652\" end=\"01:54.312\">(hey), <\/span>\n        <span begin=\"01:54.312\" end=\"01:54.720\">uyi <\/span>\n        <span begin=\"01:54.720\" end=\"01:55.474\">amma <\/span>\n        <span begin=\"01:55.474\" end=\"01:56.134\">(hey), <\/span>\n        <span begin=\"01:56.134\" end=\"01:56.542\">uyi <\/span>\n        <span begin=\"01:56.542\" end=\"01:57.296\">amma <\/span>\n        <span begin=\"01:57.296\" end=\"01:57.770\">(hey)<\/span>\n      <\/p>\n      <p begin=\"01:57.770\" end=\"02:00.250\">\n        <span begin=\"01:57.770\" end=\"01:58.036\">Uyi <\/span>\n        <span begin=\"01:58.036\" end=\"01:58.650\">amma, <\/span>\n        <span begin=\"01:58.650\" end=\"01:59.223\">chhuimui <\/span>\n        <span begin=\"01:59.223\" end=\"01:59.468\">si <\/span>\n        <span begin=\"01:59.468\" end=\"02:00.250\">hiraniya<\/span>\n      <\/p>\n      <p begin=\"02:00.250\" end=\"02:02.980\">\n        <span begin=\"02:00.250\" end=\"02:00.514\">Uyi <\/span>\n        <span begin=\"02:00.514\" end=\"02:01.125\">amma, <\/span>\n        <span begin=\"02:01.125\" end=\"02:01.634\">kaale <\/span>\n        <span begin=\"02:01.634\" end=\"02:02.184\">bediyon <\/span>\n        <span begin=\"02:02.184\" end=\"02:02.428\">se <\/span>\n        <span begin=\"02:02.428\" end=\"02:02.692\">dar <\/span>\n        <span begin=\"02:02.692\" end=\"02:02.980\">gayi<\/span>\n      <\/p>\n      <p begin=\"02:02.980\" end=\"02:20.940\">\n        <span begin=\"02:02.980\" end=\"02:04.878\">Uyi <\/span>\n        <span begin=\"02:04.878\" end=\"02:09.258\">amma, <\/span>\n        <span begin=\"02:09.258\" end=\"02:11.156\">uyi <\/span>\n        <span begin=\"02:11.156\" end=\"02:15.536\">amma, <\/span>\n        <span begin=\"02:15.536\" end=\"02:17.434\">uyi <\/span>\n        <span begin=\"02:17.434\" end=\"02:20.940\">amma<\/span>\n      <\/p>\n      <p begin=\"02:20.940\" end=\"02:26.330\">\n        <span begin=\"02:20.940\" end=\"02:21.509\">Chhori <\/span>\n        <span begin=\"02:21.509\" end=\"02:21.771\">ko <\/span>\n        <span begin=\"02:21.771\" end=\"02:22.077\">ghar <\/span>\n        <span begin=\"02:22.077\" end=\"02:22.339\">se <\/span>\n        <span begin=\"02:22.339\" end=\"02:22.908\">uthaye <\/span>\n        <span begin=\"02:22.908\" end=\"02:23.170\">ke <\/span>\n        <span begin=\"02:23.170\" end=\"02:23.673\">(haaye), <\/span>\n        <span begin=\"02:23.673\" end=\"02:24.768\">zabardasti <\/span>\n        <span begin=\"02:24.768\" end=\"02:25.359\">nachaye <\/span>\n        <span begin=\"02:25.359\" end=\"02:25.621\">ke <\/span>\n        <span begin=\"02:25.621\" end=\"02:26.330\">(oh-ho)<\/span>\n      <\/p>\n      <p begin=\"02:26.330\" end=\"02:31.520\">\n        <span begin=\"02:26.330\" end=\"02:27.045\">Bada <\/span>\n        <span begin=\"02:27.045\" end=\"02:27.402\">hi <\/span>\n        <span begin=\"02:27.402\" end=\"02:28.147\">aasan <\/span>\n        <span begin=\"02:28.147\" end=\"02:28.713\">hai, <\/span>\n        <span begin=\"02:28.713\" end=\"02:29.309\">piya, <\/span>\n        <span begin=\"02:29.309\" end=\"02:30.144\">aankhein <\/span>\n        <span begin=\"02:30.144\" end=\"02:31.068\">sekna, <\/span>\n        <span begin=\"02:31.068\" end=\"02:31.520\">haaye<\/span>\n      <\/p>\n      <p begin=\"02:31.520\" end=\"02:36.880\">\n        <span begin=\"02:31.520\" end=\"02:32.087\">Kasam <\/span>\n        <span begin=\"02:32.087\" end=\"02:32.427\">tujhe <\/span>\n        <span begin=\"02:32.427\" end=\"02:32.744\">jaan <\/span>\n        <span begin=\"02:32.744\" end=\"02:33.016\">ki <\/span>\n        <span begin=\"02:33.016\" end=\"02:33.561\">meri <\/span>\n        <span begin=\"02:33.561\" end=\"02:34.060\">(o-ho), <\/span>\n        <span begin=\"02:34.060\" end=\"02:34.377\">kahe <\/span>\n        <span begin=\"02:34.377\" end=\"02:34.649\">ki <\/span>\n        <span begin=\"02:34.649\" end=\"02:35.512\">mardangi <\/span>\n        <span begin=\"02:35.512\" end=\"02:36.057\">teri <\/span>\n        <span begin=\"02:36.057\" end=\"02:36.880\">(aaye-haye)<\/span>\n      <\/p>\n      <p begin=\"02:36.880\" end=\"02:42.570\">\n        <span begin=\"02:36.880\" end=\"02:37.381\">Aaya <\/span>\n        <span begin=\"02:37.381\" end=\"02:37.810\">na <\/span>\n        <span begin=\"02:37.810\" end=\"02:38.704\">aurat <\/span>\n        <span begin=\"02:38.704\" end=\"02:39.133\">ka <\/span>\n        <span begin=\"02:39.133\" end=\"02:39.598\">dil <\/span>\n        <span begin=\"02:39.598\" end=\"02:40.671\">agar, <\/span>\n        <span begin=\"02:40.671\" end=\"02:41.207\">chhoo <\/span>\n        <span begin=\"02:41.207\" end=\"02:41.636\">ke <\/span>\n        <span begin=\"02:41.636\" end=\"02:42.570\">dekhna<\/span>\n      <\/p>\n      <p begin=\"02:42.570\" end=\"02:48.240\">\n        <span begin=\"02:42.570\" end=\"02:43.243\">Udti <\/span>\n        <span begin=\"02:43.243\" end=\"02:44.000\">chidiya <\/span>\n        <span begin=\"02:44.000\" end=\"02:44.336\">ke <\/span>\n        <span begin=\"02:44.336\" end=\"02:44.700\">par <\/span>\n        <span begin=\"02:44.700\" end=\"02:45.092\">ginn <\/span>\n        <span begin=\"02:45.092\" end=\"02:45.428\">ke <\/span>\n        <span begin=\"02:45.428\" end=\"02:46.775\">berahami <\/span>\n        <span begin=\"02:46.775\" end=\"02:47.111\">se <\/span>\n        <span begin=\"02:47.111\" end=\"02:47.840\">pakdav <\/span>\n        <span begin=\"02:47.840\" end=\"02:48.240\">kare<\/span>\n      <\/p>\n      <p begin=\"02:48.240\" end=\"02:53.670\">\n        <span begin=\"02:48.240\" end=\"02:48.767\">Kyun <\/span>\n        <span begin=\"02:48.767\" end=\"02:49.672\">itni <\/span>\n        <span begin=\"02:49.672\" end=\"02:51.482\">berahami <\/span>\n        <span begin=\"02:51.482\" end=\"02:51.934\">se <\/span>\n        <span begin=\"02:51.934\" end=\"02:52.914\">pakdav <\/span>\n        <span begin=\"02:52.914\" end=\"02:53.670\">kare?<\/span>\n      <\/p>\n      <p begin=\"02:53.670\" end=\"02:56.260\">\n        <span begin=\"02:53.670\" end=\"02:53.925\">Uyi <\/span>\n        <span begin=\"02:53.925\" end=\"02:54.513\">amma, <\/span>\n        <span begin=\"02:54.513\" end=\"02:55.199\">haye-haye, <\/span>\n        <span begin=\"02:55.199\" end=\"02:55.473\">main <\/span>\n        <span begin=\"02:55.473\" end=\"02:55.728\">toh <\/span>\n        <span begin=\"02:55.728\" end=\"02:55.983\">mar <\/span>\n        <span begin=\"02:55.983\" end=\"02:56.260\">gayi<\/span>\n      <\/p>\n      <p begin=\"02:56.260\" end=\"02:58.940\">\n        <span begin=\"02:56.260\" end=\"02:56.516\">Uyi <\/span>\n        <span begin=\"02:56.516\" end=\"02:57.107\">amma, <\/span>\n        <span begin=\"02:57.107\" end=\"02:57.382\">main <\/span>\n        <span begin=\"02:57.382\" end=\"02:57.638\">toh <\/span>\n        <span begin=\"02:57.638\" end=\"02:57.913\">toot <\/span>\n        <span begin=\"02:57.913\" end=\"02:58.149\">ke <\/span>\n        <span begin=\"02:58.149\" end=\"02:58.661\">bikhar <\/span>\n        <span begin=\"02:58.661\" end=\"02:58.940\">gayi<\/span>\n      <\/p>\n      <p begin=\"02:58.940\" end=\"03:04.310\">\n        <span begin=\"02:58.940\" end=\"02:59.355\">Uyi <\/span>\n        <span begin=\"02:59.355\" end=\"03:00.122\">amma <\/span>\n        <span begin=\"03:00.122\" end=\"03:00.793\">(hey), <\/span>\n        <span begin=\"03:00.793\" end=\"03:01.208\">uyi <\/span>\n        <span begin=\"03:01.208\" end=\"03:01.975\">amma <\/span>\n        <span begin=\"03:01.975\" end=\"03:02.646\">(hey), <\/span>\n        <span begin=\"03:02.646\" end=\"03:03.061\">uyi <\/span>\n        <span begin=\"03:03.061\" end=\"03:03.828\">amma <\/span>\n        <span begin=\"03:03.828\" end=\"03:04.310\">(hey)<\/span>\n      <\/p>\n      <p begin=\"03:04.310\" end=\"03:06.870\">\n        <span begin=\"03:04.310\" end=\"03:04.585\">Uyi <\/span>\n        <span begin=\"03:04.585\" end=\"03:05.219\">amma, <\/span>\n        <span begin=\"03:05.219\" end=\"03:05.811\">chhuimui <\/span>\n        <span begin=\"03:05.811\" end=\"03:06.064\">si <\/span>\n        <span begin=\"03:06.064\" end=\"03:06.870\">hiraniya<\/span>\n      <\/p>\n      <p begin=\"03:06.870\" end=\"03:09.510\">\n        <span begin=\"03:06.870\" end=\"03:07.126\">Uyi <\/span>\n        <span begin=\"03:07.126\" end=\"03:07.717\">amma, <\/span>\n        <span begin=\"03:07.717\" end=\"03:08.209\">kaale <\/span>\n        <span begin=\"03:08.209\" end=\"03:08.740\">bediyon <\/span>\n        <span begin=\"03:08.740\" end=\"03:08.976\">se <\/span>\n        <span begin=\"03:08.976\" end=\"03:09.232\">dar <\/span>\n        <span begin=\"03:09.232\" end=\"03:09.510\">gayi<\/span>\n      <\/p>\n      <p begin=\"03:09.510\" end=\"03:15.180\">\n        <span begin=\"03:09.510\" end=\"03:10.109\">Uyi <\/span>\n        <span begin=\"03:10.109\" end=\"03:11.491\">amma, <\/span>\n        <span begin=\"03:11.491\" end=\"03:12.090\">uyi <\/span>\n        <span begin=\"03:12.090\" end=\"03:13.472\">amma, <\/span>\n        <span begin=\"03:13.472\" end=\"03:14.071\">uyi <\/span>\n        <span begin=\"03:14.071\" end=\"03:15.180\">amma<\/span>\n      <\/p>\n      <p begin=\"03:15.180\" end=\"03:20.440\">\n        <span begin=\"03:15.180\" end=\"03:15.613\">Paanv <\/span>\n        <span begin=\"03:15.613\" end=\"03:16.017\">jiya <\/span>\n        <span begin=\"03:16.017\" end=\"03:16.363\">pe <\/span>\n        <span begin=\"03:16.363\" end=\"03:16.767\">dhar <\/span>\n        <span begin=\"03:16.767\" end=\"03:17.171\">gayi <\/span>\n        <span begin=\"03:17.171\" end=\"03:17.691\">re, <\/span>\n        <span begin=\"03:17.691\" end=\"03:18.124\">saans <\/span>\n        <span begin=\"03:18.124\" end=\"03:18.528\">mein <\/span>\n        <span begin=\"03:18.528\" end=\"03:19.279\">sandal <\/span>\n        <span begin=\"03:19.279\" end=\"03:19.683\">bhar <\/span>\n        <span begin=\"03:19.683\" end=\"03:20.087\">gayi <\/span>\n        <span begin=\"03:20.087\" end=\"03:20.440\">re<\/span>\n      <\/p>\n      <p begin=\"03:20.440\" end=\"03:25.680\">\n        <span begin=\"03:20.440\" end=\"03:21.301\">Katal <\/span>\n        <span begin=\"03:21.301\" end=\"03:21.990\">kare, <\/span>\n        <span begin=\"03:21.990\" end=\"03:22.817\">upar <\/span>\n        <span begin=\"03:22.817\" end=\"03:23.230\">se <\/span>\n        <span begin=\"03:23.230\" end=\"03:24.264\">bole, <\/span>\n        <span begin=\"03:24.264\" end=\"03:24.746\">&quot;Mar <\/span>\n        <span begin=\"03:24.746\" end=\"03:25.228\">gayi <\/span>\n        <span begin=\"03:25.228\" end=\"03:25.680\">re&quot;<\/span>\n      <\/p>\n      <p begin=\"03:25.680\" end=\"03:31.010\">\n        <span begin=\"03:25.680\" end=\"03:26.044\">Ghus <\/span>\n        <span begin=\"03:26.044\" end=\"03:26.356\">ke <\/span>\n        <span begin=\"03:26.356\" end=\"03:26.720\">ghar <\/span>\n        <span begin=\"03:26.720\" end=\"03:27.084\">mein <\/span>\n        <span begin=\"03:27.084\" end=\"03:28.072\">dakaiton <\/span>\n        <span begin=\"03:28.072\" end=\"03:28.384\">ke <\/span>\n        <span begin=\"03:28.384\" end=\"03:28.722\">tak <\/span>\n        <span begin=\"03:28.722\" end=\"03:29.034\">se <\/span>\n        <span begin=\"03:29.034\" end=\"03:29.996\">dakaiti <\/span>\n        <span begin=\"03:29.996\" end=\"03:30.334\">kar <\/span>\n        <span begin=\"03:30.334\" end=\"03:30.698\">gayi <\/span>\n        <span begin=\"03:30.698\" end=\"03:31.010\">re<\/span>\n      <\/p>\n      <p begin=\"03:31.010\" end=\"03:36.040\">\n        <span begin=\"03:31.010\" end=\"03:31.837\">Katal <\/span>\n        <span begin=\"03:31.837\" end=\"03:32.498\">kare, <\/span>\n        <span begin=\"03:32.498\" end=\"03:33.292\">upar <\/span>\n        <span begin=\"03:33.292\" end=\"03:33.689\">se <\/span>\n        <span begin=\"03:33.689\" end=\"03:34.681\">bole, <\/span>\n        <span begin=\"03:34.681\" end=\"03:35.144\">&quot;Mar <\/span>\n        <span begin=\"03:35.144\" end=\"03:35.607\">gayi <\/span>\n        <span begin=\"03:35.607\" end=\"03:36.040\">re&quot;<\/span>\n      <\/p>\n      <p begin=\"03:36.040\" end=\"03:41.330\">\n        <span begin=\"03:36.040\" end=\"03:36.627\">Oh <\/span>\n        <span begin=\"03:36.627\" end=\"03:38.292\">chhamiya, <\/span>\n        <span begin=\"03:38.292\" end=\"03:38.879\">oh <\/span>\n        <span begin=\"03:38.879\" end=\"03:39.466\">re <\/span>\n        <span begin=\"03:39.466\" end=\"03:41.330\">julamiya<\/span>\n      <\/p>\n      <p begin=\"03:41.330\" end=\"03:47.110\">\n        <span begin=\"03:41.330\" end=\"03:41.972\">Oh <\/span>\n        <span begin=\"03:41.972\" end=\"03:43.791\">chhamiya, <\/span>\n        <span begin=\"03:43.791\" end=\"03:44.433\">oh <\/span>\n        <span begin=\"03:44.433\" end=\"03:45.075\">re <\/span>\n        <span begin=\"03:45.075\" end=\"03:47.110\">julamiya<\/span>\n      <\/p>\n      <p begin=\"03:47.110\" end=\"03:49.470\">\n        <span begin=\"03:47.110\" end=\"03:47.939\">Uyi <\/span>\n        <span begin=\"03:47.939\" end=\"03:49.470\">amma<\/span>\n      <\/p>\n      <p begin=\"03:49.470\" end=\"03:51.360\">\n        <span begin=\"03:49.470\" end=\"03:50.088\">Ha, <\/span>\n        <span begin=\"03:50.088\" end=\"03:50.534\">uyi <\/span>\n        <span begin=\"03:50.534\" end=\"03:51.360\">amma<\/span>\n      <\/p>\n      <p begin=\"03:51.360\" end=\"03:55.160\">\n        <span begin=\"03:51.360\" end=\"03:52.128\">Uyi, <\/span>\n        <span begin=\"03:52.128\" end=\"03:52.896\">uyi, <\/span>\n        <span begin=\"03:52.896\" end=\"03:53.664\">uyi, <\/span>\n        <span begin=\"03:53.664\" end=\"03:54.189\">uyi <\/span>\n        <span begin=\"03:54.189\" end=\"03:55.160\">amma<\/span>\n      <\/p>\n      <p begin=\"03:55.160\" end=\"04:00.160\">\n        <span begin=\"03:55.160\" end=\"03:56.916\">Uyi <\/span>\n        <span begin=\"03:56.916\" end=\"04:00.160\">amma<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 32050,
+      "endTime": 34810,
+      "text": "Moochho mein akad ke taav bhare",
+      "words": [
+        {
+          "startTime": 32050,
+          "endTime": 32753,
+          "word": "Moochho "
+        },
+        {
+          "startTime": 32753,
+          "endTime": 33117,
+          "word": "mein "
+        },
+        {
+          "startTime": 33117,
+          "endTime": 33741,
+          "word": "akad "
+        },
+        {
+          "startTime": 33741,
+          "endTime": 34053,
+          "word": "ke "
+        },
+        {
+          "startTime": 34053,
+          "endTime": 34417,
+          "word": "taav "
+        },
+        {
+          "startTime": 34417,
+          "endTime": 34810,
+          "word": "bhare"
+        }
+      ]
+    },
+    {
+      "time": 34810,
+      "endTime": 41270,
+      "text": "Jab mojadiyaan mein paanv dhare, jab paanv dhare",
+      "words": [
+        {
+          "startTime": 34810,
+          "endTime": 35385,
+          "word": "Jab "
+        },
+        {
+          "startTime": 35385,
+          "endTime": 37154,
+          "word": "mojadiyaan "
+        },
+        {
+          "startTime": 37154,
+          "endTime": 37773,
+          "word": "mein "
+        },
+        {
+          "startTime": 37773,
+          "endTime": 38436,
+          "word": "paanv "
+        },
+        {
+          "startTime": 38436,
+          "endTime": 39365,
+          "word": "dhare, "
+        },
+        {
+          "startTime": 39365,
+          "endTime": 39940,
+          "word": "jab "
+        },
+        {
+          "startTime": 39940,
+          "endTime": 40603,
+          "word": "paanv "
+        },
+        {
+          "startTime": 40603,
+          "endTime": 41270,
+          "word": "dhare"
+        }
+      ]
+    },
+    {
+      "time": 41270,
+      "endTime": 45260,
+      "text": "Aaye-haaye, naazuk si mom ki moorat se",
+      "words": [
+        {
+          "startTime": 41270,
+          "endTime": 42318,
+          "word": "Aaye-haaye, "
+        },
+        {
+          "startTime": 42318,
+          "endTime": 43075,
+          "word": "naazuk "
+        },
+        {
+          "startTime": 43075,
+          "endTime": 43424,
+          "word": "si "
+        },
+        {
+          "startTime": 43424,
+          "endTime": 43802,
+          "word": "mom "
+        },
+        {
+          "startTime": 43802,
+          "endTime": 44151,
+          "word": "ki "
+        },
+        {
+          "startTime": 44151,
+          "endTime": 44908,
+          "word": "moorat "
+        },
+        {
+          "startTime": 44908,
+          "endTime": 45260,
+          "word": "se"
+        }
+      ]
+    },
+    {
+      "time": 45260,
+      "endTime": 53770,
+      "text": "Bada patthar dil bartaav kare, patthar dil bartaav kare bartaav kare",
+      "words": [
+        {
+          "startTime": 45260,
+          "endTime": 46136,
+          "word": "Bada "
+        },
+        {
+          "startTime": 46136,
+          "endTime": 47122,
+          "word": "patthar "
+        },
+        {
+          "startTime": 47122,
+          "endTime": 47596,
+          "word": "dil "
+        },
+        {
+          "startTime": 47596,
+          "endTime": 48582,
+          "word": "bartaav "
+        },
+        {
+          "startTime": 48582,
+          "endTime": 49312,
+          "word": "kare, "
+        },
+        {
+          "startTime": 49312,
+          "endTime": 50298,
+          "word": "patthar "
+        },
+        {
+          "startTime": 50298,
+          "endTime": 50772,
+          "word": "dil "
+        },
+        {
+          "startTime": 50772,
+          "endTime": 51758,
+          "word": "bartaav "
+        },
+        {
+          "startTime": 51758,
+          "endTime": 52269,
+          "word": "kare "
+        },
+        {
+          "startTime": 52269,
+          "endTime": 53255,
+          "word": "bartaav "
+        },
+        {
+          "startTime": 53255,
+          "endTime": 53770,
+          "word": "kare"
+        }
+      ]
+    },
+    {
+      "time": 53770,
+      "endTime": 56470,
+      "text": "Uyi amma, haye-haye, main toh mar gayi",
+      "words": [
+        {
+          "startTime": 53770,
+          "endTime": 54035,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 54035,
+          "endTime": 54648,
+          "word": "amma, "
+        },
+        {
+          "startTime": 54648,
+          "endTime": 55363,
+          "word": "haye-haye, "
+        },
+        {
+          "startTime": 55363,
+          "endTime": 55649,
+          "word": "main "
+        },
+        {
+          "startTime": 55649,
+          "endTime": 55914,
+          "word": "toh "
+        },
+        {
+          "startTime": 55914,
+          "endTime": 56179,
+          "word": "mar "
+        },
+        {
+          "startTime": 56179,
+          "endTime": 56470,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 56470,
+      "endTime": 59040,
+      "text": "Uyi amma, main toh toot ke bikhar gayi",
+      "words": [
+        {
+          "startTime": 56470,
+          "endTime": 56715,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 56715,
+          "endTime": 57281,
+          "word": "amma, "
+        },
+        {
+          "startTime": 57281,
+          "endTime": 57545,
+          "word": "main "
+        },
+        {
+          "startTime": 57545,
+          "endTime": 57790,
+          "word": "toh "
+        },
+        {
+          "startTime": 57790,
+          "endTime": 58054,
+          "word": "toot "
+        },
+        {
+          "startTime": 58054,
+          "endTime": 58280,
+          "word": "ke "
+        },
+        {
+          "startTime": 58280,
+          "endTime": 58771,
+          "word": "bikhar "
+        },
+        {
+          "startTime": 58771,
+          "endTime": 59040,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 59040,
+      "endTime": 64300,
+      "text": "Uyi amma (hey), uyi amma (hey), uyi amma (hey)",
+      "words": [
+        {
+          "startTime": 59040,
+          "endTime": 59447,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 59447,
+          "endTime": 60198,
+          "word": "amma "
+        },
+        {
+          "startTime": 60198,
+          "endTime": 60855,
+          "word": "(hey), "
+        },
+        {
+          "startTime": 60855,
+          "endTime": 61262,
+          "word": "uyi "
+        },
+        {
+          "startTime": 61262,
+          "endTime": 62013,
+          "word": "amma "
+        },
+        {
+          "startTime": 62013,
+          "endTime": 62670,
+          "word": "(hey), "
+        },
+        {
+          "startTime": 62670,
+          "endTime": 63077,
+          "word": "uyi "
+        },
+        {
+          "startTime": 63077,
+          "endTime": 63828,
+          "word": "amma "
+        },
+        {
+          "startTime": 63828,
+          "endTime": 64300,
+          "word": "(hey)"
+        }
+      ]
+    },
+    {
+      "time": 64300,
+      "endTime": 66930,
+      "text": "Uyi amma, chhuimui si hiraniya",
+      "words": [
+        {
+          "startTime": 64300,
+          "endTime": 64582,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 64582,
+          "endTime": 65234,
+          "word": "amma, "
+        },
+        {
+          "startTime": 65234,
+          "endTime": 65842,
+          "word": "chhuimui "
+        },
+        {
+          "startTime": 65842,
+          "endTime": 66102,
+          "word": "si "
+        },
+        {
+          "startTime": 66102,
+          "endTime": 66930,
+          "word": "hiraniya"
+        }
+      ]
+    },
+    {
+      "time": 66930,
+      "endTime": 69610,
+      "text": "Uyi amma, kaale bediyon se dar gayi",
+      "words": [
+        {
+          "startTime": 66930,
+          "endTime": 67190,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 67190,
+          "endTime": 67790,
+          "word": "amma, "
+        },
+        {
+          "startTime": 67790,
+          "endTime": 68290,
+          "word": "kaale "
+        },
+        {
+          "startTime": 68290,
+          "endTime": 68830,
+          "word": "bediyon "
+        },
+        {
+          "startTime": 68830,
+          "endTime": 69070,
+          "word": "se "
+        },
+        {
+          "startTime": 69070,
+          "endTime": 69330,
+          "word": "dar "
+        },
+        {
+          "startTime": 69330,
+          "endTime": 69610,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 69610,
+      "endTime": 75020,
+      "text": "Uyi amma, uyi amma, uyi amma",
+      "words": [
+        {
+          "startTime": 69610,
+          "endTime": 70181,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 70181,
+          "endTime": 71500,
+          "word": "amma, "
+        },
+        {
+          "startTime": 71500,
+          "endTime": 72071,
+          "word": "uyi "
+        },
+        {
+          "startTime": 72071,
+          "endTime": 73390,
+          "word": "amma, "
+        },
+        {
+          "startTime": 73390,
+          "endTime": 73961,
+          "word": "uyi "
+        },
+        {
+          "startTime": 73961,
+          "endTime": 75020,
+          "word": "amma"
+        }
+      ]
+    },
+    {
+      "time": 75020,
+      "endTime": 80230,
+      "text": "Paanv jiya pe dhar gayi re, saans mein sandal bhar gayi re",
+      "words": [
+        {
+          "startTime": 75020,
+          "endTime": 75449,
+          "word": "Paanv "
+        },
+        {
+          "startTime": 75449,
+          "endTime": 75849,
+          "word": "jiya "
+        },
+        {
+          "startTime": 75849,
+          "endTime": 76192,
+          "word": "pe "
+        },
+        {
+          "startTime": 76192,
+          "endTime": 76592,
+          "word": "dhar "
+        },
+        {
+          "startTime": 76592,
+          "endTime": 76992,
+          "word": "gayi "
+        },
+        {
+          "startTime": 76992,
+          "endTime": 77507,
+          "word": "re, "
+        },
+        {
+          "startTime": 77507,
+          "endTime": 77936,
+          "word": "saans "
+        },
+        {
+          "startTime": 77936,
+          "endTime": 78336,
+          "word": "mein "
+        },
+        {
+          "startTime": 78336,
+          "endTime": 79080,
+          "word": "sandal "
+        },
+        {
+          "startTime": 79080,
+          "endTime": 79480,
+          "word": "bhar "
+        },
+        {
+          "startTime": 79480,
+          "endTime": 79880,
+          "word": "gayi "
+        },
+        {
+          "startTime": 79880,
+          "endTime": 80230,
+          "word": "re"
+        }
+      ]
+    },
+    {
+      "time": 80230,
+      "endTime": 85750,
+      "text": "Katal kare, upar se bole, \"Mar gayi re\"",
+      "words": [
+        {
+          "startTime": 80230,
+          "endTime": 81137,
+          "word": "Katal "
+        },
+        {
+          "startTime": 81137,
+          "endTime": 81863,
+          "word": "kare, "
+        },
+        {
+          "startTime": 81863,
+          "endTime": 82734,
+          "word": "upar "
+        },
+        {
+          "startTime": 82734,
+          "endTime": 83169,
+          "word": "se "
+        },
+        {
+          "startTime": 83169,
+          "endTime": 84258,
+          "word": "bole, "
+        },
+        {
+          "startTime": 84258,
+          "endTime": 84766,
+          "word": "\"Mar "
+        },
+        {
+          "startTime": 84766,
+          "endTime": 85274,
+          "word": "gayi "
+        },
+        {
+          "startTime": 85274,
+          "endTime": 85750,
+          "word": "re\""
+        }
+      ]
+    },
+    {
+      "time": 85750,
+      "endTime": 90950,
+      "text": "Ghus ke ghar mein dakaiton ke tak se dakaiti kar gayi re",
+      "words": [
+        {
+          "startTime": 85750,
+          "endTime": 86105,
+          "word": "Ghus "
+        },
+        {
+          "startTime": 86105,
+          "endTime": 86409,
+          "word": "ke "
+        },
+        {
+          "startTime": 86409,
+          "endTime": 86764,
+          "word": "ghar "
+        },
+        {
+          "startTime": 86764,
+          "endTime": 87119,
+          "word": "mein "
+        },
+        {
+          "startTime": 87119,
+          "endTime": 88082,
+          "word": "dakaiton "
+        },
+        {
+          "startTime": 88082,
+          "endTime": 88386,
+          "word": "ke "
+        },
+        {
+          "startTime": 88386,
+          "endTime": 88715,
+          "word": "tak "
+        },
+        {
+          "startTime": 88715,
+          "endTime": 89019,
+          "word": "se "
+        },
+        {
+          "startTime": 89019,
+          "endTime": 89957,
+          "word": "dakaiti "
+        },
+        {
+          "startTime": 89957,
+          "endTime": 90286,
+          "word": "kar "
+        },
+        {
+          "startTime": 90286,
+          "endTime": 90641,
+          "word": "gayi "
+        },
+        {
+          "startTime": 90641,
+          "endTime": 90950,
+          "word": "re"
+        }
+      ]
+    },
+    {
+      "time": 90950,
+      "endTime": 96110,
+      "text": "Katal kare, upar se bole, \"Mar gayi re\"",
+      "words": [
+        {
+          "startTime": 90950,
+          "endTime": 91798,
+          "word": "Katal "
+        },
+        {
+          "startTime": 91798,
+          "endTime": 92476,
+          "word": "kare, "
+        },
+        {
+          "startTime": 92476,
+          "endTime": 93290,
+          "word": "upar "
+        },
+        {
+          "startTime": 93290,
+          "endTime": 93697,
+          "word": "se "
+        },
+        {
+          "startTime": 93697,
+          "endTime": 94715,
+          "word": "bole, "
+        },
+        {
+          "startTime": 94715,
+          "endTime": 95190,
+          "word": "\"Mar "
+        },
+        {
+          "startTime": 95190,
+          "endTime": 95665,
+          "word": "gayi "
+        },
+        {
+          "startTime": 95665,
+          "endTime": 96110,
+          "word": "re\""
+        }
+      ]
+    },
+    {
+      "time": 96110,
+      "endTime": 101360,
+      "text": "Oh chhamiya, oh re julamiya",
+      "words": [
+        {
+          "startTime": 96110,
+          "endTime": 96693,
+          "word": "Oh "
+        },
+        {
+          "startTime": 96693,
+          "endTime": 98345,
+          "word": "chhamiya, "
+        },
+        {
+          "startTime": 98345,
+          "endTime": 98928,
+          "word": "oh "
+        },
+        {
+          "startTime": 98928,
+          "endTime": 99511,
+          "word": "re "
+        },
+        {
+          "startTime": 99511,
+          "endTime": 101360,
+          "word": "julamiya"
+        }
+      ]
+    },
+    {
+      "time": 101360,
+      "endTime": 107180,
+      "text": "Oh chhamiya, oh re julamiya",
+      "words": [
+        {
+          "startTime": 101360,
+          "endTime": 102006,
+          "word": "Oh "
+        },
+        {
+          "startTime": 102006,
+          "endTime": 103838,
+          "word": "chhamiya, "
+        },
+        {
+          "startTime": 103838,
+          "endTime": 104484,
+          "word": "oh "
+        },
+        {
+          "startTime": 104484,
+          "endTime": 105130,
+          "word": "re "
+        },
+        {
+          "startTime": 105130,
+          "endTime": 107180,
+          "word": "julamiya"
+        }
+      ]
+    },
+    {
+      "time": 107180,
+      "endTime": 109770,
+      "text": "Uyi amma, haye-haye, main toh mar gayi",
+      "words": [
+        {
+          "startTime": 107180,
+          "endTime": 107435,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 107435,
+          "endTime": 108023,
+          "word": "amma, "
+        },
+        {
+          "startTime": 108023,
+          "endTime": 108709,
+          "word": "haye-haye, "
+        },
+        {
+          "startTime": 108709,
+          "endTime": 108983,
+          "word": "main "
+        },
+        {
+          "startTime": 108983,
+          "endTime": 109238,
+          "word": "toh "
+        },
+        {
+          "startTime": 109238,
+          "endTime": 109493,
+          "word": "mar "
+        },
+        {
+          "startTime": 109493,
+          "endTime": 109770,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 109770,
+      "endTime": 112490,
+      "text": "Uyi amma, main toh toot ke bikhar gayi",
+      "words": [
+        {
+          "startTime": 109770,
+          "endTime": 110030,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 110030,
+          "endTime": 110630,
+          "word": "amma, "
+        },
+        {
+          "startTime": 110630,
+          "endTime": 110910,
+          "word": "main "
+        },
+        {
+          "startTime": 110910,
+          "endTime": 111170,
+          "word": "toh "
+        },
+        {
+          "startTime": 111170,
+          "endTime": 111450,
+          "word": "toot "
+        },
+        {
+          "startTime": 111450,
+          "endTime": 111690,
+          "word": "ke "
+        },
+        {
+          "startTime": 111690,
+          "endTime": 112210,
+          "word": "bikhar "
+        },
+        {
+          "startTime": 112210,
+          "endTime": 112490,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 112490,
+      "endTime": 117770,
+      "text": "Uyi amma (hey), uyi amma (hey), uyi amma (hey)",
+      "words": [
+        {
+          "startTime": 112490,
+          "endTime": 112898,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 112898,
+          "endTime": 113652,
+          "word": "amma "
+        },
+        {
+          "startTime": 113652,
+          "endTime": 114312,
+          "word": "(hey), "
+        },
+        {
+          "startTime": 114312,
+          "endTime": 114720,
+          "word": "uyi "
+        },
+        {
+          "startTime": 114720,
+          "endTime": 115474,
+          "word": "amma "
+        },
+        {
+          "startTime": 115474,
+          "endTime": 116134,
+          "word": "(hey), "
+        },
+        {
+          "startTime": 116134,
+          "endTime": 116542,
+          "word": "uyi "
+        },
+        {
+          "startTime": 116542,
+          "endTime": 117296,
+          "word": "amma "
+        },
+        {
+          "startTime": 117296,
+          "endTime": 117770,
+          "word": "(hey)"
+        }
+      ]
+    },
+    {
+      "time": 117770,
+      "endTime": 120250,
+      "text": "Uyi amma, chhuimui si hiraniya",
+      "words": [
+        {
+          "startTime": 117770,
+          "endTime": 118036,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 118036,
+          "endTime": 118650,
+          "word": "amma, "
+        },
+        {
+          "startTime": 118650,
+          "endTime": 119223,
+          "word": "chhuimui "
+        },
+        {
+          "startTime": 119223,
+          "endTime": 119468,
+          "word": "si "
+        },
+        {
+          "startTime": 119468,
+          "endTime": 120250,
+          "word": "hiraniya"
+        }
+      ]
+    },
+    {
+      "time": 120250,
+      "endTime": 122980,
+      "text": "Uyi amma, kaale bediyon se dar gayi",
+      "words": [
+        {
+          "startTime": 120250,
+          "endTime": 120514,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 120514,
+          "endTime": 121125,
+          "word": "amma, "
+        },
+        {
+          "startTime": 121125,
+          "endTime": 121634,
+          "word": "kaale "
+        },
+        {
+          "startTime": 121634,
+          "endTime": 122184,
+          "word": "bediyon "
+        },
+        {
+          "startTime": 122184,
+          "endTime": 122428,
+          "word": "se "
+        },
+        {
+          "startTime": 122428,
+          "endTime": 122692,
+          "word": "dar "
+        },
+        {
+          "startTime": 122692,
+          "endTime": 122980,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 122980,
+      "endTime": 140940,
+      "text": "Uyi amma, uyi amma, uyi amma",
+      "words": [
+        {
+          "startTime": 122980,
+          "endTime": 124878,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 124878,
+          "endTime": 129258,
+          "word": "amma, "
+        },
+        {
+          "startTime": 129258,
+          "endTime": 131156,
+          "word": "uyi "
+        },
+        {
+          "startTime": 131156,
+          "endTime": 135536,
+          "word": "amma, "
+        },
+        {
+          "startTime": 135536,
+          "endTime": 137434,
+          "word": "uyi "
+        },
+        {
+          "startTime": 137434,
+          "endTime": 140940,
+          "word": "amma"
+        }
+      ]
+    },
+    {
+      "time": 140940,
+      "endTime": 146330,
+      "text": "Chhori ko ghar se uthaye ke (haaye), zabardasti nachaye ke (oh-ho)",
+      "words": [
+        {
+          "startTime": 140940,
+          "endTime": 141509,
+          "word": "Chhori "
+        },
+        {
+          "startTime": 141509,
+          "endTime": 141771,
+          "word": "ko "
+        },
+        {
+          "startTime": 141771,
+          "endTime": 142077,
+          "word": "ghar "
+        },
+        {
+          "startTime": 142077,
+          "endTime": 142339,
+          "word": "se "
+        },
+        {
+          "startTime": 142339,
+          "endTime": 142908,
+          "word": "uthaye "
+        },
+        {
+          "startTime": 142908,
+          "endTime": 143170,
+          "word": "ke "
+        },
+        {
+          "startTime": 143170,
+          "endTime": 143673,
+          "word": "(haaye), "
+        },
+        {
+          "startTime": 143673,
+          "endTime": 144768,
+          "word": "zabardasti "
+        },
+        {
+          "startTime": 144768,
+          "endTime": 145359,
+          "word": "nachaye "
+        },
+        {
+          "startTime": 145359,
+          "endTime": 145621,
+          "word": "ke "
+        },
+        {
+          "startTime": 145621,
+          "endTime": 146330,
+          "word": "(oh-ho)"
+        }
+      ]
+    },
+    {
+      "time": 146330,
+      "endTime": 151520,
+      "text": "Bada hi aasan hai, piya, aankhein sekna, haaye",
+      "words": [
+        {
+          "startTime": 146330,
+          "endTime": 147045,
+          "word": "Bada "
+        },
+        {
+          "startTime": 147045,
+          "endTime": 147402,
+          "word": "hi "
+        },
+        {
+          "startTime": 147402,
+          "endTime": 148147,
+          "word": "aasan "
+        },
+        {
+          "startTime": 148147,
+          "endTime": 148713,
+          "word": "hai, "
+        },
+        {
+          "startTime": 148713,
+          "endTime": 149309,
+          "word": "piya, "
+        },
+        {
+          "startTime": 149309,
+          "endTime": 150144,
+          "word": "aankhein "
+        },
+        {
+          "startTime": 150144,
+          "endTime": 151068,
+          "word": "sekna, "
+        },
+        {
+          "startTime": 151068,
+          "endTime": 151520,
+          "word": "haaye"
+        }
+      ]
+    },
+    {
+      "time": 151520,
+      "endTime": 156880,
+      "text": "Kasam tujhe jaan ki meri (o-ho), kahe ki mardangi teri (aaye-haye)",
+      "words": [
+        {
+          "startTime": 151520,
+          "endTime": 152087,
+          "word": "Kasam "
+        },
+        {
+          "startTime": 152087,
+          "endTime": 152427,
+          "word": "tujhe "
+        },
+        {
+          "startTime": 152427,
+          "endTime": 152744,
+          "word": "jaan "
+        },
+        {
+          "startTime": 152744,
+          "endTime": 153016,
+          "word": "ki "
+        },
+        {
+          "startTime": 153016,
+          "endTime": 153561,
+          "word": "meri "
+        },
+        {
+          "startTime": 153561,
+          "endTime": 154060,
+          "word": "(o-ho), "
+        },
+        {
+          "startTime": 154060,
+          "endTime": 154377,
+          "word": "kahe "
+        },
+        {
+          "startTime": 154377,
+          "endTime": 154649,
+          "word": "ki "
+        },
+        {
+          "startTime": 154649,
+          "endTime": 155512,
+          "word": "mardangi "
+        },
+        {
+          "startTime": 155512,
+          "endTime": 156057,
+          "word": "teri "
+        },
+        {
+          "startTime": 156057,
+          "endTime": 156880,
+          "word": "(aaye-haye)"
+        }
+      ]
+    },
+    {
+      "time": 156880,
+      "endTime": 162570,
+      "text": "Aaya na aurat ka dil agar, chhoo ke dekhna",
+      "words": [
+        {
+          "startTime": 156880,
+          "endTime": 157381,
+          "word": "Aaya "
+        },
+        {
+          "startTime": 157381,
+          "endTime": 157810,
+          "word": "na "
+        },
+        {
+          "startTime": 157810,
+          "endTime": 158704,
+          "word": "aurat "
+        },
+        {
+          "startTime": 158704,
+          "endTime": 159133,
+          "word": "ka "
+        },
+        {
+          "startTime": 159133,
+          "endTime": 159598,
+          "word": "dil "
+        },
+        {
+          "startTime": 159598,
+          "endTime": 160671,
+          "word": "agar, "
+        },
+        {
+          "startTime": 160671,
+          "endTime": 161207,
+          "word": "chhoo "
+        },
+        {
+          "startTime": 161207,
+          "endTime": 161636,
+          "word": "ke "
+        },
+        {
+          "startTime": 161636,
+          "endTime": 162570,
+          "word": "dekhna"
+        }
+      ]
+    },
+    {
+      "time": 162570,
+      "endTime": 168240,
+      "text": "Udti chidiya ke par ginn ke berahami se pakdav kare",
+      "words": [
+        {
+          "startTime": 162570,
+          "endTime": 163243,
+          "word": "Udti "
+        },
+        {
+          "startTime": 163243,
+          "endTime": 164000,
+          "word": "chidiya "
+        },
+        {
+          "startTime": 164000,
+          "endTime": 164336,
+          "word": "ke "
+        },
+        {
+          "startTime": 164336,
+          "endTime": 164700,
+          "word": "par "
+        },
+        {
+          "startTime": 164700,
+          "endTime": 165092,
+          "word": "ginn "
+        },
+        {
+          "startTime": 165092,
+          "endTime": 165428,
+          "word": "ke "
+        },
+        {
+          "startTime": 165428,
+          "endTime": 166775,
+          "word": "berahami "
+        },
+        {
+          "startTime": 166775,
+          "endTime": 167111,
+          "word": "se "
+        },
+        {
+          "startTime": 167111,
+          "endTime": 167840,
+          "word": "pakdav "
+        },
+        {
+          "startTime": 167840,
+          "endTime": 168240,
+          "word": "kare"
+        }
+      ]
+    },
+    {
+      "time": 168240,
+      "endTime": 173670,
+      "text": "Kyun itni berahami se pakdav kare?",
+      "words": [
+        {
+          "startTime": 168240,
+          "endTime": 168767,
+          "word": "Kyun "
+        },
+        {
+          "startTime": 168767,
+          "endTime": 169672,
+          "word": "itni "
+        },
+        {
+          "startTime": 169672,
+          "endTime": 171482,
+          "word": "berahami "
+        },
+        {
+          "startTime": 171482,
+          "endTime": 171934,
+          "word": "se "
+        },
+        {
+          "startTime": 171934,
+          "endTime": 172914,
+          "word": "pakdav "
+        },
+        {
+          "startTime": 172914,
+          "endTime": 173670,
+          "word": "kare?"
+        }
+      ]
+    },
+    {
+      "time": 173670,
+      "endTime": 176260,
+      "text": "Uyi amma, haye-haye, main toh mar gayi",
+      "words": [
+        {
+          "startTime": 173670,
+          "endTime": 173925,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 173925,
+          "endTime": 174513,
+          "word": "amma, "
+        },
+        {
+          "startTime": 174513,
+          "endTime": 175199,
+          "word": "haye-haye, "
+        },
+        {
+          "startTime": 175199,
+          "endTime": 175473,
+          "word": "main "
+        },
+        {
+          "startTime": 175473,
+          "endTime": 175728,
+          "word": "toh "
+        },
+        {
+          "startTime": 175728,
+          "endTime": 175983,
+          "word": "mar "
+        },
+        {
+          "startTime": 175983,
+          "endTime": 176260,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 176260,
+      "endTime": 178940,
+      "text": "Uyi amma, main toh toot ke bikhar gayi",
+      "words": [
+        {
+          "startTime": 176260,
+          "endTime": 176516,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 176516,
+          "endTime": 177107,
+          "word": "amma, "
+        },
+        {
+          "startTime": 177107,
+          "endTime": 177382,
+          "word": "main "
+        },
+        {
+          "startTime": 177382,
+          "endTime": 177638,
+          "word": "toh "
+        },
+        {
+          "startTime": 177638,
+          "endTime": 177913,
+          "word": "toot "
+        },
+        {
+          "startTime": 177913,
+          "endTime": 178149,
+          "word": "ke "
+        },
+        {
+          "startTime": 178149,
+          "endTime": 178661,
+          "word": "bikhar "
+        },
+        {
+          "startTime": 178661,
+          "endTime": 178940,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 178940,
+      "endTime": 184310,
+      "text": "Uyi amma (hey), uyi amma (hey), uyi amma (hey)",
+      "words": [
+        {
+          "startTime": 178940,
+          "endTime": 179355,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 179355,
+          "endTime": 180122,
+          "word": "amma "
+        },
+        {
+          "startTime": 180122,
+          "endTime": 180793,
+          "word": "(hey), "
+        },
+        {
+          "startTime": 180793,
+          "endTime": 181208,
+          "word": "uyi "
+        },
+        {
+          "startTime": 181208,
+          "endTime": 181975,
+          "word": "amma "
+        },
+        {
+          "startTime": 181975,
+          "endTime": 182646,
+          "word": "(hey), "
+        },
+        {
+          "startTime": 182646,
+          "endTime": 183061,
+          "word": "uyi "
+        },
+        {
+          "startTime": 183061,
+          "endTime": 183828,
+          "word": "amma "
+        },
+        {
+          "startTime": 183828,
+          "endTime": 184310,
+          "word": "(hey)"
+        }
+      ]
+    },
+    {
+      "time": 184310,
+      "endTime": 186870,
+      "text": "Uyi amma, chhuimui si hiraniya",
+      "words": [
+        {
+          "startTime": 184310,
+          "endTime": 184585,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 184585,
+          "endTime": 185219,
+          "word": "amma, "
+        },
+        {
+          "startTime": 185219,
+          "endTime": 185811,
+          "word": "chhuimui "
+        },
+        {
+          "startTime": 185811,
+          "endTime": 186064,
+          "word": "si "
+        },
+        {
+          "startTime": 186064,
+          "endTime": 186870,
+          "word": "hiraniya"
+        }
+      ]
+    },
+    {
+      "time": 186870,
+      "endTime": 189510,
+      "text": "Uyi amma, kaale bediyon se dar gayi",
+      "words": [
+        {
+          "startTime": 186870,
+          "endTime": 187126,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 187126,
+          "endTime": 187717,
+          "word": "amma, "
+        },
+        {
+          "startTime": 187717,
+          "endTime": 188209,
+          "word": "kaale "
+        },
+        {
+          "startTime": 188209,
+          "endTime": 188740,
+          "word": "bediyon "
+        },
+        {
+          "startTime": 188740,
+          "endTime": 188976,
+          "word": "se "
+        },
+        {
+          "startTime": 188976,
+          "endTime": 189232,
+          "word": "dar "
+        },
+        {
+          "startTime": 189232,
+          "endTime": 189510,
+          "word": "gayi"
+        }
+      ]
+    },
+    {
+      "time": 189510,
+      "endTime": 195180,
+      "text": "Uyi amma, uyi amma, uyi amma",
+      "words": [
+        {
+          "startTime": 189510,
+          "endTime": 190109,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 190109,
+          "endTime": 191491,
+          "word": "amma, "
+        },
+        {
+          "startTime": 191491,
+          "endTime": 192090,
+          "word": "uyi "
+        },
+        {
+          "startTime": 192090,
+          "endTime": 193472,
+          "word": "amma, "
+        },
+        {
+          "startTime": 193472,
+          "endTime": 194071,
+          "word": "uyi "
+        },
+        {
+          "startTime": 194071,
+          "endTime": 195180,
+          "word": "amma"
+        }
+      ]
+    },
+    {
+      "time": 195180,
+      "endTime": 200440,
+      "text": "Paanv jiya pe dhar gayi re, saans mein sandal bhar gayi re",
+      "words": [
+        {
+          "startTime": 195180,
+          "endTime": 195613,
+          "word": "Paanv "
+        },
+        {
+          "startTime": 195613,
+          "endTime": 196017,
+          "word": "jiya "
+        },
+        {
+          "startTime": 196017,
+          "endTime": 196363,
+          "word": "pe "
+        },
+        {
+          "startTime": 196363,
+          "endTime": 196767,
+          "word": "dhar "
+        },
+        {
+          "startTime": 196767,
+          "endTime": 197171,
+          "word": "gayi "
+        },
+        {
+          "startTime": 197171,
+          "endTime": 197691,
+          "word": "re, "
+        },
+        {
+          "startTime": 197691,
+          "endTime": 198124,
+          "word": "saans "
+        },
+        {
+          "startTime": 198124,
+          "endTime": 198528,
+          "word": "mein "
+        },
+        {
+          "startTime": 198528,
+          "endTime": 199279,
+          "word": "sandal "
+        },
+        {
+          "startTime": 199279,
+          "endTime": 199683,
+          "word": "bhar "
+        },
+        {
+          "startTime": 199683,
+          "endTime": 200087,
+          "word": "gayi "
+        },
+        {
+          "startTime": 200087,
+          "endTime": 200440,
+          "word": "re"
+        }
+      ]
+    },
+    {
+      "time": 200440,
+      "endTime": 205680,
+      "text": "Katal kare, upar se bole, \"Mar gayi re\"",
+      "words": [
+        {
+          "startTime": 200440,
+          "endTime": 201301,
+          "word": "Katal "
+        },
+        {
+          "startTime": 201301,
+          "endTime": 201990,
+          "word": "kare, "
+        },
+        {
+          "startTime": 201990,
+          "endTime": 202817,
+          "word": "upar "
+        },
+        {
+          "startTime": 202817,
+          "endTime": 203230,
+          "word": "se "
+        },
+        {
+          "startTime": 203230,
+          "endTime": 204264,
+          "word": "bole, "
+        },
+        {
+          "startTime": 204264,
+          "endTime": 204746,
+          "word": "\"Mar "
+        },
+        {
+          "startTime": 204746,
+          "endTime": 205228,
+          "word": "gayi "
+        },
+        {
+          "startTime": 205228,
+          "endTime": 205680,
+          "word": "re\""
+        }
+      ]
+    },
+    {
+      "time": 205680,
+      "endTime": 211010,
+      "text": "Ghus ke ghar mein dakaiton ke tak se dakaiti kar gayi re",
+      "words": [
+        {
+          "startTime": 205680,
+          "endTime": 206044,
+          "word": "Ghus "
+        },
+        {
+          "startTime": 206044,
+          "endTime": 206356,
+          "word": "ke "
+        },
+        {
+          "startTime": 206356,
+          "endTime": 206720,
+          "word": "ghar "
+        },
+        {
+          "startTime": 206720,
+          "endTime": 207084,
+          "word": "mein "
+        },
+        {
+          "startTime": 207084,
+          "endTime": 208072,
+          "word": "dakaiton "
+        },
+        {
+          "startTime": 208072,
+          "endTime": 208384,
+          "word": "ke "
+        },
+        {
+          "startTime": 208384,
+          "endTime": 208722,
+          "word": "tak "
+        },
+        {
+          "startTime": 208722,
+          "endTime": 209034,
+          "word": "se "
+        },
+        {
+          "startTime": 209034,
+          "endTime": 209996,
+          "word": "dakaiti "
+        },
+        {
+          "startTime": 209996,
+          "endTime": 210334,
+          "word": "kar "
+        },
+        {
+          "startTime": 210334,
+          "endTime": 210698,
+          "word": "gayi "
+        },
+        {
+          "startTime": 210698,
+          "endTime": 211010,
+          "word": "re"
+        }
+      ]
+    },
+    {
+      "time": 211010,
+      "endTime": 216040,
+      "text": "Katal kare, upar se bole, \"Mar gayi re\"",
+      "words": [
+        {
+          "startTime": 211010,
+          "endTime": 211837,
+          "word": "Katal "
+        },
+        {
+          "startTime": 211837,
+          "endTime": 212498,
+          "word": "kare, "
+        },
+        {
+          "startTime": 212498,
+          "endTime": 213292,
+          "word": "upar "
+        },
+        {
+          "startTime": 213292,
+          "endTime": 213689,
+          "word": "se "
+        },
+        {
+          "startTime": 213689,
+          "endTime": 214681,
+          "word": "bole, "
+        },
+        {
+          "startTime": 214681,
+          "endTime": 215144,
+          "word": "\"Mar "
+        },
+        {
+          "startTime": 215144,
+          "endTime": 215607,
+          "word": "gayi "
+        },
+        {
+          "startTime": 215607,
+          "endTime": 216040,
+          "word": "re\""
+        }
+      ]
+    },
+    {
+      "time": 216040,
+      "endTime": 221330,
+      "text": "Oh chhamiya, oh re julamiya",
+      "words": [
+        {
+          "startTime": 216040,
+          "endTime": 216627,
+          "word": "Oh "
+        },
+        {
+          "startTime": 216627,
+          "endTime": 218292,
+          "word": "chhamiya, "
+        },
+        {
+          "startTime": 218292,
+          "endTime": 218879,
+          "word": "oh "
+        },
+        {
+          "startTime": 218879,
+          "endTime": 219466,
+          "word": "re "
+        },
+        {
+          "startTime": 219466,
+          "endTime": 221330,
+          "word": "julamiya"
+        }
+      ]
+    },
+    {
+      "time": 221330,
+      "endTime": 227110,
+      "text": "Oh chhamiya, oh re julamiya",
+      "words": [
+        {
+          "startTime": 221330,
+          "endTime": 221972,
+          "word": "Oh "
+        },
+        {
+          "startTime": 221972,
+          "endTime": 223791,
+          "word": "chhamiya, "
+        },
+        {
+          "startTime": 223791,
+          "endTime": 224433,
+          "word": "oh "
+        },
+        {
+          "startTime": 224433,
+          "endTime": 225075,
+          "word": "re "
+        },
+        {
+          "startTime": 225075,
+          "endTime": 227110,
+          "word": "julamiya"
+        }
+      ]
+    },
+    {
+      "time": 227110,
+      "endTime": 229470,
+      "text": "Uyi amma",
+      "words": [
+        {
+          "startTime": 227110,
+          "endTime": 227939,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 227939,
+          "endTime": 229470,
+          "word": "amma"
+        }
+      ]
+    },
+    {
+      "time": 229470,
+      "endTime": 231360,
+      "text": "Ha, uyi amma",
+      "words": [
+        {
+          "startTime": 229470,
+          "endTime": 230088,
+          "word": "Ha, "
+        },
+        {
+          "startTime": 230088,
+          "endTime": 230534,
+          "word": "uyi "
+        },
+        {
+          "startTime": 230534,
+          "endTime": 231360,
+          "word": "amma"
+        }
+      ]
+    },
+    {
+      "time": 231360,
+      "endTime": 235160,
+      "text": "Uyi, uyi, uyi, uyi amma",
+      "words": [
+        {
+          "startTime": 231360,
+          "endTime": 232128,
+          "word": "Uyi, "
+        },
+        {
+          "startTime": 232128,
+          "endTime": 232896,
+          "word": "uyi, "
+        },
+        {
+          "startTime": 232896,
+          "endTime": 233664,
+          "word": "uyi, "
+        },
+        {
+          "startTime": 233664,
+          "endTime": 234189,
+          "word": "uyi "
+        },
+        {
+          "startTime": 234189,
+          "endTime": 235160,
+          "word": "amma"
+        }
+      ]
+    },
+    {
+      "time": 235160,
+      "endTime": 240160,
+      "text": "Uyi amma",
+      "words": [
+        {
+          "startTime": 235160,
+          "endTime": 236916,
+          "word": "Uyi "
+        },
+        {
+          "startTime": 236916,
+          "endTime": 240160,
+          "word": "amma"
+        }
+      ]
+    }
+  ]
+}
