@@ -1,0 +1,1723 @@
+{
+  "videoId": "O8WXFI_MSAI",
+  "title": "Camera",
+  "artist": "Ed Sheeran",
+  "duration": 224,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:11.090\" end=\"00:13.490\">\n        <span begin=\"00:11.090\" end=\"00:11.415\">You <\/span>\n        <span begin=\"00:11.415\" end=\"00:11.815\">should <\/span>\n        <span begin=\"00:11.815\" end=\"00:12.140\">see <\/span>\n        <span begin=\"00:12.140\" end=\"00:12.465\">the <\/span>\n        <span begin=\"00:12.465\" end=\"00:12.790\">way <\/span>\n        <span begin=\"00:12.790\" end=\"00:13.115\">the <\/span>\n        <span begin=\"00:13.115\" end=\"00:13.490\">stars<\/span>\n      <\/p>\n      <p begin=\"00:13.490\" end=\"00:17.370\">\n        <span begin=\"00:13.490\" end=\"00:15.080\">Illuminate <\/span>\n        <span begin=\"00:15.080\" end=\"00:15.525\">your <\/span>\n        <span begin=\"00:15.525\" end=\"00:16.415\">stunning <\/span>\n        <span begin=\"00:16.415\" end=\"00:17.370\">silhouette<\/span>\n      <\/p>\n      <p begin=\"00:17.370\" end=\"00:19.650\">\n        <span begin=\"00:17.370\" end=\"00:17.814\">You&apos;re <\/span>\n        <span begin=\"00:17.814\" end=\"00:18.564\">glowing <\/span>\n        <span begin=\"00:18.564\" end=\"00:18.897\">in <\/span>\n        <span begin=\"00:18.897\" end=\"00:19.258\">the <\/span>\n        <span begin=\"00:19.258\" end=\"00:19.650\">dark<\/span>\n      <\/p>\n      <p begin=\"00:19.650\" end=\"00:24.370\">\n        <span begin=\"00:19.650\" end=\"00:20.049\">I <\/span>\n        <span begin=\"00:20.049\" end=\"00:20.521\">had <\/span>\n        <span begin=\"00:20.521\" end=\"00:20.956\">to <\/span>\n        <span begin=\"00:20.956\" end=\"00:21.500\">count <\/span>\n        <span begin=\"00:21.500\" end=\"00:21.935\">to <\/span>\n        <span begin=\"00:21.935\" end=\"00:22.407\">ten <\/span>\n        <span begin=\"00:22.407\" end=\"00:22.879\">and <\/span>\n        <span begin=\"00:22.879\" end=\"00:23.387\">take <\/span>\n        <span begin=\"00:23.387\" end=\"00:23.786\">a <\/span>\n        <span begin=\"00:23.786\" end=\"00:24.370\">breath<\/span>\n      <\/p>\n      <p begin=\"00:24.370\" end=\"00:27.730\">\n        <span begin=\"00:24.370\" end=\"00:24.890\">You <\/span>\n        <span begin=\"00:24.890\" end=\"00:25.490\">think <\/span>\n        <span begin=\"00:25.490\" end=\"00:26.050\">that <\/span>\n        <span begin=\"00:26.050\" end=\"00:26.570\">you <\/span>\n        <span begin=\"00:26.570\" end=\"00:27.170\">don&apos;t <\/span>\n        <span begin=\"00:27.170\" end=\"00:27.730\">have<\/span>\n      <\/p>\n      <p begin=\"00:27.730\" end=\"00:32.760\">\n        <span begin=\"00:27.730\" end=\"00:28.857\">Beauty <\/span>\n        <span begin=\"00:28.857\" end=\"00:29.420\">and <\/span>\n        <span begin=\"00:29.420\" end=\"00:31.111\">abundance <\/span>\n        <span begin=\"00:31.111\" end=\"00:31.674\">but <\/span>\n        <span begin=\"00:31.674\" end=\"00:32.237\">you <\/span>\n        <span begin=\"00:32.237\" end=\"00:32.760\">do<\/span>\n      <\/p>\n      <p begin=\"00:32.760\" end=\"00:36.170\">\n        <span begin=\"00:32.760\" end=\"00:33.359\">And <\/span>\n        <span begin=\"00:33.359\" end=\"00:34.096\">that&apos;s <\/span>\n        <span begin=\"00:34.096\" end=\"00:34.695\">the <\/span>\n        <span begin=\"00:34.695\" end=\"00:35.386\">truth <\/span>\n        <span begin=\"00:35.386\" end=\"00:36.170\">(Truth)<\/span>\n      <\/p>\n      <p begin=\"00:36.170\" end=\"00:41.170\">\n        <span begin=\"00:36.170\" end=\"00:37.170\">You&apos;re <\/span>\n        <span begin=\"00:37.170\" end=\"00:38.795\">frozen <\/span>\n        <span begin=\"00:38.795\" end=\"00:39.545\">in <\/span>\n        <span begin=\"00:39.545\" end=\"00:41.170\">motion<\/span>\n      <\/p>\n      <p begin=\"00:41.170\" end=\"00:44.520\">\n        <span begin=\"00:41.170\" end=\"00:41.520\">A <\/span>\n        <span begin=\"00:41.520\" end=\"00:42.381\">perfect <\/span>\n        <span begin=\"00:42.381\" end=\"00:43.242\">picture <\/span>\n        <span begin=\"00:43.242\" end=\"00:43.624\">in <\/span>\n        <span begin=\"00:43.624\" end=\"00:44.038\">the <\/span>\n        <span begin=\"00:44.038\" end=\"00:44.520\">frame<\/span>\n      <\/p>\n      <p begin=\"00:44.520\" end=\"00:49.640\">\n        <span begin=\"00:44.520\" end=\"00:45.282\">Some <\/span>\n        <span begin=\"00:45.282\" end=\"00:46.752\">visions <\/span>\n        <span begin=\"00:46.752\" end=\"00:47.569\">don&apos;t <\/span>\n        <span begin=\"00:47.569\" end=\"00:48.876\">ever <\/span>\n        <span begin=\"00:48.876\" end=\"00:49.640\">fade<\/span>\n      <\/p>\n      <p begin=\"00:49.640\" end=\"00:54.000\">\n        <span begin=\"00:49.640\" end=\"00:49.928\">I <\/span>\n        <span begin=\"00:49.928\" end=\"00:50.321\">don&apos;t <\/span>\n        <span begin=\"00:50.321\" end=\"00:50.688\">need <\/span>\n        <span begin=\"00:50.688\" end=\"00:50.976\">a <\/span>\n        <span begin=\"00:50.976\" end=\"00:51.921\">camera <\/span>\n        <span begin=\"00:51.921\" end=\"00:52.236\">to <\/span>\n        <span begin=\"00:52.236\" end=\"00:52.945\">capture <\/span>\n        <span begin=\"00:52.945\" end=\"00:53.312\">this <\/span>\n        <span begin=\"00:53.312\" end=\"00:54.000\">moment<\/span>\n      <\/p>\n      <p begin=\"00:54.000\" end=\"01:03.160\">\n        <span begin=\"00:54.000\" end=\"00:54.749\">I&apos;ll <\/span>\n        <span begin=\"00:54.749\" end=\"00:56.784\">remember <\/span>\n        <span begin=\"00:56.784\" end=\"00:57.480\">how <\/span>\n        <span begin=\"00:57.480\" end=\"00:58.176\">you <\/span>\n        <span begin=\"00:58.176\" end=\"00:58.925\">look <\/span>\n        <span begin=\"00:58.925\" end=\"01:00.371\">tonight <\/span>\n        <span begin=\"01:00.371\" end=\"01:01.067\">for <\/span>\n        <span begin=\"01:01.067\" end=\"01:01.763\">all <\/span>\n        <span begin=\"01:01.763\" end=\"01:02.405\">my <\/span>\n        <span begin=\"01:02.405\" end=\"01:03.160\">life<\/span>\n      <\/p>\n      <p begin=\"01:03.160\" end=\"01:08.120\">\n        <span begin=\"01:03.160\" end=\"01:03.497\">When <\/span>\n        <span begin=\"01:03.497\" end=\"01:04.700\">everything <\/span>\n        <span begin=\"01:04.700\" end=\"01:04.988\">is <\/span>\n        <span begin=\"01:04.988\" end=\"01:05.349\">black <\/span>\n        <span begin=\"01:05.349\" end=\"01:05.662\">and <\/span>\n        <span begin=\"01:05.662\" end=\"01:06.167\">white, <\/span>\n        <span begin=\"01:06.167\" end=\"01:06.504\">your <\/span>\n        <span begin=\"01:06.504\" end=\"01:07.178\">colour&apos;s <\/span>\n        <span begin=\"01:07.178\" end=\"01:08.120\">exploding<\/span>\n      <\/p>\n      <p begin=\"01:08.120\" end=\"01:13.960\">\n        <span begin=\"01:08.120\" end=\"01:09.314\">There&apos;s <\/span>\n        <span begin=\"01:09.314\" end=\"01:11.039\">somethin&apos; <\/span>\n        <span begin=\"01:11.039\" end=\"01:11.569\">in <\/span>\n        <span begin=\"01:11.569\" end=\"01:12.144\">the <\/span>\n        <span begin=\"01:12.144\" end=\"01:12.719\">way <\/span>\n        <span begin=\"01:12.719\" end=\"01:13.294\">you <\/span>\n        <span begin=\"01:13.294\" end=\"01:13.960\">shine<\/span>\n      <\/p>\n      <p begin=\"01:13.960\" end=\"01:19.800\">\n        <span begin=\"01:13.960\" end=\"01:14.403\">I <\/span>\n        <span begin=\"01:14.403\" end=\"01:15.007\">don&apos;t <\/span>\n        <span begin=\"01:15.007\" end=\"01:15.570\">need <\/span>\n        <span begin=\"01:15.570\" end=\"01:16.013\">a <\/span>\n        <span begin=\"01:16.013\" end=\"01:17.060\">camеra <\/span>\n        <span begin=\"01:17.060\" end=\"01:17.623\">when <\/span>\n        <span begin=\"01:17.623\" end=\"01:18.267\">you&apos;re <\/span>\n        <span begin=\"01:18.267\" end=\"01:18.750\">in <\/span>\n        <span begin=\"01:18.750\" end=\"01:19.233\">my <\/span>\n        <span begin=\"01:19.233\" end=\"01:19.800\">eyеs<\/span>\n      <\/p>\n      <p begin=\"01:19.800\" end=\"01:25.000\">\n        <span begin=\"01:19.800\" end=\"01:20.496\">You <\/span>\n        <span begin=\"01:20.496\" end=\"01:21.353\">should <\/span>\n        <span begin=\"01:21.353\" end=\"01:22.049\">see <\/span>\n        <span begin=\"01:22.049\" end=\"01:22.745\">the <\/span>\n        <span begin=\"01:22.745\" end=\"01:23.441\">way <\/span>\n        <span begin=\"01:23.441\" end=\"01:24.191\">this <\/span>\n        <span begin=\"01:24.191\" end=\"01:25.000\">night<\/span>\n      <\/p>\n      <p begin=\"01:25.000\" end=\"01:29.840\">\n        <span begin=\"01:25.000\" end=\"01:25.457\">Is <\/span>\n        <span begin=\"01:25.457\" end=\"01:26.943\">unfolding <\/span>\n        <span begin=\"01:26.943\" end=\"01:28.886\">beautifully <\/span>\n        <span begin=\"01:28.886\" end=\"01:29.381\">for <\/span>\n        <span begin=\"01:29.381\" end=\"01:29.840\">us<\/span>\n      <\/p>\n      <p begin=\"01:29.840\" end=\"01:32.120\">\n        <span begin=\"01:29.840\" end=\"01:30.120\">It&apos;s <\/span>\n        <span begin=\"01:30.120\" end=\"01:30.660\">getting <\/span>\n        <span begin=\"01:30.660\" end=\"01:31.060\">late, <\/span>\n        <span begin=\"01:31.060\" end=\"01:31.320\">but <\/span>\n        <span begin=\"01:31.320\" end=\"01:31.540\">I <\/span>\n        <span begin=\"01:31.540\" end=\"01:31.840\">don&apos;t <\/span>\n        <span begin=\"01:31.840\" end=\"01:32.120\">mind<\/span>\n      <\/p>\n      <p begin=\"01:32.120\" end=\"01:36.280\">\n        <span begin=\"01:32.120\" end=\"01:32.556\">We&apos;ll <\/span>\n        <span begin=\"01:32.556\" end=\"01:32.963\">take <\/span>\n        <span begin=\"01:32.963\" end=\"01:33.370\">this <\/span>\n        <span begin=\"01:33.370\" end=\"01:33.719\">in <\/span>\n        <span begin=\"01:33.719\" end=\"01:34.446\">until <\/span>\n        <span begin=\"01:34.446\" end=\"01:34.824\">the <\/span>\n        <span begin=\"01:34.824\" end=\"01:35.202\">sun <\/span>\n        <span begin=\"01:35.202\" end=\"01:35.929\">comes <\/span>\n        <span begin=\"01:35.929\" end=\"01:36.280\">up<\/span>\n      <\/p>\n      <p begin=\"01:36.280\" end=\"01:39.520\">\n        <span begin=\"01:36.280\" end=\"01:36.732\">And <\/span>\n        <span begin=\"01:36.732\" end=\"01:37.115\">I <\/span>\n        <span begin=\"01:37.115\" end=\"01:37.637\">think <\/span>\n        <span begin=\"01:37.637\" end=\"01:38.124\">that <\/span>\n        <span begin=\"01:38.124\" end=\"01:38.611\">what <\/span>\n        <span begin=\"01:38.611\" end=\"01:39.029\">we <\/span>\n        <span begin=\"01:39.029\" end=\"01:39.520\">have<\/span>\n      <\/p>\n      <p begin=\"01:39.520\" end=\"01:45.040\">\n        <span begin=\"01:39.520\" end=\"01:40.037\">Is <\/span>\n        <span begin=\"01:40.037\" end=\"01:40.640\">like <\/span>\n        <span begin=\"01:40.640\" end=\"01:42.149\">every <\/span>\n        <span begin=\"01:42.149\" end=\"01:42.795\">dream <\/span>\n        <span begin=\"01:42.795\" end=\"01:43.269\">I <\/span>\n        <span begin=\"01:43.269\" end=\"01:43.829\">had <\/span>\n        <span begin=\"01:43.829\" end=\"01:44.432\">came <\/span>\n        <span begin=\"01:44.432\" end=\"01:45.040\">true<\/span>\n      <\/p>\n      <p begin=\"01:45.040\" end=\"01:47.640\">\n        <span begin=\"01:45.040\" end=\"01:45.736\">Lying <\/span>\n        <span begin=\"01:45.736\" end=\"01:46.386\">here <\/span>\n        <span begin=\"01:46.386\" end=\"01:47.036\">with <\/span>\n        <span begin=\"01:47.036\" end=\"01:47.640\">you<\/span>\n      <\/p>\n      <p begin=\"01:47.640\" end=\"01:53.280\">\n        <span begin=\"01:47.640\" end=\"01:48.435\">A <\/span>\n        <span begin=\"01:48.435\" end=\"01:50.242\">photo <\/span>\n        <span begin=\"01:50.242\" end=\"01:51.326\">could <\/span>\n        <span begin=\"01:51.326\" end=\"01:52.266\">not <\/span>\n        <span begin=\"01:52.266\" end=\"01:53.280\">show<\/span>\n      <\/p>\n      <p begin=\"01:53.280\" end=\"01:56.720\">\n        <span begin=\"01:53.280\" end=\"01:53.679\">The <\/span>\n        <span begin=\"01:53.679\" end=\"01:54.078\">way <\/span>\n        <span begin=\"01:54.078\" end=\"01:54.446\">my <\/span>\n        <span begin=\"01:54.446\" end=\"01:54.906\">heart <\/span>\n        <span begin=\"01:54.906\" end=\"01:55.274\">is <\/span>\n        <span begin=\"01:55.274\" end=\"01:56.287\">beating, <\/span>\n        <span begin=\"01:56.287\" end=\"01:56.720\">babe<\/span>\n      <\/p>\n      <p begin=\"01:56.720\" end=\"02:02.200\">\n        <span begin=\"01:56.720\" end=\"01:57.536\">Some <\/span>\n        <span begin=\"01:57.536\" end=\"01:59.110\">visions <\/span>\n        <span begin=\"01:59.110\" end=\"01:59.984\">don&apos;t <\/span>\n        <span begin=\"01:59.984\" end=\"02:01.383\">ever <\/span>\n        <span begin=\"02:01.383\" end=\"02:02.200\">fade<\/span>\n      <\/p>\n      <p begin=\"02:02.200\" end=\"02:06.480\">\n        <span begin=\"02:02.200\" end=\"02:02.483\">I <\/span>\n        <span begin=\"02:02.483\" end=\"02:02.869\">don&apos;t <\/span>\n        <span begin=\"02:02.869\" end=\"02:03.229\">need <\/span>\n        <span begin=\"02:03.229\" end=\"02:03.512\">a <\/span>\n        <span begin=\"02:03.512\" end=\"02:04.440\">camera <\/span>\n        <span begin=\"02:04.440\" end=\"02:04.749\">to <\/span>\n        <span begin=\"02:04.749\" end=\"02:05.445\">capture <\/span>\n        <span begin=\"02:05.445\" end=\"02:05.805\">this <\/span>\n        <span begin=\"02:05.805\" end=\"02:06.480\">moment<\/span>\n      <\/p>\n      <p begin=\"02:06.480\" end=\"02:15.320\">\n        <span begin=\"02:06.480\" end=\"02:07.203\">I&apos;ll <\/span>\n        <span begin=\"02:07.203\" end=\"02:09.167\">remember <\/span>\n        <span begin=\"02:09.167\" end=\"02:09.839\">how <\/span>\n        <span begin=\"02:09.839\" end=\"02:10.511\">you <\/span>\n        <span begin=\"02:10.511\" end=\"02:11.234\">look <\/span>\n        <span begin=\"02:11.234\" end=\"02:12.629\">tonight <\/span>\n        <span begin=\"02:12.629\" end=\"02:13.301\">for <\/span>\n        <span begin=\"02:13.301\" end=\"02:13.973\">all <\/span>\n        <span begin=\"02:13.973\" end=\"02:14.593\">my <\/span>\n        <span begin=\"02:14.593\" end=\"02:15.320\">life<\/span>\n      <\/p>\n      <p begin=\"02:15.320\" end=\"02:19.720\">\n        <span begin=\"02:15.320\" end=\"02:15.619\">When <\/span>\n        <span begin=\"02:15.619\" end=\"02:16.686\">everything <\/span>\n        <span begin=\"02:16.686\" end=\"02:16.942\">is <\/span>\n        <span begin=\"02:16.942\" end=\"02:17.262\">black <\/span>\n        <span begin=\"02:17.262\" end=\"02:17.539\">and <\/span>\n        <span begin=\"02:17.539\" end=\"02:17.987\">white, <\/span>\n        <span begin=\"02:17.987\" end=\"02:18.286\">your <\/span>\n        <span begin=\"02:18.286\" end=\"02:18.884\">colour&apos;s <\/span>\n        <span begin=\"02:18.884\" end=\"02:19.720\">exploding<\/span>\n      <\/p>\n      <p begin=\"02:19.720\" end=\"02:25.880\">\n        <span begin=\"02:19.720\" end=\"02:20.980\">There&apos;s <\/span>\n        <span begin=\"02:20.980\" end=\"02:22.799\">somethin&apos; <\/span>\n        <span begin=\"02:22.799\" end=\"02:23.358\">in <\/span>\n        <span begin=\"02:23.358\" end=\"02:23.964\">the <\/span>\n        <span begin=\"02:23.964\" end=\"02:24.570\">way <\/span>\n        <span begin=\"02:24.570\" end=\"02:25.176\">you <\/span>\n        <span begin=\"02:25.176\" end=\"02:25.880\">shine<\/span>\n      <\/p>\n      <p begin=\"02:25.880\" end=\"02:31.720\">\n        <span begin=\"02:25.880\" end=\"02:26.294\">I <\/span>\n        <span begin=\"02:26.294\" end=\"02:26.859\">don&apos;t <\/span>\n        <span begin=\"02:26.859\" end=\"02:27.386\">need <\/span>\n        <span begin=\"02:27.386\" end=\"02:27.800\">a <\/span>\n        <span begin=\"02:27.800\" end=\"02:29.156\">camera <\/span>\n        <span begin=\"02:29.156\" end=\"02:29.683\">when <\/span>\n        <span begin=\"02:29.683\" end=\"02:30.285\">you&apos;re <\/span>\n        <span begin=\"02:30.285\" end=\"02:30.737\">in <\/span>\n        <span begin=\"02:30.737\" end=\"02:31.189\">my <\/span>\n        <span begin=\"02:31.189\" end=\"02:31.720\">eyes<\/span>\n      <\/p>\n      <p begin=\"02:31.720\" end=\"02:34.840\">\n        <span begin=\"02:31.720\" end=\"02:32.220\">And <\/span>\n        <span begin=\"02:32.220\" end=\"02:32.759\">then <\/span>\n        <span begin=\"02:32.759\" end=\"02:33.259\">the <\/span>\n        <span begin=\"02:33.259\" end=\"02:33.836\">flash <\/span>\n        <span begin=\"02:33.836\" end=\"02:34.298\">is <\/span>\n        <span begin=\"02:34.298\" end=\"02:34.840\">gone<\/span>\n      <\/p>\n      <p begin=\"02:34.840\" end=\"02:37.440\">\n        <span begin=\"02:34.840\" end=\"02:35.262\">But <\/span>\n        <span begin=\"02:35.262\" end=\"02:35.716\">I&apos;ll <\/span>\n        <span begin=\"02:35.716\" end=\"02:36.170\">keep <\/span>\n        <span begin=\"02:36.170\" end=\"02:37.047\">holdin&apos; <\/span>\n        <span begin=\"02:37.047\" end=\"02:37.440\">on<\/span>\n      <\/p>\n      <p begin=\"02:37.440\" end=\"02:40.360\">\n        <span begin=\"02:37.440\" end=\"02:37.624\">To <\/span>\n        <span begin=\"02:37.624\" end=\"02:38.161\">every <\/span>\n        <span begin=\"02:38.161\" end=\"02:38.560\">little <\/span>\n        <span begin=\"02:38.560\" end=\"02:38.959\">detail <\/span>\n        <span begin=\"02:38.959\" end=\"02:39.143\">in <\/span>\n        <span begin=\"02:39.143\" end=\"02:39.342\">the <\/span>\n        <span begin=\"02:39.342\" end=\"02:39.741\">fabric <\/span>\n        <span begin=\"02:39.741\" end=\"02:39.925\">of <\/span>\n        <span begin=\"02:39.925\" end=\"02:40.124\">the <\/span>\n        <span begin=\"02:40.124\" end=\"02:40.360\">night<\/span>\n      <\/p>\n      <p begin=\"02:40.360\" end=\"02:43.640\">\n        <span begin=\"02:40.360\" end=\"02:41.066\">Never <\/span>\n        <span begin=\"02:41.066\" end=\"02:41.829\">letting <\/span>\n        <span begin=\"02:41.829\" end=\"02:42.168\">go <\/span>\n        <span begin=\"02:42.168\" end=\"02:42.507\">of <\/span>\n        <span begin=\"02:42.507\" end=\"02:42.902\">that <\/span>\n        <span begin=\"02:42.902\" end=\"02:43.640\">inside<\/span>\n      <\/p>\n      <p begin=\"02:43.640\" end=\"02:56.800\">\n        <span begin=\"02:43.640\" end=\"02:56.800\">(Ooh)<\/span>\n      <\/p>\n      <p begin=\"02:56.800\" end=\"03:01.000\">\n        <span begin=\"02:56.800\" end=\"02:57.078\">I <\/span>\n        <span begin=\"02:57.078\" end=\"02:57.457\">don&apos;t <\/span>\n        <span begin=\"02:57.457\" end=\"02:57.811\">need <\/span>\n        <span begin=\"02:57.811\" end=\"02:58.089\">a <\/span>\n        <span begin=\"02:58.089\" end=\"02:58.999\">camera <\/span>\n        <span begin=\"02:58.999\" end=\"02:59.302\">to <\/span>\n        <span begin=\"02:59.302\" end=\"02:59.985\">capture <\/span>\n        <span begin=\"02:59.985\" end=\"03:00.339\">this <\/span>\n        <span begin=\"03:00.339\" end=\"03:01.000\">moment<\/span>\n      <\/p>\n      <p begin=\"03:01.000\" end=\"03:10.000\">\n        <span begin=\"03:01.000\" end=\"03:01.736\">I&apos;ll <\/span>\n        <span begin=\"03:01.736\" end=\"03:03.736\">remember <\/span>\n        <span begin=\"03:03.736\" end=\"03:04.420\">how <\/span>\n        <span begin=\"03:04.420\" end=\"03:05.104\">you <\/span>\n        <span begin=\"03:05.104\" end=\"03:05.840\">look <\/span>\n        <span begin=\"03:05.840\" end=\"03:07.261\">tonight <\/span>\n        <span begin=\"03:07.261\" end=\"03:07.945\">for <\/span>\n        <span begin=\"03:07.945\" end=\"03:08.629\">all <\/span>\n        <span begin=\"03:08.629\" end=\"03:09.260\">my <\/span>\n        <span begin=\"03:09.260\" end=\"03:10.000\">life<\/span>\n      <\/p>\n      <p begin=\"03:10.000\" end=\"03:15.360\">\n        <span begin=\"03:10.000\" end=\"03:10.364\">When <\/span>\n        <span begin=\"03:10.364\" end=\"03:11.664\">everything <\/span>\n        <span begin=\"03:11.664\" end=\"03:11.976\">is <\/span>\n        <span begin=\"03:11.976\" end=\"03:12.366\">black <\/span>\n        <span begin=\"03:12.366\" end=\"03:12.704\">and <\/span>\n        <span begin=\"03:12.704\" end=\"03:13.250\">white, <\/span>\n        <span begin=\"03:13.250\" end=\"03:13.614\">your <\/span>\n        <span begin=\"03:13.614\" end=\"03:14.342\">colour&apos;s <\/span>\n        <span begin=\"03:14.342\" end=\"03:15.360\">exploding<\/span>\n      <\/p>\n      <p begin=\"03:15.360\" end=\"03:21.200\">\n        <span begin=\"03:15.360\" end=\"03:16.554\">There&apos;s <\/span>\n        <span begin=\"03:16.554\" end=\"03:18.279\">somethin&apos; <\/span>\n        <span begin=\"03:18.279\" end=\"03:18.809\">in <\/span>\n        <span begin=\"03:18.809\" end=\"03:19.384\">the <\/span>\n        <span begin=\"03:19.384\" end=\"03:19.959\">way <\/span>\n        <span begin=\"03:19.959\" end=\"03:20.534\">you <\/span>\n        <span begin=\"03:20.534\" end=\"03:21.200\">shine<\/span>\n      <\/p>\n      <p begin=\"03:21.200\" end=\"03:24.120\">\n        <span begin=\"03:21.200\" end=\"03:21.569\">I <\/span>\n        <span begin=\"03:21.569\" end=\"03:22.072\">don&apos;t <\/span>\n        <span begin=\"03:22.072\" end=\"03:22.541\">need <\/span>\n        <span begin=\"03:22.541\" end=\"03:22.910\">a <\/span>\n        <span begin=\"03:22.910\" end=\"03:24.120\">camera<\/span>\n      <\/p>\n      <p begin=\"03:24.120\" end=\"03:29.120\">\n        <span begin=\"03:24.120\" end=\"03:25.149\">When <\/span>\n        <span begin=\"03:25.149\" end=\"03:26.325\">you&apos;re <\/span>\n        <span begin=\"03:26.325\" end=\"03:27.207\">in <\/span>\n        <span begin=\"03:27.207\" end=\"03:28.089\">my <\/span>\n        <span begin=\"03:28.089\" end=\"03:29.120\">eyes<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 11090,
+      "endTime": 13490,
+      "text": "You should see the way the stars",
+      "words": [
+        {
+          "startTime": 11090,
+          "endTime": 11415,
+          "word": "You "
+        },
+        {
+          "startTime": 11415,
+          "endTime": 11815,
+          "word": "should "
+        },
+        {
+          "startTime": 11815,
+          "endTime": 12140,
+          "word": "see "
+        },
+        {
+          "startTime": 12140,
+          "endTime": 12465,
+          "word": "the "
+        },
+        {
+          "startTime": 12465,
+          "endTime": 12790,
+          "word": "way "
+        },
+        {
+          "startTime": 12790,
+          "endTime": 13115,
+          "word": "the "
+        },
+        {
+          "startTime": 13115,
+          "endTime": 13490,
+          "word": "stars"
+        }
+      ]
+    },
+    {
+      "time": 13490,
+      "endTime": 17370,
+      "text": "Illuminate your stunning silhouette",
+      "words": [
+        {
+          "startTime": 13490,
+          "endTime": 15080,
+          "word": "Illuminate "
+        },
+        {
+          "startTime": 15080,
+          "endTime": 15525,
+          "word": "your "
+        },
+        {
+          "startTime": 15525,
+          "endTime": 16415,
+          "word": "stunning "
+        },
+        {
+          "startTime": 16415,
+          "endTime": 17370,
+          "word": "silhouette"
+        }
+      ]
+    },
+    {
+      "time": 17370,
+      "endTime": 19650,
+      "text": "You're glowing in the dark",
+      "words": [
+        {
+          "startTime": 17370,
+          "endTime": 17814,
+          "word": "You're "
+        },
+        {
+          "startTime": 17814,
+          "endTime": 18564,
+          "word": "glowing "
+        },
+        {
+          "startTime": 18564,
+          "endTime": 18897,
+          "word": "in "
+        },
+        {
+          "startTime": 18897,
+          "endTime": 19258,
+          "word": "the "
+        },
+        {
+          "startTime": 19258,
+          "endTime": 19650,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 19650,
+      "endTime": 24370,
+      "text": "I had to count to ten and take a breath",
+      "words": [
+        {
+          "startTime": 19650,
+          "endTime": 20049,
+          "word": "I "
+        },
+        {
+          "startTime": 20049,
+          "endTime": 20521,
+          "word": "had "
+        },
+        {
+          "startTime": 20521,
+          "endTime": 20956,
+          "word": "to "
+        },
+        {
+          "startTime": 20956,
+          "endTime": 21500,
+          "word": "count "
+        },
+        {
+          "startTime": 21500,
+          "endTime": 21935,
+          "word": "to "
+        },
+        {
+          "startTime": 21935,
+          "endTime": 22407,
+          "word": "ten "
+        },
+        {
+          "startTime": 22407,
+          "endTime": 22879,
+          "word": "and "
+        },
+        {
+          "startTime": 22879,
+          "endTime": 23387,
+          "word": "take "
+        },
+        {
+          "startTime": 23387,
+          "endTime": 23786,
+          "word": "a "
+        },
+        {
+          "startTime": 23786,
+          "endTime": 24370,
+          "word": "breath"
+        }
+      ]
+    },
+    {
+      "time": 24370,
+      "endTime": 27730,
+      "text": "You think that you don't have",
+      "words": [
+        {
+          "startTime": 24370,
+          "endTime": 24890,
+          "word": "You "
+        },
+        {
+          "startTime": 24890,
+          "endTime": 25490,
+          "word": "think "
+        },
+        {
+          "startTime": 25490,
+          "endTime": 26050,
+          "word": "that "
+        },
+        {
+          "startTime": 26050,
+          "endTime": 26570,
+          "word": "you "
+        },
+        {
+          "startTime": 26570,
+          "endTime": 27170,
+          "word": "don't "
+        },
+        {
+          "startTime": 27170,
+          "endTime": 27730,
+          "word": "have"
+        }
+      ]
+    },
+    {
+      "time": 27730,
+      "endTime": 32760,
+      "text": "Beauty and abundance but you do",
+      "words": [
+        {
+          "startTime": 27730,
+          "endTime": 28857,
+          "word": "Beauty "
+        },
+        {
+          "startTime": 28857,
+          "endTime": 29420,
+          "word": "and "
+        },
+        {
+          "startTime": 29420,
+          "endTime": 31111,
+          "word": "abundance "
+        },
+        {
+          "startTime": 31111,
+          "endTime": 31674,
+          "word": "but "
+        },
+        {
+          "startTime": 31674,
+          "endTime": 32237,
+          "word": "you "
+        },
+        {
+          "startTime": 32237,
+          "endTime": 32760,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "time": 32760,
+      "endTime": 36170,
+      "text": "And that's the truth (Truth)",
+      "words": [
+        {
+          "startTime": 32760,
+          "endTime": 33359,
+          "word": "And "
+        },
+        {
+          "startTime": 33359,
+          "endTime": 34096,
+          "word": "that's "
+        },
+        {
+          "startTime": 34096,
+          "endTime": 34695,
+          "word": "the "
+        },
+        {
+          "startTime": 34695,
+          "endTime": 35386,
+          "word": "truth "
+        },
+        {
+          "startTime": 35386,
+          "endTime": 36170,
+          "word": "(Truth)"
+        }
+      ]
+    },
+    {
+      "time": 36170,
+      "endTime": 41170,
+      "text": "You're frozen in motion",
+      "words": [
+        {
+          "startTime": 36170,
+          "endTime": 37170,
+          "word": "You're "
+        },
+        {
+          "startTime": 37170,
+          "endTime": 38795,
+          "word": "frozen "
+        },
+        {
+          "startTime": 38795,
+          "endTime": 39545,
+          "word": "in "
+        },
+        {
+          "startTime": 39545,
+          "endTime": 41170,
+          "word": "motion"
+        }
+      ]
+    },
+    {
+      "time": 41170,
+      "endTime": 44520,
+      "text": "A perfect picture in the frame",
+      "words": [
+        {
+          "startTime": 41170,
+          "endTime": 41520,
+          "word": "A "
+        },
+        {
+          "startTime": 41520,
+          "endTime": 42381,
+          "word": "perfect "
+        },
+        {
+          "startTime": 42381,
+          "endTime": 43242,
+          "word": "picture "
+        },
+        {
+          "startTime": 43242,
+          "endTime": 43624,
+          "word": "in "
+        },
+        {
+          "startTime": 43624,
+          "endTime": 44038,
+          "word": "the "
+        },
+        {
+          "startTime": 44038,
+          "endTime": 44520,
+          "word": "frame"
+        }
+      ]
+    },
+    {
+      "time": 44520,
+      "endTime": 49640,
+      "text": "Some visions don't ever fade",
+      "words": [
+        {
+          "startTime": 44520,
+          "endTime": 45282,
+          "word": "Some "
+        },
+        {
+          "startTime": 45282,
+          "endTime": 46752,
+          "word": "visions "
+        },
+        {
+          "startTime": 46752,
+          "endTime": 47569,
+          "word": "don't "
+        },
+        {
+          "startTime": 47569,
+          "endTime": 48876,
+          "word": "ever "
+        },
+        {
+          "startTime": 48876,
+          "endTime": 49640,
+          "word": "fade"
+        }
+      ]
+    },
+    {
+      "time": 49640,
+      "endTime": 54000,
+      "text": "I don't need a camera to capture this moment",
+      "words": [
+        {
+          "startTime": 49640,
+          "endTime": 49928,
+          "word": "I "
+        },
+        {
+          "startTime": 49928,
+          "endTime": 50321,
+          "word": "don't "
+        },
+        {
+          "startTime": 50321,
+          "endTime": 50688,
+          "word": "need "
+        },
+        {
+          "startTime": 50688,
+          "endTime": 50976,
+          "word": "a "
+        },
+        {
+          "startTime": 50976,
+          "endTime": 51921,
+          "word": "camera "
+        },
+        {
+          "startTime": 51921,
+          "endTime": 52236,
+          "word": "to "
+        },
+        {
+          "startTime": 52236,
+          "endTime": 52945,
+          "word": "capture "
+        },
+        {
+          "startTime": 52945,
+          "endTime": 53312,
+          "word": "this "
+        },
+        {
+          "startTime": 53312,
+          "endTime": 54000,
+          "word": "moment"
+        }
+      ]
+    },
+    {
+      "time": 54000,
+      "endTime": 63160,
+      "text": "I'll remember how you look tonight for all my life",
+      "words": [
+        {
+          "startTime": 54000,
+          "endTime": 54749,
+          "word": "I'll "
+        },
+        {
+          "startTime": 54749,
+          "endTime": 56784,
+          "word": "remember "
+        },
+        {
+          "startTime": 56784,
+          "endTime": 57480,
+          "word": "how "
+        },
+        {
+          "startTime": 57480,
+          "endTime": 58176,
+          "word": "you "
+        },
+        {
+          "startTime": 58176,
+          "endTime": 58925,
+          "word": "look "
+        },
+        {
+          "startTime": 58925,
+          "endTime": 60371,
+          "word": "tonight "
+        },
+        {
+          "startTime": 60371,
+          "endTime": 61067,
+          "word": "for "
+        },
+        {
+          "startTime": 61067,
+          "endTime": 61763,
+          "word": "all "
+        },
+        {
+          "startTime": 61763,
+          "endTime": 62405,
+          "word": "my "
+        },
+        {
+          "startTime": 62405,
+          "endTime": 63160,
+          "word": "life"
+        }
+      ]
+    },
+    {
+      "time": 63160,
+      "endTime": 68120,
+      "text": "When everything is black and white, your colour's exploding",
+      "words": [
+        {
+          "startTime": 63160,
+          "endTime": 63497,
+          "word": "When "
+        },
+        {
+          "startTime": 63497,
+          "endTime": 64700,
+          "word": "everything "
+        },
+        {
+          "startTime": 64700,
+          "endTime": 64988,
+          "word": "is "
+        },
+        {
+          "startTime": 64988,
+          "endTime": 65349,
+          "word": "black "
+        },
+        {
+          "startTime": 65349,
+          "endTime": 65662,
+          "word": "and "
+        },
+        {
+          "startTime": 65662,
+          "endTime": 66167,
+          "word": "white, "
+        },
+        {
+          "startTime": 66167,
+          "endTime": 66504,
+          "word": "your "
+        },
+        {
+          "startTime": 66504,
+          "endTime": 67178,
+          "word": "colour's "
+        },
+        {
+          "startTime": 67178,
+          "endTime": 68120,
+          "word": "exploding"
+        }
+      ]
+    },
+    {
+      "time": 68120,
+      "endTime": 73960,
+      "text": "There's somethin' in the way you shine",
+      "words": [
+        {
+          "startTime": 68120,
+          "endTime": 69314,
+          "word": "There's "
+        },
+        {
+          "startTime": 69314,
+          "endTime": 71039,
+          "word": "somethin' "
+        },
+        {
+          "startTime": 71039,
+          "endTime": 71569,
+          "word": "in "
+        },
+        {
+          "startTime": 71569,
+          "endTime": 72144,
+          "word": "the "
+        },
+        {
+          "startTime": 72144,
+          "endTime": 72719,
+          "word": "way "
+        },
+        {
+          "startTime": 72719,
+          "endTime": 73294,
+          "word": "you "
+        },
+        {
+          "startTime": 73294,
+          "endTime": 73960,
+          "word": "shine"
+        }
+      ]
+    },
+    {
+      "time": 73960,
+      "endTime": 79800,
+      "text": "I don't need a camеra when you're in my eyеs",
+      "words": [
+        {
+          "startTime": 73960,
+          "endTime": 74403,
+          "word": "I "
+        },
+        {
+          "startTime": 74403,
+          "endTime": 75007,
+          "word": "don't "
+        },
+        {
+          "startTime": 75007,
+          "endTime": 75570,
+          "word": "need "
+        },
+        {
+          "startTime": 75570,
+          "endTime": 76013,
+          "word": "a "
+        },
+        {
+          "startTime": 76013,
+          "endTime": 77060,
+          "word": "camеra "
+        },
+        {
+          "startTime": 77060,
+          "endTime": 77623,
+          "word": "when "
+        },
+        {
+          "startTime": 77623,
+          "endTime": 78267,
+          "word": "you're "
+        },
+        {
+          "startTime": 78267,
+          "endTime": 78750,
+          "word": "in "
+        },
+        {
+          "startTime": 78750,
+          "endTime": 79233,
+          "word": "my "
+        },
+        {
+          "startTime": 79233,
+          "endTime": 79800,
+          "word": "eyеs"
+        }
+      ]
+    },
+    {
+      "time": 79800,
+      "endTime": 85000,
+      "text": "You should see the way this night",
+      "words": [
+        {
+          "startTime": 79800,
+          "endTime": 80496,
+          "word": "You "
+        },
+        {
+          "startTime": 80496,
+          "endTime": 81353,
+          "word": "should "
+        },
+        {
+          "startTime": 81353,
+          "endTime": 82049,
+          "word": "see "
+        },
+        {
+          "startTime": 82049,
+          "endTime": 82745,
+          "word": "the "
+        },
+        {
+          "startTime": 82745,
+          "endTime": 83441,
+          "word": "way "
+        },
+        {
+          "startTime": 83441,
+          "endTime": 84191,
+          "word": "this "
+        },
+        {
+          "startTime": 84191,
+          "endTime": 85000,
+          "word": "night"
+        }
+      ]
+    },
+    {
+      "time": 85000,
+      "endTime": 89840,
+      "text": "Is unfolding beautifully for us",
+      "words": [
+        {
+          "startTime": 85000,
+          "endTime": 85457,
+          "word": "Is "
+        },
+        {
+          "startTime": 85457,
+          "endTime": 86943,
+          "word": "unfolding "
+        },
+        {
+          "startTime": 86943,
+          "endTime": 88886,
+          "word": "beautifully "
+        },
+        {
+          "startTime": 88886,
+          "endTime": 89381,
+          "word": "for "
+        },
+        {
+          "startTime": 89381,
+          "endTime": 89840,
+          "word": "us"
+        }
+      ]
+    },
+    {
+      "time": 89840,
+      "endTime": 92120,
+      "text": "It's getting late, but I don't mind",
+      "words": [
+        {
+          "startTime": 89840,
+          "endTime": 90120,
+          "word": "It's "
+        },
+        {
+          "startTime": 90120,
+          "endTime": 90660,
+          "word": "getting "
+        },
+        {
+          "startTime": 90660,
+          "endTime": 91060,
+          "word": "late, "
+        },
+        {
+          "startTime": 91060,
+          "endTime": 91320,
+          "word": "but "
+        },
+        {
+          "startTime": 91320,
+          "endTime": 91540,
+          "word": "I "
+        },
+        {
+          "startTime": 91540,
+          "endTime": 91840,
+          "word": "don't "
+        },
+        {
+          "startTime": 91840,
+          "endTime": 92120,
+          "word": "mind"
+        }
+      ]
+    },
+    {
+      "time": 92120,
+      "endTime": 96280,
+      "text": "We'll take this in until the sun comes up",
+      "words": [
+        {
+          "startTime": 92120,
+          "endTime": 92556,
+          "word": "We'll "
+        },
+        {
+          "startTime": 92556,
+          "endTime": 92963,
+          "word": "take "
+        },
+        {
+          "startTime": 92963,
+          "endTime": 93370,
+          "word": "this "
+        },
+        {
+          "startTime": 93370,
+          "endTime": 93719,
+          "word": "in "
+        },
+        {
+          "startTime": 93719,
+          "endTime": 94446,
+          "word": "until "
+        },
+        {
+          "startTime": 94446,
+          "endTime": 94824,
+          "word": "the "
+        },
+        {
+          "startTime": 94824,
+          "endTime": 95202,
+          "word": "sun "
+        },
+        {
+          "startTime": 95202,
+          "endTime": 95929,
+          "word": "comes "
+        },
+        {
+          "startTime": 95929,
+          "endTime": 96280,
+          "word": "up"
+        }
+      ]
+    },
+    {
+      "time": 96280,
+      "endTime": 99520,
+      "text": "And I think that what we have",
+      "words": [
+        {
+          "startTime": 96280,
+          "endTime": 96732,
+          "word": "And "
+        },
+        {
+          "startTime": 96732,
+          "endTime": 97115,
+          "word": "I "
+        },
+        {
+          "startTime": 97115,
+          "endTime": 97637,
+          "word": "think "
+        },
+        {
+          "startTime": 97637,
+          "endTime": 98124,
+          "word": "that "
+        },
+        {
+          "startTime": 98124,
+          "endTime": 98611,
+          "word": "what "
+        },
+        {
+          "startTime": 98611,
+          "endTime": 99029,
+          "word": "we "
+        },
+        {
+          "startTime": 99029,
+          "endTime": 99520,
+          "word": "have"
+        }
+      ]
+    },
+    {
+      "time": 99520,
+      "endTime": 105040,
+      "text": "Is like every dream I had came true",
+      "words": [
+        {
+          "startTime": 99520,
+          "endTime": 100037,
+          "word": "Is "
+        },
+        {
+          "startTime": 100037,
+          "endTime": 100640,
+          "word": "like "
+        },
+        {
+          "startTime": 100640,
+          "endTime": 102149,
+          "word": "every "
+        },
+        {
+          "startTime": 102149,
+          "endTime": 102795,
+          "word": "dream "
+        },
+        {
+          "startTime": 102795,
+          "endTime": 103269,
+          "word": "I "
+        },
+        {
+          "startTime": 103269,
+          "endTime": 103829,
+          "word": "had "
+        },
+        {
+          "startTime": 103829,
+          "endTime": 104432,
+          "word": "came "
+        },
+        {
+          "startTime": 104432,
+          "endTime": 105040,
+          "word": "true"
+        }
+      ]
+    },
+    {
+      "time": 105040,
+      "endTime": 107640,
+      "text": "Lying here with you",
+      "words": [
+        {
+          "startTime": 105040,
+          "endTime": 105736,
+          "word": "Lying "
+        },
+        {
+          "startTime": 105736,
+          "endTime": 106386,
+          "word": "here "
+        },
+        {
+          "startTime": 106386,
+          "endTime": 107036,
+          "word": "with "
+        },
+        {
+          "startTime": 107036,
+          "endTime": 107640,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 107640,
+      "endTime": 113280,
+      "text": "A photo could not show",
+      "words": [
+        {
+          "startTime": 107640,
+          "endTime": 108435,
+          "word": "A "
+        },
+        {
+          "startTime": 108435,
+          "endTime": 110242,
+          "word": "photo "
+        },
+        {
+          "startTime": 110242,
+          "endTime": 111326,
+          "word": "could "
+        },
+        {
+          "startTime": 111326,
+          "endTime": 112266,
+          "word": "not "
+        },
+        {
+          "startTime": 112266,
+          "endTime": 113280,
+          "word": "show"
+        }
+      ]
+    },
+    {
+      "time": 113280,
+      "endTime": 116720,
+      "text": "The way my heart is beating, babe",
+      "words": [
+        {
+          "startTime": 113280,
+          "endTime": 113679,
+          "word": "The "
+        },
+        {
+          "startTime": 113679,
+          "endTime": 114078,
+          "word": "way "
+        },
+        {
+          "startTime": 114078,
+          "endTime": 114446,
+          "word": "my "
+        },
+        {
+          "startTime": 114446,
+          "endTime": 114906,
+          "word": "heart "
+        },
+        {
+          "startTime": 114906,
+          "endTime": 115274,
+          "word": "is "
+        },
+        {
+          "startTime": 115274,
+          "endTime": 116287,
+          "word": "beating, "
+        },
+        {
+          "startTime": 116287,
+          "endTime": 116720,
+          "word": "babe"
+        }
+      ]
+    },
+    {
+      "time": 116720,
+      "endTime": 122200,
+      "text": "Some visions don't ever fade",
+      "words": [
+        {
+          "startTime": 116720,
+          "endTime": 117536,
+          "word": "Some "
+        },
+        {
+          "startTime": 117536,
+          "endTime": 119110,
+          "word": "visions "
+        },
+        {
+          "startTime": 119110,
+          "endTime": 119984,
+          "word": "don't "
+        },
+        {
+          "startTime": 119984,
+          "endTime": 121383,
+          "word": "ever "
+        },
+        {
+          "startTime": 121383,
+          "endTime": 122200,
+          "word": "fade"
+        }
+      ]
+    },
+    {
+      "time": 122200,
+      "endTime": 126480,
+      "text": "I don't need a camera to capture this moment",
+      "words": [
+        {
+          "startTime": 122200,
+          "endTime": 122483,
+          "word": "I "
+        },
+        {
+          "startTime": 122483,
+          "endTime": 122869,
+          "word": "don't "
+        },
+        {
+          "startTime": 122869,
+          "endTime": 123229,
+          "word": "need "
+        },
+        {
+          "startTime": 123229,
+          "endTime": 123512,
+          "word": "a "
+        },
+        {
+          "startTime": 123512,
+          "endTime": 124440,
+          "word": "camera "
+        },
+        {
+          "startTime": 124440,
+          "endTime": 124749,
+          "word": "to "
+        },
+        {
+          "startTime": 124749,
+          "endTime": 125445,
+          "word": "capture "
+        },
+        {
+          "startTime": 125445,
+          "endTime": 125805,
+          "word": "this "
+        },
+        {
+          "startTime": 125805,
+          "endTime": 126480,
+          "word": "moment"
+        }
+      ]
+    },
+    {
+      "time": 126480,
+      "endTime": 135320,
+      "text": "I'll remember how you look tonight for all my life",
+      "words": [
+        {
+          "startTime": 126480,
+          "endTime": 127203,
+          "word": "I'll "
+        },
+        {
+          "startTime": 127203,
+          "endTime": 129167,
+          "word": "remember "
+        },
+        {
+          "startTime": 129167,
+          "endTime": 129839,
+          "word": "how "
+        },
+        {
+          "startTime": 129839,
+          "endTime": 130511,
+          "word": "you "
+        },
+        {
+          "startTime": 130511,
+          "endTime": 131234,
+          "word": "look "
+        },
+        {
+          "startTime": 131234,
+          "endTime": 132629,
+          "word": "tonight "
+        },
+        {
+          "startTime": 132629,
+          "endTime": 133301,
+          "word": "for "
+        },
+        {
+          "startTime": 133301,
+          "endTime": 133973,
+          "word": "all "
+        },
+        {
+          "startTime": 133973,
+          "endTime": 134593,
+          "word": "my "
+        },
+        {
+          "startTime": 134593,
+          "endTime": 135320,
+          "word": "life"
+        }
+      ]
+    },
+    {
+      "time": 135320,
+      "endTime": 139720,
+      "text": "When everything is black and white, your colour's exploding",
+      "words": [
+        {
+          "startTime": 135320,
+          "endTime": 135619,
+          "word": "When "
+        },
+        {
+          "startTime": 135619,
+          "endTime": 136686,
+          "word": "everything "
+        },
+        {
+          "startTime": 136686,
+          "endTime": 136942,
+          "word": "is "
+        },
+        {
+          "startTime": 136942,
+          "endTime": 137262,
+          "word": "black "
+        },
+        {
+          "startTime": 137262,
+          "endTime": 137539,
+          "word": "and "
+        },
+        {
+          "startTime": 137539,
+          "endTime": 137987,
+          "word": "white, "
+        },
+        {
+          "startTime": 137987,
+          "endTime": 138286,
+          "word": "your "
+        },
+        {
+          "startTime": 138286,
+          "endTime": 138884,
+          "word": "colour's "
+        },
+        {
+          "startTime": 138884,
+          "endTime": 139720,
+          "word": "exploding"
+        }
+      ]
+    },
+    {
+      "time": 139720,
+      "endTime": 145880,
+      "text": "There's somethin' in the way you shine",
+      "words": [
+        {
+          "startTime": 139720,
+          "endTime": 140980,
+          "word": "There's "
+        },
+        {
+          "startTime": 140980,
+          "endTime": 142799,
+          "word": "somethin' "
+        },
+        {
+          "startTime": 142799,
+          "endTime": 143358,
+          "word": "in "
+        },
+        {
+          "startTime": 143358,
+          "endTime": 143964,
+          "word": "the "
+        },
+        {
+          "startTime": 143964,
+          "endTime": 144570,
+          "word": "way "
+        },
+        {
+          "startTime": 144570,
+          "endTime": 145176,
+          "word": "you "
+        },
+        {
+          "startTime": 145176,
+          "endTime": 145880,
+          "word": "shine"
+        }
+      ]
+    },
+    {
+      "time": 145880,
+      "endTime": 151720,
+      "text": "I don't need a camera when you're in my eyes",
+      "words": [
+        {
+          "startTime": 145880,
+          "endTime": 146294,
+          "word": "I "
+        },
+        {
+          "startTime": 146294,
+          "endTime": 146859,
+          "word": "don't "
+        },
+        {
+          "startTime": 146859,
+          "endTime": 147386,
+          "word": "need "
+        },
+        {
+          "startTime": 147386,
+          "endTime": 147800,
+          "word": "a "
+        },
+        {
+          "startTime": 147800,
+          "endTime": 149156,
+          "word": "camera "
+        },
+        {
+          "startTime": 149156,
+          "endTime": 149683,
+          "word": "when "
+        },
+        {
+          "startTime": 149683,
+          "endTime": 150285,
+          "word": "you're "
+        },
+        {
+          "startTime": 150285,
+          "endTime": 150737,
+          "word": "in "
+        },
+        {
+          "startTime": 150737,
+          "endTime": 151189,
+          "word": "my "
+        },
+        {
+          "startTime": 151189,
+          "endTime": 151720,
+          "word": "eyes"
+        }
+      ]
+    },
+    {
+      "time": 151720,
+      "endTime": 154840,
+      "text": "And then the flash is gone",
+      "words": [
+        {
+          "startTime": 151720,
+          "endTime": 152220,
+          "word": "And "
+        },
+        {
+          "startTime": 152220,
+          "endTime": 152759,
+          "word": "then "
+        },
+        {
+          "startTime": 152759,
+          "endTime": 153259,
+          "word": "the "
+        },
+        {
+          "startTime": 153259,
+          "endTime": 153836,
+          "word": "flash "
+        },
+        {
+          "startTime": 153836,
+          "endTime": 154298,
+          "word": "is "
+        },
+        {
+          "startTime": 154298,
+          "endTime": 154840,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 154840,
+      "endTime": 157440,
+      "text": "But I'll keep holdin' on",
+      "words": [
+        {
+          "startTime": 154840,
+          "endTime": 155262,
+          "word": "But "
+        },
+        {
+          "startTime": 155262,
+          "endTime": 155716,
+          "word": "I'll "
+        },
+        {
+          "startTime": 155716,
+          "endTime": 156170,
+          "word": "keep "
+        },
+        {
+          "startTime": 156170,
+          "endTime": 157047,
+          "word": "holdin' "
+        },
+        {
+          "startTime": 157047,
+          "endTime": 157440,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 157440,
+      "endTime": 160360,
+      "text": "To every little detail in the fabric of the night",
+      "words": [
+        {
+          "startTime": 157440,
+          "endTime": 157624,
+          "word": "To "
+        },
+        {
+          "startTime": 157624,
+          "endTime": 158161,
+          "word": "every "
+        },
+        {
+          "startTime": 158161,
+          "endTime": 158560,
+          "word": "little "
+        },
+        {
+          "startTime": 158560,
+          "endTime": 158959,
+          "word": "detail "
+        },
+        {
+          "startTime": 158959,
+          "endTime": 159143,
+          "word": "in "
+        },
+        {
+          "startTime": 159143,
+          "endTime": 159342,
+          "word": "the "
+        },
+        {
+          "startTime": 159342,
+          "endTime": 159741,
+          "word": "fabric "
+        },
+        {
+          "startTime": 159741,
+          "endTime": 159925,
+          "word": "of "
+        },
+        {
+          "startTime": 159925,
+          "endTime": 160124,
+          "word": "the "
+        },
+        {
+          "startTime": 160124,
+          "endTime": 160360,
+          "word": "night"
+        }
+      ]
+    },
+    {
+      "time": 160360,
+      "endTime": 163640,
+      "text": "Never letting go of that inside",
+      "words": [
+        {
+          "startTime": 160360,
+          "endTime": 161066,
+          "word": "Never "
+        },
+        {
+          "startTime": 161066,
+          "endTime": 161829,
+          "word": "letting "
+        },
+        {
+          "startTime": 161829,
+          "endTime": 162168,
+          "word": "go "
+        },
+        {
+          "startTime": 162168,
+          "endTime": 162507,
+          "word": "of "
+        },
+        {
+          "startTime": 162507,
+          "endTime": 162902,
+          "word": "that "
+        },
+        {
+          "startTime": 162902,
+          "endTime": 163640,
+          "word": "inside"
+        }
+      ]
+    },
+    {
+      "time": 163640,
+      "endTime": 176800,
+      "text": "(Ooh)",
+      "words": [
+        {
+          "startTime": 163640,
+          "endTime": 176800,
+          "word": "(Ooh)"
+        }
+      ]
+    },
+    {
+      "time": 176800,
+      "endTime": 181000,
+      "text": "I don't need a camera to capture this moment",
+      "words": [
+        {
+          "startTime": 176800,
+          "endTime": 177078,
+          "word": "I "
+        },
+        {
+          "startTime": 177078,
+          "endTime": 177457,
+          "word": "don't "
+        },
+        {
+          "startTime": 177457,
+          "endTime": 177811,
+          "word": "need "
+        },
+        {
+          "startTime": 177811,
+          "endTime": 178089,
+          "word": "a "
+        },
+        {
+          "startTime": 178089,
+          "endTime": 178999,
+          "word": "camera "
+        },
+        {
+          "startTime": 178999,
+          "endTime": 179302,
+          "word": "to "
+        },
+        {
+          "startTime": 179302,
+          "endTime": 179985,
+          "word": "capture "
+        },
+        {
+          "startTime": 179985,
+          "endTime": 180339,
+          "word": "this "
+        },
+        {
+          "startTime": 180339,
+          "endTime": 181000,
+          "word": "moment"
+        }
+      ]
+    },
+    {
+      "time": 181000,
+      "endTime": 190000,
+      "text": "I'll remember how you look tonight for all my life",
+      "words": [
+        {
+          "startTime": 181000,
+          "endTime": 181736,
+          "word": "I'll "
+        },
+        {
+          "startTime": 181736,
+          "endTime": 183736,
+          "word": "remember "
+        },
+        {
+          "startTime": 183736,
+          "endTime": 184420,
+          "word": "how "
+        },
+        {
+          "startTime": 184420,
+          "endTime": 185104,
+          "word": "you "
+        },
+        {
+          "startTime": 185104,
+          "endTime": 185840,
+          "word": "look "
+        },
+        {
+          "startTime": 185840,
+          "endTime": 187261,
+          "word": "tonight "
+        },
+        {
+          "startTime": 187261,
+          "endTime": 187945,
+          "word": "for "
+        },
+        {
+          "startTime": 187945,
+          "endTime": 188629,
+          "word": "all "
+        },
+        {
+          "startTime": 188629,
+          "endTime": 189260,
+          "word": "my "
+        },
+        {
+          "startTime": 189260,
+          "endTime": 190000,
+          "word": "life"
+        }
+      ]
+    },
+    {
+      "time": 190000,
+      "endTime": 195360,
+      "text": "When everything is black and white, your colour's exploding",
+      "words": [
+        {
+          "startTime": 190000,
+          "endTime": 190364,
+          "word": "When "
+        },
+        {
+          "startTime": 190364,
+          "endTime": 191664,
+          "word": "everything "
+        },
+        {
+          "startTime": 191664,
+          "endTime": 191976,
+          "word": "is "
+        },
+        {
+          "startTime": 191976,
+          "endTime": 192366,
+          "word": "black "
+        },
+        {
+          "startTime": 192366,
+          "endTime": 192704,
+          "word": "and "
+        },
+        {
+          "startTime": 192704,
+          "endTime": 193250,
+          "word": "white, "
+        },
+        {
+          "startTime": 193250,
+          "endTime": 193614,
+          "word": "your "
+        },
+        {
+          "startTime": 193614,
+          "endTime": 194342,
+          "word": "colour's "
+        },
+        {
+          "startTime": 194342,
+          "endTime": 195360,
+          "word": "exploding"
+        }
+      ]
+    },
+    {
+      "time": 195360,
+      "endTime": 201200,
+      "text": "There's somethin' in the way you shine",
+      "words": [
+        {
+          "startTime": 195360,
+          "endTime": 196554,
+          "word": "There's "
+        },
+        {
+          "startTime": 196554,
+          "endTime": 198279,
+          "word": "somethin' "
+        },
+        {
+          "startTime": 198279,
+          "endTime": 198809,
+          "word": "in "
+        },
+        {
+          "startTime": 198809,
+          "endTime": 199384,
+          "word": "the "
+        },
+        {
+          "startTime": 199384,
+          "endTime": 199959,
+          "word": "way "
+        },
+        {
+          "startTime": 199959,
+          "endTime": 200534,
+          "word": "you "
+        },
+        {
+          "startTime": 200534,
+          "endTime": 201200,
+          "word": "shine"
+        }
+      ]
+    },
+    {
+      "time": 201200,
+      "endTime": 204120,
+      "text": "I don't need a camera",
+      "words": [
+        {
+          "startTime": 201200,
+          "endTime": 201569,
+          "word": "I "
+        },
+        {
+          "startTime": 201569,
+          "endTime": 202072,
+          "word": "don't "
+        },
+        {
+          "startTime": 202072,
+          "endTime": 202541,
+          "word": "need "
+        },
+        {
+          "startTime": 202541,
+          "endTime": 202910,
+          "word": "a "
+        },
+        {
+          "startTime": 202910,
+          "endTime": 204120,
+          "word": "camera"
+        }
+      ]
+    },
+    {
+      "time": 204120,
+      "endTime": 209120,
+      "text": "When you're in my eyes",
+      "words": [
+        {
+          "startTime": 204120,
+          "endTime": 205149,
+          "word": "When "
+        },
+        {
+          "startTime": 205149,
+          "endTime": 206325,
+          "word": "you're "
+        },
+        {
+          "startTime": 206325,
+          "endTime": 207207,
+          "word": "in "
+        },
+        {
+          "startTime": 207207,
+          "endTime": 208089,
+          "word": "my "
+        },
+        {
+          "startTime": 208089,
+          "endTime": 209120,
+          "word": "eyes"
+        }
+      ]
+    }
+  ]
+}
