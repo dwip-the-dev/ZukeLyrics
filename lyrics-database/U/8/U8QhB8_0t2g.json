@@ -1,0 +1,1784 @@
+{
+  "videoId": "U8QhB8_0t2g",
+  "title": "Mystical Magical",
+  "artist": "Benson Boone",
+  "duration": 166,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:07.460\" end=\"00:12.575\" ttm:agent=\"v1\">\n        <span begin=\"00:07.461\" end=\"00:07.826\">There&apos;s<\/span>\n        <span begin=\"00:07.826\" end=\"00:08.242\">nothing<\/span>\n        <span begin=\"00:08.242\" end=\"00:08.792\">colder<\/span>\n        <span begin=\"00:08.792\" end=\"00:09.010\">than<\/span>\n        <span begin=\"00:09.010\" end=\"00:09.274\">your<\/span>\n        <span begin=\"00:09.274\" end=\"00:09.810\">shoulder<\/span>\n        <span begin=\"00:09.810\" end=\"00:10.042\">when<\/span>\n        <span begin=\"00:10.042\" end=\"00:10.293\">you&apos;re<\/span>\n        <span begin=\"00:10.293\" end=\"00:10.810\">dragging<\/span>\n        <span begin=\"00:10.810\" end=\"00:11.160\">me<\/span>\n        <span begin=\"00:11.160\" end=\"00:11.528\">along<\/span>\n        <span begin=\"00:11.528\" end=\"00:11.776\">like<\/span>\n        <span begin=\"00:11.776\" end=\"00:12.058\">you<\/span>\n        <span begin=\"00:12.058\" end=\"00:12.575\">do<\/span>\n      <\/p>\n      <p begin=\"00:13.520\" end=\"00:14.442\" ttm:agent=\"v1\">\n        <span begin=\"00:13.526\" end=\"00:13.787\">Like<\/span>\n        <span begin=\"00:13.787\" end=\"00:14.088\">you<\/span>\n        <span begin=\"00:14.088\" end=\"00:14.442\">do<\/span>\n      <\/p>\n      <p begin=\"00:15.470\" end=\"00:21.122\" ttm:agent=\"v1\">\n        <span begin=\"00:15.475\" end=\"00:15.747\">And<\/span>\n        <span begin=\"00:15.747\" end=\"00:16.029\">then<\/span>\n        <span begin=\"00:16.029\" end=\"00:16.296\">you<\/span>\n        <span begin=\"00:16.296\" end=\"00:16.512\">switch<\/span>\n        <span begin=\"00:16.512\" end=\"00:16.795\">up<\/span>\n        <span begin=\"00:16.795\" end=\"00:17.045\">with<\/span>\n        <span begin=\"00:17.045\" end=\"00:17.277\">no<\/span>\n        <span begin=\"00:17.277\" end=\"00:17.811\">warning,<\/span>\n        <span begin=\"00:17.811\" end=\"00:18.029\">and<\/span>\n        <span begin=\"00:18.029\" end=\"00:18.296\">you<\/span>\n        <span begin=\"00:18.296\" end=\"00:18.560\">kiss<\/span>\n        <span begin=\"00:18.560\" end=\"00:18.813\">me<\/span>\n        <span begin=\"00:18.813\" end=\"00:19.077\">like<\/span>\n        <span begin=\"00:19.077\" end=\"00:19.328\">you<\/span>\n        <span begin=\"00:19.328\" end=\"00:19.579\">want<\/span>\n        <span begin=\"00:19.579\" end=\"00:19.861\">it,<\/span>\n        <span begin=\"00:19.861\" end=\"00:20.613\">how<\/span>\n        <span begin=\"00:20.613\" end=\"00:21.122\">rude<\/span>\n      <\/p>\n      <p begin=\"00:21.500\" end=\"00:22.541\" ttm:agent=\"v1\">\n        <span begin=\"00:21.506\" end=\"00:22.088\">How<\/span>\n        <span begin=\"00:22.088\" end=\"00:22.541\">rude<\/span>\n      <\/p>\n      <p begin=\"00:22.920\" end=\"00:25.612\" ttm:agent=\"v1\">\n        <span begin=\"00:22.929\" end=\"00:23.204\">But<\/span>\n        <span begin=\"00:23.204\" end=\"00:23.383\">I<\/span>\n        <span begin=\"00:23.383\" end=\"00:23.834\">kinda<\/span>\n        <span begin=\"00:23.834\" end=\"00:24.068\">like<\/span>\n        <span begin=\"00:24.068\" end=\"00:24.300\">it<\/span>\n        <span begin=\"00:24.300\" end=\"00:25.612\">anyways<\/span>\n      <\/p>\n      <p begin=\"00:25.760\" end=\"00:29.567\" ttm:agent=\"v1\">\n        <span begin=\"00:25.766\" end=\"00:26.032\">I<\/span>\n        <span begin=\"00:26.032\" end=\"00:26.331\">don&apos;t<\/span>\n        <span begin=\"00:26.331\" end=\"00:26.566\">mind<\/span>\n        <span begin=\"00:26.566\" end=\"00:26.814\">if<\/span>\n        <span begin=\"00:26.814\" end=\"00:27.048\">this<\/span>\n        <span begin=\"00:27.048\" end=\"00:27.315\">is<\/span>\n        <span begin=\"00:27.315\" end=\"00:27.816\">gonna<\/span>\n        <span begin=\"00:27.816\" end=\"00:28.083\">take<\/span>\n        <span begin=\"00:28.083\" end=\"00:28.280\">a<\/span>\n        <span begin=\"00:28.280\" end=\"00:28.782\">million<\/span>\n        <span begin=\"00:28.782\" end=\"00:29.567\">days<\/span>\n      <\/p>\n      <p begin=\"00:29.790\" end=\"00:33.524\" ttm:agent=\"v1\">\n        <span begin=\"00:29.796\" end=\"00:30.031\">I<\/span>\n        <span begin=\"00:30.031\" end=\"00:30.282\">know<\/span>\n        <span begin=\"00:30.282\" end=\"00:30.567\">you&apos;ll<\/span>\n        <span begin=\"00:30.567\" end=\"00:30.912\">come<\/span>\n        <span begin=\"00:30.912\" end=\"00:31.682\">around<\/span>\n        <span begin=\"00:31.682\" end=\"00:31.866\">to<\/span>\n        <span begin=\"00:31.866\" end=\"00:32.082\">me<\/span>\n        <span begin=\"00:32.082\" end=\"00:33.524\">eventually<\/span>\n      <\/p>\n      <p begin=\"00:33.750\" end=\"00:37.503\" ttm:agent=\"v1\">\n        <span begin=\"00:33.759\" end=\"00:34.030\">If<\/span>\n        <span begin=\"00:34.030\" end=\"00:34.262\">you<\/span>\n        <span begin=\"00:34.262\" end=\"00:34.532\">sit<\/span>\n        <span begin=\"00:34.532\" end=\"00:34.764\">back,<\/span>\n        <span begin=\"00:34.764\" end=\"00:35.481\">relax,<\/span>\n        <span begin=\"00:35.481\" end=\"00:35.796\">and<\/span>\n        <span begin=\"00:35.796\" end=\"00:36.046\">join<\/span>\n        <span begin=\"00:36.046\" end=\"00:36.313\">my<\/span>\n        <span begin=\"00:36.313\" end=\"00:37.503\">company<\/span>\n      <\/p>\n      <p begin=\"00:37.530\" end=\"00:39.271\" ttm:agent=\"v1\">\n        <span begin=\"00:37.537\" end=\"00:37.868\">My<\/span>\n        <span begin=\"00:37.868\" end=\"00:39.271\">company<\/span>\n      <\/p>\n      <p begin=\"00:40.250\" end=\"00:44.264\" ttm:agent=\"v1\">\n        <span begin=\"00:40.253\" end=\"00:40.707\">Once<\/span>\n        <span begin=\"00:40.707\" end=\"00:41.240\">you<\/span>\n        <span begin=\"00:41.240\" end=\"00:41.808\">know<\/span>\n        <span begin=\"00:41.808\" end=\"00:42.291\">what<\/span>\n        <span begin=\"00:42.291\" end=\"00:42.573\">my<\/span>\n        <span begin=\"00:42.573\" end=\"00:42.808\">love&apos;s<\/span>\n        <span begin=\"00:42.808\" end=\"00:43.291\">gonna<\/span>\n        <span begin=\"00:43.291\" end=\"00:43.840\">feel<\/span>\n        <span begin=\"00:43.840\" end=\"00:44.264\">like<\/span>\n      <\/p>\n      <p begin=\"00:44.260\" end=\"00:46.405\" ttm:agent=\"v1\">\n        <span begin=\"00:44.264\" end=\"00:44.800\">Nothing<\/span>\n        <span begin=\"00:44.800\" end=\"00:45.101\">else<\/span>\n        <span begin=\"00:45.101\" end=\"00:45.333\">will<\/span>\n        <span begin=\"00:45.333\" end=\"00:45.898\">feel<\/span>\n        <span begin=\"00:45.898\" end=\"00:46.405\">right<\/span>\n      <\/p>\n      <p begin=\"00:46.540\" end=\"00:52.296\" ttm:agent=\"v1\">\n        <span begin=\"00:46.543\" end=\"00:46.826\">You<\/span>\n        <span begin=\"00:46.826\" end=\"00:47.127\">can<\/span>\n        <span begin=\"00:47.127\" end=\"00:47.610\">feel<\/span>\n        <span begin=\"00:47.610\" end=\"00:48.295\">like<\/span>\n        <span begin=\"00:48.295\" end=\"00:49.327\">moonbeam<\/span>\n        <span begin=\"00:49.327\" end=\"00:49.762\">ice<\/span>\n        <span begin=\"00:49.762\" end=\"00:50.277\">cream,<\/span>\n        <span begin=\"00:50.277\" end=\"00:50.829\">taking<\/span>\n        <span begin=\"00:50.829\" end=\"00:51.077\">off<\/span>\n        <span begin=\"00:51.077\" end=\"00:51.311\">your<\/span>\n        <span begin=\"00:51.311\" end=\"00:51.778\">blue<\/span>\n        <span begin=\"00:51.778\" end=\"00:52.296\">jeans<\/span>\n      <\/p>\n      <p begin=\"00:52.290\" end=\"00:54.381\" ttm:agent=\"v1\">\n        <span begin=\"00:52.296\" end=\"00:52.824\">Dancing<\/span>\n        <span begin=\"00:52.824\" end=\"00:53.091\">at<\/span>\n        <span begin=\"00:53.091\" end=\"00:53.357\">the<\/span>\n        <span begin=\"00:53.357\" end=\"00:54.381\">movies<\/span>\n      <\/p>\n      <p begin=\"00:54.470\" end=\"00:59.789\" ttm:agent=\"v1\">\n        <span begin=\"00:54.479\" end=\"00:54.820\">&apos;Cause<\/span>\n        <span begin=\"00:54.820\" end=\"00:55.087\">it<\/span>\n        <span begin=\"00:55.087\" end=\"00:55.503\">feels<\/span>\n        <span begin=\"00:55.503\" end=\"00:56.353\">so<\/span>\n        <span begin=\"00:56.353\" end=\"00:57.353\">mystical,<\/span>\n        <span begin=\"00:57.553\" end=\"00:58.553\">magical,<\/span>\n        <span begin=\"00:58.553\" end=\"00:59.020\">oh<\/span>\n        <span begin=\"00:59.020\" end=\"00:59.789\">baby<\/span>\n      <\/p>\n      <p begin=\"00:59.780\" end=\"01:04.282\" ttm:agent=\"v1\">\n        <span begin=\"00:59.789\" end=\"01:00.299\">&apos;Cause<\/span>\n        <span begin=\"01:00.299\" end=\"01:00.549\">once<\/span>\n        <span begin=\"01:00.549\" end=\"01:00.867\">you<\/span>\n        <span begin=\"01:00.867\" end=\"01:01.437\">know,<\/span>\n        <span begin=\"01:01.549\" end=\"01:01.832\">once<\/span>\n        <span begin=\"01:01.832\" end=\"01:02.101\">you<\/span>\n        <span begin=\"01:02.101\" end=\"01:02.565\">know<\/span>\n        <span begin=\"01:02.565\" end=\"01:03.016\">my<\/span>\n        <span begin=\"01:03.016\" end=\"01:03.549\">love<\/span>\n        <span begin=\"01:03.549\" end=\"01:03.816\">is<\/span>\n        <span begin=\"01:03.816\" end=\"01:04.282\">so<\/span>\n      <\/p>\n      <p begin=\"01:04.280\" end=\"01:07.735\" ttm:agent=\"v1\">\n        <span begin=\"01:04.282\" end=\"01:05.379\">Mystical,<\/span>\n        <span begin=\"01:05.532\" end=\"01:06.532\">magical,<\/span>\n        <span begin=\"01:06.532\" end=\"01:06.983\">oh<\/span>\n        <span begin=\"01:06.983\" end=\"01:07.735\">baby<\/span>\n      <\/p>\n      <p begin=\"01:07.730\" end=\"01:11.952\" ttm:agent=\"v1\">\n        <span begin=\"01:07.735\" end=\"01:08.250\">&apos;Cause<\/span>\n        <span begin=\"01:08.250\" end=\"01:08.500\">once<\/span>\n        <span begin=\"01:08.500\" end=\"01:08.801\">you<\/span>\n        <span begin=\"01:08.801\" end=\"01:09.351\">know,<\/span>\n        <span begin=\"01:09.551\" end=\"01:09.783\">once<\/span>\n        <span begin=\"01:09.783\" end=\"01:10.100\">you<\/span>\n        <span begin=\"01:10.100\" end=\"01:11.952\">know<\/span>\n      <\/p>\n      <p begin=\"01:12.510\" end=\"01:16.464\" ttm:agent=\"v1\">\n        <span begin=\"01:12.517\" end=\"01:12.757\">My<\/span>\n        <span begin=\"01:12.757\" end=\"01:13.123\">little<\/span>\n        <span begin=\"01:13.123\" end=\"01:13.824\">hard-to-get<\/span>\n        <span begin=\"01:13.824\" end=\"01:14.437\">baby,<\/span>\n        <span begin=\"01:14.523\" end=\"01:14.741\">I<\/span>\n        <span begin=\"01:14.741\" end=\"01:15.083\">want<\/span>\n        <span begin=\"01:15.083\" end=\"01:15.256\">to<\/span>\n        <span begin=\"01:15.256\" end=\"01:15.459\">give<\/span>\n        <span begin=\"01:15.459\" end=\"01:15.643\">you<\/span>\n        <span begin=\"01:15.643\" end=\"01:15.864\">the<\/span>\n        <span begin=\"01:15.864\" end=\"01:16.464\">world<\/span>\n      <\/p>\n      <p begin=\"01:16.490\" end=\"01:20.271\" ttm:agent=\"v1\">\n        <span begin=\"01:16.497\" end=\"01:16.795\">Not<\/span>\n        <span begin=\"01:16.795\" end=\"01:17.256\">saying<\/span>\n        <span begin=\"01:17.256\" end=\"01:17.494\">you<\/span>\n        <span begin=\"01:17.494\" end=\"01:17.815\">gotta<\/span>\n        <span begin=\"01:17.815\" end=\"01:18.142\">chase<\/span>\n        <span begin=\"01:18.142\" end=\"01:18.359\">me,<\/span>\n        <span begin=\"01:18.535\" end=\"01:18.636\">but<\/span>\n        <span begin=\"01:18.636\" end=\"01:18.886\">I<\/span>\n        <span begin=\"01:18.886\" end=\"01:19.386\">wouldn&apos;t<\/span>\n        <span begin=\"01:19.386\" end=\"01:19.654\">mind<\/span>\n        <span begin=\"01:19.654\" end=\"01:19.754\">it<\/span>\n        <span begin=\"01:19.754\" end=\"01:19.951\">if<\/span>\n        <span begin=\"01:19.951\" end=\"01:20.271\">you<\/span>\n      <\/p>\n      <p begin=\"01:20.270\" end=\"01:26.820\" ttm:agent=\"v1\">\n        <span begin=\"01:20.271\" end=\"01:20.533\">Gave<\/span>\n        <span begin=\"01:20.533\" end=\"01:20.783\">me<\/span>\n        <span begin=\"01:20.783\" end=\"01:21.015\">just<\/span>\n        <span begin=\"01:21.015\" end=\"01:21.317\">a<\/span>\n        <span begin=\"01:21.317\" end=\"01:21.797\">little<\/span>\n        <span begin=\"01:21.797\" end=\"01:22.031\">bit<\/span>\n        <span begin=\"01:22.031\" end=\"01:22.282\">of<\/span>\n        <span begin=\"01:22.282\" end=\"01:22.799\">something<\/span>\n        <span begin=\"01:22.799\" end=\"01:23.031\">we<\/span>\n        <span begin=\"01:23.031\" end=\"01:23.298\">can<\/span>\n        <span begin=\"01:23.298\" end=\"01:23.549\">work<\/span>\n        <span begin=\"01:23.549\" end=\"01:23.850\">it<\/span>\n        <span begin=\"01:23.850\" end=\"01:24.098\">with,<\/span>\n        <span begin=\"01:24.098\" end=\"01:24.383\">but<\/span>\n        <span begin=\"01:24.383\" end=\"01:24.599\">all<\/span>\n        <span begin=\"01:24.599\" end=\"01:24.831\">you<\/span>\n        <span begin=\"01:24.831\" end=\"01:25.066\">do<\/span>\n        <span begin=\"01:25.066\" end=\"01:25.333\">is<\/span>\n        <span begin=\"01:25.333\" end=\"01:25.676\">push<\/span>\n        <span begin=\"01:25.676\" end=\"01:25.856\">me<\/span>\n        <span begin=\"01:25.856\" end=\"01:26.820\">out<\/span>\n      <\/p>\n      <p begin=\"01:27.400\" end=\"01:29.718\" ttm:agent=\"v1\">\n        <span begin=\"01:27.406\" end=\"01:27.662\">But<\/span>\n        <span begin=\"01:27.662\" end=\"01:27.929\">I<\/span>\n        <span begin=\"01:27.929\" end=\"01:28.212\">like<\/span>\n        <span begin=\"01:28.212\" end=\"01:28.455\">it<\/span>\n        <span begin=\"01:28.455\" end=\"01:29.718\">anyways<\/span>\n      <\/p>\n      <p begin=\"01:29.920\" end=\"01:33.656\" ttm:agent=\"v1\">\n        <span begin=\"01:29.925\" end=\"01:30.169\">&apos;Cause<\/span>\n        <span begin=\"01:30.169\" end=\"01:30.369\">I<\/span>\n        <span begin=\"01:30.369\" end=\"01:30.569\">think<\/span>\n        <span begin=\"01:30.569\" end=\"01:30.836\">I&apos;m<\/span>\n        <span begin=\"01:30.836\" end=\"01:31.271\">getting<\/span>\n        <span begin=\"01:31.271\" end=\"01:31.769\">closer<\/span>\n        <span begin=\"01:31.769\" end=\"01:32.071\">to<\/span>\n        <span begin=\"01:32.071\" end=\"01:32.337\">you<\/span>\n        <span begin=\"01:32.337\" end=\"01:32.836\">every<\/span>\n        <span begin=\"01:32.836\" end=\"01:33.656\">day<\/span>\n      <\/p>\n      <p begin=\"01:33.800\" end=\"01:37.872\" ttm:agent=\"v1\">\n        <span begin=\"01:33.801\" end=\"01:34.082\">I<\/span>\n        <span begin=\"01:34.082\" end=\"01:34.316\">know<\/span>\n        <span begin=\"01:34.316\" end=\"01:34.583\">you&apos;ll<\/span>\n        <span begin=\"01:34.583\" end=\"01:34.866\">come<\/span>\n        <span begin=\"01:34.866\" end=\"01:35.548\">around<\/span>\n        <span begin=\"01:35.548\" end=\"01:35.831\">to<\/span>\n        <span begin=\"01:35.831\" end=\"01:36.098\">me<\/span>\n        <span begin=\"01:36.098\" end=\"01:37.872\">eventually<\/span>\n      <\/p>\n      <p begin=\"01:38.030\" end=\"01:41.718\" ttm:agent=\"v1\">\n        <span begin=\"01:38.038\" end=\"01:38.269\">Just<\/span>\n        <span begin=\"01:38.269\" end=\"01:38.501\">sit<\/span>\n        <span begin=\"01:38.501\" end=\"01:38.787\">back,<\/span>\n        <span begin=\"01:38.787\" end=\"01:39.501\">relax,<\/span>\n        <span begin=\"01:39.501\" end=\"01:39.768\">and<\/span>\n        <span begin=\"01:39.768\" end=\"01:40.035\">join<\/span>\n        <span begin=\"01:40.035\" end=\"01:40.301\">my<\/span>\n        <span begin=\"01:40.301\" end=\"01:41.718\">company<\/span>\n      <\/p>\n      <p begin=\"01:41.720\" end=\"01:44.281\" ttm:agent=\"v1\">\n        <span begin=\"01:41.729\" end=\"01:42.295\">Oh,<\/span>\n        <span begin=\"01:42.295\" end=\"01:43.262\">baby,<\/span>\n        <span begin=\"01:43.262\" end=\"01:43.795\">trust<\/span>\n        <span begin=\"01:43.795\" end=\"01:44.281\">me<\/span>\n      <\/p>\n      <p begin=\"01:44.280\" end=\"01:48.265\" ttm:agent=\"v1\">\n        <span begin=\"01:44.281\" end=\"01:44.756\">Once<\/span>\n        <span begin=\"01:44.756\" end=\"01:45.255\">you<\/span>\n        <span begin=\"01:45.255\" end=\"01:45.771\">know<\/span>\n        <span begin=\"01:45.771\" end=\"01:46.273\">what<\/span>\n        <span begin=\"01:46.273\" end=\"01:46.556\">my<\/span>\n        <span begin=\"01:46.556\" end=\"01:46.823\">love&apos;s<\/span>\n        <span begin=\"01:46.823\" end=\"01:47.305\">gonna<\/span>\n        <span begin=\"01:47.305\" end=\"01:47.839\">feel<\/span>\n        <span begin=\"01:47.839\" end=\"01:48.265\">like<\/span>\n      <\/p>\n      <p begin=\"01:48.260\" end=\"01:50.331\" ttm:agent=\"v1\">\n        <span begin=\"01:48.265\" end=\"01:48.795\">Nothing<\/span>\n        <span begin=\"01:48.795\" end=\"01:49.012\">else<\/span>\n        <span begin=\"01:49.012\" end=\"01:49.297\">will<\/span>\n        <span begin=\"01:49.297\" end=\"01:49.795\">feel<\/span>\n        <span begin=\"01:49.795\" end=\"01:50.331\">right<\/span>\n      <\/p>\n      <p begin=\"01:50.520\" end=\"01:56.244\" ttm:agent=\"v1\">\n        <span begin=\"01:50.525\" end=\"01:50.866\">You<\/span>\n        <span begin=\"01:50.866\" end=\"01:51.116\">can<\/span>\n        <span begin=\"01:51.116\" end=\"01:51.634\">feel<\/span>\n        <span begin=\"01:51.634\" end=\"01:52.351\">like<\/span>\n        <span begin=\"01:52.351\" end=\"01:53.317\">moonbeam<\/span>\n        <span begin=\"01:53.317\" end=\"01:53.801\">ice<\/span>\n        <span begin=\"01:53.801\" end=\"01:54.269\">cream,<\/span>\n        <span begin=\"01:54.269\" end=\"01:54.818\">taking<\/span>\n        <span begin=\"01:54.818\" end=\"01:55.033\">off<\/span>\n        <span begin=\"01:55.033\" end=\"01:55.335\">your<\/span>\n        <span begin=\"01:55.335\" end=\"01:55.834\">blue<\/span>\n        <span begin=\"01:55.834\" end=\"01:56.244\">jeans<\/span>\n      <\/p>\n      <p begin=\"01:56.240\" end=\"01:58.326\" ttm:agent=\"v1\">\n        <span begin=\"01:56.244\" end=\"01:56.769\">Dancing<\/span>\n        <span begin=\"01:56.769\" end=\"01:57.020\">at<\/span>\n        <span begin=\"01:57.020\" end=\"01:57.286\">the<\/span>\n        <span begin=\"01:57.286\" end=\"01:58.326\">movies<\/span>\n      <\/p>\n      <p begin=\"01:58.520\" end=\"02:03.774\" ttm:agent=\"v1\">\n        <span begin=\"01:58.526\" end=\"01:58.835\">&apos;Cause<\/span>\n        <span begin=\"01:58.835\" end=\"01:59.083\">it<\/span>\n        <span begin=\"01:59.083\" end=\"01:59.550\">feels<\/span>\n        <span begin=\"01:59.550\" end=\"02:00.350\">so<\/span>\n        <span begin=\"02:00.350\" end=\"02:01.350\">mystical,<\/span>\n        <span begin=\"02:01.550\" end=\"02:02.518\">magical,<\/span>\n        <span begin=\"02:02.518\" end=\"02:03.000\">oh<\/span>\n        <span begin=\"02:03.000\" end=\"02:03.774\">baby<\/span>\n      <\/p>\n      <p begin=\"02:03.770\" end=\"02:08.235\" ttm:agent=\"v1\">\n        <span begin=\"02:03.774\" end=\"02:04.339\">&apos;Cause<\/span>\n        <span begin=\"02:04.339\" end=\"02:04.574\">once<\/span>\n        <span begin=\"02:04.574\" end=\"02:04.856\">you<\/span>\n        <span begin=\"02:04.856\" end=\"02:05.542\">know,<\/span>\n        <span begin=\"02:05.542\" end=\"02:05.808\">once<\/span>\n        <span begin=\"02:05.808\" end=\"02:06.075\">you<\/span>\n        <span begin=\"02:06.075\" end=\"02:06.574\">know<\/span>\n        <span begin=\"02:06.574\" end=\"02:07.040\">my<\/span>\n        <span begin=\"02:07.040\" end=\"02:07.542\">love<\/span>\n        <span begin=\"02:07.542\" end=\"02:07.808\">is<\/span>\n        <span begin=\"02:07.808\" end=\"02:08.235\">so<\/span>\n      <\/p>\n      <p begin=\"02:08.230\" end=\"02:11.747\" ttm:agent=\"v1\">\n        <span begin=\"02:08.235\" end=\"02:09.363\">Mystical,<\/span>\n        <span begin=\"02:09.561\" end=\"02:10.529\">magical,<\/span>\n        <span begin=\"02:10.529\" end=\"02:11.045\">oh<\/span>\n        <span begin=\"02:11.045\" end=\"02:11.747\">baby<\/span>\n      <\/p>\n      <p begin=\"02:11.740\" end=\"02:15.664\" ttm:agent=\"v1\">\n        <span begin=\"02:11.747\" end=\"02:12.299\">&apos;Cause<\/span>\n        <span begin=\"02:12.299\" end=\"02:12.584\">once<\/span>\n        <span begin=\"02:12.584\" end=\"02:12.832\">you<\/span>\n        <span begin=\"02:12.832\" end=\"02:13.518\">know,<\/span>\n        <span begin=\"02:13.518\" end=\"02:13.867\">once<\/span>\n        <span begin=\"02:13.867\" end=\"02:14.118\">you<\/span>\n        <span begin=\"02:14.118\" end=\"02:15.664\">know<\/span>\n      <\/p>\n      <p begin=\"02:16.310\" end=\"02:22.678\" ttm:agent=\"v1\">\n        <span begin=\"02:16.310\" end=\"02:16.804\">Once<\/span>\n        <span begin=\"02:16.804\" end=\"02:17.318\">you<\/span>\n        <span begin=\"02:17.318\" end=\"02:17.870\">know<\/span>\n        <span begin=\"02:17.870\" end=\"02:18.385\">what<\/span>\n        <span begin=\"02:18.385\" end=\"02:18.603\">my<\/span>\n        <span begin=\"02:18.603\" end=\"02:18.852\">love&apos;s<\/span>\n        <span begin=\"02:18.852\" end=\"02:19.337\">gonna<\/span>\n        <span begin=\"02:19.337\" end=\"02:19.852\">feel<\/span>\n        <span begin=\"02:19.852\" end=\"02:22.678\">like<\/span>\n      <\/p>\n      <p begin=\"02:24.250\" end=\"02:30.542\" ttm:agent=\"v1\">\n        <span begin=\"02:24.257\" end=\"02:25.305\">Moonbeam<\/span>\n        <span begin=\"02:25.305\" end=\"02:25.756\">ice<\/span>\n        <span begin=\"02:25.756\" end=\"02:26.305\">cream,<\/span>\n        <span begin=\"02:26.305\" end=\"02:26.806\">nothing<\/span>\n        <span begin=\"02:26.806\" end=\"02:27.057\">else<\/span>\n        <span begin=\"02:27.057\" end=\"02:27.340\">will<\/span>\n        <span begin=\"02:27.340\" end=\"02:27.756\">feel<\/span>\n        <span begin=\"02:27.756\" end=\"02:30.542\">right<\/span>\n      <\/p>\n      <p begin=\"02:32.220\" end=\"02:42.454\" ttm:agent=\"v1\">\n        <span begin=\"02:32.225\" end=\"02:33.380\">Mystical,<\/span>\n        <span begin=\"02:33.579\" end=\"02:34.612\">magical,<\/span>\n        <span begin=\"02:34.612\" end=\"02:35.129\">oh<\/span>\n        <span begin=\"02:35.129\" end=\"02:35.895\">baby,<\/span>\n        <span begin=\"02:35.895\" end=\"02:36.697\">it&apos;s<\/span>\n        <span begin=\"02:36.697\" end=\"02:38.113\">mystical,<\/span>\n        <span begin=\"02:38.428\" end=\"02:42.454\">magical<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 7460,
+      "endTime": 12575,
+      "text": "There's nothing colder than your shoulder when you're dragging me along like you do",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 7461,
+          "endTime": 7826,
+          "word": "There's"
+        },
+        {
+          "startTime": 7826,
+          "endTime": 8242,
+          "word": "nothing"
+        },
+        {
+          "startTime": 8242,
+          "endTime": 8792,
+          "word": "colder"
+        },
+        {
+          "startTime": 8792,
+          "endTime": 9010,
+          "word": "than"
+        },
+        {
+          "startTime": 9010,
+          "endTime": 9274,
+          "word": "your"
+        },
+        {
+          "startTime": 9274,
+          "endTime": 9810,
+          "word": "shoulder"
+        },
+        {
+          "startTime": 9810,
+          "endTime": 10042,
+          "word": "when"
+        },
+        {
+          "startTime": 10042,
+          "endTime": 10293,
+          "word": "you're"
+        },
+        {
+          "startTime": 10293,
+          "endTime": 10810,
+          "word": "dragging"
+        },
+        {
+          "startTime": 10810,
+          "endTime": 11160,
+          "word": "me"
+        },
+        {
+          "startTime": 11160,
+          "endTime": 11528,
+          "word": "along"
+        },
+        {
+          "startTime": 11528,
+          "endTime": 11776,
+          "word": "like"
+        },
+        {
+          "startTime": 11776,
+          "endTime": 12058,
+          "word": "you"
+        },
+        {
+          "startTime": 12058,
+          "endTime": 12575,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "time": 13520,
+      "endTime": 14442,
+      "text": "Like you do",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 13526,
+          "endTime": 13787,
+          "word": "Like"
+        },
+        {
+          "startTime": 13787,
+          "endTime": 14088,
+          "word": "you"
+        },
+        {
+          "startTime": 14088,
+          "endTime": 14442,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "time": 15470,
+      "endTime": 21122,
+      "text": "And then you switch up with no warning, and you kiss me like you want it, how rude",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 15475,
+          "endTime": 15747,
+          "word": "And"
+        },
+        {
+          "startTime": 15747,
+          "endTime": 16029,
+          "word": "then"
+        },
+        {
+          "startTime": 16029,
+          "endTime": 16296,
+          "word": "you"
+        },
+        {
+          "startTime": 16296,
+          "endTime": 16512,
+          "word": "switch"
+        },
+        {
+          "startTime": 16512,
+          "endTime": 16795,
+          "word": "up"
+        },
+        {
+          "startTime": 16795,
+          "endTime": 17045,
+          "word": "with"
+        },
+        {
+          "startTime": 17045,
+          "endTime": 17277,
+          "word": "no"
+        },
+        {
+          "startTime": 17277,
+          "endTime": 17811,
+          "word": "warning,"
+        },
+        {
+          "startTime": 17811,
+          "endTime": 18029,
+          "word": "and"
+        },
+        {
+          "startTime": 18029,
+          "endTime": 18296,
+          "word": "you"
+        },
+        {
+          "startTime": 18296,
+          "endTime": 18560,
+          "word": "kiss"
+        },
+        {
+          "startTime": 18560,
+          "endTime": 18813,
+          "word": "me"
+        },
+        {
+          "startTime": 18813,
+          "endTime": 19077,
+          "word": "like"
+        },
+        {
+          "startTime": 19077,
+          "endTime": 19328,
+          "word": "you"
+        },
+        {
+          "startTime": 19328,
+          "endTime": 19579,
+          "word": "want"
+        },
+        {
+          "startTime": 19579,
+          "endTime": 19861,
+          "word": "it,"
+        },
+        {
+          "startTime": 19861,
+          "endTime": 20613,
+          "word": "how"
+        },
+        {
+          "startTime": 20613,
+          "endTime": 21122,
+          "word": "rude"
+        }
+      ]
+    },
+    {
+      "time": 21500,
+      "endTime": 22541,
+      "text": "How rude",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21506,
+          "endTime": 22088,
+          "word": "How"
+        },
+        {
+          "startTime": 22088,
+          "endTime": 22541,
+          "word": "rude"
+        }
+      ]
+    },
+    {
+      "time": 22920,
+      "endTime": 25612,
+      "text": "But I kinda like it anyways",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 22929,
+          "endTime": 23204,
+          "word": "But"
+        },
+        {
+          "startTime": 23204,
+          "endTime": 23383,
+          "word": "I"
+        },
+        {
+          "startTime": 23383,
+          "endTime": 23834,
+          "word": "kinda"
+        },
+        {
+          "startTime": 23834,
+          "endTime": 24068,
+          "word": "like"
+        },
+        {
+          "startTime": 24068,
+          "endTime": 24300,
+          "word": "it"
+        },
+        {
+          "startTime": 24300,
+          "endTime": 25612,
+          "word": "anyways"
+        }
+      ]
+    },
+    {
+      "time": 25760,
+      "endTime": 29567,
+      "text": "I don't mind if this is gonna take a million days",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 25766,
+          "endTime": 26032,
+          "word": "I"
+        },
+        {
+          "startTime": 26032,
+          "endTime": 26331,
+          "word": "don't"
+        },
+        {
+          "startTime": 26331,
+          "endTime": 26566,
+          "word": "mind"
+        },
+        {
+          "startTime": 26566,
+          "endTime": 26814,
+          "word": "if"
+        },
+        {
+          "startTime": 26814,
+          "endTime": 27048,
+          "word": "this"
+        },
+        {
+          "startTime": 27048,
+          "endTime": 27315,
+          "word": "is"
+        },
+        {
+          "startTime": 27315,
+          "endTime": 27816,
+          "word": "gonna"
+        },
+        {
+          "startTime": 27816,
+          "endTime": 28083,
+          "word": "take"
+        },
+        {
+          "startTime": 28083,
+          "endTime": 28280,
+          "word": "a"
+        },
+        {
+          "startTime": 28280,
+          "endTime": 28782,
+          "word": "million"
+        },
+        {
+          "startTime": 28782,
+          "endTime": 29567,
+          "word": "days"
+        }
+      ]
+    },
+    {
+      "time": 29790,
+      "endTime": 33524,
+      "text": "I know you'll come around to me eventually",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29796,
+          "endTime": 30031,
+          "word": "I"
+        },
+        {
+          "startTime": 30031,
+          "endTime": 30282,
+          "word": "know"
+        },
+        {
+          "startTime": 30282,
+          "endTime": 30567,
+          "word": "you'll"
+        },
+        {
+          "startTime": 30567,
+          "endTime": 30912,
+          "word": "come"
+        },
+        {
+          "startTime": 30912,
+          "endTime": 31682,
+          "word": "around"
+        },
+        {
+          "startTime": 31682,
+          "endTime": 31866,
+          "word": "to"
+        },
+        {
+          "startTime": 31866,
+          "endTime": 32082,
+          "word": "me"
+        },
+        {
+          "startTime": 32082,
+          "endTime": 33524,
+          "word": "eventually"
+        }
+      ]
+    },
+    {
+      "time": 33750,
+      "endTime": 37503,
+      "text": "If you sit back, relax, and join my company",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 33759,
+          "endTime": 34030,
+          "word": "If"
+        },
+        {
+          "startTime": 34030,
+          "endTime": 34262,
+          "word": "you"
+        },
+        {
+          "startTime": 34262,
+          "endTime": 34532,
+          "word": "sit"
+        },
+        {
+          "startTime": 34532,
+          "endTime": 34764,
+          "word": "back,"
+        },
+        {
+          "startTime": 34764,
+          "endTime": 35481,
+          "word": "relax,"
+        },
+        {
+          "startTime": 35481,
+          "endTime": 35796,
+          "word": "and"
+        },
+        {
+          "startTime": 35796,
+          "endTime": 36046,
+          "word": "join"
+        },
+        {
+          "startTime": 36046,
+          "endTime": 36313,
+          "word": "my"
+        },
+        {
+          "startTime": 36313,
+          "endTime": 37503,
+          "word": "company"
+        }
+      ]
+    },
+    {
+      "time": 37530,
+      "endTime": 39271,
+      "text": "My company",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37537,
+          "endTime": 37868,
+          "word": "My"
+        },
+        {
+          "startTime": 37868,
+          "endTime": 39271,
+          "word": "company"
+        }
+      ]
+    },
+    {
+      "time": 40250,
+      "endTime": 44264,
+      "text": "Once you know what my love's gonna feel like",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40253,
+          "endTime": 40707,
+          "word": "Once"
+        },
+        {
+          "startTime": 40707,
+          "endTime": 41240,
+          "word": "you"
+        },
+        {
+          "startTime": 41240,
+          "endTime": 41808,
+          "word": "know"
+        },
+        {
+          "startTime": 41808,
+          "endTime": 42291,
+          "word": "what"
+        },
+        {
+          "startTime": 42291,
+          "endTime": 42573,
+          "word": "my"
+        },
+        {
+          "startTime": 42573,
+          "endTime": 42808,
+          "word": "love's"
+        },
+        {
+          "startTime": 42808,
+          "endTime": 43291,
+          "word": "gonna"
+        },
+        {
+          "startTime": 43291,
+          "endTime": 43840,
+          "word": "feel"
+        },
+        {
+          "startTime": 43840,
+          "endTime": 44264,
+          "word": "like"
+        }
+      ]
+    },
+    {
+      "time": 44260,
+      "endTime": 46405,
+      "text": "Nothing else will feel right",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44264,
+          "endTime": 44800,
+          "word": "Nothing"
+        },
+        {
+          "startTime": 44800,
+          "endTime": 45101,
+          "word": "else"
+        },
+        {
+          "startTime": 45101,
+          "endTime": 45333,
+          "word": "will"
+        },
+        {
+          "startTime": 45333,
+          "endTime": 45898,
+          "word": "feel"
+        },
+        {
+          "startTime": 45898,
+          "endTime": 46405,
+          "word": "right"
+        }
+      ]
+    },
+    {
+      "time": 46540,
+      "endTime": 52296,
+      "text": "You can feel like moonbeam ice cream, taking off your blue jeans",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46543,
+          "endTime": 46826,
+          "word": "You"
+        },
+        {
+          "startTime": 46826,
+          "endTime": 47127,
+          "word": "can"
+        },
+        {
+          "startTime": 47127,
+          "endTime": 47610,
+          "word": "feel"
+        },
+        {
+          "startTime": 47610,
+          "endTime": 48295,
+          "word": "like"
+        },
+        {
+          "startTime": 48295,
+          "endTime": 49327,
+          "word": "moonbeam"
+        },
+        {
+          "startTime": 49327,
+          "endTime": 49762,
+          "word": "ice"
+        },
+        {
+          "startTime": 49762,
+          "endTime": 50277,
+          "word": "cream,"
+        },
+        {
+          "startTime": 50277,
+          "endTime": 50829,
+          "word": "taking"
+        },
+        {
+          "startTime": 50829,
+          "endTime": 51077,
+          "word": "off"
+        },
+        {
+          "startTime": 51077,
+          "endTime": 51311,
+          "word": "your"
+        },
+        {
+          "startTime": 51311,
+          "endTime": 51778,
+          "word": "blue"
+        },
+        {
+          "startTime": 51778,
+          "endTime": 52296,
+          "word": "jeans"
+        }
+      ]
+    },
+    {
+      "time": 52290,
+      "endTime": 54381,
+      "text": "Dancing at the movies",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 52296,
+          "endTime": 52824,
+          "word": "Dancing"
+        },
+        {
+          "startTime": 52824,
+          "endTime": 53091,
+          "word": "at"
+        },
+        {
+          "startTime": 53091,
+          "endTime": 53357,
+          "word": "the"
+        },
+        {
+          "startTime": 53357,
+          "endTime": 54381,
+          "word": "movies"
+        }
+      ]
+    },
+    {
+      "time": 54470,
+      "endTime": 59789,
+      "text": "'Cause it feels so mystical, magical, oh baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54479,
+          "endTime": 54820,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 54820,
+          "endTime": 55087,
+          "word": "it"
+        },
+        {
+          "startTime": 55087,
+          "endTime": 55503,
+          "word": "feels"
+        },
+        {
+          "startTime": 55503,
+          "endTime": 56353,
+          "word": "so"
+        },
+        {
+          "startTime": 56353,
+          "endTime": 57353,
+          "word": "mystical,"
+        },
+        {
+          "startTime": 57553,
+          "endTime": 58553,
+          "word": "magical,"
+        },
+        {
+          "startTime": 58553,
+          "endTime": 59020,
+          "word": "oh"
+        },
+        {
+          "startTime": 59020,
+          "endTime": 59789,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 59780,
+      "endTime": 64282,
+      "text": "'Cause once you know, once you know my love is so",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59789,
+          "endTime": 60299,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 60299,
+          "endTime": 60549,
+          "word": "once"
+        },
+        {
+          "startTime": 60549,
+          "endTime": 60867,
+          "word": "you"
+        },
+        {
+          "startTime": 60867,
+          "endTime": 61437,
+          "word": "know,"
+        },
+        {
+          "startTime": 61549,
+          "endTime": 61832,
+          "word": "once"
+        },
+        {
+          "startTime": 61832,
+          "endTime": 62101,
+          "word": "you"
+        },
+        {
+          "startTime": 62101,
+          "endTime": 62565,
+          "word": "know"
+        },
+        {
+          "startTime": 62565,
+          "endTime": 63016,
+          "word": "my"
+        },
+        {
+          "startTime": 63016,
+          "endTime": 63549,
+          "word": "love"
+        },
+        {
+          "startTime": 63549,
+          "endTime": 63816,
+          "word": "is"
+        },
+        {
+          "startTime": 63816,
+          "endTime": 64282,
+          "word": "so"
+        }
+      ]
+    },
+    {
+      "time": 64280,
+      "endTime": 67735,
+      "text": "Mystical, magical, oh baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 64282,
+          "endTime": 65379,
+          "word": "Mystical,"
+        },
+        {
+          "startTime": 65532,
+          "endTime": 66532,
+          "word": "magical,"
+        },
+        {
+          "startTime": 66532,
+          "endTime": 66983,
+          "word": "oh"
+        },
+        {
+          "startTime": 66983,
+          "endTime": 67735,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 67730,
+      "endTime": 71952,
+      "text": "'Cause once you know, once you know",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 67735,
+          "endTime": 68250,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 68250,
+          "endTime": 68500,
+          "word": "once"
+        },
+        {
+          "startTime": 68500,
+          "endTime": 68801,
+          "word": "you"
+        },
+        {
+          "startTime": 68801,
+          "endTime": 69351,
+          "word": "know,"
+        },
+        {
+          "startTime": 69551,
+          "endTime": 69783,
+          "word": "once"
+        },
+        {
+          "startTime": 69783,
+          "endTime": 70100,
+          "word": "you"
+        },
+        {
+          "startTime": 70100,
+          "endTime": 71952,
+          "word": "know"
+        }
+      ]
+    },
+    {
+      "time": 72510,
+      "endTime": 76464,
+      "text": "My little hard-to-get baby, I want to give you the world",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 72517,
+          "endTime": 72757,
+          "word": "My"
+        },
+        {
+          "startTime": 72757,
+          "endTime": 73123,
+          "word": "little"
+        },
+        {
+          "startTime": 73123,
+          "endTime": 73824,
+          "word": "hard-to-get"
+        },
+        {
+          "startTime": 73824,
+          "endTime": 74437,
+          "word": "baby,"
+        },
+        {
+          "startTime": 74523,
+          "endTime": 74741,
+          "word": "I"
+        },
+        {
+          "startTime": 74741,
+          "endTime": 75083,
+          "word": "want"
+        },
+        {
+          "startTime": 75083,
+          "endTime": 75256,
+          "word": "to"
+        },
+        {
+          "startTime": 75256,
+          "endTime": 75459,
+          "word": "give"
+        },
+        {
+          "startTime": 75459,
+          "endTime": 75643,
+          "word": "you"
+        },
+        {
+          "startTime": 75643,
+          "endTime": 75864,
+          "word": "the"
+        },
+        {
+          "startTime": 75864,
+          "endTime": 76464,
+          "word": "world"
+        }
+      ]
+    },
+    {
+      "time": 76490,
+      "endTime": 80271,
+      "text": "Not saying you gotta chase me, but I wouldn't mind it if you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 76497,
+          "endTime": 76795,
+          "word": "Not"
+        },
+        {
+          "startTime": 76795,
+          "endTime": 77256,
+          "word": "saying"
+        },
+        {
+          "startTime": 77256,
+          "endTime": 77494,
+          "word": "you"
+        },
+        {
+          "startTime": 77494,
+          "endTime": 77815,
+          "word": "gotta"
+        },
+        {
+          "startTime": 77815,
+          "endTime": 78142,
+          "word": "chase"
+        },
+        {
+          "startTime": 78142,
+          "endTime": 78359,
+          "word": "me,"
+        },
+        {
+          "startTime": 78535,
+          "endTime": 78636,
+          "word": "but"
+        },
+        {
+          "startTime": 78636,
+          "endTime": 78886,
+          "word": "I"
+        },
+        {
+          "startTime": 78886,
+          "endTime": 79386,
+          "word": "wouldn't"
+        },
+        {
+          "startTime": 79386,
+          "endTime": 79654,
+          "word": "mind"
+        },
+        {
+          "startTime": 79654,
+          "endTime": 79754,
+          "word": "it"
+        },
+        {
+          "startTime": 79754,
+          "endTime": 79951,
+          "word": "if"
+        },
+        {
+          "startTime": 79951,
+          "endTime": 80271,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 80270,
+      "endTime": 86820,
+      "text": "Gave me just a little bit of something we can work it with, but all you do is push me out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 80271,
+          "endTime": 80533,
+          "word": "Gave"
+        },
+        {
+          "startTime": 80533,
+          "endTime": 80783,
+          "word": "me"
+        },
+        {
+          "startTime": 80783,
+          "endTime": 81015,
+          "word": "just"
+        },
+        {
+          "startTime": 81015,
+          "endTime": 81317,
+          "word": "a"
+        },
+        {
+          "startTime": 81317,
+          "endTime": 81797,
+          "word": "little"
+        },
+        {
+          "startTime": 81797,
+          "endTime": 82031,
+          "word": "bit"
+        },
+        {
+          "startTime": 82031,
+          "endTime": 82282,
+          "word": "of"
+        },
+        {
+          "startTime": 82282,
+          "endTime": 82799,
+          "word": "something"
+        },
+        {
+          "startTime": 82799,
+          "endTime": 83031,
+          "word": "we"
+        },
+        {
+          "startTime": 83031,
+          "endTime": 83298,
+          "word": "can"
+        },
+        {
+          "startTime": 83298,
+          "endTime": 83549,
+          "word": "work"
+        },
+        {
+          "startTime": 83549,
+          "endTime": 83850,
+          "word": "it"
+        },
+        {
+          "startTime": 83850,
+          "endTime": 84098,
+          "word": "with,"
+        },
+        {
+          "startTime": 84098,
+          "endTime": 84383,
+          "word": "but"
+        },
+        {
+          "startTime": 84383,
+          "endTime": 84599,
+          "word": "all"
+        },
+        {
+          "startTime": 84599,
+          "endTime": 84831,
+          "word": "you"
+        },
+        {
+          "startTime": 84831,
+          "endTime": 85066,
+          "word": "do"
+        },
+        {
+          "startTime": 85066,
+          "endTime": 85333,
+          "word": "is"
+        },
+        {
+          "startTime": 85333,
+          "endTime": 85676,
+          "word": "push"
+        },
+        {
+          "startTime": 85676,
+          "endTime": 85856,
+          "word": "me"
+        },
+        {
+          "startTime": 85856,
+          "endTime": 86820,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 87400,
+      "endTime": 89718,
+      "text": "But I like it anyways",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 87406,
+          "endTime": 87662,
+          "word": "But"
+        },
+        {
+          "startTime": 87662,
+          "endTime": 87929,
+          "word": "I"
+        },
+        {
+          "startTime": 87929,
+          "endTime": 88212,
+          "word": "like"
+        },
+        {
+          "startTime": 88212,
+          "endTime": 88455,
+          "word": "it"
+        },
+        {
+          "startTime": 88455,
+          "endTime": 89718,
+          "word": "anyways"
+        }
+      ]
+    },
+    {
+      "time": 89920,
+      "endTime": 93656,
+      "text": "'Cause I think I'm getting closer to you every day",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89925,
+          "endTime": 90169,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 90169,
+          "endTime": 90369,
+          "word": "I"
+        },
+        {
+          "startTime": 90369,
+          "endTime": 90569,
+          "word": "think"
+        },
+        {
+          "startTime": 90569,
+          "endTime": 90836,
+          "word": "I'm"
+        },
+        {
+          "startTime": 90836,
+          "endTime": 91271,
+          "word": "getting"
+        },
+        {
+          "startTime": 91271,
+          "endTime": 91769,
+          "word": "closer"
+        },
+        {
+          "startTime": 91769,
+          "endTime": 92071,
+          "word": "to"
+        },
+        {
+          "startTime": 92071,
+          "endTime": 92337,
+          "word": "you"
+        },
+        {
+          "startTime": 92337,
+          "endTime": 92836,
+          "word": "every"
+        },
+        {
+          "startTime": 92836,
+          "endTime": 93656,
+          "word": "day"
+        }
+      ]
+    },
+    {
+      "time": 93800,
+      "endTime": 97872,
+      "text": "I know you'll come around to me eventually",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93801,
+          "endTime": 94082,
+          "word": "I"
+        },
+        {
+          "startTime": 94082,
+          "endTime": 94316,
+          "word": "know"
+        },
+        {
+          "startTime": 94316,
+          "endTime": 94583,
+          "word": "you'll"
+        },
+        {
+          "startTime": 94583,
+          "endTime": 94866,
+          "word": "come"
+        },
+        {
+          "startTime": 94866,
+          "endTime": 95548,
+          "word": "around"
+        },
+        {
+          "startTime": 95548,
+          "endTime": 95831,
+          "word": "to"
+        },
+        {
+          "startTime": 95831,
+          "endTime": 96098,
+          "word": "me"
+        },
+        {
+          "startTime": 96098,
+          "endTime": 97872,
+          "word": "eventually"
+        }
+      ]
+    },
+    {
+      "time": 98030,
+      "endTime": 101718,
+      "text": "Just sit back, relax, and join my company",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98038,
+          "endTime": 98269,
+          "word": "Just"
+        },
+        {
+          "startTime": 98269,
+          "endTime": 98501,
+          "word": "sit"
+        },
+        {
+          "startTime": 98501,
+          "endTime": 98787,
+          "word": "back,"
+        },
+        {
+          "startTime": 98787,
+          "endTime": 99501,
+          "word": "relax,"
+        },
+        {
+          "startTime": 99501,
+          "endTime": 99768,
+          "word": "and"
+        },
+        {
+          "startTime": 99768,
+          "endTime": 100035,
+          "word": "join"
+        },
+        {
+          "startTime": 100035,
+          "endTime": 100301,
+          "word": "my"
+        },
+        {
+          "startTime": 100301,
+          "endTime": 101718,
+          "word": "company"
+        }
+      ]
+    },
+    {
+      "time": 101720,
+      "endTime": 104281,
+      "text": "Oh, baby, trust me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101729,
+          "endTime": 102295,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 102295,
+          "endTime": 103262,
+          "word": "baby,"
+        },
+        {
+          "startTime": 103262,
+          "endTime": 103795,
+          "word": "trust"
+        },
+        {
+          "startTime": 103795,
+          "endTime": 104281,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 104280,
+      "endTime": 108265,
+      "text": "Once you know what my love's gonna feel like",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104281,
+          "endTime": 104756,
+          "word": "Once"
+        },
+        {
+          "startTime": 104756,
+          "endTime": 105255,
+          "word": "you"
+        },
+        {
+          "startTime": 105255,
+          "endTime": 105771,
+          "word": "know"
+        },
+        {
+          "startTime": 105771,
+          "endTime": 106273,
+          "word": "what"
+        },
+        {
+          "startTime": 106273,
+          "endTime": 106556,
+          "word": "my"
+        },
+        {
+          "startTime": 106556,
+          "endTime": 106823,
+          "word": "love's"
+        },
+        {
+          "startTime": 106823,
+          "endTime": 107305,
+          "word": "gonna"
+        },
+        {
+          "startTime": 107305,
+          "endTime": 107839,
+          "word": "feel"
+        },
+        {
+          "startTime": 107839,
+          "endTime": 108265,
+          "word": "like"
+        }
+      ]
+    },
+    {
+      "time": 108260,
+      "endTime": 110331,
+      "text": "Nothing else will feel right",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 108265,
+          "endTime": 108795,
+          "word": "Nothing"
+        },
+        {
+          "startTime": 108795,
+          "endTime": 109012,
+          "word": "else"
+        },
+        {
+          "startTime": 109012,
+          "endTime": 109297,
+          "word": "will"
+        },
+        {
+          "startTime": 109297,
+          "endTime": 109795,
+          "word": "feel"
+        },
+        {
+          "startTime": 109795,
+          "endTime": 110331,
+          "word": "right"
+        }
+      ]
+    },
+    {
+      "time": 110520,
+      "endTime": 116244,
+      "text": "You can feel like moonbeam ice cream, taking off your blue jeans",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 110525,
+          "endTime": 110866,
+          "word": "You"
+        },
+        {
+          "startTime": 110866,
+          "endTime": 111116,
+          "word": "can"
+        },
+        {
+          "startTime": 111116,
+          "endTime": 111634,
+          "word": "feel"
+        },
+        {
+          "startTime": 111634,
+          "endTime": 112351,
+          "word": "like"
+        },
+        {
+          "startTime": 112351,
+          "endTime": 113317,
+          "word": "moonbeam"
+        },
+        {
+          "startTime": 113317,
+          "endTime": 113801,
+          "word": "ice"
+        },
+        {
+          "startTime": 113801,
+          "endTime": 114269,
+          "word": "cream,"
+        },
+        {
+          "startTime": 114269,
+          "endTime": 114818,
+          "word": "taking"
+        },
+        {
+          "startTime": 114818,
+          "endTime": 115033,
+          "word": "off"
+        },
+        {
+          "startTime": 115033,
+          "endTime": 115335,
+          "word": "your"
+        },
+        {
+          "startTime": 115335,
+          "endTime": 115834,
+          "word": "blue"
+        },
+        {
+          "startTime": 115834,
+          "endTime": 116244,
+          "word": "jeans"
+        }
+      ]
+    },
+    {
+      "time": 116240,
+      "endTime": 118326,
+      "text": "Dancing at the movies",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 116244,
+          "endTime": 116769,
+          "word": "Dancing"
+        },
+        {
+          "startTime": 116769,
+          "endTime": 117020,
+          "word": "at"
+        },
+        {
+          "startTime": 117020,
+          "endTime": 117286,
+          "word": "the"
+        },
+        {
+          "startTime": 117286,
+          "endTime": 118326,
+          "word": "movies"
+        }
+      ]
+    },
+    {
+      "time": 118520,
+      "endTime": 123774,
+      "text": "'Cause it feels so mystical, magical, oh baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118526,
+          "endTime": 118835,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 118835,
+          "endTime": 119083,
+          "word": "it"
+        },
+        {
+          "startTime": 119083,
+          "endTime": 119550,
+          "word": "feels"
+        },
+        {
+          "startTime": 119550,
+          "endTime": 120350,
+          "word": "so"
+        },
+        {
+          "startTime": 120350,
+          "endTime": 121350,
+          "word": "mystical,"
+        },
+        {
+          "startTime": 121550,
+          "endTime": 122518,
+          "word": "magical,"
+        },
+        {
+          "startTime": 122518,
+          "endTime": 123000,
+          "word": "oh"
+        },
+        {
+          "startTime": 123000,
+          "endTime": 123774,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 123770,
+      "endTime": 128235,
+      "text": "'Cause once you know, once you know my love is so",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123774,
+          "endTime": 124339,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 124339,
+          "endTime": 124574,
+          "word": "once"
+        },
+        {
+          "startTime": 124574,
+          "endTime": 124856,
+          "word": "you"
+        },
+        {
+          "startTime": 124856,
+          "endTime": 125542,
+          "word": "know,"
+        },
+        {
+          "startTime": 125542,
+          "endTime": 125808,
+          "word": "once"
+        },
+        {
+          "startTime": 125808,
+          "endTime": 126075,
+          "word": "you"
+        },
+        {
+          "startTime": 126075,
+          "endTime": 126574,
+          "word": "know"
+        },
+        {
+          "startTime": 126574,
+          "endTime": 127040,
+          "word": "my"
+        },
+        {
+          "startTime": 127040,
+          "endTime": 127542,
+          "word": "love"
+        },
+        {
+          "startTime": 127542,
+          "endTime": 127808,
+          "word": "is"
+        },
+        {
+          "startTime": 127808,
+          "endTime": 128235,
+          "word": "so"
+        }
+      ]
+    },
+    {
+      "time": 128230,
+      "endTime": 131747,
+      "text": "Mystical, magical, oh baby",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128235,
+          "endTime": 129363,
+          "word": "Mystical,"
+        },
+        {
+          "startTime": 129561,
+          "endTime": 130529,
+          "word": "magical,"
+        },
+        {
+          "startTime": 130529,
+          "endTime": 131045,
+          "word": "oh"
+        },
+        {
+          "startTime": 131045,
+          "endTime": 131747,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 131740,
+      "endTime": 135664,
+      "text": "'Cause once you know, once you know",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 131747,
+          "endTime": 132299,
+          "word": "'Cause"
+        },
+        {
+          "startTime": 132299,
+          "endTime": 132584,
+          "word": "once"
+        },
+        {
+          "startTime": 132584,
+          "endTime": 132832,
+          "word": "you"
+        },
+        {
+          "startTime": 132832,
+          "endTime": 133518,
+          "word": "know,"
+        },
+        {
+          "startTime": 133518,
+          "endTime": 133867,
+          "word": "once"
+        },
+        {
+          "startTime": 133867,
+          "endTime": 134118,
+          "word": "you"
+        },
+        {
+          "startTime": 134118,
+          "endTime": 135664,
+          "word": "know"
+        }
+      ]
+    },
+    {
+      "time": 136310,
+      "endTime": 142678,
+      "text": "Once you know what my love's gonna feel like",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136310,
+          "endTime": 136804,
+          "word": "Once"
+        },
+        {
+          "startTime": 136804,
+          "endTime": 137318,
+          "word": "you"
+        },
+        {
+          "startTime": 137318,
+          "endTime": 137870,
+          "word": "know"
+        },
+        {
+          "startTime": 137870,
+          "endTime": 138385,
+          "word": "what"
+        },
+        {
+          "startTime": 138385,
+          "endTime": 138603,
+          "word": "my"
+        },
+        {
+          "startTime": 138603,
+          "endTime": 138852,
+          "word": "love's"
+        },
+        {
+          "startTime": 138852,
+          "endTime": 139337,
+          "word": "gonna"
+        },
+        {
+          "startTime": 139337,
+          "endTime": 139852,
+          "word": "feel"
+        },
+        {
+          "startTime": 139852,
+          "endTime": 142678,
+          "word": "like"
+        }
+      ]
+    },
+    {
+      "time": 144250,
+      "endTime": 150542,
+      "text": "Moonbeam ice cream, nothing else will feel right",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144257,
+          "endTime": 145305,
+          "word": "Moonbeam"
+        },
+        {
+          "startTime": 145305,
+          "endTime": 145756,
+          "word": "ice"
+        },
+        {
+          "startTime": 145756,
+          "endTime": 146305,
+          "word": "cream,"
+        },
+        {
+          "startTime": 146305,
+          "endTime": 146806,
+          "word": "nothing"
+        },
+        {
+          "startTime": 146806,
+          "endTime": 147057,
+          "word": "else"
+        },
+        {
+          "startTime": 147057,
+          "endTime": 147340,
+          "word": "will"
+        },
+        {
+          "startTime": 147340,
+          "endTime": 147756,
+          "word": "feel"
+        },
+        {
+          "startTime": 147756,
+          "endTime": 150542,
+          "word": "right"
+        }
+      ]
+    },
+    {
+      "time": 152220,
+      "endTime": 162454,
+      "text": "Mystical, magical, oh baby, it's mystical, magical",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 152225,
+          "endTime": 153380,
+          "word": "Mystical,"
+        },
+        {
+          "startTime": 153579,
+          "endTime": 154612,
+          "word": "magical,"
+        },
+        {
+          "startTime": 154612,
+          "endTime": 155129,
+          "word": "oh"
+        },
+        {
+          "startTime": 155129,
+          "endTime": 155895,
+          "word": "baby,"
+        },
+        {
+          "startTime": 155895,
+          "endTime": 156697,
+          "word": "it's"
+        },
+        {
+          "startTime": 156697,
+          "endTime": 158113,
+          "word": "mystical,"
+        },
+        {
+          "startTime": 158428,
+          "endTime": 162454,
+          "word": "magical"
+        }
+      ]
+    }
+  ]
+}
