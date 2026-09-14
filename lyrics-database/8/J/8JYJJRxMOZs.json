@@ -1,0 +1,2138 @@
+{
+  "videoId": "8JYJJRxMOZs",
+  "title": "Happen To Me",
+  "artist": "Russell Dickerson",
+  "duration": 182,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:08.510\" end=\"00:12.032\" ttm:agent=\"v1\">\n        <span begin=\"00:08.516\" end=\"00:08.921\">I<\/span>\n        <span begin=\"00:08.921\" end=\"00:09.191\">don&apos;t<\/span>\n        <span begin=\"00:09.191\" end=\"00:09.441\">know<\/span>\n        <span begin=\"00:09.441\" end=\"00:09.972\">who<\/span>\n        <span begin=\"00:09.972\" end=\"00:10.207\">broke<\/span>\n        <span begin=\"00:10.207\" end=\"00:10.479\">up<\/span>\n        <span begin=\"00:10.479\" end=\"00:10.729\">with<\/span>\n        <span begin=\"00:10.729\" end=\"00:12.032\">who<\/span>\n      <\/p>\n      <p begin=\"00:12.510\" end=\"00:16.187\" ttm:agent=\"v1\">\n        <span begin=\"00:12.511\" end=\"00:12.772\">But<\/span>\n        <span begin=\"00:12.772\" end=\"00:13.025\">she&apos;s<\/span>\n        <span begin=\"00:13.025\" end=\"00:13.271\">in<\/span>\n        <span begin=\"00:13.271\" end=\"00:13.532\">here<\/span>\n        <span begin=\"00:13.532\" end=\"00:14.052\">chasing<\/span>\n        <span begin=\"00:14.052\" end=\"00:14.783\">tequila<\/span>\n        <span begin=\"00:14.783\" end=\"00:15.060\">with<\/span>\n        <span begin=\"00:15.060\" end=\"00:15.791\">High<\/span>\n        <span begin=\"00:15.791\" end=\"00:16.187\">Noon<\/span>\n      <\/p>\n      <p begin=\"00:16.670\" end=\"00:19.758\" ttm:agent=\"v1\">\n        <span begin=\"00:16.676\" end=\"00:17.085\">Don&apos;t<\/span>\n        <span begin=\"00:17.085\" end=\"00:17.341\">know<\/span>\n        <span begin=\"00:17.341\" end=\"00:17.570\">how<\/span>\n        <span begin=\"00:17.570\" end=\"00:17.845\">long<\/span>\n        <span begin=\"00:17.845\" end=\"00:18.098\">she&apos;s<\/span>\n        <span begin=\"00:18.098\" end=\"00:18.349\">been<\/span>\n        <span begin=\"00:18.349\" end=\"00:18.858\">moving<\/span>\n        <span begin=\"00:18.858\" end=\"00:19.758\">on<\/span>\n      <\/p>\n      <p begin=\"00:19.930\" end=\"00:24.753\" ttm:agent=\"v1\">\n        <span begin=\"00:19.935\" end=\"00:20.415\">Maybe<\/span>\n        <span begin=\"00:20.415\" end=\"00:20.929\">five<\/span>\n        <span begin=\"00:20.929\" end=\"00:21.327\">weeks<\/span>\n        <span begin=\"00:21.327\" end=\"00:21.463\">or<\/span>\n        <span begin=\"00:21.463\" end=\"00:21.892\">five<\/span>\n        <span begin=\"00:21.892\" end=\"00:22.339\">minutes,<\/span>\n        <span begin=\"00:22.388\" end=\"00:22.516\">but<\/span>\n        <span begin=\"00:22.516\" end=\"00:22.679\">it<\/span>\n        <span begin=\"00:22.679\" end=\"00:22.929\">can&apos;t<\/span>\n        <span begin=\"00:22.929\" end=\"00:23.191\">be<\/span>\n        <span begin=\"00:23.191\" end=\"00:23.783\">too<\/span>\n        <span begin=\"00:23.783\" end=\"00:24.753\">long<\/span>\n      <\/p>\n      <p begin=\"00:25.190\" end=\"00:27.359\" ttm:agent=\"v1\">\n        <span begin=\"00:25.197\" end=\"00:25.504\">And<\/span>\n        <span begin=\"00:25.504\" end=\"00:25.722\">we<\/span>\n        <span begin=\"00:25.722\" end=\"00:25.960\">did<\/span>\n        <span begin=\"00:25.960\" end=\"00:26.237\">that<\/span>\n        <span begin=\"00:26.237\" end=\"00:26.472\">&quot;What&apos;s<\/span>\n        <span begin=\"00:26.472\" end=\"00:26.618\">your<\/span>\n        <span begin=\"00:26.618\" end=\"00:26.944\">name?&quot;<\/span>\n        <span begin=\"00:26.944\" end=\"00:27.359\">thing<\/span>\n      <\/p>\n      <p begin=\"00:27.350\" end=\"00:29.286\" ttm:agent=\"v1\">\n        <span begin=\"00:27.359\" end=\"00:27.650\">&quot;Where<\/span>\n        <span begin=\"00:27.650\" end=\"00:27.834\">you<\/span>\n        <span begin=\"00:27.834\" end=\"00:28.018\">from?&quot;<\/span>\n        <span begin=\"00:28.018\" end=\"00:28.164\">and<\/span>\n        <span begin=\"00:28.164\" end=\"00:28.418\">&quot;What&apos;s<\/span>\n        <span begin=\"00:28.418\" end=\"00:28.575\">your<\/span>\n        <span begin=\"00:28.575\" end=\"00:29.036\">favorite<\/span>\n        <span begin=\"00:29.036\" end=\"00:29.286\">drink?&quot;<\/span>\n      <\/p>\n      <p begin=\"00:29.280\" end=\"00:31.397\" ttm:agent=\"v1\">\n        <span begin=\"00:29.286\" end=\"00:29.537\">She<\/span>\n        <span begin=\"00:29.537\" end=\"00:29.699\">said,<\/span>\n        <span begin=\"00:29.699\" end=\"00:29.927\">&quot;Shut<\/span>\n        <span begin=\"00:29.927\" end=\"00:30.161\">up,<\/span>\n        <span begin=\"00:30.161\" end=\"00:30.364\">come<\/span>\n        <span begin=\"00:30.364\" end=\"00:30.572\">and<\/span>\n        <span begin=\"00:30.572\" end=\"00:30.833\">dance<\/span>\n        <span begin=\"00:30.833\" end=\"00:30.996\">with<\/span>\n        <span begin=\"00:30.996\" end=\"00:31.397\">me&quot;<\/span>\n      <\/p>\n      <p begin=\"00:31.400\" end=\"00:32.812\" ttm:agent=\"v1\">\n        <span begin=\"00:31.407\" end=\"00:31.714\">And<\/span>\n        <span begin=\"00:31.714\" end=\"00:31.999\">now<\/span>\n        <span begin=\"00:31.999\" end=\"00:32.299\">she&apos;s<\/span>\n        <span begin=\"00:32.299\" end=\"00:32.812\">singin&apos;<\/span>\n      <\/p>\n      <p begin=\"00:32.810\" end=\"00:37.029\" ttm:agent=\"v1\">\n        <span begin=\"00:32.812\" end=\"00:33.497\">&quot;Girls<\/span>\n        <span begin=\"00:33.617\" end=\"00:33.870\">Just<\/span>\n        <span begin=\"00:33.870\" end=\"00:34.366\">Wanna<\/span>\n        <span begin=\"00:34.366\" end=\"00:34.596\">Have<\/span>\n        <span begin=\"00:34.596\" end=\"00:35.063\">Fun&quot;<\/span>\n        <span begin=\"00:35.115\" end=\"00:35.587\">at<\/span>\n        <span begin=\"00:35.587\" end=\"00:35.883\">the<\/span>\n        <span begin=\"00:35.883\" end=\"00:36.153\">top<\/span>\n        <span begin=\"00:36.153\" end=\"00:36.406\">of<\/span>\n        <span begin=\"00:36.406\" end=\"00:36.670\">her<\/span>\n        <span begin=\"00:36.670\" end=\"00:37.029\">lungs<\/span>\n      <\/p>\n      <p begin=\"00:37.020\" end=\"00:40.445\" ttm:agent=\"v1\">\n        <span begin=\"00:37.029\" end=\"00:37.418\">Don&apos;t<\/span>\n        <span begin=\"00:37.418\" end=\"00:37.957\">even<\/span>\n        <span begin=\"00:37.957\" end=\"00:38.215\">know<\/span>\n        <span begin=\"00:38.215\" end=\"00:38.471\">she&apos;s<\/span>\n        <span begin=\"00:38.471\" end=\"00:38.730\">&apos;bout<\/span>\n        <span begin=\"00:38.730\" end=\"00:38.965\">to<\/span>\n        <span begin=\"00:38.965\" end=\"00:39.476\">wreck<\/span>\n        <span begin=\"00:39.476\" end=\"00:40.445\">someone<\/span>\n      <\/p>\n      <p begin=\"00:40.440\" end=\"00:43.063\" ttm:agent=\"v1\">\n        <span begin=\"00:40.445\" end=\"00:41.007\">And<\/span>\n        <span begin=\"00:41.007\" end=\"00:41.624\">boys,<\/span>\n        <span begin=\"00:41.732\" end=\"00:42.026\">I&apos;m<\/span>\n        <span begin=\"00:42.026\" end=\"00:42.279\">in<\/span>\n        <span begin=\"00:42.279\" end=\"00:42.772\">trouble<\/span>\n        <span begin=\"00:42.772\" end=\"00:43.063\">now<\/span>\n      <\/p>\n      <p begin=\"00:43.140\" end=\"00:45.143\" ttm:agent=\"v1\">\n        <span begin=\"00:43.148\" end=\"00:43.505\">Ain&apos;t<\/span>\n        <span begin=\"00:43.505\" end=\"00:44.027\">even<\/span>\n        <span begin=\"00:44.027\" end=\"00:44.379\">tryna<\/span>\n        <span begin=\"00:44.379\" end=\"00:44.739\">get<\/span>\n        <span begin=\"00:44.739\" end=\"00:45.143\">out<\/span>\n      <\/p>\n      <p begin=\"00:45.140\" end=\"00:49.159\" ttm:agent=\"v1\">\n        <span begin=\"00:45.143\" end=\"00:45.553\">So<\/span>\n        <span begin=\"00:45.553\" end=\"00:45.812\">come<\/span>\n        <span begin=\"00:45.812\" end=\"00:46.073\">on,<\/span>\n        <span begin=\"00:46.073\" end=\"00:46.601\">baby,<\/span>\n        <span begin=\"00:46.601\" end=\"00:46.865\">take<\/span>\n        <span begin=\"00:46.865\" end=\"00:47.097\">me<\/span>\n        <span begin=\"00:47.097\" end=\"00:47.647\">down,<\/span>\n        <span begin=\"00:47.647\" end=\"00:48.084\">down,<\/span>\n        <span begin=\"00:48.084\" end=\"00:48.615\">down,<\/span>\n        <span begin=\"00:48.615\" end=\"00:49.159\">yeah<\/span>\n      <\/p>\n      <p begin=\"00:49.240\" end=\"00:51.199\" ttm:agent=\"v1\">\n        <span begin=\"00:49.247\" end=\"00:49.611\">Don&apos;t<\/span>\n        <span begin=\"00:49.611\" end=\"00:49.872\">know<\/span>\n        <span begin=\"00:49.872\" end=\"00:50.118\">what<\/span>\n        <span begin=\"00:50.118\" end=\"00:50.611\">happened<\/span>\n        <span begin=\"00:50.611\" end=\"00:51.199\">tonight<\/span>\n      <\/p>\n      <p begin=\"00:51.270\" end=\"00:53.322\" ttm:agent=\"v1\">\n        <span begin=\"00:51.275\" end=\"00:51.640\">Don&apos;t<\/span>\n        <span begin=\"00:51.640\" end=\"00:51.909\">know<\/span>\n        <span begin=\"00:51.909\" end=\"00:52.171\">what<\/span>\n        <span begin=\"00:52.171\" end=\"00:52.544\">happened<\/span>\n        <span begin=\"00:52.544\" end=\"00:52.901\">last<\/span>\n        <span begin=\"00:52.901\" end=\"00:53.322\">week<\/span>\n      <\/p>\n      <p begin=\"00:53.320\" end=\"00:55.178\" ttm:agent=\"v1\">\n        <span begin=\"00:53.322\" end=\"00:53.661\">Don&apos;t<\/span>\n        <span begin=\"00:53.661\" end=\"00:53.896\">know<\/span>\n        <span begin=\"00:53.896\" end=\"00:54.160\">what<\/span>\n        <span begin=\"00:54.160\" end=\"00:54.680\">happened<\/span>\n        <span begin=\"00:54.680\" end=\"00:54.893\">to<\/span>\n        <span begin=\"00:54.893\" end=\"00:55.178\">her<\/span>\n      <\/p>\n      <p begin=\"00:55.290\" end=\"00:57.423\" ttm:agent=\"v1\">\n        <span begin=\"00:55.290\" end=\"00:55.520\">But<\/span>\n        <span begin=\"00:55.520\" end=\"00:55.739\">she<\/span>\n        <span begin=\"00:55.739\" end=\"00:55.968\">&apos;bout<\/span>\n        <span begin=\"00:55.968\" end=\"00:56.243\">to<\/span>\n        <span begin=\"00:56.243\" end=\"00:56.768\">happen<\/span>\n        <span begin=\"00:56.768\" end=\"00:57.008\">to<\/span>\n        <span begin=\"00:57.008\" end=\"00:57.423\">me<\/span>\n      <\/p>\n      <p begin=\"00:59.410\" end=\"01:01.917\" ttm:agent=\"v1\">\n        <span begin=\"00:59.418\" end=\"00:59.776\">She<\/span>\n        <span begin=\"00:59.776\" end=\"01:00.045\">&apos;bout<\/span>\n        <span begin=\"01:00.045\" end=\"01:00.296\">to<\/span>\n        <span begin=\"01:00.296\" end=\"01:00.829\">happen<\/span>\n        <span begin=\"01:00.829\" end=\"01:01.080\">to<\/span>\n        <span begin=\"01:01.080\" end=\"01:01.917\">me<\/span>\n      <\/p>\n      <p begin=\"01:05.400\" end=\"01:08.860\" ttm:agent=\"v1\">\n        <span begin=\"01:05.404\" end=\"01:05.844\">She&apos;ll<\/span>\n        <span begin=\"01:05.844\" end=\"01:06.401\">probably<\/span>\n        <span begin=\"01:06.401\" end=\"01:06.646\">be<\/span>\n        <span begin=\"01:06.646\" end=\"01:06.788\">the<\/span>\n        <span begin=\"01:06.788\" end=\"01:07.132\">one<\/span>\n        <span begin=\"01:07.132\" end=\"01:07.406\">that<\/span>\n        <span begin=\"01:07.406\" end=\"01:07.654\">got<\/span>\n        <span begin=\"01:07.654\" end=\"01:08.860\">away<\/span>\n      <\/p>\n      <p begin=\"01:09.530\" end=\"01:14.146\" ttm:agent=\"v1\">\n        <span begin=\"01:09.531\" end=\"01:09.720\">But<\/span>\n        <span begin=\"01:09.720\" end=\"01:09.982\">right<\/span>\n        <span begin=\"01:09.982\" end=\"01:10.216\">now,<\/span>\n        <span begin=\"01:10.216\" end=\"01:10.472\">I&apos;m<\/span>\n        <span begin=\"01:10.472\" end=\"01:10.987\">taking<\/span>\n        <span begin=\"01:10.987\" end=\"01:11.475\">every<\/span>\n        <span begin=\"01:11.475\" end=\"01:11.995\">second<\/span>\n        <span begin=\"01:11.995\" end=\"01:12.936\">I<\/span>\n        <span begin=\"01:12.936\" end=\"01:13.235\">can<\/span>\n        <span begin=\"01:13.235\" end=\"01:14.146\">take<\/span>\n      <\/p>\n      <p begin=\"01:14.140\" end=\"01:17.813\" ttm:agent=\"v1\">\n        <span begin=\"01:14.146\" end=\"01:14.503\">So<\/span>\n        <span begin=\"01:14.503\" end=\"01:14.767\">we<\/span>\n        <span begin=\"01:14.767\" end=\"01:15.028\">keep<\/span>\n        <span begin=\"01:15.028\" end=\"01:15.971\">talkin&apos;,<\/span>\n        <span begin=\"01:16.249\" end=\"01:16.567\">and<\/span>\n        <span begin=\"01:16.567\" end=\"01:16.815\">we<\/span>\n        <span begin=\"01:16.815\" end=\"01:17.049\">keep<\/span>\n        <span begin=\"01:17.049\" end=\"01:17.813\">drinkin&apos;<\/span>\n      <\/p>\n      <p begin=\"01:18.250\" end=\"01:21.551\" ttm:agent=\"v1\">\n        <span begin=\"01:18.258\" end=\"01:18.511\">Oh,<\/span>\n        <span begin=\"01:18.511\" end=\"01:18.669\">and<\/span>\n        <span begin=\"01:18.669\" end=\"01:18.863\">I<\/span>\n        <span begin=\"01:18.863\" end=\"01:19.111\">keep<\/span>\n        <span begin=\"01:19.111\" end=\"01:19.853\">fallin&apos;,<\/span>\n        <span begin=\"01:20.053\" end=\"01:20.349\">and<\/span>\n        <span begin=\"01:20.349\" end=\"01:20.634\">she<\/span>\n        <span begin=\"01:20.634\" end=\"01:20.890\">keeps<\/span>\n        <span begin=\"01:20.890\" end=\"01:21.154\">on<\/span>\n        <span begin=\"01:21.154\" end=\"01:21.551\">singin&apos;<\/span>\n      <\/p>\n      <p begin=\"01:21.550\" end=\"01:25.880\" ttm:agent=\"v1\">\n        <span begin=\"01:21.551\" end=\"01:22.340\">&quot;Girls<\/span>\n        <span begin=\"01:22.406\" end=\"01:22.662\">Just<\/span>\n        <span begin=\"01:22.662\" end=\"01:23.193\">Wanna<\/span>\n        <span begin=\"01:23.193\" end=\"01:23.441\">Have<\/span>\n        <span begin=\"01:23.441\" end=\"01:23.826\">Fun&quot;<\/span>\n        <span begin=\"01:23.940\" end=\"01:24.465\">at<\/span>\n        <span begin=\"01:24.465\" end=\"01:24.716\">the<\/span>\n        <span begin=\"01:24.716\" end=\"01:24.969\">top<\/span>\n        <span begin=\"01:24.969\" end=\"01:25.225\">of<\/span>\n        <span begin=\"01:25.225\" end=\"01:25.473\">her<\/span>\n        <span begin=\"01:25.473\" end=\"01:25.880\">lungs<\/span>\n      <\/p>\n      <p begin=\"01:25.910\" end=\"01:29.270\" ttm:agent=\"v1\">\n        <span begin=\"01:25.914\" end=\"01:26.235\">Don&apos;t<\/span>\n        <span begin=\"01:26.235\" end=\"01:26.726\">even<\/span>\n        <span begin=\"01:26.726\" end=\"01:27.003\">know<\/span>\n        <span begin=\"01:27.003\" end=\"01:27.257\">she&apos;s<\/span>\n        <span begin=\"01:27.257\" end=\"01:27.486\">&apos;bout<\/span>\n        <span begin=\"01:27.486\" end=\"01:27.745\">to<\/span>\n        <span begin=\"01:27.745\" end=\"01:28.227\">wreck<\/span>\n        <span begin=\"01:28.227\" end=\"01:29.270\">someone<\/span>\n      <\/p>\n      <p begin=\"01:29.270\" end=\"01:31.942\" ttm:agent=\"v1\">\n        <span begin=\"01:29.270\" end=\"01:29.824\">And<\/span>\n        <span begin=\"01:29.824\" end=\"01:30.435\">boys,<\/span>\n        <span begin=\"01:30.526\" end=\"01:30.798\">I&apos;m<\/span>\n        <span begin=\"01:30.798\" end=\"01:31.078\">in<\/span>\n        <span begin=\"01:31.078\" end=\"01:31.539\">trouble<\/span>\n        <span begin=\"01:31.539\" end=\"01:31.942\">now<\/span>\n      <\/p>\n      <p begin=\"01:31.940\" end=\"01:33.937\" ttm:agent=\"v1\">\n        <span begin=\"01:31.942\" end=\"01:32.358\">Ain&apos;t<\/span>\n        <span begin=\"01:32.358\" end=\"01:32.846\">even<\/span>\n        <span begin=\"01:32.846\" end=\"01:33.206\">tryna<\/span>\n        <span begin=\"01:33.206\" end=\"01:33.563\">get<\/span>\n        <span begin=\"01:33.563\" end=\"01:33.937\">out<\/span>\n      <\/p>\n      <p begin=\"01:33.940\" end=\"01:38.025\" ttm:agent=\"v1\">\n        <span begin=\"01:33.942\" end=\"01:34.149\">So<\/span>\n        <span begin=\"01:34.149\" end=\"01:34.616\">come<\/span>\n        <span begin=\"01:34.616\" end=\"01:34.870\">on,<\/span>\n        <span begin=\"01:34.870\" end=\"01:35.393\">baby,<\/span>\n        <span begin=\"01:35.393\" end=\"01:35.654\">take<\/span>\n        <span begin=\"01:35.654\" end=\"01:35.910\">me<\/span>\n        <span begin=\"01:35.910\" end=\"01:36.363\">down,<\/span>\n        <span begin=\"01:36.363\" end=\"01:36.881\">down,<\/span>\n        <span begin=\"01:36.881\" end=\"01:37.360\">down,<\/span>\n        <span begin=\"01:37.360\" end=\"01:38.025\">yeah<\/span>\n      <\/p>\n      <p begin=\"01:38.040\" end=\"01:40.033\" ttm:agent=\"v1\">\n        <span begin=\"01:38.047\" end=\"01:38.271\">Don&apos;t<\/span>\n        <span begin=\"01:38.271\" end=\"01:38.527\">know<\/span>\n        <span begin=\"01:38.527\" end=\"01:38.794\">what<\/span>\n        <span begin=\"01:38.794\" end=\"01:39.428\">happened<\/span>\n        <span begin=\"01:39.428\" end=\"01:40.033\">tonight<\/span>\n      <\/p>\n      <p begin=\"01:40.100\" end=\"01:42.124\" ttm:agent=\"v1\">\n        <span begin=\"01:40.108\" end=\"01:40.364\">Don&apos;t<\/span>\n        <span begin=\"01:40.364\" end=\"01:40.604\">know<\/span>\n        <span begin=\"01:40.604\" end=\"01:40.871\">what<\/span>\n        <span begin=\"01:40.871\" end=\"01:41.354\">happened<\/span>\n        <span begin=\"01:41.354\" end=\"01:41.731\">last<\/span>\n        <span begin=\"01:41.731\" end=\"01:42.124\">week<\/span>\n      <\/p>\n      <p begin=\"01:42.130\" end=\"01:44.092\" ttm:agent=\"v1\">\n        <span begin=\"01:42.139\" end=\"01:42.502\">Don&apos;t<\/span>\n        <span begin=\"01:42.502\" end=\"01:42.758\">know<\/span>\n        <span begin=\"01:42.758\" end=\"01:43.011\">what<\/span>\n        <span begin=\"01:43.011\" end=\"01:43.527\">happened<\/span>\n        <span begin=\"01:43.527\" end=\"01:43.759\">to<\/span>\n        <span begin=\"01:43.759\" end=\"01:44.092\">her<\/span>\n      <\/p>\n      <p begin=\"01:44.100\" end=\"01:46.258\" ttm:agent=\"v1\">\n        <span begin=\"01:44.103\" end=\"01:44.369\">But<\/span>\n        <span begin=\"01:44.369\" end=\"01:44.564\">she<\/span>\n        <span begin=\"01:44.564\" end=\"01:44.756\">&apos;bout<\/span>\n        <span begin=\"01:44.756\" end=\"01:45.036\">to<\/span>\n        <span begin=\"01:45.036\" end=\"01:45.561\">happen<\/span>\n        <span begin=\"01:45.561\" end=\"01:45.812\">to<\/span>\n        <span begin=\"01:45.812\" end=\"01:46.258\">me<\/span>\n      <\/p>\n      <p begin=\"01:52.290\" end=\"01:54.740\" ttm:agent=\"v1\">\n        <span begin=\"01:52.295\" end=\"01:54.740\">Oh<\/span>\n      <\/p>\n      <p begin=\"01:54.840\" end=\"01:58.500\" ttm:agent=\"v1\">\n        <span begin=\"01:54.848\" end=\"01:55.222\">We<\/span>\n        <span begin=\"01:55.222\" end=\"01:55.475\">keep<\/span>\n        <span begin=\"01:55.475\" end=\"01:55.707\">on<\/span>\n        <span begin=\"01:55.707\" end=\"01:56.479\">talkin&apos;,<\/span>\n        <span begin=\"01:56.872\" end=\"01:57.030\">and<\/span>\n        <span begin=\"01:57.030\" end=\"01:57.243\">we<\/span>\n        <span begin=\"01:57.243\" end=\"01:57.478\">keep<\/span>\n        <span begin=\"01:57.478\" end=\"01:57.718\">on<\/span>\n        <span begin=\"01:57.718\" end=\"01:58.500\">drinkin&apos;<\/span>\n      <\/p>\n      <p begin=\"01:58.730\" end=\"02:02.204\" ttm:agent=\"v1\">\n        <span begin=\"01:58.735\" end=\"01:59.029\">And<\/span>\n        <span begin=\"01:59.029\" end=\"01:59.280\">I<\/span>\n        <span begin=\"01:59.280\" end=\"01:59.515\">keep<\/span>\n        <span begin=\"01:59.515\" end=\"01:59.797\">on<\/span>\n        <span begin=\"01:59.797\" end=\"02:00.664\">fallin&apos;,<\/span>\n        <span begin=\"02:00.792\" end=\"02:01.029\">and<\/span>\n        <span begin=\"02:01.029\" end=\"02:01.304\">she<\/span>\n        <span begin=\"02:01.304\" end=\"02:01.539\">keeps<\/span>\n        <span begin=\"02:01.539\" end=\"02:01.800\">on<\/span>\n        <span begin=\"02:01.800\" end=\"02:02.204\">singin&apos;<\/span>\n      <\/p>\n      <p begin=\"02:02.200\" end=\"02:05.486\" ttm:agent=\"v1\">\n        <span begin=\"02:02.204\" end=\"02:04.082\">&quot;Girls&quot;,<\/span>\n        <span begin=\"02:04.489\" end=\"02:05.486\">mmm<\/span>\n      <\/p>\n      <p begin=\"02:05.980\" end=\"02:10.215\" ttm:agent=\"v1\">\n        <span begin=\"02:05.983\" end=\"02:07.873\">&quot;Just&quot;,<\/span>\n        <span begin=\"02:08.157\" end=\"02:10.215\">mmm<\/span>\n      <\/p>\n      <p begin=\"02:09.030\" end=\"02:14.656\" ttm:agent=\"v1\">\n        <span begin=\"02:09.035\" end=\"02:10.472\">Oh,<\/span>\n        <span begin=\"02:10.472\" end=\"02:11.144\">&quot;Girls<\/span>\n        <span begin=\"02:11.216\" end=\"02:11.502\">Just<\/span>\n        <span begin=\"02:11.502\" end=\"02:12.016\">Wanna<\/span>\n        <span begin=\"02:12.016\" end=\"02:12.248\">Have<\/span>\n        <span begin=\"02:12.248\" end=\"02:12.618\">Fun&quot;<\/span>\n        <span begin=\"02:12.736\" end=\"02:13.230\">at<\/span>\n        <span begin=\"02:13.230\" end=\"02:13.520\">the<\/span>\n        <span begin=\"02:13.520\" end=\"02:13.763\">top<\/span>\n        <span begin=\"02:13.763\" end=\"02:14.030\">of<\/span>\n        <span begin=\"02:14.030\" end=\"02:14.262\">her<\/span>\n        <span begin=\"02:14.262\" end=\"02:14.656\">lungs<\/span>\n      <\/p>\n      <p begin=\"02:14.650\" end=\"02:17.966\" ttm:agent=\"v1\">\n        <span begin=\"02:14.656\" end=\"02:15.080\">Don&apos;t<\/span>\n        <span begin=\"02:15.080\" end=\"02:15.565\">even<\/span>\n        <span begin=\"02:15.565\" end=\"02:15.800\">know<\/span>\n        <span begin=\"02:15.800\" end=\"02:16.059\">she&apos;s<\/span>\n        <span begin=\"02:16.059\" end=\"02:16.299\">&apos;bout<\/span>\n        <span begin=\"02:16.299\" end=\"02:16.579\">to<\/span>\n        <span begin=\"02:16.579\" end=\"02:16.995\">wreck<\/span>\n        <span begin=\"02:16.995\" end=\"02:17.966\">someone<\/span>\n      <\/p>\n      <p begin=\"02:14.650\" end=\"02:19.452\" role=\"x-bg\">\n        <span begin=\"02:17.448\" end=\"02:18.072\">(Wreck<\/span>\n        <span begin=\"02:18.072\" end=\"02:19.452\">someone)<\/span>\n      <\/p>\n      <p begin=\"02:17.970\" end=\"02:20.708\" ttm:agent=\"v1\">\n        <span begin=\"02:17.977\" end=\"02:18.569\">And<\/span>\n        <span begin=\"02:18.569\" end=\"02:19.151\">boys,<\/span>\n        <span begin=\"02:19.329\" end=\"02:19.609\">I&apos;m<\/span>\n        <span begin=\"02:19.609\" end=\"02:19.868\">in<\/span>\n        <span begin=\"02:19.868\" end=\"02:20.358\">trouble<\/span>\n        <span begin=\"02:20.358\" end=\"02:20.708\">now<\/span>\n      <\/p>\n      <p begin=\"02:20.770\" end=\"02:22.758\" ttm:agent=\"v1\">\n        <span begin=\"02:20.777\" end=\"02:21.166\">Ain&apos;t<\/span>\n        <span begin=\"02:21.166\" end=\"02:21.644\">even<\/span>\n        <span begin=\"02:21.644\" end=\"02:21.993\">tryna<\/span>\n        <span begin=\"02:21.993\" end=\"02:22.341\">get<\/span>\n        <span begin=\"02:22.341\" end=\"02:22.758\">out<\/span>\n      <\/p>\n      <p begin=\"02:22.800\" end=\"02:26.806\" ttm:agent=\"v1\">\n        <span begin=\"02:22.802\" end=\"02:23.157\">So<\/span>\n        <span begin=\"02:23.157\" end=\"02:23.413\">come<\/span>\n        <span begin=\"02:23.413\" end=\"02:23.653\">on,<\/span>\n        <span begin=\"02:23.653\" end=\"02:24.186\">baby,<\/span>\n        <span begin=\"02:24.186\" end=\"02:24.434\">take<\/span>\n        <span begin=\"02:24.434\" end=\"02:24.698\">me<\/span>\n        <span begin=\"02:24.698\" end=\"02:25.189\">down,<\/span>\n        <span begin=\"02:25.189\" end=\"02:25.725\">down,<\/span>\n        <span begin=\"02:25.725\" end=\"02:26.237\">down,<\/span>\n        <span begin=\"02:26.237\" end=\"02:26.806\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:26.850\" end=\"02:28.822\" ttm:agent=\"v1\">\n        <span begin=\"02:26.857\" end=\"02:27.265\">Don&apos;t<\/span>\n        <span begin=\"02:27.265\" end=\"02:27.515\">know<\/span>\n        <span begin=\"02:27.515\" end=\"02:27.745\">what<\/span>\n        <span begin=\"02:27.745\" end=\"02:28.249\">happened<\/span>\n        <span begin=\"02:28.249\" end=\"02:28.822\">tonight<\/span>\n      <\/p>\n      <p begin=\"02:28.910\" end=\"02:30.911\" ttm:agent=\"v1\">\n        <span begin=\"02:28.916\" end=\"02:29.307\">Don&apos;t<\/span>\n        <span begin=\"02:29.307\" end=\"02:29.542\">know<\/span>\n        <span begin=\"02:29.542\" end=\"02:29.798\">what<\/span>\n        <span begin=\"02:29.798\" end=\"02:30.209\">happened<\/span>\n        <span begin=\"02:30.209\" end=\"02:30.531\">last<\/span>\n        <span begin=\"02:30.531\" end=\"02:30.911\">week<\/span>\n      <\/p>\n      <p begin=\"02:30.910\" end=\"02:32.890\" ttm:agent=\"v1\">\n        <span begin=\"02:30.911\" end=\"02:31.326\">Don&apos;t<\/span>\n        <span begin=\"02:31.326\" end=\"02:31.558\">know<\/span>\n        <span begin=\"02:31.558\" end=\"02:31.808\">what<\/span>\n        <span begin=\"02:31.808\" end=\"02:32.317\">happened<\/span>\n        <span begin=\"02:32.317\" end=\"02:32.547\">to<\/span>\n        <span begin=\"02:32.547\" end=\"02:32.890\">her<\/span>\n      <\/p>\n      <p begin=\"02:32.910\" end=\"02:35.010\" ttm:agent=\"v1\">\n        <span begin=\"02:32.916\" end=\"02:33.120\">But<\/span>\n        <span begin=\"02:33.120\" end=\"02:33.365\">she<\/span>\n        <span begin=\"02:33.365\" end=\"02:33.627\">&apos;bout<\/span>\n        <span begin=\"02:33.627\" end=\"02:33.896\">to<\/span>\n        <span begin=\"02:33.896\" end=\"02:34.411\">happen<\/span>\n        <span begin=\"02:34.411\" end=\"02:34.651\">to<\/span>\n        <span begin=\"02:34.651\" end=\"02:35.010\">me<\/span>\n      <\/p>\n      <p begin=\"02:35.010\" end=\"02:36.413\" ttm:agent=\"v1\">\n        <span begin=\"02:35.010\" end=\"02:35.392\">She<\/span>\n        <span begin=\"02:35.392\" end=\"02:35.658\">&apos;bout<\/span>\n        <span begin=\"02:35.658\" end=\"02:35.890\">to<\/span>\n        <span begin=\"02:35.890\" end=\"02:36.413\">happen<\/span>\n      <\/p>\n      <p begin=\"02:37.060\" end=\"02:38.464\" ttm:agent=\"v1\">\n        <span begin=\"02:37.064\" end=\"02:37.421\">She<\/span>\n        <span begin=\"02:37.421\" end=\"02:37.671\">&apos;bout<\/span>\n        <span begin=\"02:37.671\" end=\"02:37.909\">to<\/span>\n        <span begin=\"02:37.909\" end=\"02:38.464\">happen<\/span>\n      <\/p>\n      <p begin=\"02:39.080\" end=\"02:42.949\" ttm:agent=\"v1\">\n        <span begin=\"02:39.083\" end=\"02:39.454\">She<\/span>\n        <span begin=\"02:39.454\" end=\"02:39.716\">&apos;bout<\/span>\n        <span begin=\"02:39.716\" end=\"02:40.086\">to,<\/span>\n        <span begin=\"02:40.183\" end=\"02:40.444\">she<\/span>\n        <span begin=\"02:40.444\" end=\"02:40.695\">&apos;bout<\/span>\n        <span begin=\"02:40.695\" end=\"02:41.075\">to,<\/span>\n        <span begin=\"02:41.218\" end=\"02:41.447\">she<\/span>\n        <span begin=\"02:41.447\" end=\"02:41.706\">&apos;bout<\/span>\n        <span begin=\"02:41.706\" end=\"02:42.136\">to,<\/span>\n        <span begin=\"02:42.234\" end=\"02:42.484\">she<\/span>\n        <span begin=\"02:42.484\" end=\"02:42.722\">&apos;bout<\/span>\n        <span begin=\"02:42.722\" end=\"02:42.949\">to—<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 8510,
+      "endTime": 12032,
+      "text": "I don't know who broke up with who",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 8516,
+          "endTime": 8921,
+          "word": "I"
+        },
+        {
+          "startTime": 8921,
+          "endTime": 9191,
+          "word": "don't"
+        },
+        {
+          "startTime": 9191,
+          "endTime": 9441,
+          "word": "know"
+        },
+        {
+          "startTime": 9441,
+          "endTime": 9972,
+          "word": "who"
+        },
+        {
+          "startTime": 9972,
+          "endTime": 10207,
+          "word": "broke"
+        },
+        {
+          "startTime": 10207,
+          "endTime": 10479,
+          "word": "up"
+        },
+        {
+          "startTime": 10479,
+          "endTime": 10729,
+          "word": "with"
+        },
+        {
+          "startTime": 10729,
+          "endTime": 12032,
+          "word": "who"
+        }
+      ]
+    },
+    {
+      "time": 12510,
+      "endTime": 16187,
+      "text": "But she's in here chasing tequila with High Noon",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 12511,
+          "endTime": 12772,
+          "word": "But"
+        },
+        {
+          "startTime": 12772,
+          "endTime": 13025,
+          "word": "she's"
+        },
+        {
+          "startTime": 13025,
+          "endTime": 13271,
+          "word": "in"
+        },
+        {
+          "startTime": 13271,
+          "endTime": 13532,
+          "word": "here"
+        },
+        {
+          "startTime": 13532,
+          "endTime": 14052,
+          "word": "chasing"
+        },
+        {
+          "startTime": 14052,
+          "endTime": 14783,
+          "word": "tequila"
+        },
+        {
+          "startTime": 14783,
+          "endTime": 15060,
+          "word": "with"
+        },
+        {
+          "startTime": 15060,
+          "endTime": 15791,
+          "word": "High"
+        },
+        {
+          "startTime": 15791,
+          "endTime": 16187,
+          "word": "Noon"
+        }
+      ]
+    },
+    {
+      "time": 16670,
+      "endTime": 19758,
+      "text": "Don't know how long she's been moving on",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 16676,
+          "endTime": 17085,
+          "word": "Don't"
+        },
+        {
+          "startTime": 17085,
+          "endTime": 17341,
+          "word": "know"
+        },
+        {
+          "startTime": 17341,
+          "endTime": 17570,
+          "word": "how"
+        },
+        {
+          "startTime": 17570,
+          "endTime": 17845,
+          "word": "long"
+        },
+        {
+          "startTime": 17845,
+          "endTime": 18098,
+          "word": "she's"
+        },
+        {
+          "startTime": 18098,
+          "endTime": 18349,
+          "word": "been"
+        },
+        {
+          "startTime": 18349,
+          "endTime": 18858,
+          "word": "moving"
+        },
+        {
+          "startTime": 18858,
+          "endTime": 19758,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 19930,
+      "endTime": 24753,
+      "text": "Maybe five weeks or five minutes, but it can't be too long",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19935,
+          "endTime": 20415,
+          "word": "Maybe"
+        },
+        {
+          "startTime": 20415,
+          "endTime": 20929,
+          "word": "five"
+        },
+        {
+          "startTime": 20929,
+          "endTime": 21327,
+          "word": "weeks"
+        },
+        {
+          "startTime": 21327,
+          "endTime": 21463,
+          "word": "or"
+        },
+        {
+          "startTime": 21463,
+          "endTime": 21892,
+          "word": "five"
+        },
+        {
+          "startTime": 21892,
+          "endTime": 22339,
+          "word": "minutes,"
+        },
+        {
+          "startTime": 22388,
+          "endTime": 22516,
+          "word": "but"
+        },
+        {
+          "startTime": 22516,
+          "endTime": 22679,
+          "word": "it"
+        },
+        {
+          "startTime": 22679,
+          "endTime": 22929,
+          "word": "can't"
+        },
+        {
+          "startTime": 22929,
+          "endTime": 23191,
+          "word": "be"
+        },
+        {
+          "startTime": 23191,
+          "endTime": 23783,
+          "word": "too"
+        },
+        {
+          "startTime": 23783,
+          "endTime": 24753,
+          "word": "long"
+        }
+      ]
+    },
+    {
+      "time": 25190,
+      "endTime": 27359,
+      "text": "And we did that \"What's your name?\" thing",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 25197,
+          "endTime": 25504,
+          "word": "And"
+        },
+        {
+          "startTime": 25504,
+          "endTime": 25722,
+          "word": "we"
+        },
+        {
+          "startTime": 25722,
+          "endTime": 25960,
+          "word": "did"
+        },
+        {
+          "startTime": 25960,
+          "endTime": 26237,
+          "word": "that"
+        },
+        {
+          "startTime": 26237,
+          "endTime": 26472,
+          "word": "\"What's"
+        },
+        {
+          "startTime": 26472,
+          "endTime": 26618,
+          "word": "your"
+        },
+        {
+          "startTime": 26618,
+          "endTime": 26944,
+          "word": "name?\""
+        },
+        {
+          "startTime": 26944,
+          "endTime": 27359,
+          "word": "thing"
+        }
+      ]
+    },
+    {
+      "time": 27350,
+      "endTime": 29286,
+      "text": "\"Where you from?\" and \"What's your favorite drink?\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 27359,
+          "endTime": 27650,
+          "word": "\"Where"
+        },
+        {
+          "startTime": 27650,
+          "endTime": 27834,
+          "word": "you"
+        },
+        {
+          "startTime": 27834,
+          "endTime": 28018,
+          "word": "from?\""
+        },
+        {
+          "startTime": 28018,
+          "endTime": 28164,
+          "word": "and"
+        },
+        {
+          "startTime": 28164,
+          "endTime": 28418,
+          "word": "\"What's"
+        },
+        {
+          "startTime": 28418,
+          "endTime": 28575,
+          "word": "your"
+        },
+        {
+          "startTime": 28575,
+          "endTime": 29036,
+          "word": "favorite"
+        },
+        {
+          "startTime": 29036,
+          "endTime": 29286,
+          "word": "drink?\""
+        }
+      ]
+    },
+    {
+      "time": 29280,
+      "endTime": 31397,
+      "text": "She said, \"Shut up, come and dance with me\"",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 29286,
+          "endTime": 29537,
+          "word": "She"
+        },
+        {
+          "startTime": 29537,
+          "endTime": 29699,
+          "word": "said,"
+        },
+        {
+          "startTime": 29699,
+          "endTime": 29927,
+          "word": "\"Shut"
+        },
+        {
+          "startTime": 29927,
+          "endTime": 30161,
+          "word": "up,"
+        },
+        {
+          "startTime": 30161,
+          "endTime": 30364,
+          "word": "come"
+        },
+        {
+          "startTime": 30364,
+          "endTime": 30572,
+          "word": "and"
+        },
+        {
+          "startTime": 30572,
+          "endTime": 30833,
+          "word": "dance"
+        },
+        {
+          "startTime": 30833,
+          "endTime": 30996,
+          "word": "with"
+        },
+        {
+          "startTime": 30996,
+          "endTime": 31397,
+          "word": "me\""
+        }
+      ]
+    },
+    {
+      "time": 31400,
+      "endTime": 32812,
+      "text": "And now she's singin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 31407,
+          "endTime": 31714,
+          "word": "And"
+        },
+        {
+          "startTime": 31714,
+          "endTime": 31999,
+          "word": "now"
+        },
+        {
+          "startTime": 31999,
+          "endTime": 32299,
+          "word": "she's"
+        },
+        {
+          "startTime": 32299,
+          "endTime": 32812,
+          "word": "singin'"
+        }
+      ]
+    },
+    {
+      "time": 32810,
+      "endTime": 37029,
+      "text": "\"Girls Just Wanna Have Fun\" at the top of her lungs",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32812,
+          "endTime": 33497,
+          "word": "\"Girls"
+        },
+        {
+          "startTime": 33617,
+          "endTime": 33870,
+          "word": "Just"
+        },
+        {
+          "startTime": 33870,
+          "endTime": 34366,
+          "word": "Wanna"
+        },
+        {
+          "startTime": 34366,
+          "endTime": 34596,
+          "word": "Have"
+        },
+        {
+          "startTime": 34596,
+          "endTime": 35063,
+          "word": "Fun\""
+        },
+        {
+          "startTime": 35115,
+          "endTime": 35587,
+          "word": "at"
+        },
+        {
+          "startTime": 35587,
+          "endTime": 35883,
+          "word": "the"
+        },
+        {
+          "startTime": 35883,
+          "endTime": 36153,
+          "word": "top"
+        },
+        {
+          "startTime": 36153,
+          "endTime": 36406,
+          "word": "of"
+        },
+        {
+          "startTime": 36406,
+          "endTime": 36670,
+          "word": "her"
+        },
+        {
+          "startTime": 36670,
+          "endTime": 37029,
+          "word": "lungs"
+        }
+      ]
+    },
+    {
+      "time": 37020,
+      "endTime": 40445,
+      "text": "Don't even know she's 'bout to wreck someone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37029,
+          "endTime": 37418,
+          "word": "Don't"
+        },
+        {
+          "startTime": 37418,
+          "endTime": 37957,
+          "word": "even"
+        },
+        {
+          "startTime": 37957,
+          "endTime": 38215,
+          "word": "know"
+        },
+        {
+          "startTime": 38215,
+          "endTime": 38471,
+          "word": "she's"
+        },
+        {
+          "startTime": 38471,
+          "endTime": 38730,
+          "word": "'bout"
+        },
+        {
+          "startTime": 38730,
+          "endTime": 38965,
+          "word": "to"
+        },
+        {
+          "startTime": 38965,
+          "endTime": 39476,
+          "word": "wreck"
+        },
+        {
+          "startTime": 39476,
+          "endTime": 40445,
+          "word": "someone"
+        }
+      ]
+    },
+    {
+      "time": 40440,
+      "endTime": 43063,
+      "text": "And boys, I'm in trouble now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40445,
+          "endTime": 41007,
+          "word": "And"
+        },
+        {
+          "startTime": 41007,
+          "endTime": 41624,
+          "word": "boys,"
+        },
+        {
+          "startTime": 41732,
+          "endTime": 42026,
+          "word": "I'm"
+        },
+        {
+          "startTime": 42026,
+          "endTime": 42279,
+          "word": "in"
+        },
+        {
+          "startTime": 42279,
+          "endTime": 42772,
+          "word": "trouble"
+        },
+        {
+          "startTime": 42772,
+          "endTime": 43063,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 43140,
+      "endTime": 45143,
+      "text": "Ain't even tryna get out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43148,
+          "endTime": 43505,
+          "word": "Ain't"
+        },
+        {
+          "startTime": 43505,
+          "endTime": 44027,
+          "word": "even"
+        },
+        {
+          "startTime": 44027,
+          "endTime": 44379,
+          "word": "tryna"
+        },
+        {
+          "startTime": 44379,
+          "endTime": 44739,
+          "word": "get"
+        },
+        {
+          "startTime": 44739,
+          "endTime": 45143,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 45140,
+      "endTime": 49159,
+      "text": "So come on, baby, take me down, down, down, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45143,
+          "endTime": 45553,
+          "word": "So"
+        },
+        {
+          "startTime": 45553,
+          "endTime": 45812,
+          "word": "come"
+        },
+        {
+          "startTime": 45812,
+          "endTime": 46073,
+          "word": "on,"
+        },
+        {
+          "startTime": 46073,
+          "endTime": 46601,
+          "word": "baby,"
+        },
+        {
+          "startTime": 46601,
+          "endTime": 46865,
+          "word": "take"
+        },
+        {
+          "startTime": 46865,
+          "endTime": 47097,
+          "word": "me"
+        },
+        {
+          "startTime": 47097,
+          "endTime": 47647,
+          "word": "down,"
+        },
+        {
+          "startTime": 47647,
+          "endTime": 48084,
+          "word": "down,"
+        },
+        {
+          "startTime": 48084,
+          "endTime": 48615,
+          "word": "down,"
+        },
+        {
+          "startTime": 48615,
+          "endTime": 49159,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 49240,
+      "endTime": 51199,
+      "text": "Don't know what happened tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49247,
+          "endTime": 49611,
+          "word": "Don't"
+        },
+        {
+          "startTime": 49611,
+          "endTime": 49872,
+          "word": "know"
+        },
+        {
+          "startTime": 49872,
+          "endTime": 50118,
+          "word": "what"
+        },
+        {
+          "startTime": 50118,
+          "endTime": 50611,
+          "word": "happened"
+        },
+        {
+          "startTime": 50611,
+          "endTime": 51199,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 51270,
+      "endTime": 53322,
+      "text": "Don't know what happened last week",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51275,
+          "endTime": 51640,
+          "word": "Don't"
+        },
+        {
+          "startTime": 51640,
+          "endTime": 51909,
+          "word": "know"
+        },
+        {
+          "startTime": 51909,
+          "endTime": 52171,
+          "word": "what"
+        },
+        {
+          "startTime": 52171,
+          "endTime": 52544,
+          "word": "happened"
+        },
+        {
+          "startTime": 52544,
+          "endTime": 52901,
+          "word": "last"
+        },
+        {
+          "startTime": 52901,
+          "endTime": 53322,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 53320,
+      "endTime": 55178,
+      "text": "Don't know what happened to her",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53322,
+          "endTime": 53661,
+          "word": "Don't"
+        },
+        {
+          "startTime": 53661,
+          "endTime": 53896,
+          "word": "know"
+        },
+        {
+          "startTime": 53896,
+          "endTime": 54160,
+          "word": "what"
+        },
+        {
+          "startTime": 54160,
+          "endTime": 54680,
+          "word": "happened"
+        },
+        {
+          "startTime": 54680,
+          "endTime": 54893,
+          "word": "to"
+        },
+        {
+          "startTime": 54893,
+          "endTime": 55178,
+          "word": "her"
+        }
+      ]
+    },
+    {
+      "time": 55290,
+      "endTime": 57423,
+      "text": "But she 'bout to happen to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 55290,
+          "endTime": 55520,
+          "word": "But"
+        },
+        {
+          "startTime": 55520,
+          "endTime": 55739,
+          "word": "she"
+        },
+        {
+          "startTime": 55739,
+          "endTime": 55968,
+          "word": "'bout"
+        },
+        {
+          "startTime": 55968,
+          "endTime": 56243,
+          "word": "to"
+        },
+        {
+          "startTime": 56243,
+          "endTime": 56768,
+          "word": "happen"
+        },
+        {
+          "startTime": 56768,
+          "endTime": 57008,
+          "word": "to"
+        },
+        {
+          "startTime": 57008,
+          "endTime": 57423,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 59410,
+      "endTime": 61917,
+      "text": "She 'bout to happen to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59418,
+          "endTime": 59776,
+          "word": "She"
+        },
+        {
+          "startTime": 59776,
+          "endTime": 60045,
+          "word": "'bout"
+        },
+        {
+          "startTime": 60045,
+          "endTime": 60296,
+          "word": "to"
+        },
+        {
+          "startTime": 60296,
+          "endTime": 60829,
+          "word": "happen"
+        },
+        {
+          "startTime": 60829,
+          "endTime": 61080,
+          "word": "to"
+        },
+        {
+          "startTime": 61080,
+          "endTime": 61917,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 65400,
+      "endTime": 68860,
+      "text": "She'll probably be the one that got away",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65404,
+          "endTime": 65844,
+          "word": "She'll"
+        },
+        {
+          "startTime": 65844,
+          "endTime": 66401,
+          "word": "probably"
+        },
+        {
+          "startTime": 66401,
+          "endTime": 66646,
+          "word": "be"
+        },
+        {
+          "startTime": 66646,
+          "endTime": 66788,
+          "word": "the"
+        },
+        {
+          "startTime": 66788,
+          "endTime": 67132,
+          "word": "one"
+        },
+        {
+          "startTime": 67132,
+          "endTime": 67406,
+          "word": "that"
+        },
+        {
+          "startTime": 67406,
+          "endTime": 67654,
+          "word": "got"
+        },
+        {
+          "startTime": 67654,
+          "endTime": 68860,
+          "word": "away"
+        }
+      ]
+    },
+    {
+      "time": 69530,
+      "endTime": 74146,
+      "text": "But right now, I'm taking every second I can take",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69531,
+          "endTime": 69720,
+          "word": "But"
+        },
+        {
+          "startTime": 69720,
+          "endTime": 69982,
+          "word": "right"
+        },
+        {
+          "startTime": 69982,
+          "endTime": 70216,
+          "word": "now,"
+        },
+        {
+          "startTime": 70216,
+          "endTime": 70472,
+          "word": "I'm"
+        },
+        {
+          "startTime": 70472,
+          "endTime": 70987,
+          "word": "taking"
+        },
+        {
+          "startTime": 70987,
+          "endTime": 71475,
+          "word": "every"
+        },
+        {
+          "startTime": 71475,
+          "endTime": 71995,
+          "word": "second"
+        },
+        {
+          "startTime": 71995,
+          "endTime": 72936,
+          "word": "I"
+        },
+        {
+          "startTime": 72936,
+          "endTime": 73235,
+          "word": "can"
+        },
+        {
+          "startTime": 73235,
+          "endTime": 74146,
+          "word": "take"
+        }
+      ]
+    },
+    {
+      "time": 74140,
+      "endTime": 77813,
+      "text": "So we keep talkin', and we keep drinkin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 74146,
+          "endTime": 74503,
+          "word": "So"
+        },
+        {
+          "startTime": 74503,
+          "endTime": 74767,
+          "word": "we"
+        },
+        {
+          "startTime": 74767,
+          "endTime": 75028,
+          "word": "keep"
+        },
+        {
+          "startTime": 75028,
+          "endTime": 75971,
+          "word": "talkin',"
+        },
+        {
+          "startTime": 76249,
+          "endTime": 76567,
+          "word": "and"
+        },
+        {
+          "startTime": 76567,
+          "endTime": 76815,
+          "word": "we"
+        },
+        {
+          "startTime": 76815,
+          "endTime": 77049,
+          "word": "keep"
+        },
+        {
+          "startTime": 77049,
+          "endTime": 77813,
+          "word": "drinkin'"
+        }
+      ]
+    },
+    {
+      "time": 78250,
+      "endTime": 81551,
+      "text": "Oh, and I keep fallin', and she keeps on singin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 78258,
+          "endTime": 78511,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 78511,
+          "endTime": 78669,
+          "word": "and"
+        },
+        {
+          "startTime": 78669,
+          "endTime": 78863,
+          "word": "I"
+        },
+        {
+          "startTime": 78863,
+          "endTime": 79111,
+          "word": "keep"
+        },
+        {
+          "startTime": 79111,
+          "endTime": 79853,
+          "word": "fallin',"
+        },
+        {
+          "startTime": 80053,
+          "endTime": 80349,
+          "word": "and"
+        },
+        {
+          "startTime": 80349,
+          "endTime": 80634,
+          "word": "she"
+        },
+        {
+          "startTime": 80634,
+          "endTime": 80890,
+          "word": "keeps"
+        },
+        {
+          "startTime": 80890,
+          "endTime": 81154,
+          "word": "on"
+        },
+        {
+          "startTime": 81154,
+          "endTime": 81551,
+          "word": "singin'"
+        }
+      ]
+    },
+    {
+      "time": 81550,
+      "endTime": 85880,
+      "text": "\"Girls Just Wanna Have Fun\" at the top of her lungs",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81551,
+          "endTime": 82340,
+          "word": "\"Girls"
+        },
+        {
+          "startTime": 82406,
+          "endTime": 82662,
+          "word": "Just"
+        },
+        {
+          "startTime": 82662,
+          "endTime": 83193,
+          "word": "Wanna"
+        },
+        {
+          "startTime": 83193,
+          "endTime": 83441,
+          "word": "Have"
+        },
+        {
+          "startTime": 83441,
+          "endTime": 83826,
+          "word": "Fun\""
+        },
+        {
+          "startTime": 83940,
+          "endTime": 84465,
+          "word": "at"
+        },
+        {
+          "startTime": 84465,
+          "endTime": 84716,
+          "word": "the"
+        },
+        {
+          "startTime": 84716,
+          "endTime": 84969,
+          "word": "top"
+        },
+        {
+          "startTime": 84969,
+          "endTime": 85225,
+          "word": "of"
+        },
+        {
+          "startTime": 85225,
+          "endTime": 85473,
+          "word": "her"
+        },
+        {
+          "startTime": 85473,
+          "endTime": 85880,
+          "word": "lungs"
+        }
+      ]
+    },
+    {
+      "time": 85910,
+      "endTime": 89270,
+      "text": "Don't even know she's 'bout to wreck someone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85914,
+          "endTime": 86235,
+          "word": "Don't"
+        },
+        {
+          "startTime": 86235,
+          "endTime": 86726,
+          "word": "even"
+        },
+        {
+          "startTime": 86726,
+          "endTime": 87003,
+          "word": "know"
+        },
+        {
+          "startTime": 87003,
+          "endTime": 87257,
+          "word": "she's"
+        },
+        {
+          "startTime": 87257,
+          "endTime": 87486,
+          "word": "'bout"
+        },
+        {
+          "startTime": 87486,
+          "endTime": 87745,
+          "word": "to"
+        },
+        {
+          "startTime": 87745,
+          "endTime": 88227,
+          "word": "wreck"
+        },
+        {
+          "startTime": 88227,
+          "endTime": 89270,
+          "word": "someone"
+        }
+      ]
+    },
+    {
+      "time": 89270,
+      "endTime": 91942,
+      "text": "And boys, I'm in trouble now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89270,
+          "endTime": 89824,
+          "word": "And"
+        },
+        {
+          "startTime": 89824,
+          "endTime": 90435,
+          "word": "boys,"
+        },
+        {
+          "startTime": 90526,
+          "endTime": 90798,
+          "word": "I'm"
+        },
+        {
+          "startTime": 90798,
+          "endTime": 91078,
+          "word": "in"
+        },
+        {
+          "startTime": 91078,
+          "endTime": 91539,
+          "word": "trouble"
+        },
+        {
+          "startTime": 91539,
+          "endTime": 91942,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 91940,
+      "endTime": 93937,
+      "text": "Ain't even tryna get out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91942,
+          "endTime": 92358,
+          "word": "Ain't"
+        },
+        {
+          "startTime": 92358,
+          "endTime": 92846,
+          "word": "even"
+        },
+        {
+          "startTime": 92846,
+          "endTime": 93206,
+          "word": "tryna"
+        },
+        {
+          "startTime": 93206,
+          "endTime": 93563,
+          "word": "get"
+        },
+        {
+          "startTime": 93563,
+          "endTime": 93937,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 93940,
+      "endTime": 98025,
+      "text": "So come on, baby, take me down, down, down, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93942,
+          "endTime": 94149,
+          "word": "So"
+        },
+        {
+          "startTime": 94149,
+          "endTime": 94616,
+          "word": "come"
+        },
+        {
+          "startTime": 94616,
+          "endTime": 94870,
+          "word": "on,"
+        },
+        {
+          "startTime": 94870,
+          "endTime": 95393,
+          "word": "baby,"
+        },
+        {
+          "startTime": 95393,
+          "endTime": 95654,
+          "word": "take"
+        },
+        {
+          "startTime": 95654,
+          "endTime": 95910,
+          "word": "me"
+        },
+        {
+          "startTime": 95910,
+          "endTime": 96363,
+          "word": "down,"
+        },
+        {
+          "startTime": 96363,
+          "endTime": 96881,
+          "word": "down,"
+        },
+        {
+          "startTime": 96881,
+          "endTime": 97360,
+          "word": "down,"
+        },
+        {
+          "startTime": 97360,
+          "endTime": 98025,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 98040,
+      "endTime": 100033,
+      "text": "Don't know what happened tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98047,
+          "endTime": 98271,
+          "word": "Don't"
+        },
+        {
+          "startTime": 98271,
+          "endTime": 98527,
+          "word": "know"
+        },
+        {
+          "startTime": 98527,
+          "endTime": 98794,
+          "word": "what"
+        },
+        {
+          "startTime": 98794,
+          "endTime": 99428,
+          "word": "happened"
+        },
+        {
+          "startTime": 99428,
+          "endTime": 100033,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 100100,
+      "endTime": 102124,
+      "text": "Don't know what happened last week",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 100108,
+          "endTime": 100364,
+          "word": "Don't"
+        },
+        {
+          "startTime": 100364,
+          "endTime": 100604,
+          "word": "know"
+        },
+        {
+          "startTime": 100604,
+          "endTime": 100871,
+          "word": "what"
+        },
+        {
+          "startTime": 100871,
+          "endTime": 101354,
+          "word": "happened"
+        },
+        {
+          "startTime": 101354,
+          "endTime": 101731,
+          "word": "last"
+        },
+        {
+          "startTime": 101731,
+          "endTime": 102124,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 102130,
+      "endTime": 104092,
+      "text": "Don't know what happened to her",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 102139,
+          "endTime": 102502,
+          "word": "Don't"
+        },
+        {
+          "startTime": 102502,
+          "endTime": 102758,
+          "word": "know"
+        },
+        {
+          "startTime": 102758,
+          "endTime": 103011,
+          "word": "what"
+        },
+        {
+          "startTime": 103011,
+          "endTime": 103527,
+          "word": "happened"
+        },
+        {
+          "startTime": 103527,
+          "endTime": 103759,
+          "word": "to"
+        },
+        {
+          "startTime": 103759,
+          "endTime": 104092,
+          "word": "her"
+        }
+      ]
+    },
+    {
+      "time": 104100,
+      "endTime": 106258,
+      "text": "But she 'bout to happen to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104103,
+          "endTime": 104369,
+          "word": "But"
+        },
+        {
+          "startTime": 104369,
+          "endTime": 104564,
+          "word": "she"
+        },
+        {
+          "startTime": 104564,
+          "endTime": 104756,
+          "word": "'bout"
+        },
+        {
+          "startTime": 104756,
+          "endTime": 105036,
+          "word": "to"
+        },
+        {
+          "startTime": 105036,
+          "endTime": 105561,
+          "word": "happen"
+        },
+        {
+          "startTime": 105561,
+          "endTime": 105812,
+          "word": "to"
+        },
+        {
+          "startTime": 105812,
+          "endTime": 106258,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 112290,
+      "endTime": 114740,
+      "text": "Oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112295,
+          "endTime": 114740,
+          "word": "Oh"
+        }
+      ]
+    },
+    {
+      "time": 114840,
+      "endTime": 118500,
+      "text": "We keep on talkin', and we keep on drinkin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 114848,
+          "endTime": 115222,
+          "word": "We"
+        },
+        {
+          "startTime": 115222,
+          "endTime": 115475,
+          "word": "keep"
+        },
+        {
+          "startTime": 115475,
+          "endTime": 115707,
+          "word": "on"
+        },
+        {
+          "startTime": 115707,
+          "endTime": 116479,
+          "word": "talkin',"
+        },
+        {
+          "startTime": 116872,
+          "endTime": 117030,
+          "word": "and"
+        },
+        {
+          "startTime": 117030,
+          "endTime": 117243,
+          "word": "we"
+        },
+        {
+          "startTime": 117243,
+          "endTime": 117478,
+          "word": "keep"
+        },
+        {
+          "startTime": 117478,
+          "endTime": 117718,
+          "word": "on"
+        },
+        {
+          "startTime": 117718,
+          "endTime": 118500,
+          "word": "drinkin'"
+        }
+      ]
+    },
+    {
+      "time": 118730,
+      "endTime": 122204,
+      "text": "And I keep on fallin', and she keeps on singin'",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118735,
+          "endTime": 119029,
+          "word": "And"
+        },
+        {
+          "startTime": 119029,
+          "endTime": 119280,
+          "word": "I"
+        },
+        {
+          "startTime": 119280,
+          "endTime": 119515,
+          "word": "keep"
+        },
+        {
+          "startTime": 119515,
+          "endTime": 119797,
+          "word": "on"
+        },
+        {
+          "startTime": 119797,
+          "endTime": 120664,
+          "word": "fallin',"
+        },
+        {
+          "startTime": 120792,
+          "endTime": 121029,
+          "word": "and"
+        },
+        {
+          "startTime": 121029,
+          "endTime": 121304,
+          "word": "she"
+        },
+        {
+          "startTime": 121304,
+          "endTime": 121539,
+          "word": "keeps"
+        },
+        {
+          "startTime": 121539,
+          "endTime": 121800,
+          "word": "on"
+        },
+        {
+          "startTime": 121800,
+          "endTime": 122204,
+          "word": "singin'"
+        }
+      ]
+    },
+    {
+      "time": 122200,
+      "endTime": 125486,
+      "text": "\"Girls\", mmm",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 122204,
+          "endTime": 124082,
+          "word": "\"Girls\","
+        },
+        {
+          "startTime": 124489,
+          "endTime": 125486,
+          "word": "mmm"
+        }
+      ]
+    },
+    {
+      "time": 125980,
+      "endTime": 130215,
+      "text": "\"Just\", mmm",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 125983,
+          "endTime": 127873,
+          "word": "\"Just\","
+        },
+        {
+          "startTime": 128157,
+          "endTime": 130215,
+          "word": "mmm"
+        }
+      ]
+    },
+    {
+      "time": 129030,
+      "endTime": 134656,
+      "text": "Oh, \"Girls Just Wanna Have Fun\" at the top of her lungs",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 129035,
+          "endTime": 130472,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 130472,
+          "endTime": 131144,
+          "word": "\"Girls"
+        },
+        {
+          "startTime": 131216,
+          "endTime": 131502,
+          "word": "Just"
+        },
+        {
+          "startTime": 131502,
+          "endTime": 132016,
+          "word": "Wanna"
+        },
+        {
+          "startTime": 132016,
+          "endTime": 132248,
+          "word": "Have"
+        },
+        {
+          "startTime": 132248,
+          "endTime": 132618,
+          "word": "Fun\""
+        },
+        {
+          "startTime": 132736,
+          "endTime": 133230,
+          "word": "at"
+        },
+        {
+          "startTime": 133230,
+          "endTime": 133520,
+          "word": "the"
+        },
+        {
+          "startTime": 133520,
+          "endTime": 133763,
+          "word": "top"
+        },
+        {
+          "startTime": 133763,
+          "endTime": 134030,
+          "word": "of"
+        },
+        {
+          "startTime": 134030,
+          "endTime": 134262,
+          "word": "her"
+        },
+        {
+          "startTime": 134262,
+          "endTime": 134656,
+          "word": "lungs"
+        }
+      ]
+    },
+    {
+      "time": 134650,
+      "endTime": 137966,
+      "text": "Don't even know she's 'bout to wreck someone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 134656,
+          "endTime": 135080,
+          "word": "Don't"
+        },
+        {
+          "startTime": 135080,
+          "endTime": 135565,
+          "word": "even"
+        },
+        {
+          "startTime": 135565,
+          "endTime": 135800,
+          "word": "know"
+        },
+        {
+          "startTime": 135800,
+          "endTime": 136059,
+          "word": "she's"
+        },
+        {
+          "startTime": 136059,
+          "endTime": 136299,
+          "word": "'bout"
+        },
+        {
+          "startTime": 136299,
+          "endTime": 136579,
+          "word": "to"
+        },
+        {
+          "startTime": 136579,
+          "endTime": 136995,
+          "word": "wreck"
+        },
+        {
+          "startTime": 136995,
+          "endTime": 137966,
+          "word": "someone"
+        }
+      ]
+    },
+    {
+      "time": 134650,
+      "endTime": 139452,
+      "text": "(Wreck someone)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 137448,
+          "endTime": 138072,
+          "word": "(Wreck"
+        },
+        {
+          "startTime": 138072,
+          "endTime": 139452,
+          "word": "someone)"
+        }
+      ]
+    },
+    {
+      "time": 137970,
+      "endTime": 140708,
+      "text": "And boys, I'm in trouble now",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137977,
+          "endTime": 138569,
+          "word": "And"
+        },
+        {
+          "startTime": 138569,
+          "endTime": 139151,
+          "word": "boys,"
+        },
+        {
+          "startTime": 139329,
+          "endTime": 139609,
+          "word": "I'm"
+        },
+        {
+          "startTime": 139609,
+          "endTime": 139868,
+          "word": "in"
+        },
+        {
+          "startTime": 139868,
+          "endTime": 140358,
+          "word": "trouble"
+        },
+        {
+          "startTime": 140358,
+          "endTime": 140708,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 140770,
+      "endTime": 142758,
+      "text": "Ain't even tryna get out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140777,
+          "endTime": 141166,
+          "word": "Ain't"
+        },
+        {
+          "startTime": 141166,
+          "endTime": 141644,
+          "word": "even"
+        },
+        {
+          "startTime": 141644,
+          "endTime": 141993,
+          "word": "tryna"
+        },
+        {
+          "startTime": 141993,
+          "endTime": 142341,
+          "word": "get"
+        },
+        {
+          "startTime": 142341,
+          "endTime": 142758,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 142800,
+      "endTime": 146806,
+      "text": "So come on, baby, take me down, down, down, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142802,
+          "endTime": 143157,
+          "word": "So"
+        },
+        {
+          "startTime": 143157,
+          "endTime": 143413,
+          "word": "come"
+        },
+        {
+          "startTime": 143413,
+          "endTime": 143653,
+          "word": "on,"
+        },
+        {
+          "startTime": 143653,
+          "endTime": 144186,
+          "word": "baby,"
+        },
+        {
+          "startTime": 144186,
+          "endTime": 144434,
+          "word": "take"
+        },
+        {
+          "startTime": 144434,
+          "endTime": 144698,
+          "word": "me"
+        },
+        {
+          "startTime": 144698,
+          "endTime": 145189,
+          "word": "down,"
+        },
+        {
+          "startTime": 145189,
+          "endTime": 145725,
+          "word": "down,"
+        },
+        {
+          "startTime": 145725,
+          "endTime": 146237,
+          "word": "down,"
+        },
+        {
+          "startTime": 146237,
+          "endTime": 146806,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 146850,
+      "endTime": 148822,
+      "text": "Don't know what happened tonight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146857,
+          "endTime": 147265,
+          "word": "Don't"
+        },
+        {
+          "startTime": 147265,
+          "endTime": 147515,
+          "word": "know"
+        },
+        {
+          "startTime": 147515,
+          "endTime": 147745,
+          "word": "what"
+        },
+        {
+          "startTime": 147745,
+          "endTime": 148249,
+          "word": "happened"
+        },
+        {
+          "startTime": 148249,
+          "endTime": 148822,
+          "word": "tonight"
+        }
+      ]
+    },
+    {
+      "time": 148910,
+      "endTime": 150911,
+      "text": "Don't know what happened last week",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 148916,
+          "endTime": 149307,
+          "word": "Don't"
+        },
+        {
+          "startTime": 149307,
+          "endTime": 149542,
+          "word": "know"
+        },
+        {
+          "startTime": 149542,
+          "endTime": 149798,
+          "word": "what"
+        },
+        {
+          "startTime": 149798,
+          "endTime": 150209,
+          "word": "happened"
+        },
+        {
+          "startTime": 150209,
+          "endTime": 150531,
+          "word": "last"
+        },
+        {
+          "startTime": 150531,
+          "endTime": 150911,
+          "word": "week"
+        }
+      ]
+    },
+    {
+      "time": 150910,
+      "endTime": 152890,
+      "text": "Don't know what happened to her",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 150911,
+          "endTime": 151326,
+          "word": "Don't"
+        },
+        {
+          "startTime": 151326,
+          "endTime": 151558,
+          "word": "know"
+        },
+        {
+          "startTime": 151558,
+          "endTime": 151808,
+          "word": "what"
+        },
+        {
+          "startTime": 151808,
+          "endTime": 152317,
+          "word": "happened"
+        },
+        {
+          "startTime": 152317,
+          "endTime": 152547,
+          "word": "to"
+        },
+        {
+          "startTime": 152547,
+          "endTime": 152890,
+          "word": "her"
+        }
+      ]
+    },
+    {
+      "time": 152910,
+      "endTime": 155010,
+      "text": "But she 'bout to happen to me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 152916,
+          "endTime": 153120,
+          "word": "But"
+        },
+        {
+          "startTime": 153120,
+          "endTime": 153365,
+          "word": "she"
+        },
+        {
+          "startTime": 153365,
+          "endTime": 153627,
+          "word": "'bout"
+        },
+        {
+          "startTime": 153627,
+          "endTime": 153896,
+          "word": "to"
+        },
+        {
+          "startTime": 153896,
+          "endTime": 154411,
+          "word": "happen"
+        },
+        {
+          "startTime": 154411,
+          "endTime": 154651,
+          "word": "to"
+        },
+        {
+          "startTime": 154651,
+          "endTime": 155010,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 155010,
+      "endTime": 156413,
+      "text": "She 'bout to happen",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 155010,
+          "endTime": 155392,
+          "word": "She"
+        },
+        {
+          "startTime": 155392,
+          "endTime": 155658,
+          "word": "'bout"
+        },
+        {
+          "startTime": 155658,
+          "endTime": 155890,
+          "word": "to"
+        },
+        {
+          "startTime": 155890,
+          "endTime": 156413,
+          "word": "happen"
+        }
+      ]
+    },
+    {
+      "time": 157060,
+      "endTime": 158464,
+      "text": "She 'bout to happen",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157064,
+          "endTime": 157421,
+          "word": "She"
+        },
+        {
+          "startTime": 157421,
+          "endTime": 157671,
+          "word": "'bout"
+        },
+        {
+          "startTime": 157671,
+          "endTime": 157909,
+          "word": "to"
+        },
+        {
+          "startTime": 157909,
+          "endTime": 158464,
+          "word": "happen"
+        }
+      ]
+    },
+    {
+      "time": 159080,
+      "endTime": 162949,
+      "text": "She 'bout to, she 'bout to, she 'bout to, she 'bout to—",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159083,
+          "endTime": 159454,
+          "word": "She"
+        },
+        {
+          "startTime": 159454,
+          "endTime": 159716,
+          "word": "'bout"
+        },
+        {
+          "startTime": 159716,
+          "endTime": 160086,
+          "word": "to,"
+        },
+        {
+          "startTime": 160183,
+          "endTime": 160444,
+          "word": "she"
+        },
+        {
+          "startTime": 160444,
+          "endTime": 160695,
+          "word": "'bout"
+        },
+        {
+          "startTime": 160695,
+          "endTime": 161075,
+          "word": "to,"
+        },
+        {
+          "startTime": 161218,
+          "endTime": 161447,
+          "word": "she"
+        },
+        {
+          "startTime": 161447,
+          "endTime": 161706,
+          "word": "'bout"
+        },
+        {
+          "startTime": 161706,
+          "endTime": 162136,
+          "word": "to,"
+        },
+        {
+          "startTime": 162234,
+          "endTime": 162484,
+          "word": "she"
+        },
+        {
+          "startTime": 162484,
+          "endTime": 162722,
+          "word": "'bout"
+        },
+        {
+          "startTime": 162722,
+          "endTime": 162949,
+          "word": "to—"
+        }
+      ]
+    }
+  ]
+}
