@@ -1,0 +1,936 @@
+{
+  "videoId": "-mFKhX7aO2Q",
+  "title": "Bade Achhe Lagte Hain",
+  "artist": "Amit Kumar",
+  "duration": 313,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"01:05.560\" end=\"01:21.040\">\n        <span begin=\"01:05.560\" end=\"01:09.362\">Bade <\/span>\n        <span begin=\"01:09.362\" end=\"01:13.435\">acche <\/span>\n        <span begin=\"01:13.435\" end=\"01:17.508\">lagte <\/span>\n        <span begin=\"01:17.508\" end=\"01:21.040\">hai<\/span>\n      <\/p>\n      <p begin=\"01:21.040\" end=\"01:28.950\">\n        <span begin=\"01:21.040\" end=\"01:22.982\">Bade <\/span>\n        <span begin=\"01:22.982\" end=\"01:25.063\">acche <\/span>\n        <span begin=\"01:25.063\" end=\"01:27.144\">lagte <\/span>\n        <span begin=\"01:27.144\" end=\"01:28.950\">hai<\/span>\n      <\/p>\n      <p begin=\"01:28.950\" end=\"01:31.010\">\n        <span begin=\"01:28.950\" end=\"01:31.010\">Kya?<\/span>\n      <\/p>\n      <p begin=\"01:31.010\" end=\"01:40.490\">\n        <span begin=\"01:31.010\" end=\"01:32.093\">Ye <\/span>\n        <span begin=\"01:32.093\" end=\"01:35.162\">dharti,ye <\/span>\n        <span begin=\"01:35.162\" end=\"01:38.231\">nadiya,ye <\/span>\n        <span begin=\"01:38.231\" end=\"01:40.490\">raina<\/span>\n      <\/p>\n      <p begin=\"01:40.490\" end=\"01:44.550\">\n        <span begin=\"01:40.490\" end=\"01:42.204\">Aur? <\/span>\n        <span begin=\"01:42.204\" end=\"01:43.376\">Aur <\/span>\n        <span begin=\"01:43.376\" end=\"01:44.550\">tum<\/span>\n      <\/p>\n      <p begin=\"01:44.550\" end=\"01:49.500\">\n        <span begin=\"01:44.550\" end=\"01:45.765\">Bade <\/span>\n        <span begin=\"01:45.765\" end=\"01:47.067\">acche <\/span>\n        <span begin=\"01:47.067\" end=\"01:48.369\">lagte <\/span>\n        <span begin=\"01:48.369\" end=\"01:49.500\">hai<\/span>\n      <\/p>\n      <p begin=\"01:49.500\" end=\"01:56.340\">\n        <span begin=\"01:49.500\" end=\"01:50.281\">Ye <\/span>\n        <span begin=\"01:50.281\" end=\"01:52.495\">dharti,ye <\/span>\n        <span begin=\"01:52.495\" end=\"01:54.709\">nadiya,ye <\/span>\n        <span begin=\"01:54.709\" end=\"01:56.340\">raina<\/span>\n      <\/p>\n      <p begin=\"01:56.340\" end=\"02:03.380\">\n        <span begin=\"01:56.340\" end=\"01:59.312\">Aur? <\/span>\n        <span begin=\"01:59.312\" end=\"02:01.345\">Aur <\/span>\n        <span begin=\"02:01.345\" end=\"02:03.380\">tum<\/span>\n      <\/p>\n      <p begin=\"02:03.380\" end=\"02:14.110\">\n        <span begin=\"02:03.380\" end=\"02:05.955\">Ho <\/span>\n        <span begin=\"02:05.955\" end=\"02:11.534\">manjhi <\/span>\n        <span begin=\"02:11.534\" end=\"02:14.110\">re<\/span>\n      <\/p>\n      <p begin=\"02:14.110\" end=\"02:23.860\">\n        <span begin=\"02:14.110\" end=\"02:16.818\">Jaiyo <\/span>\n        <span begin=\"02:16.818\" end=\"02:19.345\">piya <\/span>\n        <span begin=\"02:19.345\" end=\"02:21.511\">ke <\/span>\n        <span begin=\"02:21.511\" end=\"02:23.860\">des<\/span>\n      <\/p>\n      <p begin=\"02:23.860\" end=\"02:28.050\">\n        <span begin=\"02:23.860\" end=\"02:24.661\">Hum <\/span>\n        <span begin=\"02:24.661\" end=\"02:25.462\">tum <\/span>\n        <span begin=\"02:25.462\" end=\"02:26.386\">kitne <\/span>\n        <span begin=\"02:26.386\" end=\"02:27.248\">paas <\/span>\n        <span begin=\"02:27.248\" end=\"02:28.050\">hai<\/span>\n      <\/p>\n      <p begin=\"02:28.050\" end=\"02:34.460\">\n        <span begin=\"02:28.050\" end=\"02:29.208\">Kitne <\/span>\n        <span begin=\"02:29.208\" end=\"02:30.211\">dur <\/span>\n        <span begin=\"02:30.211\" end=\"02:31.214\">hai <\/span>\n        <span begin=\"02:31.214\" end=\"02:32.449\">chaand <\/span>\n        <span begin=\"02:32.449\" end=\"02:34.460\">sitare<\/span>\n      <\/p>\n      <p begin=\"02:34.460\" end=\"02:38.220\">\n        <span begin=\"02:34.460\" end=\"02:35.134\">Sach <\/span>\n        <span begin=\"02:35.134\" end=\"02:36.387\">poocho <\/span>\n        <span begin=\"02:36.387\" end=\"02:36.965\">to <\/span>\n        <span begin=\"02:36.965\" end=\"02:37.639\">mann <\/span>\n        <span begin=\"02:37.639\" end=\"02:38.220\">ko<\/span>\n      <\/p>\n      <p begin=\"02:38.220\" end=\"02:45.160\">\n        <span begin=\"02:38.220\" end=\"02:39.858\">Jhoothe <\/span>\n        <span begin=\"02:39.858\" end=\"02:41.303\">lagte <\/span>\n        <span begin=\"02:41.303\" end=\"02:42.556\">hai <\/span>\n        <span begin=\"02:42.556\" end=\"02:43.712\">ye <\/span>\n        <span begin=\"02:43.712\" end=\"02:45.160\">saare<\/span>\n      <\/p>\n      <p begin=\"02:45.160\" end=\"02:49.040\">\n        <span begin=\"02:45.160\" end=\"02:45.901\">Hum <\/span>\n        <span begin=\"02:45.901\" end=\"02:46.642\">tum <\/span>\n        <span begin=\"02:46.642\" end=\"02:47.497\">kitne <\/span>\n        <span begin=\"02:47.497\" end=\"02:48.295\">paas <\/span>\n        <span begin=\"02:48.295\" end=\"02:49.040\">hai<\/span>\n      <\/p>\n      <p begin=\"02:49.040\" end=\"02:55.230\">\n        <span begin=\"02:49.040\" end=\"02:50.158\">Kitne <\/span>\n        <span begin=\"02:50.158\" end=\"02:51.127\">dur <\/span>\n        <span begin=\"02:51.127\" end=\"02:52.096\">hai <\/span>\n        <span begin=\"02:52.096\" end=\"02:53.289\">chaand <\/span>\n        <span begin=\"02:53.289\" end=\"02:55.230\">sitare<\/span>\n      <\/p>\n      <p begin=\"02:55.230\" end=\"02:59.340\">\n        <span begin=\"02:55.230\" end=\"02:55.967\">Sach <\/span>\n        <span begin=\"02:55.967\" end=\"02:57.337\">poocho <\/span>\n        <span begin=\"02:57.337\" end=\"02:57.969\">to <\/span>\n        <span begin=\"02:57.969\" end=\"02:58.706\">mann <\/span>\n        <span begin=\"02:58.706\" end=\"02:59.340\">ko<\/span>\n      <\/p>\n      <p begin=\"02:59.340\" end=\"03:05.800\">\n        <span begin=\"02:59.340\" end=\"03:00.865\">Jhoothe <\/span>\n        <span begin=\"03:00.865\" end=\"03:02.210\">lagte <\/span>\n        <span begin=\"03:02.210\" end=\"03:03.376\">hai <\/span>\n        <span begin=\"03:03.376\" end=\"03:04.452\">ye <\/span>\n        <span begin=\"03:04.452\" end=\"03:05.800\">saare<\/span>\n      <\/p>\n      <p begin=\"03:05.800\" end=\"03:10.810\">\n        <span begin=\"03:05.800\" end=\"03:07.615\">Magar <\/span>\n        <span begin=\"03:07.615\" end=\"03:08.776\">sacche <\/span>\n        <span begin=\"03:08.776\" end=\"03:09.865\">lagte <\/span>\n        <span begin=\"03:09.865\" end=\"03:10.810\">hai<\/span>\n      <\/p>\n      <p begin=\"03:10.810\" end=\"03:18.020\">\n        <span begin=\"03:10.810\" end=\"03:11.633\">Ye <\/span>\n        <span begin=\"03:11.633\" end=\"03:13.967\">dharti,ye <\/span>\n        <span begin=\"03:13.967\" end=\"03:16.301\">nadiya,ye <\/span>\n        <span begin=\"03:16.301\" end=\"03:18.020\">raina<\/span>\n      <\/p>\n      <p begin=\"03:18.020\" end=\"03:47.430\">\n        <span begin=\"03:18.020\" end=\"03:30.437\">Aur? <\/span>\n        <span begin=\"03:30.437\" end=\"03:38.933\">Aur <\/span>\n        <span begin=\"03:38.933\" end=\"03:47.430\">tum<\/span>\n      <\/p>\n      <p begin=\"03:47.430\" end=\"03:49.630\">\n        <span begin=\"03:47.430\" end=\"03:48.002\">Tum <\/span>\n        <span begin=\"03:48.002\" end=\"03:48.530\">in <\/span>\n        <span begin=\"03:48.530\" end=\"03:49.630\">sabko<\/span>\n      <\/p>\n      <p begin=\"03:49.630\" end=\"03:52.690\">\n        <span begin=\"03:49.630\" end=\"03:50.722\">Chhod <\/span>\n        <span begin=\"03:50.722\" end=\"03:51.596\">ke <\/span>\n        <span begin=\"03:51.596\" end=\"03:52.690\">kaise<\/span>\n      <\/p>\n      <p begin=\"03:52.690\" end=\"03:57.680\">\n        <span begin=\"03:52.690\" end=\"03:53.719\">Kal <\/span>\n        <span begin=\"03:53.719\" end=\"03:55.699\">subha <\/span>\n        <span begin=\"03:55.699\" end=\"03:57.680\">jaogi<\/span>\n      <\/p>\n      <p begin=\"03:57.680\" end=\"04:02.980\">\n        <span begin=\"03:57.680\" end=\"03:58.596\">Mere <\/span>\n        <span begin=\"03:58.596\" end=\"03:59.577\">saath <\/span>\n        <span begin=\"03:59.577\" end=\"04:00.493\">inhe <\/span>\n        <span begin=\"04:00.493\" end=\"04:01.343\">bhi <\/span>\n        <span begin=\"04:01.343\" end=\"04:02.128\">to <\/span>\n        <span begin=\"04:02.128\" end=\"04:02.980\">tum<\/span>\n      <\/p>\n      <p begin=\"04:02.980\" end=\"04:08.260\">\n        <span begin=\"04:02.980\" end=\"04:04.135\">Yaad <\/span>\n        <span begin=\"04:04.135\" end=\"04:06.197\">bahut <\/span>\n        <span begin=\"04:06.197\" end=\"04:08.260\">aaogi<\/span>\n      <\/p>\n      <p begin=\"04:08.260\" end=\"04:10.710\">\n        <span begin=\"04:08.260\" end=\"04:08.897\">Tum <\/span>\n        <span begin=\"04:08.897\" end=\"04:09.485\">in <\/span>\n        <span begin=\"04:09.485\" end=\"04:10.710\">sabko<\/span>\n      <\/p>\n      <p begin=\"04:10.710\" end=\"04:13.140\">\n        <span begin=\"04:10.710\" end=\"04:11.577\">Chhod <\/span>\n        <span begin=\"04:11.577\" end=\"04:12.271\">ke <\/span>\n        <span begin=\"04:12.271\" end=\"04:13.140\">kaise<\/span>\n      <\/p>\n      <p begin=\"04:13.140\" end=\"04:18.550\">\n        <span begin=\"04:13.140\" end=\"04:14.256\">Kal <\/span>\n        <span begin=\"04:14.256\" end=\"04:16.402\">subha <\/span>\n        <span begin=\"04:16.402\" end=\"04:18.550\">jaogi<\/span>\n      <\/p>\n      <p begin=\"04:18.550\" end=\"04:23.660\">\n        <span begin=\"04:18.550\" end=\"04:19.433\">Mere <\/span>\n        <span begin=\"04:19.433\" end=\"04:20.379\">saath <\/span>\n        <span begin=\"04:20.379\" end=\"04:21.262\">inhe <\/span>\n        <span begin=\"04:21.262\" end=\"04:22.082\">bhi <\/span>\n        <span begin=\"04:22.082\" end=\"04:22.839\">to <\/span>\n        <span begin=\"04:22.839\" end=\"04:23.660\">tum<\/span>\n      <\/p>\n      <p begin=\"04:23.660\" end=\"04:29.190\">\n        <span begin=\"04:23.660\" end=\"04:24.869\">Yaad <\/span>\n        <span begin=\"04:24.869\" end=\"04:27.029\">bahut <\/span>\n        <span begin=\"04:27.029\" end=\"04:29.190\">aaogi<\/span>\n      <\/p>\n      <p begin=\"04:29.190\" end=\"04:33.980\">\n        <span begin=\"04:29.190\" end=\"04:30.366\">Bade <\/span>\n        <span begin=\"04:30.366\" end=\"04:31.626\">acche <\/span>\n        <span begin=\"04:31.626\" end=\"04:32.886\">lagte <\/span>\n        <span begin=\"04:32.886\" end=\"04:33.980\">hai<\/span>\n      <\/p>\n      <p begin=\"04:33.980\" end=\"04:40.700\">\n        <span begin=\"04:33.980\" end=\"04:34.748\">Ye <\/span>\n        <span begin=\"04:34.748\" end=\"04:36.924\">dharti,ye <\/span>\n        <span begin=\"04:36.924\" end=\"04:39.100\">nadiya,ye <\/span>\n        <span begin=\"04:39.100\" end=\"04:40.700\">raina<\/span>\n      <\/p>\n      <p begin=\"04:40.700\" end=\"04:44.890\">\n        <span begin=\"04:40.700\" end=\"04:42.469\">Aur? <\/span>\n        <span begin=\"04:42.469\" end=\"04:43.679\">Aur <\/span>\n        <span begin=\"04:43.679\" end=\"04:44.890\">tum<\/span>\n      <\/p>\n      <p begin=\"04:44.890\" end=\"04:49.890\">\n        <span begin=\"04:44.890\" end=\"04:46.118\">Bade <\/span>\n        <span begin=\"04:46.118\" end=\"04:47.433\">acche <\/span>\n        <span begin=\"04:47.433\" end=\"04:48.748\">lagte <\/span>\n        <span begin=\"04:48.748\" end=\"04:49.890\">hai<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 65560,
+      "endTime": 81040,
+      "text": "Bade acche lagte hai",
+      "words": [
+        {
+          "startTime": 65560,
+          "endTime": 69362,
+          "word": "Bade "
+        },
+        {
+          "startTime": 69362,
+          "endTime": 73435,
+          "word": "acche "
+        },
+        {
+          "startTime": 73435,
+          "endTime": 77508,
+          "word": "lagte "
+        },
+        {
+          "startTime": 77508,
+          "endTime": 81040,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 81040,
+      "endTime": 88950,
+      "text": "Bade acche lagte hai",
+      "words": [
+        {
+          "startTime": 81040,
+          "endTime": 82982,
+          "word": "Bade "
+        },
+        {
+          "startTime": 82982,
+          "endTime": 85063,
+          "word": "acche "
+        },
+        {
+          "startTime": 85063,
+          "endTime": 87144,
+          "word": "lagte "
+        },
+        {
+          "startTime": 87144,
+          "endTime": 88950,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 88950,
+      "endTime": 91010,
+      "text": "Kya?",
+      "words": [
+        {
+          "startTime": 88950,
+          "endTime": 91010,
+          "word": "Kya?"
+        }
+      ]
+    },
+    {
+      "time": 91010,
+      "endTime": 100490,
+      "text": "Ye dharti,ye nadiya,ye raina",
+      "words": [
+        {
+          "startTime": 91010,
+          "endTime": 92093,
+          "word": "Ye "
+        },
+        {
+          "startTime": 92093,
+          "endTime": 95162,
+          "word": "dharti,ye "
+        },
+        {
+          "startTime": 95162,
+          "endTime": 98231,
+          "word": "nadiya,ye "
+        },
+        {
+          "startTime": 98231,
+          "endTime": 100490,
+          "word": "raina"
+        }
+      ]
+    },
+    {
+      "time": 100490,
+      "endTime": 104550,
+      "text": "Aur? Aur tum",
+      "words": [
+        {
+          "startTime": 100490,
+          "endTime": 102204,
+          "word": "Aur? "
+        },
+        {
+          "startTime": 102204,
+          "endTime": 103376,
+          "word": "Aur "
+        },
+        {
+          "startTime": 103376,
+          "endTime": 104550,
+          "word": "tum"
+        }
+      ]
+    },
+    {
+      "time": 104550,
+      "endTime": 109500,
+      "text": "Bade acche lagte hai",
+      "words": [
+        {
+          "startTime": 104550,
+          "endTime": 105765,
+          "word": "Bade "
+        },
+        {
+          "startTime": 105765,
+          "endTime": 107067,
+          "word": "acche "
+        },
+        {
+          "startTime": 107067,
+          "endTime": 108369,
+          "word": "lagte "
+        },
+        {
+          "startTime": 108369,
+          "endTime": 109500,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 109500,
+      "endTime": 116340,
+      "text": "Ye dharti,ye nadiya,ye raina",
+      "words": [
+        {
+          "startTime": 109500,
+          "endTime": 110281,
+          "word": "Ye "
+        },
+        {
+          "startTime": 110281,
+          "endTime": 112495,
+          "word": "dharti,ye "
+        },
+        {
+          "startTime": 112495,
+          "endTime": 114709,
+          "word": "nadiya,ye "
+        },
+        {
+          "startTime": 114709,
+          "endTime": 116340,
+          "word": "raina"
+        }
+      ]
+    },
+    {
+      "time": 116340,
+      "endTime": 123380,
+      "text": "Aur? Aur tum",
+      "words": [
+        {
+          "startTime": 116340,
+          "endTime": 119312,
+          "word": "Aur? "
+        },
+        {
+          "startTime": 119312,
+          "endTime": 121345,
+          "word": "Aur "
+        },
+        {
+          "startTime": 121345,
+          "endTime": 123380,
+          "word": "tum"
+        }
+      ]
+    },
+    {
+      "time": 123380,
+      "endTime": 134110,
+      "text": "Ho manjhi re",
+      "words": [
+        {
+          "startTime": 123380,
+          "endTime": 125955,
+          "word": "Ho "
+        },
+        {
+          "startTime": 125955,
+          "endTime": 131534,
+          "word": "manjhi "
+        },
+        {
+          "startTime": 131534,
+          "endTime": 134110,
+          "word": "re"
+        }
+      ]
+    },
+    {
+      "time": 134110,
+      "endTime": 143860,
+      "text": "Jaiyo piya ke des",
+      "words": [
+        {
+          "startTime": 134110,
+          "endTime": 136818,
+          "word": "Jaiyo "
+        },
+        {
+          "startTime": 136818,
+          "endTime": 139345,
+          "word": "piya "
+        },
+        {
+          "startTime": 139345,
+          "endTime": 141511,
+          "word": "ke "
+        },
+        {
+          "startTime": 141511,
+          "endTime": 143860,
+          "word": "des"
+        }
+      ]
+    },
+    {
+      "time": 143860,
+      "endTime": 148050,
+      "text": "Hum tum kitne paas hai",
+      "words": [
+        {
+          "startTime": 143860,
+          "endTime": 144661,
+          "word": "Hum "
+        },
+        {
+          "startTime": 144661,
+          "endTime": 145462,
+          "word": "tum "
+        },
+        {
+          "startTime": 145462,
+          "endTime": 146386,
+          "word": "kitne "
+        },
+        {
+          "startTime": 146386,
+          "endTime": 147248,
+          "word": "paas "
+        },
+        {
+          "startTime": 147248,
+          "endTime": 148050,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 148050,
+      "endTime": 154460,
+      "text": "Kitne dur hai chaand sitare",
+      "words": [
+        {
+          "startTime": 148050,
+          "endTime": 149208,
+          "word": "Kitne "
+        },
+        {
+          "startTime": 149208,
+          "endTime": 150211,
+          "word": "dur "
+        },
+        {
+          "startTime": 150211,
+          "endTime": 151214,
+          "word": "hai "
+        },
+        {
+          "startTime": 151214,
+          "endTime": 152449,
+          "word": "chaand "
+        },
+        {
+          "startTime": 152449,
+          "endTime": 154460,
+          "word": "sitare"
+        }
+      ]
+    },
+    {
+      "time": 154460,
+      "endTime": 158220,
+      "text": "Sach poocho to mann ko",
+      "words": [
+        {
+          "startTime": 154460,
+          "endTime": 155134,
+          "word": "Sach "
+        },
+        {
+          "startTime": 155134,
+          "endTime": 156387,
+          "word": "poocho "
+        },
+        {
+          "startTime": 156387,
+          "endTime": 156965,
+          "word": "to "
+        },
+        {
+          "startTime": 156965,
+          "endTime": 157639,
+          "word": "mann "
+        },
+        {
+          "startTime": 157639,
+          "endTime": 158220,
+          "word": "ko"
+        }
+      ]
+    },
+    {
+      "time": 158220,
+      "endTime": 165160,
+      "text": "Jhoothe lagte hai ye saare",
+      "words": [
+        {
+          "startTime": 158220,
+          "endTime": 159858,
+          "word": "Jhoothe "
+        },
+        {
+          "startTime": 159858,
+          "endTime": 161303,
+          "word": "lagte "
+        },
+        {
+          "startTime": 161303,
+          "endTime": 162556,
+          "word": "hai "
+        },
+        {
+          "startTime": 162556,
+          "endTime": 163712,
+          "word": "ye "
+        },
+        {
+          "startTime": 163712,
+          "endTime": 165160,
+          "word": "saare"
+        }
+      ]
+    },
+    {
+      "time": 165160,
+      "endTime": 169040,
+      "text": "Hum tum kitne paas hai",
+      "words": [
+        {
+          "startTime": 165160,
+          "endTime": 165901,
+          "word": "Hum "
+        },
+        {
+          "startTime": 165901,
+          "endTime": 166642,
+          "word": "tum "
+        },
+        {
+          "startTime": 166642,
+          "endTime": 167497,
+          "word": "kitne "
+        },
+        {
+          "startTime": 167497,
+          "endTime": 168295,
+          "word": "paas "
+        },
+        {
+          "startTime": 168295,
+          "endTime": 169040,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 169040,
+      "endTime": 175230,
+      "text": "Kitne dur hai chaand sitare",
+      "words": [
+        {
+          "startTime": 169040,
+          "endTime": 170158,
+          "word": "Kitne "
+        },
+        {
+          "startTime": 170158,
+          "endTime": 171127,
+          "word": "dur "
+        },
+        {
+          "startTime": 171127,
+          "endTime": 172096,
+          "word": "hai "
+        },
+        {
+          "startTime": 172096,
+          "endTime": 173289,
+          "word": "chaand "
+        },
+        {
+          "startTime": 173289,
+          "endTime": 175230,
+          "word": "sitare"
+        }
+      ]
+    },
+    {
+      "time": 175230,
+      "endTime": 179340,
+      "text": "Sach poocho to mann ko",
+      "words": [
+        {
+          "startTime": 175230,
+          "endTime": 175967,
+          "word": "Sach "
+        },
+        {
+          "startTime": 175967,
+          "endTime": 177337,
+          "word": "poocho "
+        },
+        {
+          "startTime": 177337,
+          "endTime": 177969,
+          "word": "to "
+        },
+        {
+          "startTime": 177969,
+          "endTime": 178706,
+          "word": "mann "
+        },
+        {
+          "startTime": 178706,
+          "endTime": 179340,
+          "word": "ko"
+        }
+      ]
+    },
+    {
+      "time": 179340,
+      "endTime": 185800,
+      "text": "Jhoothe lagte hai ye saare",
+      "words": [
+        {
+          "startTime": 179340,
+          "endTime": 180865,
+          "word": "Jhoothe "
+        },
+        {
+          "startTime": 180865,
+          "endTime": 182210,
+          "word": "lagte "
+        },
+        {
+          "startTime": 182210,
+          "endTime": 183376,
+          "word": "hai "
+        },
+        {
+          "startTime": 183376,
+          "endTime": 184452,
+          "word": "ye "
+        },
+        {
+          "startTime": 184452,
+          "endTime": 185800,
+          "word": "saare"
+        }
+      ]
+    },
+    {
+      "time": 185800,
+      "endTime": 190810,
+      "text": "Magar sacche lagte hai",
+      "words": [
+        {
+          "startTime": 185800,
+          "endTime": 187615,
+          "word": "Magar "
+        },
+        {
+          "startTime": 187615,
+          "endTime": 188776,
+          "word": "sacche "
+        },
+        {
+          "startTime": 188776,
+          "endTime": 189865,
+          "word": "lagte "
+        },
+        {
+          "startTime": 189865,
+          "endTime": 190810,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 190810,
+      "endTime": 198020,
+      "text": "Ye dharti,ye nadiya,ye raina",
+      "words": [
+        {
+          "startTime": 190810,
+          "endTime": 191633,
+          "word": "Ye "
+        },
+        {
+          "startTime": 191633,
+          "endTime": 193967,
+          "word": "dharti,ye "
+        },
+        {
+          "startTime": 193967,
+          "endTime": 196301,
+          "word": "nadiya,ye "
+        },
+        {
+          "startTime": 196301,
+          "endTime": 198020,
+          "word": "raina"
+        }
+      ]
+    },
+    {
+      "time": 198020,
+      "endTime": 227430,
+      "text": "Aur? Aur tum",
+      "words": [
+        {
+          "startTime": 198020,
+          "endTime": 210437,
+          "word": "Aur? "
+        },
+        {
+          "startTime": 210437,
+          "endTime": 218933,
+          "word": "Aur "
+        },
+        {
+          "startTime": 218933,
+          "endTime": 227430,
+          "word": "tum"
+        }
+      ]
+    },
+    {
+      "time": 227430,
+      "endTime": 229630,
+      "text": "Tum in sabko",
+      "words": [
+        {
+          "startTime": 227430,
+          "endTime": 228002,
+          "word": "Tum "
+        },
+        {
+          "startTime": 228002,
+          "endTime": 228530,
+          "word": "in "
+        },
+        {
+          "startTime": 228530,
+          "endTime": 229630,
+          "word": "sabko"
+        }
+      ]
+    },
+    {
+      "time": 229630,
+      "endTime": 232690,
+      "text": "Chhod ke kaise",
+      "words": [
+        {
+          "startTime": 229630,
+          "endTime": 230722,
+          "word": "Chhod "
+        },
+        {
+          "startTime": 230722,
+          "endTime": 231596,
+          "word": "ke "
+        },
+        {
+          "startTime": 231596,
+          "endTime": 232690,
+          "word": "kaise"
+        }
+      ]
+    },
+    {
+      "time": 232690,
+      "endTime": 237680,
+      "text": "Kal subha jaogi",
+      "words": [
+        {
+          "startTime": 232690,
+          "endTime": 233719,
+          "word": "Kal "
+        },
+        {
+          "startTime": 233719,
+          "endTime": 235699,
+          "word": "subha "
+        },
+        {
+          "startTime": 235699,
+          "endTime": 237680,
+          "word": "jaogi"
+        }
+      ]
+    },
+    {
+      "time": 237680,
+      "endTime": 242980,
+      "text": "Mere saath inhe bhi to tum",
+      "words": [
+        {
+          "startTime": 237680,
+          "endTime": 238596,
+          "word": "Mere "
+        },
+        {
+          "startTime": 238596,
+          "endTime": 239577,
+          "word": "saath "
+        },
+        {
+          "startTime": 239577,
+          "endTime": 240493,
+          "word": "inhe "
+        },
+        {
+          "startTime": 240493,
+          "endTime": 241343,
+          "word": "bhi "
+        },
+        {
+          "startTime": 241343,
+          "endTime": 242128,
+          "word": "to "
+        },
+        {
+          "startTime": 242128,
+          "endTime": 242980,
+          "word": "tum"
+        }
+      ]
+    },
+    {
+      "time": 242980,
+      "endTime": 248260,
+      "text": "Yaad bahut aaogi",
+      "words": [
+        {
+          "startTime": 242980,
+          "endTime": 244135,
+          "word": "Yaad "
+        },
+        {
+          "startTime": 244135,
+          "endTime": 246197,
+          "word": "bahut "
+        },
+        {
+          "startTime": 246197,
+          "endTime": 248260,
+          "word": "aaogi"
+        }
+      ]
+    },
+    {
+      "time": 248260,
+      "endTime": 250710,
+      "text": "Tum in sabko",
+      "words": [
+        {
+          "startTime": 248260,
+          "endTime": 248897,
+          "word": "Tum "
+        },
+        {
+          "startTime": 248897,
+          "endTime": 249485,
+          "word": "in "
+        },
+        {
+          "startTime": 249485,
+          "endTime": 250710,
+          "word": "sabko"
+        }
+      ]
+    },
+    {
+      "time": 250710,
+      "endTime": 253140,
+      "text": "Chhod ke kaise",
+      "words": [
+        {
+          "startTime": 250710,
+          "endTime": 251577,
+          "word": "Chhod "
+        },
+        {
+          "startTime": 251577,
+          "endTime": 252271,
+          "word": "ke "
+        },
+        {
+          "startTime": 252271,
+          "endTime": 253140,
+          "word": "kaise"
+        }
+      ]
+    },
+    {
+      "time": 253140,
+      "endTime": 258550,
+      "text": "Kal subha jaogi",
+      "words": [
+        {
+          "startTime": 253140,
+          "endTime": 254256,
+          "word": "Kal "
+        },
+        {
+          "startTime": 254256,
+          "endTime": 256402,
+          "word": "subha "
+        },
+        {
+          "startTime": 256402,
+          "endTime": 258550,
+          "word": "jaogi"
+        }
+      ]
+    },
+    {
+      "time": 258550,
+      "endTime": 263660,
+      "text": "Mere saath inhe bhi to tum",
+      "words": [
+        {
+          "startTime": 258550,
+          "endTime": 259433,
+          "word": "Mere "
+        },
+        {
+          "startTime": 259433,
+          "endTime": 260379,
+          "word": "saath "
+        },
+        {
+          "startTime": 260379,
+          "endTime": 261262,
+          "word": "inhe "
+        },
+        {
+          "startTime": 261262,
+          "endTime": 262082,
+          "word": "bhi "
+        },
+        {
+          "startTime": 262082,
+          "endTime": 262839,
+          "word": "to "
+        },
+        {
+          "startTime": 262839,
+          "endTime": 263660,
+          "word": "tum"
+        }
+      ]
+    },
+    {
+      "time": 263660,
+      "endTime": 269190,
+      "text": "Yaad bahut aaogi",
+      "words": [
+        {
+          "startTime": 263660,
+          "endTime": 264869,
+          "word": "Yaad "
+        },
+        {
+          "startTime": 264869,
+          "endTime": 267029,
+          "word": "bahut "
+        },
+        {
+          "startTime": 267029,
+          "endTime": 269190,
+          "word": "aaogi"
+        }
+      ]
+    },
+    {
+      "time": 269190,
+      "endTime": 273980,
+      "text": "Bade acche lagte hai",
+      "words": [
+        {
+          "startTime": 269190,
+          "endTime": 270366,
+          "word": "Bade "
+        },
+        {
+          "startTime": 270366,
+          "endTime": 271626,
+          "word": "acche "
+        },
+        {
+          "startTime": 271626,
+          "endTime": 272886,
+          "word": "lagte "
+        },
+        {
+          "startTime": 272886,
+          "endTime": 273980,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 273980,
+      "endTime": 280700,
+      "text": "Ye dharti,ye nadiya,ye raina",
+      "words": [
+        {
+          "startTime": 273980,
+          "endTime": 274748,
+          "word": "Ye "
+        },
+        {
+          "startTime": 274748,
+          "endTime": 276924,
+          "word": "dharti,ye "
+        },
+        {
+          "startTime": 276924,
+          "endTime": 279100,
+          "word": "nadiya,ye "
+        },
+        {
+          "startTime": 279100,
+          "endTime": 280700,
+          "word": "raina"
+        }
+      ]
+    },
+    {
+      "time": 280700,
+      "endTime": 284890,
+      "text": "Aur? Aur tum",
+      "words": [
+        {
+          "startTime": 280700,
+          "endTime": 282469,
+          "word": "Aur? "
+        },
+        {
+          "startTime": 282469,
+          "endTime": 283679,
+          "word": "Aur "
+        },
+        {
+          "startTime": 283679,
+          "endTime": 284890,
+          "word": "tum"
+        }
+      ]
+    },
+    {
+      "time": 284890,
+      "endTime": 289890,
+      "text": "Bade acche lagte hai",
+      "words": [
+        {
+          "startTime": 284890,
+          "endTime": 286118,
+          "word": "Bade "
+        },
+        {
+          "startTime": 286118,
+          "endTime": 287433,
+          "word": "acche "
+        },
+        {
+          "startTime": 287433,
+          "endTime": 288748,
+          "word": "lagte "
+        },
+        {
+          "startTime": 288748,
+          "endTime": 289890,
+          "word": "hai"
+        }
+      ]
+    }
+  ]
+}
