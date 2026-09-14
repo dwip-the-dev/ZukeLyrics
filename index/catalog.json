@@ -910,6 +910,16 @@
     "path": "lyrics-database/v/u/vuJ2V-9GhBo.json"
   },
   {
+    "videoId": "vDFyP6gliFQ",
+    "title": "Aisa Sama Na Hota",
+    "artist": "R. D. Burman, Lata Mangeshkar",
+    "duration": 289,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 27,
+    "path": "lyrics-database/v/D/vDFyP6gliFQ.json"
+  },
+  {
     "videoId": "vBynw9Isr28",
     "title": "Abracadabra",
     "artist": "Lady Gaga",
@@ -1158,6 +1168,16 @@
     "syncedType": "word",
     "linesCount": 48,
     "path": "lyrics-database/D/2/D2TB3I9hRgA.json"
+  },
+  {
+    "videoId": "DoJgMRIgDuc",
+    "title": "Wada Karo (From \"Aa Gale Lag Jaa\")",
+    "artist": "Kishore Kumar, R. D. Burman, Lata Mangeshkar",
+    "duration": 292,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 64,
+    "path": "lyrics-database/D/o/DoJgMRIgDuc.json"
   },
   {
     "videoId": "DmlkcUkXDC4",
@@ -1430,6 +1450,16 @@
     "path": "lyrics-database/S/g/Sg3hU_sdhKw.json"
   },
   {
+    "videoId": "Sff99TyZDLw",
+    "title": "Mere Mehboob Qayamat Hogi (Part 2)",
+    "artist": "Kishore Kumar",
+    "duration": 150,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 15,
+    "path": "lyrics-database/S/f/Sff99TyZDLw.json"
+  },
+  {
     "videoId": "SN5dhslfqLs",
     "title": "All I Know (Official Visualiser)",
     "artist": "Rudimental, Khalid",
@@ -1558,6 +1588,16 @@
     "syncedType": "word",
     "linesCount": 85,
     "path": "lyrics-database/E/a/EaJV10DCnEM.json"
+  },
+  {
+    "videoId": "EnZsLEoqq-0",
+    "title": "Dil Kya Kare (From \"Julie\")",
+    "artist": "Kishore Kumar",
+    "duration": 365,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 54,
+    "path": "lyrics-database/E/n/EnZsLEoqq-0.json"
   },
   {
     "videoId": "2kelRnwRA4w",
@@ -4578,6 +4618,16 @@
     "syncedType": "word",
     "linesCount": 30,
     "path": "lyrics-database/O/j/OjpX8ILe2N4.json"
+  },
+  {
+    "videoId": "MY5ciPz9OOw",
+    "title": "Kabhi Kabhi Lyrical | कभी कभी | Mukesh | Lata Mangeshkar |Amitabh Bachchan | Rakhee | Best Old Song",
+    "artist": "Mukesh, Lata Mangeshkar",
+    "duration": 317,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 27,
+    "path": "lyrics-database/M/Y/MY5ciPz9OOw.json"
   },
   {
     "videoId": "MCuNYWl329w",
