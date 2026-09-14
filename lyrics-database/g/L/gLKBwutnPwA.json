@@ -1,0 +1,905 @@
+{
+  "videoId": "gLKBwutnPwA",
+  "title": "Pukarta Chala Hoon Main",
+  "artist": "Mohammed Rafi",
+  "duration": 230,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:37.960\" end=\"00:43.630\">\n        <span begin=\"00:37.960\" end=\"00:39.681\">पुकारता <\/span>\n        <span begin=\"00:39.681\" end=\"00:40.997\">चला <\/span>\n        <span begin=\"00:40.997\" end=\"00:42.313\">हूं <\/span>\n        <span begin=\"00:42.313\" end=\"00:43.630\">मैं<\/span>\n      <\/p>\n      <p begin=\"00:43.630\" end=\"00:47.760\">\n        <span begin=\"00:43.630\" end=\"00:44.662\">गली <\/span>\n        <span begin=\"00:44.662\" end=\"00:45.694\">गली <\/span>\n        <span begin=\"00:45.694\" end=\"00:46.805\">बहार <\/span>\n        <span begin=\"00:46.805\" end=\"00:47.760\">की<\/span>\n      <\/p>\n      <p begin=\"00:47.760\" end=\"00:53.220\">\n        <span begin=\"00:47.760\" end=\"00:48.768\">बस <\/span>\n        <span begin=\"00:48.768\" end=\"00:49.776\">एक <\/span>\n        <span begin=\"00:49.776\" end=\"00:50.952\">छाँव <\/span>\n        <span begin=\"00:50.952\" end=\"00:52.212\">ज़ुल्फ़ <\/span>\n        <span begin=\"00:52.212\" end=\"00:53.220\">की<\/span>\n      <\/p>\n      <p begin=\"00:53.220\" end=\"00:58.150\">\n        <span begin=\"00:53.220\" end=\"00:54.116\">बस <\/span>\n        <span begin=\"00:54.116\" end=\"00:55.012\">इक <\/span>\n        <span begin=\"00:55.012\" end=\"00:56.132\">निगाह <\/span>\n        <span begin=\"00:56.132\" end=\"00:57.252\">प्यार <\/span>\n        <span begin=\"00:57.252\" end=\"00:58.150\">की<\/span>\n      <\/p>\n      <p begin=\"00:58.150\" end=\"01:03.650\">\n        <span begin=\"00:58.150\" end=\"00:59.819\">पुकारता <\/span>\n        <span begin=\"00:59.819\" end=\"01:01.095\">चला <\/span>\n        <span begin=\"01:01.095\" end=\"01:02.371\">हूं <\/span>\n        <span begin=\"01:02.371\" end=\"01:03.650\">मैं<\/span>\n      <\/p>\n      <p begin=\"01:03.650\" end=\"01:08.180\">\n        <span begin=\"01:03.650\" end=\"01:04.782\">गली <\/span>\n        <span begin=\"01:04.782\" end=\"01:05.914\">गली <\/span>\n        <span begin=\"01:05.914\" end=\"01:07.133\">बहार <\/span>\n        <span begin=\"01:07.133\" end=\"01:08.180\">की<\/span>\n      <\/p>\n      <p begin=\"01:08.180\" end=\"01:13.170\">\n        <span begin=\"01:08.180\" end=\"01:09.101\">बस <\/span>\n        <span begin=\"01:09.101\" end=\"01:10.022\">एक <\/span>\n        <span begin=\"01:10.022\" end=\"01:11.096\">छाँव <\/span>\n        <span begin=\"01:11.096\" end=\"01:12.247\">ज़ुल्फ़ <\/span>\n        <span begin=\"01:12.247\" end=\"01:13.170\">की<\/span>\n      <\/p>\n      <p begin=\"01:13.170\" end=\"01:18.660\">\n        <span begin=\"01:13.170\" end=\"01:14.168\">बस <\/span>\n        <span begin=\"01:14.168\" end=\"01:15.166\">इक <\/span>\n        <span begin=\"01:15.166\" end=\"01:16.413\">निगाह <\/span>\n        <span begin=\"01:16.413\" end=\"01:17.660\">प्यार <\/span>\n        <span begin=\"01:17.660\" end=\"01:18.660\">की<\/span>\n      <\/p>\n      <p begin=\"01:18.660\" end=\"01:38.070\">\n        <span begin=\"01:18.660\" end=\"01:24.552\">पुकारता <\/span>\n        <span begin=\"01:24.552\" end=\"01:29.057\">चला <\/span>\n        <span begin=\"01:29.057\" end=\"01:33.562\">हूं <\/span>\n        <span begin=\"01:33.562\" end=\"01:38.070\">मैं<\/span>\n      <\/p>\n      <p begin=\"01:38.070\" end=\"01:43.260\">\n        <span begin=\"01:38.070\" end=\"01:38.811\">ये <\/span>\n        <span begin=\"01:38.811\" end=\"01:39.861\">दिल्लगी <\/span>\n        <span begin=\"01:39.861\" end=\"01:40.602\">ये <\/span>\n        <span begin=\"01:40.602\" end=\"01:41.652\">शोखियाँ <\/span>\n        <span begin=\"01:41.652\" end=\"01:42.516\">सलाम <\/span>\n        <span begin=\"01:42.516\" end=\"01:43.260\">की<\/span>\n      <\/p>\n      <p begin=\"01:43.260\" end=\"01:48.820\">\n        <span begin=\"01:43.260\" end=\"01:43.982\">यही <\/span>\n        <span begin=\"01:43.982\" end=\"01:44.649\">तो <\/span>\n        <span begin=\"01:44.649\" end=\"01:45.371\">बात <\/span>\n        <span begin=\"01:45.371\" end=\"01:46.038\">हो <\/span>\n        <span begin=\"01:46.038\" end=\"01:46.760\">रही <\/span>\n        <span begin=\"01:46.760\" end=\"01:47.427\">है <\/span>\n        <span begin=\"01:47.427\" end=\"01:48.149\">काम <\/span>\n        <span begin=\"01:48.149\" end=\"01:48.820\">की<\/span>\n      <\/p>\n      <p begin=\"01:48.820\" end=\"01:53.910\">\n        <span begin=\"01:48.820\" end=\"01:49.468\">कोई <\/span>\n        <span begin=\"01:49.468\" end=\"01:50.066\">तो <\/span>\n        <span begin=\"01:50.066\" end=\"01:50.714\">मुड़ <\/span>\n        <span begin=\"01:50.714\" end=\"01:51.312\">के <\/span>\n        <span begin=\"01:51.312\" end=\"01:51.960\">देख <\/span>\n        <span begin=\"01:51.960\" end=\"01:52.658\">लेगा <\/span>\n        <span begin=\"01:52.658\" end=\"01:53.256\">इस <\/span>\n        <span begin=\"01:53.256\" end=\"01:53.910\">तरफ<\/span>\n      <\/p>\n      <p begin=\"01:53.910\" end=\"01:59.250\">\n        <span begin=\"01:53.910\" end=\"01:54.672\">कोई <\/span>\n        <span begin=\"01:54.672\" end=\"01:55.434\">नज़र <\/span>\n        <span begin=\"01:55.434\" end=\"01:56.138\">तो <\/span>\n        <span begin=\"01:56.138\" end=\"01:56.959\">होगी <\/span>\n        <span begin=\"01:56.959\" end=\"01:57.780\">मेरे <\/span>\n        <span begin=\"01:57.780\" end=\"01:58.542\">नाम <\/span>\n        <span begin=\"01:58.542\" end=\"01:59.250\">की<\/span>\n      <\/p>\n      <p begin=\"01:59.250\" end=\"02:02.840\">\n        <span begin=\"01:59.250\" end=\"02:00.339\">पुकारता <\/span>\n        <span begin=\"02:00.339\" end=\"02:01.172\">चला <\/span>\n        <span begin=\"02:01.172\" end=\"02:02.005\">हूं <\/span>\n        <span begin=\"02:02.005\" end=\"02:02.840\">मैं<\/span>\n      <\/p>\n      <p begin=\"02:02.840\" end=\"02:08.080\">\n        <span begin=\"02:02.840\" end=\"02:04.150\">गली <\/span>\n        <span begin=\"02:04.150\" end=\"02:05.460\">गली <\/span>\n        <span begin=\"02:05.460\" end=\"02:06.870\">बहार <\/span>\n        <span begin=\"02:06.870\" end=\"02:08.080\">की<\/span>\n      <\/p>\n      <p begin=\"02:08.080\" end=\"02:13.550\">\n        <span begin=\"02:08.080\" end=\"02:09.089\">बस <\/span>\n        <span begin=\"02:09.089\" end=\"02:10.098\">एक <\/span>\n        <span begin=\"02:10.098\" end=\"02:11.276\">छाँव <\/span>\n        <span begin=\"02:11.276\" end=\"02:12.538\">ज़ुल्फ़ <\/span>\n        <span begin=\"02:12.538\" end=\"02:13.550\">की<\/span>\n      <\/p>\n      <p begin=\"02:13.550\" end=\"02:18.190\">\n        <span begin=\"02:13.550\" end=\"02:14.393\">बस <\/span>\n        <span begin=\"02:14.393\" end=\"02:15.236\">इक <\/span>\n        <span begin=\"02:15.236\" end=\"02:16.290\">निगाह <\/span>\n        <span begin=\"02:16.290\" end=\"02:17.344\">प्यार <\/span>\n        <span begin=\"02:17.344\" end=\"02:18.190\">की<\/span>\n      <\/p>\n      <p begin=\"02:18.190\" end=\"02:38.220\">\n        <span begin=\"02:18.190\" end=\"02:24.270\">पुकारता <\/span>\n        <span begin=\"02:24.270\" end=\"02:28.919\">चला <\/span>\n        <span begin=\"02:28.919\" end=\"02:33.568\">हूं <\/span>\n        <span begin=\"02:33.568\" end=\"02:38.220\">मैं<\/span>\n      <\/p>\n      <p begin=\"02:38.220\" end=\"02:43.380\">\n        <span begin=\"02:38.220\" end=\"02:38.996\">सुनि <\/span>\n        <span begin=\"02:38.996\" end=\"02:39.772\">मेरी <\/span>\n        <span begin=\"02:39.772\" end=\"02:40.493\">सदा <\/span>\n        <span begin=\"02:40.493\" end=\"02:41.158\">तो <\/span>\n        <span begin=\"02:41.158\" end=\"02:41.879\">किस <\/span>\n        <span begin=\"02:41.879\" end=\"02:42.711\">यक़ींन <\/span>\n        <span begin=\"02:42.711\" end=\"02:43.380\">से<\/span>\n      <\/p>\n      <p begin=\"02:43.380\" end=\"02:48.230\">\n        <span begin=\"02:43.380\" end=\"02:44.096\">घटा <\/span>\n        <span begin=\"02:44.096\" end=\"02:44.812\">उतर <\/span>\n        <span begin=\"02:44.812\" end=\"02:45.473\">के <\/span>\n        <span begin=\"02:45.473\" end=\"02:46.079\">आ <\/span>\n        <span begin=\"02:46.079\" end=\"02:46.795\">गयी <\/span>\n        <span begin=\"02:46.795\" end=\"02:47.566\">ज़मीन <\/span>\n        <span begin=\"02:47.566\" end=\"02:48.230\">पे<\/span>\n      <\/p>\n      <p begin=\"02:48.230\" end=\"02:53.080\">\n        <span begin=\"02:48.230\" end=\"02:48.930\">रही <\/span>\n        <span begin=\"02:48.930\" end=\"02:49.630\">यही <\/span>\n        <span begin=\"02:49.630\" end=\"02:50.330\">लगन <\/span>\n        <span begin=\"02:50.330\" end=\"02:50.976\">तो <\/span>\n        <span begin=\"02:50.976\" end=\"02:51.568\">ऐ <\/span>\n        <span begin=\"02:51.568\" end=\"02:52.322\">दिले <\/span>\n        <span begin=\"02:52.322\" end=\"02:53.080\">जवान<\/span>\n      <\/p>\n      <p begin=\"02:53.080\" end=\"02:58.050\">\n        <span begin=\"02:53.080\" end=\"02:53.790\">असर <\/span>\n        <span begin=\"02:53.790\" end=\"02:54.445\">भी <\/span>\n        <span begin=\"02:54.445\" end=\"02:55.100\">हो <\/span>\n        <span begin=\"02:55.100\" end=\"02:55.919\">रहेगा <\/span>\n        <span begin=\"02:55.919\" end=\"02:56.574\">इक <\/span>\n        <span begin=\"02:56.574\" end=\"02:57.393\">हसींन <\/span>\n        <span begin=\"02:57.393\" end=\"02:58.050\">पे<\/span>\n      <\/p>\n      <p begin=\"02:58.050\" end=\"03:02.930\">\n        <span begin=\"02:58.050\" end=\"02:59.531\">पुकारता <\/span>\n        <span begin=\"02:59.531\" end=\"03:00.663\">चला <\/span>\n        <span begin=\"03:00.663\" end=\"03:01.795\">हूं <\/span>\n        <span begin=\"03:01.795\" end=\"03:02.930\">मैं<\/span>\n      <\/p>\n      <p begin=\"03:02.930\" end=\"03:07.970\">\n        <span begin=\"03:02.930\" end=\"03:04.190\">गली <\/span>\n        <span begin=\"03:04.190\" end=\"03:05.450\">गली <\/span>\n        <span begin=\"03:05.450\" end=\"03:06.806\">बहार <\/span>\n        <span begin=\"03:06.806\" end=\"03:07.970\">की<\/span>\n      <\/p>\n      <p begin=\"03:07.970\" end=\"03:13.070\">\n        <span begin=\"03:07.970\" end=\"03:08.911\">बस <\/span>\n        <span begin=\"03:08.911\" end=\"03:09.852\">एक <\/span>\n        <span begin=\"03:09.852\" end=\"03:10.950\">छाँव <\/span>\n        <span begin=\"03:10.950\" end=\"03:12.126\">ज़ुल्फ़ <\/span>\n        <span begin=\"03:12.126\" end=\"03:13.070\">की<\/span>\n      <\/p>\n      <p begin=\"03:13.070\" end=\"03:17.650\">\n        <span begin=\"03:13.070\" end=\"03:13.902\">बस <\/span>\n        <span begin=\"03:13.902\" end=\"03:14.734\">इक <\/span>\n        <span begin=\"03:14.734\" end=\"03:15.774\">निगाह <\/span>\n        <span begin=\"03:15.774\" end=\"03:16.814\">प्यार <\/span>\n        <span begin=\"03:16.814\" end=\"03:17.650\">की<\/span>\n      <\/p>\n      <p begin=\"03:17.650\" end=\"03:22.650\">\n        <span begin=\"03:17.650\" end=\"03:19.167\">पुकारता <\/span>\n        <span begin=\"03:19.167\" end=\"03:20.327\">चला <\/span>\n        <span begin=\"03:20.327\" end=\"03:21.487\">हूं <\/span>\n        <span begin=\"03:21.487\" end=\"03:22.650\">मैं<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 37960,
+      "endTime": 43630,
+      "text": "पुकारता चला हूं मैं",
+      "words": [
+        {
+          "startTime": 37960,
+          "endTime": 39681,
+          "word": "पुकारता "
+        },
+        {
+          "startTime": 39681,
+          "endTime": 40997,
+          "word": "चला "
+        },
+        {
+          "startTime": 40997,
+          "endTime": 42313,
+          "word": "हूं "
+        },
+        {
+          "startTime": 42313,
+          "endTime": 43630,
+          "word": "मैं"
+        }
+      ]
+    },
+    {
+      "time": 43630,
+      "endTime": 47760,
+      "text": "गली गली बहार की",
+      "words": [
+        {
+          "startTime": 43630,
+          "endTime": 44662,
+          "word": "गली "
+        },
+        {
+          "startTime": 44662,
+          "endTime": 45694,
+          "word": "गली "
+        },
+        {
+          "startTime": 45694,
+          "endTime": 46805,
+          "word": "बहार "
+        },
+        {
+          "startTime": 46805,
+          "endTime": 47760,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 47760,
+      "endTime": 53220,
+      "text": "बस एक छाँव ज़ुल्फ़ की",
+      "words": [
+        {
+          "startTime": 47760,
+          "endTime": 48768,
+          "word": "बस "
+        },
+        {
+          "startTime": 48768,
+          "endTime": 49776,
+          "word": "एक "
+        },
+        {
+          "startTime": 49776,
+          "endTime": 50952,
+          "word": "छाँव "
+        },
+        {
+          "startTime": 50952,
+          "endTime": 52212,
+          "word": "ज़ुल्फ़ "
+        },
+        {
+          "startTime": 52212,
+          "endTime": 53220,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 53220,
+      "endTime": 58150,
+      "text": "बस इक निगाह प्यार की",
+      "words": [
+        {
+          "startTime": 53220,
+          "endTime": 54116,
+          "word": "बस "
+        },
+        {
+          "startTime": 54116,
+          "endTime": 55012,
+          "word": "इक "
+        },
+        {
+          "startTime": 55012,
+          "endTime": 56132,
+          "word": "निगाह "
+        },
+        {
+          "startTime": 56132,
+          "endTime": 57252,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 57252,
+          "endTime": 58150,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 58150,
+      "endTime": 63650,
+      "text": "पुकारता चला हूं मैं",
+      "words": [
+        {
+          "startTime": 58150,
+          "endTime": 59819,
+          "word": "पुकारता "
+        },
+        {
+          "startTime": 59819,
+          "endTime": 61095,
+          "word": "चला "
+        },
+        {
+          "startTime": 61095,
+          "endTime": 62371,
+          "word": "हूं "
+        },
+        {
+          "startTime": 62371,
+          "endTime": 63650,
+          "word": "मैं"
+        }
+      ]
+    },
+    {
+      "time": 63650,
+      "endTime": 68180,
+      "text": "गली गली बहार की",
+      "words": [
+        {
+          "startTime": 63650,
+          "endTime": 64782,
+          "word": "गली "
+        },
+        {
+          "startTime": 64782,
+          "endTime": 65914,
+          "word": "गली "
+        },
+        {
+          "startTime": 65914,
+          "endTime": 67133,
+          "word": "बहार "
+        },
+        {
+          "startTime": 67133,
+          "endTime": 68180,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 68180,
+      "endTime": 73170,
+      "text": "बस एक छाँव ज़ुल्फ़ की",
+      "words": [
+        {
+          "startTime": 68180,
+          "endTime": 69101,
+          "word": "बस "
+        },
+        {
+          "startTime": 69101,
+          "endTime": 70022,
+          "word": "एक "
+        },
+        {
+          "startTime": 70022,
+          "endTime": 71096,
+          "word": "छाँव "
+        },
+        {
+          "startTime": 71096,
+          "endTime": 72247,
+          "word": "ज़ुल्फ़ "
+        },
+        {
+          "startTime": 72247,
+          "endTime": 73170,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 73170,
+      "endTime": 78660,
+      "text": "बस इक निगाह प्यार की",
+      "words": [
+        {
+          "startTime": 73170,
+          "endTime": 74168,
+          "word": "बस "
+        },
+        {
+          "startTime": 74168,
+          "endTime": 75166,
+          "word": "इक "
+        },
+        {
+          "startTime": 75166,
+          "endTime": 76413,
+          "word": "निगाह "
+        },
+        {
+          "startTime": 76413,
+          "endTime": 77660,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 77660,
+          "endTime": 78660,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 78660,
+      "endTime": 98070,
+      "text": "पुकारता चला हूं मैं",
+      "words": [
+        {
+          "startTime": 78660,
+          "endTime": 84552,
+          "word": "पुकारता "
+        },
+        {
+          "startTime": 84552,
+          "endTime": 89057,
+          "word": "चला "
+        },
+        {
+          "startTime": 89057,
+          "endTime": 93562,
+          "word": "हूं "
+        },
+        {
+          "startTime": 93562,
+          "endTime": 98070,
+          "word": "मैं"
+        }
+      ]
+    },
+    {
+      "time": 98070,
+      "endTime": 103260,
+      "text": "ये दिल्लगी ये शोखियाँ सलाम की",
+      "words": [
+        {
+          "startTime": 98070,
+          "endTime": 98811,
+          "word": "ये "
+        },
+        {
+          "startTime": 98811,
+          "endTime": 99861,
+          "word": "दिल्लगी "
+        },
+        {
+          "startTime": 99861,
+          "endTime": 100602,
+          "word": "ये "
+        },
+        {
+          "startTime": 100602,
+          "endTime": 101652,
+          "word": "शोखियाँ "
+        },
+        {
+          "startTime": 101652,
+          "endTime": 102516,
+          "word": "सलाम "
+        },
+        {
+          "startTime": 102516,
+          "endTime": 103260,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 103260,
+      "endTime": 108820,
+      "text": "यही तो बात हो रही है काम की",
+      "words": [
+        {
+          "startTime": 103260,
+          "endTime": 103982,
+          "word": "यही "
+        },
+        {
+          "startTime": 103982,
+          "endTime": 104649,
+          "word": "तो "
+        },
+        {
+          "startTime": 104649,
+          "endTime": 105371,
+          "word": "बात "
+        },
+        {
+          "startTime": 105371,
+          "endTime": 106038,
+          "word": "हो "
+        },
+        {
+          "startTime": 106038,
+          "endTime": 106760,
+          "word": "रही "
+        },
+        {
+          "startTime": 106760,
+          "endTime": 107427,
+          "word": "है "
+        },
+        {
+          "startTime": 107427,
+          "endTime": 108149,
+          "word": "काम "
+        },
+        {
+          "startTime": 108149,
+          "endTime": 108820,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 108820,
+      "endTime": 113910,
+      "text": "कोई तो मुड़ के देख लेगा इस तरफ",
+      "words": [
+        {
+          "startTime": 108820,
+          "endTime": 109468,
+          "word": "कोई "
+        },
+        {
+          "startTime": 109468,
+          "endTime": 110066,
+          "word": "तो "
+        },
+        {
+          "startTime": 110066,
+          "endTime": 110714,
+          "word": "मुड़ "
+        },
+        {
+          "startTime": 110714,
+          "endTime": 111312,
+          "word": "के "
+        },
+        {
+          "startTime": 111312,
+          "endTime": 111960,
+          "word": "देख "
+        },
+        {
+          "startTime": 111960,
+          "endTime": 112658,
+          "word": "लेगा "
+        },
+        {
+          "startTime": 112658,
+          "endTime": 113256,
+          "word": "इस "
+        },
+        {
+          "startTime": 113256,
+          "endTime": 113910,
+          "word": "तरफ"
+        }
+      ]
+    },
+    {
+      "time": 113910,
+      "endTime": 119250,
+      "text": "कोई नज़र तो होगी मेरे नाम की",
+      "words": [
+        {
+          "startTime": 113910,
+          "endTime": 114672,
+          "word": "कोई "
+        },
+        {
+          "startTime": 114672,
+          "endTime": 115434,
+          "word": "नज़र "
+        },
+        {
+          "startTime": 115434,
+          "endTime": 116138,
+          "word": "तो "
+        },
+        {
+          "startTime": 116138,
+          "endTime": 116959,
+          "word": "होगी "
+        },
+        {
+          "startTime": 116959,
+          "endTime": 117780,
+          "word": "मेरे "
+        },
+        {
+          "startTime": 117780,
+          "endTime": 118542,
+          "word": "नाम "
+        },
+        {
+          "startTime": 118542,
+          "endTime": 119250,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 119250,
+      "endTime": 122840,
+      "text": "पुकारता चला हूं मैं",
+      "words": [
+        {
+          "startTime": 119250,
+          "endTime": 120339,
+          "word": "पुकारता "
+        },
+        {
+          "startTime": 120339,
+          "endTime": 121172,
+          "word": "चला "
+        },
+        {
+          "startTime": 121172,
+          "endTime": 122005,
+          "word": "हूं "
+        },
+        {
+          "startTime": 122005,
+          "endTime": 122840,
+          "word": "मैं"
+        }
+      ]
+    },
+    {
+      "time": 122840,
+      "endTime": 128080,
+      "text": "गली गली बहार की",
+      "words": [
+        {
+          "startTime": 122840,
+          "endTime": 124150,
+          "word": "गली "
+        },
+        {
+          "startTime": 124150,
+          "endTime": 125460,
+          "word": "गली "
+        },
+        {
+          "startTime": 125460,
+          "endTime": 126870,
+          "word": "बहार "
+        },
+        {
+          "startTime": 126870,
+          "endTime": 128080,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 128080,
+      "endTime": 133550,
+      "text": "बस एक छाँव ज़ुल्फ़ की",
+      "words": [
+        {
+          "startTime": 128080,
+          "endTime": 129089,
+          "word": "बस "
+        },
+        {
+          "startTime": 129089,
+          "endTime": 130098,
+          "word": "एक "
+        },
+        {
+          "startTime": 130098,
+          "endTime": 131276,
+          "word": "छाँव "
+        },
+        {
+          "startTime": 131276,
+          "endTime": 132538,
+          "word": "ज़ुल्फ़ "
+        },
+        {
+          "startTime": 132538,
+          "endTime": 133550,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 133550,
+      "endTime": 138190,
+      "text": "बस इक निगाह प्यार की",
+      "words": [
+        {
+          "startTime": 133550,
+          "endTime": 134393,
+          "word": "बस "
+        },
+        {
+          "startTime": 134393,
+          "endTime": 135236,
+          "word": "इक "
+        },
+        {
+          "startTime": 135236,
+          "endTime": 136290,
+          "word": "निगाह "
+        },
+        {
+          "startTime": 136290,
+          "endTime": 137344,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 137344,
+          "endTime": 138190,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 138190,
+      "endTime": 158220,
+      "text": "पुकारता चला हूं मैं",
+      "words": [
+        {
+          "startTime": 138190,
+          "endTime": 144270,
+          "word": "पुकारता "
+        },
+        {
+          "startTime": 144270,
+          "endTime": 148919,
+          "word": "चला "
+        },
+        {
+          "startTime": 148919,
+          "endTime": 153568,
+          "word": "हूं "
+        },
+        {
+          "startTime": 153568,
+          "endTime": 158220,
+          "word": "मैं"
+        }
+      ]
+    },
+    {
+      "time": 158220,
+      "endTime": 163380,
+      "text": "सुनि मेरी सदा तो किस यक़ींन से",
+      "words": [
+        {
+          "startTime": 158220,
+          "endTime": 158996,
+          "word": "सुनि "
+        },
+        {
+          "startTime": 158996,
+          "endTime": 159772,
+          "word": "मेरी "
+        },
+        {
+          "startTime": 159772,
+          "endTime": 160493,
+          "word": "सदा "
+        },
+        {
+          "startTime": 160493,
+          "endTime": 161158,
+          "word": "तो "
+        },
+        {
+          "startTime": 161158,
+          "endTime": 161879,
+          "word": "किस "
+        },
+        {
+          "startTime": 161879,
+          "endTime": 162711,
+          "word": "यक़ींन "
+        },
+        {
+          "startTime": 162711,
+          "endTime": 163380,
+          "word": "से"
+        }
+      ]
+    },
+    {
+      "time": 163380,
+      "endTime": 168230,
+      "text": "घटा उतर के आ गयी ज़मीन पे",
+      "words": [
+        {
+          "startTime": 163380,
+          "endTime": 164096,
+          "word": "घटा "
+        },
+        {
+          "startTime": 164096,
+          "endTime": 164812,
+          "word": "उतर "
+        },
+        {
+          "startTime": 164812,
+          "endTime": 165473,
+          "word": "के "
+        },
+        {
+          "startTime": 165473,
+          "endTime": 166079,
+          "word": "आ "
+        },
+        {
+          "startTime": 166079,
+          "endTime": 166795,
+          "word": "गयी "
+        },
+        {
+          "startTime": 166795,
+          "endTime": 167566,
+          "word": "ज़मीन "
+        },
+        {
+          "startTime": 167566,
+          "endTime": 168230,
+          "word": "पे"
+        }
+      ]
+    },
+    {
+      "time": 168230,
+      "endTime": 173080,
+      "text": "रही यही लगन तो ऐ दिले जवान",
+      "words": [
+        {
+          "startTime": 168230,
+          "endTime": 168930,
+          "word": "रही "
+        },
+        {
+          "startTime": 168930,
+          "endTime": 169630,
+          "word": "यही "
+        },
+        {
+          "startTime": 169630,
+          "endTime": 170330,
+          "word": "लगन "
+        },
+        {
+          "startTime": 170330,
+          "endTime": 170976,
+          "word": "तो "
+        },
+        {
+          "startTime": 170976,
+          "endTime": 171568,
+          "word": "ऐ "
+        },
+        {
+          "startTime": 171568,
+          "endTime": 172322,
+          "word": "दिले "
+        },
+        {
+          "startTime": 172322,
+          "endTime": 173080,
+          "word": "जवान"
+        }
+      ]
+    },
+    {
+      "time": 173080,
+      "endTime": 178050,
+      "text": "असर भी हो रहेगा इक हसींन पे",
+      "words": [
+        {
+          "startTime": 173080,
+          "endTime": 173790,
+          "word": "असर "
+        },
+        {
+          "startTime": 173790,
+          "endTime": 174445,
+          "word": "भी "
+        },
+        {
+          "startTime": 174445,
+          "endTime": 175100,
+          "word": "हो "
+        },
+        {
+          "startTime": 175100,
+          "endTime": 175919,
+          "word": "रहेगा "
+        },
+        {
+          "startTime": 175919,
+          "endTime": 176574,
+          "word": "इक "
+        },
+        {
+          "startTime": 176574,
+          "endTime": 177393,
+          "word": "हसींन "
+        },
+        {
+          "startTime": 177393,
+          "endTime": 178050,
+          "word": "पे"
+        }
+      ]
+    },
+    {
+      "time": 178050,
+      "endTime": 182930,
+      "text": "पुकारता चला हूं मैं",
+      "words": [
+        {
+          "startTime": 178050,
+          "endTime": 179531,
+          "word": "पुकारता "
+        },
+        {
+          "startTime": 179531,
+          "endTime": 180663,
+          "word": "चला "
+        },
+        {
+          "startTime": 180663,
+          "endTime": 181795,
+          "word": "हूं "
+        },
+        {
+          "startTime": 181795,
+          "endTime": 182930,
+          "word": "मैं"
+        }
+      ]
+    },
+    {
+      "time": 182930,
+      "endTime": 187970,
+      "text": "गली गली बहार की",
+      "words": [
+        {
+          "startTime": 182930,
+          "endTime": 184190,
+          "word": "गली "
+        },
+        {
+          "startTime": 184190,
+          "endTime": 185450,
+          "word": "गली "
+        },
+        {
+          "startTime": 185450,
+          "endTime": 186806,
+          "word": "बहार "
+        },
+        {
+          "startTime": 186806,
+          "endTime": 187970,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 187970,
+      "endTime": 193070,
+      "text": "बस एक छाँव ज़ुल्फ़ की",
+      "words": [
+        {
+          "startTime": 187970,
+          "endTime": 188911,
+          "word": "बस "
+        },
+        {
+          "startTime": 188911,
+          "endTime": 189852,
+          "word": "एक "
+        },
+        {
+          "startTime": 189852,
+          "endTime": 190950,
+          "word": "छाँव "
+        },
+        {
+          "startTime": 190950,
+          "endTime": 192126,
+          "word": "ज़ुल्फ़ "
+        },
+        {
+          "startTime": 192126,
+          "endTime": 193070,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 193070,
+      "endTime": 197650,
+      "text": "बस इक निगाह प्यार की",
+      "words": [
+        {
+          "startTime": 193070,
+          "endTime": 193902,
+          "word": "बस "
+        },
+        {
+          "startTime": 193902,
+          "endTime": 194734,
+          "word": "इक "
+        },
+        {
+          "startTime": 194734,
+          "endTime": 195774,
+          "word": "निगाह "
+        },
+        {
+          "startTime": 195774,
+          "endTime": 196814,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 196814,
+          "endTime": 197650,
+          "word": "की"
+        }
+      ]
+    },
+    {
+      "time": 197650,
+      "endTime": 202650,
+      "text": "पुकारता चला हूं मैं",
+      "words": [
+        {
+          "startTime": 197650,
+          "endTime": 199167,
+          "word": "पुकारता "
+        },
+        {
+          "startTime": 199167,
+          "endTime": 200327,
+          "word": "चला "
+        },
+        {
+          "startTime": 200327,
+          "endTime": 201487,
+          "word": "हूं "
+        },
+        {
+          "startTime": 201487,
+          "endTime": 202650,
+          "word": "मैं"
+        }
+      ]
+    }
+  ]
+}
