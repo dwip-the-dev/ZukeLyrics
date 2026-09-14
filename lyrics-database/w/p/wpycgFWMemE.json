@@ -1,0 +1,344 @@
+{
+  "videoId": "wpycgFWMemE",
+  "title": "Tere Bina Zindagi Se Koi",
+  "artist": "Lata Mangeshkar, Kishore Kumar, Rojalin Sahu",
+  "duration": 174,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:13.920\" end=\"00:23.490\">\n        <span begin=\"00:13.920\" end=\"00:15.578\">Tuj <\/span>\n        <span begin=\"00:15.578\" end=\"00:20.299\">maagato <\/span>\n        <span begin=\"00:20.299\" end=\"00:21.830\">mi <\/span>\n        <span begin=\"00:21.830\" end=\"00:23.490\">ata<\/span>\n      <\/p>\n      <p begin=\"00:23.490\" end=\"00:31.970\">\n        <span begin=\"00:23.490\" end=\"00:25.160\">Maj <\/span>\n        <span begin=\"00:25.160\" end=\"00:27.215\">dyaawe <\/span>\n        <span begin=\"00:27.215\" end=\"00:31.970\">ekadnta<\/span>\n      <\/p>\n      <p begin=\"00:31.970\" end=\"00:42.320\">\n        <span begin=\"00:31.970\" end=\"00:33.818\">Tujhe <\/span>\n        <span begin=\"00:33.818\" end=\"00:35.912\">thhaayi <\/span>\n        <span begin=\"00:35.912\" end=\"00:39.115\">maajhi <\/span>\n        <span begin=\"00:39.115\" end=\"00:42.320\">bhakti<\/span>\n      <\/p>\n      <p begin=\"00:42.320\" end=\"00:54.610\">\n        <span begin=\"00:42.320\" end=\"00:48.651\">Wiruthhaawi <\/span>\n        <span begin=\"00:48.651\" end=\"00:54.610\">ganapati<\/span>\n      <\/p>\n      <p begin=\"00:54.610\" end=\"01:06.140\">\n        <span begin=\"00:54.610\" end=\"00:56.668\">Tujhe <\/span>\n        <span begin=\"00:56.668\" end=\"00:59.001\">thhaayi <\/span>\n        <span begin=\"00:59.001\" end=\"01:02.707\">jyaachi <\/span>\n        <span begin=\"01:02.707\" end=\"01:06.140\">priti<\/span>\n      <\/p>\n      <p begin=\"01:06.140\" end=\"01:17.420\">\n        <span begin=\"01:06.140\" end=\"01:09.486\">Tyaachi <\/span>\n        <span begin=\"01:09.486\" end=\"01:14.196\">ghadaawi <\/span>\n        <span begin=\"01:14.196\" end=\"01:17.420\">sngati<\/span>\n      <\/p>\n      <p begin=\"01:17.420\" end=\"01:28.780\">\n        <span begin=\"01:17.420\" end=\"01:25.075\">Dharanidhara <\/span>\n        <span begin=\"01:25.075\" end=\"01:26.803\">aise <\/span>\n        <span begin=\"01:26.803\" end=\"01:28.780\">dyaawe<\/span>\n      <\/p>\n      <p begin=\"01:28.780\" end=\"01:37.690\">\n        <span begin=\"01:28.780\" end=\"01:34.500\">Sarwaanbhuti <\/span>\n        <span begin=\"01:34.500\" end=\"01:35.930\">lin <\/span>\n        <span begin=\"01:35.930\" end=\"01:37.690\">whaawe<\/span>\n      <\/p>\n      <p begin=\"01:37.690\" end=\"01:48.960\">\n        <span begin=\"01:37.690\" end=\"01:39.112\">Tuj <\/span>\n        <span begin=\"01:39.112\" end=\"01:42.613\">sharan, <\/span>\n        <span begin=\"01:42.613\" end=\"01:46.114\">sharan, <\/span>\n        <span begin=\"01:46.114\" end=\"01:48.960\">sharan<\/span>\n      <\/p>\n      <p begin=\"01:48.960\" end=\"01:57.270\">\n        <span begin=\"01:48.960\" end=\"01:50.647\">Alo <\/span>\n        <span begin=\"01:50.647\" end=\"01:53.893\">patit <\/span>\n        <span begin=\"01:53.893\" end=\"01:55.451\">mi <\/span>\n        <span begin=\"01:55.451\" end=\"01:57.270\">jaan<\/span>\n      <\/p>\n      <p begin=\"01:57.270\" end=\"02:09.730\">\n        <span begin=\"01:57.270\" end=\"02:00.076\">Tujha <\/span>\n        <span begin=\"02:00.076\" end=\"02:05.576\">aparaadhi <\/span>\n        <span begin=\"02:05.576\" end=\"02:06.923\">mi <\/span>\n        <span begin=\"02:06.923\" end=\"02:09.730\">khara<\/span>\n      <\/p>\n      <p begin=\"02:09.730\" end=\"02:22.780\">\n        <span begin=\"02:09.730\" end=\"02:11.315\">Ahe <\/span>\n        <span begin=\"02:11.315\" end=\"02:12.778\">he <\/span>\n        <span begin=\"02:12.778\" end=\"02:22.780\">ikshu-chaapadhara<\/span>\n      <\/p>\n      <p begin=\"02:22.780\" end=\"02:32.530\">\n        <span begin=\"02:22.780\" end=\"02:25.693\">Maajhi <\/span>\n        <span begin=\"02:25.693\" end=\"02:27.149\">yeu <\/span>\n        <span begin=\"02:27.149\" end=\"02:28.493\">de <\/span>\n        <span begin=\"02:28.493\" end=\"02:32.530\">karuna<\/span>\n      <\/p>\n      <p begin=\"02:32.530\" end=\"02:37.530\">\n        <span begin=\"02:32.530\" end=\"02:35.030\">Tujalaagi <\/span>\n        <span begin=\"02:35.030\" end=\"02:37.530\">gajaanana<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 13920,
+      "endTime": 23490,
+      "text": "Tuj maagato mi ata",
+      "words": [
+        {
+          "startTime": 13920,
+          "endTime": 15578,
+          "word": "Tuj "
+        },
+        {
+          "startTime": 15578,
+          "endTime": 20299,
+          "word": "maagato "
+        },
+        {
+          "startTime": 20299,
+          "endTime": 21830,
+          "word": "mi "
+        },
+        {
+          "startTime": 21830,
+          "endTime": 23490,
+          "word": "ata"
+        }
+      ]
+    },
+    {
+      "time": 23490,
+      "endTime": 31970,
+      "text": "Maj dyaawe ekadnta",
+      "words": [
+        {
+          "startTime": 23490,
+          "endTime": 25160,
+          "word": "Maj "
+        },
+        {
+          "startTime": 25160,
+          "endTime": 27215,
+          "word": "dyaawe "
+        },
+        {
+          "startTime": 27215,
+          "endTime": 31970,
+          "word": "ekadnta"
+        }
+      ]
+    },
+    {
+      "time": 31970,
+      "endTime": 42320,
+      "text": "Tujhe thhaayi maajhi bhakti",
+      "words": [
+        {
+          "startTime": 31970,
+          "endTime": 33818,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 33818,
+          "endTime": 35912,
+          "word": "thhaayi "
+        },
+        {
+          "startTime": 35912,
+          "endTime": 39115,
+          "word": "maajhi "
+        },
+        {
+          "startTime": 39115,
+          "endTime": 42320,
+          "word": "bhakti"
+        }
+      ]
+    },
+    {
+      "time": 42320,
+      "endTime": 54610,
+      "text": "Wiruthhaawi ganapati",
+      "words": [
+        {
+          "startTime": 42320,
+          "endTime": 48651,
+          "word": "Wiruthhaawi "
+        },
+        {
+          "startTime": 48651,
+          "endTime": 54610,
+          "word": "ganapati"
+        }
+      ]
+    },
+    {
+      "time": 54610,
+      "endTime": 66140,
+      "text": "Tujhe thhaayi jyaachi priti",
+      "words": [
+        {
+          "startTime": 54610,
+          "endTime": 56668,
+          "word": "Tujhe "
+        },
+        {
+          "startTime": 56668,
+          "endTime": 59001,
+          "word": "thhaayi "
+        },
+        {
+          "startTime": 59001,
+          "endTime": 62707,
+          "word": "jyaachi "
+        },
+        {
+          "startTime": 62707,
+          "endTime": 66140,
+          "word": "priti"
+        }
+      ]
+    },
+    {
+      "time": 66140,
+      "endTime": 77420,
+      "text": "Tyaachi ghadaawi sngati",
+      "words": [
+        {
+          "startTime": 66140,
+          "endTime": 69486,
+          "word": "Tyaachi "
+        },
+        {
+          "startTime": 69486,
+          "endTime": 74196,
+          "word": "ghadaawi "
+        },
+        {
+          "startTime": 74196,
+          "endTime": 77420,
+          "word": "sngati"
+        }
+      ]
+    },
+    {
+      "time": 77420,
+      "endTime": 88780,
+      "text": "Dharanidhara aise dyaawe",
+      "words": [
+        {
+          "startTime": 77420,
+          "endTime": 85075,
+          "word": "Dharanidhara "
+        },
+        {
+          "startTime": 85075,
+          "endTime": 86803,
+          "word": "aise "
+        },
+        {
+          "startTime": 86803,
+          "endTime": 88780,
+          "word": "dyaawe"
+        }
+      ]
+    },
+    {
+      "time": 88780,
+      "endTime": 97690,
+      "text": "Sarwaanbhuti lin whaawe",
+      "words": [
+        {
+          "startTime": 88780,
+          "endTime": 94500,
+          "word": "Sarwaanbhuti "
+        },
+        {
+          "startTime": 94500,
+          "endTime": 95930,
+          "word": "lin "
+        },
+        {
+          "startTime": 95930,
+          "endTime": 97690,
+          "word": "whaawe"
+        }
+      ]
+    },
+    {
+      "time": 97690,
+      "endTime": 108960,
+      "text": "Tuj sharan, sharan, sharan",
+      "words": [
+        {
+          "startTime": 97690,
+          "endTime": 99112,
+          "word": "Tuj "
+        },
+        {
+          "startTime": 99112,
+          "endTime": 102613,
+          "word": "sharan, "
+        },
+        {
+          "startTime": 102613,
+          "endTime": 106114,
+          "word": "sharan, "
+        },
+        {
+          "startTime": 106114,
+          "endTime": 108960,
+          "word": "sharan"
+        }
+      ]
+    },
+    {
+      "time": 108960,
+      "endTime": 117270,
+      "text": "Alo patit mi jaan",
+      "words": [
+        {
+          "startTime": 108960,
+          "endTime": 110647,
+          "word": "Alo "
+        },
+        {
+          "startTime": 110647,
+          "endTime": 113893,
+          "word": "patit "
+        },
+        {
+          "startTime": 113893,
+          "endTime": 115451,
+          "word": "mi "
+        },
+        {
+          "startTime": 115451,
+          "endTime": 117270,
+          "word": "jaan"
+        }
+      ]
+    },
+    {
+      "time": 117270,
+      "endTime": 129730,
+      "text": "Tujha aparaadhi mi khara",
+      "words": [
+        {
+          "startTime": 117270,
+          "endTime": 120076,
+          "word": "Tujha "
+        },
+        {
+          "startTime": 120076,
+          "endTime": 125576,
+          "word": "aparaadhi "
+        },
+        {
+          "startTime": 125576,
+          "endTime": 126923,
+          "word": "mi "
+        },
+        {
+          "startTime": 126923,
+          "endTime": 129730,
+          "word": "khara"
+        }
+      ]
+    },
+    {
+      "time": 129730,
+      "endTime": 142780,
+      "text": "Ahe he ikshu-chaapadhara",
+      "words": [
+        {
+          "startTime": 129730,
+          "endTime": 131315,
+          "word": "Ahe "
+        },
+        {
+          "startTime": 131315,
+          "endTime": 132778,
+          "word": "he "
+        },
+        {
+          "startTime": 132778,
+          "endTime": 142780,
+          "word": "ikshu-chaapadhara"
+        }
+      ]
+    },
+    {
+      "time": 142780,
+      "endTime": 152530,
+      "text": "Maajhi yeu de karuna",
+      "words": [
+        {
+          "startTime": 142780,
+          "endTime": 145693,
+          "word": "Maajhi "
+        },
+        {
+          "startTime": 145693,
+          "endTime": 147149,
+          "word": "yeu "
+        },
+        {
+          "startTime": 147149,
+          "endTime": 148493,
+          "word": "de "
+        },
+        {
+          "startTime": 148493,
+          "endTime": 152530,
+          "word": "karuna"
+        }
+      ]
+    },
+    {
+      "time": 152530,
+      "endTime": 157530,
+      "text": "Tujalaagi gajaanana",
+      "words": [
+        {
+          "startTime": 152530,
+          "endTime": 155030,
+          "word": "Tujalaagi "
+        },
+        {
+          "startTime": 155030,
+          "endTime": 157530,
+          "word": "gajaanana"
+        }
+      ]
+    }
+  ]
+}
