@@ -1,0 +1,1459 @@
+{
+  "videoId": "SGjLvfiKLuU",
+  "title": "Messy (Remix)",
+  "artist": "Jesse Bloch",
+  "duration": 217,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:15.000\" end=\"00:17.610\">\n        <span begin=\"00:15.000\" end=\"00:15.752\">&quot;Love <\/span>\n        <span begin=\"00:15.752\" end=\"00:16.354\">Is <\/span>\n        <span begin=\"00:16.354\" end=\"00:17.610\">Messy<\/span>\n      <\/p>\n      <p begin=\"00:17.610\" end=\"00:24.900\">\n        <span begin=\"00:17.610\" end=\"00:18.334\">You’re <\/span>\n        <span begin=\"00:18.334\" end=\"00:19.511\">always <\/span>\n        <span begin=\"00:19.511\" end=\"00:20.733\">runnin’ <\/span>\n        <span begin=\"00:20.733\" end=\"00:21.366\">from <\/span>\n        <span begin=\"00:21.366\" end=\"00:21.954\">the <\/span>\n        <span begin=\"00:21.954\" end=\"00:22.542\">fun <\/span>\n        <span begin=\"00:22.542\" end=\"00:23.175\">life <\/span>\n        <span begin=\"00:23.175\" end=\"00:23.718\">is <\/span>\n        <span begin=\"00:23.718\" end=\"00:24.900\">givin’<\/span>\n      <\/p>\n      <p begin=\"00:24.900\" end=\"00:29.740\">\n        <span begin=\"00:24.900\" end=\"00:25.447\">So <\/span>\n        <span begin=\"00:25.447\" end=\"00:26.634\">afraid <\/span>\n        <span begin=\"00:26.634\" end=\"00:27.273\">that <\/span>\n        <span begin=\"00:27.273\" end=\"00:27.820\">it <\/span>\n        <span begin=\"00:27.820\" end=\"00:28.504\">won’t <\/span>\n        <span begin=\"00:28.504\" end=\"00:29.143\">work <\/span>\n        <span begin=\"00:29.143\" end=\"00:29.740\">out<\/span>\n      <\/p>\n      <p begin=\"00:29.740\" end=\"00:36.920\">\n        <span begin=\"00:29.740\" end=\"00:30.342\">But <\/span>\n        <span begin=\"00:30.342\" end=\"00:30.851\">I <\/span>\n        <span begin=\"00:30.851\" end=\"00:31.453\">can <\/span>\n        <span begin=\"00:31.453\" end=\"00:32.101\">tell <\/span>\n        <span begin=\"00:32.101\" end=\"00:32.703\">you <\/span>\n        <span begin=\"00:32.703\" end=\"00:33.258\">if <\/span>\n        <span begin=\"00:33.258\" end=\"00:33.860\">you <\/span>\n        <span begin=\"00:33.860\" end=\"00:34.554\">trust <\/span>\n        <span begin=\"00:34.554\" end=\"00:35.202\">just <\/span>\n        <span begin=\"00:35.202\" end=\"00:35.711\">a <\/span>\n        <span begin=\"00:35.711\" end=\"00:36.920\">little<\/span>\n      <\/p>\n      <p begin=\"00:36.920\" end=\"00:42.440\">\n        <span begin=\"00:36.920\" end=\"00:38.151\">There’s <\/span>\n        <span begin=\"00:38.151\" end=\"00:38.789\">some <\/span>\n        <span begin=\"00:38.789\" end=\"00:39.427\">good <\/span>\n        <span begin=\"00:39.427\" end=\"00:39.974\">if <\/span>\n        <span begin=\"00:39.974\" end=\"00:40.567\">you <\/span>\n        <span begin=\"00:40.567\" end=\"00:41.251\">stick <\/span>\n        <span begin=\"00:41.251\" end=\"00:42.440\">around<\/span>\n      <\/p>\n      <p begin=\"00:42.440\" end=\"00:46.570\">\n        <span begin=\"00:42.440\" end=\"00:43.119\">You <\/span>\n        <span begin=\"00:43.119\" end=\"00:44.530\">oughtta <\/span>\n        <span begin=\"00:44.530\" end=\"00:45.261\">know <\/span>\n        <span begin=\"00:45.261\" end=\"00:45.888\">by <\/span>\n        <span begin=\"00:45.888\" end=\"00:46.570\">now<\/span>\n      <\/p>\n      <p begin=\"00:46.570\" end=\"00:50.140\">\n        <span begin=\"00:46.570\" end=\"00:47.165\">I’d <\/span>\n        <span begin=\"00:47.165\" end=\"00:48.309\">never <\/span>\n        <span begin=\"00:48.309\" end=\"00:48.904\">let <\/span>\n        <span begin=\"00:48.904\" end=\"00:49.499\">you <\/span>\n        <span begin=\"00:49.499\" end=\"00:50.140\">down<\/span>\n      <\/p>\n      <p begin=\"00:50.140\" end=\"00:54.280\">\n        <span begin=\"00:50.140\" end=\"00:50.821\">You <\/span>\n        <span begin=\"00:50.821\" end=\"00:52.235\">oughtta <\/span>\n        <span begin=\"00:52.235\" end=\"00:52.968\">know <\/span>\n        <span begin=\"00:52.968\" end=\"00:53.596\">by <\/span>\n        <span begin=\"00:53.596\" end=\"00:54.280\">now<\/span>\n      <\/p>\n      <p begin=\"00:54.280\" end=\"00:58.450\">\n        <span begin=\"00:54.280\" end=\"00:54.836\">It <\/span>\n        <span begin=\"00:54.836\" end=\"00:55.438\">all <\/span>\n        <span begin=\"00:55.438\" end=\"00:56.133\">works <\/span>\n        <span begin=\"00:56.133\" end=\"00:56.735\">out <\/span>\n        <span begin=\"00:56.735\" end=\"00:58.450\">somehow<\/span>\n      <\/p>\n      <p begin=\"00:58.450\" end=\"01:04.810\">\n        <span begin=\"00:58.450\" end=\"00:59.443\">Oooo, <\/span>\n        <span begin=\"00:59.443\" end=\"01:00.933\">baby, <\/span>\n        <span begin=\"01:00.933\" end=\"01:01.628\">they <\/span>\n        <span begin=\"01:01.628\" end=\"01:02.273\">say <\/span>\n        <span begin=\"01:02.273\" end=\"01:02.968\">love <\/span>\n        <span begin=\"01:02.968\" end=\"01:03.564\">is <\/span>\n        <span begin=\"01:03.564\" end=\"01:04.810\">messy<\/span>\n      <\/p>\n      <p begin=\"01:04.810\" end=\"01:11.710\">\n        <span begin=\"01:04.810\" end=\"01:05.788\">Well, <\/span>\n        <span begin=\"01:05.788\" end=\"01:06.473\">that <\/span>\n        <span begin=\"01:06.473\" end=\"01:07.207\">might <\/span>\n        <span begin=\"01:07.207\" end=\"01:07.794\">be <\/span>\n        <span begin=\"01:07.794\" end=\"01:08.430\">but <\/span>\n        <span begin=\"01:08.430\" end=\"01:09.115\">it’s <\/span>\n        <span begin=\"01:09.115\" end=\"01:09.751\">all <\/span>\n        <span begin=\"01:09.751\" end=\"01:10.436\">that <\/span>\n        <span begin=\"01:10.436\" end=\"01:11.023\">we <\/span>\n        <span begin=\"01:11.023\" end=\"01:11.710\">need<\/span>\n      <\/p>\n      <p begin=\"01:11.710\" end=\"01:18.390\">\n        <span begin=\"01:11.710\" end=\"01:12.346\">It’s <\/span>\n        <span begin=\"01:12.346\" end=\"01:13.527\">sticky <\/span>\n        <span begin=\"01:13.527\" end=\"01:14.208\">sweet <\/span>\n        <span begin=\"01:14.208\" end=\"01:14.798\">and <\/span>\n        <span begin=\"01:14.798\" end=\"01:15.343\">it <\/span>\n        <span begin=\"01:15.343\" end=\"01:16.024\">ain’t <\/span>\n        <span begin=\"01:16.024\" end=\"01:17.205\">always <\/span>\n        <span begin=\"01:17.205\" end=\"01:18.390\">pretty<\/span>\n      <\/p>\n      <p begin=\"01:18.390\" end=\"01:26.630\">\n        <span begin=\"01:18.390\" end=\"01:19.027\">But <\/span>\n        <span begin=\"01:19.027\" end=\"01:19.566\">I <\/span>\n        <span begin=\"01:19.566\" end=\"01:20.301\">don’t <\/span>\n        <span begin=\"01:20.301\" end=\"01:20.987\">mind <\/span>\n        <span begin=\"01:20.987\" end=\"01:21.575\">so <\/span>\n        <span begin=\"01:21.575\" end=\"01:22.261\">come <\/span>\n        <span begin=\"01:22.261\" end=\"01:22.849\">on <\/span>\n        <span begin=\"01:22.849\" end=\"01:23.486\">and <\/span>\n        <span begin=\"01:23.486\" end=\"01:24.123\">get <\/span>\n        <span begin=\"01:24.123\" end=\"01:25.349\">messy <\/span>\n        <span begin=\"01:25.349\" end=\"01:26.035\">with <\/span>\n        <span begin=\"01:26.035\" end=\"01:26.630\">me<\/span>\n      <\/p>\n      <p begin=\"01:26.630\" end=\"01:34.160\">\n        <span begin=\"01:26.630\" end=\"01:27.268\">Love <\/span>\n        <span begin=\"01:27.268\" end=\"01:28.043\">doesn’t <\/span>\n        <span begin=\"01:28.043\" end=\"01:28.681\">come <\/span>\n        <span begin=\"01:28.681\" end=\"01:29.228\">in <\/span>\n        <span begin=\"01:29.228\" end=\"01:29.730\">a <\/span>\n        <span begin=\"01:29.730\" end=\"01:32.924\">picture-perfect <\/span>\n        <span begin=\"01:32.924\" end=\"01:34.160\">package<\/span>\n      <\/p>\n      <p begin=\"01:34.160\" end=\"01:39.400\">\n        <span begin=\"01:34.160\" end=\"01:34.827\">All <\/span>\n        <span begin=\"01:34.827\" end=\"01:35.546\">tied <\/span>\n        <span begin=\"01:35.546\" end=\"01:36.162\">up <\/span>\n        <span begin=\"01:36.162\" end=\"01:36.881\">with <\/span>\n        <span begin=\"01:36.881\" end=\"01:37.446\">a <\/span>\n        <span begin=\"01:37.446\" end=\"01:38.730\">fancy <\/span>\n        <span begin=\"01:38.730\" end=\"01:39.400\">bow<\/span>\n      <\/p>\n      <p begin=\"01:39.400\" end=\"01:46.850\">\n        <span begin=\"01:39.400\" end=\"01:42.164\">Everybody <\/span>\n        <span begin=\"01:42.164\" end=\"01:42.866\">wants <\/span>\n        <span begin=\"01:42.866\" end=\"01:43.381\">a <\/span>\n        <span begin=\"01:43.381\" end=\"01:44.552\">happy <\/span>\n        <span begin=\"01:44.552\" end=\"01:45.676\">ever <\/span>\n        <span begin=\"01:45.676\" end=\"01:46.850\">after<\/span>\n      <\/p>\n      <p begin=\"01:46.850\" end=\"01:52.230\">\n        <span begin=\"01:46.850\" end=\"01:47.442\">But <\/span>\n        <span begin=\"01:47.442\" end=\"01:48.673\">there’s <\/span>\n        <span begin=\"01:48.673\" end=\"01:49.220\">no <\/span>\n        <span begin=\"01:49.220\" end=\"01:49.812\">way <\/span>\n        <span begin=\"01:49.812\" end=\"01:50.495\">we’ll <\/span>\n        <span begin=\"01:50.495\" end=\"01:51.589\">ever <\/span>\n        <span begin=\"01:51.589\" end=\"01:52.230\">know<\/span>\n      <\/p>\n      <p begin=\"01:52.230\" end=\"01:56.360\">\n        <span begin=\"01:52.230\" end=\"01:52.909\">You <\/span>\n        <span begin=\"01:52.909\" end=\"01:54.320\">oughtta <\/span>\n        <span begin=\"01:54.320\" end=\"01:55.051\">know <\/span>\n        <span begin=\"01:55.051\" end=\"01:55.678\">by <\/span>\n        <span begin=\"01:55.678\" end=\"01:56.360\">now<\/span>\n      <\/p>\n      <p begin=\"01:56.360\" end=\"01:59.930\">\n        <span begin=\"01:56.360\" end=\"01:56.955\">I’d <\/span>\n        <span begin=\"01:56.955\" end=\"01:58.099\">never <\/span>\n        <span begin=\"01:58.099\" end=\"01:58.694\">let <\/span>\n        <span begin=\"01:58.694\" end=\"01:59.289\">you <\/span>\n        <span begin=\"01:59.289\" end=\"01:59.930\">down<\/span>\n      <\/p>\n      <p begin=\"01:59.930\" end=\"02:04.070\">\n        <span begin=\"01:59.930\" end=\"02:00.611\">You <\/span>\n        <span begin=\"02:00.611\" end=\"02:02.025\">oughtta <\/span>\n        <span begin=\"02:02.025\" end=\"02:02.758\">know <\/span>\n        <span begin=\"02:02.758\" end=\"02:03.386\">by <\/span>\n        <span begin=\"02:03.386\" end=\"02:04.070\">now<\/span>\n      <\/p>\n      <p begin=\"02:04.070\" end=\"02:08.240\">\n        <span begin=\"02:04.070\" end=\"02:04.626\">It <\/span>\n        <span begin=\"02:04.626\" end=\"02:05.228\">all <\/span>\n        <span begin=\"02:05.228\" end=\"02:05.923\">works <\/span>\n        <span begin=\"02:05.923\" end=\"02:06.525\">out <\/span>\n        <span begin=\"02:06.525\" end=\"02:08.240\">somehow<\/span>\n      <\/p>\n      <p begin=\"02:08.240\" end=\"02:14.600\">\n        <span begin=\"02:08.240\" end=\"02:09.233\">Oooo, <\/span>\n        <span begin=\"02:09.233\" end=\"02:10.723\">baby, <\/span>\n        <span begin=\"02:10.723\" end=\"02:11.418\">they <\/span>\n        <span begin=\"02:11.418\" end=\"02:12.063\">say <\/span>\n        <span begin=\"02:12.063\" end=\"02:12.758\">love <\/span>\n        <span begin=\"02:12.758\" end=\"02:13.354\">is <\/span>\n        <span begin=\"02:13.354\" end=\"02:14.600\">messy<\/span>\n      <\/p>\n      <p begin=\"02:14.600\" end=\"02:21.500\">\n        <span begin=\"02:14.600\" end=\"02:15.578\">Well, <\/span>\n        <span begin=\"02:15.578\" end=\"02:16.263\">that <\/span>\n        <span begin=\"02:16.263\" end=\"02:16.997\">might <\/span>\n        <span begin=\"02:16.997\" end=\"02:17.584\">be <\/span>\n        <span begin=\"02:17.584\" end=\"02:18.220\">but <\/span>\n        <span begin=\"02:18.220\" end=\"02:18.905\">it’s <\/span>\n        <span begin=\"02:18.905\" end=\"02:19.541\">all <\/span>\n        <span begin=\"02:19.541\" end=\"02:20.226\">that <\/span>\n        <span begin=\"02:20.226\" end=\"02:20.813\">we <\/span>\n        <span begin=\"02:20.813\" end=\"02:21.500\">need<\/span>\n      <\/p>\n      <p begin=\"02:21.500\" end=\"02:28.180\">\n        <span begin=\"02:21.500\" end=\"02:22.136\">It’s <\/span>\n        <span begin=\"02:22.136\" end=\"02:23.317\">sticky <\/span>\n        <span begin=\"02:23.317\" end=\"02:23.998\">sweet <\/span>\n        <span begin=\"02:23.998\" end=\"02:24.588\">and <\/span>\n        <span begin=\"02:24.588\" end=\"02:25.133\">it <\/span>\n        <span begin=\"02:25.133\" end=\"02:25.814\">ain’t <\/span>\n        <span begin=\"02:25.814\" end=\"02:26.995\">always <\/span>\n        <span begin=\"02:26.995\" end=\"02:28.180\">pretty<\/span>\n      <\/p>\n      <p begin=\"02:28.180\" end=\"02:35.820\">\n        <span begin=\"02:28.180\" end=\"02:28.722\">I <\/span>\n        <span begin=\"02:28.722\" end=\"02:29.461\">don’t <\/span>\n        <span begin=\"02:29.461\" end=\"02:30.151\">mind <\/span>\n        <span begin=\"02:30.151\" end=\"02:30.742\">so <\/span>\n        <span begin=\"02:30.742\" end=\"02:31.432\">come <\/span>\n        <span begin=\"02:31.432\" end=\"02:32.023\">on <\/span>\n        <span begin=\"02:32.023\" end=\"02:32.663\">and <\/span>\n        <span begin=\"02:32.663\" end=\"02:33.303\">get <\/span>\n        <span begin=\"02:33.303\" end=\"02:34.535\">messy <\/span>\n        <span begin=\"02:34.535\" end=\"02:35.225\">with <\/span>\n        <span begin=\"02:35.225\" end=\"02:35.820\">me<\/span>\n      <\/p>\n      <p begin=\"02:35.820\" end=\"02:40.840\">\n        <span begin=\"02:35.820\" end=\"02:36.344\">Woah <\/span>\n        <span begin=\"02:36.344\" end=\"02:36.943\">! <\/span>\n        <span begin=\"02:36.943\" end=\"02:37.654\">Nah, <\/span>\n        <span begin=\"02:37.654\" end=\"02:38.365\">nah, <\/span>\n        <span begin=\"02:38.365\" end=\"02:38.852\">nah <\/span>\n        <span begin=\"02:38.852\" end=\"02:39.451\">! <\/span>\n        <span begin=\"02:39.451\" end=\"02:40.237\">Woo-oo <\/span>\n        <span begin=\"02:40.237\" end=\"02:40.840\">!<\/span>\n      <\/p>\n      <p begin=\"02:40.840\" end=\"02:47.200\">\n        <span begin=\"02:40.840\" end=\"02:41.833\">Oooo, <\/span>\n        <span begin=\"02:41.833\" end=\"02:43.323\">baby, <\/span>\n        <span begin=\"02:43.323\" end=\"02:44.018\">they <\/span>\n        <span begin=\"02:44.018\" end=\"02:44.663\">say <\/span>\n        <span begin=\"02:44.663\" end=\"02:45.358\">love <\/span>\n        <span begin=\"02:45.358\" end=\"02:45.954\">is <\/span>\n        <span begin=\"02:45.954\" end=\"02:47.200\">messy<\/span>\n      <\/p>\n      <p begin=\"02:47.200\" end=\"02:54.100\">\n        <span begin=\"02:47.200\" end=\"02:48.178\">Well, <\/span>\n        <span begin=\"02:48.178\" end=\"02:48.863\">that <\/span>\n        <span begin=\"02:48.863\" end=\"02:49.597\">might <\/span>\n        <span begin=\"02:49.597\" end=\"02:50.184\">be <\/span>\n        <span begin=\"02:50.184\" end=\"02:50.820\">but <\/span>\n        <span begin=\"02:50.820\" end=\"02:51.505\">it’s <\/span>\n        <span begin=\"02:51.505\" end=\"02:52.141\">all <\/span>\n        <span begin=\"02:52.141\" end=\"02:52.826\">that <\/span>\n        <span begin=\"02:52.826\" end=\"02:53.413\">we <\/span>\n        <span begin=\"02:53.413\" end=\"02:54.100\">need<\/span>\n      <\/p>\n      <p begin=\"02:54.100\" end=\"03:00.780\">\n        <span begin=\"02:54.100\" end=\"02:54.736\">It’s <\/span>\n        <span begin=\"02:54.736\" end=\"02:55.917\">sticky <\/span>\n        <span begin=\"02:55.917\" end=\"02:56.598\">sweet <\/span>\n        <span begin=\"02:56.598\" end=\"02:57.188\">and <\/span>\n        <span begin=\"02:57.188\" end=\"02:57.733\">it <\/span>\n        <span begin=\"02:57.733\" end=\"02:58.414\">ain’t <\/span>\n        <span begin=\"02:58.414\" end=\"02:59.595\">always <\/span>\n        <span begin=\"02:59.595\" end=\"03:00.780\">pretty<\/span>\n      <\/p>\n      <p begin=\"03:00.780\" end=\"03:09.020\">\n        <span begin=\"03:00.780\" end=\"03:01.417\">But <\/span>\n        <span begin=\"03:01.417\" end=\"03:01.956\">I <\/span>\n        <span begin=\"03:01.956\" end=\"03:02.691\">don’t <\/span>\n        <span begin=\"03:02.691\" end=\"03:03.377\">mind <\/span>\n        <span begin=\"03:03.377\" end=\"03:03.965\">so <\/span>\n        <span begin=\"03:03.965\" end=\"03:04.651\">come <\/span>\n        <span begin=\"03:04.651\" end=\"03:05.239\">on <\/span>\n        <span begin=\"03:05.239\" end=\"03:05.876\">and <\/span>\n        <span begin=\"03:05.876\" end=\"03:06.513\">get <\/span>\n        <span begin=\"03:06.513\" end=\"03:07.739\">messy <\/span>\n        <span begin=\"03:07.739\" end=\"03:08.425\">with <\/span>\n        <span begin=\"03:08.425\" end=\"03:09.020\">me<\/span>\n      <\/p>\n      <p begin=\"03:09.020\" end=\"03:12.950\">\n        <span begin=\"03:09.020\" end=\"03:09.659\">Come <\/span>\n        <span begin=\"03:09.659\" end=\"03:10.207\">on <\/span>\n        <span begin=\"03:10.207\" end=\"03:10.938\">! <\/span>\n        <span begin=\"03:10.938\" end=\"03:11.851\">Oooo, <\/span>\n        <span begin=\"03:11.851\" end=\"03:12.950\">baby<\/span>\n      <\/p>\n      <p begin=\"03:12.950\" end=\"03:16.890\">\n        <span begin=\"03:12.950\" end=\"03:13.591\">Come <\/span>\n        <span begin=\"03:13.591\" end=\"03:14.140\">on <\/span>\n        <span begin=\"03:14.140\" end=\"03:14.873\">! <\/span>\n        <span begin=\"03:14.873\" end=\"03:15.789\">Oooo, <\/span>\n        <span begin=\"03:15.789\" end=\"03:16.890\">baby<\/span>\n      <\/p>\n      <p begin=\"03:16.890\" end=\"03:20.820\">\n        <span begin=\"03:16.890\" end=\"03:17.529\">Come <\/span>\n        <span begin=\"03:17.529\" end=\"03:18.077\">on <\/span>\n        <span begin=\"03:18.077\" end=\"03:18.808\">! <\/span>\n        <span begin=\"03:18.808\" end=\"03:19.721\">Oooo, <\/span>\n        <span begin=\"03:19.721\" end=\"03:20.820\">baby<\/span>\n      <\/p>\n      <p begin=\"03:20.820\" end=\"03:25.820\">\n        <span begin=\"03:20.820\" end=\"03:21.633\">Come <\/span>\n        <span begin=\"03:21.633\" end=\"03:22.330\">on <\/span>\n        <span begin=\"03:22.330\" end=\"03:23.260\">! <\/span>\n        <span begin=\"03:23.260\" end=\"03:24.422\">Oooo, <\/span>\n        <span begin=\"03:24.422\" end=\"03:25.820\">baby<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 15000,
+      "endTime": 17610,
+      "text": "\"Love Is Messy",
+      "words": [
+        {
+          "startTime": 15000,
+          "endTime": 15752,
+          "word": "\"Love "
+        },
+        {
+          "startTime": 15752,
+          "endTime": 16354,
+          "word": "Is "
+        },
+        {
+          "startTime": 16354,
+          "endTime": 17610,
+          "word": "Messy"
+        }
+      ]
+    },
+    {
+      "time": 17610,
+      "endTime": 24900,
+      "text": "You’re always runnin’ from the fun life is givin’",
+      "words": [
+        {
+          "startTime": 17610,
+          "endTime": 18334,
+          "word": "You’re "
+        },
+        {
+          "startTime": 18334,
+          "endTime": 19511,
+          "word": "always "
+        },
+        {
+          "startTime": 19511,
+          "endTime": 20733,
+          "word": "runnin’ "
+        },
+        {
+          "startTime": 20733,
+          "endTime": 21366,
+          "word": "from "
+        },
+        {
+          "startTime": 21366,
+          "endTime": 21954,
+          "word": "the "
+        },
+        {
+          "startTime": 21954,
+          "endTime": 22542,
+          "word": "fun "
+        },
+        {
+          "startTime": 22542,
+          "endTime": 23175,
+          "word": "life "
+        },
+        {
+          "startTime": 23175,
+          "endTime": 23718,
+          "word": "is "
+        },
+        {
+          "startTime": 23718,
+          "endTime": 24900,
+          "word": "givin’"
+        }
+      ]
+    },
+    {
+      "time": 24900,
+      "endTime": 29740,
+      "text": "So afraid that it won’t work out",
+      "words": [
+        {
+          "startTime": 24900,
+          "endTime": 25447,
+          "word": "So "
+        },
+        {
+          "startTime": 25447,
+          "endTime": 26634,
+          "word": "afraid "
+        },
+        {
+          "startTime": 26634,
+          "endTime": 27273,
+          "word": "that "
+        },
+        {
+          "startTime": 27273,
+          "endTime": 27820,
+          "word": "it "
+        },
+        {
+          "startTime": 27820,
+          "endTime": 28504,
+          "word": "won’t "
+        },
+        {
+          "startTime": 28504,
+          "endTime": 29143,
+          "word": "work "
+        },
+        {
+          "startTime": 29143,
+          "endTime": 29740,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 29740,
+      "endTime": 36920,
+      "text": "But I can tell you if you trust just a little",
+      "words": [
+        {
+          "startTime": 29740,
+          "endTime": 30342,
+          "word": "But "
+        },
+        {
+          "startTime": 30342,
+          "endTime": 30851,
+          "word": "I "
+        },
+        {
+          "startTime": 30851,
+          "endTime": 31453,
+          "word": "can "
+        },
+        {
+          "startTime": 31453,
+          "endTime": 32101,
+          "word": "tell "
+        },
+        {
+          "startTime": 32101,
+          "endTime": 32703,
+          "word": "you "
+        },
+        {
+          "startTime": 32703,
+          "endTime": 33258,
+          "word": "if "
+        },
+        {
+          "startTime": 33258,
+          "endTime": 33860,
+          "word": "you "
+        },
+        {
+          "startTime": 33860,
+          "endTime": 34554,
+          "word": "trust "
+        },
+        {
+          "startTime": 34554,
+          "endTime": 35202,
+          "word": "just "
+        },
+        {
+          "startTime": 35202,
+          "endTime": 35711,
+          "word": "a "
+        },
+        {
+          "startTime": 35711,
+          "endTime": 36920,
+          "word": "little"
+        }
+      ]
+    },
+    {
+      "time": 36920,
+      "endTime": 42440,
+      "text": "There’s some good if you stick around",
+      "words": [
+        {
+          "startTime": 36920,
+          "endTime": 38151,
+          "word": "There’s "
+        },
+        {
+          "startTime": 38151,
+          "endTime": 38789,
+          "word": "some "
+        },
+        {
+          "startTime": 38789,
+          "endTime": 39427,
+          "word": "good "
+        },
+        {
+          "startTime": 39427,
+          "endTime": 39974,
+          "word": "if "
+        },
+        {
+          "startTime": 39974,
+          "endTime": 40567,
+          "word": "you "
+        },
+        {
+          "startTime": 40567,
+          "endTime": 41251,
+          "word": "stick "
+        },
+        {
+          "startTime": 41251,
+          "endTime": 42440,
+          "word": "around"
+        }
+      ]
+    },
+    {
+      "time": 42440,
+      "endTime": 46570,
+      "text": "You oughtta know by now",
+      "words": [
+        {
+          "startTime": 42440,
+          "endTime": 43119,
+          "word": "You "
+        },
+        {
+          "startTime": 43119,
+          "endTime": 44530,
+          "word": "oughtta "
+        },
+        {
+          "startTime": 44530,
+          "endTime": 45261,
+          "word": "know "
+        },
+        {
+          "startTime": 45261,
+          "endTime": 45888,
+          "word": "by "
+        },
+        {
+          "startTime": 45888,
+          "endTime": 46570,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 46570,
+      "endTime": 50140,
+      "text": "I’d never let you down",
+      "words": [
+        {
+          "startTime": 46570,
+          "endTime": 47165,
+          "word": "I’d "
+        },
+        {
+          "startTime": 47165,
+          "endTime": 48309,
+          "word": "never "
+        },
+        {
+          "startTime": 48309,
+          "endTime": 48904,
+          "word": "let "
+        },
+        {
+          "startTime": 48904,
+          "endTime": 49499,
+          "word": "you "
+        },
+        {
+          "startTime": 49499,
+          "endTime": 50140,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 50140,
+      "endTime": 54280,
+      "text": "You oughtta know by now",
+      "words": [
+        {
+          "startTime": 50140,
+          "endTime": 50821,
+          "word": "You "
+        },
+        {
+          "startTime": 50821,
+          "endTime": 52235,
+          "word": "oughtta "
+        },
+        {
+          "startTime": 52235,
+          "endTime": 52968,
+          "word": "know "
+        },
+        {
+          "startTime": 52968,
+          "endTime": 53596,
+          "word": "by "
+        },
+        {
+          "startTime": 53596,
+          "endTime": 54280,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 54280,
+      "endTime": 58450,
+      "text": "It all works out somehow",
+      "words": [
+        {
+          "startTime": 54280,
+          "endTime": 54836,
+          "word": "It "
+        },
+        {
+          "startTime": 54836,
+          "endTime": 55438,
+          "word": "all "
+        },
+        {
+          "startTime": 55438,
+          "endTime": 56133,
+          "word": "works "
+        },
+        {
+          "startTime": 56133,
+          "endTime": 56735,
+          "word": "out "
+        },
+        {
+          "startTime": 56735,
+          "endTime": 58450,
+          "word": "somehow"
+        }
+      ]
+    },
+    {
+      "time": 58450,
+      "endTime": 64810,
+      "text": "Oooo, baby, they say love is messy",
+      "words": [
+        {
+          "startTime": 58450,
+          "endTime": 59443,
+          "word": "Oooo, "
+        },
+        {
+          "startTime": 59443,
+          "endTime": 60933,
+          "word": "baby, "
+        },
+        {
+          "startTime": 60933,
+          "endTime": 61628,
+          "word": "they "
+        },
+        {
+          "startTime": 61628,
+          "endTime": 62273,
+          "word": "say "
+        },
+        {
+          "startTime": 62273,
+          "endTime": 62968,
+          "word": "love "
+        },
+        {
+          "startTime": 62968,
+          "endTime": 63564,
+          "word": "is "
+        },
+        {
+          "startTime": 63564,
+          "endTime": 64810,
+          "word": "messy"
+        }
+      ]
+    },
+    {
+      "time": 64810,
+      "endTime": 71710,
+      "text": "Well, that might be but it’s all that we need",
+      "words": [
+        {
+          "startTime": 64810,
+          "endTime": 65788,
+          "word": "Well, "
+        },
+        {
+          "startTime": 65788,
+          "endTime": 66473,
+          "word": "that "
+        },
+        {
+          "startTime": 66473,
+          "endTime": 67207,
+          "word": "might "
+        },
+        {
+          "startTime": 67207,
+          "endTime": 67794,
+          "word": "be "
+        },
+        {
+          "startTime": 67794,
+          "endTime": 68430,
+          "word": "but "
+        },
+        {
+          "startTime": 68430,
+          "endTime": 69115,
+          "word": "it’s "
+        },
+        {
+          "startTime": 69115,
+          "endTime": 69751,
+          "word": "all "
+        },
+        {
+          "startTime": 69751,
+          "endTime": 70436,
+          "word": "that "
+        },
+        {
+          "startTime": 70436,
+          "endTime": 71023,
+          "word": "we "
+        },
+        {
+          "startTime": 71023,
+          "endTime": 71710,
+          "word": "need"
+        }
+      ]
+    },
+    {
+      "time": 71710,
+      "endTime": 78390,
+      "text": "It’s sticky sweet  and it ain’t always pretty",
+      "words": [
+        {
+          "startTime": 71710,
+          "endTime": 72346,
+          "word": "It’s "
+        },
+        {
+          "startTime": 72346,
+          "endTime": 73527,
+          "word": "sticky "
+        },
+        {
+          "startTime": 73527,
+          "endTime": 74208,
+          "word": "sweet "
+        },
+        {
+          "startTime": 74208,
+          "endTime": 74798,
+          "word": "and "
+        },
+        {
+          "startTime": 74798,
+          "endTime": 75343,
+          "word": "it "
+        },
+        {
+          "startTime": 75343,
+          "endTime": 76024,
+          "word": "ain’t "
+        },
+        {
+          "startTime": 76024,
+          "endTime": 77205,
+          "word": "always "
+        },
+        {
+          "startTime": 77205,
+          "endTime": 78390,
+          "word": "pretty"
+        }
+      ]
+    },
+    {
+      "time": 78390,
+      "endTime": 86630,
+      "text": "But I don’t mind so come on and get messy with me",
+      "words": [
+        {
+          "startTime": 78390,
+          "endTime": 79027,
+          "word": "But "
+        },
+        {
+          "startTime": 79027,
+          "endTime": 79566,
+          "word": "I "
+        },
+        {
+          "startTime": 79566,
+          "endTime": 80301,
+          "word": "don’t "
+        },
+        {
+          "startTime": 80301,
+          "endTime": 80987,
+          "word": "mind "
+        },
+        {
+          "startTime": 80987,
+          "endTime": 81575,
+          "word": "so "
+        },
+        {
+          "startTime": 81575,
+          "endTime": 82261,
+          "word": "come "
+        },
+        {
+          "startTime": 82261,
+          "endTime": 82849,
+          "word": "on "
+        },
+        {
+          "startTime": 82849,
+          "endTime": 83486,
+          "word": "and "
+        },
+        {
+          "startTime": 83486,
+          "endTime": 84123,
+          "word": "get "
+        },
+        {
+          "startTime": 84123,
+          "endTime": 85349,
+          "word": "messy "
+        },
+        {
+          "startTime": 85349,
+          "endTime": 86035,
+          "word": "with "
+        },
+        {
+          "startTime": 86035,
+          "endTime": 86630,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 86630,
+      "endTime": 94160,
+      "text": "Love doesn’t come in a picture-perfect package",
+      "words": [
+        {
+          "startTime": 86630,
+          "endTime": 87268,
+          "word": "Love "
+        },
+        {
+          "startTime": 87268,
+          "endTime": 88043,
+          "word": "doesn’t "
+        },
+        {
+          "startTime": 88043,
+          "endTime": 88681,
+          "word": "come "
+        },
+        {
+          "startTime": 88681,
+          "endTime": 89228,
+          "word": "in "
+        },
+        {
+          "startTime": 89228,
+          "endTime": 89730,
+          "word": "a "
+        },
+        {
+          "startTime": 89730,
+          "endTime": 92924,
+          "word": "picture-perfect "
+        },
+        {
+          "startTime": 92924,
+          "endTime": 94160,
+          "word": "package"
+        }
+      ]
+    },
+    {
+      "time": 94160,
+      "endTime": 99400,
+      "text": "All tied up with a fancy bow",
+      "words": [
+        {
+          "startTime": 94160,
+          "endTime": 94827,
+          "word": "All "
+        },
+        {
+          "startTime": 94827,
+          "endTime": 95546,
+          "word": "tied "
+        },
+        {
+          "startTime": 95546,
+          "endTime": 96162,
+          "word": "up "
+        },
+        {
+          "startTime": 96162,
+          "endTime": 96881,
+          "word": "with "
+        },
+        {
+          "startTime": 96881,
+          "endTime": 97446,
+          "word": "a "
+        },
+        {
+          "startTime": 97446,
+          "endTime": 98730,
+          "word": "fancy "
+        },
+        {
+          "startTime": 98730,
+          "endTime": 99400,
+          "word": "bow"
+        }
+      ]
+    },
+    {
+      "time": 99400,
+      "endTime": 106850,
+      "text": "Everybody wants a happy ever after",
+      "words": [
+        {
+          "startTime": 99400,
+          "endTime": 102164,
+          "word": "Everybody "
+        },
+        {
+          "startTime": 102164,
+          "endTime": 102866,
+          "word": "wants "
+        },
+        {
+          "startTime": 102866,
+          "endTime": 103381,
+          "word": "a "
+        },
+        {
+          "startTime": 103381,
+          "endTime": 104552,
+          "word": "happy "
+        },
+        {
+          "startTime": 104552,
+          "endTime": 105676,
+          "word": "ever "
+        },
+        {
+          "startTime": 105676,
+          "endTime": 106850,
+          "word": "after"
+        }
+      ]
+    },
+    {
+      "time": 106850,
+      "endTime": 112230,
+      "text": "But there’s no way we’ll ever know",
+      "words": [
+        {
+          "startTime": 106850,
+          "endTime": 107442,
+          "word": "But "
+        },
+        {
+          "startTime": 107442,
+          "endTime": 108673,
+          "word": "there’s "
+        },
+        {
+          "startTime": 108673,
+          "endTime": 109220,
+          "word": "no "
+        },
+        {
+          "startTime": 109220,
+          "endTime": 109812,
+          "word": "way "
+        },
+        {
+          "startTime": 109812,
+          "endTime": 110495,
+          "word": "we’ll "
+        },
+        {
+          "startTime": 110495,
+          "endTime": 111589,
+          "word": "ever "
+        },
+        {
+          "startTime": 111589,
+          "endTime": 112230,
+          "word": "know"
+        }
+      ]
+    },
+    {
+      "time": 112230,
+      "endTime": 116360,
+      "text": "You oughtta know by now",
+      "words": [
+        {
+          "startTime": 112230,
+          "endTime": 112909,
+          "word": "You "
+        },
+        {
+          "startTime": 112909,
+          "endTime": 114320,
+          "word": "oughtta "
+        },
+        {
+          "startTime": 114320,
+          "endTime": 115051,
+          "word": "know "
+        },
+        {
+          "startTime": 115051,
+          "endTime": 115678,
+          "word": "by "
+        },
+        {
+          "startTime": 115678,
+          "endTime": 116360,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 116360,
+      "endTime": 119930,
+      "text": "I’d never let you down",
+      "words": [
+        {
+          "startTime": 116360,
+          "endTime": 116955,
+          "word": "I’d "
+        },
+        {
+          "startTime": 116955,
+          "endTime": 118099,
+          "word": "never "
+        },
+        {
+          "startTime": 118099,
+          "endTime": 118694,
+          "word": "let "
+        },
+        {
+          "startTime": 118694,
+          "endTime": 119289,
+          "word": "you "
+        },
+        {
+          "startTime": 119289,
+          "endTime": 119930,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 119930,
+      "endTime": 124070,
+      "text": "You oughtta know by now",
+      "words": [
+        {
+          "startTime": 119930,
+          "endTime": 120611,
+          "word": "You "
+        },
+        {
+          "startTime": 120611,
+          "endTime": 122025,
+          "word": "oughtta "
+        },
+        {
+          "startTime": 122025,
+          "endTime": 122758,
+          "word": "know "
+        },
+        {
+          "startTime": 122758,
+          "endTime": 123386,
+          "word": "by "
+        },
+        {
+          "startTime": 123386,
+          "endTime": 124070,
+          "word": "now"
+        }
+      ]
+    },
+    {
+      "time": 124070,
+      "endTime": 128240,
+      "text": "It all works out somehow",
+      "words": [
+        {
+          "startTime": 124070,
+          "endTime": 124626,
+          "word": "It "
+        },
+        {
+          "startTime": 124626,
+          "endTime": 125228,
+          "word": "all "
+        },
+        {
+          "startTime": 125228,
+          "endTime": 125923,
+          "word": "works "
+        },
+        {
+          "startTime": 125923,
+          "endTime": 126525,
+          "word": "out "
+        },
+        {
+          "startTime": 126525,
+          "endTime": 128240,
+          "word": "somehow"
+        }
+      ]
+    },
+    {
+      "time": 128240,
+      "endTime": 134600,
+      "text": "Oooo, baby, they say love is messy",
+      "words": [
+        {
+          "startTime": 128240,
+          "endTime": 129233,
+          "word": "Oooo, "
+        },
+        {
+          "startTime": 129233,
+          "endTime": 130723,
+          "word": "baby, "
+        },
+        {
+          "startTime": 130723,
+          "endTime": 131418,
+          "word": "they "
+        },
+        {
+          "startTime": 131418,
+          "endTime": 132063,
+          "word": "say "
+        },
+        {
+          "startTime": 132063,
+          "endTime": 132758,
+          "word": "love "
+        },
+        {
+          "startTime": 132758,
+          "endTime": 133354,
+          "word": "is "
+        },
+        {
+          "startTime": 133354,
+          "endTime": 134600,
+          "word": "messy"
+        }
+      ]
+    },
+    {
+      "time": 134600,
+      "endTime": 141500,
+      "text": "Well, that might be but it’s all that we need",
+      "words": [
+        {
+          "startTime": 134600,
+          "endTime": 135578,
+          "word": "Well, "
+        },
+        {
+          "startTime": 135578,
+          "endTime": 136263,
+          "word": "that "
+        },
+        {
+          "startTime": 136263,
+          "endTime": 136997,
+          "word": "might "
+        },
+        {
+          "startTime": 136997,
+          "endTime": 137584,
+          "word": "be "
+        },
+        {
+          "startTime": 137584,
+          "endTime": 138220,
+          "word": "but "
+        },
+        {
+          "startTime": 138220,
+          "endTime": 138905,
+          "word": "it’s "
+        },
+        {
+          "startTime": 138905,
+          "endTime": 139541,
+          "word": "all "
+        },
+        {
+          "startTime": 139541,
+          "endTime": 140226,
+          "word": "that "
+        },
+        {
+          "startTime": 140226,
+          "endTime": 140813,
+          "word": "we "
+        },
+        {
+          "startTime": 140813,
+          "endTime": 141500,
+          "word": "need"
+        }
+      ]
+    },
+    {
+      "time": 141500,
+      "endTime": 148180,
+      "text": "It’s sticky sweet  and it ain’t always pretty",
+      "words": [
+        {
+          "startTime": 141500,
+          "endTime": 142136,
+          "word": "It’s "
+        },
+        {
+          "startTime": 142136,
+          "endTime": 143317,
+          "word": "sticky "
+        },
+        {
+          "startTime": 143317,
+          "endTime": 143998,
+          "word": "sweet "
+        },
+        {
+          "startTime": 143998,
+          "endTime": 144588,
+          "word": "and "
+        },
+        {
+          "startTime": 144588,
+          "endTime": 145133,
+          "word": "it "
+        },
+        {
+          "startTime": 145133,
+          "endTime": 145814,
+          "word": "ain’t "
+        },
+        {
+          "startTime": 145814,
+          "endTime": 146995,
+          "word": "always "
+        },
+        {
+          "startTime": 146995,
+          "endTime": 148180,
+          "word": "pretty"
+        }
+      ]
+    },
+    {
+      "time": 148180,
+      "endTime": 155820,
+      "text": "I don’t mind so come on and get messy with me",
+      "words": [
+        {
+          "startTime": 148180,
+          "endTime": 148722,
+          "word": "I "
+        },
+        {
+          "startTime": 148722,
+          "endTime": 149461,
+          "word": "don’t "
+        },
+        {
+          "startTime": 149461,
+          "endTime": 150151,
+          "word": "mind "
+        },
+        {
+          "startTime": 150151,
+          "endTime": 150742,
+          "word": "so "
+        },
+        {
+          "startTime": 150742,
+          "endTime": 151432,
+          "word": "come "
+        },
+        {
+          "startTime": 151432,
+          "endTime": 152023,
+          "word": "on "
+        },
+        {
+          "startTime": 152023,
+          "endTime": 152663,
+          "word": "and "
+        },
+        {
+          "startTime": 152663,
+          "endTime": 153303,
+          "word": "get "
+        },
+        {
+          "startTime": 153303,
+          "endTime": 154535,
+          "word": "messy "
+        },
+        {
+          "startTime": 154535,
+          "endTime": 155225,
+          "word": "with "
+        },
+        {
+          "startTime": 155225,
+          "endTime": 155820,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 155820,
+      "endTime": 160840,
+      "text": "Woah !  Nah, nah, nah !  Woo-oo !",
+      "words": [
+        {
+          "startTime": 155820,
+          "endTime": 156344,
+          "word": "Woah "
+        },
+        {
+          "startTime": 156344,
+          "endTime": 156943,
+          "word": "! "
+        },
+        {
+          "startTime": 156943,
+          "endTime": 157654,
+          "word": "Nah, "
+        },
+        {
+          "startTime": 157654,
+          "endTime": 158365,
+          "word": "nah, "
+        },
+        {
+          "startTime": 158365,
+          "endTime": 158852,
+          "word": "nah "
+        },
+        {
+          "startTime": 158852,
+          "endTime": 159451,
+          "word": "! "
+        },
+        {
+          "startTime": 159451,
+          "endTime": 160237,
+          "word": "Woo-oo "
+        },
+        {
+          "startTime": 160237,
+          "endTime": 160840,
+          "word": "!"
+        }
+      ]
+    },
+    {
+      "time": 160840,
+      "endTime": 167200,
+      "text": "Oooo, baby, they say love is messy",
+      "words": [
+        {
+          "startTime": 160840,
+          "endTime": 161833,
+          "word": "Oooo, "
+        },
+        {
+          "startTime": 161833,
+          "endTime": 163323,
+          "word": "baby, "
+        },
+        {
+          "startTime": 163323,
+          "endTime": 164018,
+          "word": "they "
+        },
+        {
+          "startTime": 164018,
+          "endTime": 164663,
+          "word": "say "
+        },
+        {
+          "startTime": 164663,
+          "endTime": 165358,
+          "word": "love "
+        },
+        {
+          "startTime": 165358,
+          "endTime": 165954,
+          "word": "is "
+        },
+        {
+          "startTime": 165954,
+          "endTime": 167200,
+          "word": "messy"
+        }
+      ]
+    },
+    {
+      "time": 167200,
+      "endTime": 174100,
+      "text": "Well, that might be but it’s all that we need",
+      "words": [
+        {
+          "startTime": 167200,
+          "endTime": 168178,
+          "word": "Well, "
+        },
+        {
+          "startTime": 168178,
+          "endTime": 168863,
+          "word": "that "
+        },
+        {
+          "startTime": 168863,
+          "endTime": 169597,
+          "word": "might "
+        },
+        {
+          "startTime": 169597,
+          "endTime": 170184,
+          "word": "be "
+        },
+        {
+          "startTime": 170184,
+          "endTime": 170820,
+          "word": "but "
+        },
+        {
+          "startTime": 170820,
+          "endTime": 171505,
+          "word": "it’s "
+        },
+        {
+          "startTime": 171505,
+          "endTime": 172141,
+          "word": "all "
+        },
+        {
+          "startTime": 172141,
+          "endTime": 172826,
+          "word": "that "
+        },
+        {
+          "startTime": 172826,
+          "endTime": 173413,
+          "word": "we "
+        },
+        {
+          "startTime": 173413,
+          "endTime": 174100,
+          "word": "need"
+        }
+      ]
+    },
+    {
+      "time": 174100,
+      "endTime": 180780,
+      "text": "It’s sticky sweet  and it ain’t always pretty",
+      "words": [
+        {
+          "startTime": 174100,
+          "endTime": 174736,
+          "word": "It’s "
+        },
+        {
+          "startTime": 174736,
+          "endTime": 175917,
+          "word": "sticky "
+        },
+        {
+          "startTime": 175917,
+          "endTime": 176598,
+          "word": "sweet "
+        },
+        {
+          "startTime": 176598,
+          "endTime": 177188,
+          "word": "and "
+        },
+        {
+          "startTime": 177188,
+          "endTime": 177733,
+          "word": "it "
+        },
+        {
+          "startTime": 177733,
+          "endTime": 178414,
+          "word": "ain’t "
+        },
+        {
+          "startTime": 178414,
+          "endTime": 179595,
+          "word": "always "
+        },
+        {
+          "startTime": 179595,
+          "endTime": 180780,
+          "word": "pretty"
+        }
+      ]
+    },
+    {
+      "time": 180780,
+      "endTime": 189020,
+      "text": "But I don’t mind so come on and get messy with me",
+      "words": [
+        {
+          "startTime": 180780,
+          "endTime": 181417,
+          "word": "But "
+        },
+        {
+          "startTime": 181417,
+          "endTime": 181956,
+          "word": "I "
+        },
+        {
+          "startTime": 181956,
+          "endTime": 182691,
+          "word": "don’t "
+        },
+        {
+          "startTime": 182691,
+          "endTime": 183377,
+          "word": "mind "
+        },
+        {
+          "startTime": 183377,
+          "endTime": 183965,
+          "word": "so "
+        },
+        {
+          "startTime": 183965,
+          "endTime": 184651,
+          "word": "come "
+        },
+        {
+          "startTime": 184651,
+          "endTime": 185239,
+          "word": "on "
+        },
+        {
+          "startTime": 185239,
+          "endTime": 185876,
+          "word": "and "
+        },
+        {
+          "startTime": 185876,
+          "endTime": 186513,
+          "word": "get "
+        },
+        {
+          "startTime": 186513,
+          "endTime": 187739,
+          "word": "messy "
+        },
+        {
+          "startTime": 187739,
+          "endTime": 188425,
+          "word": "with "
+        },
+        {
+          "startTime": 188425,
+          "endTime": 189020,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 189020,
+      "endTime": 192950,
+      "text": "Come on ! Oooo, baby",
+      "words": [
+        {
+          "startTime": 189020,
+          "endTime": 189659,
+          "word": "Come "
+        },
+        {
+          "startTime": 189659,
+          "endTime": 190207,
+          "word": "on "
+        },
+        {
+          "startTime": 190207,
+          "endTime": 190938,
+          "word": "! "
+        },
+        {
+          "startTime": 190938,
+          "endTime": 191851,
+          "word": "Oooo, "
+        },
+        {
+          "startTime": 191851,
+          "endTime": 192950,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 192950,
+      "endTime": 196890,
+      "text": "Come on ! Oooo, baby",
+      "words": [
+        {
+          "startTime": 192950,
+          "endTime": 193591,
+          "word": "Come "
+        },
+        {
+          "startTime": 193591,
+          "endTime": 194140,
+          "word": "on "
+        },
+        {
+          "startTime": 194140,
+          "endTime": 194873,
+          "word": "! "
+        },
+        {
+          "startTime": 194873,
+          "endTime": 195789,
+          "word": "Oooo, "
+        },
+        {
+          "startTime": 195789,
+          "endTime": 196890,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 196890,
+      "endTime": 200820,
+      "text": "Come on ! Oooo, baby",
+      "words": [
+        {
+          "startTime": 196890,
+          "endTime": 197529,
+          "word": "Come "
+        },
+        {
+          "startTime": 197529,
+          "endTime": 198077,
+          "word": "on "
+        },
+        {
+          "startTime": 198077,
+          "endTime": 198808,
+          "word": "! "
+        },
+        {
+          "startTime": 198808,
+          "endTime": 199721,
+          "word": "Oooo, "
+        },
+        {
+          "startTime": 199721,
+          "endTime": 200820,
+          "word": "baby"
+        }
+      ]
+    },
+    {
+      "time": 200820,
+      "endTime": 205820,
+      "text": "Come on ! Oooo, baby",
+      "words": [
+        {
+          "startTime": 200820,
+          "endTime": 201633,
+          "word": "Come "
+        },
+        {
+          "startTime": 201633,
+          "endTime": 202330,
+          "word": "on "
+        },
+        {
+          "startTime": 202330,
+          "endTime": 203260,
+          "word": "! "
+        },
+        {
+          "startTime": 203260,
+          "endTime": 204422,
+          "word": "Oooo, "
+        },
+        {
+          "startTime": 204422,
+          "endTime": 205820,
+          "word": "baby"
+        }
+      ]
+    }
+  ]
+}
