@@ -1,0 +1,1529 @@
+{
+  "videoId": "hkUSnrHQJHg",
+  "title": "FEVER DREAM",
+  "artist": "Alex Warren",
+  "duration": 250,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:10.450\" end=\"00:13.140\">\n        <span begin=\"00:10.450\" end=\"00:11.109\">How <\/span>\n        <span begin=\"00:11.109\" end=\"00:11.768\">did <\/span>\n        <span begin=\"00:11.768\" end=\"00:12.427\">you <\/span>\n        <span begin=\"00:12.427\" end=\"00:13.140\">know<\/span>\n      <\/p>\n      <p begin=\"00:13.140\" end=\"00:19.080\">\n        <span begin=\"00:13.140\" end=\"00:13.835\">I <\/span>\n        <span begin=\"00:13.835\" end=\"00:14.656\">was <\/span>\n        <span begin=\"00:14.656\" end=\"00:16.298\">hoping <\/span>\n        <span begin=\"00:16.298\" end=\"00:17.119\">for <\/span>\n        <span begin=\"00:17.119\" end=\"00:17.814\">a <\/span>\n        <span begin=\"00:17.814\" end=\"00:19.080\">sign?<\/span>\n      <\/p>\n      <p begin=\"00:19.080\" end=\"00:22.150\">\n        <span begin=\"00:19.080\" end=\"00:19.788\">My <\/span>\n        <span begin=\"00:19.788\" end=\"00:20.673\">heart <\/span>\n        <span begin=\"00:20.673\" end=\"00:21.440\">was <\/span>\n        <span begin=\"00:21.440\" end=\"00:22.150\">so<\/span>\n      <\/p>\n      <p begin=\"00:22.150\" end=\"00:27.090\">\n        <span begin=\"00:22.150\" end=\"00:23.239\">Close <\/span>\n        <span begin=\"00:23.239\" end=\"00:24.110\">to <\/span>\n        <span begin=\"00:24.110\" end=\"00:26.071\">closing <\/span>\n        <span begin=\"00:26.071\" end=\"00:27.090\">time<\/span>\n      <\/p>\n      <p begin=\"00:27.090\" end=\"00:30.620\">\n        <span begin=\"00:27.090\" end=\"00:28.013\">Somethin&apos; <\/span>\n        <span begin=\"00:28.013\" end=\"00:28.368\">&apos;bout <\/span>\n        <span begin=\"00:28.368\" end=\"00:28.675\">you <\/span>\n        <span begin=\"00:28.675\" end=\"00:28.982\">hit <\/span>\n        <span begin=\"00:28.982\" end=\"00:29.266\">me <\/span>\n        <span begin=\"00:29.266\" end=\"00:29.597\">like <\/span>\n        <span begin=\"00:29.597\" end=\"00:29.857\">a <\/span>\n        <span begin=\"00:29.857\" end=\"00:30.259\">freight <\/span>\n        <span begin=\"00:30.259\" end=\"00:30.620\">train<\/span>\n      <\/p>\n      <p begin=\"00:30.620\" end=\"00:32.290\">\n        <span begin=\"00:30.620\" end=\"00:30.880\">To <\/span>\n        <span begin=\"00:30.880\" end=\"00:31.161\">the <\/span>\n        <span begin=\"00:31.161\" end=\"00:31.616\">chest, <\/span>\n        <span begin=\"00:31.616\" end=\"00:32.290\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"00:32.290\" end=\"00:34.130\">\n        <span begin=\"00:32.290\" end=\"00:32.561\">The <\/span>\n        <span begin=\"00:32.561\" end=\"00:32.832\">day <\/span>\n        <span begin=\"00:32.832\" end=\"00:33.082\">we <\/span>\n        <span begin=\"00:33.082\" end=\"00:33.479\">met, <\/span>\n        <span begin=\"00:33.479\" end=\"00:34.130\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"00:34.130\" end=\"00:35.580\">\n        <span begin=\"00:34.130\" end=\"00:34.410\">My <\/span>\n        <span begin=\"00:34.410\" end=\"00:35.580\">loneliness<\/span>\n      <\/p>\n      <p begin=\"00:35.580\" end=\"00:39.150\">\n        <span begin=\"00:35.580\" end=\"00:35.924\">Left <\/span>\n        <span begin=\"00:35.924\" end=\"00:36.244\">the <\/span>\n        <span begin=\"00:36.244\" end=\"00:36.588\">room <\/span>\n        <span begin=\"00:36.588\" end=\"00:36.908\">the <\/span>\n        <span begin=\"00:36.908\" end=\"00:37.548\">second <\/span>\n        <span begin=\"00:37.548\" end=\"00:37.892\">that <\/span>\n        <span begin=\"00:37.892\" end=\"00:38.212\">you <\/span>\n        <span begin=\"00:38.212\" end=\"00:38.852\">walked <\/span>\n        <span begin=\"00:38.852\" end=\"00:39.150\">in<\/span>\n      <\/p>\n      <p begin=\"00:39.150\" end=\"00:41.730\">\n        <span begin=\"00:39.150\" end=\"00:40.117\">Somethin&apos; <\/span>\n        <span begin=\"00:40.117\" end=\"00:40.464\">like <\/span>\n        <span begin=\"00:40.464\" end=\"00:40.736\">a <\/span>\n        <span begin=\"00:40.736\" end=\"00:41.356\">fever <\/span>\n        <span begin=\"00:41.356\" end=\"00:41.730\">dream<\/span>\n      <\/p>\n      <p begin=\"00:41.730\" end=\"00:43.970\">\n        <span begin=\"00:41.730\" end=\"00:42.606\">Haven&apos;t <\/span>\n        <span begin=\"00:42.606\" end=\"00:43.092\">slept <\/span>\n        <span begin=\"00:43.092\" end=\"00:43.481\">in <\/span>\n        <span begin=\"00:43.481\" end=\"00:43.970\">weeks<\/span>\n      <\/p>\n      <p begin=\"00:43.970\" end=\"00:46.170\">\n        <span begin=\"00:43.970\" end=\"00:44.310\">I <\/span>\n        <span begin=\"00:44.310\" end=\"00:44.774\">think <\/span>\n        <span begin=\"00:44.774\" end=\"00:45.176\">I&apos;m <\/span>\n        <span begin=\"00:45.176\" end=\"00:45.671\">seeing <\/span>\n        <span begin=\"00:45.671\" end=\"00:46.170\">things<\/span>\n      <\/p>\n      <p begin=\"00:46.170\" end=\"00:50.550\">\n        <span begin=\"00:46.170\" end=\"00:46.558\">Like <\/span>\n        <span begin=\"00:46.558\" end=\"00:46.918\">our <\/span>\n        <span begin=\"00:46.918\" end=\"00:47.666\">shadows <\/span>\n        <span begin=\"00:47.666\" end=\"00:48.414\">dancing <\/span>\n        <span begin=\"00:48.414\" end=\"00:48.746\">us <\/span>\n        <span begin=\"00:48.746\" end=\"00:49.106\">out <\/span>\n        <span begin=\"00:49.106\" end=\"00:49.438\">of <\/span>\n        <span begin=\"00:49.438\" end=\"00:49.798\">our <\/span>\n        <span begin=\"00:49.798\" end=\"00:50.550\">clothes<\/span>\n      <\/p>\n      <p begin=\"00:50.550\" end=\"00:53.060\">\n        <span begin=\"00:50.550\" end=\"00:50.891\">I&apos;ll <\/span>\n        <span begin=\"00:50.891\" end=\"00:51.183\">be <\/span>\n        <span begin=\"00:51.183\" end=\"00:51.816\">damned <\/span>\n        <span begin=\"00:51.816\" end=\"00:52.108\">if <\/span>\n        <span begin=\"00:52.108\" end=\"00:52.424\">you <\/span>\n        <span begin=\"00:52.424\" end=\"00:52.765\">love <\/span>\n        <span begin=\"00:52.765\" end=\"00:53.060\">me<\/span>\n      <\/p>\n      <p begin=\"00:53.060\" end=\"01:05.070\">\n        <span begin=\"00:53.060\" end=\"00:57.791\">Damned <\/span>\n        <span begin=\"00:57.791\" end=\"00:59.974\">if <\/span>\n        <span begin=\"00:59.974\" end=\"01:02.339\">you <\/span>\n        <span begin=\"01:02.339\" end=\"01:05.070\">don&apos;t<\/span>\n      <\/p>\n      <p begin=\"01:05.070\" end=\"01:07.450\">\n        <span begin=\"01:05.070\" end=\"01:05.458\">Maybe <\/span>\n        <span begin=\"01:05.458\" end=\"01:05.820\">it&apos;s <\/span>\n        <span begin=\"01:05.820\" end=\"01:06.337\">fate, <\/span>\n        <span begin=\"01:06.337\" end=\"01:06.725\">maybe <\/span>\n        <span begin=\"01:06.725\" end=\"01:07.087\">it&apos;s <\/span>\n        <span begin=\"01:07.087\" end=\"01:07.450\">late<\/span>\n      <\/p>\n      <p begin=\"01:07.450\" end=\"01:09.370\">\n        <span begin=\"01:07.450\" end=\"01:07.790\">Told <\/span>\n        <span begin=\"01:07.790\" end=\"01:08.105\">you <\/span>\n        <span begin=\"01:08.105\" end=\"01:08.372\">I <\/span>\n        <span begin=\"01:08.372\" end=\"01:08.736\">ain&apos;t <\/span>\n        <span begin=\"01:08.736\" end=\"01:09.027\">no <\/span>\n        <span begin=\"01:09.027\" end=\"01:09.370\">liar<\/span>\n      <\/p>\n      <p begin=\"01:09.370\" end=\"01:11.920\">\n        <span begin=\"01:09.370\" end=\"01:09.945\">Watching <\/span>\n        <span begin=\"01:09.945\" end=\"01:10.212\">you <\/span>\n        <span begin=\"01:10.212\" end=\"01:10.767\">leave&apos;s <\/span>\n        <span begin=\"01:10.767\" end=\"01:11.342\">haunting <\/span>\n        <span begin=\"01:11.342\" end=\"01:11.588\">my <\/span>\n        <span begin=\"01:11.588\" end=\"01:11.920\">dreams<\/span>\n      <\/p>\n      <p begin=\"01:11.920\" end=\"01:14.590\">\n        <span begin=\"01:11.920\" end=\"01:12.565\">Baby, <\/span>\n        <span begin=\"01:12.565\" end=\"01:12.823\">it <\/span>\n        <span begin=\"01:12.823\" end=\"01:13.102\">hit <\/span>\n        <span begin=\"01:13.102\" end=\"01:13.360\">me <\/span>\n        <span begin=\"01:13.360\" end=\"01:13.661\">like <\/span>\n        <span begin=\"01:13.661\" end=\"01:13.897\">a <\/span>\n        <span begin=\"01:13.897\" end=\"01:14.263\">frеight <\/span>\n        <span begin=\"01:14.263\" end=\"01:14.590\">train<\/span>\n      <\/p>\n      <p begin=\"01:14.590\" end=\"01:16.230\">\n        <span begin=\"01:14.590\" end=\"01:14.845\">To <\/span>\n        <span begin=\"01:14.845\" end=\"01:15.121\">the <\/span>\n        <span begin=\"01:15.121\" end=\"01:15.568\">chest, <\/span>\n        <span begin=\"01:15.568\" end=\"01:16.230\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"01:16.230\" end=\"01:18.650\">\n        <span begin=\"01:16.230\" end=\"01:16.587\">The <\/span>\n        <span begin=\"01:16.587\" end=\"01:16.944\">day <\/span>\n        <span begin=\"01:16.944\" end=\"01:17.274\">wе <\/span>\n        <span begin=\"01:17.274\" end=\"01:17.796\">met, <\/span>\n        <span begin=\"01:17.796\" end=\"01:18.650\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"01:18.650\" end=\"01:20.040\">\n        <span begin=\"01:18.650\" end=\"01:18.919\">My <\/span>\n        <span begin=\"01:18.919\" end=\"01:20.040\">loneliness<\/span>\n      <\/p>\n      <p begin=\"01:20.040\" end=\"01:23.480\">\n        <span begin=\"01:20.040\" end=\"01:20.372\">Left <\/span>\n        <span begin=\"01:20.372\" end=\"01:20.680\">the <\/span>\n        <span begin=\"01:20.680\" end=\"01:21.012\">room <\/span>\n        <span begin=\"01:21.012\" end=\"01:21.320\">the <\/span>\n        <span begin=\"01:21.320\" end=\"01:21.936\">second <\/span>\n        <span begin=\"01:21.936\" end=\"01:22.268\">that <\/span>\n        <span begin=\"01:22.268\" end=\"01:22.576\">you <\/span>\n        <span begin=\"01:22.576\" end=\"01:23.192\">walked <\/span>\n        <span begin=\"01:23.192\" end=\"01:23.480\">in<\/span>\n      <\/p>\n      <p begin=\"01:23.480\" end=\"01:26.230\">\n        <span begin=\"01:23.480\" end=\"01:24.511\">Somethin&apos; <\/span>\n        <span begin=\"01:24.511\" end=\"01:24.881\">like <\/span>\n        <span begin=\"01:24.881\" end=\"01:25.171\">a <\/span>\n        <span begin=\"01:25.171\" end=\"01:25.832\">fever <\/span>\n        <span begin=\"01:25.832\" end=\"01:26.230\">dream<\/span>\n      <\/p>\n      <p begin=\"01:26.230\" end=\"01:28.420\">\n        <span begin=\"01:26.230\" end=\"01:27.086\">Haven&apos;t <\/span>\n        <span begin=\"01:27.086\" end=\"01:27.562\">slept <\/span>\n        <span begin=\"01:27.562\" end=\"01:27.942\">in <\/span>\n        <span begin=\"01:27.942\" end=\"01:28.420\">weeks<\/span>\n      <\/p>\n      <p begin=\"01:28.420\" end=\"01:30.740\">\n        <span begin=\"01:28.420\" end=\"01:28.779\">I <\/span>\n        <span begin=\"01:28.779\" end=\"01:29.269\">think <\/span>\n        <span begin=\"01:29.269\" end=\"01:29.693\">I&apos;m <\/span>\n        <span begin=\"01:29.693\" end=\"01:30.215\">seeing <\/span>\n        <span begin=\"01:30.215\" end=\"01:30.740\">things<\/span>\n      <\/p>\n      <p begin=\"01:30.740\" end=\"01:34.900\">\n        <span begin=\"01:30.740\" end=\"01:31.108\">Like <\/span>\n        <span begin=\"01:31.108\" end=\"01:31.450\">our <\/span>\n        <span begin=\"01:31.450\" end=\"01:32.160\">shadows <\/span>\n        <span begin=\"01:32.160\" end=\"01:32.870\">dancing <\/span>\n        <span begin=\"01:32.870\" end=\"01:33.185\">us <\/span>\n        <span begin=\"01:33.185\" end=\"01:33.527\">out <\/span>\n        <span begin=\"01:33.527\" end=\"01:33.842\">of <\/span>\n        <span begin=\"01:33.842\" end=\"01:34.184\">our <\/span>\n        <span begin=\"01:34.184\" end=\"01:34.900\">clothes<\/span>\n      <\/p>\n      <p begin=\"01:34.900\" end=\"01:37.480\">\n        <span begin=\"01:34.900\" end=\"01:35.250\">I&apos;ll <\/span>\n        <span begin=\"01:35.250\" end=\"01:35.550\">be <\/span>\n        <span begin=\"01:35.550\" end=\"01:36.201\">damned <\/span>\n        <span begin=\"01:36.201\" end=\"01:36.501\">if <\/span>\n        <span begin=\"01:36.501\" end=\"01:36.826\">you <\/span>\n        <span begin=\"01:36.826\" end=\"01:37.176\">love <\/span>\n        <span begin=\"01:37.176\" end=\"01:37.480\">me<\/span>\n      <\/p>\n      <p begin=\"01:37.480\" end=\"01:42.470\">\n        <span begin=\"01:37.480\" end=\"01:39.445\">Damned <\/span>\n        <span begin=\"01:39.445\" end=\"01:40.352\">if <\/span>\n        <span begin=\"01:40.352\" end=\"01:41.334\">you <\/span>\n        <span begin=\"01:41.334\" end=\"01:42.470\">don&apos;t<\/span>\n      <\/p>\n      <p begin=\"01:42.470\" end=\"01:47.620\">\n        <span begin=\"01:42.470\" end=\"01:43.120\">One <\/span>\n        <span begin=\"01:43.120\" end=\"01:43.819\">foot <\/span>\n        <span begin=\"01:43.819\" end=\"01:44.418\">on <\/span>\n        <span begin=\"01:44.418\" end=\"01:45.068\">the <\/span>\n        <span begin=\"01:45.068\" end=\"01:46.067\">edge, <\/span>\n        <span begin=\"01:46.067\" end=\"01:47.620\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"01:47.620\" end=\"01:49.530\">\n        <span begin=\"01:47.620\" end=\"01:47.950\">That <\/span>\n        <span begin=\"01:47.950\" end=\"01:48.798\">silhouette, <\/span>\n        <span begin=\"01:48.798\" end=\"01:49.530\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"01:49.530\" end=\"01:51.420\">\n        <span begin=\"01:49.530\" end=\"01:49.929\">I <\/span>\n        <span begin=\"01:49.929\" end=\"01:50.474\">can&apos;t <\/span>\n        <span begin=\"01:50.474\" end=\"01:51.420\">forget<\/span>\n      <\/p>\n      <p begin=\"01:51.420\" end=\"01:54.310\">\n        <span begin=\"01:51.420\" end=\"01:52.176\">Somethin&apos; <\/span>\n        <span begin=\"01:52.176\" end=\"01:52.466\">&apos;bout <\/span>\n        <span begin=\"01:52.466\" end=\"01:52.718\">you <\/span>\n        <span begin=\"01:52.718\" end=\"01:52.970\">hit <\/span>\n        <span begin=\"01:52.970\" end=\"01:53.202\">me <\/span>\n        <span begin=\"01:53.202\" end=\"01:53.473\">like <\/span>\n        <span begin=\"01:53.473\" end=\"01:53.686\">a <\/span>\n        <span begin=\"01:53.686\" end=\"01:54.015\">freight <\/span>\n        <span begin=\"01:54.015\" end=\"01:54.310\">train<\/span>\n      <\/p>\n      <p begin=\"01:54.310\" end=\"01:56.490\">\n        <span begin=\"01:54.310\" end=\"01:54.649\">To <\/span>\n        <span begin=\"01:54.649\" end=\"01:55.017\">the <\/span>\n        <span begin=\"01:55.017\" end=\"01:55.611\">chest, <\/span>\n        <span begin=\"01:55.611\" end=\"01:56.490\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"01:56.490\" end=\"01:58.310\">\n        <span begin=\"01:56.490\" end=\"01:56.758\">The <\/span>\n        <span begin=\"01:56.758\" end=\"01:57.026\">day <\/span>\n        <span begin=\"01:57.026\" end=\"01:57.274\">we <\/span>\n        <span begin=\"01:57.274\" end=\"01:57.666\">met, <\/span>\n        <span begin=\"01:57.666\" end=\"01:58.310\">uh-huh<\/span>\n      <\/p>\n      <p begin=\"01:58.310\" end=\"02:00.230\">\n        <span begin=\"01:58.310\" end=\"01:58.681\">My <\/span>\n        <span begin=\"01:58.681\" end=\"02:00.230\">loneliness<\/span>\n      <\/p>\n      <p begin=\"02:00.230\" end=\"02:03.370\">\n        <span begin=\"02:00.230\" end=\"02:00.533\">Left <\/span>\n        <span begin=\"02:00.533\" end=\"02:00.814\">the <\/span>\n        <span begin=\"02:00.814\" end=\"02:01.117\">room <\/span>\n        <span begin=\"02:01.117\" end=\"02:01.398\">the <\/span>\n        <span begin=\"02:01.398\" end=\"02:01.961\">second <\/span>\n        <span begin=\"02:01.961\" end=\"02:02.264\">that <\/span>\n        <span begin=\"02:02.264\" end=\"02:02.545\">you <\/span>\n        <span begin=\"02:02.545\" end=\"02:03.108\">walked <\/span>\n        <span begin=\"02:03.108\" end=\"02:03.370\">in<\/span>\n      <\/p>\n      <p begin=\"02:03.370\" end=\"02:06.250\">\n        <span begin=\"02:03.370\" end=\"02:04.450\">Somethin&apos; <\/span>\n        <span begin=\"02:04.450\" end=\"02:04.837\">like <\/span>\n        <span begin=\"02:04.837\" end=\"02:05.141\">a <\/span>\n        <span begin=\"02:05.141\" end=\"02:05.833\">fever <\/span>\n        <span begin=\"02:05.833\" end=\"02:06.250\">dream<\/span>\n      <\/p>\n      <p begin=\"02:06.250\" end=\"02:08.430\">\n        <span begin=\"02:06.250\" end=\"02:07.103\">Haven&apos;t <\/span>\n        <span begin=\"02:07.103\" end=\"02:07.576\">slept <\/span>\n        <span begin=\"02:07.576\" end=\"02:07.955\">in <\/span>\n        <span begin=\"02:07.955\" end=\"02:08.430\">weeks<\/span>\n      <\/p>\n      <p begin=\"02:08.430\" end=\"02:11.020\">\n        <span begin=\"02:08.430\" end=\"02:08.701\">I <\/span>\n        <span begin=\"02:08.701\" end=\"02:09.071\">think <\/span>\n        <span begin=\"02:09.071\" end=\"02:09.391\">I&apos;m <\/span>\n        <span begin=\"02:09.391\" end=\"02:09.785\">seeing <\/span>\n        <span begin=\"02:09.785\" end=\"02:10.179\">things <\/span>\n        <span begin=\"02:10.179\" end=\"02:10.598\">(Seeing <\/span>\n        <span begin=\"02:10.598\" end=\"02:11.020\">things)<\/span>\n      <\/p>\n      <p begin=\"02:11.020\" end=\"02:15.080\">\n        <span begin=\"02:11.020\" end=\"02:11.379\">Like <\/span>\n        <span begin=\"02:11.379\" end=\"02:11.713\">our <\/span>\n        <span begin=\"02:11.713\" end=\"02:12.406\">shadows <\/span>\n        <span begin=\"02:12.406\" end=\"02:13.099\">dancing <\/span>\n        <span begin=\"02:13.099\" end=\"02:13.407\">us <\/span>\n        <span begin=\"02:13.407\" end=\"02:13.741\">out <\/span>\n        <span begin=\"02:13.741\" end=\"02:14.049\">of <\/span>\n        <span begin=\"02:14.049\" end=\"02:14.383\">our <\/span>\n        <span begin=\"02:14.383\" end=\"02:15.080\">clothes<\/span>\n      <\/p>\n      <p begin=\"02:15.080\" end=\"02:17.590\">\n        <span begin=\"02:15.080\" end=\"02:15.421\">I&apos;ll <\/span>\n        <span begin=\"02:15.421\" end=\"02:15.713\">be <\/span>\n        <span begin=\"02:15.713\" end=\"02:16.346\">damned <\/span>\n        <span begin=\"02:16.346\" end=\"02:16.638\">if <\/span>\n        <span begin=\"02:16.638\" end=\"02:16.954\">you <\/span>\n        <span begin=\"02:16.954\" end=\"02:17.295\">love <\/span>\n        <span begin=\"02:17.295\" end=\"02:17.590\">me<\/span>\n      <\/p>\n      <p begin=\"02:17.590\" end=\"02:22.610\">\n        <span begin=\"02:17.590\" end=\"02:19.567\">Damned <\/span>\n        <span begin=\"02:19.567\" end=\"02:20.479\">if <\/span>\n        <span begin=\"02:20.479\" end=\"02:21.467\">you <\/span>\n        <span begin=\"02:21.467\" end=\"02:22.610\">don&apos;t<\/span>\n      <\/p>\n      <p begin=\"02:22.610\" end=\"02:27.610\">\n        <span begin=\"02:22.610\" end=\"02:24.161\">Oh, <\/span>\n        <span begin=\"02:24.161\" end=\"02:25.195\">if <\/span>\n        <span begin=\"02:25.195\" end=\"02:26.315\">you <\/span>\n        <span begin=\"02:26.315\" end=\"02:27.610\">don&apos;t<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 10450,
+      "endTime": 13140,
+      "text": "How did you know",
+      "words": [
+        {
+          "startTime": 10450,
+          "endTime": 11109,
+          "word": "How "
+        },
+        {
+          "startTime": 11109,
+          "endTime": 11768,
+          "word": "did "
+        },
+        {
+          "startTime": 11768,
+          "endTime": 12427,
+          "word": "you "
+        },
+        {
+          "startTime": 12427,
+          "endTime": 13140,
+          "word": "know"
+        }
+      ]
+    },
+    {
+      "time": 13140,
+      "endTime": 19080,
+      "text": "I was hoping for a sign?",
+      "words": [
+        {
+          "startTime": 13140,
+          "endTime": 13835,
+          "word": "I "
+        },
+        {
+          "startTime": 13835,
+          "endTime": 14656,
+          "word": "was "
+        },
+        {
+          "startTime": 14656,
+          "endTime": 16298,
+          "word": "hoping "
+        },
+        {
+          "startTime": 16298,
+          "endTime": 17119,
+          "word": "for "
+        },
+        {
+          "startTime": 17119,
+          "endTime": 17814,
+          "word": "a "
+        },
+        {
+          "startTime": 17814,
+          "endTime": 19080,
+          "word": "sign?"
+        }
+      ]
+    },
+    {
+      "time": 19080,
+      "endTime": 22150,
+      "text": "My heart was so",
+      "words": [
+        {
+          "startTime": 19080,
+          "endTime": 19788,
+          "word": "My "
+        },
+        {
+          "startTime": 19788,
+          "endTime": 20673,
+          "word": "heart "
+        },
+        {
+          "startTime": 20673,
+          "endTime": 21440,
+          "word": "was "
+        },
+        {
+          "startTime": 21440,
+          "endTime": 22150,
+          "word": "so"
+        }
+      ]
+    },
+    {
+      "time": 22150,
+      "endTime": 27090,
+      "text": "Close to closing time",
+      "words": [
+        {
+          "startTime": 22150,
+          "endTime": 23239,
+          "word": "Close "
+        },
+        {
+          "startTime": 23239,
+          "endTime": 24110,
+          "word": "to "
+        },
+        {
+          "startTime": 24110,
+          "endTime": 26071,
+          "word": "closing "
+        },
+        {
+          "startTime": 26071,
+          "endTime": 27090,
+          "word": "time"
+        }
+      ]
+    },
+    {
+      "time": 27090,
+      "endTime": 30620,
+      "text": "Somethin' 'bout you hit me like a freight train",
+      "words": [
+        {
+          "startTime": 27090,
+          "endTime": 28013,
+          "word": "Somethin' "
+        },
+        {
+          "startTime": 28013,
+          "endTime": 28368,
+          "word": "'bout "
+        },
+        {
+          "startTime": 28368,
+          "endTime": 28675,
+          "word": "you "
+        },
+        {
+          "startTime": 28675,
+          "endTime": 28982,
+          "word": "hit "
+        },
+        {
+          "startTime": 28982,
+          "endTime": 29266,
+          "word": "me "
+        },
+        {
+          "startTime": 29266,
+          "endTime": 29597,
+          "word": "like "
+        },
+        {
+          "startTime": 29597,
+          "endTime": 29857,
+          "word": "a "
+        },
+        {
+          "startTime": 29857,
+          "endTime": 30259,
+          "word": "freight "
+        },
+        {
+          "startTime": 30259,
+          "endTime": 30620,
+          "word": "train"
+        }
+      ]
+    },
+    {
+      "time": 30620,
+      "endTime": 32290,
+      "text": "To the chest, uh-huh",
+      "words": [
+        {
+          "startTime": 30620,
+          "endTime": 30880,
+          "word": "To "
+        },
+        {
+          "startTime": 30880,
+          "endTime": 31161,
+          "word": "the "
+        },
+        {
+          "startTime": 31161,
+          "endTime": 31616,
+          "word": "chest, "
+        },
+        {
+          "startTime": 31616,
+          "endTime": 32290,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 32290,
+      "endTime": 34130,
+      "text": "The day we met, uh-huh",
+      "words": [
+        {
+          "startTime": 32290,
+          "endTime": 32561,
+          "word": "The "
+        },
+        {
+          "startTime": 32561,
+          "endTime": 32832,
+          "word": "day "
+        },
+        {
+          "startTime": 32832,
+          "endTime": 33082,
+          "word": "we "
+        },
+        {
+          "startTime": 33082,
+          "endTime": 33479,
+          "word": "met, "
+        },
+        {
+          "startTime": 33479,
+          "endTime": 34130,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 34130,
+      "endTime": 35580,
+      "text": "My loneliness",
+      "words": [
+        {
+          "startTime": 34130,
+          "endTime": 34410,
+          "word": "My "
+        },
+        {
+          "startTime": 34410,
+          "endTime": 35580,
+          "word": "loneliness"
+        }
+      ]
+    },
+    {
+      "time": 35580,
+      "endTime": 39150,
+      "text": "Left the room the second that you walked in",
+      "words": [
+        {
+          "startTime": 35580,
+          "endTime": 35924,
+          "word": "Left "
+        },
+        {
+          "startTime": 35924,
+          "endTime": 36244,
+          "word": "the "
+        },
+        {
+          "startTime": 36244,
+          "endTime": 36588,
+          "word": "room "
+        },
+        {
+          "startTime": 36588,
+          "endTime": 36908,
+          "word": "the "
+        },
+        {
+          "startTime": 36908,
+          "endTime": 37548,
+          "word": "second "
+        },
+        {
+          "startTime": 37548,
+          "endTime": 37892,
+          "word": "that "
+        },
+        {
+          "startTime": 37892,
+          "endTime": 38212,
+          "word": "you "
+        },
+        {
+          "startTime": 38212,
+          "endTime": 38852,
+          "word": "walked "
+        },
+        {
+          "startTime": 38852,
+          "endTime": 39150,
+          "word": "in"
+        }
+      ]
+    },
+    {
+      "time": 39150,
+      "endTime": 41730,
+      "text": "Somethin' like a fever dream",
+      "words": [
+        {
+          "startTime": 39150,
+          "endTime": 40117,
+          "word": "Somethin' "
+        },
+        {
+          "startTime": 40117,
+          "endTime": 40464,
+          "word": "like "
+        },
+        {
+          "startTime": 40464,
+          "endTime": 40736,
+          "word": "a "
+        },
+        {
+          "startTime": 40736,
+          "endTime": 41356,
+          "word": "fever "
+        },
+        {
+          "startTime": 41356,
+          "endTime": 41730,
+          "word": "dream"
+        }
+      ]
+    },
+    {
+      "time": 41730,
+      "endTime": 43970,
+      "text": "Haven't slept in weeks",
+      "words": [
+        {
+          "startTime": 41730,
+          "endTime": 42606,
+          "word": "Haven't "
+        },
+        {
+          "startTime": 42606,
+          "endTime": 43092,
+          "word": "slept "
+        },
+        {
+          "startTime": 43092,
+          "endTime": 43481,
+          "word": "in "
+        },
+        {
+          "startTime": 43481,
+          "endTime": 43970,
+          "word": "weeks"
+        }
+      ]
+    },
+    {
+      "time": 43970,
+      "endTime": 46170,
+      "text": "I think I'm seeing things",
+      "words": [
+        {
+          "startTime": 43970,
+          "endTime": 44310,
+          "word": "I "
+        },
+        {
+          "startTime": 44310,
+          "endTime": 44774,
+          "word": "think "
+        },
+        {
+          "startTime": 44774,
+          "endTime": 45176,
+          "word": "I'm "
+        },
+        {
+          "startTime": 45176,
+          "endTime": 45671,
+          "word": "seeing "
+        },
+        {
+          "startTime": 45671,
+          "endTime": 46170,
+          "word": "things"
+        }
+      ]
+    },
+    {
+      "time": 46170,
+      "endTime": 50550,
+      "text": "Like our shadows dancing us out of our clothes",
+      "words": [
+        {
+          "startTime": 46170,
+          "endTime": 46558,
+          "word": "Like "
+        },
+        {
+          "startTime": 46558,
+          "endTime": 46918,
+          "word": "our "
+        },
+        {
+          "startTime": 46918,
+          "endTime": 47666,
+          "word": "shadows "
+        },
+        {
+          "startTime": 47666,
+          "endTime": 48414,
+          "word": "dancing "
+        },
+        {
+          "startTime": 48414,
+          "endTime": 48746,
+          "word": "us "
+        },
+        {
+          "startTime": 48746,
+          "endTime": 49106,
+          "word": "out "
+        },
+        {
+          "startTime": 49106,
+          "endTime": 49438,
+          "word": "of "
+        },
+        {
+          "startTime": 49438,
+          "endTime": 49798,
+          "word": "our "
+        },
+        {
+          "startTime": 49798,
+          "endTime": 50550,
+          "word": "clothes"
+        }
+      ]
+    },
+    {
+      "time": 50550,
+      "endTime": 53060,
+      "text": "I'll be damned if you love me",
+      "words": [
+        {
+          "startTime": 50550,
+          "endTime": 50891,
+          "word": "I'll "
+        },
+        {
+          "startTime": 50891,
+          "endTime": 51183,
+          "word": "be "
+        },
+        {
+          "startTime": 51183,
+          "endTime": 51816,
+          "word": "damned "
+        },
+        {
+          "startTime": 51816,
+          "endTime": 52108,
+          "word": "if "
+        },
+        {
+          "startTime": 52108,
+          "endTime": 52424,
+          "word": "you "
+        },
+        {
+          "startTime": 52424,
+          "endTime": 52765,
+          "word": "love "
+        },
+        {
+          "startTime": 52765,
+          "endTime": 53060,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 53060,
+      "endTime": 65070,
+      "text": "Damned if you don't",
+      "words": [
+        {
+          "startTime": 53060,
+          "endTime": 57791,
+          "word": "Damned "
+        },
+        {
+          "startTime": 57791,
+          "endTime": 59974,
+          "word": "if "
+        },
+        {
+          "startTime": 59974,
+          "endTime": 62339,
+          "word": "you "
+        },
+        {
+          "startTime": 62339,
+          "endTime": 65070,
+          "word": "don't"
+        }
+      ]
+    },
+    {
+      "time": 65070,
+      "endTime": 67450,
+      "text": "Maybe it's fate, maybe it's late",
+      "words": [
+        {
+          "startTime": 65070,
+          "endTime": 65458,
+          "word": "Maybe "
+        },
+        {
+          "startTime": 65458,
+          "endTime": 65820,
+          "word": "it's "
+        },
+        {
+          "startTime": 65820,
+          "endTime": 66337,
+          "word": "fate, "
+        },
+        {
+          "startTime": 66337,
+          "endTime": 66725,
+          "word": "maybe "
+        },
+        {
+          "startTime": 66725,
+          "endTime": 67087,
+          "word": "it's "
+        },
+        {
+          "startTime": 67087,
+          "endTime": 67450,
+          "word": "late"
+        }
+      ]
+    },
+    {
+      "time": 67450,
+      "endTime": 69370,
+      "text": "Told you I ain't no liar",
+      "words": [
+        {
+          "startTime": 67450,
+          "endTime": 67790,
+          "word": "Told "
+        },
+        {
+          "startTime": 67790,
+          "endTime": 68105,
+          "word": "you "
+        },
+        {
+          "startTime": 68105,
+          "endTime": 68372,
+          "word": "I "
+        },
+        {
+          "startTime": 68372,
+          "endTime": 68736,
+          "word": "ain't "
+        },
+        {
+          "startTime": 68736,
+          "endTime": 69027,
+          "word": "no "
+        },
+        {
+          "startTime": 69027,
+          "endTime": 69370,
+          "word": "liar"
+        }
+      ]
+    },
+    {
+      "time": 69370,
+      "endTime": 71920,
+      "text": "Watching you leave's haunting my dreams",
+      "words": [
+        {
+          "startTime": 69370,
+          "endTime": 69945,
+          "word": "Watching "
+        },
+        {
+          "startTime": 69945,
+          "endTime": 70212,
+          "word": "you "
+        },
+        {
+          "startTime": 70212,
+          "endTime": 70767,
+          "word": "leave's "
+        },
+        {
+          "startTime": 70767,
+          "endTime": 71342,
+          "word": "haunting "
+        },
+        {
+          "startTime": 71342,
+          "endTime": 71588,
+          "word": "my "
+        },
+        {
+          "startTime": 71588,
+          "endTime": 71920,
+          "word": "dreams"
+        }
+      ]
+    },
+    {
+      "time": 71920,
+      "endTime": 74590,
+      "text": "Baby, it hit me like a frеight train",
+      "words": [
+        {
+          "startTime": 71920,
+          "endTime": 72565,
+          "word": "Baby, "
+        },
+        {
+          "startTime": 72565,
+          "endTime": 72823,
+          "word": "it "
+        },
+        {
+          "startTime": 72823,
+          "endTime": 73102,
+          "word": "hit "
+        },
+        {
+          "startTime": 73102,
+          "endTime": 73360,
+          "word": "me "
+        },
+        {
+          "startTime": 73360,
+          "endTime": 73661,
+          "word": "like "
+        },
+        {
+          "startTime": 73661,
+          "endTime": 73897,
+          "word": "a "
+        },
+        {
+          "startTime": 73897,
+          "endTime": 74263,
+          "word": "frеight "
+        },
+        {
+          "startTime": 74263,
+          "endTime": 74590,
+          "word": "train"
+        }
+      ]
+    },
+    {
+      "time": 74590,
+      "endTime": 76230,
+      "text": "To the chest, uh-huh",
+      "words": [
+        {
+          "startTime": 74590,
+          "endTime": 74845,
+          "word": "To "
+        },
+        {
+          "startTime": 74845,
+          "endTime": 75121,
+          "word": "the "
+        },
+        {
+          "startTime": 75121,
+          "endTime": 75568,
+          "word": "chest, "
+        },
+        {
+          "startTime": 75568,
+          "endTime": 76230,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 76230,
+      "endTime": 78650,
+      "text": "The day wе met, uh-huh",
+      "words": [
+        {
+          "startTime": 76230,
+          "endTime": 76587,
+          "word": "The "
+        },
+        {
+          "startTime": 76587,
+          "endTime": 76944,
+          "word": "day "
+        },
+        {
+          "startTime": 76944,
+          "endTime": 77274,
+          "word": "wе "
+        },
+        {
+          "startTime": 77274,
+          "endTime": 77796,
+          "word": "met, "
+        },
+        {
+          "startTime": 77796,
+          "endTime": 78650,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 78650,
+      "endTime": 80040,
+      "text": "My loneliness",
+      "words": [
+        {
+          "startTime": 78650,
+          "endTime": 78919,
+          "word": "My "
+        },
+        {
+          "startTime": 78919,
+          "endTime": 80040,
+          "word": "loneliness"
+        }
+      ]
+    },
+    {
+      "time": 80040,
+      "endTime": 83480,
+      "text": "Left the room the second that you walked in",
+      "words": [
+        {
+          "startTime": 80040,
+          "endTime": 80372,
+          "word": "Left "
+        },
+        {
+          "startTime": 80372,
+          "endTime": 80680,
+          "word": "the "
+        },
+        {
+          "startTime": 80680,
+          "endTime": 81012,
+          "word": "room "
+        },
+        {
+          "startTime": 81012,
+          "endTime": 81320,
+          "word": "the "
+        },
+        {
+          "startTime": 81320,
+          "endTime": 81936,
+          "word": "second "
+        },
+        {
+          "startTime": 81936,
+          "endTime": 82268,
+          "word": "that "
+        },
+        {
+          "startTime": 82268,
+          "endTime": 82576,
+          "word": "you "
+        },
+        {
+          "startTime": 82576,
+          "endTime": 83192,
+          "word": "walked "
+        },
+        {
+          "startTime": 83192,
+          "endTime": 83480,
+          "word": "in"
+        }
+      ]
+    },
+    {
+      "time": 83480,
+      "endTime": 86230,
+      "text": "Somethin' like a fever dream",
+      "words": [
+        {
+          "startTime": 83480,
+          "endTime": 84511,
+          "word": "Somethin' "
+        },
+        {
+          "startTime": 84511,
+          "endTime": 84881,
+          "word": "like "
+        },
+        {
+          "startTime": 84881,
+          "endTime": 85171,
+          "word": "a "
+        },
+        {
+          "startTime": 85171,
+          "endTime": 85832,
+          "word": "fever "
+        },
+        {
+          "startTime": 85832,
+          "endTime": 86230,
+          "word": "dream"
+        }
+      ]
+    },
+    {
+      "time": 86230,
+      "endTime": 88420,
+      "text": "Haven't slept in weeks",
+      "words": [
+        {
+          "startTime": 86230,
+          "endTime": 87086,
+          "word": "Haven't "
+        },
+        {
+          "startTime": 87086,
+          "endTime": 87562,
+          "word": "slept "
+        },
+        {
+          "startTime": 87562,
+          "endTime": 87942,
+          "word": "in "
+        },
+        {
+          "startTime": 87942,
+          "endTime": 88420,
+          "word": "weeks"
+        }
+      ]
+    },
+    {
+      "time": 88420,
+      "endTime": 90740,
+      "text": "I think I'm seeing things",
+      "words": [
+        {
+          "startTime": 88420,
+          "endTime": 88779,
+          "word": "I "
+        },
+        {
+          "startTime": 88779,
+          "endTime": 89269,
+          "word": "think "
+        },
+        {
+          "startTime": 89269,
+          "endTime": 89693,
+          "word": "I'm "
+        },
+        {
+          "startTime": 89693,
+          "endTime": 90215,
+          "word": "seeing "
+        },
+        {
+          "startTime": 90215,
+          "endTime": 90740,
+          "word": "things"
+        }
+      ]
+    },
+    {
+      "time": 90740,
+      "endTime": 94900,
+      "text": "Like our shadows dancing us out of our clothes",
+      "words": [
+        {
+          "startTime": 90740,
+          "endTime": 91108,
+          "word": "Like "
+        },
+        {
+          "startTime": 91108,
+          "endTime": 91450,
+          "word": "our "
+        },
+        {
+          "startTime": 91450,
+          "endTime": 92160,
+          "word": "shadows "
+        },
+        {
+          "startTime": 92160,
+          "endTime": 92870,
+          "word": "dancing "
+        },
+        {
+          "startTime": 92870,
+          "endTime": 93185,
+          "word": "us "
+        },
+        {
+          "startTime": 93185,
+          "endTime": 93527,
+          "word": "out "
+        },
+        {
+          "startTime": 93527,
+          "endTime": 93842,
+          "word": "of "
+        },
+        {
+          "startTime": 93842,
+          "endTime": 94184,
+          "word": "our "
+        },
+        {
+          "startTime": 94184,
+          "endTime": 94900,
+          "word": "clothes"
+        }
+      ]
+    },
+    {
+      "time": 94900,
+      "endTime": 97480,
+      "text": "I'll be damned if you love me",
+      "words": [
+        {
+          "startTime": 94900,
+          "endTime": 95250,
+          "word": "I'll "
+        },
+        {
+          "startTime": 95250,
+          "endTime": 95550,
+          "word": "be "
+        },
+        {
+          "startTime": 95550,
+          "endTime": 96201,
+          "word": "damned "
+        },
+        {
+          "startTime": 96201,
+          "endTime": 96501,
+          "word": "if "
+        },
+        {
+          "startTime": 96501,
+          "endTime": 96826,
+          "word": "you "
+        },
+        {
+          "startTime": 96826,
+          "endTime": 97176,
+          "word": "love "
+        },
+        {
+          "startTime": 97176,
+          "endTime": 97480,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 97480,
+      "endTime": 102470,
+      "text": "Damned if you don't",
+      "words": [
+        {
+          "startTime": 97480,
+          "endTime": 99445,
+          "word": "Damned "
+        },
+        {
+          "startTime": 99445,
+          "endTime": 100352,
+          "word": "if "
+        },
+        {
+          "startTime": 100352,
+          "endTime": 101334,
+          "word": "you "
+        },
+        {
+          "startTime": 101334,
+          "endTime": 102470,
+          "word": "don't"
+        }
+      ]
+    },
+    {
+      "time": 102470,
+      "endTime": 107620,
+      "text": "One foot on the edge, uh-huh",
+      "words": [
+        {
+          "startTime": 102470,
+          "endTime": 103120,
+          "word": "One "
+        },
+        {
+          "startTime": 103120,
+          "endTime": 103819,
+          "word": "foot "
+        },
+        {
+          "startTime": 103819,
+          "endTime": 104418,
+          "word": "on "
+        },
+        {
+          "startTime": 104418,
+          "endTime": 105068,
+          "word": "the "
+        },
+        {
+          "startTime": 105068,
+          "endTime": 106067,
+          "word": "edge, "
+        },
+        {
+          "startTime": 106067,
+          "endTime": 107620,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 107620,
+      "endTime": 109530,
+      "text": "That silhouette, uh-huh",
+      "words": [
+        {
+          "startTime": 107620,
+          "endTime": 107950,
+          "word": "That "
+        },
+        {
+          "startTime": 107950,
+          "endTime": 108798,
+          "word": "silhouette, "
+        },
+        {
+          "startTime": 108798,
+          "endTime": 109530,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 109530,
+      "endTime": 111420,
+      "text": "I can't forget",
+      "words": [
+        {
+          "startTime": 109530,
+          "endTime": 109929,
+          "word": "I "
+        },
+        {
+          "startTime": 109929,
+          "endTime": 110474,
+          "word": "can't "
+        },
+        {
+          "startTime": 110474,
+          "endTime": 111420,
+          "word": "forget"
+        }
+      ]
+    },
+    {
+      "time": 111420,
+      "endTime": 114310,
+      "text": "Somethin' 'bout you hit me like a freight train",
+      "words": [
+        {
+          "startTime": 111420,
+          "endTime": 112176,
+          "word": "Somethin' "
+        },
+        {
+          "startTime": 112176,
+          "endTime": 112466,
+          "word": "'bout "
+        },
+        {
+          "startTime": 112466,
+          "endTime": 112718,
+          "word": "you "
+        },
+        {
+          "startTime": 112718,
+          "endTime": 112970,
+          "word": "hit "
+        },
+        {
+          "startTime": 112970,
+          "endTime": 113202,
+          "word": "me "
+        },
+        {
+          "startTime": 113202,
+          "endTime": 113473,
+          "word": "like "
+        },
+        {
+          "startTime": 113473,
+          "endTime": 113686,
+          "word": "a "
+        },
+        {
+          "startTime": 113686,
+          "endTime": 114015,
+          "word": "freight "
+        },
+        {
+          "startTime": 114015,
+          "endTime": 114310,
+          "word": "train"
+        }
+      ]
+    },
+    {
+      "time": 114310,
+      "endTime": 116490,
+      "text": "To the chest, uh-huh",
+      "words": [
+        {
+          "startTime": 114310,
+          "endTime": 114649,
+          "word": "To "
+        },
+        {
+          "startTime": 114649,
+          "endTime": 115017,
+          "word": "the "
+        },
+        {
+          "startTime": 115017,
+          "endTime": 115611,
+          "word": "chest, "
+        },
+        {
+          "startTime": 115611,
+          "endTime": 116490,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 116490,
+      "endTime": 118310,
+      "text": "The day we met, uh-huh",
+      "words": [
+        {
+          "startTime": 116490,
+          "endTime": 116758,
+          "word": "The "
+        },
+        {
+          "startTime": 116758,
+          "endTime": 117026,
+          "word": "day "
+        },
+        {
+          "startTime": 117026,
+          "endTime": 117274,
+          "word": "we "
+        },
+        {
+          "startTime": 117274,
+          "endTime": 117666,
+          "word": "met, "
+        },
+        {
+          "startTime": 117666,
+          "endTime": 118310,
+          "word": "uh-huh"
+        }
+      ]
+    },
+    {
+      "time": 118310,
+      "endTime": 120230,
+      "text": "My loneliness",
+      "words": [
+        {
+          "startTime": 118310,
+          "endTime": 118681,
+          "word": "My "
+        },
+        {
+          "startTime": 118681,
+          "endTime": 120230,
+          "word": "loneliness"
+        }
+      ]
+    },
+    {
+      "time": 120230,
+      "endTime": 123370,
+      "text": "Left the room the second that you walked in",
+      "words": [
+        {
+          "startTime": 120230,
+          "endTime": 120533,
+          "word": "Left "
+        },
+        {
+          "startTime": 120533,
+          "endTime": 120814,
+          "word": "the "
+        },
+        {
+          "startTime": 120814,
+          "endTime": 121117,
+          "word": "room "
+        },
+        {
+          "startTime": 121117,
+          "endTime": 121398,
+          "word": "the "
+        },
+        {
+          "startTime": 121398,
+          "endTime": 121961,
+          "word": "second "
+        },
+        {
+          "startTime": 121961,
+          "endTime": 122264,
+          "word": "that "
+        },
+        {
+          "startTime": 122264,
+          "endTime": 122545,
+          "word": "you "
+        },
+        {
+          "startTime": 122545,
+          "endTime": 123108,
+          "word": "walked "
+        },
+        {
+          "startTime": 123108,
+          "endTime": 123370,
+          "word": "in"
+        }
+      ]
+    },
+    {
+      "time": 123370,
+      "endTime": 126250,
+      "text": "Somethin' like a fever dream",
+      "words": [
+        {
+          "startTime": 123370,
+          "endTime": 124450,
+          "word": "Somethin' "
+        },
+        {
+          "startTime": 124450,
+          "endTime": 124837,
+          "word": "like "
+        },
+        {
+          "startTime": 124837,
+          "endTime": 125141,
+          "word": "a "
+        },
+        {
+          "startTime": 125141,
+          "endTime": 125833,
+          "word": "fever "
+        },
+        {
+          "startTime": 125833,
+          "endTime": 126250,
+          "word": "dream"
+        }
+      ]
+    },
+    {
+      "time": 126250,
+      "endTime": 128430,
+      "text": "Haven't slept in weeks",
+      "words": [
+        {
+          "startTime": 126250,
+          "endTime": 127103,
+          "word": "Haven't "
+        },
+        {
+          "startTime": 127103,
+          "endTime": 127576,
+          "word": "slept "
+        },
+        {
+          "startTime": 127576,
+          "endTime": 127955,
+          "word": "in "
+        },
+        {
+          "startTime": 127955,
+          "endTime": 128430,
+          "word": "weeks"
+        }
+      ]
+    },
+    {
+      "time": 128430,
+      "endTime": 131020,
+      "text": "I think I'm seeing things (Seeing things)",
+      "words": [
+        {
+          "startTime": 128430,
+          "endTime": 128701,
+          "word": "I "
+        },
+        {
+          "startTime": 128701,
+          "endTime": 129071,
+          "word": "think "
+        },
+        {
+          "startTime": 129071,
+          "endTime": 129391,
+          "word": "I'm "
+        },
+        {
+          "startTime": 129391,
+          "endTime": 129785,
+          "word": "seeing "
+        },
+        {
+          "startTime": 129785,
+          "endTime": 130179,
+          "word": "things "
+        },
+        {
+          "startTime": 130179,
+          "endTime": 130598,
+          "word": "(Seeing "
+        },
+        {
+          "startTime": 130598,
+          "endTime": 131020,
+          "word": "things)"
+        }
+      ]
+    },
+    {
+      "time": 131020,
+      "endTime": 135080,
+      "text": "Like our shadows dancing us out of our clothes",
+      "words": [
+        {
+          "startTime": 131020,
+          "endTime": 131379,
+          "word": "Like "
+        },
+        {
+          "startTime": 131379,
+          "endTime": 131713,
+          "word": "our "
+        },
+        {
+          "startTime": 131713,
+          "endTime": 132406,
+          "word": "shadows "
+        },
+        {
+          "startTime": 132406,
+          "endTime": 133099,
+          "word": "dancing "
+        },
+        {
+          "startTime": 133099,
+          "endTime": 133407,
+          "word": "us "
+        },
+        {
+          "startTime": 133407,
+          "endTime": 133741,
+          "word": "out "
+        },
+        {
+          "startTime": 133741,
+          "endTime": 134049,
+          "word": "of "
+        },
+        {
+          "startTime": 134049,
+          "endTime": 134383,
+          "word": "our "
+        },
+        {
+          "startTime": 134383,
+          "endTime": 135080,
+          "word": "clothes"
+        }
+      ]
+    },
+    {
+      "time": 135080,
+      "endTime": 137590,
+      "text": "I'll be damned if you love me",
+      "words": [
+        {
+          "startTime": 135080,
+          "endTime": 135421,
+          "word": "I'll "
+        },
+        {
+          "startTime": 135421,
+          "endTime": 135713,
+          "word": "be "
+        },
+        {
+          "startTime": 135713,
+          "endTime": 136346,
+          "word": "damned "
+        },
+        {
+          "startTime": 136346,
+          "endTime": 136638,
+          "word": "if "
+        },
+        {
+          "startTime": 136638,
+          "endTime": 136954,
+          "word": "you "
+        },
+        {
+          "startTime": 136954,
+          "endTime": 137295,
+          "word": "love "
+        },
+        {
+          "startTime": 137295,
+          "endTime": 137590,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 137590,
+      "endTime": 142610,
+      "text": "Damned if you don't",
+      "words": [
+        {
+          "startTime": 137590,
+          "endTime": 139567,
+          "word": "Damned "
+        },
+        {
+          "startTime": 139567,
+          "endTime": 140479,
+          "word": "if "
+        },
+        {
+          "startTime": 140479,
+          "endTime": 141467,
+          "word": "you "
+        },
+        {
+          "startTime": 141467,
+          "endTime": 142610,
+          "word": "don't"
+        }
+      ]
+    },
+    {
+      "time": 142610,
+      "endTime": 147610,
+      "text": "Oh, if you don't",
+      "words": [
+        {
+          "startTime": 142610,
+          "endTime": 144161,
+          "word": "Oh, "
+        },
+        {
+          "startTime": 144161,
+          "endTime": 145195,
+          "word": "if "
+        },
+        {
+          "startTime": 145195,
+          "endTime": 146315,
+          "word": "you "
+        },
+        {
+          "startTime": 146315,
+          "endTime": 147610,
+          "word": "don't"
+        }
+      ]
+    }
+  ]
+}
