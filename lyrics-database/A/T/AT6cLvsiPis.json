@@ -1,0 +1,671 @@
+{
+  "videoId": "AT6cLvsiPis",
+  "title": "Here We Go",
+  "artist": "Norman",
+  "duration": 144,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:18.790\" end=\"00:23.390\">\n        <span begin=\"00:18.790\" end=\"00:19.185\">I <\/span>\n        <span begin=\"00:19.185\" end=\"00:19.688\">will <\/span>\n        <span begin=\"00:19.688\" end=\"00:20.370\">run, <\/span>\n        <span begin=\"00:20.370\" end=\"00:20.765\">I <\/span>\n        <span begin=\"00:20.765\" end=\"00:21.268\">will <\/span>\n        <span begin=\"00:21.268\" end=\"00:21.986\">rise, <\/span>\n        <span begin=\"00:21.986\" end=\"00:22.381\">I <\/span>\n        <span begin=\"00:22.381\" end=\"00:22.884\">will <\/span>\n        <span begin=\"00:22.884\" end=\"00:23.390\">grow<\/span>\n      <\/p>\n      <p begin=\"00:23.390\" end=\"00:28.150\">\n        <span begin=\"00:23.390\" end=\"00:23.837\">I <\/span>\n        <span begin=\"00:23.837\" end=\"00:24.406\">will <\/span>\n        <span begin=\"00:24.406\" end=\"00:25.016\">climb <\/span>\n        <span begin=\"00:25.016\" end=\"00:25.504\">to <\/span>\n        <span begin=\"00:25.504\" end=\"00:26.032\">the <\/span>\n        <span begin=\"00:26.032\" end=\"00:26.642\">place <\/span>\n        <span begin=\"00:26.642\" end=\"00:27.089\">I <\/span>\n        <span begin=\"00:27.089\" end=\"00:28.150\">belong<\/span>\n      <\/p>\n      <p begin=\"00:28.150\" end=\"00:33.440\">\n        <span begin=\"00:28.150\" end=\"00:28.619\">I <\/span>\n        <span begin=\"00:28.619\" end=\"00:29.216\">will <\/span>\n        <span begin=\"00:29.216\" end=\"00:29.855\">fight <\/span>\n        <span begin=\"00:29.855\" end=\"00:30.452\">like <\/span>\n        <span begin=\"00:30.452\" end=\"00:31.006\">the <\/span>\n        <span begin=\"00:31.006\" end=\"00:31.731\">world&apos;s <\/span>\n        <span begin=\"00:31.731\" end=\"00:32.797\">never <\/span>\n        <span begin=\"00:32.797\" end=\"00:33.440\">known<\/span>\n      <\/p>\n      <p begin=\"00:33.440\" end=\"00:40.890\">\n        <span begin=\"00:33.440\" end=\"00:34.681\">Like <\/span>\n        <span begin=\"00:34.681\" end=\"00:35.833\">the <\/span>\n        <span begin=\"00:35.833\" end=\"00:37.340\">world&apos;s <\/span>\n        <span begin=\"00:37.340\" end=\"00:39.557\">never <\/span>\n        <span begin=\"00:39.557\" end=\"00:40.890\">known<\/span>\n      <\/p>\n      <p begin=\"00:40.890\" end=\"00:45.140\">\n        <span begin=\"00:40.890\" end=\"00:42.455\">Here <\/span>\n        <span begin=\"00:42.455\" end=\"00:43.797\">we <\/span>\n        <span begin=\"00:43.797\" end=\"00:45.140\">go<\/span>\n      <\/p>\n      <p begin=\"00:45.140\" end=\"00:50.410\">\n        <span begin=\"00:45.140\" end=\"00:46.018\">Like <\/span>\n        <span begin=\"00:46.018\" end=\"00:46.833\">the <\/span>\n        <span begin=\"00:46.833\" end=\"00:47.899\">world&apos;s <\/span>\n        <span begin=\"00:47.899\" end=\"00:49.467\">never <\/span>\n        <span begin=\"00:49.467\" end=\"00:50.410\">known<\/span>\n      <\/p>\n      <p begin=\"00:50.410\" end=\"00:54.700\">\n        <span begin=\"00:50.410\" end=\"00:51.990\">Here <\/span>\n        <span begin=\"00:51.990\" end=\"00:53.344\">we <\/span>\n        <span begin=\"00:53.344\" end=\"00:54.700\">go<\/span>\n      <\/p>\n      <p begin=\"00:54.700\" end=\"00:57.150\">\n        <span begin=\"00:54.700\" end=\"00:55.108\">Like <\/span>\n        <span begin=\"00:55.108\" end=\"00:55.487\">the <\/span>\n        <span begin=\"00:55.487\" end=\"00:55.982\">world&apos;s <\/span>\n        <span begin=\"00:55.982\" end=\"00:56.711\">never <\/span>\n        <span begin=\"00:56.711\" end=\"00:57.150\">known<\/span>\n      <\/p>\n      <p begin=\"00:57.150\" end=\"01:01.130\">\n        <span begin=\"00:57.150\" end=\"00:57.583\">Through <\/span>\n        <span begin=\"00:57.583\" end=\"00:57.914\">the <\/span>\n        <span begin=\"00:57.914\" end=\"00:58.449\">smoke, <\/span>\n        <span begin=\"00:58.449\" end=\"00:58.882\">through <\/span>\n        <span begin=\"00:58.882\" end=\"00:59.213\">the <\/span>\n        <span begin=\"00:59.213\" end=\"00:59.697\">ash, <\/span>\n        <span begin=\"00:59.697\" end=\"01:00.130\">through <\/span>\n        <span begin=\"01:00.130\" end=\"01:00.461\">the <\/span>\n        <span begin=\"01:00.461\" end=\"01:01.130\">flames<\/span>\n      <\/p>\n      <p begin=\"01:01.130\" end=\"01:05.930\">\n        <span begin=\"01:01.130\" end=\"01:01.658\">And <\/span>\n        <span begin=\"01:01.658\" end=\"01:02.146\">it <\/span>\n        <span begin=\"01:02.146\" end=\"01:02.756\">burns <\/span>\n        <span begin=\"01:02.756\" end=\"01:03.325\">like <\/span>\n        <span begin=\"01:03.325\" end=\"01:03.772\">a <\/span>\n        <span begin=\"01:03.772\" end=\"01:04.341\">fire <\/span>\n        <span begin=\"01:04.341\" end=\"01:04.829\">in <\/span>\n        <span begin=\"01:04.829\" end=\"01:05.317\">my <\/span>\n        <span begin=\"01:05.317\" end=\"01:05.930\">veins<\/span>\n      <\/p>\n      <p begin=\"01:05.930\" end=\"01:11.040\">\n        <span begin=\"01:05.930\" end=\"01:06.449\">In <\/span>\n        <span begin=\"01:06.449\" end=\"01:07.011\">the <\/span>\n        <span begin=\"01:07.011\" end=\"01:07.573\">end <\/span>\n        <span begin=\"01:07.573\" end=\"01:08.265\">you&apos;ll <\/span>\n        <span begin=\"01:08.265\" end=\"01:09.910\">remember <\/span>\n        <span begin=\"01:09.910\" end=\"01:10.429\">my <\/span>\n        <span begin=\"01:10.429\" end=\"01:11.040\">name<\/span>\n      <\/p>\n      <p begin=\"01:11.040\" end=\"01:18.180\">\n        <span begin=\"01:11.040\" end=\"01:15.279\">Remember <\/span>\n        <span begin=\"01:15.279\" end=\"01:16.617\">my <\/span>\n        <span begin=\"01:16.617\" end=\"01:18.180\">name<\/span>\n      <\/p>\n      <p begin=\"01:18.180\" end=\"01:22.540\">\n        <span begin=\"01:18.180\" end=\"01:19.786\">Here <\/span>\n        <span begin=\"01:19.786\" end=\"01:21.162\">we <\/span>\n        <span begin=\"01:21.162\" end=\"01:22.540\">go<\/span>\n      <\/p>\n      <p begin=\"01:22.540\" end=\"01:27.580\">\n        <span begin=\"01:22.540\" end=\"01:23.380\">Like <\/span>\n        <span begin=\"01:23.380\" end=\"01:24.160\">the <\/span>\n        <span begin=\"01:24.160\" end=\"01:25.180\">world&apos;s <\/span>\n        <span begin=\"01:25.180\" end=\"01:26.680\">never <\/span>\n        <span begin=\"01:26.680\" end=\"01:27.580\">known<\/span>\n      <\/p>\n      <p begin=\"01:27.580\" end=\"01:32.050\">\n        <span begin=\"01:27.580\" end=\"01:29.226\">Here <\/span>\n        <span begin=\"01:29.226\" end=\"01:30.637\">we <\/span>\n        <span begin=\"01:30.637\" end=\"01:32.050\">go<\/span>\n      <\/p>\n      <p begin=\"01:32.050\" end=\"01:41.940\">\n        <span begin=\"01:32.050\" end=\"01:33.698\">Like <\/span>\n        <span begin=\"01:33.698\" end=\"01:35.228\">the <\/span>\n        <span begin=\"01:35.228\" end=\"01:37.229\">world&apos;s <\/span>\n        <span begin=\"01:37.229\" end=\"01:40.172\">never <\/span>\n        <span begin=\"01:40.172\" end=\"01:41.940\">known<\/span>\n      <\/p>\n      <p begin=\"01:41.940\" end=\"02:05.490\">\n        <span begin=\"01:41.940\" end=\"01:50.616\">Here <\/span>\n        <span begin=\"01:50.616\" end=\"01:58.052\">we <\/span>\n        <span begin=\"01:58.052\" end=\"02:05.490\">go<\/span>\n      <\/p>\n      <p begin=\"02:05.490\" end=\"02:09.890\">\n        <span begin=\"02:05.490\" end=\"02:07.111\">Here <\/span>\n        <span begin=\"02:07.111\" end=\"02:08.500\">we <\/span>\n        <span begin=\"02:08.500\" end=\"02:09.890\">go<\/span>\n      <\/p>\n      <p begin=\"02:09.890\" end=\"02:14.760\">\n        <span begin=\"02:09.890\" end=\"02:10.701\">Like <\/span>\n        <span begin=\"02:10.701\" end=\"02:11.454\">the <\/span>\n        <span begin=\"02:11.454\" end=\"02:12.439\">world&apos;s <\/span>\n        <span begin=\"02:12.439\" end=\"02:13.888\">never <\/span>\n        <span begin=\"02:13.888\" end=\"02:14.760\">known<\/span>\n      <\/p>\n      <p begin=\"02:14.760\" end=\"02:19.760\">\n        <span begin=\"02:14.760\" end=\"02:16.602\">Here <\/span>\n        <span begin=\"02:16.602\" end=\"02:18.180\">we <\/span>\n        <span begin=\"02:18.180\" end=\"02:19.760\">go<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 18790,
+      "endTime": 23390,
+      "text": "I will run, I will rise, I will grow",
+      "words": [
+        {
+          "startTime": 18790,
+          "endTime": 19185,
+          "word": "I "
+        },
+        {
+          "startTime": 19185,
+          "endTime": 19688,
+          "word": "will "
+        },
+        {
+          "startTime": 19688,
+          "endTime": 20370,
+          "word": "run, "
+        },
+        {
+          "startTime": 20370,
+          "endTime": 20765,
+          "word": "I "
+        },
+        {
+          "startTime": 20765,
+          "endTime": 21268,
+          "word": "will "
+        },
+        {
+          "startTime": 21268,
+          "endTime": 21986,
+          "word": "rise, "
+        },
+        {
+          "startTime": 21986,
+          "endTime": 22381,
+          "word": "I "
+        },
+        {
+          "startTime": 22381,
+          "endTime": 22884,
+          "word": "will "
+        },
+        {
+          "startTime": 22884,
+          "endTime": 23390,
+          "word": "grow"
+        }
+      ]
+    },
+    {
+      "time": 23390,
+      "endTime": 28150,
+      "text": "I will climb to the place I belong",
+      "words": [
+        {
+          "startTime": 23390,
+          "endTime": 23837,
+          "word": "I "
+        },
+        {
+          "startTime": 23837,
+          "endTime": 24406,
+          "word": "will "
+        },
+        {
+          "startTime": 24406,
+          "endTime": 25016,
+          "word": "climb "
+        },
+        {
+          "startTime": 25016,
+          "endTime": 25504,
+          "word": "to "
+        },
+        {
+          "startTime": 25504,
+          "endTime": 26032,
+          "word": "the "
+        },
+        {
+          "startTime": 26032,
+          "endTime": 26642,
+          "word": "place "
+        },
+        {
+          "startTime": 26642,
+          "endTime": 27089,
+          "word": "I "
+        },
+        {
+          "startTime": 27089,
+          "endTime": 28150,
+          "word": "belong"
+        }
+      ]
+    },
+    {
+      "time": 28150,
+      "endTime": 33440,
+      "text": "I will fight like the world's never known",
+      "words": [
+        {
+          "startTime": 28150,
+          "endTime": 28619,
+          "word": "I "
+        },
+        {
+          "startTime": 28619,
+          "endTime": 29216,
+          "word": "will "
+        },
+        {
+          "startTime": 29216,
+          "endTime": 29855,
+          "word": "fight "
+        },
+        {
+          "startTime": 29855,
+          "endTime": 30452,
+          "word": "like "
+        },
+        {
+          "startTime": 30452,
+          "endTime": 31006,
+          "word": "the "
+        },
+        {
+          "startTime": 31006,
+          "endTime": 31731,
+          "word": "world's "
+        },
+        {
+          "startTime": 31731,
+          "endTime": 32797,
+          "word": "never "
+        },
+        {
+          "startTime": 32797,
+          "endTime": 33440,
+          "word": "known"
+        }
+      ]
+    },
+    {
+      "time": 33440,
+      "endTime": 40890,
+      "text": "Like the world's never known",
+      "words": [
+        {
+          "startTime": 33440,
+          "endTime": 34681,
+          "word": "Like "
+        },
+        {
+          "startTime": 34681,
+          "endTime": 35833,
+          "word": "the "
+        },
+        {
+          "startTime": 35833,
+          "endTime": 37340,
+          "word": "world's "
+        },
+        {
+          "startTime": 37340,
+          "endTime": 39557,
+          "word": "never "
+        },
+        {
+          "startTime": 39557,
+          "endTime": 40890,
+          "word": "known"
+        }
+      ]
+    },
+    {
+      "time": 40890,
+      "endTime": 45140,
+      "text": "Here we go",
+      "words": [
+        {
+          "startTime": 40890,
+          "endTime": 42455,
+          "word": "Here "
+        },
+        {
+          "startTime": 42455,
+          "endTime": 43797,
+          "word": "we "
+        },
+        {
+          "startTime": 43797,
+          "endTime": 45140,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 45140,
+      "endTime": 50410,
+      "text": "Like the world's never known",
+      "words": [
+        {
+          "startTime": 45140,
+          "endTime": 46018,
+          "word": "Like "
+        },
+        {
+          "startTime": 46018,
+          "endTime": 46833,
+          "word": "the "
+        },
+        {
+          "startTime": 46833,
+          "endTime": 47899,
+          "word": "world's "
+        },
+        {
+          "startTime": 47899,
+          "endTime": 49467,
+          "word": "never "
+        },
+        {
+          "startTime": 49467,
+          "endTime": 50410,
+          "word": "known"
+        }
+      ]
+    },
+    {
+      "time": 50410,
+      "endTime": 54700,
+      "text": "Here we go",
+      "words": [
+        {
+          "startTime": 50410,
+          "endTime": 51990,
+          "word": "Here "
+        },
+        {
+          "startTime": 51990,
+          "endTime": 53344,
+          "word": "we "
+        },
+        {
+          "startTime": 53344,
+          "endTime": 54700,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 54700,
+      "endTime": 57150,
+      "text": "Like the world's never known",
+      "words": [
+        {
+          "startTime": 54700,
+          "endTime": 55108,
+          "word": "Like "
+        },
+        {
+          "startTime": 55108,
+          "endTime": 55487,
+          "word": "the "
+        },
+        {
+          "startTime": 55487,
+          "endTime": 55982,
+          "word": "world's "
+        },
+        {
+          "startTime": 55982,
+          "endTime": 56711,
+          "word": "never "
+        },
+        {
+          "startTime": 56711,
+          "endTime": 57150,
+          "word": "known"
+        }
+      ]
+    },
+    {
+      "time": 57150,
+      "endTime": 61130,
+      "text": "Through the smoke, through the ash, through the flames",
+      "words": [
+        {
+          "startTime": 57150,
+          "endTime": 57583,
+          "word": "Through "
+        },
+        {
+          "startTime": 57583,
+          "endTime": 57914,
+          "word": "the "
+        },
+        {
+          "startTime": 57914,
+          "endTime": 58449,
+          "word": "smoke, "
+        },
+        {
+          "startTime": 58449,
+          "endTime": 58882,
+          "word": "through "
+        },
+        {
+          "startTime": 58882,
+          "endTime": 59213,
+          "word": "the "
+        },
+        {
+          "startTime": 59213,
+          "endTime": 59697,
+          "word": "ash, "
+        },
+        {
+          "startTime": 59697,
+          "endTime": 60130,
+          "word": "through "
+        },
+        {
+          "startTime": 60130,
+          "endTime": 60461,
+          "word": "the "
+        },
+        {
+          "startTime": 60461,
+          "endTime": 61130,
+          "word": "flames"
+        }
+      ]
+    },
+    {
+      "time": 61130,
+      "endTime": 65930,
+      "text": "And it burns like a fire in my veins",
+      "words": [
+        {
+          "startTime": 61130,
+          "endTime": 61658,
+          "word": "And "
+        },
+        {
+          "startTime": 61658,
+          "endTime": 62146,
+          "word": "it "
+        },
+        {
+          "startTime": 62146,
+          "endTime": 62756,
+          "word": "burns "
+        },
+        {
+          "startTime": 62756,
+          "endTime": 63325,
+          "word": "like "
+        },
+        {
+          "startTime": 63325,
+          "endTime": 63772,
+          "word": "a "
+        },
+        {
+          "startTime": 63772,
+          "endTime": 64341,
+          "word": "fire "
+        },
+        {
+          "startTime": 64341,
+          "endTime": 64829,
+          "word": "in "
+        },
+        {
+          "startTime": 64829,
+          "endTime": 65317,
+          "word": "my "
+        },
+        {
+          "startTime": 65317,
+          "endTime": 65930,
+          "word": "veins"
+        }
+      ]
+    },
+    {
+      "time": 65930,
+      "endTime": 71040,
+      "text": "In the end you'll remember my name",
+      "words": [
+        {
+          "startTime": 65930,
+          "endTime": 66449,
+          "word": "In "
+        },
+        {
+          "startTime": 66449,
+          "endTime": 67011,
+          "word": "the "
+        },
+        {
+          "startTime": 67011,
+          "endTime": 67573,
+          "word": "end "
+        },
+        {
+          "startTime": 67573,
+          "endTime": 68265,
+          "word": "you'll "
+        },
+        {
+          "startTime": 68265,
+          "endTime": 69910,
+          "word": "remember "
+        },
+        {
+          "startTime": 69910,
+          "endTime": 70429,
+          "word": "my "
+        },
+        {
+          "startTime": 70429,
+          "endTime": 71040,
+          "word": "name"
+        }
+      ]
+    },
+    {
+      "time": 71040,
+      "endTime": 78180,
+      "text": "Remember my name",
+      "words": [
+        {
+          "startTime": 71040,
+          "endTime": 75279,
+          "word": "Remember "
+        },
+        {
+          "startTime": 75279,
+          "endTime": 76617,
+          "word": "my "
+        },
+        {
+          "startTime": 76617,
+          "endTime": 78180,
+          "word": "name"
+        }
+      ]
+    },
+    {
+      "time": 78180,
+      "endTime": 82540,
+      "text": "Here we go",
+      "words": [
+        {
+          "startTime": 78180,
+          "endTime": 79786,
+          "word": "Here "
+        },
+        {
+          "startTime": 79786,
+          "endTime": 81162,
+          "word": "we "
+        },
+        {
+          "startTime": 81162,
+          "endTime": 82540,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 82540,
+      "endTime": 87580,
+      "text": "Like the world's never known",
+      "words": [
+        {
+          "startTime": 82540,
+          "endTime": 83380,
+          "word": "Like "
+        },
+        {
+          "startTime": 83380,
+          "endTime": 84160,
+          "word": "the "
+        },
+        {
+          "startTime": 84160,
+          "endTime": 85180,
+          "word": "world's "
+        },
+        {
+          "startTime": 85180,
+          "endTime": 86680,
+          "word": "never "
+        },
+        {
+          "startTime": 86680,
+          "endTime": 87580,
+          "word": "known"
+        }
+      ]
+    },
+    {
+      "time": 87580,
+      "endTime": 92050,
+      "text": "Here we go",
+      "words": [
+        {
+          "startTime": 87580,
+          "endTime": 89226,
+          "word": "Here "
+        },
+        {
+          "startTime": 89226,
+          "endTime": 90637,
+          "word": "we "
+        },
+        {
+          "startTime": 90637,
+          "endTime": 92050,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 92050,
+      "endTime": 101940,
+      "text": "Like the world's never known",
+      "words": [
+        {
+          "startTime": 92050,
+          "endTime": 93698,
+          "word": "Like "
+        },
+        {
+          "startTime": 93698,
+          "endTime": 95228,
+          "word": "the "
+        },
+        {
+          "startTime": 95228,
+          "endTime": 97229,
+          "word": "world's "
+        },
+        {
+          "startTime": 97229,
+          "endTime": 100172,
+          "word": "never "
+        },
+        {
+          "startTime": 100172,
+          "endTime": 101940,
+          "word": "known"
+        }
+      ]
+    },
+    {
+      "time": 101940,
+      "endTime": 125490,
+      "text": "Here we go",
+      "words": [
+        {
+          "startTime": 101940,
+          "endTime": 110616,
+          "word": "Here "
+        },
+        {
+          "startTime": 110616,
+          "endTime": 118052,
+          "word": "we "
+        },
+        {
+          "startTime": 118052,
+          "endTime": 125490,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 125490,
+      "endTime": 129890,
+      "text": "Here we go",
+      "words": [
+        {
+          "startTime": 125490,
+          "endTime": 127111,
+          "word": "Here "
+        },
+        {
+          "startTime": 127111,
+          "endTime": 128500,
+          "word": "we "
+        },
+        {
+          "startTime": 128500,
+          "endTime": 129890,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 129890,
+      "endTime": 134760,
+      "text": "Like the world's never known",
+      "words": [
+        {
+          "startTime": 129890,
+          "endTime": 130701,
+          "word": "Like "
+        },
+        {
+          "startTime": 130701,
+          "endTime": 131454,
+          "word": "the "
+        },
+        {
+          "startTime": 131454,
+          "endTime": 132439,
+          "word": "world's "
+        },
+        {
+          "startTime": 132439,
+          "endTime": 133888,
+          "word": "never "
+        },
+        {
+          "startTime": 133888,
+          "endTime": 134760,
+          "word": "known"
+        }
+      ]
+    },
+    {
+      "time": 134760,
+      "endTime": 139760,
+      "text": "Here we go",
+      "words": [
+        {
+          "startTime": 134760,
+          "endTime": 136602,
+          "word": "Here "
+        },
+        {
+          "startTime": 136602,
+          "endTime": 138180,
+          "word": "we "
+        },
+        {
+          "startTime": 138180,
+          "endTime": 139760,
+          "word": "go"
+        }
+      ]
+    }
+  ]
+}
