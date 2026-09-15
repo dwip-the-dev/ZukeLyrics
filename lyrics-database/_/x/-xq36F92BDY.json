@@ -1,0 +1,1060 @@
+{
+  "videoId": "-xq36F92BDY",
+  "title": "Eloise - It All Goes (Visualizer)",
+  "artist": "Eloise Music",
+  "duration": 140,
+  "source": "Kugou",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:00.000\" end=\"00:00.410\">\n        <span begin=\"00:00.000\" end=\"00:00.100\">Left <\/span>\n        <span begin=\"00:00.100\" end=\"00:00.200\">Side <\/span>\n        <span begin=\"00:00.200\" end=\"00:00.314\">- <\/span>\n        <span begin=\"00:00.314\" end=\"00:00.410\">Eloise<\/span>\n      <\/p>\n      <p begin=\"00:00.410\" end=\"00:05.180\">\n        <span begin=\"00:00.410\" end=\"00:01.105\">Well <\/span>\n        <span begin=\"00:01.105\" end=\"00:01.651\">I <\/span>\n        <span begin=\"00:01.651\" end=\"00:02.396\">guess <\/span>\n        <span begin=\"00:02.396\" end=\"00:03.091\">I&apos;ll <\/span>\n        <span begin=\"00:03.091\" end=\"00:03.786\">take <\/span>\n        <span begin=\"00:03.786\" end=\"00:04.431\">the <\/span>\n        <span begin=\"00:04.431\" end=\"00:05.180\">train<\/span>\n      <\/p>\n      <p begin=\"00:05.180\" end=\"00:08.820\">\n        <span begin=\"00:05.180\" end=\"00:05.919\">And <\/span>\n        <span begin=\"00:05.919\" end=\"00:06.715\">move <\/span>\n        <span begin=\"00:06.715\" end=\"00:07.454\">far <\/span>\n        <span begin=\"00:07.454\" end=\"00:08.820\">away<\/span>\n      <\/p>\n      <p begin=\"00:08.820\" end=\"00:12.930\">\n        <span begin=\"00:08.820\" end=\"00:09.265\">And <\/span>\n        <span begin=\"00:09.265\" end=\"00:09.744\">just <\/span>\n        <span begin=\"00:09.744\" end=\"00:10.223\">keep <\/span>\n        <span begin=\"00:10.223\" end=\"00:10.736\">going <\/span>\n        <span begin=\"00:10.736\" end=\"00:11.215\">till <\/span>\n        <span begin=\"00:11.215\" end=\"00:11.591\">I <\/span>\n        <span begin=\"00:11.591\" end=\"00:12.481\">forget <\/span>\n        <span begin=\"00:12.481\" end=\"00:12.930\">all<\/span>\n      <\/p>\n      <p begin=\"00:12.930\" end=\"00:17.180\">\n        <span begin=\"00:12.930\" end=\"00:14.934\">About <\/span>\n        <span begin=\"00:14.934\" end=\"00:16.056\">your <\/span>\n        <span begin=\"00:16.056\" end=\"00:17.180\">face<\/span>\n      <\/p>\n      <p begin=\"00:17.180\" end=\"00:21.810\">\n        <span begin=\"00:17.180\" end=\"00:17.980\">I&apos;ll <\/span>\n        <span begin=\"00:17.980\" end=\"00:18.780\">make <\/span>\n        <span begin=\"00:18.780\" end=\"00:19.465\">my <\/span>\n        <span begin=\"00:19.465\" end=\"00:20.322\">heart <\/span>\n        <span begin=\"00:20.322\" end=\"00:21.810\">forget<\/span>\n      <\/p>\n      <p begin=\"00:21.810\" end=\"00:25.970\">\n        <span begin=\"00:21.810\" end=\"00:23.410\">About <\/span>\n        <span begin=\"00:23.410\" end=\"00:24.242\">all <\/span>\n        <span begin=\"00:24.242\" end=\"00:25.074\">the <\/span>\n        <span begin=\"00:25.074\" end=\"00:25.970\">love<\/span>\n      <\/p>\n      <p begin=\"00:25.970\" end=\"00:29.320\">\n        <span begin=\"00:25.970\" end=\"00:26.295\">I&apos;ll <\/span>\n        <span begin=\"00:26.295\" end=\"00:26.620\">tell <\/span>\n        <span begin=\"00:26.620\" end=\"00:27.224\">myself <\/span>\n        <span begin=\"00:27.224\" end=\"00:28.084\">another <\/span>\n        <span begin=\"00:28.084\" end=\"00:28.386\">lie <\/span>\n        <span begin=\"00:28.386\" end=\"00:28.688\">and <\/span>\n        <span begin=\"00:28.688\" end=\"00:29.320\">pretend<\/span>\n      <\/p>\n      <p begin=\"00:29.320\" end=\"00:33.330\">\n        <span begin=\"00:29.320\" end=\"00:29.930\">That <\/span>\n        <span begin=\"00:29.930\" end=\"00:30.496\">you <\/span>\n        <span begin=\"00:30.496\" end=\"00:31.106\">were <\/span>\n        <span begin=\"00:31.106\" end=\"00:32.195\">never <\/span>\n        <span begin=\"00:32.195\" end=\"00:33.330\">enough<\/span>\n      <\/p>\n      <p begin=\"00:33.330\" end=\"00:37.750\">\n        <span begin=\"00:33.330\" end=\"00:33.954\">But <\/span>\n        <span begin=\"00:33.954\" end=\"00:34.578\">you <\/span>\n        <span begin=\"00:34.578\" end=\"00:35.250\">were <\/span>\n        <span begin=\"00:35.250\" end=\"00:36.499\">always <\/span>\n        <span begin=\"00:36.499\" end=\"00:37.750\">enough<\/span>\n      <\/p>\n      <p begin=\"00:37.750\" end=\"00:42.850\">\n        <span begin=\"00:37.750\" end=\"00:38.578\">You <\/span>\n        <span begin=\"00:38.578\" end=\"00:39.470\">were <\/span>\n        <span begin=\"00:39.470\" end=\"00:41.127\">almost <\/span>\n        <span begin=\"00:41.127\" end=\"00:41.955\">too <\/span>\n        <span begin=\"00:41.955\" end=\"00:42.850\">much<\/span>\n      <\/p>\n      <p begin=\"00:42.850\" end=\"00:50.410\">\n        <span begin=\"00:42.850\" end=\"00:46.781\">For <\/span>\n        <span begin=\"00:46.781\" end=\"00:50.410\">me<\/span>\n      <\/p>\n      <p begin=\"00:50.410\" end=\"00:55.370\">\n        <span begin=\"00:50.410\" end=\"00:51.256\">I&apos;ll <\/span>\n        <span begin=\"00:51.256\" end=\"00:52.102\">take <\/span>\n        <span begin=\"00:52.102\" end=\"00:52.948\">days <\/span>\n        <span begin=\"00:52.948\" end=\"00:53.673\">as <\/span>\n        <span begin=\"00:53.673\" end=\"00:54.519\">they <\/span>\n        <span begin=\"00:54.519\" end=\"00:55.370\">come<\/span>\n      <\/p>\n      <p begin=\"00:55.370\" end=\"00:59.420\">\n        <span begin=\"00:55.370\" end=\"00:56.167\">And <\/span>\n        <span begin=\"00:56.167\" end=\"00:56.964\">try <\/span>\n        <span begin=\"00:56.964\" end=\"00:57.761\">not <\/span>\n        <span begin=\"00:57.761\" end=\"00:58.497\">to <\/span>\n        <span begin=\"00:58.497\" end=\"00:59.420\">stare<\/span>\n      <\/p>\n      <p begin=\"00:59.420\" end=\"01:03.010\">\n        <span begin=\"00:59.420\" end=\"00:59.883\">At <\/span>\n        <span begin=\"00:59.883\" end=\"01:00.384\">the <\/span>\n        <span begin=\"01:00.384\" end=\"01:00.885\">man <\/span>\n        <span begin=\"01:00.885\" end=\"01:01.386\">who <\/span>\n        <span begin=\"01:01.386\" end=\"01:01.965\">looks <\/span>\n        <span begin=\"01:01.965\" end=\"01:02.505\">like <\/span>\n        <span begin=\"01:02.505\" end=\"01:03.010\">you<\/span>\n      <\/p>\n      <p begin=\"01:03.010\" end=\"01:07.170\">\n        <span begin=\"01:03.010\" end=\"01:04.748\">Standing <\/span>\n        <span begin=\"01:04.748\" end=\"01:06.238\">over <\/span>\n        <span begin=\"01:06.238\" end=\"01:07.170\">there<\/span>\n      <\/p>\n      <p begin=\"01:07.170\" end=\"01:11.600\">\n        <span begin=\"01:07.170\" end=\"01:07.847\">How <\/span>\n        <span begin=\"01:07.847\" end=\"01:08.733\">breathe <\/span>\n        <span begin=\"01:08.733\" end=\"01:09.358\">in <\/span>\n        <span begin=\"01:09.358\" end=\"01:10.035\">and <\/span>\n        <span begin=\"01:10.035\" end=\"01:10.921\">breathe <\/span>\n        <span begin=\"01:10.921\" end=\"01:11.600\">out<\/span>\n      <\/p>\n      <p begin=\"01:11.600\" end=\"01:15.630\">\n        <span begin=\"01:11.600\" end=\"01:12.394\">Yell <\/span>\n        <span begin=\"01:12.394\" end=\"01:13.131\">and <\/span>\n        <span begin=\"01:13.131\" end=\"01:14.039\">scream <\/span>\n        <span begin=\"01:14.039\" end=\"01:14.776\">and <\/span>\n        <span begin=\"01:14.776\" end=\"01:15.630\">shout<\/span>\n      <\/p>\n      <p begin=\"01:15.630\" end=\"01:20.120\">\n        <span begin=\"01:15.630\" end=\"01:16.313\">That <\/span>\n        <span begin=\"01:16.313\" end=\"01:16.849\">I <\/span>\n        <span begin=\"01:16.849\" end=\"01:17.434\">am <\/span>\n        <span begin=\"01:17.434\" end=\"01:18.068\">not <\/span>\n        <span begin=\"01:18.068\" end=\"01:18.848\">strong <\/span>\n        <span begin=\"01:18.848\" end=\"01:20.120\">enough<\/span>\n      <\/p>\n      <p begin=\"01:20.120\" end=\"01:24.480\">\n        <span begin=\"01:20.120\" end=\"01:20.889\">My <\/span>\n        <span begin=\"01:20.889\" end=\"01:21.914\">skin&apos;s <\/span>\n        <span begin=\"01:21.914\" end=\"01:22.747\">not <\/span>\n        <span begin=\"01:22.747\" end=\"01:23.516\">as <\/span>\n        <span begin=\"01:23.516\" end=\"01:24.480\">tough<\/span>\n      <\/p>\n      <p begin=\"01:24.480\" end=\"01:30.050\">\n        <span begin=\"01:24.480\" end=\"01:25.214\">As <\/span>\n        <span begin=\"01:25.214\" end=\"01:25.887\">I <\/span>\n        <span begin=\"01:25.887\" end=\"01:26.743\">know <\/span>\n        <span begin=\"01:26.743\" end=\"01:27.661\">yours <\/span>\n        <span begin=\"01:27.661\" end=\"01:29.252\">always <\/span>\n        <span begin=\"01:29.252\" end=\"01:30.050\">was<\/span>\n      <\/p>\n      <p begin=\"01:30.050\" end=\"01:34.390\">\n        <span begin=\"01:30.050\" end=\"01:30.764\">But <\/span>\n        <span begin=\"01:30.764\" end=\"01:31.533\">some <\/span>\n        <span begin=\"01:31.533\" end=\"01:32.247\">day <\/span>\n        <span begin=\"01:32.247\" end=\"01:32.851\">I <\/span>\n        <span begin=\"01:32.851\" end=\"01:33.620\">will <\/span>\n        <span begin=\"01:33.620\" end=\"01:34.390\">heal<\/span>\n      <\/p>\n      <p begin=\"01:34.390\" end=\"01:38.490\">\n        <span begin=\"01:34.390\" end=\"01:35.107\">I&apos;ll <\/span>\n        <span begin=\"01:35.107\" end=\"01:35.824\">grow <\/span>\n        <span begin=\"01:35.824\" end=\"01:37.720\">another <\/span>\n        <span begin=\"01:37.720\" end=\"01:38.490\">heart<\/span>\n      <\/p>\n      <p begin=\"01:38.490\" end=\"01:41.380\">\n        <span begin=\"01:38.490\" end=\"01:38.971\">And <\/span>\n        <span begin=\"01:38.971\" end=\"01:39.378\">I <\/span>\n        <span begin=\"01:39.378\" end=\"01:39.933\">guess <\/span>\n        <span begin=\"01:39.933\" end=\"01:40.859\">until <\/span>\n        <span begin=\"01:40.859\" end=\"01:41.380\">then<\/span>\n      <\/p>\n      <p begin=\"01:41.380\" end=\"01:46.960\">\n        <span begin=\"01:41.380\" end=\"01:42.124\">I&apos;ll <\/span>\n        <span begin=\"01:42.124\" end=\"01:43.505\">endure <\/span>\n        <span begin=\"01:43.505\" end=\"01:44.195\">the <\/span>\n        <span begin=\"01:44.195\" end=\"01:45.629\">falling <\/span>\n        <span begin=\"01:45.629\" end=\"01:46.960\">apart<\/span>\n      <\/p>\n      <p begin=\"01:46.960\" end=\"01:51.230\">\n        <span begin=\"01:46.960\" end=\"01:47.680\">I&apos;ll <\/span>\n        <span begin=\"01:47.680\" end=\"01:48.451\">learn <\/span>\n        <span begin=\"01:48.451\" end=\"01:49.068\">to <\/span>\n        <span begin=\"01:49.068\" end=\"01:49.788\">love <\/span>\n        <span begin=\"01:49.788\" end=\"01:50.456\">the <\/span>\n        <span begin=\"01:50.456\" end=\"01:51.230\">quiet<\/span>\n      <\/p>\n      <p begin=\"01:51.230\" end=\"01:55.780\">\n        <span begin=\"01:51.230\" end=\"01:51.969\">And <\/span>\n        <span begin=\"01:51.969\" end=\"01:53.447\">forget <\/span>\n        <span begin=\"01:53.447\" end=\"01:54.243\">what <\/span>\n        <span begin=\"01:54.243\" end=\"01:54.982\">was <\/span>\n        <span begin=\"01:54.982\" end=\"01:55.780\">said<\/span>\n      <\/p>\n      <p begin=\"01:55.780\" end=\"01:59.460\">\n        <span begin=\"01:55.780\" end=\"01:56.288\">And <\/span>\n        <span begin=\"01:56.288\" end=\"01:56.875\">maybe <\/span>\n        <span begin=\"01:56.875\" end=\"01:57.383\">one <\/span>\n        <span begin=\"01:57.383\" end=\"01:57.891\">day <\/span>\n        <span begin=\"01:57.891\" end=\"01:58.439\">I&apos;ll <\/span>\n        <span begin=\"01:58.439\" end=\"01:59.460\">return<\/span>\n      <\/p>\n      <p begin=\"01:59.460\" end=\"02:03.560\">\n        <span begin=\"01:59.460\" end=\"02:00.006\">To <\/span>\n        <span begin=\"02:00.006\" end=\"02:00.598\">the <\/span>\n        <span begin=\"02:00.598\" end=\"02:01.235\">left <\/span>\n        <span begin=\"02:01.235\" end=\"02:01.872\">side <\/span>\n        <span begin=\"02:01.872\" end=\"02:02.418\">of <\/span>\n        <span begin=\"02:02.418\" end=\"02:02.964\">my <\/span>\n        <span begin=\"02:02.964\" end=\"02:03.560\">bed<\/span>\n      <\/p>\n      <p begin=\"02:03.560\" end=\"02:07.910\">\n        <span begin=\"02:03.560\" end=\"02:04.355\">Where <\/span>\n        <span begin=\"02:04.355\" end=\"02:05.097\">lies <\/span>\n        <span begin=\"02:05.097\" end=\"02:05.786\">the <\/span>\n        <span begin=\"02:05.786\" end=\"02:06.581\">blood <\/span>\n        <span begin=\"02:06.581\" end=\"02:07.164\">I <\/span>\n        <span begin=\"02:07.164\" end=\"02:07.910\">bled<\/span>\n      <\/p>\n      <p begin=\"02:07.910\" end=\"02:13.800\">\n        <span begin=\"02:07.910\" end=\"02:09.248\">Where <\/span>\n        <span begin=\"02:09.248\" end=\"02:10.229\">I <\/span>\n        <span begin=\"02:10.229\" end=\"02:11.478\">lost <\/span>\n        <span begin=\"02:11.478\" end=\"02:12.548\">my <\/span>\n        <span begin=\"02:12.548\" end=\"02:13.800\">head<\/span>\n      <\/p>\n      <p begin=\"02:13.800\" end=\"02:18.800\">\n        <span begin=\"02:13.800\" end=\"02:16.200\">To <\/span>\n        <span begin=\"02:16.200\" end=\"02:18.800\">you<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 0,
+      "endTime": 410,
+      "text": "Left Side - Eloise",
+      "words": [
+        {
+          "startTime": 0,
+          "endTime": 100,
+          "word": "Left "
+        },
+        {
+          "startTime": 100,
+          "endTime": 200,
+          "word": "Side "
+        },
+        {
+          "startTime": 200,
+          "endTime": 314,
+          "word": "- "
+        },
+        {
+          "startTime": 314,
+          "endTime": 410,
+          "word": "Eloise"
+        }
+      ]
+    },
+    {
+      "time": 410,
+      "endTime": 5180,
+      "text": "Well I guess I'll take the train",
+      "words": [
+        {
+          "startTime": 410,
+          "endTime": 1105,
+          "word": "Well "
+        },
+        {
+          "startTime": 1105,
+          "endTime": 1651,
+          "word": "I "
+        },
+        {
+          "startTime": 1651,
+          "endTime": 2396,
+          "word": "guess "
+        },
+        {
+          "startTime": 2396,
+          "endTime": 3091,
+          "word": "I'll "
+        },
+        {
+          "startTime": 3091,
+          "endTime": 3786,
+          "word": "take "
+        },
+        {
+          "startTime": 3786,
+          "endTime": 4431,
+          "word": "the "
+        },
+        {
+          "startTime": 4431,
+          "endTime": 5180,
+          "word": "train"
+        }
+      ]
+    },
+    {
+      "time": 5180,
+      "endTime": 8820,
+      "text": "And move far away",
+      "words": [
+        {
+          "startTime": 5180,
+          "endTime": 5919,
+          "word": "And "
+        },
+        {
+          "startTime": 5919,
+          "endTime": 6715,
+          "word": "move "
+        },
+        {
+          "startTime": 6715,
+          "endTime": 7454,
+          "word": "far "
+        },
+        {
+          "startTime": 7454,
+          "endTime": 8820,
+          "word": "away"
+        }
+      ]
+    },
+    {
+      "time": 8820,
+      "endTime": 12930,
+      "text": "And just keep going till I forget all",
+      "words": [
+        {
+          "startTime": 8820,
+          "endTime": 9265,
+          "word": "And "
+        },
+        {
+          "startTime": 9265,
+          "endTime": 9744,
+          "word": "just "
+        },
+        {
+          "startTime": 9744,
+          "endTime": 10223,
+          "word": "keep "
+        },
+        {
+          "startTime": 10223,
+          "endTime": 10736,
+          "word": "going "
+        },
+        {
+          "startTime": 10736,
+          "endTime": 11215,
+          "word": "till "
+        },
+        {
+          "startTime": 11215,
+          "endTime": 11591,
+          "word": "I "
+        },
+        {
+          "startTime": 11591,
+          "endTime": 12481,
+          "word": "forget "
+        },
+        {
+          "startTime": 12481,
+          "endTime": 12930,
+          "word": "all"
+        }
+      ]
+    },
+    {
+      "time": 12930,
+      "endTime": 17180,
+      "text": "About your face",
+      "words": [
+        {
+          "startTime": 12930,
+          "endTime": 14934,
+          "word": "About "
+        },
+        {
+          "startTime": 14934,
+          "endTime": 16056,
+          "word": "your "
+        },
+        {
+          "startTime": 16056,
+          "endTime": 17180,
+          "word": "face"
+        }
+      ]
+    },
+    {
+      "time": 17180,
+      "endTime": 21810,
+      "text": "I'll make my heart forget",
+      "words": [
+        {
+          "startTime": 17180,
+          "endTime": 17980,
+          "word": "I'll "
+        },
+        {
+          "startTime": 17980,
+          "endTime": 18780,
+          "word": "make "
+        },
+        {
+          "startTime": 18780,
+          "endTime": 19465,
+          "word": "my "
+        },
+        {
+          "startTime": 19465,
+          "endTime": 20322,
+          "word": "heart "
+        },
+        {
+          "startTime": 20322,
+          "endTime": 21810,
+          "word": "forget"
+        }
+      ]
+    },
+    {
+      "time": 21810,
+      "endTime": 25970,
+      "text": "About all the love",
+      "words": [
+        {
+          "startTime": 21810,
+          "endTime": 23410,
+          "word": "About "
+        },
+        {
+          "startTime": 23410,
+          "endTime": 24242,
+          "word": "all "
+        },
+        {
+          "startTime": 24242,
+          "endTime": 25074,
+          "word": "the "
+        },
+        {
+          "startTime": 25074,
+          "endTime": 25970,
+          "word": "love"
+        }
+      ]
+    },
+    {
+      "time": 25970,
+      "endTime": 29320,
+      "text": "I'll tell myself another lie and pretend",
+      "words": [
+        {
+          "startTime": 25970,
+          "endTime": 26295,
+          "word": "I'll "
+        },
+        {
+          "startTime": 26295,
+          "endTime": 26620,
+          "word": "tell "
+        },
+        {
+          "startTime": 26620,
+          "endTime": 27224,
+          "word": "myself "
+        },
+        {
+          "startTime": 27224,
+          "endTime": 28084,
+          "word": "another "
+        },
+        {
+          "startTime": 28084,
+          "endTime": 28386,
+          "word": "lie "
+        },
+        {
+          "startTime": 28386,
+          "endTime": 28688,
+          "word": "and "
+        },
+        {
+          "startTime": 28688,
+          "endTime": 29320,
+          "word": "pretend"
+        }
+      ]
+    },
+    {
+      "time": 29320,
+      "endTime": 33330,
+      "text": "That you were never enough",
+      "words": [
+        {
+          "startTime": 29320,
+          "endTime": 29930,
+          "word": "That "
+        },
+        {
+          "startTime": 29930,
+          "endTime": 30496,
+          "word": "you "
+        },
+        {
+          "startTime": 30496,
+          "endTime": 31106,
+          "word": "were "
+        },
+        {
+          "startTime": 31106,
+          "endTime": 32195,
+          "word": "never "
+        },
+        {
+          "startTime": 32195,
+          "endTime": 33330,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 33330,
+      "endTime": 37750,
+      "text": "But you were always enough",
+      "words": [
+        {
+          "startTime": 33330,
+          "endTime": 33954,
+          "word": "But "
+        },
+        {
+          "startTime": 33954,
+          "endTime": 34578,
+          "word": "you "
+        },
+        {
+          "startTime": 34578,
+          "endTime": 35250,
+          "word": "were "
+        },
+        {
+          "startTime": 35250,
+          "endTime": 36499,
+          "word": "always "
+        },
+        {
+          "startTime": 36499,
+          "endTime": 37750,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 37750,
+      "endTime": 42850,
+      "text": "You were almost too much",
+      "words": [
+        {
+          "startTime": 37750,
+          "endTime": 38578,
+          "word": "You "
+        },
+        {
+          "startTime": 38578,
+          "endTime": 39470,
+          "word": "were "
+        },
+        {
+          "startTime": 39470,
+          "endTime": 41127,
+          "word": "almost "
+        },
+        {
+          "startTime": 41127,
+          "endTime": 41955,
+          "word": "too "
+        },
+        {
+          "startTime": 41955,
+          "endTime": 42850,
+          "word": "much"
+        }
+      ]
+    },
+    {
+      "time": 42850,
+      "endTime": 50410,
+      "text": "For me",
+      "words": [
+        {
+          "startTime": 42850,
+          "endTime": 46781,
+          "word": "For "
+        },
+        {
+          "startTime": 46781,
+          "endTime": 50410,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 50410,
+      "endTime": 55370,
+      "text": "I'll take days as they come",
+      "words": [
+        {
+          "startTime": 50410,
+          "endTime": 51256,
+          "word": "I'll "
+        },
+        {
+          "startTime": 51256,
+          "endTime": 52102,
+          "word": "take "
+        },
+        {
+          "startTime": 52102,
+          "endTime": 52948,
+          "word": "days "
+        },
+        {
+          "startTime": 52948,
+          "endTime": 53673,
+          "word": "as "
+        },
+        {
+          "startTime": 53673,
+          "endTime": 54519,
+          "word": "they "
+        },
+        {
+          "startTime": 54519,
+          "endTime": 55370,
+          "word": "come"
+        }
+      ]
+    },
+    {
+      "time": 55370,
+      "endTime": 59420,
+      "text": "And try not to stare",
+      "words": [
+        {
+          "startTime": 55370,
+          "endTime": 56167,
+          "word": "And "
+        },
+        {
+          "startTime": 56167,
+          "endTime": 56964,
+          "word": "try "
+        },
+        {
+          "startTime": 56964,
+          "endTime": 57761,
+          "word": "not "
+        },
+        {
+          "startTime": 57761,
+          "endTime": 58497,
+          "word": "to "
+        },
+        {
+          "startTime": 58497,
+          "endTime": 59420,
+          "word": "stare"
+        }
+      ]
+    },
+    {
+      "time": 59420,
+      "endTime": 63010,
+      "text": "At the man who looks like you",
+      "words": [
+        {
+          "startTime": 59420,
+          "endTime": 59883,
+          "word": "At "
+        },
+        {
+          "startTime": 59883,
+          "endTime": 60384,
+          "word": "the "
+        },
+        {
+          "startTime": 60384,
+          "endTime": 60885,
+          "word": "man "
+        },
+        {
+          "startTime": 60885,
+          "endTime": 61386,
+          "word": "who "
+        },
+        {
+          "startTime": 61386,
+          "endTime": 61965,
+          "word": "looks "
+        },
+        {
+          "startTime": 61965,
+          "endTime": 62505,
+          "word": "like "
+        },
+        {
+          "startTime": 62505,
+          "endTime": 63010,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 63010,
+      "endTime": 67170,
+      "text": "Standing over there",
+      "words": [
+        {
+          "startTime": 63010,
+          "endTime": 64748,
+          "word": "Standing "
+        },
+        {
+          "startTime": 64748,
+          "endTime": 66238,
+          "word": "over "
+        },
+        {
+          "startTime": 66238,
+          "endTime": 67170,
+          "word": "there"
+        }
+      ]
+    },
+    {
+      "time": 67170,
+      "endTime": 71600,
+      "text": "How breathe in and breathe out",
+      "words": [
+        {
+          "startTime": 67170,
+          "endTime": 67847,
+          "word": "How "
+        },
+        {
+          "startTime": 67847,
+          "endTime": 68733,
+          "word": "breathe "
+        },
+        {
+          "startTime": 68733,
+          "endTime": 69358,
+          "word": "in "
+        },
+        {
+          "startTime": 69358,
+          "endTime": 70035,
+          "word": "and "
+        },
+        {
+          "startTime": 70035,
+          "endTime": 70921,
+          "word": "breathe "
+        },
+        {
+          "startTime": 70921,
+          "endTime": 71600,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 71600,
+      "endTime": 75630,
+      "text": "Yell and scream and shout",
+      "words": [
+        {
+          "startTime": 71600,
+          "endTime": 72394,
+          "word": "Yell "
+        },
+        {
+          "startTime": 72394,
+          "endTime": 73131,
+          "word": "and "
+        },
+        {
+          "startTime": 73131,
+          "endTime": 74039,
+          "word": "scream "
+        },
+        {
+          "startTime": 74039,
+          "endTime": 74776,
+          "word": "and "
+        },
+        {
+          "startTime": 74776,
+          "endTime": 75630,
+          "word": "shout"
+        }
+      ]
+    },
+    {
+      "time": 75630,
+      "endTime": 80120,
+      "text": "That I am not strong enough",
+      "words": [
+        {
+          "startTime": 75630,
+          "endTime": 76313,
+          "word": "That "
+        },
+        {
+          "startTime": 76313,
+          "endTime": 76849,
+          "word": "I "
+        },
+        {
+          "startTime": 76849,
+          "endTime": 77434,
+          "word": "am "
+        },
+        {
+          "startTime": 77434,
+          "endTime": 78068,
+          "word": "not "
+        },
+        {
+          "startTime": 78068,
+          "endTime": 78848,
+          "word": "strong "
+        },
+        {
+          "startTime": 78848,
+          "endTime": 80120,
+          "word": "enough"
+        }
+      ]
+    },
+    {
+      "time": 80120,
+      "endTime": 84480,
+      "text": "My skin's not as tough",
+      "words": [
+        {
+          "startTime": 80120,
+          "endTime": 80889,
+          "word": "My "
+        },
+        {
+          "startTime": 80889,
+          "endTime": 81914,
+          "word": "skin's "
+        },
+        {
+          "startTime": 81914,
+          "endTime": 82747,
+          "word": "not "
+        },
+        {
+          "startTime": 82747,
+          "endTime": 83516,
+          "word": "as "
+        },
+        {
+          "startTime": 83516,
+          "endTime": 84480,
+          "word": "tough"
+        }
+      ]
+    },
+    {
+      "time": 84480,
+      "endTime": 90050,
+      "text": "As I know yours always was",
+      "words": [
+        {
+          "startTime": 84480,
+          "endTime": 85214,
+          "word": "As "
+        },
+        {
+          "startTime": 85214,
+          "endTime": 85887,
+          "word": "I "
+        },
+        {
+          "startTime": 85887,
+          "endTime": 86743,
+          "word": "know "
+        },
+        {
+          "startTime": 86743,
+          "endTime": 87661,
+          "word": "yours "
+        },
+        {
+          "startTime": 87661,
+          "endTime": 89252,
+          "word": "always "
+        },
+        {
+          "startTime": 89252,
+          "endTime": 90050,
+          "word": "was"
+        }
+      ]
+    },
+    {
+      "time": 90050,
+      "endTime": 94390,
+      "text": "But some day I will heal",
+      "words": [
+        {
+          "startTime": 90050,
+          "endTime": 90764,
+          "word": "But "
+        },
+        {
+          "startTime": 90764,
+          "endTime": 91533,
+          "word": "some "
+        },
+        {
+          "startTime": 91533,
+          "endTime": 92247,
+          "word": "day "
+        },
+        {
+          "startTime": 92247,
+          "endTime": 92851,
+          "word": "I "
+        },
+        {
+          "startTime": 92851,
+          "endTime": 93620,
+          "word": "will "
+        },
+        {
+          "startTime": 93620,
+          "endTime": 94390,
+          "word": "heal"
+        }
+      ]
+    },
+    {
+      "time": 94390,
+      "endTime": 98490,
+      "text": "I'll grow another heart",
+      "words": [
+        {
+          "startTime": 94390,
+          "endTime": 95107,
+          "word": "I'll "
+        },
+        {
+          "startTime": 95107,
+          "endTime": 95824,
+          "word": "grow "
+        },
+        {
+          "startTime": 95824,
+          "endTime": 97720,
+          "word": "another "
+        },
+        {
+          "startTime": 97720,
+          "endTime": 98490,
+          "word": "heart"
+        }
+      ]
+    },
+    {
+      "time": 98490,
+      "endTime": 101380,
+      "text": "And I guess until then",
+      "words": [
+        {
+          "startTime": 98490,
+          "endTime": 98971,
+          "word": "And "
+        },
+        {
+          "startTime": 98971,
+          "endTime": 99378,
+          "word": "I "
+        },
+        {
+          "startTime": 99378,
+          "endTime": 99933,
+          "word": "guess "
+        },
+        {
+          "startTime": 99933,
+          "endTime": 100859,
+          "word": "until "
+        },
+        {
+          "startTime": 100859,
+          "endTime": 101380,
+          "word": "then"
+        }
+      ]
+    },
+    {
+      "time": 101380,
+      "endTime": 106960,
+      "text": "I'll endure the falling apart",
+      "words": [
+        {
+          "startTime": 101380,
+          "endTime": 102124,
+          "word": "I'll "
+        },
+        {
+          "startTime": 102124,
+          "endTime": 103505,
+          "word": "endure "
+        },
+        {
+          "startTime": 103505,
+          "endTime": 104195,
+          "word": "the "
+        },
+        {
+          "startTime": 104195,
+          "endTime": 105629,
+          "word": "falling "
+        },
+        {
+          "startTime": 105629,
+          "endTime": 106960,
+          "word": "apart"
+        }
+      ]
+    },
+    {
+      "time": 106960,
+      "endTime": 111230,
+      "text": "I'll learn to love the quiet",
+      "words": [
+        {
+          "startTime": 106960,
+          "endTime": 107680,
+          "word": "I'll "
+        },
+        {
+          "startTime": 107680,
+          "endTime": 108451,
+          "word": "learn "
+        },
+        {
+          "startTime": 108451,
+          "endTime": 109068,
+          "word": "to "
+        },
+        {
+          "startTime": 109068,
+          "endTime": 109788,
+          "word": "love "
+        },
+        {
+          "startTime": 109788,
+          "endTime": 110456,
+          "word": "the "
+        },
+        {
+          "startTime": 110456,
+          "endTime": 111230,
+          "word": "quiet"
+        }
+      ]
+    },
+    {
+      "time": 111230,
+      "endTime": 115780,
+      "text": "And forget what was said",
+      "words": [
+        {
+          "startTime": 111230,
+          "endTime": 111969,
+          "word": "And "
+        },
+        {
+          "startTime": 111969,
+          "endTime": 113447,
+          "word": "forget "
+        },
+        {
+          "startTime": 113447,
+          "endTime": 114243,
+          "word": "what "
+        },
+        {
+          "startTime": 114243,
+          "endTime": 114982,
+          "word": "was "
+        },
+        {
+          "startTime": 114982,
+          "endTime": 115780,
+          "word": "said"
+        }
+      ]
+    },
+    {
+      "time": 115780,
+      "endTime": 119460,
+      "text": "And maybe one day I'll return",
+      "words": [
+        {
+          "startTime": 115780,
+          "endTime": 116288,
+          "word": "And "
+        },
+        {
+          "startTime": 116288,
+          "endTime": 116875,
+          "word": "maybe "
+        },
+        {
+          "startTime": 116875,
+          "endTime": 117383,
+          "word": "one "
+        },
+        {
+          "startTime": 117383,
+          "endTime": 117891,
+          "word": "day "
+        },
+        {
+          "startTime": 117891,
+          "endTime": 118439,
+          "word": "I'll "
+        },
+        {
+          "startTime": 118439,
+          "endTime": 119460,
+          "word": "return"
+        }
+      ]
+    },
+    {
+      "time": 119460,
+      "endTime": 123560,
+      "text": "To the left side of my bed",
+      "words": [
+        {
+          "startTime": 119460,
+          "endTime": 120006,
+          "word": "To "
+        },
+        {
+          "startTime": 120006,
+          "endTime": 120598,
+          "word": "the "
+        },
+        {
+          "startTime": 120598,
+          "endTime": 121235,
+          "word": "left "
+        },
+        {
+          "startTime": 121235,
+          "endTime": 121872,
+          "word": "side "
+        },
+        {
+          "startTime": 121872,
+          "endTime": 122418,
+          "word": "of "
+        },
+        {
+          "startTime": 122418,
+          "endTime": 122964,
+          "word": "my "
+        },
+        {
+          "startTime": 122964,
+          "endTime": 123560,
+          "word": "bed"
+        }
+      ]
+    },
+    {
+      "time": 123560,
+      "endTime": 127910,
+      "text": "Where lies the blood I bled",
+      "words": [
+        {
+          "startTime": 123560,
+          "endTime": 124355,
+          "word": "Where "
+        },
+        {
+          "startTime": 124355,
+          "endTime": 125097,
+          "word": "lies "
+        },
+        {
+          "startTime": 125097,
+          "endTime": 125786,
+          "word": "the "
+        },
+        {
+          "startTime": 125786,
+          "endTime": 126581,
+          "word": "blood "
+        },
+        {
+          "startTime": 126581,
+          "endTime": 127164,
+          "word": "I "
+        },
+        {
+          "startTime": 127164,
+          "endTime": 127910,
+          "word": "bled"
+        }
+      ]
+    },
+    {
+      "time": 127910,
+      "endTime": 133800,
+      "text": "Where I lost my head",
+      "words": [
+        {
+          "startTime": 127910,
+          "endTime": 129248,
+          "word": "Where "
+        },
+        {
+          "startTime": 129248,
+          "endTime": 130229,
+          "word": "I "
+        },
+        {
+          "startTime": 130229,
+          "endTime": 131478,
+          "word": "lost "
+        },
+        {
+          "startTime": 131478,
+          "endTime": 132548,
+          "word": "my "
+        },
+        {
+          "startTime": 132548,
+          "endTime": 133800,
+          "word": "head"
+        }
+      ]
+    },
+    {
+      "time": 133800,
+      "endTime": 138800,
+      "text": "To you",
+      "words": [
+        {
+          "startTime": 133800,
+          "endTime": 136200,
+          "word": "To "
+        },
+        {
+          "startTime": 136200,
+          "endTime": 138800,
+          "word": "you"
+        }
+      ]
+    }
+  ]
+}
