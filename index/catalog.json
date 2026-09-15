@@ -1520,6 +1520,16 @@
     "path": "lyrics-database/8/V/8VKD-IlvibI.json"
   },
   {
+    "videoId": "8K875HrgVVQ",
+    "title": "Cry Me A River",
+    "artist": "Peaceful Melody, soave lofi",
+    "duration": 150,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 19,
+    "path": "lyrics-database/8/K/8K875HrgVVQ.json"
+  },
+  {
     "videoId": "8inug0w8sXI",
     "title": "Rock That Body (Remix)",
     "artist": "Zusebi",
@@ -2478,6 +2488,16 @@
     "syncedType": "word",
     "linesCount": 52,
     "path": "lyrics-database/r/1/r1MN4pR5wXM.json"
+  },
+  {
+    "videoId": "AT6cLvsiPis",
+    "title": "Here We Go",
+    "artist": "Norman",
+    "duration": 144,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 20,
+    "path": "lyrics-database/A/T/AT6cLvsiPis.json"
   },
   {
     "videoId": "ApXoWvfEYVU",
