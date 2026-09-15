@@ -1,0 +1,1746 @@
+{
+  "videoId": "woS5m96RNzo",
+  "title": "No One",
+  "artist": "Alicia Keys",
+  "duration": 255,
+  "source": "Zuke-BulkSync",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:11.910\" end=\"00:14.893\" ttm:agent=\"v1\">\n        <span begin=\"00:11.910\" end=\"00:12.331\">I<\/span>\n        <span begin=\"00:12.331\" end=\"00:12.848\">just<\/span>\n        <span begin=\"00:12.848\" end=\"00:13.099\">want<\/span>\n        <span begin=\"00:13.099\" end=\"00:13.547\">you<\/span>\n        <span begin=\"00:13.547\" end=\"00:14.893\">close<\/span>\n      <\/p>\n      <p begin=\"00:18.070\" end=\"00:22.238\" ttm:agent=\"v1\">\n        <span begin=\"00:18.072\" end=\"00:18.471\">Where<\/span>\n        <span begin=\"00:18.471\" end=\"00:18.709\">you<\/span>\n        <span begin=\"00:18.709\" end=\"00:18.964\">can<\/span>\n        <span begin=\"00:18.964\" end=\"00:19.986\">stay<\/span>\n        <span begin=\"00:19.986\" end=\"00:22.238\">forever<\/span>\n      <\/p>\n      <p begin=\"00:23.030\" end=\"00:27.604\" ttm:agent=\"v1\">\n        <span begin=\"00:23.032\" end=\"00:23.437\">You<\/span>\n        <span begin=\"00:23.437\" end=\"00:23.771\">can<\/span>\n        <span begin=\"00:23.771\" end=\"00:24.269\">be<\/span>\n        <span begin=\"00:24.269\" end=\"00:27.604\">sure<\/span>\n      <\/p>\n      <p begin=\"00:28.840\" end=\"00:31.957\" ttm:agent=\"v1\">\n        <span begin=\"00:28.848\" end=\"00:29.169\">That<\/span>\n        <span begin=\"00:29.169\" end=\"00:29.342\">it<\/span>\n        <span begin=\"00:29.342\" end=\"00:29.586\">will<\/span>\n        <span begin=\"00:29.586\" end=\"00:30.300\">only<\/span>\n        <span begin=\"00:30.300\" end=\"00:30.972\">get<\/span>\n        <span begin=\"00:30.972\" end=\"00:31.957\">better<\/span>\n      <\/p>\n      <p begin=\"00:33.180\" end=\"00:37.831\" ttm:agent=\"v1\">\n        <span begin=\"00:33.182\" end=\"00:33.533\">You<\/span>\n        <span begin=\"00:33.533\" end=\"00:33.694\">and<\/span>\n        <span begin=\"00:33.694\" end=\"00:33.854\">me<\/span>\n        <span begin=\"00:33.854\" end=\"00:35.297\">together<\/span>\n        <span begin=\"00:35.667\" end=\"00:35.889\">through<\/span>\n        <span begin=\"00:35.889\" end=\"00:36.085\">the<\/span>\n        <span begin=\"00:36.085\" end=\"00:36.490\">days<\/span>\n        <span begin=\"00:36.490\" end=\"00:36.841\">and<\/span>\n        <span begin=\"00:36.841\" end=\"00:37.831\">nights<\/span>\n      <\/p>\n      <p begin=\"00:38.310\" end=\"00:43.237\" ttm:agent=\"v1\">\n        <span begin=\"00:38.317\" end=\"00:38.614\">I<\/span>\n        <span begin=\"00:38.614\" end=\"00:38.805\">don&apos;t<\/span>\n        <span begin=\"00:38.805\" end=\"00:39.364\">worry<\/span>\n        <span begin=\"00:39.364\" end=\"00:40.191\">&apos;cause<\/span>\n        <span begin=\"00:40.191\" end=\"00:40.649\">everything&apos;s<\/span>\n        <span begin=\"00:40.649\" end=\"00:40.994\">gonna<\/span>\n        <span begin=\"00:40.994\" end=\"00:41.316\">be<\/span>\n        <span begin=\"00:41.316\" end=\"00:43.237\">alright<\/span>\n      <\/p>\n      <p begin=\"00:43.810\" end=\"00:48.229\" ttm:agent=\"v1\">\n        <span begin=\"00:43.813\" end=\"00:44.417\">People<\/span>\n        <span begin=\"00:44.417\" end=\"00:44.810\">keep<\/span>\n        <span begin=\"00:44.810\" end=\"00:46.008\">talking,<\/span>\n        <span begin=\"00:46.008\" end=\"00:46.209\">they<\/span>\n        <span begin=\"00:46.209\" end=\"00:46.428\">can<\/span>\n        <span begin=\"00:46.428\" end=\"00:46.759\">say<\/span>\n        <span begin=\"00:46.759\" end=\"00:47.183\">what<\/span>\n        <span begin=\"00:47.183\" end=\"00:47.546\">they<\/span>\n        <span begin=\"00:47.546\" end=\"00:48.229\">like<\/span>\n      <\/p>\n      <p begin=\"00:48.980\" end=\"00:53.761\" ttm:agent=\"v1\">\n        <span begin=\"00:48.980\" end=\"00:49.361\">But<\/span>\n        <span begin=\"00:49.361\" end=\"00:49.712\">all<\/span>\n        <span begin=\"00:49.712\" end=\"00:50.015\">I<\/span>\n        <span begin=\"00:50.015\" end=\"00:50.402\">know<\/span>\n        <span begin=\"00:50.402\" end=\"00:50.741\">is<\/span>\n        <span begin=\"00:50.741\" end=\"00:51.384\">everything&apos;s<\/span>\n        <span begin=\"00:51.384\" end=\"00:51.741\">gonna<\/span>\n        <span begin=\"00:51.741\" end=\"00:52.080\">be<\/span>\n        <span begin=\"00:52.080\" end=\"00:53.761\">alright<\/span>\n      <\/p>\n      <p begin=\"00:53.960\" end=\"01:00.435\" ttm:agent=\"v1\">\n        <span begin=\"00:53.964\" end=\"00:54.803\">No<\/span>\n        <span begin=\"00:54.803\" end=\"00:55.269\">one,<\/span>\n        <span begin=\"00:55.475\" end=\"00:56.165\">no<\/span>\n        <span begin=\"00:56.165\" end=\"00:56.529\">one,<\/span>\n        <span begin=\"00:56.695\" end=\"00:57.343\">no<\/span>\n        <span begin=\"00:57.343\" end=\"01:00.435\">one<\/span>\n      <\/p>\n      <p begin=\"01:00.520\" end=\"01:04.407\" ttm:agent=\"v1\">\n        <span begin=\"01:00.527\" end=\"01:00.753\">Can<\/span>\n        <span begin=\"01:00.753\" end=\"01:00.943\">get<\/span>\n        <span begin=\"01:00.943\" end=\"01:01.086\">in<\/span>\n        <span begin=\"01:01.086\" end=\"01:01.277\">the<\/span>\n        <span begin=\"01:01.277\" end=\"01:01.961\">way<\/span>\n        <span begin=\"01:01.961\" end=\"01:02.098\">of<\/span>\n        <span begin=\"01:02.098\" end=\"01:02.467\">what<\/span>\n        <span begin=\"01:02.467\" end=\"01:02.794\">I&apos;m<\/span>\n        <span begin=\"01:02.794\" end=\"01:04.407\">feeling<\/span>\n      <\/p>\n      <p begin=\"01:04.590\" end=\"01:10.839\" ttm:agent=\"v1\">\n        <span begin=\"01:04.592\" end=\"01:05.342\">No<\/span>\n        <span begin=\"01:05.342\" end=\"01:05.816\">one,<\/span>\n        <span begin=\"01:06.032\" end=\"01:06.704\">no<\/span>\n        <span begin=\"01:06.704\" end=\"01:07.237\">one,<\/span>\n        <span begin=\"01:07.412\" end=\"01:08.072\">no<\/span>\n        <span begin=\"01:08.072\" end=\"01:10.839\">one<\/span>\n      <\/p>\n      <p begin=\"01:11.150\" end=\"01:21.442\" ttm:agent=\"v1\">\n        <span begin=\"01:11.150\" end=\"01:11.477\">Can<\/span>\n        <span begin=\"01:11.477\" end=\"01:11.679\">get<\/span>\n        <span begin=\"01:11.679\" end=\"01:11.816\">in<\/span>\n        <span begin=\"01:11.816\" end=\"01:12.013\">the<\/span>\n        <span begin=\"01:12.013\" end=\"01:12.292\">way<\/span>\n        <span begin=\"01:12.292\" end=\"01:12.685\">of<\/span>\n        <span begin=\"01:12.685\" end=\"01:13.042\">what<\/span>\n        <span begin=\"01:13.042\" end=\"01:13.339\">I<\/span>\n        <span begin=\"01:13.339\" end=\"01:14.018\">feel<\/span>\n        <span begin=\"01:14.018\" end=\"01:14.458\">for<\/span>\n        <span begin=\"01:14.458\" end=\"01:16.361\">you,<\/span>\n        <span begin=\"01:16.742\" end=\"01:19.145\">you,<\/span>\n        <span begin=\"01:19.455\" end=\"01:21.442\">you<\/span>\n      <\/p>\n      <p begin=\"01:21.800\" end=\"01:26.122\" ttm:agent=\"v1\">\n        <span begin=\"01:21.803\" end=\"01:22.023\">Can<\/span>\n        <span begin=\"01:22.023\" end=\"01:22.237\">get<\/span>\n        <span begin=\"01:22.237\" end=\"01:22.362\">in<\/span>\n        <span begin=\"01:22.362\" end=\"01:22.559\">the<\/span>\n        <span begin=\"01:22.559\" end=\"01:23.076\">way<\/span>\n        <span begin=\"01:23.076\" end=\"01:23.386\">of<\/span>\n        <span begin=\"01:23.386\" end=\"01:23.777\">what<\/span>\n        <span begin=\"01:23.777\" end=\"01:24.076\">I<\/span>\n        <span begin=\"01:24.076\" end=\"01:24.765\">feel<\/span>\n        <span begin=\"01:24.765\" end=\"01:25.200\">for<\/span>\n        <span begin=\"01:25.200\" end=\"01:26.122\">you<\/span>\n      <\/p>\n      <p begin=\"01:26.320\" end=\"01:31.849\" ttm:agent=\"v1\">\n        <span begin=\"01:26.323\" end=\"01:26.620\">When<\/span>\n        <span begin=\"01:26.620\" end=\"01:26.811\">the<\/span>\n        <span begin=\"01:26.811\" end=\"01:27.174\">rain<\/span>\n        <span begin=\"01:27.174\" end=\"01:27.382\">is<\/span>\n        <span begin=\"01:27.382\" end=\"01:28.197\">pouring<\/span>\n        <span begin=\"01:28.197\" end=\"01:31.849\">down<\/span>\n      <\/p>\n      <p begin=\"01:33.110\" end=\"01:36.348\" ttm:agent=\"v1\">\n        <span begin=\"01:33.114\" end=\"01:33.483\">And<\/span>\n        <span begin=\"01:33.483\" end=\"01:33.822\">my<\/span>\n        <span begin=\"01:33.822\" end=\"01:34.756\">heart<\/span>\n        <span begin=\"01:34.756\" end=\"01:35.030\">is<\/span>\n        <span begin=\"01:35.030\" end=\"01:36.348\">hurting<\/span>\n      <\/p>\n      <p begin=\"01:37.130\" end=\"01:42.610\" ttm:agent=\"v1\">\n        <span begin=\"01:37.136\" end=\"01:37.314\">You<\/span>\n        <span begin=\"01:37.314\" end=\"01:37.547\">will<\/span>\n        <span begin=\"01:37.547\" end=\"01:38.463\">always<\/span>\n        <span begin=\"01:38.463\" end=\"01:38.652\">be<\/span>\n        <span begin=\"01:38.652\" end=\"01:42.610\">around<\/span>\n      <\/p>\n      <p begin=\"01:43.730\" end=\"01:47.128\" ttm:agent=\"v1\">\n        <span begin=\"01:43.732\" end=\"01:43.951\">This<\/span>\n        <span begin=\"01:43.951\" end=\"01:44.218\">I<\/span>\n        <span begin=\"01:44.218\" end=\"01:44.850\">know<\/span>\n        <span begin=\"01:45.184\" end=\"01:45.517\">for<\/span>\n        <span begin=\"01:45.517\" end=\"01:47.128\">certain<\/span>\n      <\/p>\n      <p begin=\"01:47.820\" end=\"01:52.478\" ttm:agent=\"v1\">\n        <span begin=\"01:47.829\" end=\"01:48.180\">You<\/span>\n        <span begin=\"01:48.180\" end=\"01:48.341\">and<\/span>\n        <span begin=\"01:48.341\" end=\"01:48.501\">me<\/span>\n        <span begin=\"01:48.501\" end=\"01:49.944\">together<\/span>\n        <span begin=\"01:50.314\" end=\"01:50.536\">through<\/span>\n        <span begin=\"01:50.536\" end=\"01:50.732\">the<\/span>\n        <span begin=\"01:50.732\" end=\"01:51.137\">days<\/span>\n        <span begin=\"01:51.137\" end=\"01:51.488\">and<\/span>\n        <span begin=\"01:51.488\" end=\"01:52.478\">nights<\/span>\n      <\/p>\n      <p begin=\"01:53.000\" end=\"01:58.024\" ttm:agent=\"v1\">\n        <span begin=\"01:53.005\" end=\"01:53.142\">I<\/span>\n        <span begin=\"01:53.142\" end=\"01:53.332\">don&apos;t<\/span>\n        <span begin=\"01:53.332\" end=\"01:54.015\">worry<\/span>\n        <span begin=\"01:54.015\" end=\"01:54.741\">&apos;cause<\/span>\n        <span begin=\"01:54.741\" end=\"01:55.390\">everything&apos;s<\/span>\n        <span begin=\"01:55.390\" end=\"01:55.747\">gonna<\/span>\n        <span begin=\"01:55.747\" end=\"01:56.069\">be<\/span>\n        <span begin=\"01:56.069\" end=\"01:58.024\">alright<\/span>\n      <\/p>\n      <p begin=\"01:58.380\" end=\"02:02.799\" ttm:agent=\"v1\">\n        <span begin=\"01:58.383\" end=\"01:58.987\">People<\/span>\n        <span begin=\"01:58.987\" end=\"01:59.380\">keep<\/span>\n        <span begin=\"01:59.380\" end=\"02:00.578\">talking,<\/span>\n        <span begin=\"02:00.578\" end=\"02:00.779\">they<\/span>\n        <span begin=\"02:00.779\" end=\"02:00.998\">can<\/span>\n        <span begin=\"02:00.998\" end=\"02:01.329\">say<\/span>\n        <span begin=\"02:01.329\" end=\"02:01.753\">what<\/span>\n        <span begin=\"02:01.753\" end=\"02:02.116\">they<\/span>\n        <span begin=\"02:02.116\" end=\"02:02.799\">like<\/span>\n      <\/p>\n      <p begin=\"02:03.650\" end=\"02:08.598\" ttm:agent=\"v1\">\n        <span begin=\"02:03.651\" end=\"02:04.109\">But<\/span>\n        <span begin=\"02:04.109\" end=\"02:04.460\">all<\/span>\n        <span begin=\"02:04.460\" end=\"02:04.734\">I<\/span>\n        <span begin=\"02:04.734\" end=\"02:05.156\">know<\/span>\n        <span begin=\"02:05.156\" end=\"02:05.472\">is<\/span>\n        <span begin=\"02:05.472\" end=\"02:06.120\">everything&apos;s<\/span>\n        <span begin=\"02:06.120\" end=\"02:06.471\">gonna<\/span>\n        <span begin=\"02:06.471\" end=\"02:06.804\">be<\/span>\n        <span begin=\"02:06.804\" end=\"02:08.598\">alright<\/span>\n      <\/p>\n      <p begin=\"02:08.640\" end=\"02:14.889\" ttm:agent=\"v1\">\n        <span begin=\"02:08.642\" end=\"02:09.332\">No<\/span>\n        <span begin=\"02:09.332\" end=\"02:09.997\">one,<\/span>\n        <span begin=\"02:09.997\" end=\"02:10.741\">no<\/span>\n        <span begin=\"02:10.741\" end=\"02:11.287\">one,<\/span>\n        <span begin=\"02:11.420\" end=\"02:12.069\">no<\/span>\n        <span begin=\"02:12.069\" end=\"02:14.889\">one<\/span>\n      <\/p>\n      <p begin=\"02:15.120\" end=\"02:19.028\" ttm:agent=\"v1\">\n        <span begin=\"02:15.124\" end=\"02:15.475\">Can<\/span>\n        <span begin=\"02:15.475\" end=\"02:15.665\">get<\/span>\n        <span begin=\"02:15.665\" end=\"02:15.802\">in<\/span>\n        <span begin=\"02:15.802\" end=\"02:16.005\">the<\/span>\n        <span begin=\"02:16.005\" end=\"02:16.498\">way<\/span>\n        <span begin=\"02:16.498\" end=\"02:16.808\">of<\/span>\n        <span begin=\"02:16.808\" end=\"02:16.986\">what<\/span>\n        <span begin=\"02:16.986\" end=\"02:17.307\">I&apos;m<\/span>\n        <span begin=\"02:17.307\" end=\"02:19.028\">feeling<\/span>\n      <\/p>\n      <p begin=\"02:19.260\" end=\"02:25.512\" ttm:agent=\"v1\">\n        <span begin=\"02:19.265\" end=\"02:19.969\">No<\/span>\n        <span begin=\"02:19.969\" end=\"02:20.436\">one,<\/span>\n        <span begin=\"02:20.746\" end=\"02:21.419\">no<\/span>\n        <span begin=\"02:21.419\" end=\"02:21.910\">one,<\/span>\n        <span begin=\"02:22.133\" end=\"02:22.787\">no<\/span>\n        <span begin=\"02:22.787\" end=\"02:25.512\">one<\/span>\n      <\/p>\n      <p begin=\"02:25.810\" end=\"02:36.107\" ttm:agent=\"v1\">\n        <span begin=\"02:25.815\" end=\"02:26.005\">Can<\/span>\n        <span begin=\"02:26.005\" end=\"02:26.208\">get<\/span>\n        <span begin=\"02:26.208\" end=\"02:26.344\">in<\/span>\n        <span begin=\"02:26.344\" end=\"02:26.547\">the<\/span>\n        <span begin=\"02:26.547\" end=\"02:27.082\">way<\/span>\n        <span begin=\"02:27.082\" end=\"02:27.409\">of<\/span>\n        <span begin=\"02:27.409\" end=\"02:27.766\">what<\/span>\n        <span begin=\"02:27.766\" end=\"02:28.064\">I<\/span>\n        <span begin=\"02:28.064\" end=\"02:28.736\">feel<\/span>\n        <span begin=\"02:28.736\" end=\"02:29.182\">for<\/span>\n        <span begin=\"02:29.182\" end=\"02:31.050\">you,<\/span>\n        <span begin=\"02:31.466\" end=\"02:33.783\">you,<\/span>\n        <span begin=\"02:33.978\" end=\"02:36.107\">you<\/span>\n      <\/p>\n      <p begin=\"02:36.490\" end=\"02:39.452\" ttm:agent=\"v1\">\n        <span begin=\"02:36.498\" end=\"02:36.748\">Can<\/span>\n        <span begin=\"02:36.748\" end=\"02:36.950\">get<\/span>\n        <span begin=\"02:36.950\" end=\"02:37.087\">in<\/span>\n        <span begin=\"02:37.087\" end=\"02:37.283\">the<\/span>\n        <span begin=\"02:37.283\" end=\"02:37.789\">way<\/span>\n        <span begin=\"02:37.789\" end=\"02:38.103\">of<\/span>\n        <span begin=\"02:38.103\" end=\"02:38.503\">what<\/span>\n        <span begin=\"02:38.503\" end=\"02:38.793\">I<\/span>\n        <span begin=\"02:38.793\" end=\"02:39.452\">feel<\/span>\n      <\/p>\n      <p begin=\"02:39.760\" end=\"02:44.732\" ttm:agent=\"v1\">\n        <span begin=\"02:39.769\" end=\"02:40.197\">I<\/span>\n        <span begin=\"02:40.197\" end=\"02:41.982\">know<\/span>\n        <span begin=\"02:41.982\" end=\"02:42.268\">some<\/span>\n        <span begin=\"02:42.268\" end=\"02:42.649\">people<\/span>\n        <span begin=\"02:42.649\" end=\"02:43.238\">search<\/span>\n        <span begin=\"02:43.238\" end=\"02:43.446\">the<\/span>\n        <span begin=\"02:43.446\" end=\"02:44.732\">world<\/span>\n      <\/p>\n      <p begin=\"02:45.110\" end=\"02:50.458\" ttm:agent=\"v1\">\n        <span begin=\"02:45.114\" end=\"02:45.411\">To<\/span>\n        <span begin=\"02:45.411\" end=\"02:47.440\">find<\/span>\n        <span begin=\"02:47.440\" end=\"02:47.946\">something<\/span>\n        <span begin=\"02:47.946\" end=\"02:48.172\">like<\/span>\n        <span begin=\"02:48.172\" end=\"02:48.535\">what<\/span>\n        <span begin=\"02:48.535\" end=\"02:48.892\">we<\/span>\n        <span begin=\"02:48.892\" end=\"02:50.458\">have<\/span>\n      <\/p>\n      <p begin=\"02:50.470\" end=\"02:57.922\" ttm:agent=\"v1\">\n        <span begin=\"02:50.478\" end=\"02:50.740\">I<\/span>\n        <span begin=\"02:50.740\" end=\"02:52.739\">know<\/span>\n        <span begin=\"02:52.739\" end=\"02:53.221\">people<\/span>\n        <span begin=\"02:53.221\" end=\"02:53.459\">will<\/span>\n        <span begin=\"02:53.459\" end=\"02:54.107\">try,<\/span>\n        <span begin=\"02:54.107\" end=\"02:54.375\">try<\/span>\n        <span begin=\"02:54.375\" end=\"02:54.601\">to<\/span>\n        <span begin=\"02:54.601\" end=\"02:55.299\">divide<\/span>\n        <span begin=\"02:55.359\" end=\"02:55.898\">something<\/span>\n        <span begin=\"02:55.898\" end=\"02:56.291\">so<\/span>\n        <span begin=\"02:56.291\" end=\"02:57.922\">real<\/span>\n      <\/p>\n      <p begin=\"02:57.930\" end=\"03:02.948\" ttm:agent=\"v1\">\n        <span begin=\"02:57.932\" end=\"02:58.301\">So<\/span>\n        <span begin=\"02:58.301\" end=\"02:58.509\">till<\/span>\n        <span begin=\"02:58.509\" end=\"02:58.711\">the<\/span>\n        <span begin=\"02:58.711\" end=\"02:59.079\">end<\/span>\n        <span begin=\"02:59.079\" end=\"02:59.329\">of<\/span>\n        <span begin=\"02:59.329\" end=\"02:59.781\">time,<\/span>\n        <span begin=\"02:59.781\" end=\"03:00.050\">I&apos;m<\/span>\n        <span begin=\"03:00.050\" end=\"03:00.579\">telling<\/span>\n        <span begin=\"03:00.579\" end=\"03:00.740\">you<\/span>\n        <span begin=\"03:00.740\" end=\"03:01.044\">there<\/span>\n        <span begin=\"03:01.044\" end=\"03:01.222\">ain&apos;t<\/span>\n        <span begin=\"03:01.222\" end=\"03:01.484\">no<\/span>\n        <span begin=\"03:01.484\" end=\"03:02.948\">one<\/span>\n      <\/p>\n      <p begin=\"03:03.320\" end=\"03:08.205\" ttm:agent=\"v1\">\n        <span begin=\"03:03.324\" end=\"03:04.018\">No<\/span>\n        <span begin=\"03:04.018\" end=\"03:04.585\">one,<\/span>\n        <span begin=\"03:04.801\" end=\"03:05.323\">no<\/span>\n        <span begin=\"03:05.323\" end=\"03:08.205\">one<\/span>\n      <\/p>\n      <p begin=\"03:08.510\" end=\"03:12.398\" ttm:agent=\"v1\">\n        <span begin=\"03:08.517\" end=\"03:08.761\">Can<\/span>\n        <span begin=\"03:08.761\" end=\"03:08.951\">get<\/span>\n        <span begin=\"03:08.951\" end=\"03:09.088\">in<\/span>\n        <span begin=\"03:09.088\" end=\"03:09.267\">the<\/span>\n        <span begin=\"03:09.267\" end=\"03:09.790\">way<\/span>\n        <span begin=\"03:09.790\" end=\"03:10.094\">of<\/span>\n        <span begin=\"03:10.094\" end=\"03:10.486\">what<\/span>\n        <span begin=\"03:10.486\" end=\"03:10.796\">I&apos;m<\/span>\n        <span begin=\"03:10.796\" end=\"03:12.398\">feeling<\/span>\n      <\/p>\n      <p begin=\"03:12.610\" end=\"03:18.862\" ttm:agent=\"v1\">\n        <span begin=\"03:12.615\" end=\"03:13.311\">No<\/span>\n        <span begin=\"03:13.311\" end=\"03:13.994\">one,<\/span>\n        <span begin=\"03:14.055\" end=\"03:14.703\">no<\/span>\n        <span begin=\"03:14.703\" end=\"03:15.260\">one,<\/span>\n        <span begin=\"03:15.423\" end=\"03:16.036\">no<\/span>\n        <span begin=\"03:16.036\" end=\"03:18.862\">one<\/span>\n      <\/p>\n      <p begin=\"03:19.150\" end=\"03:24.238\" ttm:agent=\"v1\">\n        <span begin=\"03:19.157\" end=\"03:19.472\">Can<\/span>\n        <span begin=\"03:19.472\" end=\"03:19.681\">get<\/span>\n        <span begin=\"03:19.681\" end=\"03:19.800\">in<\/span>\n        <span begin=\"03:19.800\" end=\"03:20.002\">the<\/span>\n        <span begin=\"03:20.002\" end=\"03:20.537\">way<\/span>\n        <span begin=\"03:20.537\" end=\"03:20.829\">of<\/span>\n        <span begin=\"03:20.829\" end=\"03:21.221\">what<\/span>\n        <span begin=\"03:21.221\" end=\"03:21.321\">I<\/span>\n        <span begin=\"03:21.321\" end=\"03:22.025\">feel<\/span>\n        <span begin=\"03:22.025\" end=\"03:22.459\">for<\/span>\n        <span begin=\"03:22.459\" end=\"03:24.238\">you<\/span>\n      <\/p>\n      <p begin=\"03:24.360\" end=\"03:26.456\" ttm:agent=\"v1\">\n        <span begin=\"03:24.368\" end=\"03:26.456\">Oh-oh-oh-oh-oh<\/span>\n      <\/p>\n      <p begin=\"03:26.920\" end=\"03:29.353\" ttm:agent=\"v1\">\n        <span begin=\"03:26.924\" end=\"03:29.353\">Oh-oh-oh-oh-oh<\/span>\n      <\/p>\n      <p begin=\"03:29.570\" end=\"03:34.790\" ttm:agent=\"v1\">\n        <span begin=\"03:29.579\" end=\"03:30.716\">Oh-oh-oh-oh,<\/span>\n        <span begin=\"03:30.716\" end=\"03:31.047\">oh,<\/span>\n        <span begin=\"03:31.183\" end=\"03:31.647\">oh,<\/span>\n        <span begin=\"03:31.783\" end=\"03:32.332\">oh,<\/span>\n        <span begin=\"03:32.482\" end=\"03:33.031\">oh,<\/span>\n        <span begin=\"03:33.215\" end=\"03:34.790\">oh<\/span>\n      <\/p>\n      <p begin=\"03:34.940\" end=\"03:37.128\" ttm:agent=\"v1\">\n        <span begin=\"03:34.940\" end=\"03:37.128\">Oh-oh-oh-oh-oh<\/span>\n      <\/p>\n      <p begin=\"03:37.570\" end=\"03:40.009\" ttm:agent=\"v1\">\n        <span begin=\"03:37.579\" end=\"03:40.009\">Oh-oh-oh-oh-oh<\/span>\n      <\/p>\n      <p begin=\"03:40.220\" end=\"03:45.435\" ttm:agent=\"v1\">\n        <span begin=\"03:40.225\" end=\"03:41.341\">Oh-oh-oh-oh,<\/span>\n        <span begin=\"03:41.341\" end=\"03:41.726\">oh,<\/span>\n        <span begin=\"03:41.993\" end=\"03:42.341\">oh,<\/span>\n        <span begin=\"03:42.643\" end=\"03:42.974\">oh,<\/span>\n        <span begin=\"03:43.259\" end=\"03:43.609\">oh,<\/span>\n        <span begin=\"03:44.009\" end=\"03:45.435\">oh<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 11910,
+      "endTime": 14893,
+      "text": "I just want you close",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 11910,
+          "endTime": 12331,
+          "word": "I"
+        },
+        {
+          "startTime": 12331,
+          "endTime": 12848,
+          "word": "just"
+        },
+        {
+          "startTime": 12848,
+          "endTime": 13099,
+          "word": "want"
+        },
+        {
+          "startTime": 13099,
+          "endTime": 13547,
+          "word": "you"
+        },
+        {
+          "startTime": 13547,
+          "endTime": 14893,
+          "word": "close"
+        }
+      ]
+    },
+    {
+      "time": 18070,
+      "endTime": 22238,
+      "text": "Where you can stay forever",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 18072,
+          "endTime": 18471,
+          "word": "Where"
+        },
+        {
+          "startTime": 18471,
+          "endTime": 18709,
+          "word": "you"
+        },
+        {
+          "startTime": 18709,
+          "endTime": 18964,
+          "word": "can"
+        },
+        {
+          "startTime": 18964,
+          "endTime": 19986,
+          "word": "stay"
+        },
+        {
+          "startTime": 19986,
+          "endTime": 22238,
+          "word": "forever"
+        }
+      ]
+    },
+    {
+      "time": 23030,
+      "endTime": 27604,
+      "text": "You can be sure",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23032,
+          "endTime": 23437,
+          "word": "You"
+        },
+        {
+          "startTime": 23437,
+          "endTime": 23771,
+          "word": "can"
+        },
+        {
+          "startTime": 23771,
+          "endTime": 24269,
+          "word": "be"
+        },
+        {
+          "startTime": 24269,
+          "endTime": 27604,
+          "word": "sure"
+        }
+      ]
+    },
+    {
+      "time": 28840,
+      "endTime": 31957,
+      "text": "That it will only get better",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28848,
+          "endTime": 29169,
+          "word": "That"
+        },
+        {
+          "startTime": 29169,
+          "endTime": 29342,
+          "word": "it"
+        },
+        {
+          "startTime": 29342,
+          "endTime": 29586,
+          "word": "will"
+        },
+        {
+          "startTime": 29586,
+          "endTime": 30300,
+          "word": "only"
+        },
+        {
+          "startTime": 30300,
+          "endTime": 30972,
+          "word": "get"
+        },
+        {
+          "startTime": 30972,
+          "endTime": 31957,
+          "word": "better"
+        }
+      ]
+    },
+    {
+      "time": 33180,
+      "endTime": 37831,
+      "text": "You and me together through the days and nights",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 33182,
+          "endTime": 33533,
+          "word": "You"
+        },
+        {
+          "startTime": 33533,
+          "endTime": 33694,
+          "word": "and"
+        },
+        {
+          "startTime": 33694,
+          "endTime": 33854,
+          "word": "me"
+        },
+        {
+          "startTime": 33854,
+          "endTime": 35297,
+          "word": "together"
+        },
+        {
+          "startTime": 35667,
+          "endTime": 35889,
+          "word": "through"
+        },
+        {
+          "startTime": 35889,
+          "endTime": 36085,
+          "word": "the"
+        },
+        {
+          "startTime": 36085,
+          "endTime": 36490,
+          "word": "days"
+        },
+        {
+          "startTime": 36490,
+          "endTime": 36841,
+          "word": "and"
+        },
+        {
+          "startTime": 36841,
+          "endTime": 37831,
+          "word": "nights"
+        }
+      ]
+    },
+    {
+      "time": 38310,
+      "endTime": 43237,
+      "text": "I don't worry 'cause everything's gonna be alright",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 38317,
+          "endTime": 38614,
+          "word": "I"
+        },
+        {
+          "startTime": 38614,
+          "endTime": 38805,
+          "word": "don't"
+        },
+        {
+          "startTime": 38805,
+          "endTime": 39364,
+          "word": "worry"
+        },
+        {
+          "startTime": 39364,
+          "endTime": 40191,
+          "word": "'cause"
+        },
+        {
+          "startTime": 40191,
+          "endTime": 40649,
+          "word": "everything's"
+        },
+        {
+          "startTime": 40649,
+          "endTime": 40994,
+          "word": "gonna"
+        },
+        {
+          "startTime": 40994,
+          "endTime": 41316,
+          "word": "be"
+        },
+        {
+          "startTime": 41316,
+          "endTime": 43237,
+          "word": "alright"
+        }
+      ]
+    },
+    {
+      "time": 43810,
+      "endTime": 48229,
+      "text": "People keep talking, they can say what they like",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 43813,
+          "endTime": 44417,
+          "word": "People"
+        },
+        {
+          "startTime": 44417,
+          "endTime": 44810,
+          "word": "keep"
+        },
+        {
+          "startTime": 44810,
+          "endTime": 46008,
+          "word": "talking,"
+        },
+        {
+          "startTime": 46008,
+          "endTime": 46209,
+          "word": "they"
+        },
+        {
+          "startTime": 46209,
+          "endTime": 46428,
+          "word": "can"
+        },
+        {
+          "startTime": 46428,
+          "endTime": 46759,
+          "word": "say"
+        },
+        {
+          "startTime": 46759,
+          "endTime": 47183,
+          "word": "what"
+        },
+        {
+          "startTime": 47183,
+          "endTime": 47546,
+          "word": "they"
+        },
+        {
+          "startTime": 47546,
+          "endTime": 48229,
+          "word": "like"
+        }
+      ]
+    },
+    {
+      "time": 48980,
+      "endTime": 53761,
+      "text": "But all I know is everything's gonna be alright",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 48980,
+          "endTime": 49361,
+          "word": "But"
+        },
+        {
+          "startTime": 49361,
+          "endTime": 49712,
+          "word": "all"
+        },
+        {
+          "startTime": 49712,
+          "endTime": 50015,
+          "word": "I"
+        },
+        {
+          "startTime": 50015,
+          "endTime": 50402,
+          "word": "know"
+        },
+        {
+          "startTime": 50402,
+          "endTime": 50741,
+          "word": "is"
+        },
+        {
+          "startTime": 50741,
+          "endTime": 51384,
+          "word": "everything's"
+        },
+        {
+          "startTime": 51384,
+          "endTime": 51741,
+          "word": "gonna"
+        },
+        {
+          "startTime": 51741,
+          "endTime": 52080,
+          "word": "be"
+        },
+        {
+          "startTime": 52080,
+          "endTime": 53761,
+          "word": "alright"
+        }
+      ]
+    },
+    {
+      "time": 53960,
+      "endTime": 60435,
+      "text": "No one, no one, no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53964,
+          "endTime": 54803,
+          "word": "No"
+        },
+        {
+          "startTime": 54803,
+          "endTime": 55269,
+          "word": "one,"
+        },
+        {
+          "startTime": 55475,
+          "endTime": 56165,
+          "word": "no"
+        },
+        {
+          "startTime": 56165,
+          "endTime": 56529,
+          "word": "one,"
+        },
+        {
+          "startTime": 56695,
+          "endTime": 57343,
+          "word": "no"
+        },
+        {
+          "startTime": 57343,
+          "endTime": 60435,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 60520,
+      "endTime": 64407,
+      "text": "Can get in the way of what I'm feeling",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 60527,
+          "endTime": 60753,
+          "word": "Can"
+        },
+        {
+          "startTime": 60753,
+          "endTime": 60943,
+          "word": "get"
+        },
+        {
+          "startTime": 60943,
+          "endTime": 61086,
+          "word": "in"
+        },
+        {
+          "startTime": 61086,
+          "endTime": 61277,
+          "word": "the"
+        },
+        {
+          "startTime": 61277,
+          "endTime": 61961,
+          "word": "way"
+        },
+        {
+          "startTime": 61961,
+          "endTime": 62098,
+          "word": "of"
+        },
+        {
+          "startTime": 62098,
+          "endTime": 62467,
+          "word": "what"
+        },
+        {
+          "startTime": 62467,
+          "endTime": 62794,
+          "word": "I'm"
+        },
+        {
+          "startTime": 62794,
+          "endTime": 64407,
+          "word": "feeling"
+        }
+      ]
+    },
+    {
+      "time": 64590,
+      "endTime": 70839,
+      "text": "No one, no one, no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 64592,
+          "endTime": 65342,
+          "word": "No"
+        },
+        {
+          "startTime": 65342,
+          "endTime": 65816,
+          "word": "one,"
+        },
+        {
+          "startTime": 66032,
+          "endTime": 66704,
+          "word": "no"
+        },
+        {
+          "startTime": 66704,
+          "endTime": 67237,
+          "word": "one,"
+        },
+        {
+          "startTime": 67412,
+          "endTime": 68072,
+          "word": "no"
+        },
+        {
+          "startTime": 68072,
+          "endTime": 70839,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 71150,
+      "endTime": 81442,
+      "text": "Can get in the way of what I feel for you, you, you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 71150,
+          "endTime": 71477,
+          "word": "Can"
+        },
+        {
+          "startTime": 71477,
+          "endTime": 71679,
+          "word": "get"
+        },
+        {
+          "startTime": 71679,
+          "endTime": 71816,
+          "word": "in"
+        },
+        {
+          "startTime": 71816,
+          "endTime": 72013,
+          "word": "the"
+        },
+        {
+          "startTime": 72013,
+          "endTime": 72292,
+          "word": "way"
+        },
+        {
+          "startTime": 72292,
+          "endTime": 72685,
+          "word": "of"
+        },
+        {
+          "startTime": 72685,
+          "endTime": 73042,
+          "word": "what"
+        },
+        {
+          "startTime": 73042,
+          "endTime": 73339,
+          "word": "I"
+        },
+        {
+          "startTime": 73339,
+          "endTime": 74018,
+          "word": "feel"
+        },
+        {
+          "startTime": 74018,
+          "endTime": 74458,
+          "word": "for"
+        },
+        {
+          "startTime": 74458,
+          "endTime": 76361,
+          "word": "you,"
+        },
+        {
+          "startTime": 76742,
+          "endTime": 79145,
+          "word": "you,"
+        },
+        {
+          "startTime": 79455,
+          "endTime": 81442,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 81800,
+      "endTime": 86122,
+      "text": "Can get in the way of what I feel for you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81803,
+          "endTime": 82023,
+          "word": "Can"
+        },
+        {
+          "startTime": 82023,
+          "endTime": 82237,
+          "word": "get"
+        },
+        {
+          "startTime": 82237,
+          "endTime": 82362,
+          "word": "in"
+        },
+        {
+          "startTime": 82362,
+          "endTime": 82559,
+          "word": "the"
+        },
+        {
+          "startTime": 82559,
+          "endTime": 83076,
+          "word": "way"
+        },
+        {
+          "startTime": 83076,
+          "endTime": 83386,
+          "word": "of"
+        },
+        {
+          "startTime": 83386,
+          "endTime": 83777,
+          "word": "what"
+        },
+        {
+          "startTime": 83777,
+          "endTime": 84076,
+          "word": "I"
+        },
+        {
+          "startTime": 84076,
+          "endTime": 84765,
+          "word": "feel"
+        },
+        {
+          "startTime": 84765,
+          "endTime": 85200,
+          "word": "for"
+        },
+        {
+          "startTime": 85200,
+          "endTime": 86122,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 86320,
+      "endTime": 91849,
+      "text": "When the rain is pouring down",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 86323,
+          "endTime": 86620,
+          "word": "When"
+        },
+        {
+          "startTime": 86620,
+          "endTime": 86811,
+          "word": "the"
+        },
+        {
+          "startTime": 86811,
+          "endTime": 87174,
+          "word": "rain"
+        },
+        {
+          "startTime": 87174,
+          "endTime": 87382,
+          "word": "is"
+        },
+        {
+          "startTime": 87382,
+          "endTime": 88197,
+          "word": "pouring"
+        },
+        {
+          "startTime": 88197,
+          "endTime": 91849,
+          "word": "down"
+        }
+      ]
+    },
+    {
+      "time": 93110,
+      "endTime": 96348,
+      "text": "And my heart is hurting",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93114,
+          "endTime": 93483,
+          "word": "And"
+        },
+        {
+          "startTime": 93483,
+          "endTime": 93822,
+          "word": "my"
+        },
+        {
+          "startTime": 93822,
+          "endTime": 94756,
+          "word": "heart"
+        },
+        {
+          "startTime": 94756,
+          "endTime": 95030,
+          "word": "is"
+        },
+        {
+          "startTime": 95030,
+          "endTime": 96348,
+          "word": "hurting"
+        }
+      ]
+    },
+    {
+      "time": 97130,
+      "endTime": 102610,
+      "text": "You will always be around",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 97136,
+          "endTime": 97314,
+          "word": "You"
+        },
+        {
+          "startTime": 97314,
+          "endTime": 97547,
+          "word": "will"
+        },
+        {
+          "startTime": 97547,
+          "endTime": 98463,
+          "word": "always"
+        },
+        {
+          "startTime": 98463,
+          "endTime": 98652,
+          "word": "be"
+        },
+        {
+          "startTime": 98652,
+          "endTime": 102610,
+          "word": "around"
+        }
+      ]
+    },
+    {
+      "time": 103730,
+      "endTime": 107128,
+      "text": "This I know for certain",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 103732,
+          "endTime": 103951,
+          "word": "This"
+        },
+        {
+          "startTime": 103951,
+          "endTime": 104218,
+          "word": "I"
+        },
+        {
+          "startTime": 104218,
+          "endTime": 104850,
+          "word": "know"
+        },
+        {
+          "startTime": 105184,
+          "endTime": 105517,
+          "word": "for"
+        },
+        {
+          "startTime": 105517,
+          "endTime": 107128,
+          "word": "certain"
+        }
+      ]
+    },
+    {
+      "time": 107820,
+      "endTime": 112478,
+      "text": "You and me together through the days and nights",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107829,
+          "endTime": 108180,
+          "word": "You"
+        },
+        {
+          "startTime": 108180,
+          "endTime": 108341,
+          "word": "and"
+        },
+        {
+          "startTime": 108341,
+          "endTime": 108501,
+          "word": "me"
+        },
+        {
+          "startTime": 108501,
+          "endTime": 109944,
+          "word": "together"
+        },
+        {
+          "startTime": 110314,
+          "endTime": 110536,
+          "word": "through"
+        },
+        {
+          "startTime": 110536,
+          "endTime": 110732,
+          "word": "the"
+        },
+        {
+          "startTime": 110732,
+          "endTime": 111137,
+          "word": "days"
+        },
+        {
+          "startTime": 111137,
+          "endTime": 111488,
+          "word": "and"
+        },
+        {
+          "startTime": 111488,
+          "endTime": 112478,
+          "word": "nights"
+        }
+      ]
+    },
+    {
+      "time": 113000,
+      "endTime": 118024,
+      "text": "I don't worry 'cause everything's gonna be alright",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 113005,
+          "endTime": 113142,
+          "word": "I"
+        },
+        {
+          "startTime": 113142,
+          "endTime": 113332,
+          "word": "don't"
+        },
+        {
+          "startTime": 113332,
+          "endTime": 114015,
+          "word": "worry"
+        },
+        {
+          "startTime": 114015,
+          "endTime": 114741,
+          "word": "'cause"
+        },
+        {
+          "startTime": 114741,
+          "endTime": 115390,
+          "word": "everything's"
+        },
+        {
+          "startTime": 115390,
+          "endTime": 115747,
+          "word": "gonna"
+        },
+        {
+          "startTime": 115747,
+          "endTime": 116069,
+          "word": "be"
+        },
+        {
+          "startTime": 116069,
+          "endTime": 118024,
+          "word": "alright"
+        }
+      ]
+    },
+    {
+      "time": 118380,
+      "endTime": 122799,
+      "text": "People keep talking, they can say what they like",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118383,
+          "endTime": 118987,
+          "word": "People"
+        },
+        {
+          "startTime": 118987,
+          "endTime": 119380,
+          "word": "keep"
+        },
+        {
+          "startTime": 119380,
+          "endTime": 120578,
+          "word": "talking,"
+        },
+        {
+          "startTime": 120578,
+          "endTime": 120779,
+          "word": "they"
+        },
+        {
+          "startTime": 120779,
+          "endTime": 120998,
+          "word": "can"
+        },
+        {
+          "startTime": 120998,
+          "endTime": 121329,
+          "word": "say"
+        },
+        {
+          "startTime": 121329,
+          "endTime": 121753,
+          "word": "what"
+        },
+        {
+          "startTime": 121753,
+          "endTime": 122116,
+          "word": "they"
+        },
+        {
+          "startTime": 122116,
+          "endTime": 122799,
+          "word": "like"
+        }
+      ]
+    },
+    {
+      "time": 123650,
+      "endTime": 128598,
+      "text": "But all I know is everything's gonna be alright",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123651,
+          "endTime": 124109,
+          "word": "But"
+        },
+        {
+          "startTime": 124109,
+          "endTime": 124460,
+          "word": "all"
+        },
+        {
+          "startTime": 124460,
+          "endTime": 124734,
+          "word": "I"
+        },
+        {
+          "startTime": 124734,
+          "endTime": 125156,
+          "word": "know"
+        },
+        {
+          "startTime": 125156,
+          "endTime": 125472,
+          "word": "is"
+        },
+        {
+          "startTime": 125472,
+          "endTime": 126120,
+          "word": "everything's"
+        },
+        {
+          "startTime": 126120,
+          "endTime": 126471,
+          "word": "gonna"
+        },
+        {
+          "startTime": 126471,
+          "endTime": 126804,
+          "word": "be"
+        },
+        {
+          "startTime": 126804,
+          "endTime": 128598,
+          "word": "alright"
+        }
+      ]
+    },
+    {
+      "time": 128640,
+      "endTime": 134889,
+      "text": "No one, no one, no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 128642,
+          "endTime": 129332,
+          "word": "No"
+        },
+        {
+          "startTime": 129332,
+          "endTime": 129997,
+          "word": "one,"
+        },
+        {
+          "startTime": 129997,
+          "endTime": 130741,
+          "word": "no"
+        },
+        {
+          "startTime": 130741,
+          "endTime": 131287,
+          "word": "one,"
+        },
+        {
+          "startTime": 131420,
+          "endTime": 132069,
+          "word": "no"
+        },
+        {
+          "startTime": 132069,
+          "endTime": 134889,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 135120,
+      "endTime": 139028,
+      "text": "Can get in the way of what I'm feeling",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 135124,
+          "endTime": 135475,
+          "word": "Can"
+        },
+        {
+          "startTime": 135475,
+          "endTime": 135665,
+          "word": "get"
+        },
+        {
+          "startTime": 135665,
+          "endTime": 135802,
+          "word": "in"
+        },
+        {
+          "startTime": 135802,
+          "endTime": 136005,
+          "word": "the"
+        },
+        {
+          "startTime": 136005,
+          "endTime": 136498,
+          "word": "way"
+        },
+        {
+          "startTime": 136498,
+          "endTime": 136808,
+          "word": "of"
+        },
+        {
+          "startTime": 136808,
+          "endTime": 136986,
+          "word": "what"
+        },
+        {
+          "startTime": 136986,
+          "endTime": 137307,
+          "word": "I'm"
+        },
+        {
+          "startTime": 137307,
+          "endTime": 139028,
+          "word": "feeling"
+        }
+      ]
+    },
+    {
+      "time": 139260,
+      "endTime": 145512,
+      "text": "No one, no one, no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139265,
+          "endTime": 139969,
+          "word": "No"
+        },
+        {
+          "startTime": 139969,
+          "endTime": 140436,
+          "word": "one,"
+        },
+        {
+          "startTime": 140746,
+          "endTime": 141419,
+          "word": "no"
+        },
+        {
+          "startTime": 141419,
+          "endTime": 141910,
+          "word": "one,"
+        },
+        {
+          "startTime": 142133,
+          "endTime": 142787,
+          "word": "no"
+        },
+        {
+          "startTime": 142787,
+          "endTime": 145512,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 145810,
+      "endTime": 156107,
+      "text": "Can get in the way of what I feel for you, you, you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 145815,
+          "endTime": 146005,
+          "word": "Can"
+        },
+        {
+          "startTime": 146005,
+          "endTime": 146208,
+          "word": "get"
+        },
+        {
+          "startTime": 146208,
+          "endTime": 146344,
+          "word": "in"
+        },
+        {
+          "startTime": 146344,
+          "endTime": 146547,
+          "word": "the"
+        },
+        {
+          "startTime": 146547,
+          "endTime": 147082,
+          "word": "way"
+        },
+        {
+          "startTime": 147082,
+          "endTime": 147409,
+          "word": "of"
+        },
+        {
+          "startTime": 147409,
+          "endTime": 147766,
+          "word": "what"
+        },
+        {
+          "startTime": 147766,
+          "endTime": 148064,
+          "word": "I"
+        },
+        {
+          "startTime": 148064,
+          "endTime": 148736,
+          "word": "feel"
+        },
+        {
+          "startTime": 148736,
+          "endTime": 149182,
+          "word": "for"
+        },
+        {
+          "startTime": 149182,
+          "endTime": 151050,
+          "word": "you,"
+        },
+        {
+          "startTime": 151466,
+          "endTime": 153783,
+          "word": "you,"
+        },
+        {
+          "startTime": 153978,
+          "endTime": 156107,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 156490,
+      "endTime": 159452,
+      "text": "Can get in the way of what I feel",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 156498,
+          "endTime": 156748,
+          "word": "Can"
+        },
+        {
+          "startTime": 156748,
+          "endTime": 156950,
+          "word": "get"
+        },
+        {
+          "startTime": 156950,
+          "endTime": 157087,
+          "word": "in"
+        },
+        {
+          "startTime": 157087,
+          "endTime": 157283,
+          "word": "the"
+        },
+        {
+          "startTime": 157283,
+          "endTime": 157789,
+          "word": "way"
+        },
+        {
+          "startTime": 157789,
+          "endTime": 158103,
+          "word": "of"
+        },
+        {
+          "startTime": 158103,
+          "endTime": 158503,
+          "word": "what"
+        },
+        {
+          "startTime": 158503,
+          "endTime": 158793,
+          "word": "I"
+        },
+        {
+          "startTime": 158793,
+          "endTime": 159452,
+          "word": "feel"
+        }
+      ]
+    },
+    {
+      "time": 159760,
+      "endTime": 164732,
+      "text": "I know some people search the world",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159769,
+          "endTime": 160197,
+          "word": "I"
+        },
+        {
+          "startTime": 160197,
+          "endTime": 161982,
+          "word": "know"
+        },
+        {
+          "startTime": 161982,
+          "endTime": 162268,
+          "word": "some"
+        },
+        {
+          "startTime": 162268,
+          "endTime": 162649,
+          "word": "people"
+        },
+        {
+          "startTime": 162649,
+          "endTime": 163238,
+          "word": "search"
+        },
+        {
+          "startTime": 163238,
+          "endTime": 163446,
+          "word": "the"
+        },
+        {
+          "startTime": 163446,
+          "endTime": 164732,
+          "word": "world"
+        }
+      ]
+    },
+    {
+      "time": 165110,
+      "endTime": 170458,
+      "text": "To find something like what we have",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165114,
+          "endTime": 165411,
+          "word": "To"
+        },
+        {
+          "startTime": 165411,
+          "endTime": 167440,
+          "word": "find"
+        },
+        {
+          "startTime": 167440,
+          "endTime": 167946,
+          "word": "something"
+        },
+        {
+          "startTime": 167946,
+          "endTime": 168172,
+          "word": "like"
+        },
+        {
+          "startTime": 168172,
+          "endTime": 168535,
+          "word": "what"
+        },
+        {
+          "startTime": 168535,
+          "endTime": 168892,
+          "word": "we"
+        },
+        {
+          "startTime": 168892,
+          "endTime": 170458,
+          "word": "have"
+        }
+      ]
+    },
+    {
+      "time": 170470,
+      "endTime": 177922,
+      "text": "I know people will try, try to divide something so real",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170478,
+          "endTime": 170740,
+          "word": "I"
+        },
+        {
+          "startTime": 170740,
+          "endTime": 172739,
+          "word": "know"
+        },
+        {
+          "startTime": 172739,
+          "endTime": 173221,
+          "word": "people"
+        },
+        {
+          "startTime": 173221,
+          "endTime": 173459,
+          "word": "will"
+        },
+        {
+          "startTime": 173459,
+          "endTime": 174107,
+          "word": "try,"
+        },
+        {
+          "startTime": 174107,
+          "endTime": 174375,
+          "word": "try"
+        },
+        {
+          "startTime": 174375,
+          "endTime": 174601,
+          "word": "to"
+        },
+        {
+          "startTime": 174601,
+          "endTime": 175299,
+          "word": "divide"
+        },
+        {
+          "startTime": 175359,
+          "endTime": 175898,
+          "word": "something"
+        },
+        {
+          "startTime": 175898,
+          "endTime": 176291,
+          "word": "so"
+        },
+        {
+          "startTime": 176291,
+          "endTime": 177922,
+          "word": "real"
+        }
+      ]
+    },
+    {
+      "time": 177930,
+      "endTime": 182948,
+      "text": "So till the end of time, I'm telling you there ain't no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 177932,
+          "endTime": 178301,
+          "word": "So"
+        },
+        {
+          "startTime": 178301,
+          "endTime": 178509,
+          "word": "till"
+        },
+        {
+          "startTime": 178509,
+          "endTime": 178711,
+          "word": "the"
+        },
+        {
+          "startTime": 178711,
+          "endTime": 179079,
+          "word": "end"
+        },
+        {
+          "startTime": 179079,
+          "endTime": 179329,
+          "word": "of"
+        },
+        {
+          "startTime": 179329,
+          "endTime": 179781,
+          "word": "time,"
+        },
+        {
+          "startTime": 179781,
+          "endTime": 180050,
+          "word": "I'm"
+        },
+        {
+          "startTime": 180050,
+          "endTime": 180579,
+          "word": "telling"
+        },
+        {
+          "startTime": 180579,
+          "endTime": 180740,
+          "word": "you"
+        },
+        {
+          "startTime": 180740,
+          "endTime": 181044,
+          "word": "there"
+        },
+        {
+          "startTime": 181044,
+          "endTime": 181222,
+          "word": "ain't"
+        },
+        {
+          "startTime": 181222,
+          "endTime": 181484,
+          "word": "no"
+        },
+        {
+          "startTime": 181484,
+          "endTime": 182948,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 183320,
+      "endTime": 188205,
+      "text": "No one, no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 183324,
+          "endTime": 184018,
+          "word": "No"
+        },
+        {
+          "startTime": 184018,
+          "endTime": 184585,
+          "word": "one,"
+        },
+        {
+          "startTime": 184801,
+          "endTime": 185323,
+          "word": "no"
+        },
+        {
+          "startTime": 185323,
+          "endTime": 188205,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 188510,
+      "endTime": 192398,
+      "text": "Can get in the way of what I'm feeling",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 188517,
+          "endTime": 188761,
+          "word": "Can"
+        },
+        {
+          "startTime": 188761,
+          "endTime": 188951,
+          "word": "get"
+        },
+        {
+          "startTime": 188951,
+          "endTime": 189088,
+          "word": "in"
+        },
+        {
+          "startTime": 189088,
+          "endTime": 189267,
+          "word": "the"
+        },
+        {
+          "startTime": 189267,
+          "endTime": 189790,
+          "word": "way"
+        },
+        {
+          "startTime": 189790,
+          "endTime": 190094,
+          "word": "of"
+        },
+        {
+          "startTime": 190094,
+          "endTime": 190486,
+          "word": "what"
+        },
+        {
+          "startTime": 190486,
+          "endTime": 190796,
+          "word": "I'm"
+        },
+        {
+          "startTime": 190796,
+          "endTime": 192398,
+          "word": "feeling"
+        }
+      ]
+    },
+    {
+      "time": 192610,
+      "endTime": 198862,
+      "text": "No one, no one, no one",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 192615,
+          "endTime": 193311,
+          "word": "No"
+        },
+        {
+          "startTime": 193311,
+          "endTime": 193994,
+          "word": "one,"
+        },
+        {
+          "startTime": 194055,
+          "endTime": 194703,
+          "word": "no"
+        },
+        {
+          "startTime": 194703,
+          "endTime": 195260,
+          "word": "one,"
+        },
+        {
+          "startTime": 195423,
+          "endTime": 196036,
+          "word": "no"
+        },
+        {
+          "startTime": 196036,
+          "endTime": 198862,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "time": 199150,
+      "endTime": 204238,
+      "text": "Can get in the way of what I feel for you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 199157,
+          "endTime": 199472,
+          "word": "Can"
+        },
+        {
+          "startTime": 199472,
+          "endTime": 199681,
+          "word": "get"
+        },
+        {
+          "startTime": 199681,
+          "endTime": 199800,
+          "word": "in"
+        },
+        {
+          "startTime": 199800,
+          "endTime": 200002,
+          "word": "the"
+        },
+        {
+          "startTime": 200002,
+          "endTime": 200537,
+          "word": "way"
+        },
+        {
+          "startTime": 200537,
+          "endTime": 200829,
+          "word": "of"
+        },
+        {
+          "startTime": 200829,
+          "endTime": 201221,
+          "word": "what"
+        },
+        {
+          "startTime": 201221,
+          "endTime": 201321,
+          "word": "I"
+        },
+        {
+          "startTime": 201321,
+          "endTime": 202025,
+          "word": "feel"
+        },
+        {
+          "startTime": 202025,
+          "endTime": 202459,
+          "word": "for"
+        },
+        {
+          "startTime": 202459,
+          "endTime": 204238,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 204360,
+      "endTime": 206456,
+      "text": "Oh-oh-oh-oh-oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 204368,
+          "endTime": 206456,
+          "word": "Oh-oh-oh-oh-oh"
+        }
+      ]
+    },
+    {
+      "time": 206920,
+      "endTime": 209353,
+      "text": "Oh-oh-oh-oh-oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 206924,
+          "endTime": 209353,
+          "word": "Oh-oh-oh-oh-oh"
+        }
+      ]
+    },
+    {
+      "time": 209570,
+      "endTime": 214790,
+      "text": "Oh-oh-oh-oh, oh, oh, oh, oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 209579,
+          "endTime": 210716,
+          "word": "Oh-oh-oh-oh,"
+        },
+        {
+          "startTime": 210716,
+          "endTime": 211047,
+          "word": "oh,"
+        },
+        {
+          "startTime": 211183,
+          "endTime": 211647,
+          "word": "oh,"
+        },
+        {
+          "startTime": 211783,
+          "endTime": 212332,
+          "word": "oh,"
+        },
+        {
+          "startTime": 212482,
+          "endTime": 213031,
+          "word": "oh,"
+        },
+        {
+          "startTime": 213215,
+          "endTime": 214790,
+          "word": "oh"
+        }
+      ]
+    },
+    {
+      "time": 214940,
+      "endTime": 217128,
+      "text": "Oh-oh-oh-oh-oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 214940,
+          "endTime": 217128,
+          "word": "Oh-oh-oh-oh-oh"
+        }
+      ]
+    },
+    {
+      "time": 217570,
+      "endTime": 220009,
+      "text": "Oh-oh-oh-oh-oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 217579,
+          "endTime": 220009,
+          "word": "Oh-oh-oh-oh-oh"
+        }
+      ]
+    },
+    {
+      "time": 220220,
+      "endTime": 225435,
+      "text": "Oh-oh-oh-oh, oh, oh, oh, oh, oh",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 220225,
+          "endTime": 221341,
+          "word": "Oh-oh-oh-oh,"
+        },
+        {
+          "startTime": 221341,
+          "endTime": 221726,
+          "word": "oh,"
+        },
+        {
+          "startTime": 221993,
+          "endTime": 222341,
+          "word": "oh,"
+        },
+        {
+          "startTime": 222643,
+          "endTime": 222974,
+          "word": "oh,"
+        },
+        {
+          "startTime": 223259,
+          "endTime": 223609,
+          "word": "oh,"
+        },
+        {
+          "startTime": 224009,
+          "endTime": 225435,
+          "word": "oh"
+        }
+      ]
+    }
+  ]
+}
