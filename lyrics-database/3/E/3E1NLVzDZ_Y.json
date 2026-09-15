@@ -1,0 +1,1634 @@
+{
+  "videoId": "3E1NLVzDZ_Y",
+  "title": "Tujh Mein Rab Dikhta Hai",
+  "artist": "Roop Kumar Rathod",
+  "duration": 282,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:16.090\" end=\"00:18.477\" ttm:agent=\"v1\">\n        <span begin=\"00:16.094\" end=\"00:16.543\">Tu<\/span>\n        <span begin=\"00:16.543\" end=\"00:16.851\">hi<\/span>\n        <span begin=\"00:16.851\" end=\"00:17.101\">toh<\/span>\n        <span begin=\"00:17.101\" end=\"00:17.788\">jannat<\/span>\n        <span begin=\"00:17.788\" end=\"00:18.477\">meri<\/span>\n      <\/p>\n      <p begin=\"00:18.990\" end=\"00:21.078\" ttm:agent=\"v1\">\n        <span begin=\"00:18.994\" end=\"00:19.383\">Tu<\/span>\n        <span begin=\"00:19.383\" end=\"00:19.551\">hi<\/span>\n        <span begin=\"00:19.551\" end=\"00:20.398\">mera<\/span>\n        <span begin=\"00:20.398\" end=\"00:21.078\">junoon<\/span>\n      <\/p>\n      <p begin=\"00:21.780\" end=\"00:24.139\" ttm:agent=\"v1\">\n        <span begin=\"00:21.786\" end=\"00:22.184\">Tu<\/span>\n        <span begin=\"00:22.184\" end=\"00:22.497\">hi<\/span>\n        <span begin=\"00:22.497\" end=\"00:22.743\">to<\/span>\n        <span begin=\"00:22.743\" end=\"00:23.408\">mannat<\/span>\n        <span begin=\"00:23.408\" end=\"00:24.139\">meri<\/span>\n      <\/p>\n      <p begin=\"00:24.660\" end=\"00:27.312\" ttm:agent=\"v1\">\n        <span begin=\"00:24.669\" end=\"00:24.980\">Tu<\/span>\n        <span begin=\"00:24.980\" end=\"00:25.212\">hi<\/span>\n        <span begin=\"00:25.212\" end=\"00:25.498\">rooh<\/span>\n        <span begin=\"00:25.498\" end=\"00:26.174\">ka<\/span>\n        <span begin=\"00:26.174\" end=\"00:27.312\">sukoon<\/span>\n      <\/p>\n      <p begin=\"00:27.920\" end=\"00:30.384\" ttm:agent=\"v1\">\n        <span begin=\"00:27.926\" end=\"00:28.184\">Tu<\/span>\n        <span begin=\"00:28.184\" end=\"00:28.426\">hi<\/span>\n        <span begin=\"00:28.426\" end=\"00:29.575\">aakhion<\/span>\n        <span begin=\"00:29.575\" end=\"00:29.796\">ki<\/span>\n        <span begin=\"00:29.796\" end=\"00:30.384\">thandak<\/span>\n      <\/p>\n      <p begin=\"00:30.630\" end=\"00:33.139\" ttm:agent=\"v1\">\n        <span begin=\"00:30.630\" end=\"00:30.958\">Tu<\/span>\n        <span begin=\"00:30.958\" end=\"00:31.169\">hi<\/span>\n        <span begin=\"00:31.169\" end=\"00:32.028\">dil<\/span>\n        <span begin=\"00:32.028\" end=\"00:32.353\">ki<\/span>\n        <span begin=\"00:32.353\" end=\"00:32.580\">hai<\/span>\n        <span begin=\"00:32.580\" end=\"00:33.139\">dastak<\/span>\n      <\/p>\n      <p begin=\"00:33.460\" end=\"00:36.210\" ttm:agent=\"v1\">\n        <span begin=\"00:33.467\" end=\"00:33.991\">Aur<\/span>\n        <span begin=\"00:33.991\" end=\"00:34.577\">kuch<\/span>\n        <span begin=\"00:34.577\" end=\"00:35.018\">na<\/span>\n        <span begin=\"00:35.018\" end=\"00:35.865\">janu<\/span>\n        <span begin=\"00:35.865\" end=\"00:36.210\">main<\/span>\n      <\/p>\n      <p begin=\"00:36.430\" end=\"00:39.598\" ttm:agent=\"v1\">\n        <span begin=\"00:36.434\" end=\"00:36.817\">Bas<\/span>\n        <span begin=\"00:36.817\" end=\"00:37.514\">itna<\/span>\n        <span begin=\"00:37.514\" end=\"00:37.897\">hi<\/span>\n        <span begin=\"00:37.897\" end=\"00:39.598\">jaanu<\/span>\n      <\/p>\n      <p begin=\"00:39.590\" end=\"00:42.452\" ttm:agent=\"v1\">\n        <span begin=\"00:39.598\" end=\"00:40.010\">Tujh<\/span>\n        <span begin=\"00:40.010\" end=\"00:40.717\">main<\/span>\n        <span begin=\"00:40.717\" end=\"00:41.082\">Rab<\/span>\n        <span begin=\"00:41.082\" end=\"00:41.760\">dikhta<\/span>\n        <span begin=\"00:41.760\" end=\"00:42.452\">hai<\/span>\n      <\/p>\n      <p begin=\"00:42.390\" end=\"00:45.170\" ttm:agent=\"v1\">\n        <span begin=\"00:42.396\" end=\"00:43.495\">Yaara<\/span>\n        <span begin=\"00:43.495\" end=\"00:43.874\">main<\/span>\n        <span begin=\"00:43.874\" end=\"00:44.477\">kya<\/span>\n        <span begin=\"00:44.477\" end=\"00:45.170\">karu<\/span>\n      <\/p>\n      <p begin=\"00:45.170\" end=\"00:48.054\" ttm:agent=\"v1\">\n        <span begin=\"00:45.170\" end=\"00:45.628\">Tujh<\/span>\n        <span begin=\"00:45.628\" end=\"00:46.324\">main<\/span>\n        <span begin=\"00:46.324\" end=\"00:46.717\">Rab<\/span>\n        <span begin=\"00:46.717\" end=\"00:47.434\">dikhta<\/span>\n        <span begin=\"00:47.434\" end=\"00:48.054\">hai<\/span>\n      <\/p>\n      <p begin=\"00:48.050\" end=\"00:50.830\" ttm:agent=\"v1\">\n        <span begin=\"00:48.054\" end=\"00:49.091\">Yaara<\/span>\n        <span begin=\"00:49.091\" end=\"00:49.539\">main<\/span>\n        <span begin=\"00:49.539\" end=\"00:50.042\">kya<\/span>\n        <span begin=\"00:50.042\" end=\"00:50.830\">karu<\/span>\n      <\/p>\n      <p begin=\"00:50.850\" end=\"00:53.722\" ttm:agent=\"v1\">\n        <span begin=\"00:50.856\" end=\"00:51.906\">Sajde<\/span>\n        <span begin=\"00:51.906\" end=\"00:52.334\">sar<\/span>\n        <span begin=\"00:52.334\" end=\"00:53.006\">jukhta<\/span>\n        <span begin=\"00:53.006\" end=\"00:53.722\">hai<\/span>\n      <\/p>\n      <p begin=\"00:53.720\" end=\"00:56.444\" ttm:agent=\"v1\">\n        <span begin=\"00:53.722\" end=\"00:54.754\">Yaara<\/span>\n        <span begin=\"00:54.754\" end=\"00:55.158\">main<\/span>\n        <span begin=\"00:55.158\" end=\"00:55.764\">kya<\/span>\n        <span begin=\"00:55.764\" end=\"00:56.444\">karu<\/span>\n      <\/p>\n      <p begin=\"00:56.470\" end=\"00:59.397\" ttm:agent=\"v1\">\n        <span begin=\"00:56.473\" end=\"00:56.956\">Tujh<\/span>\n        <span begin=\"00:56.956\" end=\"00:57.643\">main<\/span>\n        <span begin=\"00:57.643\" end=\"00:58.051\">Rab<\/span>\n        <span begin=\"00:58.051\" end=\"00:58.691\">dikhta<\/span>\n        <span begin=\"00:58.691\" end=\"00:59.397\">hai<\/span>\n      <\/p>\n      <p begin=\"00:59.390\" end=\"01:03.505\" ttm:agent=\"v1\">\n        <span begin=\"00:59.397\" end=\"01:00.424\">Yaara<\/span>\n        <span begin=\"01:00.424\" end=\"01:00.890\">main<\/span>\n        <span begin=\"01:00.890\" end=\"01:01.644\">kya<\/span>\n        <span begin=\"01:01.644\" end=\"01:03.505\">karu<\/span>\n      <\/p>\n      <p begin=\"01:30.390\" end=\"01:31.881\" ttm:agent=\"v1\">\n        <span begin=\"01:30.396\" end=\"01:30.832\">Kaisi<\/span>\n        <span begin=\"01:30.832\" end=\"01:31.050\">hai<\/span>\n        <span begin=\"01:31.050\" end=\"01:31.234\">yeh<\/span>\n        <span begin=\"01:31.234\" end=\"01:31.881\">doori<\/span>\n      <\/p>\n      <p begin=\"01:33.170\" end=\"01:34.864\" ttm:agent=\"v1\">\n        <span begin=\"01:33.176\" end=\"01:33.652\">Kaisi<\/span>\n        <span begin=\"01:33.652\" end=\"01:34.864\">majboori<\/span>\n      <\/p>\n      <p begin=\"01:35.410\" end=\"01:40.330\" ttm:agent=\"v1\">\n        <span begin=\"01:35.418\" end=\"01:36.164\">Maine<\/span>\n        <span begin=\"01:36.164\" end=\"01:36.925\">nazron<\/span>\n        <span begin=\"01:36.925\" end=\"01:37.422\">se<\/span>\n        <span begin=\"01:37.422\" end=\"01:38.376\">tujhe<\/span>\n        <span begin=\"01:38.376\" end=\"01:38.769\">chhu<\/span>\n        <span begin=\"01:38.769\" end=\"01:40.330\">liya<\/span>\n      <\/p>\n      <p begin=\"01:40.910\" end=\"01:43.588\" ttm:agent=\"v1\">\n        <span begin=\"01:40.910\" end=\"01:41.280\">Oh<\/span>\n        <span begin=\"01:41.280\" end=\"01:41.577\">ho<\/span>\n        <span begin=\"01:41.577\" end=\"01:41.782\">ho<\/span>\n        <span begin=\"01:41.782\" end=\"01:42.146\">kabhi<\/span>\n        <span begin=\"01:42.146\" end=\"01:42.485\">teri<\/span>\n        <span begin=\"01:42.485\" end=\"01:43.588\">khusboo<\/span>\n      <\/p>\n      <p begin=\"01:44.470\" end=\"01:46.445\" ttm:agent=\"v1\">\n        <span begin=\"01:44.473\" end=\"01:44.978\">Kabhi<\/span>\n        <span begin=\"01:44.978\" end=\"01:45.348\">teri<\/span>\n        <span begin=\"01:45.348\" end=\"01:46.445\">baatein<\/span>\n      <\/p>\n      <p begin=\"01:46.810\" end=\"01:51.580\" ttm:agent=\"v1\">\n        <span begin=\"01:46.813\" end=\"01:47.411\">Bin<\/span>\n        <span begin=\"01:47.411\" end=\"01:48.205\">mange<\/span>\n        <span begin=\"01:48.205\" end=\"01:48.643\">yeh<\/span>\n        <span begin=\"01:48.643\" end=\"01:49.734\">jahan<\/span>\n        <span begin=\"01:49.734\" end=\"01:50.060\">pa<\/span>\n        <span begin=\"01:50.060\" end=\"01:51.580\">liya<\/span>\n      <\/p>\n      <p begin=\"01:52.490\" end=\"01:55.043\" ttm:agent=\"v1\">\n        <span begin=\"01:52.491\" end=\"01:52.917\">Tu<\/span>\n        <span begin=\"01:52.917\" end=\"01:53.113\">hi<\/span>\n        <span begin=\"01:53.113\" end=\"01:53.936\">dil<\/span>\n        <span begin=\"01:53.936\" end=\"01:54.282\">ki<\/span>\n        <span begin=\"01:54.282\" end=\"01:54.489\">hai<\/span>\n        <span begin=\"01:54.489\" end=\"01:55.043\">raunak<\/span>\n      <\/p>\n      <p begin=\"01:55.310\" end=\"01:57.866\" ttm:agent=\"v1\">\n        <span begin=\"01:55.314\" end=\"01:55.728\">Tu<\/span>\n        <span begin=\"01:55.728\" end=\"01:55.892\">hi<\/span>\n        <span begin=\"01:55.892\" end=\"01:57.083\">janmo<\/span>\n        <span begin=\"01:57.083\" end=\"01:57.289\">ki<\/span>\n        <span begin=\"01:57.289\" end=\"01:57.866\">daulat<\/span>\n      <\/p>\n      <p begin=\"01:58.070\" end=\"02:04.250\" ttm:agent=\"v1\">\n        <span begin=\"01:58.079\" end=\"01:58.654\">Aur<\/span>\n        <span begin=\"01:58.654\" end=\"01:59.172\">kuch<\/span>\n        <span begin=\"01:59.172\" end=\"01:59.734\">na<\/span>\n        <span begin=\"01:59.734\" end=\"02:01.165\">jaanu<\/span>\n        <span begin=\"02:01.165\" end=\"02:01.519\">bas<\/span>\n        <span begin=\"02:01.519\" end=\"02:02.218\">itna<\/span>\n        <span begin=\"02:02.218\" end=\"02:02.624\">hi<\/span>\n        <span begin=\"02:02.624\" end=\"02:04.250\">jaanu<\/span>\n      <\/p>\n      <p begin=\"02:04.250\" end=\"02:07.125\" ttm:agent=\"v1\">\n        <span begin=\"02:04.250\" end=\"02:04.722\">Tujh<\/span>\n        <span begin=\"02:04.722\" end=\"02:05.452\">main<\/span>\n        <span begin=\"02:05.452\" end=\"02:05.793\">Rab<\/span>\n        <span begin=\"02:05.793\" end=\"02:06.489\">dikhta<\/span>\n        <span begin=\"02:06.489\" end=\"02:07.125\">hai<\/span>\n      <\/p>\n      <p begin=\"02:07.120\" end=\"02:09.838\" ttm:agent=\"v1\">\n        <span begin=\"02:07.125\" end=\"02:08.219\">Yaara<\/span>\n        <span begin=\"02:08.219\" end=\"02:08.574\">main<\/span>\n        <span begin=\"02:08.574\" end=\"02:09.160\">kya<\/span>\n        <span begin=\"02:09.160\" end=\"02:09.838\">karu<\/span>\n      <\/p>\n      <p begin=\"02:09.910\" end=\"02:12.798\" ttm:agent=\"v1\">\n        <span begin=\"02:09.912\" end=\"02:10.390\">Tujh<\/span>\n        <span begin=\"02:10.390\" end=\"02:11.014\">main<\/span>\n        <span begin=\"02:11.014\" end=\"02:11.427\">Rab<\/span>\n        <span begin=\"02:11.427\" end=\"02:12.114\">dikhta<\/span>\n        <span begin=\"02:12.114\" end=\"02:12.798\">hai<\/span>\n      <\/p>\n      <p begin=\"02:12.790\" end=\"02:15.564\" ttm:agent=\"v1\">\n        <span begin=\"02:12.798\" end=\"02:13.867\">Yaara<\/span>\n        <span begin=\"02:13.867\" end=\"02:14.219\">main<\/span>\n        <span begin=\"02:14.219\" end=\"02:14.750\">kya<\/span>\n        <span begin=\"02:14.750\" end=\"02:15.564\">karu<\/span>\n      <\/p>\n      <p begin=\"02:15.560\" end=\"02:18.419\" ttm:agent=\"v1\">\n        <span begin=\"02:15.564\" end=\"02:16.637\">Sajde<\/span>\n        <span begin=\"02:16.637\" end=\"02:17.028\">sar<\/span>\n        <span begin=\"02:17.028\" end=\"02:17.790\">jukhta<\/span>\n        <span begin=\"02:17.790\" end=\"02:18.419\">hai<\/span>\n      <\/p>\n      <p begin=\"02:18.410\" end=\"02:21.159\" ttm:agent=\"v1\">\n        <span begin=\"02:18.419\" end=\"02:19.402\">Yaara<\/span>\n        <span begin=\"02:19.402\" end=\"02:19.821\">main<\/span>\n        <span begin=\"02:19.821\" end=\"02:20.413\">kya<\/span>\n        <span begin=\"02:20.413\" end=\"02:21.159\">karu<\/span>\n      <\/p>\n      <p begin=\"02:21.310\" end=\"02:24.086\" ttm:agent=\"v1\">\n        <span begin=\"02:21.310\" end=\"02:21.660\">Tujh<\/span>\n        <span begin=\"02:21.660\" end=\"02:22.335\">main<\/span>\n        <span begin=\"02:22.335\" end=\"02:22.727\">Rab<\/span>\n        <span begin=\"02:22.727\" end=\"02:23.414\">dikhta<\/span>\n        <span begin=\"02:23.414\" end=\"02:24.086\">hai<\/span>\n      <\/p>\n      <p begin=\"02:24.080\" end=\"02:28.340\" ttm:agent=\"v1\">\n        <span begin=\"02:24.086\" end=\"02:25.150\">Yaara<\/span>\n        <span begin=\"02:25.150\" end=\"02:25.543\">main<\/span>\n        <span begin=\"02:25.543\" end=\"02:26.315\">kya<\/span>\n        <span begin=\"02:26.315\" end=\"02:28.340\">karu<\/span>\n      <\/p>\n      <p begin=\"02:43.220\" end=\"02:55.094\" ttm:agent=\"v1\">\n        <span begin=\"02:43.228\" end=\"02:43.915\">Rab<\/span>\n        <span begin=\"02:43.915\" end=\"02:46.531\">ne<\/span>\n        <span begin=\"02:46.531\" end=\"02:47.243\">bana<\/span>\n        <span begin=\"02:47.243\" end=\"02:48.680\">di<\/span>\n        <span begin=\"02:49.145\" end=\"02:53.117\">jodi<\/span>\n        <span begin=\"02:53.117\" end=\"02:55.094\">haye<\/span>\n      <\/p>\n      <p begin=\"03:06.330\" end=\"03:07.993\" ttm:agent=\"v1\">\n        <span begin=\"03:06.332\" end=\"03:06.763\">Cham<\/span>\n        <span begin=\"03:06.763\" end=\"03:07.198\">cham<\/span>\n        <span begin=\"03:07.198\" end=\"03:07.993\">aaye<\/span>\n      <\/p>\n      <p begin=\"03:09.150\" end=\"03:11.084\" ttm:agent=\"v1\">\n        <span begin=\"03:09.153\" end=\"03:09.658\">Mujhe<\/span>\n        <span begin=\"03:09.658\" end=\"03:11.084\">tarsaye<\/span>\n      <\/p>\n      <p begin=\"03:11.560\" end=\"03:16.227\" ttm:agent=\"v1\">\n        <span begin=\"03:11.564\" end=\"03:12.078\">Tera<\/span>\n        <span begin=\"03:12.078\" end=\"03:12.990\">saaya<\/span>\n        <span begin=\"03:12.990\" end=\"03:13.642\">chhed<\/span>\n        <span begin=\"03:13.642\" end=\"03:14.372\">ke<\/span>\n        <span begin=\"03:14.372\" end=\"03:16.227\">chumta<\/span>\n      <\/p>\n      <p begin=\"03:16.800\" end=\"03:19.369\" ttm:agent=\"v1\">\n        <span begin=\"03:16.807\" end=\"03:17.234\">Oh<\/span>\n        <span begin=\"03:17.234\" end=\"03:17.547\">ho<\/span>\n        <span begin=\"03:17.547\" end=\"03:17.771\">ho<\/span>\n        <span begin=\"03:17.771\" end=\"03:17.960\">tu<\/span>\n        <span begin=\"03:17.960\" end=\"03:18.151\">jo<\/span>\n        <span begin=\"03:18.151\" end=\"03:19.369\">muskaye<\/span>\n      <\/p>\n      <p begin=\"03:20.490\" end=\"03:22.245\" ttm:agent=\"v1\">\n        <span begin=\"03:20.499\" end=\"03:20.782\">Tu<\/span>\n        <span begin=\"03:20.782\" end=\"03:20.905\">jo<\/span>\n        <span begin=\"03:20.905\" end=\"03:22.245\">sharmaye<\/span>\n      <\/p>\n      <p begin=\"03:22.780\" end=\"03:27.864\" ttm:agent=\"v1\">\n        <span begin=\"03:22.784\" end=\"03:23.438\">Jaise<\/span>\n        <span begin=\"03:23.438\" end=\"03:24.293\">mera<\/span>\n        <span begin=\"03:24.293\" end=\"03:24.780\">hai<\/span>\n        <span begin=\"03:24.780\" end=\"03:25.693\">khuda<\/span>\n        <span begin=\"03:25.693\" end=\"03:27.864\">jhumta<\/span>\n      <\/p>\n      <p begin=\"03:28.470\" end=\"03:33.941\" ttm:agent=\"v1\">\n        <span begin=\"03:28.475\" end=\"03:28.920\">Tu<\/span>\n        <span begin=\"03:28.920\" end=\"03:29.124\">hi<\/span>\n        <span begin=\"03:29.124\" end=\"03:30.297\">meri<\/span>\n        <span begin=\"03:30.297\" end=\"03:30.523\">hai<\/span>\n        <span begin=\"03:30.523\" end=\"03:31.188\">barkat<\/span>\n        <span begin=\"03:31.373\" end=\"03:31.743\">tu<\/span>\n        <span begin=\"03:31.743\" end=\"03:31.894\">hi<\/span>\n        <span begin=\"03:31.894\" end=\"03:33.132\">meri<\/span>\n        <span begin=\"03:33.132\" end=\"03:33.941\">ibadat<\/span>\n      <\/p>\n      <p begin=\"03:34.070\" end=\"03:40.167\" ttm:agent=\"v1\">\n        <span begin=\"03:34.075\" end=\"03:34.792\">Aur<\/span>\n        <span begin=\"03:34.792\" end=\"03:35.257\">kuch<\/span>\n        <span begin=\"03:35.257\" end=\"03:35.793\">na<\/span>\n        <span begin=\"03:35.793\" end=\"03:37.121\">janu<\/span>\n        <span begin=\"03:37.121\" end=\"03:37.497\">bas<\/span>\n        <span begin=\"03:37.497\" end=\"03:38.277\">itna<\/span>\n        <span begin=\"03:38.277\" end=\"03:38.530\">hi<\/span>\n        <span begin=\"03:38.530\" end=\"03:40.167\">janu<\/span>\n      <\/p>\n      <p begin=\"03:40.210\" end=\"03:43.128\" ttm:agent=\"v1\">\n        <span begin=\"03:40.216\" end=\"03:40.725\">Tujh<\/span>\n        <span begin=\"03:40.725\" end=\"03:41.381\">main<\/span>\n        <span begin=\"03:41.381\" end=\"03:41.781\">Rab<\/span>\n        <span begin=\"03:41.781\" end=\"03:42.546\">dikhta<\/span>\n        <span begin=\"03:42.546\" end=\"03:43.128\">hai<\/span>\n      <\/p>\n      <p begin=\"03:43.120\" end=\"03:45.881\" ttm:agent=\"v1\">\n        <span begin=\"03:43.128\" end=\"03:44.168\">Yaara<\/span>\n        <span begin=\"03:44.168\" end=\"03:44.560\">main<\/span>\n        <span begin=\"03:44.560\" end=\"03:45.106\">kya<\/span>\n        <span begin=\"03:45.106\" end=\"03:45.881\">karu<\/span>\n      <\/p>\n      <p begin=\"03:45.880\" end=\"03:48.754\" ttm:agent=\"v1\">\n        <span begin=\"03:45.881\" end=\"03:46.362\">Tujh<\/span>\n        <span begin=\"03:46.362\" end=\"03:47.030\">main<\/span>\n        <span begin=\"03:47.030\" end=\"03:47.435\">Rab<\/span>\n        <span begin=\"03:47.435\" end=\"03:48.133\">dikhta<\/span>\n        <span begin=\"03:48.133\" end=\"03:48.754\">hai<\/span>\n      <\/p>\n      <p begin=\"03:48.750\" end=\"03:51.501\" ttm:agent=\"v1\">\n        <span begin=\"03:48.754\" end=\"03:49.760\">Yaara<\/span>\n        <span begin=\"03:49.760\" end=\"03:50.238\">main<\/span>\n        <span begin=\"03:50.238\" end=\"03:50.814\">kya<\/span>\n        <span begin=\"03:50.814\" end=\"03:51.501\">karu<\/span>\n      <\/p>\n      <p begin=\"03:51.500\" end=\"03:54.378\" ttm:agent=\"v1\">\n        <span begin=\"03:51.501\" end=\"03:52.634\">Sajde<\/span>\n        <span begin=\"03:52.634\" end=\"03:53.043\">sar<\/span>\n        <span begin=\"03:53.043\" end=\"03:53.732\">jukhta<\/span>\n        <span begin=\"03:53.732\" end=\"03:54.378\">hai<\/span>\n      <\/p>\n      <p begin=\"03:54.370\" end=\"03:57.187\" ttm:agent=\"v1\">\n        <span begin=\"03:54.378\" end=\"03:55.433\">Yaara<\/span>\n        <span begin=\"03:55.433\" end=\"03:55.905\">main<\/span>\n        <span begin=\"03:55.905\" end=\"03:56.414\">kya<\/span>\n        <span begin=\"03:56.414\" end=\"03:57.187\">karu<\/span>\n      <\/p>\n      <p begin=\"03:57.200\" end=\"04:00.133\" ttm:agent=\"v1\">\n        <span begin=\"03:57.207\" end=\"03:57.696\">Tujh<\/span>\n        <span begin=\"03:57.696\" end=\"03:58.337\">main<\/span>\n        <span begin=\"03:58.337\" end=\"03:58.725\">Rab<\/span>\n        <span begin=\"03:58.725\" end=\"03:59.418\">dikhta<\/span>\n        <span begin=\"03:59.418\" end=\"04:00.133\">hai<\/span>\n      <\/p>\n      <p begin=\"04:00.130\" end=\"04:04.332\" ttm:agent=\"v1\">\n        <span begin=\"04:00.133\" end=\"04:01.094\">Yaara<\/span>\n        <span begin=\"04:01.094\" end=\"04:01.496\">main<\/span>\n        <span begin=\"04:01.496\" end=\"04:02.404\">kya<\/span>\n        <span begin=\"04:02.404\" end=\"04:04.332\">karu<\/span>\n      <\/p>\n      <p begin=\"04:19.290\" end=\"04:33.647\" ttm:agent=\"v1\">\n        <span begin=\"04:19.297\" end=\"04:20.112\">Rab<\/span>\n        <span begin=\"04:20.112\" end=\"04:22.639\">ne<\/span>\n        <span begin=\"04:22.639\" end=\"04:23.408\">bana<\/span>\n        <span begin=\"04:23.408\" end=\"04:24.829\">di<\/span>\n        <span begin=\"04:25.268\" end=\"04:29.465\">jodi<\/span>\n        <span begin=\"04:29.465\" end=\"04:33.647\">haye<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 16090,
+      "endTime": 18477,
+      "text": "Tu hi toh jannat meri",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 16094,
+          "endTime": 16543,
+          "word": "Tu"
+        },
+        {
+          "startTime": 16543,
+          "endTime": 16851,
+          "word": "hi"
+        },
+        {
+          "startTime": 16851,
+          "endTime": 17101,
+          "word": "toh"
+        },
+        {
+          "startTime": 17101,
+          "endTime": 17788,
+          "word": "jannat"
+        },
+        {
+          "startTime": 17788,
+          "endTime": 18477,
+          "word": "meri"
+        }
+      ]
+    },
+    {
+      "time": 18990,
+      "endTime": 21078,
+      "text": "Tu hi mera junoon",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 18994,
+          "endTime": 19383,
+          "word": "Tu"
+        },
+        {
+          "startTime": 19383,
+          "endTime": 19551,
+          "word": "hi"
+        },
+        {
+          "startTime": 19551,
+          "endTime": 20398,
+          "word": "mera"
+        },
+        {
+          "startTime": 20398,
+          "endTime": 21078,
+          "word": "junoon"
+        }
+      ]
+    },
+    {
+      "time": 21780,
+      "endTime": 24139,
+      "text": "Tu hi to mannat meri",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21786,
+          "endTime": 22184,
+          "word": "Tu"
+        },
+        {
+          "startTime": 22184,
+          "endTime": 22497,
+          "word": "hi"
+        },
+        {
+          "startTime": 22497,
+          "endTime": 22743,
+          "word": "to"
+        },
+        {
+          "startTime": 22743,
+          "endTime": 23408,
+          "word": "mannat"
+        },
+        {
+          "startTime": 23408,
+          "endTime": 24139,
+          "word": "meri"
+        }
+      ]
+    },
+    {
+      "time": 24660,
+      "endTime": 27312,
+      "text": "Tu hi rooh ka sukoon",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24669,
+          "endTime": 24980,
+          "word": "Tu"
+        },
+        {
+          "startTime": 24980,
+          "endTime": 25212,
+          "word": "hi"
+        },
+        {
+          "startTime": 25212,
+          "endTime": 25498,
+          "word": "rooh"
+        },
+        {
+          "startTime": 25498,
+          "endTime": 26174,
+          "word": "ka"
+        },
+        {
+          "startTime": 26174,
+          "endTime": 27312,
+          "word": "sukoon"
+        }
+      ]
+    },
+    {
+      "time": 27920,
+      "endTime": 30384,
+      "text": "Tu hi aakhion ki thandak",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 27926,
+          "endTime": 28184,
+          "word": "Tu"
+        },
+        {
+          "startTime": 28184,
+          "endTime": 28426,
+          "word": "hi"
+        },
+        {
+          "startTime": 28426,
+          "endTime": 29575,
+          "word": "aakhion"
+        },
+        {
+          "startTime": 29575,
+          "endTime": 29796,
+          "word": "ki"
+        },
+        {
+          "startTime": 29796,
+          "endTime": 30384,
+          "word": "thandak"
+        }
+      ]
+    },
+    {
+      "time": 30630,
+      "endTime": 33139,
+      "text": "Tu hi dil ki hai dastak",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 30630,
+          "endTime": 30958,
+          "word": "Tu"
+        },
+        {
+          "startTime": 30958,
+          "endTime": 31169,
+          "word": "hi"
+        },
+        {
+          "startTime": 31169,
+          "endTime": 32028,
+          "word": "dil"
+        },
+        {
+          "startTime": 32028,
+          "endTime": 32353,
+          "word": "ki"
+        },
+        {
+          "startTime": 32353,
+          "endTime": 32580,
+          "word": "hai"
+        },
+        {
+          "startTime": 32580,
+          "endTime": 33139,
+          "word": "dastak"
+        }
+      ]
+    },
+    {
+      "time": 33460,
+      "endTime": 36210,
+      "text": "Aur kuch na janu main",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 33467,
+          "endTime": 33991,
+          "word": "Aur"
+        },
+        {
+          "startTime": 33991,
+          "endTime": 34577,
+          "word": "kuch"
+        },
+        {
+          "startTime": 34577,
+          "endTime": 35018,
+          "word": "na"
+        },
+        {
+          "startTime": 35018,
+          "endTime": 35865,
+          "word": "janu"
+        },
+        {
+          "startTime": 35865,
+          "endTime": 36210,
+          "word": "main"
+        }
+      ]
+    },
+    {
+      "time": 36430,
+      "endTime": 39598,
+      "text": "Bas itna hi jaanu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36434,
+          "endTime": 36817,
+          "word": "Bas"
+        },
+        {
+          "startTime": 36817,
+          "endTime": 37514,
+          "word": "itna"
+        },
+        {
+          "startTime": 37514,
+          "endTime": 37897,
+          "word": "hi"
+        },
+        {
+          "startTime": 37897,
+          "endTime": 39598,
+          "word": "jaanu"
+        }
+      ]
+    },
+    {
+      "time": 39590,
+      "endTime": 42452,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 39598,
+          "endTime": 40010,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 40010,
+          "endTime": 40717,
+          "word": "main"
+        },
+        {
+          "startTime": 40717,
+          "endTime": 41082,
+          "word": "Rab"
+        },
+        {
+          "startTime": 41082,
+          "endTime": 41760,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 41760,
+          "endTime": 42452,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 42390,
+      "endTime": 45170,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42396,
+          "endTime": 43495,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 43495,
+          "endTime": 43874,
+          "word": "main"
+        },
+        {
+          "startTime": 43874,
+          "endTime": 44477,
+          "word": "kya"
+        },
+        {
+          "startTime": 44477,
+          "endTime": 45170,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 45170,
+      "endTime": 48054,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45170,
+          "endTime": 45628,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 45628,
+          "endTime": 46324,
+          "word": "main"
+        },
+        {
+          "startTime": 46324,
+          "endTime": 46717,
+          "word": "Rab"
+        },
+        {
+          "startTime": 46717,
+          "endTime": 47434,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 47434,
+          "endTime": 48054,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 48050,
+      "endTime": 50830,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 48054,
+          "endTime": 49091,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 49091,
+          "endTime": 49539,
+          "word": "main"
+        },
+        {
+          "startTime": 49539,
+          "endTime": 50042,
+          "word": "kya"
+        },
+        {
+          "startTime": 50042,
+          "endTime": 50830,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 50850,
+      "endTime": 53722,
+      "text": "Sajde sar jukhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50856,
+          "endTime": 51906,
+          "word": "Sajde"
+        },
+        {
+          "startTime": 51906,
+          "endTime": 52334,
+          "word": "sar"
+        },
+        {
+          "startTime": 52334,
+          "endTime": 53006,
+          "word": "jukhta"
+        },
+        {
+          "startTime": 53006,
+          "endTime": 53722,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 53720,
+      "endTime": 56444,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 53722,
+          "endTime": 54754,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 54754,
+          "endTime": 55158,
+          "word": "main"
+        },
+        {
+          "startTime": 55158,
+          "endTime": 55764,
+          "word": "kya"
+        },
+        {
+          "startTime": 55764,
+          "endTime": 56444,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 56470,
+      "endTime": 59397,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 56473,
+          "endTime": 56956,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 56956,
+          "endTime": 57643,
+          "word": "main"
+        },
+        {
+          "startTime": 57643,
+          "endTime": 58051,
+          "word": "Rab"
+        },
+        {
+          "startTime": 58051,
+          "endTime": 58691,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 58691,
+          "endTime": 59397,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 59390,
+      "endTime": 63505,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59397,
+          "endTime": 60424,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 60424,
+          "endTime": 60890,
+          "word": "main"
+        },
+        {
+          "startTime": 60890,
+          "endTime": 61644,
+          "word": "kya"
+        },
+        {
+          "startTime": 61644,
+          "endTime": 63505,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 90390,
+      "endTime": 91881,
+      "text": "Kaisi hai yeh doori",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90396,
+          "endTime": 90832,
+          "word": "Kaisi"
+        },
+        {
+          "startTime": 90832,
+          "endTime": 91050,
+          "word": "hai"
+        },
+        {
+          "startTime": 91050,
+          "endTime": 91234,
+          "word": "yeh"
+        },
+        {
+          "startTime": 91234,
+          "endTime": 91881,
+          "word": "doori"
+        }
+      ]
+    },
+    {
+      "time": 93170,
+      "endTime": 94864,
+      "text": "Kaisi majboori",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 93176,
+          "endTime": 93652,
+          "word": "Kaisi"
+        },
+        {
+          "startTime": 93652,
+          "endTime": 94864,
+          "word": "majboori"
+        }
+      ]
+    },
+    {
+      "time": 95410,
+      "endTime": 100330,
+      "text": "Maine nazron se tujhe chhu liya",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95418,
+          "endTime": 96164,
+          "word": "Maine"
+        },
+        {
+          "startTime": 96164,
+          "endTime": 96925,
+          "word": "nazron"
+        },
+        {
+          "startTime": 96925,
+          "endTime": 97422,
+          "word": "se"
+        },
+        {
+          "startTime": 97422,
+          "endTime": 98376,
+          "word": "tujhe"
+        },
+        {
+          "startTime": 98376,
+          "endTime": 98769,
+          "word": "chhu"
+        },
+        {
+          "startTime": 98769,
+          "endTime": 100330,
+          "word": "liya"
+        }
+      ]
+    },
+    {
+      "time": 100910,
+      "endTime": 103588,
+      "text": "Oh ho ho kabhi teri khusboo",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 100910,
+          "endTime": 101280,
+          "word": "Oh"
+        },
+        {
+          "startTime": 101280,
+          "endTime": 101577,
+          "word": "ho"
+        },
+        {
+          "startTime": 101577,
+          "endTime": 101782,
+          "word": "ho"
+        },
+        {
+          "startTime": 101782,
+          "endTime": 102146,
+          "word": "kabhi"
+        },
+        {
+          "startTime": 102146,
+          "endTime": 102485,
+          "word": "teri"
+        },
+        {
+          "startTime": 102485,
+          "endTime": 103588,
+          "word": "khusboo"
+        }
+      ]
+    },
+    {
+      "time": 104470,
+      "endTime": 106445,
+      "text": "Kabhi teri baatein",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104473,
+          "endTime": 104978,
+          "word": "Kabhi"
+        },
+        {
+          "startTime": 104978,
+          "endTime": 105348,
+          "word": "teri"
+        },
+        {
+          "startTime": 105348,
+          "endTime": 106445,
+          "word": "baatein"
+        }
+      ]
+    },
+    {
+      "time": 106810,
+      "endTime": 111580,
+      "text": "Bin mange yeh jahan pa liya",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 106813,
+          "endTime": 107411,
+          "word": "Bin"
+        },
+        {
+          "startTime": 107411,
+          "endTime": 108205,
+          "word": "mange"
+        },
+        {
+          "startTime": 108205,
+          "endTime": 108643,
+          "word": "yeh"
+        },
+        {
+          "startTime": 108643,
+          "endTime": 109734,
+          "word": "jahan"
+        },
+        {
+          "startTime": 109734,
+          "endTime": 110060,
+          "word": "pa"
+        },
+        {
+          "startTime": 110060,
+          "endTime": 111580,
+          "word": "liya"
+        }
+      ]
+    },
+    {
+      "time": 112490,
+      "endTime": 115043,
+      "text": "Tu hi dil ki hai raunak",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112491,
+          "endTime": 112917,
+          "word": "Tu"
+        },
+        {
+          "startTime": 112917,
+          "endTime": 113113,
+          "word": "hi"
+        },
+        {
+          "startTime": 113113,
+          "endTime": 113936,
+          "word": "dil"
+        },
+        {
+          "startTime": 113936,
+          "endTime": 114282,
+          "word": "ki"
+        },
+        {
+          "startTime": 114282,
+          "endTime": 114489,
+          "word": "hai"
+        },
+        {
+          "startTime": 114489,
+          "endTime": 115043,
+          "word": "raunak"
+        }
+      ]
+    },
+    {
+      "time": 115310,
+      "endTime": 117866,
+      "text": "Tu hi janmo ki daulat",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 115314,
+          "endTime": 115728,
+          "word": "Tu"
+        },
+        {
+          "startTime": 115728,
+          "endTime": 115892,
+          "word": "hi"
+        },
+        {
+          "startTime": 115892,
+          "endTime": 117083,
+          "word": "janmo"
+        },
+        {
+          "startTime": 117083,
+          "endTime": 117289,
+          "word": "ki"
+        },
+        {
+          "startTime": 117289,
+          "endTime": 117866,
+          "word": "daulat"
+        }
+      ]
+    },
+    {
+      "time": 118070,
+      "endTime": 124250,
+      "text": "Aur kuch na jaanu bas itna hi jaanu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 118079,
+          "endTime": 118654,
+          "word": "Aur"
+        },
+        {
+          "startTime": 118654,
+          "endTime": 119172,
+          "word": "kuch"
+        },
+        {
+          "startTime": 119172,
+          "endTime": 119734,
+          "word": "na"
+        },
+        {
+          "startTime": 119734,
+          "endTime": 121165,
+          "word": "jaanu"
+        },
+        {
+          "startTime": 121165,
+          "endTime": 121519,
+          "word": "bas"
+        },
+        {
+          "startTime": 121519,
+          "endTime": 122218,
+          "word": "itna"
+        },
+        {
+          "startTime": 122218,
+          "endTime": 122624,
+          "word": "hi"
+        },
+        {
+          "startTime": 122624,
+          "endTime": 124250,
+          "word": "jaanu"
+        }
+      ]
+    },
+    {
+      "time": 124250,
+      "endTime": 127125,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 124250,
+          "endTime": 124722,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 124722,
+          "endTime": 125452,
+          "word": "main"
+        },
+        {
+          "startTime": 125452,
+          "endTime": 125793,
+          "word": "Rab"
+        },
+        {
+          "startTime": 125793,
+          "endTime": 126489,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 126489,
+          "endTime": 127125,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 127120,
+      "endTime": 129838,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 127125,
+          "endTime": 128219,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 128219,
+          "endTime": 128574,
+          "word": "main"
+        },
+        {
+          "startTime": 128574,
+          "endTime": 129160,
+          "word": "kya"
+        },
+        {
+          "startTime": 129160,
+          "endTime": 129838,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 129910,
+      "endTime": 132798,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 129912,
+          "endTime": 130390,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 130390,
+          "endTime": 131014,
+          "word": "main"
+        },
+        {
+          "startTime": 131014,
+          "endTime": 131427,
+          "word": "Rab"
+        },
+        {
+          "startTime": 131427,
+          "endTime": 132114,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 132114,
+          "endTime": 132798,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 132790,
+      "endTime": 135564,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 132798,
+          "endTime": 133867,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 133867,
+          "endTime": 134219,
+          "word": "main"
+        },
+        {
+          "startTime": 134219,
+          "endTime": 134750,
+          "word": "kya"
+        },
+        {
+          "startTime": 134750,
+          "endTime": 135564,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 135560,
+      "endTime": 138419,
+      "text": "Sajde sar jukhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 135564,
+          "endTime": 136637,
+          "word": "Sajde"
+        },
+        {
+          "startTime": 136637,
+          "endTime": 137028,
+          "word": "sar"
+        },
+        {
+          "startTime": 137028,
+          "endTime": 137790,
+          "word": "jukhta"
+        },
+        {
+          "startTime": 137790,
+          "endTime": 138419,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 138410,
+      "endTime": 141159,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 138419,
+          "endTime": 139402,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 139402,
+          "endTime": 139821,
+          "word": "main"
+        },
+        {
+          "startTime": 139821,
+          "endTime": 140413,
+          "word": "kya"
+        },
+        {
+          "startTime": 140413,
+          "endTime": 141159,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 141310,
+      "endTime": 144086,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 141310,
+          "endTime": 141660,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 141660,
+          "endTime": 142335,
+          "word": "main"
+        },
+        {
+          "startTime": 142335,
+          "endTime": 142727,
+          "word": "Rab"
+        },
+        {
+          "startTime": 142727,
+          "endTime": 143414,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 143414,
+          "endTime": 144086,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 144080,
+      "endTime": 148340,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144086,
+          "endTime": 145150,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 145150,
+          "endTime": 145543,
+          "word": "main"
+        },
+        {
+          "startTime": 145543,
+          "endTime": 146315,
+          "word": "kya"
+        },
+        {
+          "startTime": 146315,
+          "endTime": 148340,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 163220,
+      "endTime": 175094,
+      "text": "Rab ne bana di jodi haye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 163228,
+          "endTime": 163915,
+          "word": "Rab"
+        },
+        {
+          "startTime": 163915,
+          "endTime": 166531,
+          "word": "ne"
+        },
+        {
+          "startTime": 166531,
+          "endTime": 167243,
+          "word": "bana"
+        },
+        {
+          "startTime": 167243,
+          "endTime": 168680,
+          "word": "di"
+        },
+        {
+          "startTime": 169145,
+          "endTime": 173117,
+          "word": "jodi"
+        },
+        {
+          "startTime": 173117,
+          "endTime": 175094,
+          "word": "haye"
+        }
+      ]
+    },
+    {
+      "time": 186330,
+      "endTime": 187993,
+      "text": "Cham cham aaye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 186332,
+          "endTime": 186763,
+          "word": "Cham"
+        },
+        {
+          "startTime": 186763,
+          "endTime": 187198,
+          "word": "cham"
+        },
+        {
+          "startTime": 187198,
+          "endTime": 187993,
+          "word": "aaye"
+        }
+      ]
+    },
+    {
+      "time": 189150,
+      "endTime": 191084,
+      "text": "Mujhe tarsaye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 189153,
+          "endTime": 189658,
+          "word": "Mujhe"
+        },
+        {
+          "startTime": 189658,
+          "endTime": 191084,
+          "word": "tarsaye"
+        }
+      ]
+    },
+    {
+      "time": 191560,
+      "endTime": 196227,
+      "text": "Tera saaya chhed ke chumta",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 191564,
+          "endTime": 192078,
+          "word": "Tera"
+        },
+        {
+          "startTime": 192078,
+          "endTime": 192990,
+          "word": "saaya"
+        },
+        {
+          "startTime": 192990,
+          "endTime": 193642,
+          "word": "chhed"
+        },
+        {
+          "startTime": 193642,
+          "endTime": 194372,
+          "word": "ke"
+        },
+        {
+          "startTime": 194372,
+          "endTime": 196227,
+          "word": "chumta"
+        }
+      ]
+    },
+    {
+      "time": 196800,
+      "endTime": 199369,
+      "text": "Oh ho ho tu jo muskaye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 196807,
+          "endTime": 197234,
+          "word": "Oh"
+        },
+        {
+          "startTime": 197234,
+          "endTime": 197547,
+          "word": "ho"
+        },
+        {
+          "startTime": 197547,
+          "endTime": 197771,
+          "word": "ho"
+        },
+        {
+          "startTime": 197771,
+          "endTime": 197960,
+          "word": "tu"
+        },
+        {
+          "startTime": 197960,
+          "endTime": 198151,
+          "word": "jo"
+        },
+        {
+          "startTime": 198151,
+          "endTime": 199369,
+          "word": "muskaye"
+        }
+      ]
+    },
+    {
+      "time": 200490,
+      "endTime": 202245,
+      "text": "Tu jo sharmaye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 200499,
+          "endTime": 200782,
+          "word": "Tu"
+        },
+        {
+          "startTime": 200782,
+          "endTime": 200905,
+          "word": "jo"
+        },
+        {
+          "startTime": 200905,
+          "endTime": 202245,
+          "word": "sharmaye"
+        }
+      ]
+    },
+    {
+      "time": 202780,
+      "endTime": 207864,
+      "text": "Jaise mera hai khuda jhumta",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 202784,
+          "endTime": 203438,
+          "word": "Jaise"
+        },
+        {
+          "startTime": 203438,
+          "endTime": 204293,
+          "word": "mera"
+        },
+        {
+          "startTime": 204293,
+          "endTime": 204780,
+          "word": "hai"
+        },
+        {
+          "startTime": 204780,
+          "endTime": 205693,
+          "word": "khuda"
+        },
+        {
+          "startTime": 205693,
+          "endTime": 207864,
+          "word": "jhumta"
+        }
+      ]
+    },
+    {
+      "time": 208470,
+      "endTime": 213941,
+      "text": "Tu hi meri hai barkat tu hi meri ibadat",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 208475,
+          "endTime": 208920,
+          "word": "Tu"
+        },
+        {
+          "startTime": 208920,
+          "endTime": 209124,
+          "word": "hi"
+        },
+        {
+          "startTime": 209124,
+          "endTime": 210297,
+          "word": "meri"
+        },
+        {
+          "startTime": 210297,
+          "endTime": 210523,
+          "word": "hai"
+        },
+        {
+          "startTime": 210523,
+          "endTime": 211188,
+          "word": "barkat"
+        },
+        {
+          "startTime": 211373,
+          "endTime": 211743,
+          "word": "tu"
+        },
+        {
+          "startTime": 211743,
+          "endTime": 211894,
+          "word": "hi"
+        },
+        {
+          "startTime": 211894,
+          "endTime": 213132,
+          "word": "meri"
+        },
+        {
+          "startTime": 213132,
+          "endTime": 213941,
+          "word": "ibadat"
+        }
+      ]
+    },
+    {
+      "time": 214070,
+      "endTime": 220167,
+      "text": "Aur kuch na janu bas itna hi janu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 214075,
+          "endTime": 214792,
+          "word": "Aur"
+        },
+        {
+          "startTime": 214792,
+          "endTime": 215257,
+          "word": "kuch"
+        },
+        {
+          "startTime": 215257,
+          "endTime": 215793,
+          "word": "na"
+        },
+        {
+          "startTime": 215793,
+          "endTime": 217121,
+          "word": "janu"
+        },
+        {
+          "startTime": 217121,
+          "endTime": 217497,
+          "word": "bas"
+        },
+        {
+          "startTime": 217497,
+          "endTime": 218277,
+          "word": "itna"
+        },
+        {
+          "startTime": 218277,
+          "endTime": 218530,
+          "word": "hi"
+        },
+        {
+          "startTime": 218530,
+          "endTime": 220167,
+          "word": "janu"
+        }
+      ]
+    },
+    {
+      "time": 220210,
+      "endTime": 223128,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 220216,
+          "endTime": 220725,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 220725,
+          "endTime": 221381,
+          "word": "main"
+        },
+        {
+          "startTime": 221381,
+          "endTime": 221781,
+          "word": "Rab"
+        },
+        {
+          "startTime": 221781,
+          "endTime": 222546,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 222546,
+          "endTime": 223128,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 223120,
+      "endTime": 225881,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 223128,
+          "endTime": 224168,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 224168,
+          "endTime": 224560,
+          "word": "main"
+        },
+        {
+          "startTime": 224560,
+          "endTime": 225106,
+          "word": "kya"
+        },
+        {
+          "startTime": 225106,
+          "endTime": 225881,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 225880,
+      "endTime": 228754,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 225881,
+          "endTime": 226362,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 226362,
+          "endTime": 227030,
+          "word": "main"
+        },
+        {
+          "startTime": 227030,
+          "endTime": 227435,
+          "word": "Rab"
+        },
+        {
+          "startTime": 227435,
+          "endTime": 228133,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 228133,
+          "endTime": 228754,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 228750,
+      "endTime": 231501,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 228754,
+          "endTime": 229760,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 229760,
+          "endTime": 230238,
+          "word": "main"
+        },
+        {
+          "startTime": 230238,
+          "endTime": 230814,
+          "word": "kya"
+        },
+        {
+          "startTime": 230814,
+          "endTime": 231501,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 231500,
+      "endTime": 234378,
+      "text": "Sajde sar jukhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 231501,
+          "endTime": 232634,
+          "word": "Sajde"
+        },
+        {
+          "startTime": 232634,
+          "endTime": 233043,
+          "word": "sar"
+        },
+        {
+          "startTime": 233043,
+          "endTime": 233732,
+          "word": "jukhta"
+        },
+        {
+          "startTime": 233732,
+          "endTime": 234378,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 234370,
+      "endTime": 237187,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 234378,
+          "endTime": 235433,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 235433,
+          "endTime": 235905,
+          "word": "main"
+        },
+        {
+          "startTime": 235905,
+          "endTime": 236414,
+          "word": "kya"
+        },
+        {
+          "startTime": 236414,
+          "endTime": 237187,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 237200,
+      "endTime": 240133,
+      "text": "Tujh main Rab dikhta hai",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 237207,
+          "endTime": 237696,
+          "word": "Tujh"
+        },
+        {
+          "startTime": 237696,
+          "endTime": 238337,
+          "word": "main"
+        },
+        {
+          "startTime": 238337,
+          "endTime": 238725,
+          "word": "Rab"
+        },
+        {
+          "startTime": 238725,
+          "endTime": 239418,
+          "word": "dikhta"
+        },
+        {
+          "startTime": 239418,
+          "endTime": 240133,
+          "word": "hai"
+        }
+      ]
+    },
+    {
+      "time": 240130,
+      "endTime": 244332,
+      "text": "Yaara main kya karu",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 240133,
+          "endTime": 241094,
+          "word": "Yaara"
+        },
+        {
+          "startTime": 241094,
+          "endTime": 241496,
+          "word": "main"
+        },
+        {
+          "startTime": 241496,
+          "endTime": 242404,
+          "word": "kya"
+        },
+        {
+          "startTime": 242404,
+          "endTime": 244332,
+          "word": "karu"
+        }
+      ]
+    },
+    {
+      "time": 259290,
+      "endTime": 273647,
+      "text": "Rab ne bana di jodi haye",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 259297,
+          "endTime": 260112,
+          "word": "Rab"
+        },
+        {
+          "startTime": 260112,
+          "endTime": 262639,
+          "word": "ne"
+        },
+        {
+          "startTime": 262639,
+          "endTime": 263408,
+          "word": "bana"
+        },
+        {
+          "startTime": 263408,
+          "endTime": 264829,
+          "word": "di"
+        },
+        {
+          "startTime": 265268,
+          "endTime": 269465,
+          "word": "jodi"
+        },
+        {
+          "startTime": 269465,
+          "endTime": 273647,
+          "word": "haye"
+        }
+      ]
+    }
+  ]
+}
