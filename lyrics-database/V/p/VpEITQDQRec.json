@@ -1,0 +1,244 @@
+{
+  "videoId": "VpEITQDQRec",
+  "title": "hotline (edit)",
+  "artist": "Billie Eilish",
+  "duration": 61,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:23.680\" end=\"00:27.395\" ttm:agent=\"v1\">\n        <span begin=\"00:23.680\" end=\"00:24.011\">Late<\/span>\n        <span begin=\"00:24.011\" end=\"00:24.162\">night<\/span>\n        <span begin=\"00:24.162\" end=\"00:24.513\">when<\/span>\n        <span begin=\"00:24.513\" end=\"00:24.647\">you<\/span>\n        <span begin=\"00:24.647\" end=\"00:25.729\">need<\/span>\n        <span begin=\"00:25.729\" end=\"00:26.780\">my<\/span>\n        <span begin=\"00:26.780\" end=\"00:27.395\">love<\/span>\n      <\/p>\n      <p begin=\"00:27.890\" end=\"00:31.277\" ttm:agent=\"v1\">\n        <span begin=\"00:27.898\" end=\"00:28.180\">Call<\/span>\n        <span begin=\"00:28.180\" end=\"00:28.365\">me<\/span>\n        <span begin=\"00:28.365\" end=\"00:28.714\">on<\/span>\n        <span begin=\"00:28.714\" end=\"00:28.911\">my<\/span>\n        <span begin=\"00:28.911\" end=\"00:29.593\">cell<\/span>\n        <span begin=\"00:29.776\" end=\"00:31.277\">phone<\/span>\n      <\/p>\n      <p begin=\"00:36.330\" end=\"00:39.069\" ttm:agent=\"v1\">\n        <span begin=\"00:36.338\" end=\"00:36.736\">I<\/span>\n        <span begin=\"00:36.736\" end=\"00:36.921\">know<\/span>\n        <span begin=\"00:36.921\" end=\"00:37.287\">when<\/span>\n        <span begin=\"00:37.287\" end=\"00:37.470\">that<\/span>\n        <span begin=\"00:37.470\" end=\"00:38.137\">hotline<\/span>\n        <span begin=\"00:38.532\" end=\"00:39.069\">bling<\/span>\n      <\/p>\n      <p begin=\"00:40.670\" end=\"00:43.525\" ttm:agent=\"v1\">\n        <span begin=\"00:40.672\" end=\"00:40.974\">That<\/span>\n        <span begin=\"00:40.974\" end=\"00:41.139\">can<\/span>\n        <span begin=\"00:41.139\" end=\"00:41.656\">only<\/span>\n        <span begin=\"00:41.656\" end=\"00:42.007\">mean<\/span>\n        <span begin=\"00:42.007\" end=\"00:42.454\">one<\/span>\n        <span begin=\"00:42.541\" end=\"00:43.525\">thing<\/span>\n      <\/p>\n      <p begin=\"00:44.880\" end=\"00:47.632\" ttm:agent=\"v1\">\n        <span begin=\"00:44.882\" end=\"00:45.180\">I<\/span>\n        <span begin=\"00:45.180\" end=\"00:45.334\">know<\/span>\n        <span begin=\"00:45.334\" end=\"00:45.721\">when<\/span>\n        <span begin=\"00:45.721\" end=\"00:45.914\">that<\/span>\n        <span begin=\"00:45.914\" end=\"00:46.614\">hotline<\/span>\n        <span begin=\"00:46.767\" end=\"00:47.632\">bling<\/span>\n      <\/p>\n      <p begin=\"00:49.120\" end=\"00:52.826\" ttm:agent=\"v1\">\n        <span begin=\"00:49.125\" end=\"00:49.410\">That<\/span>\n        <span begin=\"00:49.410\" end=\"00:49.625\">can<\/span>\n        <span begin=\"00:49.625\" end=\"00:50.176\">only<\/span>\n        <span begin=\"00:50.176\" end=\"00:50.507\">mean<\/span>\n        <span begin=\"00:50.507\" end=\"00:51.059\">one<\/span>\n        <span begin=\"00:51.059\" end=\"00:52.826\">thing<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 23680,
+      "endTime": 27395,
+      "text": "Late night when you need my love",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 23680,
+          "endTime": 24011,
+          "word": "Late"
+        },
+        {
+          "startTime": 24011,
+          "endTime": 24162,
+          "word": "night"
+        },
+        {
+          "startTime": 24162,
+          "endTime": 24513,
+          "word": "when"
+        },
+        {
+          "startTime": 24513,
+          "endTime": 24647,
+          "word": "you"
+        },
+        {
+          "startTime": 24647,
+          "endTime": 25729,
+          "word": "need"
+        },
+        {
+          "startTime": 25729,
+          "endTime": 26780,
+          "word": "my"
+        },
+        {
+          "startTime": 26780,
+          "endTime": 27395,
+          "word": "love"
+        }
+      ]
+    },
+    {
+      "time": 27890,
+      "endTime": 31277,
+      "text": "Call me on my cell phone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 27898,
+          "endTime": 28180,
+          "word": "Call"
+        },
+        {
+          "startTime": 28180,
+          "endTime": 28365,
+          "word": "me"
+        },
+        {
+          "startTime": 28365,
+          "endTime": 28714,
+          "word": "on"
+        },
+        {
+          "startTime": 28714,
+          "endTime": 28911,
+          "word": "my"
+        },
+        {
+          "startTime": 28911,
+          "endTime": 29593,
+          "word": "cell"
+        },
+        {
+          "startTime": 29776,
+          "endTime": 31277,
+          "word": "phone"
+        }
+      ]
+    },
+    {
+      "time": 36330,
+      "endTime": 39069,
+      "text": "I know when that hotline bling",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 36338,
+          "endTime": 36736,
+          "word": "I"
+        },
+        {
+          "startTime": 36736,
+          "endTime": 36921,
+          "word": "know"
+        },
+        {
+          "startTime": 36921,
+          "endTime": 37287,
+          "word": "when"
+        },
+        {
+          "startTime": 37287,
+          "endTime": 37470,
+          "word": "that"
+        },
+        {
+          "startTime": 37470,
+          "endTime": 38137,
+          "word": "hotline"
+        },
+        {
+          "startTime": 38532,
+          "endTime": 39069,
+          "word": "bling"
+        }
+      ]
+    },
+    {
+      "time": 40670,
+      "endTime": 43525,
+      "text": "That can only mean one thing",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 40672,
+          "endTime": 40974,
+          "word": "That"
+        },
+        {
+          "startTime": 40974,
+          "endTime": 41139,
+          "word": "can"
+        },
+        {
+          "startTime": 41139,
+          "endTime": 41656,
+          "word": "only"
+        },
+        {
+          "startTime": 41656,
+          "endTime": 42007,
+          "word": "mean"
+        },
+        {
+          "startTime": 42007,
+          "endTime": 42454,
+          "word": "one"
+        },
+        {
+          "startTime": 42541,
+          "endTime": 43525,
+          "word": "thing"
+        }
+      ]
+    },
+    {
+      "time": 44880,
+      "endTime": 47632,
+      "text": "I know when that hotline bling",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 44882,
+          "endTime": 45180,
+          "word": "I"
+        },
+        {
+          "startTime": 45180,
+          "endTime": 45334,
+          "word": "know"
+        },
+        {
+          "startTime": 45334,
+          "endTime": 45721,
+          "word": "when"
+        },
+        {
+          "startTime": 45721,
+          "endTime": 45914,
+          "word": "that"
+        },
+        {
+          "startTime": 45914,
+          "endTime": 46614,
+          "word": "hotline"
+        },
+        {
+          "startTime": 46767,
+          "endTime": 47632,
+          "word": "bling"
+        }
+      ]
+    },
+    {
+      "time": 49120,
+      "endTime": 52826,
+      "text": "That can only mean one thing",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49125,
+          "endTime": 49410,
+          "word": "That"
+        },
+        {
+          "startTime": 49410,
+          "endTime": 49625,
+          "word": "can"
+        },
+        {
+          "startTime": 49625,
+          "endTime": 50176,
+          "word": "only"
+        },
+        {
+          "startTime": 50176,
+          "endTime": 50507,
+          "word": "mean"
+        },
+        {
+          "startTime": 50507,
+          "endTime": 51059,
+          "word": "one"
+        },
+        {
+          "startTime": 51059,
+          "endTime": 52826,
+          "word": "thing"
+        }
+      ]
+    }
+  ]
+}
