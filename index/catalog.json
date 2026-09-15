@@ -3140,6 +3140,16 @@
     "path": "lyrics-database/V/5/V5XN_kDltlE.json"
   },
   {
+    "videoId": "VpEITQDQRec",
+    "title": "hotline (edit)",
+    "artist": "Billie Eilish",
+    "duration": 61,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 6,
+    "path": "lyrics-database/V/p/VpEITQDQRec.json"
+  },
+  {
     "videoId": "V9vuCByb6js",
     "title": "Tears (Official Video)",
     "artist": "Sabrina Carpenter",
@@ -3568,6 +3578,16 @@
     "syncedType": "word",
     "linesCount": 73,
     "path": "lyrics-database/_/G/_GWKkqNoyEA.json"
+  },
+  {
+    "videoId": "_pwPm_VHWHU",
+    "title": "Honeypie",
+    "artist": "JAWNY",
+    "duration": 136,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 52,
+    "path": "lyrics-database/_/p/_pwPm_VHWHU.json"
   },
   {
     "videoId": "-60Bl9h7u5g",
