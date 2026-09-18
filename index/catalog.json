@@ -2550,6 +2550,26 @@
     "path": "lyrics-database/r/Q/rQIRVVGt-JU.json"
   },
   {
+    "videoId": "rymYToIEL9o",
+    "title": "Borderline",
+    "artist": "Tame Impala",
+    "duration": 238,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 60,
+    "path": "lyrics-database/r/y/rymYToIEL9o.json"
+  },
+  {
+    "videoId": "rXsQmkz1T7A",
+    "title": "Walking On A Dream",
+    "artist": "Empire Of The Sun",
+    "duration": 199,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 41,
+    "path": "lyrics-database/r/X/rXsQmkz1T7A.json"
+  },
+  {
     "videoId": "r_lxE7kF0Fo",
     "title": "Bol Kaffara Kya Hoga",
     "artist": "Neha Kakkar, Farhan Sabri, DJ Chetas",
@@ -4938,6 +4958,16 @@
     "syncedType": "word",
     "linesCount": 16,
     "path": "lyrics-database/n/K/nKa9QmxmFI4.json"
+  },
+  {
+    "videoId": "3wHyz7uUAO4",
+    "title": "Stereo Love",
+    "artist": "Edward Maya feat. Jigulina, Vika",
+    "duration": 321,
+    "language": "und",
+    "syncedType": "word",
+    "linesCount": 68,
+    "path": "lyrics-database/3/w/3wHyz7uUAO4.json"
   },
   {
     "videoId": "3l6P4CM_Cqg",
