@@ -1,0 +1,2156 @@
+{
+  "videoId": "b72gdhV_rXM",
+  "title": "Another One Bites The Dust",
+  "artist": "Queen",
+  "duration": 215,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:19.080\" end=\"00:20.844\" ttm:agent=\"v1\">\n        <span begin=\"00:19.084\" end=\"00:19.793\">Ooh,<\/span>\n        <span begin=\"00:20.244\" end=\"00:20.530\">let&apos;s<\/span>\n        <span begin=\"00:20.530\" end=\"00:20.844\">go<\/span>\n      <\/p>\n      <p begin=\"00:21.960\" end=\"00:24.030\" ttm:agent=\"v1\">\n        <span begin=\"00:21.966\" end=\"00:22.432\">Steve<\/span>\n        <span begin=\"00:22.432\" end=\"00:22.698\">walks<\/span>\n        <span begin=\"00:22.698\" end=\"00:23.050\">warily<\/span>\n        <span begin=\"00:23.050\" end=\"00:23.485\">down<\/span>\n        <span begin=\"00:23.485\" end=\"00:23.698\">the<\/span>\n        <span begin=\"00:23.698\" end=\"00:24.030\">street<\/span>\n      <\/p>\n      <p begin=\"00:24.030\" end=\"00:25.530\" ttm:agent=\"v1\">\n        <span begin=\"00:24.037\" end=\"00:24.280\">With<\/span>\n        <span begin=\"00:24.280\" end=\"00:24.398\">the<\/span>\n        <span begin=\"00:24.398\" end=\"00:24.648\">brim<\/span>\n        <span begin=\"00:24.648\" end=\"00:24.915\">pulled<\/span>\n        <span begin=\"00:24.915\" end=\"00:25.048\">way<\/span>\n        <span begin=\"00:25.048\" end=\"00:25.331\">down<\/span>\n        <span begin=\"00:25.331\" end=\"00:25.530\">low<\/span>\n      <\/p>\n      <p begin=\"00:26.350\" end=\"00:28.197\" ttm:agent=\"v1\">\n        <span begin=\"00:26.354\" end=\"00:26.783\">Ain&apos;t<\/span>\n        <span begin=\"00:26.783\" end=\"00:27.068\">no<\/span>\n        <span begin=\"00:27.068\" end=\"00:27.366\">sound,<\/span>\n        <span begin=\"00:27.366\" end=\"00:27.499\">but<\/span>\n        <span begin=\"00:27.499\" end=\"00:27.649\">the<\/span>\n        <span begin=\"00:27.649\" end=\"00:27.814\">sound<\/span>\n        <span begin=\"00:27.814\" end=\"00:27.947\">of<\/span>\n        <span begin=\"00:27.947\" end=\"00:28.047\">his<\/span>\n        <span begin=\"00:28.047\" end=\"00:28.197\">feet<\/span>\n      <\/p>\n      <p begin=\"00:28.440\" end=\"00:30.070\" ttm:agent=\"v1\">\n        <span begin=\"00:28.445\" end=\"00:28.963\">Machine<\/span>\n        <span begin=\"00:28.963\" end=\"00:29.265\">guns<\/span>\n        <span begin=\"00:29.265\" end=\"00:29.547\">ready<\/span>\n        <span begin=\"00:29.547\" end=\"00:29.649\">to<\/span>\n        <span begin=\"00:29.649\" end=\"00:30.070\">go<\/span>\n      <\/p>\n      <p begin=\"00:30.570\" end=\"00:32.668\" ttm:agent=\"v1\">\n        <span begin=\"00:30.574\" end=\"00:30.856\">Are<\/span>\n        <span begin=\"00:30.856\" end=\"00:30.990\">you<\/span>\n        <span begin=\"00:30.990\" end=\"00:31.272\">ready?<\/span>\n        <span begin=\"00:31.272\" end=\"00:31.580\">Hey,<\/span>\n        <span begin=\"00:31.779\" end=\"00:31.897\">are<\/span>\n        <span begin=\"00:31.897\" end=\"00:32.061\">you<\/span>\n        <span begin=\"00:32.061\" end=\"00:32.195\">ready<\/span>\n        <span begin=\"00:32.195\" end=\"00:32.345\">for<\/span>\n        <span begin=\"00:32.345\" end=\"00:32.668\">this?<\/span>\n      <\/p>\n      <p begin=\"00:32.770\" end=\"00:34.392\" ttm:agent=\"v1\">\n        <span begin=\"00:32.774\" end=\"00:32.957\">Are<\/span>\n        <span begin=\"00:32.957\" end=\"00:33.090\">you<\/span>\n        <span begin=\"00:33.090\" end=\"00:33.389\">hanging<\/span>\n        <span begin=\"00:33.389\" end=\"00:33.506\">on<\/span>\n        <span begin=\"00:33.506\" end=\"00:33.639\">the<\/span>\n        <span begin=\"00:33.639\" end=\"00:33.807\">edge<\/span>\n        <span begin=\"00:33.807\" end=\"00:33.941\">of<\/span>\n        <span begin=\"00:33.941\" end=\"00:34.074\">your<\/span>\n        <span begin=\"00:34.074\" end=\"00:34.392\">seat?<\/span>\n      <\/p>\n      <p begin=\"00:35.110\" end=\"00:37.205\" ttm:agent=\"v1\">\n        <span begin=\"00:35.112\" end=\"00:35.427\">Out<\/span>\n        <span begin=\"00:35.427\" end=\"00:35.570\">of<\/span>\n        <span begin=\"00:35.570\" end=\"00:35.695\">the<\/span>\n        <span begin=\"00:35.695\" end=\"00:36.189\">doorway,<\/span>\n        <span begin=\"00:36.189\" end=\"00:36.341\">the<\/span>\n        <span begin=\"00:36.341\" end=\"00:36.823\">bullets<\/span>\n        <span begin=\"00:36.823\" end=\"00:37.205\">rip<\/span>\n      <\/p>\n      <p begin=\"00:37.720\" end=\"00:39.556\" ttm:agent=\"v1\">\n        <span begin=\"00:37.722\" end=\"00:37.880\">To<\/span>\n        <span begin=\"00:37.880\" end=\"00:38.013\">the<\/span>\n        <span begin=\"00:38.013\" end=\"00:38.163\">sound<\/span>\n        <span begin=\"00:38.163\" end=\"00:38.280\">of<\/span>\n        <span begin=\"00:38.280\" end=\"00:38.413\">the<\/span>\n        <span begin=\"00:38.413\" end=\"00:38.648\">beat,<\/span>\n        <span begin=\"00:38.648\" end=\"00:39.556\">yeah<\/span>\n      <\/p>\n      <p begin=\"00:41.580\" end=\"00:43.278\" ttm:agent=\"v1\">\n        <span begin=\"00:41.583\" end=\"00:42.073\">Another<\/span>\n        <span begin=\"00:42.073\" end=\"00:42.340\">one<\/span>\n        <span begin=\"00:42.340\" end=\"00:42.623\">bites<\/span>\n        <span begin=\"00:42.623\" end=\"00:42.756\">the<\/span>\n        <span begin=\"00:42.756\" end=\"00:43.278\">dust<\/span>\n      <\/p>\n      <p begin=\"00:45.890\" end=\"00:47.591\" ttm:agent=\"v1\">\n        <span begin=\"00:45.899\" end=\"00:46.425\">Another<\/span>\n        <span begin=\"00:46.425\" end=\"00:46.691\">one<\/span>\n        <span begin=\"00:46.691\" end=\"00:46.993\">bites<\/span>\n        <span begin=\"00:46.993\" end=\"00:47.110\">the<\/span>\n        <span begin=\"00:47.110\" end=\"00:47.591\">dust<\/span>\n      <\/p>\n      <p begin=\"00:47.920\" end=\"00:49.168\" ttm:agent=\"v1\">\n        <span begin=\"00:47.928\" end=\"00:48.211\">And<\/span>\n        <span begin=\"00:48.211\" end=\"00:48.592\">another<\/span>\n        <span begin=\"00:48.592\" end=\"00:48.944\">one<\/span>\n        <span begin=\"00:48.944\" end=\"00:49.168\">gone<\/span>\n      <\/p>\n      <p begin=\"00:49.150\" end=\"00:50.415\" ttm:agent=\"v1\">\n        <span begin=\"00:49.151\" end=\"00:49.410\">And<\/span>\n        <span begin=\"00:49.410\" end=\"00:49.677\">another<\/span>\n        <span begin=\"00:49.677\" end=\"00:49.960\">one<\/span>\n        <span begin=\"00:49.960\" end=\"00:50.415\">gone<\/span>\n      <\/p>\n      <p begin=\"00:50.420\" end=\"00:52.321\" ttm:agent=\"v1\">\n        <span begin=\"00:50.425\" end=\"00:50.795\">Another<\/span>\n        <span begin=\"00:50.795\" end=\"00:51.078\">one<\/span>\n        <span begin=\"00:51.078\" end=\"00:51.360\">bites<\/span>\n        <span begin=\"00:51.360\" end=\"00:51.512\">the<\/span>\n        <span begin=\"00:51.512\" end=\"00:51.744\">dust,<\/span>\n        <span begin=\"00:51.744\" end=\"00:52.321\">yeah<\/span>\n      <\/p>\n      <p begin=\"00:52.670\" end=\"00:54.612\" ttm:agent=\"v1\">\n        <span begin=\"00:52.679\" end=\"00:53.012\">Hey,<\/span>\n        <span begin=\"00:53.443\" end=\"00:53.609\">I&apos;m<\/span>\n        <span begin=\"00:53.609\" end=\"00:53.825\">gonna<\/span>\n        <span begin=\"00:53.825\" end=\"00:54.091\">get<\/span>\n        <span begin=\"00:54.091\" end=\"00:54.358\">you<\/span>\n        <span begin=\"00:54.358\" end=\"00:54.612\">too<\/span>\n      <\/p>\n      <p begin=\"00:54.710\" end=\"00:56.362\" ttm:agent=\"v1\">\n        <span begin=\"00:54.718\" end=\"00:55.157\">Another<\/span>\n        <span begin=\"00:55.157\" end=\"00:55.408\">one<\/span>\n        <span begin=\"00:55.408\" end=\"00:55.707\">bites<\/span>\n        <span begin=\"00:55.707\" end=\"00:55.824\">the<\/span>\n        <span begin=\"00:55.824\" end=\"00:56.362\">dust<\/span>\n      <\/p>\n      <p begin=\"01:05.650\" end=\"01:07.807\" ttm:agent=\"v1\">\n        <span begin=\"01:05.651\" end=\"01:05.943\">How<\/span>\n        <span begin=\"01:05.943\" end=\"01:06.043\">do<\/span>\n        <span begin=\"01:06.043\" end=\"01:06.210\">you<\/span>\n        <span begin=\"01:06.210\" end=\"01:06.490\">think<\/span>\n        <span begin=\"01:06.490\" end=\"01:06.615\">I&apos;m<\/span>\n        <span begin=\"01:06.615\" end=\"01:06.883\">gonna<\/span>\n        <span begin=\"01:06.883\" end=\"01:07.043\">get<\/span>\n        <span begin=\"01:07.043\" end=\"01:07.807\">along<\/span>\n      <\/p>\n      <p begin=\"01:07.900\" end=\"01:09.384\" ttm:agent=\"v1\">\n        <span begin=\"01:07.901\" end=\"01:08.264\">Without<\/span>\n        <span begin=\"01:08.264\" end=\"01:08.490\">you<\/span>\n        <span begin=\"01:08.490\" end=\"01:08.692\">when<\/span>\n        <span begin=\"01:08.692\" end=\"01:08.924\">you&apos;re<\/span>\n        <span begin=\"01:08.924\" end=\"01:09.384\">gone?<\/span>\n      <\/p>\n      <p begin=\"01:10.060\" end=\"01:12.105\" ttm:agent=\"v1\">\n        <span begin=\"01:10.068\" end=\"01:10.257\">You<\/span>\n        <span begin=\"01:10.257\" end=\"01:10.441\">took<\/span>\n        <span begin=\"01:10.441\" end=\"01:10.609\">me<\/span>\n        <span begin=\"01:10.609\" end=\"01:10.758\">for<\/span>\n        <span begin=\"01:10.758\" end=\"01:11.357\">everything<\/span>\n        <span begin=\"01:11.357\" end=\"01:11.491\">that<\/span>\n        <span begin=\"01:11.491\" end=\"01:11.773\">I<\/span>\n        <span begin=\"01:11.773\" end=\"01:12.105\">had<\/span>\n      <\/p>\n      <p begin=\"01:12.100\" end=\"01:13.762\" ttm:agent=\"v1\">\n        <span begin=\"01:12.105\" end=\"01:12.374\">And<\/span>\n        <span begin=\"01:12.374\" end=\"01:12.625\">kicked<\/span>\n        <span begin=\"01:12.625\" end=\"01:12.926\">me<\/span>\n        <span begin=\"01:12.926\" end=\"01:13.109\">out<\/span>\n        <span begin=\"01:13.109\" end=\"01:13.209\">on<\/span>\n        <span begin=\"01:13.209\" end=\"01:13.409\">my<\/span>\n        <span begin=\"01:13.409\" end=\"01:13.762\">own<\/span>\n      <\/p>\n      <p begin=\"01:14.030\" end=\"01:16.452\" ttm:agent=\"v1\">\n        <span begin=\"01:14.034\" end=\"01:14.395\">Are<\/span>\n        <span begin=\"01:14.395\" end=\"01:14.529\">you<\/span>\n        <span begin=\"01:14.529\" end=\"01:15.233\">happy?<\/span>\n        <span begin=\"01:15.379\" end=\"01:15.563\">Are<\/span>\n        <span begin=\"01:15.563\" end=\"01:15.697\">you<\/span>\n        <span begin=\"01:15.697\" end=\"01:16.452\">satisfied?<\/span>\n      <\/p>\n      <p begin=\"01:16.460\" end=\"01:18.058\" ttm:agent=\"v1\">\n        <span begin=\"01:16.463\" end=\"01:16.747\">How<\/span>\n        <span begin=\"01:16.747\" end=\"01:17.014\">long<\/span>\n        <span begin=\"01:17.014\" end=\"01:17.146\">can<\/span>\n        <span begin=\"01:17.146\" end=\"01:17.281\">you<\/span>\n        <span begin=\"01:17.281\" end=\"01:17.563\">stand<\/span>\n        <span begin=\"01:17.563\" end=\"01:17.664\">the<\/span>\n        <span begin=\"01:17.664\" end=\"01:18.058\">heat?<\/span>\n      <\/p>\n      <p begin=\"01:18.740\" end=\"01:20.775\" ttm:agent=\"v1\">\n        <span begin=\"01:18.741\" end=\"01:19.065\">Out<\/span>\n        <span begin=\"01:19.065\" end=\"01:19.198\">of<\/span>\n        <span begin=\"01:19.198\" end=\"01:19.347\">the<\/span>\n        <span begin=\"01:19.347\" end=\"01:19.899\">doorway,<\/span>\n        <span begin=\"01:19.899\" end=\"01:20.014\">the<\/span>\n        <span begin=\"01:20.014\" end=\"01:20.451\">bullets<\/span>\n        <span begin=\"01:20.451\" end=\"01:20.775\">rip<\/span>\n      <\/p>\n      <p begin=\"01:21.280\" end=\"01:23.352\" ttm:agent=\"v1\">\n        <span begin=\"01:21.288\" end=\"01:21.533\">To<\/span>\n        <span begin=\"01:21.533\" end=\"01:21.683\">the<\/span>\n        <span begin=\"01:21.683\" end=\"01:21.816\">sound<\/span>\n        <span begin=\"01:21.816\" end=\"01:21.950\">of<\/span>\n        <span begin=\"01:21.950\" end=\"01:22.064\">the<\/span>\n        <span begin=\"01:22.064\" end=\"01:22.344\">beat,<\/span>\n        <span begin=\"01:22.750\" end=\"01:22.867\">look<\/span>\n        <span begin=\"01:22.867\" end=\"01:23.352\">out<\/span>\n      <\/p>\n      <p begin=\"01:25.240\" end=\"01:26.945\" ttm:agent=\"v1\">\n        <span begin=\"01:25.240\" end=\"01:25.710\">Another<\/span>\n        <span begin=\"01:25.710\" end=\"01:25.993\">one<\/span>\n        <span begin=\"01:25.993\" end=\"01:26.277\">bites<\/span>\n        <span begin=\"01:26.277\" end=\"01:26.408\">the<\/span>\n        <span begin=\"01:26.408\" end=\"01:26.945\">dust<\/span>\n      <\/p>\n      <p begin=\"01:29.570\" end=\"01:31.325\" ttm:agent=\"v1\">\n        <span begin=\"01:29.571\" end=\"01:30.078\">Another<\/span>\n        <span begin=\"01:30.078\" end=\"01:30.361\">one<\/span>\n        <span begin=\"01:30.361\" end=\"01:30.627\">bites<\/span>\n        <span begin=\"01:30.627\" end=\"01:30.761\">the<\/span>\n        <span begin=\"01:30.761\" end=\"01:31.325\">dust<\/span>\n      <\/p>\n      <p begin=\"01:31.570\" end=\"01:32.797\" ttm:agent=\"v1\">\n        <span begin=\"01:31.573\" end=\"01:31.942\">And<\/span>\n        <span begin=\"01:31.942\" end=\"01:32.276\">another<\/span>\n        <span begin=\"01:32.276\" end=\"01:32.542\">one<\/span>\n        <span begin=\"01:32.542\" end=\"01:32.797\">gone<\/span>\n      <\/p>\n      <p begin=\"01:32.800\" end=\"01:34.023\" ttm:agent=\"v1\">\n        <span begin=\"01:32.807\" end=\"01:33.075\">And<\/span>\n        <span begin=\"01:33.075\" end=\"01:33.342\">another<\/span>\n        <span begin=\"01:33.342\" end=\"01:33.643\">one<\/span>\n        <span begin=\"01:33.643\" end=\"01:34.023\">gone<\/span>\n      <\/p>\n      <p begin=\"01:34.030\" end=\"01:35.752\" ttm:agent=\"v1\">\n        <span begin=\"01:34.032\" end=\"01:34.459\">Another<\/span>\n        <span begin=\"01:34.459\" end=\"01:34.741\">one<\/span>\n        <span begin=\"01:34.741\" end=\"01:35.027\">bites<\/span>\n        <span begin=\"01:35.027\" end=\"01:35.160\">the<\/span>\n        <span begin=\"01:35.160\" end=\"01:35.752\">dust<\/span>\n      <\/p>\n      <p begin=\"01:36.260\" end=\"01:38.378\" ttm:agent=\"v1\">\n        <span begin=\"01:36.261\" end=\"01:36.634\">Hey,<\/span>\n        <span begin=\"01:37.112\" end=\"01:37.246\">I&apos;m<\/span>\n        <span begin=\"01:37.246\" end=\"01:37.479\">gonna<\/span>\n        <span begin=\"01:37.479\" end=\"01:37.747\">get<\/span>\n        <span begin=\"01:37.747\" end=\"01:38.030\">you<\/span>\n        <span begin=\"01:38.030\" end=\"01:38.378\">too<\/span>\n      <\/p>\n      <p begin=\"01:38.450\" end=\"01:40.003\" ttm:agent=\"v1\">\n        <span begin=\"01:38.455\" end=\"01:38.829\">Another<\/span>\n        <span begin=\"01:38.829\" end=\"01:39.095\">one<\/span>\n        <span begin=\"01:39.095\" end=\"01:39.396\">bites<\/span>\n        <span begin=\"01:39.396\" end=\"01:39.594\">the<\/span>\n        <span begin=\"01:39.594\" end=\"01:40.003\">dust<\/span>\n      <\/p>\n      <p begin=\"01:44.810\" end=\"01:45.289\" ttm:agent=\"v1\">\n        <span begin=\"01:44.817\" end=\"01:45.289\">Hey<\/span>\n      <\/p>\n      <p begin=\"01:52.960\" end=\"01:54.318\" ttm:agent=\"v1\">\n        <span begin=\"01:52.966\" end=\"01:53.822\">Oh,<\/span>\n        <span begin=\"01:53.822\" end=\"01:53.972\">take<\/span>\n        <span begin=\"01:53.972\" end=\"01:54.318\">it<\/span>\n      <\/p>\n      <p begin=\"01:55.450\" end=\"01:56.360\" ttm:agent=\"v1\">\n        <span begin=\"01:55.459\" end=\"01:55.776\">Bite<\/span>\n        <span begin=\"01:55.776\" end=\"01:55.908\">the<\/span>\n        <span begin=\"01:55.908\" end=\"01:56.360\">dust<\/span>\n      <\/p>\n      <p begin=\"01:57.620\" end=\"01:58.820\" ttm:agent=\"v1\">\n        <span begin=\"01:57.625\" end=\"01:57.967\">Bite<\/span>\n        <span begin=\"01:57.967\" end=\"01:58.116\">the<\/span>\n        <span begin=\"01:58.116\" end=\"01:58.366\">dust,<\/span>\n        <span begin=\"01:58.366\" end=\"01:58.820\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:16.980\" end=\"02:17.700\" ttm:agent=\"v1\">\n        <span begin=\"02:16.980\" end=\"02:17.700\">Hey<\/span>\n      <\/p>\n      <p begin=\"02:19.820\" end=\"02:21.426\" ttm:agent=\"v1\">\n        <span begin=\"02:19.829\" end=\"02:20.305\">Another<\/span>\n        <span begin=\"02:20.305\" end=\"02:20.603\">one<\/span>\n        <span begin=\"02:20.603\" end=\"02:20.886\">bites<\/span>\n        <span begin=\"02:20.886\" end=\"02:21.019\">the<\/span>\n        <span begin=\"02:21.019\" end=\"02:21.426\">dust<\/span>\n      <\/p>\n      <p begin=\"02:22.060\" end=\"02:24.040\" ttm:agent=\"v1\">\n        <span begin=\"02:22.062\" end=\"02:22.527\">Another<\/span>\n        <span begin=\"02:22.527\" end=\"02:22.793\">one<\/span>\n        <span begin=\"02:22.793\" end=\"02:23.044\">bites<\/span>\n        <span begin=\"02:23.044\" end=\"02:23.177\">the<\/span>\n        <span begin=\"02:23.177\" end=\"02:23.511\">dust,<\/span>\n        <span begin=\"02:23.511\" end=\"02:24.040\">ow<\/span>\n      <\/p>\n      <p begin=\"02:24.270\" end=\"02:26.185\" ttm:agent=\"v1\">\n        <span begin=\"02:24.274\" end=\"02:24.676\">Another<\/span>\n        <span begin=\"02:24.676\" end=\"02:24.959\">one<\/span>\n        <span begin=\"02:24.959\" end=\"02:25.241\">bites<\/span>\n        <span begin=\"02:25.241\" end=\"02:25.375\">the<\/span>\n        <span begin=\"02:25.375\" end=\"02:25.657\">dust,<\/span>\n        <span begin=\"02:25.657\" end=\"02:25.924\">hey,<\/span>\n        <span begin=\"02:25.924\" end=\"02:26.185\">hey<\/span>\n      <\/p>\n      <p begin=\"02:26.450\" end=\"02:33.042\" ttm:agent=\"v1\">\n        <span begin=\"02:26.453\" end=\"02:26.913\">Another<\/span>\n        <span begin=\"02:26.913\" end=\"02:27.147\">one<\/span>\n        <span begin=\"02:27.147\" end=\"02:27.430\">bites<\/span>\n        <span begin=\"02:27.430\" end=\"02:27.563\">the<\/span>\n        <span begin=\"02:27.563\" end=\"02:27.846\">dust,<\/span>\n        <span begin=\"02:27.846\" end=\"02:33.042\">hey<\/span>\n      <\/p>\n      <p begin=\"02:33.980\" end=\"02:36.095\" ttm:agent=\"v1\">\n        <span begin=\"02:33.983\" end=\"02:34.965\">Ooh,<\/span>\n        <span begin=\"02:34.965\" end=\"02:35.453\">shoot<\/span>\n        <span begin=\"02:35.453\" end=\"02:36.095\">out<\/span>\n      <\/p>\n      <p begin=\"02:37.150\" end=\"02:39.466\" ttm:agent=\"v1\">\n        <span begin=\"02:37.156\" end=\"02:37.349\">There<\/span>\n        <span begin=\"02:37.349\" end=\"02:37.499\">are<\/span>\n        <span begin=\"02:37.499\" end=\"02:37.781\">plenty<\/span>\n        <span begin=\"02:37.781\" end=\"02:37.899\">of<\/span>\n        <span begin=\"02:37.899\" end=\"02:38.245\">ways<\/span>\n        <span begin=\"02:38.245\" end=\"02:38.370\">that<\/span>\n        <span begin=\"02:38.370\" end=\"02:38.471\">you<\/span>\n        <span begin=\"02:38.471\" end=\"02:38.626\">can<\/span>\n        <span begin=\"02:38.626\" end=\"02:38.923\">hurt<\/span>\n        <span begin=\"02:38.923\" end=\"02:39.048\">a<\/span>\n        <span begin=\"02:39.048\" end=\"02:39.466\">man<\/span>\n      <\/p>\n      <p begin=\"02:39.470\" end=\"02:41.119\" ttm:agent=\"v1\">\n        <span begin=\"02:39.476\" end=\"02:39.683\">And<\/span>\n        <span begin=\"02:39.683\" end=\"02:39.934\">bring<\/span>\n        <span begin=\"02:39.934\" end=\"02:40.216\">him<\/span>\n        <span begin=\"02:40.216\" end=\"02:40.515\">to<\/span>\n        <span begin=\"02:40.515\" end=\"02:40.616\">the<\/span>\n        <span begin=\"02:40.616\" end=\"02:41.119\">ground<\/span>\n      <\/p>\n      <p begin=\"02:41.480\" end=\"02:42.713\" ttm:agent=\"v1\">\n        <span begin=\"02:41.489\" end=\"02:41.723\">You<\/span>\n        <span begin=\"02:41.723\" end=\"02:41.872\">can<\/span>\n        <span begin=\"02:41.872\" end=\"02:42.097\">beat<\/span>\n        <span begin=\"02:42.097\" end=\"02:42.246\">him,<\/span>\n        <span begin=\"02:42.246\" end=\"02:42.382\">you<\/span>\n        <span begin=\"02:42.382\" end=\"02:42.513\">can<\/span>\n        <span begin=\"02:42.513\" end=\"02:42.613\">cheat<\/span>\n        <span begin=\"02:42.613\" end=\"02:42.713\">him<\/span>\n      <\/p>\n      <p begin=\"02:42.670\" end=\"02:45.843\" ttm:agent=\"v1\">\n        <span begin=\"02:42.675\" end=\"02:42.836\">You<\/span>\n        <span begin=\"02:42.836\" end=\"02:42.985\">can<\/span>\n        <span begin=\"02:42.985\" end=\"02:43.102\">treat<\/span>\n        <span begin=\"02:43.102\" end=\"02:43.334\">him<\/span>\n        <span begin=\"02:43.334\" end=\"02:43.803\">bad<\/span>\n        <span begin=\"02:43.803\" end=\"02:44.070\">and<\/span>\n        <span begin=\"02:44.070\" end=\"02:44.337\">leave<\/span>\n        <span begin=\"02:44.337\" end=\"02:44.619\">him<\/span>\n        <span begin=\"02:44.619\" end=\"02:44.785\">when<\/span>\n        <span begin=\"02:44.785\" end=\"02:45.003\">he&apos;s<\/span>\n        <span begin=\"02:45.003\" end=\"02:45.401\">down,<\/span>\n        <span begin=\"02:45.401\" end=\"02:45.843\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:45.910\" end=\"02:48.090\" ttm:agent=\"v1\">\n        <span begin=\"02:45.914\" end=\"02:46.094\">But<\/span>\n        <span begin=\"02:46.094\" end=\"02:46.289\">I&apos;m<\/span>\n        <span begin=\"02:46.289\" end=\"02:47.128\">ready,<\/span>\n        <span begin=\"02:47.128\" end=\"02:47.305\">yes,<\/span>\n        <span begin=\"02:47.305\" end=\"02:47.406\">I&apos;m<\/span>\n        <span begin=\"02:47.406\" end=\"02:47.687\">ready<\/span>\n        <span begin=\"02:47.687\" end=\"02:47.824\">for<\/span>\n        <span begin=\"02:47.824\" end=\"02:48.090\">you<\/span>\n      <\/p>\n      <p begin=\"02:48.100\" end=\"02:49.963\" ttm:agent=\"v1\">\n        <span begin=\"02:48.102\" end=\"02:48.415\">I&apos;m<\/span>\n        <span begin=\"02:48.415\" end=\"02:48.786\">standing<\/span>\n        <span begin=\"02:48.786\" end=\"02:48.929\">on<\/span>\n        <span begin=\"02:48.929\" end=\"02:49.042\">my<\/span>\n        <span begin=\"02:49.042\" end=\"02:49.149\">own<\/span>\n        <span begin=\"02:49.149\" end=\"02:49.304\">two<\/span>\n        <span begin=\"02:49.304\" end=\"02:49.963\">feet<\/span>\n      <\/p>\n      <p begin=\"02:50.500\" end=\"02:52.424\" ttm:agent=\"v1\">\n        <span begin=\"02:50.507\" end=\"02:50.763\">Out<\/span>\n        <span begin=\"02:50.763\" end=\"02:50.896\">of<\/span>\n        <span begin=\"02:50.896\" end=\"02:51.029\">the<\/span>\n        <span begin=\"02:51.029\" end=\"02:51.579\">doorway,<\/span>\n        <span begin=\"02:51.579\" end=\"02:51.712\">the<\/span>\n        <span begin=\"02:51.712\" end=\"02:52.096\">bullets<\/span>\n        <span begin=\"02:52.096\" end=\"02:52.424\">rip<\/span>\n      <\/p>\n      <p begin=\"02:52.510\" end=\"02:53.987\" ttm:agent=\"v1\">\n        <span begin=\"02:52.517\" end=\"02:53.014\">Repeating<\/span>\n        <span begin=\"02:53.014\" end=\"02:53.147\">to<\/span>\n        <span begin=\"02:53.147\" end=\"02:53.280\">the<\/span>\n        <span begin=\"02:53.280\" end=\"02:53.462\">sound<\/span>\n        <span begin=\"02:53.462\" end=\"02:53.579\">of<\/span>\n        <span begin=\"02:53.579\" end=\"02:53.737\">the<\/span>\n        <span begin=\"02:53.737\" end=\"02:53.987\">beat<\/span>\n      <\/p>\n      <p begin=\"02:53.990\" end=\"02:56.406\" ttm:agent=\"v1\">\n        <span begin=\"02:53.994\" end=\"02:54.913\">Oh,<\/span>\n        <span begin=\"02:54.913\" end=\"02:56.406\">yeah<\/span>\n      <\/p>\n      <p begin=\"02:56.940\" end=\"02:58.680\" ttm:agent=\"v1\">\n        <span begin=\"02:56.940\" end=\"02:57.422\">Another<\/span>\n        <span begin=\"02:57.422\" end=\"02:57.688\">one<\/span>\n        <span begin=\"02:57.688\" end=\"02:57.971\">bites<\/span>\n        <span begin=\"02:57.971\" end=\"02:58.103\">the<\/span>\n        <span begin=\"02:58.103\" end=\"02:58.680\">dust<\/span>\n      <\/p>\n      <p begin=\"03:01.240\" end=\"03:03.073\" ttm:agent=\"v1\">\n        <span begin=\"03:01.241\" end=\"03:01.774\">Another<\/span>\n        <span begin=\"03:01.774\" end=\"03:02.086\">one<\/span>\n        <span begin=\"03:02.086\" end=\"03:02.359\">bites<\/span>\n        <span begin=\"03:02.359\" end=\"03:02.508\">the<\/span>\n        <span begin=\"03:02.508\" end=\"03:03.073\">dust<\/span>\n      <\/p>\n      <p begin=\"03:03.210\" end=\"03:04.512\" ttm:agent=\"v1\">\n        <span begin=\"03:03.212\" end=\"03:03.630\">And<\/span>\n        <span begin=\"03:03.630\" end=\"03:03.929\">another<\/span>\n        <span begin=\"03:03.929\" end=\"03:04.211\">one<\/span>\n        <span begin=\"03:04.211\" end=\"03:04.512\">gone<\/span>\n      <\/p>\n      <p begin=\"03:04.520\" end=\"03:05.715\" ttm:agent=\"v1\">\n        <span begin=\"03:04.523\" end=\"03:04.777\">And<\/span>\n        <span begin=\"03:04.777\" end=\"03:05.043\">another<\/span>\n        <span begin=\"03:05.043\" end=\"03:05.326\">one<\/span>\n        <span begin=\"03:05.326\" end=\"03:05.715\">gone<\/span>\n      <\/p>\n      <p begin=\"03:05.720\" end=\"03:08.064\" ttm:agent=\"v1\">\n        <span begin=\"03:05.723\" end=\"03:06.078\">Another<\/span>\n        <span begin=\"03:06.078\" end=\"03:06.395\">one<\/span>\n        <span begin=\"03:06.395\" end=\"03:06.710\">bites<\/span>\n        <span begin=\"03:06.710\" end=\"03:06.862\">the<\/span>\n        <span begin=\"03:06.862\" end=\"03:07.141\">dust,<\/span>\n        <span begin=\"03:07.141\" end=\"03:08.064\">yeah<\/span>\n      <\/p>\n      <p begin=\"03:07.980\" end=\"03:10.191\" ttm:agent=\"v1\">\n        <span begin=\"03:07.983\" end=\"03:08.380\">Hey,<\/span>\n        <span begin=\"03:08.833\" end=\"03:09.001\">I&apos;m<\/span>\n        <span begin=\"03:09.001\" end=\"03:09.216\">gonna<\/span>\n        <span begin=\"03:09.216\" end=\"03:09.382\">get<\/span>\n        <span begin=\"03:09.382\" end=\"03:09.639\">you<\/span>\n        <span begin=\"03:09.639\" end=\"03:10.191\">too<\/span>\n      <\/p>\n      <p begin=\"03:10.200\" end=\"03:11.720\" ttm:agent=\"v1\">\n        <span begin=\"03:10.200\" end=\"03:10.547\">Another<\/span>\n        <span begin=\"03:10.547\" end=\"03:10.813\">one<\/span>\n        <span begin=\"03:10.813\" end=\"03:11.080\">bites<\/span>\n        <span begin=\"03:11.080\" end=\"03:11.213\">the<\/span>\n        <span begin=\"03:11.213\" end=\"03:11.720\">dust<\/span>\n      <\/p>\n      <p begin=\"03:13.100\" end=\"03:14.120\" ttm:agent=\"v1\">\n        <span begin=\"03:13.107\" end=\"03:13.387\">Shoot<\/span>\n        <span begin=\"03:13.387\" end=\"03:14.120\">out<\/span>\n      <\/p>\n      <p begin=\"03:16.260\" end=\"03:17.591\" ttm:agent=\"v1\">\n        <span begin=\"03:16.268\" end=\"03:17.591\">Hey<\/span>\n      <\/p>\n      <p begin=\"03:20.230\" end=\"03:21.775\" ttm:agent=\"v1\">\n        <span begin=\"03:20.235\" end=\"03:21.775\">Alright<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 19080,
+      "endTime": 20844,
+      "text": "Ooh, let's go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 19084,
+          "endTime": 19793,
+          "word": "Ooh,"
+        },
+        {
+          "startTime": 20244,
+          "endTime": 20530,
+          "word": "let's"
+        },
+        {
+          "startTime": 20530,
+          "endTime": 20844,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 21960,
+      "endTime": 24030,
+      "text": "Steve walks warily down the street",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 21966,
+          "endTime": 22432,
+          "word": "Steve"
+        },
+        {
+          "startTime": 22432,
+          "endTime": 22698,
+          "word": "walks"
+        },
+        {
+          "startTime": 22698,
+          "endTime": 23050,
+          "word": "warily"
+        },
+        {
+          "startTime": 23050,
+          "endTime": 23485,
+          "word": "down"
+        },
+        {
+          "startTime": 23485,
+          "endTime": 23698,
+          "word": "the"
+        },
+        {
+          "startTime": 23698,
+          "endTime": 24030,
+          "word": "street"
+        }
+      ]
+    },
+    {
+      "time": 24030,
+      "endTime": 25530,
+      "text": "With the brim pulled way down low",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24037,
+          "endTime": 24280,
+          "word": "With"
+        },
+        {
+          "startTime": 24280,
+          "endTime": 24398,
+          "word": "the"
+        },
+        {
+          "startTime": 24398,
+          "endTime": 24648,
+          "word": "brim"
+        },
+        {
+          "startTime": 24648,
+          "endTime": 24915,
+          "word": "pulled"
+        },
+        {
+          "startTime": 24915,
+          "endTime": 25048,
+          "word": "way"
+        },
+        {
+          "startTime": 25048,
+          "endTime": 25331,
+          "word": "down"
+        },
+        {
+          "startTime": 25331,
+          "endTime": 25530,
+          "word": "low"
+        }
+      ]
+    },
+    {
+      "time": 26350,
+      "endTime": 28197,
+      "text": "Ain't no sound, but the sound of his feet",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 26354,
+          "endTime": 26783,
+          "word": "Ain't"
+        },
+        {
+          "startTime": 26783,
+          "endTime": 27068,
+          "word": "no"
+        },
+        {
+          "startTime": 27068,
+          "endTime": 27366,
+          "word": "sound,"
+        },
+        {
+          "startTime": 27366,
+          "endTime": 27499,
+          "word": "but"
+        },
+        {
+          "startTime": 27499,
+          "endTime": 27649,
+          "word": "the"
+        },
+        {
+          "startTime": 27649,
+          "endTime": 27814,
+          "word": "sound"
+        },
+        {
+          "startTime": 27814,
+          "endTime": 27947,
+          "word": "of"
+        },
+        {
+          "startTime": 27947,
+          "endTime": 28047,
+          "word": "his"
+        },
+        {
+          "startTime": 28047,
+          "endTime": 28197,
+          "word": "feet"
+        }
+      ]
+    },
+    {
+      "time": 28440,
+      "endTime": 30070,
+      "text": "Machine guns ready to go",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 28445,
+          "endTime": 28963,
+          "word": "Machine"
+        },
+        {
+          "startTime": 28963,
+          "endTime": 29265,
+          "word": "guns"
+        },
+        {
+          "startTime": 29265,
+          "endTime": 29547,
+          "word": "ready"
+        },
+        {
+          "startTime": 29547,
+          "endTime": 29649,
+          "word": "to"
+        },
+        {
+          "startTime": 29649,
+          "endTime": 30070,
+          "word": "go"
+        }
+      ]
+    },
+    {
+      "time": 30570,
+      "endTime": 32668,
+      "text": "Are you ready? Hey, are you ready for this?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 30574,
+          "endTime": 30856,
+          "word": "Are"
+        },
+        {
+          "startTime": 30856,
+          "endTime": 30990,
+          "word": "you"
+        },
+        {
+          "startTime": 30990,
+          "endTime": 31272,
+          "word": "ready?"
+        },
+        {
+          "startTime": 31272,
+          "endTime": 31580,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 31779,
+          "endTime": 31897,
+          "word": "are"
+        },
+        {
+          "startTime": 31897,
+          "endTime": 32061,
+          "word": "you"
+        },
+        {
+          "startTime": 32061,
+          "endTime": 32195,
+          "word": "ready"
+        },
+        {
+          "startTime": 32195,
+          "endTime": 32345,
+          "word": "for"
+        },
+        {
+          "startTime": 32345,
+          "endTime": 32668,
+          "word": "this?"
+        }
+      ]
+    },
+    {
+      "time": 32770,
+      "endTime": 34392,
+      "text": "Are you hanging on the edge of your seat?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 32774,
+          "endTime": 32957,
+          "word": "Are"
+        },
+        {
+          "startTime": 32957,
+          "endTime": 33090,
+          "word": "you"
+        },
+        {
+          "startTime": 33090,
+          "endTime": 33389,
+          "word": "hanging"
+        },
+        {
+          "startTime": 33389,
+          "endTime": 33506,
+          "word": "on"
+        },
+        {
+          "startTime": 33506,
+          "endTime": 33639,
+          "word": "the"
+        },
+        {
+          "startTime": 33639,
+          "endTime": 33807,
+          "word": "edge"
+        },
+        {
+          "startTime": 33807,
+          "endTime": 33941,
+          "word": "of"
+        },
+        {
+          "startTime": 33941,
+          "endTime": 34074,
+          "word": "your"
+        },
+        {
+          "startTime": 34074,
+          "endTime": 34392,
+          "word": "seat?"
+        }
+      ]
+    },
+    {
+      "time": 35110,
+      "endTime": 37205,
+      "text": "Out of the doorway, the bullets rip",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 35112,
+          "endTime": 35427,
+          "word": "Out"
+        },
+        {
+          "startTime": 35427,
+          "endTime": 35570,
+          "word": "of"
+        },
+        {
+          "startTime": 35570,
+          "endTime": 35695,
+          "word": "the"
+        },
+        {
+          "startTime": 35695,
+          "endTime": 36189,
+          "word": "doorway,"
+        },
+        {
+          "startTime": 36189,
+          "endTime": 36341,
+          "word": "the"
+        },
+        {
+          "startTime": 36341,
+          "endTime": 36823,
+          "word": "bullets"
+        },
+        {
+          "startTime": 36823,
+          "endTime": 37205,
+          "word": "rip"
+        }
+      ]
+    },
+    {
+      "time": 37720,
+      "endTime": 39556,
+      "text": "To the sound of the beat, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37722,
+          "endTime": 37880,
+          "word": "To"
+        },
+        {
+          "startTime": 37880,
+          "endTime": 38013,
+          "word": "the"
+        },
+        {
+          "startTime": 38013,
+          "endTime": 38163,
+          "word": "sound"
+        },
+        {
+          "startTime": 38163,
+          "endTime": 38280,
+          "word": "of"
+        },
+        {
+          "startTime": 38280,
+          "endTime": 38413,
+          "word": "the"
+        },
+        {
+          "startTime": 38413,
+          "endTime": 38648,
+          "word": "beat,"
+        },
+        {
+          "startTime": 38648,
+          "endTime": 39556,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 41580,
+      "endTime": 43278,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 41583,
+          "endTime": 42073,
+          "word": "Another"
+        },
+        {
+          "startTime": 42073,
+          "endTime": 42340,
+          "word": "one"
+        },
+        {
+          "startTime": 42340,
+          "endTime": 42623,
+          "word": "bites"
+        },
+        {
+          "startTime": 42623,
+          "endTime": 42756,
+          "word": "the"
+        },
+        {
+          "startTime": 42756,
+          "endTime": 43278,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 45890,
+      "endTime": 47591,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45899,
+          "endTime": 46425,
+          "word": "Another"
+        },
+        {
+          "startTime": 46425,
+          "endTime": 46691,
+          "word": "one"
+        },
+        {
+          "startTime": 46691,
+          "endTime": 46993,
+          "word": "bites"
+        },
+        {
+          "startTime": 46993,
+          "endTime": 47110,
+          "word": "the"
+        },
+        {
+          "startTime": 47110,
+          "endTime": 47591,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 47920,
+      "endTime": 49168,
+      "text": "And another one gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 47928,
+          "endTime": 48211,
+          "word": "And"
+        },
+        {
+          "startTime": 48211,
+          "endTime": 48592,
+          "word": "another"
+        },
+        {
+          "startTime": 48592,
+          "endTime": 48944,
+          "word": "one"
+        },
+        {
+          "startTime": 48944,
+          "endTime": 49168,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 49150,
+      "endTime": 50415,
+      "text": "And another one gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 49151,
+          "endTime": 49410,
+          "word": "And"
+        },
+        {
+          "startTime": 49410,
+          "endTime": 49677,
+          "word": "another"
+        },
+        {
+          "startTime": 49677,
+          "endTime": 49960,
+          "word": "one"
+        },
+        {
+          "startTime": 49960,
+          "endTime": 50415,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 50420,
+      "endTime": 52321,
+      "text": "Another one bites the dust, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 50425,
+          "endTime": 50795,
+          "word": "Another"
+        },
+        {
+          "startTime": 50795,
+          "endTime": 51078,
+          "word": "one"
+        },
+        {
+          "startTime": 51078,
+          "endTime": 51360,
+          "word": "bites"
+        },
+        {
+          "startTime": 51360,
+          "endTime": 51512,
+          "word": "the"
+        },
+        {
+          "startTime": 51512,
+          "endTime": 51744,
+          "word": "dust,"
+        },
+        {
+          "startTime": 51744,
+          "endTime": 52321,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 52670,
+      "endTime": 54612,
+      "text": "Hey, I'm gonna get you too",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 52679,
+          "endTime": 53012,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 53443,
+          "endTime": 53609,
+          "word": "I'm"
+        },
+        {
+          "startTime": 53609,
+          "endTime": 53825,
+          "word": "gonna"
+        },
+        {
+          "startTime": 53825,
+          "endTime": 54091,
+          "word": "get"
+        },
+        {
+          "startTime": 54091,
+          "endTime": 54358,
+          "word": "you"
+        },
+        {
+          "startTime": 54358,
+          "endTime": 54612,
+          "word": "too"
+        }
+      ]
+    },
+    {
+      "time": 54710,
+      "endTime": 56362,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 54718,
+          "endTime": 55157,
+          "word": "Another"
+        },
+        {
+          "startTime": 55157,
+          "endTime": 55408,
+          "word": "one"
+        },
+        {
+          "startTime": 55408,
+          "endTime": 55707,
+          "word": "bites"
+        },
+        {
+          "startTime": 55707,
+          "endTime": 55824,
+          "word": "the"
+        },
+        {
+          "startTime": 55824,
+          "endTime": 56362,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 65650,
+      "endTime": 67807,
+      "text": "How do you think I'm gonna get along",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65651,
+          "endTime": 65943,
+          "word": "How"
+        },
+        {
+          "startTime": 65943,
+          "endTime": 66043,
+          "word": "do"
+        },
+        {
+          "startTime": 66043,
+          "endTime": 66210,
+          "word": "you"
+        },
+        {
+          "startTime": 66210,
+          "endTime": 66490,
+          "word": "think"
+        },
+        {
+          "startTime": 66490,
+          "endTime": 66615,
+          "word": "I'm"
+        },
+        {
+          "startTime": 66615,
+          "endTime": 66883,
+          "word": "gonna"
+        },
+        {
+          "startTime": 66883,
+          "endTime": 67043,
+          "word": "get"
+        },
+        {
+          "startTime": 67043,
+          "endTime": 67807,
+          "word": "along"
+        }
+      ]
+    },
+    {
+      "time": 67900,
+      "endTime": 69384,
+      "text": "Without you when you're gone?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 67901,
+          "endTime": 68264,
+          "word": "Without"
+        },
+        {
+          "startTime": 68264,
+          "endTime": 68490,
+          "word": "you"
+        },
+        {
+          "startTime": 68490,
+          "endTime": 68692,
+          "word": "when"
+        },
+        {
+          "startTime": 68692,
+          "endTime": 68924,
+          "word": "you're"
+        },
+        {
+          "startTime": 68924,
+          "endTime": 69384,
+          "word": "gone?"
+        }
+      ]
+    },
+    {
+      "time": 70060,
+      "endTime": 72105,
+      "text": "You took me for everything that I had",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 70068,
+          "endTime": 70257,
+          "word": "You"
+        },
+        {
+          "startTime": 70257,
+          "endTime": 70441,
+          "word": "took"
+        },
+        {
+          "startTime": 70441,
+          "endTime": 70609,
+          "word": "me"
+        },
+        {
+          "startTime": 70609,
+          "endTime": 70758,
+          "word": "for"
+        },
+        {
+          "startTime": 70758,
+          "endTime": 71357,
+          "word": "everything"
+        },
+        {
+          "startTime": 71357,
+          "endTime": 71491,
+          "word": "that"
+        },
+        {
+          "startTime": 71491,
+          "endTime": 71773,
+          "word": "I"
+        },
+        {
+          "startTime": 71773,
+          "endTime": 72105,
+          "word": "had"
+        }
+      ]
+    },
+    {
+      "time": 72100,
+      "endTime": 73762,
+      "text": "And kicked me out on my own",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 72105,
+          "endTime": 72374,
+          "word": "And"
+        },
+        {
+          "startTime": 72374,
+          "endTime": 72625,
+          "word": "kicked"
+        },
+        {
+          "startTime": 72625,
+          "endTime": 72926,
+          "word": "me"
+        },
+        {
+          "startTime": 72926,
+          "endTime": 73109,
+          "word": "out"
+        },
+        {
+          "startTime": 73109,
+          "endTime": 73209,
+          "word": "on"
+        },
+        {
+          "startTime": 73209,
+          "endTime": 73409,
+          "word": "my"
+        },
+        {
+          "startTime": 73409,
+          "endTime": 73762,
+          "word": "own"
+        }
+      ]
+    },
+    {
+      "time": 74030,
+      "endTime": 76452,
+      "text": "Are you happy? Are you satisfied?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 74034,
+          "endTime": 74395,
+          "word": "Are"
+        },
+        {
+          "startTime": 74395,
+          "endTime": 74529,
+          "word": "you"
+        },
+        {
+          "startTime": 74529,
+          "endTime": 75233,
+          "word": "happy?"
+        },
+        {
+          "startTime": 75379,
+          "endTime": 75563,
+          "word": "Are"
+        },
+        {
+          "startTime": 75563,
+          "endTime": 75697,
+          "word": "you"
+        },
+        {
+          "startTime": 75697,
+          "endTime": 76452,
+          "word": "satisfied?"
+        }
+      ]
+    },
+    {
+      "time": 76460,
+      "endTime": 78058,
+      "text": "How long can you stand the heat?",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 76463,
+          "endTime": 76747,
+          "word": "How"
+        },
+        {
+          "startTime": 76747,
+          "endTime": 77014,
+          "word": "long"
+        },
+        {
+          "startTime": 77014,
+          "endTime": 77146,
+          "word": "can"
+        },
+        {
+          "startTime": 77146,
+          "endTime": 77281,
+          "word": "you"
+        },
+        {
+          "startTime": 77281,
+          "endTime": 77563,
+          "word": "stand"
+        },
+        {
+          "startTime": 77563,
+          "endTime": 77664,
+          "word": "the"
+        },
+        {
+          "startTime": 77664,
+          "endTime": 78058,
+          "word": "heat?"
+        }
+      ]
+    },
+    {
+      "time": 78740,
+      "endTime": 80775,
+      "text": "Out of the doorway, the bullets rip",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 78741,
+          "endTime": 79065,
+          "word": "Out"
+        },
+        {
+          "startTime": 79065,
+          "endTime": 79198,
+          "word": "of"
+        },
+        {
+          "startTime": 79198,
+          "endTime": 79347,
+          "word": "the"
+        },
+        {
+          "startTime": 79347,
+          "endTime": 79899,
+          "word": "doorway,"
+        },
+        {
+          "startTime": 79899,
+          "endTime": 80014,
+          "word": "the"
+        },
+        {
+          "startTime": 80014,
+          "endTime": 80451,
+          "word": "bullets"
+        },
+        {
+          "startTime": 80451,
+          "endTime": 80775,
+          "word": "rip"
+        }
+      ]
+    },
+    {
+      "time": 81280,
+      "endTime": 83352,
+      "text": "To the sound of the beat, look out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 81288,
+          "endTime": 81533,
+          "word": "To"
+        },
+        {
+          "startTime": 81533,
+          "endTime": 81683,
+          "word": "the"
+        },
+        {
+          "startTime": 81683,
+          "endTime": 81816,
+          "word": "sound"
+        },
+        {
+          "startTime": 81816,
+          "endTime": 81950,
+          "word": "of"
+        },
+        {
+          "startTime": 81950,
+          "endTime": 82064,
+          "word": "the"
+        },
+        {
+          "startTime": 82064,
+          "endTime": 82344,
+          "word": "beat,"
+        },
+        {
+          "startTime": 82750,
+          "endTime": 82867,
+          "word": "look"
+        },
+        {
+          "startTime": 82867,
+          "endTime": 83352,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 85240,
+      "endTime": 86945,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85240,
+          "endTime": 85710,
+          "word": "Another"
+        },
+        {
+          "startTime": 85710,
+          "endTime": 85993,
+          "word": "one"
+        },
+        {
+          "startTime": 85993,
+          "endTime": 86277,
+          "word": "bites"
+        },
+        {
+          "startTime": 86277,
+          "endTime": 86408,
+          "word": "the"
+        },
+        {
+          "startTime": 86408,
+          "endTime": 86945,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 89570,
+      "endTime": 91325,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 89571,
+          "endTime": 90078,
+          "word": "Another"
+        },
+        {
+          "startTime": 90078,
+          "endTime": 90361,
+          "word": "one"
+        },
+        {
+          "startTime": 90361,
+          "endTime": 90627,
+          "word": "bites"
+        },
+        {
+          "startTime": 90627,
+          "endTime": 90761,
+          "word": "the"
+        },
+        {
+          "startTime": 90761,
+          "endTime": 91325,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 91570,
+      "endTime": 92797,
+      "text": "And another one gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 91573,
+          "endTime": 91942,
+          "word": "And"
+        },
+        {
+          "startTime": 91942,
+          "endTime": 92276,
+          "word": "another"
+        },
+        {
+          "startTime": 92276,
+          "endTime": 92542,
+          "word": "one"
+        },
+        {
+          "startTime": 92542,
+          "endTime": 92797,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 92800,
+      "endTime": 94023,
+      "text": "And another one gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92807,
+          "endTime": 93075,
+          "word": "And"
+        },
+        {
+          "startTime": 93075,
+          "endTime": 93342,
+          "word": "another"
+        },
+        {
+          "startTime": 93342,
+          "endTime": 93643,
+          "word": "one"
+        },
+        {
+          "startTime": 93643,
+          "endTime": 94023,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 94030,
+      "endTime": 95752,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 94032,
+          "endTime": 94459,
+          "word": "Another"
+        },
+        {
+          "startTime": 94459,
+          "endTime": 94741,
+          "word": "one"
+        },
+        {
+          "startTime": 94741,
+          "endTime": 95027,
+          "word": "bites"
+        },
+        {
+          "startTime": 95027,
+          "endTime": 95160,
+          "word": "the"
+        },
+        {
+          "startTime": 95160,
+          "endTime": 95752,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 96260,
+      "endTime": 98378,
+      "text": "Hey, I'm gonna get you too",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 96261,
+          "endTime": 96634,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 97112,
+          "endTime": 97246,
+          "word": "I'm"
+        },
+        {
+          "startTime": 97246,
+          "endTime": 97479,
+          "word": "gonna"
+        },
+        {
+          "startTime": 97479,
+          "endTime": 97747,
+          "word": "get"
+        },
+        {
+          "startTime": 97747,
+          "endTime": 98030,
+          "word": "you"
+        },
+        {
+          "startTime": 98030,
+          "endTime": 98378,
+          "word": "too"
+        }
+      ]
+    },
+    {
+      "time": 98450,
+      "endTime": 100003,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 98455,
+          "endTime": 98829,
+          "word": "Another"
+        },
+        {
+          "startTime": 98829,
+          "endTime": 99095,
+          "word": "one"
+        },
+        {
+          "startTime": 99095,
+          "endTime": 99396,
+          "word": "bites"
+        },
+        {
+          "startTime": 99396,
+          "endTime": 99594,
+          "word": "the"
+        },
+        {
+          "startTime": 99594,
+          "endTime": 100003,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 104810,
+      "endTime": 105289,
+      "text": "Hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104817,
+          "endTime": 105289,
+          "word": "Hey"
+        }
+      ]
+    },
+    {
+      "time": 112960,
+      "endTime": 114318,
+      "text": "Oh, take it",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 112966,
+          "endTime": 113822,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 113822,
+          "endTime": 113972,
+          "word": "take"
+        },
+        {
+          "startTime": 113972,
+          "endTime": 114318,
+          "word": "it"
+        }
+      ]
+    },
+    {
+      "time": 115450,
+      "endTime": 116360,
+      "text": "Bite the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 115459,
+          "endTime": 115776,
+          "word": "Bite"
+        },
+        {
+          "startTime": 115776,
+          "endTime": 115908,
+          "word": "the"
+        },
+        {
+          "startTime": 115908,
+          "endTime": 116360,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 117620,
+      "endTime": 118820,
+      "text": "Bite the dust, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 117625,
+          "endTime": 117967,
+          "word": "Bite"
+        },
+        {
+          "startTime": 117967,
+          "endTime": 118116,
+          "word": "the"
+        },
+        {
+          "startTime": 118116,
+          "endTime": 118366,
+          "word": "dust,"
+        },
+        {
+          "startTime": 118366,
+          "endTime": 118820,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 136980,
+      "endTime": 137700,
+      "text": "Hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 136980,
+          "endTime": 137700,
+          "word": "Hey"
+        }
+      ]
+    },
+    {
+      "time": 139820,
+      "endTime": 141426,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 139829,
+          "endTime": 140305,
+          "word": "Another"
+        },
+        {
+          "startTime": 140305,
+          "endTime": 140603,
+          "word": "one"
+        },
+        {
+          "startTime": 140603,
+          "endTime": 140886,
+          "word": "bites"
+        },
+        {
+          "startTime": 140886,
+          "endTime": 141019,
+          "word": "the"
+        },
+        {
+          "startTime": 141019,
+          "endTime": 141426,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 142060,
+      "endTime": 144040,
+      "text": "Another one bites the dust, ow",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142062,
+          "endTime": 142527,
+          "word": "Another"
+        },
+        {
+          "startTime": 142527,
+          "endTime": 142793,
+          "word": "one"
+        },
+        {
+          "startTime": 142793,
+          "endTime": 143044,
+          "word": "bites"
+        },
+        {
+          "startTime": 143044,
+          "endTime": 143177,
+          "word": "the"
+        },
+        {
+          "startTime": 143177,
+          "endTime": 143511,
+          "word": "dust,"
+        },
+        {
+          "startTime": 143511,
+          "endTime": 144040,
+          "word": "ow"
+        }
+      ]
+    },
+    {
+      "time": 144270,
+      "endTime": 146185,
+      "text": "Another one bites the dust, hey, hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 144274,
+          "endTime": 144676,
+          "word": "Another"
+        },
+        {
+          "startTime": 144676,
+          "endTime": 144959,
+          "word": "one"
+        },
+        {
+          "startTime": 144959,
+          "endTime": 145241,
+          "word": "bites"
+        },
+        {
+          "startTime": 145241,
+          "endTime": 145375,
+          "word": "the"
+        },
+        {
+          "startTime": 145375,
+          "endTime": 145657,
+          "word": "dust,"
+        },
+        {
+          "startTime": 145657,
+          "endTime": 145924,
+          "word": "hey,"
+        },
+        {
+          "startTime": 145924,
+          "endTime": 146185,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 146450,
+      "endTime": 153042,
+      "text": "Another one bites the dust, hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 146453,
+          "endTime": 146913,
+          "word": "Another"
+        },
+        {
+          "startTime": 146913,
+          "endTime": 147147,
+          "word": "one"
+        },
+        {
+          "startTime": 147147,
+          "endTime": 147430,
+          "word": "bites"
+        },
+        {
+          "startTime": 147430,
+          "endTime": 147563,
+          "word": "the"
+        },
+        {
+          "startTime": 147563,
+          "endTime": 147846,
+          "word": "dust,"
+        },
+        {
+          "startTime": 147846,
+          "endTime": 153042,
+          "word": "hey"
+        }
+      ]
+    },
+    {
+      "time": 153980,
+      "endTime": 156095,
+      "text": "Ooh, shoot out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 153983,
+          "endTime": 154965,
+          "word": "Ooh,"
+        },
+        {
+          "startTime": 154965,
+          "endTime": 155453,
+          "word": "shoot"
+        },
+        {
+          "startTime": 155453,
+          "endTime": 156095,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 157150,
+      "endTime": 159466,
+      "text": "There are plenty of ways that you can hurt a man",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 157156,
+          "endTime": 157349,
+          "word": "There"
+        },
+        {
+          "startTime": 157349,
+          "endTime": 157499,
+          "word": "are"
+        },
+        {
+          "startTime": 157499,
+          "endTime": 157781,
+          "word": "plenty"
+        },
+        {
+          "startTime": 157781,
+          "endTime": 157899,
+          "word": "of"
+        },
+        {
+          "startTime": 157899,
+          "endTime": 158245,
+          "word": "ways"
+        },
+        {
+          "startTime": 158245,
+          "endTime": 158370,
+          "word": "that"
+        },
+        {
+          "startTime": 158370,
+          "endTime": 158471,
+          "word": "you"
+        },
+        {
+          "startTime": 158471,
+          "endTime": 158626,
+          "word": "can"
+        },
+        {
+          "startTime": 158626,
+          "endTime": 158923,
+          "word": "hurt"
+        },
+        {
+          "startTime": 158923,
+          "endTime": 159048,
+          "word": "a"
+        },
+        {
+          "startTime": 159048,
+          "endTime": 159466,
+          "word": "man"
+        }
+      ]
+    },
+    {
+      "time": 159470,
+      "endTime": 161119,
+      "text": "And bring him to the ground",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 159476,
+          "endTime": 159683,
+          "word": "And"
+        },
+        {
+          "startTime": 159683,
+          "endTime": 159934,
+          "word": "bring"
+        },
+        {
+          "startTime": 159934,
+          "endTime": 160216,
+          "word": "him"
+        },
+        {
+          "startTime": 160216,
+          "endTime": 160515,
+          "word": "to"
+        },
+        {
+          "startTime": 160515,
+          "endTime": 160616,
+          "word": "the"
+        },
+        {
+          "startTime": 160616,
+          "endTime": 161119,
+          "word": "ground"
+        }
+      ]
+    },
+    {
+      "time": 161480,
+      "endTime": 162713,
+      "text": "You can beat him, you can cheat him",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161489,
+          "endTime": 161723,
+          "word": "You"
+        },
+        {
+          "startTime": 161723,
+          "endTime": 161872,
+          "word": "can"
+        },
+        {
+          "startTime": 161872,
+          "endTime": 162097,
+          "word": "beat"
+        },
+        {
+          "startTime": 162097,
+          "endTime": 162246,
+          "word": "him,"
+        },
+        {
+          "startTime": 162246,
+          "endTime": 162382,
+          "word": "you"
+        },
+        {
+          "startTime": 162382,
+          "endTime": 162513,
+          "word": "can"
+        },
+        {
+          "startTime": 162513,
+          "endTime": 162613,
+          "word": "cheat"
+        },
+        {
+          "startTime": 162613,
+          "endTime": 162713,
+          "word": "him"
+        }
+      ]
+    },
+    {
+      "time": 162670,
+      "endTime": 165843,
+      "text": "You can treat him bad and leave him when he's down, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 162675,
+          "endTime": 162836,
+          "word": "You"
+        },
+        {
+          "startTime": 162836,
+          "endTime": 162985,
+          "word": "can"
+        },
+        {
+          "startTime": 162985,
+          "endTime": 163102,
+          "word": "treat"
+        },
+        {
+          "startTime": 163102,
+          "endTime": 163334,
+          "word": "him"
+        },
+        {
+          "startTime": 163334,
+          "endTime": 163803,
+          "word": "bad"
+        },
+        {
+          "startTime": 163803,
+          "endTime": 164070,
+          "word": "and"
+        },
+        {
+          "startTime": 164070,
+          "endTime": 164337,
+          "word": "leave"
+        },
+        {
+          "startTime": 164337,
+          "endTime": 164619,
+          "word": "him"
+        },
+        {
+          "startTime": 164619,
+          "endTime": 164785,
+          "word": "when"
+        },
+        {
+          "startTime": 164785,
+          "endTime": 165003,
+          "word": "he's"
+        },
+        {
+          "startTime": 165003,
+          "endTime": 165401,
+          "word": "down,"
+        },
+        {
+          "startTime": 165401,
+          "endTime": 165843,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 165910,
+      "endTime": 168090,
+      "text": "But I'm ready, yes, I'm ready for you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165914,
+          "endTime": 166094,
+          "word": "But"
+        },
+        {
+          "startTime": 166094,
+          "endTime": 166289,
+          "word": "I'm"
+        },
+        {
+          "startTime": 166289,
+          "endTime": 167128,
+          "word": "ready,"
+        },
+        {
+          "startTime": 167128,
+          "endTime": 167305,
+          "word": "yes,"
+        },
+        {
+          "startTime": 167305,
+          "endTime": 167406,
+          "word": "I'm"
+        },
+        {
+          "startTime": 167406,
+          "endTime": 167687,
+          "word": "ready"
+        },
+        {
+          "startTime": 167687,
+          "endTime": 167824,
+          "word": "for"
+        },
+        {
+          "startTime": 167824,
+          "endTime": 168090,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 168100,
+      "endTime": 169963,
+      "text": "I'm standing on my own two feet",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 168102,
+          "endTime": 168415,
+          "word": "I'm"
+        },
+        {
+          "startTime": 168415,
+          "endTime": 168786,
+          "word": "standing"
+        },
+        {
+          "startTime": 168786,
+          "endTime": 168929,
+          "word": "on"
+        },
+        {
+          "startTime": 168929,
+          "endTime": 169042,
+          "word": "my"
+        },
+        {
+          "startTime": 169042,
+          "endTime": 169149,
+          "word": "own"
+        },
+        {
+          "startTime": 169149,
+          "endTime": 169304,
+          "word": "two"
+        },
+        {
+          "startTime": 169304,
+          "endTime": 169963,
+          "word": "feet"
+        }
+      ]
+    },
+    {
+      "time": 170500,
+      "endTime": 172424,
+      "text": "Out of the doorway, the bullets rip",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170507,
+          "endTime": 170763,
+          "word": "Out"
+        },
+        {
+          "startTime": 170763,
+          "endTime": 170896,
+          "word": "of"
+        },
+        {
+          "startTime": 170896,
+          "endTime": 171029,
+          "word": "the"
+        },
+        {
+          "startTime": 171029,
+          "endTime": 171579,
+          "word": "doorway,"
+        },
+        {
+          "startTime": 171579,
+          "endTime": 171712,
+          "word": "the"
+        },
+        {
+          "startTime": 171712,
+          "endTime": 172096,
+          "word": "bullets"
+        },
+        {
+          "startTime": 172096,
+          "endTime": 172424,
+          "word": "rip"
+        }
+      ]
+    },
+    {
+      "time": 172510,
+      "endTime": 173987,
+      "text": "Repeating to the sound of the beat",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 172517,
+          "endTime": 173014,
+          "word": "Repeating"
+        },
+        {
+          "startTime": 173014,
+          "endTime": 173147,
+          "word": "to"
+        },
+        {
+          "startTime": 173147,
+          "endTime": 173280,
+          "word": "the"
+        },
+        {
+          "startTime": 173280,
+          "endTime": 173462,
+          "word": "sound"
+        },
+        {
+          "startTime": 173462,
+          "endTime": 173579,
+          "word": "of"
+        },
+        {
+          "startTime": 173579,
+          "endTime": 173737,
+          "word": "the"
+        },
+        {
+          "startTime": 173737,
+          "endTime": 173987,
+          "word": "beat"
+        }
+      ]
+    },
+    {
+      "time": 173990,
+      "endTime": 176406,
+      "text": "Oh, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 173994,
+          "endTime": 174913,
+          "word": "Oh,"
+        },
+        {
+          "startTime": 174913,
+          "endTime": 176406,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 176940,
+      "endTime": 178680,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 176940,
+          "endTime": 177422,
+          "word": "Another"
+        },
+        {
+          "startTime": 177422,
+          "endTime": 177688,
+          "word": "one"
+        },
+        {
+          "startTime": 177688,
+          "endTime": 177971,
+          "word": "bites"
+        },
+        {
+          "startTime": 177971,
+          "endTime": 178103,
+          "word": "the"
+        },
+        {
+          "startTime": 178103,
+          "endTime": 178680,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 181240,
+      "endTime": 183073,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 181241,
+          "endTime": 181774,
+          "word": "Another"
+        },
+        {
+          "startTime": 181774,
+          "endTime": 182086,
+          "word": "one"
+        },
+        {
+          "startTime": 182086,
+          "endTime": 182359,
+          "word": "bites"
+        },
+        {
+          "startTime": 182359,
+          "endTime": 182508,
+          "word": "the"
+        },
+        {
+          "startTime": 182508,
+          "endTime": 183073,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 183210,
+      "endTime": 184512,
+      "text": "And another one gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 183212,
+          "endTime": 183630,
+          "word": "And"
+        },
+        {
+          "startTime": 183630,
+          "endTime": 183929,
+          "word": "another"
+        },
+        {
+          "startTime": 183929,
+          "endTime": 184211,
+          "word": "one"
+        },
+        {
+          "startTime": 184211,
+          "endTime": 184512,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 184520,
+      "endTime": 185715,
+      "text": "And another one gone",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 184523,
+          "endTime": 184777,
+          "word": "And"
+        },
+        {
+          "startTime": 184777,
+          "endTime": 185043,
+          "word": "another"
+        },
+        {
+          "startTime": 185043,
+          "endTime": 185326,
+          "word": "one"
+        },
+        {
+          "startTime": 185326,
+          "endTime": 185715,
+          "word": "gone"
+        }
+      ]
+    },
+    {
+      "time": 185720,
+      "endTime": 188064,
+      "text": "Another one bites the dust, yeah",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 185723,
+          "endTime": 186078,
+          "word": "Another"
+        },
+        {
+          "startTime": 186078,
+          "endTime": 186395,
+          "word": "one"
+        },
+        {
+          "startTime": 186395,
+          "endTime": 186710,
+          "word": "bites"
+        },
+        {
+          "startTime": 186710,
+          "endTime": 186862,
+          "word": "the"
+        },
+        {
+          "startTime": 186862,
+          "endTime": 187141,
+          "word": "dust,"
+        },
+        {
+          "startTime": 187141,
+          "endTime": 188064,
+          "word": "yeah"
+        }
+      ]
+    },
+    {
+      "time": 187980,
+      "endTime": 190191,
+      "text": "Hey, I'm gonna get you too",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 187983,
+          "endTime": 188380,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 188833,
+          "endTime": 189001,
+          "word": "I'm"
+        },
+        {
+          "startTime": 189001,
+          "endTime": 189216,
+          "word": "gonna"
+        },
+        {
+          "startTime": 189216,
+          "endTime": 189382,
+          "word": "get"
+        },
+        {
+          "startTime": 189382,
+          "endTime": 189639,
+          "word": "you"
+        },
+        {
+          "startTime": 189639,
+          "endTime": 190191,
+          "word": "too"
+        }
+      ]
+    },
+    {
+      "time": 190200,
+      "endTime": 191720,
+      "text": "Another one bites the dust",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 190200,
+          "endTime": 190547,
+          "word": "Another"
+        },
+        {
+          "startTime": 190547,
+          "endTime": 190813,
+          "word": "one"
+        },
+        {
+          "startTime": 190813,
+          "endTime": 191080,
+          "word": "bites"
+        },
+        {
+          "startTime": 191080,
+          "endTime": 191213,
+          "word": "the"
+        },
+        {
+          "startTime": 191213,
+          "endTime": 191720,
+          "word": "dust"
+        }
+      ]
+    },
+    {
+      "time": 193100,
+      "endTime": 194120,
+      "text": "Shoot out",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 193107,
+          "endTime": 193387,
+          "word": "Shoot"
+        },
+        {
+          "startTime": 193387,
+          "endTime": 194120,
+          "word": "out"
+        }
+      ]
+    },
+    {
+      "time": 196260,
+      "endTime": 197591,
+      "text": "Hey",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 196268,
+          "endTime": 197591,
+          "word": "Hey"
+        }
+      ]
+    },
+    {
+      "time": 200230,
+      "endTime": 201775,
+      "text": "Alright",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 200235,
+          "endTime": 201775,
+          "word": "Alright"
+        }
+      ]
+    }
+  ]
+}
