@@ -1,0 +1,218 @@
+{
+  "videoId": "VnPTK6idYg4",
+  "title": "Midnight City (Eric Prydz Private Remix)",
+  "artist": "M83",
+  "duration": 362,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"03:13.530\" end=\"03:17.270\">\n        <span begin=\"03:13.530\" end=\"03:15.132\">Waiting <\/span>\n        <span begin=\"03:15.132\" end=\"03:15.844\">in <\/span>\n        <span begin=\"03:15.844\" end=\"03:16.497\">a <\/span>\n        <span begin=\"03:16.497\" end=\"03:17.270\">car<\/span>\n      <\/p>\n      <p begin=\"03:17.270\" end=\"03:21.470\">\n        <span begin=\"03:17.270\" end=\"03:18.360\">Waiting <\/span>\n        <span begin=\"03:18.360\" end=\"03:18.885\">for <\/span>\n        <span begin=\"03:18.885\" end=\"03:19.329\">a <\/span>\n        <span begin=\"03:19.329\" end=\"03:19.894\">ride <\/span>\n        <span begin=\"03:19.894\" end=\"03:20.378\">in <\/span>\n        <span begin=\"03:20.378\" end=\"03:20.903\">the <\/span>\n        <span begin=\"03:20.903\" end=\"03:21.470\">dark<\/span>\n      <\/p>\n      <p begin=\"03:21.470\" end=\"03:25.450\">\n        <span begin=\"03:21.470\" end=\"03:23.175\">Waiting <\/span>\n        <span begin=\"03:23.175\" end=\"03:23.933\">in <\/span>\n        <span begin=\"03:23.933\" end=\"03:24.627\">a <\/span>\n        <span begin=\"03:24.627\" end=\"03:25.450\">car<\/span>\n      <\/p>\n      <p begin=\"03:25.450\" end=\"03:28.960\">\n        <span begin=\"03:25.450\" end=\"03:26.361\">Waiting <\/span>\n        <span begin=\"03:26.361\" end=\"03:26.799\">for <\/span>\n        <span begin=\"03:26.799\" end=\"03:27.170\">a <\/span>\n        <span begin=\"03:27.170\" end=\"03:27.642\">ride <\/span>\n        <span begin=\"03:27.642\" end=\"03:28.047\">in <\/span>\n        <span begin=\"03:28.047\" end=\"03:28.485\">the <\/span>\n        <span begin=\"03:28.485\" end=\"03:28.960\">dark<\/span>\n      <\/p>\n      <p begin=\"03:28.960\" end=\"03:32.610\">\n        <span begin=\"03:28.960\" end=\"03:30.524\">Waiting <\/span>\n        <span begin=\"03:30.524\" end=\"03:31.219\">in <\/span>\n        <span begin=\"03:31.219\" end=\"03:31.856\">a <\/span>\n        <span begin=\"03:31.856\" end=\"03:32.610\">car<\/span>\n      <\/p>\n      <p begin=\"03:32.610\" end=\"03:37.610\">\n        <span begin=\"03:32.610\" end=\"03:33.908\">Waiting <\/span>\n        <span begin=\"03:33.908\" end=\"03:34.533\">for <\/span>\n        <span begin=\"03:34.533\" end=\"03:35.061\">a <\/span>\n        <span begin=\"03:35.061\" end=\"03:35.734\">ride <\/span>\n        <span begin=\"03:35.734\" end=\"03:36.310\">in <\/span>\n        <span begin=\"03:36.310\" end=\"03:36.935\">the <\/span>\n        <span begin=\"03:36.935\" end=\"03:37.610\">dark<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 193530,
+      "endTime": 197270,
+      "text": "Waiting in a car",
+      "words": [
+        {
+          "startTime": 193530,
+          "endTime": 195132,
+          "word": "Waiting "
+        },
+        {
+          "startTime": 195132,
+          "endTime": 195844,
+          "word": "in "
+        },
+        {
+          "startTime": 195844,
+          "endTime": 196497,
+          "word": "a "
+        },
+        {
+          "startTime": 196497,
+          "endTime": 197270,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 197270,
+      "endTime": 201470,
+      "text": "Waiting for a ride in the dark",
+      "words": [
+        {
+          "startTime": 197270,
+          "endTime": 198360,
+          "word": "Waiting "
+        },
+        {
+          "startTime": 198360,
+          "endTime": 198885,
+          "word": "for "
+        },
+        {
+          "startTime": 198885,
+          "endTime": 199329,
+          "word": "a "
+        },
+        {
+          "startTime": 199329,
+          "endTime": 199894,
+          "word": "ride "
+        },
+        {
+          "startTime": 199894,
+          "endTime": 200378,
+          "word": "in "
+        },
+        {
+          "startTime": 200378,
+          "endTime": 200903,
+          "word": "the "
+        },
+        {
+          "startTime": 200903,
+          "endTime": 201470,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 201470,
+      "endTime": 205450,
+      "text": "Waiting in a car",
+      "words": [
+        {
+          "startTime": 201470,
+          "endTime": 203175,
+          "word": "Waiting "
+        },
+        {
+          "startTime": 203175,
+          "endTime": 203933,
+          "word": "in "
+        },
+        {
+          "startTime": 203933,
+          "endTime": 204627,
+          "word": "a "
+        },
+        {
+          "startTime": 204627,
+          "endTime": 205450,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 205450,
+      "endTime": 208960,
+      "text": "Waiting for a ride in the dark",
+      "words": [
+        {
+          "startTime": 205450,
+          "endTime": 206361,
+          "word": "Waiting "
+        },
+        {
+          "startTime": 206361,
+          "endTime": 206799,
+          "word": "for "
+        },
+        {
+          "startTime": 206799,
+          "endTime": 207170,
+          "word": "a "
+        },
+        {
+          "startTime": 207170,
+          "endTime": 207642,
+          "word": "ride "
+        },
+        {
+          "startTime": 207642,
+          "endTime": 208047,
+          "word": "in "
+        },
+        {
+          "startTime": 208047,
+          "endTime": 208485,
+          "word": "the "
+        },
+        {
+          "startTime": 208485,
+          "endTime": 208960,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 208960,
+      "endTime": 212610,
+      "text": "Waiting in a car",
+      "words": [
+        {
+          "startTime": 208960,
+          "endTime": 210524,
+          "word": "Waiting "
+        },
+        {
+          "startTime": 210524,
+          "endTime": 211219,
+          "word": "in "
+        },
+        {
+          "startTime": 211219,
+          "endTime": 211856,
+          "word": "a "
+        },
+        {
+          "startTime": 211856,
+          "endTime": 212610,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 212610,
+      "endTime": 217610,
+      "text": "Waiting for a ride in the dark",
+      "words": [
+        {
+          "startTime": 212610,
+          "endTime": 213908,
+          "word": "Waiting "
+        },
+        {
+          "startTime": 213908,
+          "endTime": 214533,
+          "word": "for "
+        },
+        {
+          "startTime": 214533,
+          "endTime": 215061,
+          "word": "a "
+        },
+        {
+          "startTime": 215061,
+          "endTime": 215734,
+          "word": "ride "
+        },
+        {
+          "startTime": 215734,
+          "endTime": 216310,
+          "word": "in "
+        },
+        {
+          "startTime": 216310,
+          "endTime": 216935,
+          "word": "the "
+        },
+        {
+          "startTime": 216935,
+          "endTime": 217610,
+          "word": "dark"
+        }
+      ]
+    }
+  ]
+}
