@@ -1,0 +1,362 @@
+{
+  "videoId": "mcdO9UP0hp8",
+  "title": "Je te laisserai des mots",
+  "artist": "Patrick Watson",
+  "duration": 161,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"01:05.350\" end=\"01:09.176\" ttm:agent=\"v1\">\n        <span begin=\"01:05.351\" end=\"01:05.796\">Je<\/span>\n        <span begin=\"01:05.796\" end=\"01:06.048\">te<\/span>\n        <span begin=\"01:06.048\" end=\"01:08.369\">laisserai<\/span>\n        <span begin=\"01:08.369\" end=\"01:08.628\">des<\/span>\n        <span begin=\"01:08.628\" end=\"01:09.176\">mots<\/span>\n      <\/p>\n      <p begin=\"01:09.750\" end=\"01:12.693\" ttm:agent=\"v1\">\n        <span begin=\"01:09.755\" end=\"01:10.627\">En-dessous<\/span>\n        <span begin=\"01:10.627\" end=\"01:10.896\">de<\/span>\n        <span begin=\"01:10.896\" end=\"01:11.450\">ta<\/span>\n        <span begin=\"01:11.450\" end=\"01:12.693\">porte<\/span>\n      <\/p>\n      <p begin=\"01:14.850\" end=\"01:19.709\" ttm:agent=\"v1\">\n        <span begin=\"01:14.851\" end=\"01:15.744\">En-dessous<\/span>\n        <span begin=\"01:15.744\" end=\"01:15.931\">de<\/span>\n        <span begin=\"01:15.931\" end=\"01:16.132\">les<\/span>\n        <span begin=\"01:16.132\" end=\"01:18.309\">murs<\/span>\n        <span begin=\"01:18.309\" end=\"01:18.585\">qui<\/span>\n        <span begin=\"01:18.585\" end=\"01:19.709\">chantent<\/span>\n      <\/p>\n      <p begin=\"01:20.100\" end=\"01:24.852\" ttm:agent=\"v1\">\n        <span begin=\"01:20.108\" end=\"01:20.470\">Tout<\/span>\n        <span begin=\"01:20.470\" end=\"01:20.923\">près<\/span>\n        <span begin=\"01:20.923\" end=\"01:21.030\">de<\/span>\n        <span begin=\"01:21.030\" end=\"01:21.259\">la<\/span>\n        <span begin=\"01:21.259\" end=\"01:22.387\">place<\/span>\n        <span begin=\"01:22.387\" end=\"01:22.565\">où<\/span>\n        <span begin=\"01:22.565\" end=\"01:22.892\">tes<\/span>\n        <span begin=\"01:22.892\" end=\"01:23.776\">pieds<\/span>\n        <span begin=\"01:23.776\" end=\"01:24.852\">passent<\/span>\n      <\/p>\n      <p begin=\"01:25.190\" end=\"01:29.741\" ttm:agent=\"v1\">\n        <span begin=\"01:25.193\" end=\"01:25.961\">Cachés<\/span>\n        <span begin=\"01:25.961\" end=\"01:26.193\">dans<\/span>\n        <span begin=\"01:26.193\" end=\"01:26.429\">les<\/span>\n        <span begin=\"01:26.429\" end=\"01:27.575\">trous<\/span>\n        <span begin=\"01:27.575\" end=\"01:28.379\">de<\/span>\n        <span begin=\"01:28.379\" end=\"01:28.721\">ton<\/span>\n        <span begin=\"01:28.721\" end=\"01:29.741\">divan<\/span>\n      <\/p>\n      <p begin=\"01:30.170\" end=\"01:35.328\" ttm:agent=\"v1\">\n        <span begin=\"01:30.172\" end=\"01:30.428\">Et<\/span>\n        <span begin=\"01:30.428\" end=\"01:30.886\">quand<\/span>\n        <span begin=\"01:30.886\" end=\"01:31.124\">tu<\/span>\n        <span begin=\"01:31.124\" end=\"01:31.404\">es<\/span>\n        <span begin=\"01:31.404\" end=\"01:32.535\">seule<\/span>\n        <span begin=\"01:32.535\" end=\"01:33.706\">pendant<\/span>\n        <span begin=\"01:33.706\" end=\"01:33.955\">un<\/span>\n        <span begin=\"01:33.955\" end=\"01:35.328\">instant<\/span>\n      <\/p>\n      <p begin=\"01:35.620\" end=\"01:38.352\" ttm:agent=\"v1\">\n        <span begin=\"01:35.620\" end=\"01:38.352\">Ramasse-moi<\/span>\n      <\/p>\n      <p begin=\"01:39.410\" end=\"01:41.923\" ttm:agent=\"v1\">\n        <span begin=\"01:39.414\" end=\"01:39.862\">Quand<\/span>\n        <span begin=\"01:39.862\" end=\"01:40.126\">tu<\/span>\n        <span begin=\"01:40.126\" end=\"01:41.923\">voudras<\/span>\n      <\/p>\n      <p begin=\"01:41.920\" end=\"01:44.295\" ttm:agent=\"v1\">\n        <span begin=\"01:41.923\" end=\"01:44.295\">Embrasse-moi<\/span>\n      <\/p>\n      <p begin=\"01:44.880\" end=\"01:47.107\" ttm:agent=\"v1\">\n        <span begin=\"01:44.889\" end=\"01:45.195\">Quand<\/span>\n        <span begin=\"01:45.195\" end=\"01:45.426\">tu<\/span>\n        <span begin=\"01:45.426\" end=\"01:47.107\">voudras<\/span>\n      <\/p>\n      <p begin=\"01:47.100\" end=\"01:49.479\" ttm:agent=\"v1\">\n        <span begin=\"01:47.107\" end=\"01:49.479\">Ramasse-moi<\/span>\n      <\/p>\n      <p begin=\"01:50.080\" end=\"01:52.844\" ttm:agent=\"v1\">\n        <span begin=\"01:50.084\" end=\"01:50.357\">Quand<\/span>\n        <span begin=\"01:50.357\" end=\"01:50.706\">tu<\/span>\n        <span begin=\"01:50.706\" end=\"01:52.844\">voudras<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 65350,
+      "endTime": 69176,
+      "text": "Je te laisserai des mots",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 65351,
+          "endTime": 65796,
+          "word": "Je"
+        },
+        {
+          "startTime": 65796,
+          "endTime": 66048,
+          "word": "te"
+        },
+        {
+          "startTime": 66048,
+          "endTime": 68369,
+          "word": "laisserai"
+        },
+        {
+          "startTime": 68369,
+          "endTime": 68628,
+          "word": "des"
+        },
+        {
+          "startTime": 68628,
+          "endTime": 69176,
+          "word": "mots"
+        }
+      ]
+    },
+    {
+      "time": 69750,
+      "endTime": 72693,
+      "text": "En-dessous de ta porte",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 69755,
+          "endTime": 70627,
+          "word": "En-dessous"
+        },
+        {
+          "startTime": 70627,
+          "endTime": 70896,
+          "word": "de"
+        },
+        {
+          "startTime": 70896,
+          "endTime": 71450,
+          "word": "ta"
+        },
+        {
+          "startTime": 71450,
+          "endTime": 72693,
+          "word": "porte"
+        }
+      ]
+    },
+    {
+      "time": 74850,
+      "endTime": 79709,
+      "text": "En-dessous de les murs qui chantent",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 74851,
+          "endTime": 75744,
+          "word": "En-dessous"
+        },
+        {
+          "startTime": 75744,
+          "endTime": 75931,
+          "word": "de"
+        },
+        {
+          "startTime": 75931,
+          "endTime": 76132,
+          "word": "les"
+        },
+        {
+          "startTime": 76132,
+          "endTime": 78309,
+          "word": "murs"
+        },
+        {
+          "startTime": 78309,
+          "endTime": 78585,
+          "word": "qui"
+        },
+        {
+          "startTime": 78585,
+          "endTime": 79709,
+          "word": "chantent"
+        }
+      ]
+    },
+    {
+      "time": 80100,
+      "endTime": 84852,
+      "text": "Tout près de la place où tes pieds passent",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 80108,
+          "endTime": 80470,
+          "word": "Tout"
+        },
+        {
+          "startTime": 80470,
+          "endTime": 80923,
+          "word": "près"
+        },
+        {
+          "startTime": 80923,
+          "endTime": 81030,
+          "word": "de"
+        },
+        {
+          "startTime": 81030,
+          "endTime": 81259,
+          "word": "la"
+        },
+        {
+          "startTime": 81259,
+          "endTime": 82387,
+          "word": "place"
+        },
+        {
+          "startTime": 82387,
+          "endTime": 82565,
+          "word": "où"
+        },
+        {
+          "startTime": 82565,
+          "endTime": 82892,
+          "word": "tes"
+        },
+        {
+          "startTime": 82892,
+          "endTime": 83776,
+          "word": "pieds"
+        },
+        {
+          "startTime": 83776,
+          "endTime": 84852,
+          "word": "passent"
+        }
+      ]
+    },
+    {
+      "time": 85190,
+      "endTime": 89741,
+      "text": "Cachés dans les trous de ton divan",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 85193,
+          "endTime": 85961,
+          "word": "Cachés"
+        },
+        {
+          "startTime": 85961,
+          "endTime": 86193,
+          "word": "dans"
+        },
+        {
+          "startTime": 86193,
+          "endTime": 86429,
+          "word": "les"
+        },
+        {
+          "startTime": 86429,
+          "endTime": 87575,
+          "word": "trous"
+        },
+        {
+          "startTime": 87575,
+          "endTime": 88379,
+          "word": "de"
+        },
+        {
+          "startTime": 88379,
+          "endTime": 88721,
+          "word": "ton"
+        },
+        {
+          "startTime": 88721,
+          "endTime": 89741,
+          "word": "divan"
+        }
+      ]
+    },
+    {
+      "time": 90170,
+      "endTime": 95328,
+      "text": "Et quand tu es seule pendant un instant",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 90172,
+          "endTime": 90428,
+          "word": "Et"
+        },
+        {
+          "startTime": 90428,
+          "endTime": 90886,
+          "word": "quand"
+        },
+        {
+          "startTime": 90886,
+          "endTime": 91124,
+          "word": "tu"
+        },
+        {
+          "startTime": 91124,
+          "endTime": 91404,
+          "word": "es"
+        },
+        {
+          "startTime": 91404,
+          "endTime": 92535,
+          "word": "seule"
+        },
+        {
+          "startTime": 92535,
+          "endTime": 93706,
+          "word": "pendant"
+        },
+        {
+          "startTime": 93706,
+          "endTime": 93955,
+          "word": "un"
+        },
+        {
+          "startTime": 93955,
+          "endTime": 95328,
+          "word": "instant"
+        }
+      ]
+    },
+    {
+      "time": 95620,
+      "endTime": 98352,
+      "text": "Ramasse-moi",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 95620,
+          "endTime": 98352,
+          "word": "Ramasse-moi"
+        }
+      ]
+    },
+    {
+      "time": 99410,
+      "endTime": 101923,
+      "text": "Quand tu voudras",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 99414,
+          "endTime": 99862,
+          "word": "Quand"
+        },
+        {
+          "startTime": 99862,
+          "endTime": 100126,
+          "word": "tu"
+        },
+        {
+          "startTime": 100126,
+          "endTime": 101923,
+          "word": "voudras"
+        }
+      ]
+    },
+    {
+      "time": 101920,
+      "endTime": 104295,
+      "text": "Embrasse-moi",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101923,
+          "endTime": 104295,
+          "word": "Embrasse-moi"
+        }
+      ]
+    },
+    {
+      "time": 104880,
+      "endTime": 107107,
+      "text": "Quand tu voudras",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 104889,
+          "endTime": 105195,
+          "word": "Quand"
+        },
+        {
+          "startTime": 105195,
+          "endTime": 105426,
+          "word": "tu"
+        },
+        {
+          "startTime": 105426,
+          "endTime": 107107,
+          "word": "voudras"
+        }
+      ]
+    },
+    {
+      "time": 107100,
+      "endTime": 109479,
+      "text": "Ramasse-moi",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 107107,
+          "endTime": 109479,
+          "word": "Ramasse-moi"
+        }
+      ]
+    },
+    {
+      "time": 110080,
+      "endTime": 112844,
+      "text": "Quand tu voudras",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 110084,
+          "endTime": 110357,
+          "word": "Quand"
+        },
+        {
+          "startTime": 110357,
+          "endTime": 110706,
+          "word": "tu"
+        },
+        {
+          "startTime": 110706,
+          "endTime": 112844,
+          "word": "voudras"
+        }
+      ]
+    }
+  ]
+}
