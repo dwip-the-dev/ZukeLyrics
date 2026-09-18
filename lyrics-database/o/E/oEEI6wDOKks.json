@@ -1,0 +1,210 @@
+{
+  "videoId": "oEEI6wDOKks",
+  "title": "My Tears Are Becoming a Sea",
+  "artist": "M83",
+  "duration": 152,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:20.320\" end=\"00:24.990\" ttm:agent=\"v1\">\n        <span begin=\"00:20.320\" end=\"00:21.078\">I&apos;m <\/span>\n        <span begin=\"00:21.078\" end=\"00:22.654\">slowing <\/span>\n        <span begin=\"00:22.654\" end=\"00:24.288\">drifting <\/span>\n        <span begin=\"00:24.288\" end=\"00:24.990\">to<\/span>\n      <\/p>\n      <p begin=\"00:24.990\" end=\"00:34.430\" ttm:agent=\"v1\">\n        <span begin=\"00:24.990\" end=\"00:34.430\">You<\/span>\n      <\/p>\n      <p begin=\"00:34.430\" end=\"00:39.050\" ttm:agent=\"v1\">\n        <span begin=\"00:34.430\" end=\"00:35.171\">The <\/span>\n        <span begin=\"00:35.171\" end=\"00:36.026\">stars <\/span>\n        <span begin=\"00:36.026\" end=\"00:36.767\">and <\/span>\n        <span begin=\"00:36.767\" end=\"00:37.508\">the <\/span>\n        <span begin=\"00:37.508\" end=\"00:39.050\">planets<\/span>\n      <\/p>\n      <p begin=\"00:39.050\" end=\"00:45.470\" ttm:agent=\"v1\">\n        <span begin=\"00:39.050\" end=\"00:40.655\">Are <\/span>\n        <span begin=\"00:40.655\" end=\"00:43.988\">calling <\/span>\n        <span begin=\"00:43.988\" end=\"00:45.470\">me<\/span>\n      <\/p>\n      <p begin=\"00:45.470\" end=\"00:51.320\" ttm:agent=\"v1\">\n        <span begin=\"00:45.470\" end=\"00:46.305\">A <\/span>\n        <span begin=\"00:46.305\" end=\"00:48.356\">billion <\/span>\n        <span begin=\"00:48.356\" end=\"00:49.495\">years <\/span>\n        <span begin=\"00:49.495\" end=\"00:51.320\">away<\/span>\n      <\/p>\n      <p begin=\"00:51.320\" end=\"00:59.970\" ttm:agent=\"v1\">\n        <span begin=\"00:51.320\" end=\"00:55.805\">From <\/span>\n        <span begin=\"00:55.805\" end=\"00:59.970\">you<\/span>\n      <\/p>\n      <p begin=\"00:59.970\" end=\"01:06.330\" ttm:agent=\"v1\">\n        <span begin=\"00:59.970\" end=\"01:00.990\">I&apos;m <\/span>\n        <span begin=\"01:00.990\" end=\"01:01.932\">on <\/span>\n        <span begin=\"01:01.932\" end=\"01:02.874\">my <\/span>\n        <span begin=\"01:02.874\" end=\"01:04.365\">way, <\/span>\n        <span begin=\"01:04.365\" end=\"01:05.385\">I&apos;m <\/span>\n        <span begin=\"01:05.385\" end=\"01:06.330\">on<\/span>\n      <\/p>\n      <p begin=\"01:06.330\" end=\"01:11.330\" ttm:agent=\"v1\">\n        <span begin=\"01:06.330\" end=\"01:08.930\">I&apos;m <\/span>\n        <span begin=\"01:08.930\" end=\"01:11.330\">on<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 20320,
+      "endTime": 24990,
+      "text": "I'm slowing drifting to",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 20320,
+          "endTime": 21078,
+          "word": "I'm "
+        },
+        {
+          "startTime": 21078,
+          "endTime": 22654,
+          "word": "slowing "
+        },
+        {
+          "startTime": 22654,
+          "endTime": 24288,
+          "word": "drifting "
+        },
+        {
+          "startTime": 24288,
+          "endTime": 24990,
+          "word": "to"
+        }
+      ]
+    },
+    {
+      "time": 24990,
+      "endTime": 34430,
+      "text": "You",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 24990,
+          "endTime": 34430,
+          "word": "You"
+        }
+      ]
+    },
+    {
+      "time": 34430,
+      "endTime": 39050,
+      "text": "The stars and the planets",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 34430,
+          "endTime": 35171,
+          "word": "The "
+        },
+        {
+          "startTime": 35171,
+          "endTime": 36026,
+          "word": "stars "
+        },
+        {
+          "startTime": 36026,
+          "endTime": 36767,
+          "word": "and "
+        },
+        {
+          "startTime": 36767,
+          "endTime": 37508,
+          "word": "the "
+        },
+        {
+          "startTime": 37508,
+          "endTime": 39050,
+          "word": "planets"
+        }
+      ]
+    },
+    {
+      "time": 39050,
+      "endTime": 45470,
+      "text": "Are calling me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 39050,
+          "endTime": 40655,
+          "word": "Are "
+        },
+        {
+          "startTime": 40655,
+          "endTime": 43988,
+          "word": "calling "
+        },
+        {
+          "startTime": 43988,
+          "endTime": 45470,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 45470,
+      "endTime": 51320,
+      "text": "A billion years away",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 45470,
+          "endTime": 46305,
+          "word": "A "
+        },
+        {
+          "startTime": 46305,
+          "endTime": 48356,
+          "word": "billion "
+        },
+        {
+          "startTime": 48356,
+          "endTime": 49495,
+          "word": "years "
+        },
+        {
+          "startTime": 49495,
+          "endTime": 51320,
+          "word": "away"
+        }
+      ]
+    },
+    {
+      "time": 51320,
+      "endTime": 59970,
+      "text": "From you",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51320,
+          "endTime": 55805,
+          "word": "From "
+        },
+        {
+          "startTime": 55805,
+          "endTime": 59970,
+          "word": "you"
+        }
+      ]
+    },
+    {
+      "time": 59970,
+      "endTime": 66330,
+      "text": "I'm on my way, I'm on",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 59970,
+          "endTime": 60990,
+          "word": "I'm "
+        },
+        {
+          "startTime": 60990,
+          "endTime": 61932,
+          "word": "on "
+        },
+        {
+          "startTime": 61932,
+          "endTime": 62874,
+          "word": "my "
+        },
+        {
+          "startTime": 62874,
+          "endTime": 64365,
+          "word": "way, "
+        },
+        {
+          "startTime": 64365,
+          "endTime": 65385,
+          "word": "I'm "
+        },
+        {
+          "startTime": 65385,
+          "endTime": 66330,
+          "word": "on"
+        }
+      ]
+    },
+    {
+      "time": 66330,
+      "endTime": 71330,
+      "text": "I'm on",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 66330,
+          "endTime": 68930,
+          "word": "I'm "
+        },
+        {
+          "startTime": 68930,
+          "endTime": 71330,
+          "word": "on"
+        }
+      ]
+    }
+  ]
+}
