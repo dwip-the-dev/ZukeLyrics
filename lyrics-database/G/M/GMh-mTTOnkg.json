@@ -1,0 +1,171 @@
+{
+  "videoId": "GMh-mTTOnkg",
+  "title": "EEYUH! x Fluxxwave (Slowed + Reverb)",
+  "artist": "Clovis Reyes, HR, Irokz",
+  "duration": 115,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:11.060\" end=\"00:15.170\">\n        <span begin=\"00:11.060\" end=\"00:15.170\">EEyuh<\/span>\n      <\/p>\n      <p begin=\"00:15.170\" end=\"00:18.950\">\n        <span begin=\"00:15.170\" end=\"00:18.950\">EEyuh<\/span>\n      <\/p>\n      <p begin=\"00:18.950\" end=\"00:36.670\">\n        <span begin=\"00:18.950\" end=\"00:24.856\">EEyuh <\/span>\n        <span begin=\"00:24.856\" end=\"00:30.762\">EEyuh <\/span>\n        <span begin=\"00:30.762\" end=\"00:36.670\">EEyuh<\/span>\n      <\/p>\n      <p begin=\"00:36.670\" end=\"00:50.210\">\n        <span begin=\"00:36.670\" end=\"00:41.183\">EEyuh <\/span>\n        <span begin=\"00:41.183\" end=\"00:45.696\">EEyuh <\/span>\n        <span begin=\"00:45.696\" end=\"00:50.210\">EEyuh<\/span>\n      <\/p>\n      <p begin=\"00:50.210\" end=\"00:55.080\">\n        <span begin=\"00:50.210\" end=\"00:55.080\">EEyuh<\/span>\n      <\/p>\n      <p begin=\"00:55.080\" end=\"01:01.030\">\n        <span begin=\"00:55.080\" end=\"01:01.030\">EEyuh<\/span>\n      <\/p>\n      <p begin=\"01:01.030\" end=\"01:03.910\">\n        <span begin=\"01:01.030\" end=\"01:02.470\">BAM <\/span>\n        <span begin=\"01:02.470\" end=\"01:03.910\">BAM<\/span>\n      <\/p>\n      <p begin=\"01:03.910\" end=\"01:05.680\">\n        <span begin=\"01:03.910\" end=\"01:04.795\">BAM <\/span>\n        <span begin=\"01:04.795\" end=\"01:05.680\">BAM<\/span>\n      <\/p>\n      <p begin=\"01:05.680\" end=\"01:06.150\">\n        <span begin=\"01:05.680\" end=\"01:05.930\">BAM <\/span>\n        <span begin=\"01:05.930\" end=\"01:06.150\">BAM<\/span>\n      <\/p>\n      <p begin=\"01:06.150\" end=\"01:11.150\">\n        <span begin=\"01:06.150\" end=\"01:08.650\">BAM <\/span>\n        <span begin=\"01:08.650\" end=\"01:11.150\">BAM<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 11060,
+      "endTime": 15170,
+      "text": "EEyuh",
+      "words": [
+        {
+          "startTime": 11060,
+          "endTime": 15170,
+          "word": "EEyuh"
+        }
+      ]
+    },
+    {
+      "time": 15170,
+      "endTime": 18950,
+      "text": "EEyuh",
+      "words": [
+        {
+          "startTime": 15170,
+          "endTime": 18950,
+          "word": "EEyuh"
+        }
+      ]
+    },
+    {
+      "time": 18950,
+      "endTime": 36670,
+      "text": "EEyuh EEyuh EEyuh",
+      "words": [
+        {
+          "startTime": 18950,
+          "endTime": 24856,
+          "word": "EEyuh "
+        },
+        {
+          "startTime": 24856,
+          "endTime": 30762,
+          "word": "EEyuh "
+        },
+        {
+          "startTime": 30762,
+          "endTime": 36670,
+          "word": "EEyuh"
+        }
+      ]
+    },
+    {
+      "time": 36670,
+      "endTime": 50210,
+      "text": "EEyuh EEyuh EEyuh",
+      "words": [
+        {
+          "startTime": 36670,
+          "endTime": 41183,
+          "word": "EEyuh "
+        },
+        {
+          "startTime": 41183,
+          "endTime": 45696,
+          "word": "EEyuh "
+        },
+        {
+          "startTime": 45696,
+          "endTime": 50210,
+          "word": "EEyuh"
+        }
+      ]
+    },
+    {
+      "time": 50210,
+      "endTime": 55080,
+      "text": "EEyuh",
+      "words": [
+        {
+          "startTime": 50210,
+          "endTime": 55080,
+          "word": "EEyuh"
+        }
+      ]
+    },
+    {
+      "time": 55080,
+      "endTime": 61030,
+      "text": "EEyuh",
+      "words": [
+        {
+          "startTime": 55080,
+          "endTime": 61030,
+          "word": "EEyuh"
+        }
+      ]
+    },
+    {
+      "time": 61030,
+      "endTime": 63910,
+      "text": "BAM BAM",
+      "words": [
+        {
+          "startTime": 61030,
+          "endTime": 62470,
+          "word": "BAM "
+        },
+        {
+          "startTime": 62470,
+          "endTime": 63910,
+          "word": "BAM"
+        }
+      ]
+    },
+    {
+      "time": 63910,
+      "endTime": 65680,
+      "text": "BAM BAM",
+      "words": [
+        {
+          "startTime": 63910,
+          "endTime": 64795,
+          "word": "BAM "
+        },
+        {
+          "startTime": 64795,
+          "endTime": 65680,
+          "word": "BAM"
+        }
+      ]
+    },
+    {
+      "time": 65680,
+      "endTime": 66150,
+      "text": "BAM BAM",
+      "words": [
+        {
+          "startTime": 65680,
+          "endTime": 65930,
+          "word": "BAM "
+        },
+        {
+          "startTime": 65930,
+          "endTime": 66150,
+          "word": "BAM"
+        }
+      ]
+    },
+    {
+      "time": 66150,
+      "endTime": 71150,
+      "text": "BAM BAM",
+      "words": [
+        {
+          "startTime": 66150,
+          "endTime": 68650,
+          "word": "BAM "
+        },
+        {
+          "startTime": 68650,
+          "endTime": 71150,
+          "word": "BAM"
+        }
+      ]
+    }
+  ]
+}
