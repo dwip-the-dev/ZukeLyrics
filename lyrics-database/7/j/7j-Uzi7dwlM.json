@@ -1,0 +1,731 @@
+{
+  "videoId": "7j-Uzi7dwlM",
+  "title": "Thoda Resham Lagta Hai (Remix)",
+  "artist": "Lata Mangeshkar",
+  "duration": 141,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:21.070\" end=\"00:26.350\">\n        <span begin=\"00:21.070\" end=\"00:21.892\">वो <\/span>\n        <span begin=\"00:21.892\" end=\"00:22.851\">मेरा <\/span>\n        <span begin=\"00:22.851\" end=\"00:23.742\">सजन <\/span>\n        <span begin=\"00:23.742\" end=\"00:24.564\">तब <\/span>\n        <span begin=\"00:24.564\" end=\"00:25.523\">बनता <\/span>\n        <span begin=\"00:25.523\" end=\"00:26.350\">है<\/span>\n      <\/p>\n      <p begin=\"00:26.350\" end=\"00:28.380\">\n        <span begin=\"00:26.350\" end=\"00:26.876\">थोड़ा <\/span>\n        <span begin=\"00:26.876\" end=\"00:27.402\">रेशम <\/span>\n        <span begin=\"00:27.402\" end=\"00:27.928\">लगता <\/span>\n        <span begin=\"00:27.928\" end=\"00:28.380\">है<\/span>\n      <\/p>\n      <p begin=\"00:28.380\" end=\"00:30.740\">\n        <span begin=\"00:28.380\" end=\"00:28.991\">थोड़ा <\/span>\n        <span begin=\"00:28.991\" end=\"00:29.602\">शीशा <\/span>\n        <span begin=\"00:29.602\" end=\"00:30.213\">लगता <\/span>\n        <span begin=\"00:30.213\" end=\"00:30.740\">है<\/span>\n      <\/p>\n      <p begin=\"00:30.740\" end=\"00:32.720\">\n        <span begin=\"00:30.740\" end=\"00:31.671\">हीरे-मोती <\/span>\n        <span begin=\"00:31.671\" end=\"00:32.214\">जड़ते <\/span>\n        <span begin=\"00:32.214\" end=\"00:32.720\">हैं<\/span>\n      <\/p>\n      <p begin=\"00:32.720\" end=\"00:35.530\">\n        <span begin=\"00:32.720\" end=\"00:33.448\">थोड़ा <\/span>\n        <span begin=\"00:33.448\" end=\"00:34.176\">सोना <\/span>\n        <span begin=\"00:34.176\" end=\"00:34.904\">लगता <\/span>\n        <span begin=\"00:34.904\" end=\"00:35.530\">है<\/span>\n      <\/p>\n      <p begin=\"00:35.530\" end=\"00:38.480\">\n        <span begin=\"00:35.530\" end=\"00:36.294\">थोड़ा <\/span>\n        <span begin=\"00:36.294\" end=\"00:37.058\">रेशम <\/span>\n        <span begin=\"00:37.058\" end=\"00:37.822\">लगता <\/span>\n        <span begin=\"00:37.822\" end=\"00:38.480\">है<\/span>\n      <\/p>\n      <p begin=\"00:38.480\" end=\"00:40.480\">\n        <span begin=\"00:38.480\" end=\"00:38.998\">थोड़ा <\/span>\n        <span begin=\"00:38.998\" end=\"00:39.516\">शीशा <\/span>\n        <span begin=\"00:39.516\" end=\"00:40.034\">लगता <\/span>\n        <span begin=\"00:40.034\" end=\"00:40.480\">है<\/span>\n      <\/p>\n      <p begin=\"00:40.480\" end=\"00:43.240\">\n        <span begin=\"00:40.480\" end=\"00:41.778\">हीरे-मोती <\/span>\n        <span begin=\"00:41.778\" end=\"00:42.535\">जड़ते <\/span>\n        <span begin=\"00:42.535\" end=\"00:43.240\">हैं<\/span>\n      <\/p>\n      <p begin=\"00:43.240\" end=\"00:56.060\">\n        <span begin=\"00:43.240\" end=\"00:46.563\">थोड़ा <\/span>\n        <span begin=\"00:46.563\" end=\"00:49.886\">सोना <\/span>\n        <span begin=\"00:49.886\" end=\"00:53.209\">लगता <\/span>\n        <span begin=\"00:53.209\" end=\"00:56.060\">है<\/span>\n      <\/p>\n      <p begin=\"00:56.060\" end=\"01:00.750\">\n        <span begin=\"00:56.060\" end=\"00:56.737\">दिल <\/span>\n        <span begin=\"00:56.737\" end=\"00:57.362\">को <\/span>\n        <span begin=\"00:57.362\" end=\"00:58.143\">प्यार <\/span>\n        <span begin=\"00:58.143\" end=\"00:58.768\">का <\/span>\n        <span begin=\"00:58.768\" end=\"00:59.445\">रोग <\/span>\n        <span begin=\"00:59.445\" end=\"01:00.122\">लगा <\/span>\n        <span begin=\"01:00.122\" end=\"01:00.750\">के<\/span>\n      <\/p>\n      <p begin=\"01:00.750\" end=\"01:05.840\">\n        <span begin=\"01:00.750\" end=\"01:02.022\">ज़ख़्म <\/span>\n        <span begin=\"01:02.022\" end=\"01:03.385\">बनाने <\/span>\n        <span begin=\"01:03.385\" end=\"01:04.657\">पड़ते <\/span>\n        <span begin=\"01:04.657\" end=\"01:05.840\">हैं<\/span>\n      <\/p>\n      <p begin=\"01:05.840\" end=\"01:10.510\">\n        <span begin=\"01:05.840\" end=\"01:07.608\">ख़ून-ए-जिगर <\/span>\n        <span begin=\"01:07.608\" end=\"01:08.457\">से <\/span>\n        <span begin=\"01:08.457\" end=\"01:09.659\">अरमानों <\/span>\n        <span begin=\"01:09.659\" end=\"01:10.510\">के<\/span>\n      <\/p>\n      <p begin=\"01:10.510\" end=\"01:15.460\">\n        <span begin=\"01:10.510\" end=\"01:11.659\">फूल <\/span>\n        <span begin=\"01:11.659\" end=\"01:13.073\">खिलाने <\/span>\n        <span begin=\"01:13.073\" end=\"01:14.310\">पड़ते <\/span>\n        <span begin=\"01:14.310\" end=\"01:15.460\">हैं<\/span>\n      <\/p>\n      <p begin=\"01:15.460\" end=\"01:20.210\">\n        <span begin=\"01:15.460\" end=\"01:16.146\">दिल <\/span>\n        <span begin=\"01:16.146\" end=\"01:16.779\">को <\/span>\n        <span begin=\"01:16.779\" end=\"01:17.570\">प्यार <\/span>\n        <span begin=\"01:17.570\" end=\"01:18.203\">का <\/span>\n        <span begin=\"01:18.203\" end=\"01:18.889\">रोग <\/span>\n        <span begin=\"01:18.889\" end=\"01:19.575\">लगा <\/span>\n        <span begin=\"01:19.575\" end=\"01:20.210\">के<\/span>\n      <\/p>\n      <p begin=\"01:20.210\" end=\"01:24.870\">\n        <span begin=\"01:20.210\" end=\"01:21.375\">ज़ख़्म <\/span>\n        <span begin=\"01:21.375\" end=\"01:22.623\">बनाने <\/span>\n        <span begin=\"01:22.623\" end=\"01:23.788\">पड़ते <\/span>\n        <span begin=\"01:23.788\" end=\"01:24.870\">हैं<\/span>\n      <\/p>\n      <p begin=\"01:24.870\" end=\"01:29.830\">\n        <span begin=\"01:24.870\" end=\"01:26.748\">ख़ून-ए-जिगर <\/span>\n        <span begin=\"01:26.748\" end=\"01:27.649\">से <\/span>\n        <span begin=\"01:27.649\" end=\"01:28.926\">अरमानों <\/span>\n        <span begin=\"01:28.926\" end=\"01:29.830\">के<\/span>\n      <\/p>\n      <p begin=\"01:29.830\" end=\"01:33.680\">\n        <span begin=\"01:29.830\" end=\"01:30.723\">फूल <\/span>\n        <span begin=\"01:30.723\" end=\"01:31.822\">खिलाने <\/span>\n        <span begin=\"01:31.822\" end=\"01:32.784\">पड़ते <\/span>\n        <span begin=\"01:32.784\" end=\"01:33.680\">हैं<\/span>\n      <\/p>\n      <p begin=\"01:33.680\" end=\"01:38.610\">\n        <span begin=\"01:33.680\" end=\"01:34.678\">कलियों <\/span>\n        <span begin=\"01:34.678\" end=\"01:35.426\">का <\/span>\n        <span begin=\"01:35.426\" end=\"01:36.237\">चमन <\/span>\n        <span begin=\"01:36.237\" end=\"01:36.985\">तब <\/span>\n        <span begin=\"01:36.985\" end=\"01:37.858\">बनता <\/span>\n        <span begin=\"01:37.858\" end=\"01:38.610\">है<\/span>\n      <\/p>\n      <p begin=\"01:38.610\" end=\"01:40.940\">\n        <span begin=\"01:38.610\" end=\"01:39.214\">थोड़ा <\/span>\n        <span begin=\"01:39.214\" end=\"01:39.818\">रेशम <\/span>\n        <span begin=\"01:39.818\" end=\"01:40.422\">लगता <\/span>\n        <span begin=\"01:40.422\" end=\"01:40.940\">है<\/span>\n      <\/p>\n      <p begin=\"01:40.940\" end=\"01:43.120\">\n        <span begin=\"01:40.940\" end=\"01:41.505\">थोड़ा <\/span>\n        <span begin=\"01:41.505\" end=\"01:42.070\">शीशा <\/span>\n        <span begin=\"01:42.070\" end=\"01:42.635\">लगता <\/span>\n        <span begin=\"01:42.635\" end=\"01:43.120\">है<\/span>\n      <\/p>\n      <p begin=\"01:43.120\" end=\"01:45.810\">\n        <span begin=\"01:43.120\" end=\"01:44.385\">हीरे-मोती <\/span>\n        <span begin=\"01:44.385\" end=\"01:45.123\">जड़ते <\/span>\n        <span begin=\"01:45.123\" end=\"01:45.810\">हैं<\/span>\n      <\/p>\n      <p begin=\"01:45.810\" end=\"01:48.360\">\n        <span begin=\"01:45.810\" end=\"01:46.471\">थोड़ा <\/span>\n        <span begin=\"01:46.471\" end=\"01:47.132\">सोना <\/span>\n        <span begin=\"01:47.132\" end=\"01:47.793\">लगता <\/span>\n        <span begin=\"01:47.793\" end=\"01:48.360\">है<\/span>\n      <\/p>\n      <p begin=\"01:48.360\" end=\"01:53.060\">\n        <span begin=\"01:48.360\" end=\"01:49.143\">ऐसा <\/span>\n        <span begin=\"01:49.143\" end=\"01:49.986\">गोरा <\/span>\n        <span begin=\"01:49.986\" end=\"01:50.769\">बदन <\/span>\n        <span begin=\"01:50.769\" end=\"01:51.492\">तब <\/span>\n        <span begin=\"01:51.492\" end=\"01:52.335\">बनता <\/span>\n        <span begin=\"01:52.335\" end=\"01:53.060\">है<\/span>\n      <\/p>\n      <p begin=\"01:53.060\" end=\"01:55.150\">\n        <span begin=\"01:53.060\" end=\"01:53.601\">थोड़ा <\/span>\n        <span begin=\"01:53.601\" end=\"01:54.142\">रेशम <\/span>\n        <span begin=\"01:54.142\" end=\"01:54.683\">लगता <\/span>\n        <span begin=\"01:54.683\" end=\"01:55.150\">है<\/span>\n      <\/p>\n      <p begin=\"01:55.150\" end=\"02:00.150\">\n        <span begin=\"01:55.150\" end=\"01:56.446\">थोड़ा <\/span>\n        <span begin=\"01:56.446\" end=\"01:57.742\">शीशा <\/span>\n        <span begin=\"01:57.742\" end=\"01:59.038\">लगता <\/span>\n        <span begin=\"01:59.038\" end=\"02:00.150\">है<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 21070,
+      "endTime": 26350,
+      "text": "वो मेरा सजन तब बनता है",
+      "words": [
+        {
+          "startTime": 21070,
+          "endTime": 21892,
+          "word": "वो "
+        },
+        {
+          "startTime": 21892,
+          "endTime": 22851,
+          "word": "मेरा "
+        },
+        {
+          "startTime": 22851,
+          "endTime": 23742,
+          "word": "सजन "
+        },
+        {
+          "startTime": 23742,
+          "endTime": 24564,
+          "word": "तब "
+        },
+        {
+          "startTime": 24564,
+          "endTime": 25523,
+          "word": "बनता "
+        },
+        {
+          "startTime": 25523,
+          "endTime": 26350,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 26350,
+      "endTime": 28380,
+      "text": "थोड़ा रेशम लगता है",
+      "words": [
+        {
+          "startTime": 26350,
+          "endTime": 26876,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 26876,
+          "endTime": 27402,
+          "word": "रेशम "
+        },
+        {
+          "startTime": 27402,
+          "endTime": 27928,
+          "word": "लगता "
+        },
+        {
+          "startTime": 27928,
+          "endTime": 28380,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 28380,
+      "endTime": 30740,
+      "text": "थोड़ा शीशा लगता है",
+      "words": [
+        {
+          "startTime": 28380,
+          "endTime": 28991,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 28991,
+          "endTime": 29602,
+          "word": "शीशा "
+        },
+        {
+          "startTime": 29602,
+          "endTime": 30213,
+          "word": "लगता "
+        },
+        {
+          "startTime": 30213,
+          "endTime": 30740,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 30740,
+      "endTime": 32720,
+      "text": "हीरे-मोती जड़ते हैं",
+      "words": [
+        {
+          "startTime": 30740,
+          "endTime": 31671,
+          "word": "हीरे-मोती "
+        },
+        {
+          "startTime": 31671,
+          "endTime": 32214,
+          "word": "जड़ते "
+        },
+        {
+          "startTime": 32214,
+          "endTime": 32720,
+          "word": "हैं"
+        }
+      ]
+    },
+    {
+      "time": 32720,
+      "endTime": 35530,
+      "text": "थोड़ा सोना लगता है",
+      "words": [
+        {
+          "startTime": 32720,
+          "endTime": 33448,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 33448,
+          "endTime": 34176,
+          "word": "सोना "
+        },
+        {
+          "startTime": 34176,
+          "endTime": 34904,
+          "word": "लगता "
+        },
+        {
+          "startTime": 34904,
+          "endTime": 35530,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 35530,
+      "endTime": 38480,
+      "text": "थोड़ा रेशम लगता है",
+      "words": [
+        {
+          "startTime": 35530,
+          "endTime": 36294,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 36294,
+          "endTime": 37058,
+          "word": "रेशम "
+        },
+        {
+          "startTime": 37058,
+          "endTime": 37822,
+          "word": "लगता "
+        },
+        {
+          "startTime": 37822,
+          "endTime": 38480,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 38480,
+      "endTime": 40480,
+      "text": "थोड़ा शीशा लगता है",
+      "words": [
+        {
+          "startTime": 38480,
+          "endTime": 38998,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 38998,
+          "endTime": 39516,
+          "word": "शीशा "
+        },
+        {
+          "startTime": 39516,
+          "endTime": 40034,
+          "word": "लगता "
+        },
+        {
+          "startTime": 40034,
+          "endTime": 40480,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 40480,
+      "endTime": 43240,
+      "text": "हीरे-मोती जड़ते हैं",
+      "words": [
+        {
+          "startTime": 40480,
+          "endTime": 41778,
+          "word": "हीरे-मोती "
+        },
+        {
+          "startTime": 41778,
+          "endTime": 42535,
+          "word": "जड़ते "
+        },
+        {
+          "startTime": 42535,
+          "endTime": 43240,
+          "word": "हैं"
+        }
+      ]
+    },
+    {
+      "time": 43240,
+      "endTime": 56060,
+      "text": "थोड़ा सोना लगता है",
+      "words": [
+        {
+          "startTime": 43240,
+          "endTime": 46563,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 46563,
+          "endTime": 49886,
+          "word": "सोना "
+        },
+        {
+          "startTime": 49886,
+          "endTime": 53209,
+          "word": "लगता "
+        },
+        {
+          "startTime": 53209,
+          "endTime": 56060,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 56060,
+      "endTime": 60750,
+      "text": "दिल को प्यार का रोग लगा के",
+      "words": [
+        {
+          "startTime": 56060,
+          "endTime": 56737,
+          "word": "दिल "
+        },
+        {
+          "startTime": 56737,
+          "endTime": 57362,
+          "word": "को "
+        },
+        {
+          "startTime": 57362,
+          "endTime": 58143,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 58143,
+          "endTime": 58768,
+          "word": "का "
+        },
+        {
+          "startTime": 58768,
+          "endTime": 59445,
+          "word": "रोग "
+        },
+        {
+          "startTime": 59445,
+          "endTime": 60122,
+          "word": "लगा "
+        },
+        {
+          "startTime": 60122,
+          "endTime": 60750,
+          "word": "के"
+        }
+      ]
+    },
+    {
+      "time": 60750,
+      "endTime": 65840,
+      "text": "ज़ख़्म बनाने पड़ते हैं",
+      "words": [
+        {
+          "startTime": 60750,
+          "endTime": 62022,
+          "word": "ज़ख़्म "
+        },
+        {
+          "startTime": 62022,
+          "endTime": 63385,
+          "word": "बनाने "
+        },
+        {
+          "startTime": 63385,
+          "endTime": 64657,
+          "word": "पड़ते "
+        },
+        {
+          "startTime": 64657,
+          "endTime": 65840,
+          "word": "हैं"
+        }
+      ]
+    },
+    {
+      "time": 65840,
+      "endTime": 70510,
+      "text": "ख़ून-ए-जिगर से अरमानों के",
+      "words": [
+        {
+          "startTime": 65840,
+          "endTime": 67608,
+          "word": "ख़ून-ए-जिगर "
+        },
+        {
+          "startTime": 67608,
+          "endTime": 68457,
+          "word": "से "
+        },
+        {
+          "startTime": 68457,
+          "endTime": 69659,
+          "word": "अरमानों "
+        },
+        {
+          "startTime": 69659,
+          "endTime": 70510,
+          "word": "के"
+        }
+      ]
+    },
+    {
+      "time": 70510,
+      "endTime": 75460,
+      "text": "फूल खिलाने पड़ते हैं",
+      "words": [
+        {
+          "startTime": 70510,
+          "endTime": 71659,
+          "word": "फूल "
+        },
+        {
+          "startTime": 71659,
+          "endTime": 73073,
+          "word": "खिलाने "
+        },
+        {
+          "startTime": 73073,
+          "endTime": 74310,
+          "word": "पड़ते "
+        },
+        {
+          "startTime": 74310,
+          "endTime": 75460,
+          "word": "हैं"
+        }
+      ]
+    },
+    {
+      "time": 75460,
+      "endTime": 80210,
+      "text": "दिल को प्यार का रोग लगा के",
+      "words": [
+        {
+          "startTime": 75460,
+          "endTime": 76146,
+          "word": "दिल "
+        },
+        {
+          "startTime": 76146,
+          "endTime": 76779,
+          "word": "को "
+        },
+        {
+          "startTime": 76779,
+          "endTime": 77570,
+          "word": "प्यार "
+        },
+        {
+          "startTime": 77570,
+          "endTime": 78203,
+          "word": "का "
+        },
+        {
+          "startTime": 78203,
+          "endTime": 78889,
+          "word": "रोग "
+        },
+        {
+          "startTime": 78889,
+          "endTime": 79575,
+          "word": "लगा "
+        },
+        {
+          "startTime": 79575,
+          "endTime": 80210,
+          "word": "के"
+        }
+      ]
+    },
+    {
+      "time": 80210,
+      "endTime": 84870,
+      "text": "ज़ख़्म बनाने पड़ते हैं",
+      "words": [
+        {
+          "startTime": 80210,
+          "endTime": 81375,
+          "word": "ज़ख़्म "
+        },
+        {
+          "startTime": 81375,
+          "endTime": 82623,
+          "word": "बनाने "
+        },
+        {
+          "startTime": 82623,
+          "endTime": 83788,
+          "word": "पड़ते "
+        },
+        {
+          "startTime": 83788,
+          "endTime": 84870,
+          "word": "हैं"
+        }
+      ]
+    },
+    {
+      "time": 84870,
+      "endTime": 89830,
+      "text": "ख़ून-ए-जिगर से अरमानों के",
+      "words": [
+        {
+          "startTime": 84870,
+          "endTime": 86748,
+          "word": "ख़ून-ए-जिगर "
+        },
+        {
+          "startTime": 86748,
+          "endTime": 87649,
+          "word": "से "
+        },
+        {
+          "startTime": 87649,
+          "endTime": 88926,
+          "word": "अरमानों "
+        },
+        {
+          "startTime": 88926,
+          "endTime": 89830,
+          "word": "के"
+        }
+      ]
+    },
+    {
+      "time": 89830,
+      "endTime": 93680,
+      "text": "फूल खिलाने पड़ते हैं",
+      "words": [
+        {
+          "startTime": 89830,
+          "endTime": 90723,
+          "word": "फूल "
+        },
+        {
+          "startTime": 90723,
+          "endTime": 91822,
+          "word": "खिलाने "
+        },
+        {
+          "startTime": 91822,
+          "endTime": 92784,
+          "word": "पड़ते "
+        },
+        {
+          "startTime": 92784,
+          "endTime": 93680,
+          "word": "हैं"
+        }
+      ]
+    },
+    {
+      "time": 93680,
+      "endTime": 98610,
+      "text": "कलियों का चमन तब बनता है",
+      "words": [
+        {
+          "startTime": 93680,
+          "endTime": 94678,
+          "word": "कलियों "
+        },
+        {
+          "startTime": 94678,
+          "endTime": 95426,
+          "word": "का "
+        },
+        {
+          "startTime": 95426,
+          "endTime": 96237,
+          "word": "चमन "
+        },
+        {
+          "startTime": 96237,
+          "endTime": 96985,
+          "word": "तब "
+        },
+        {
+          "startTime": 96985,
+          "endTime": 97858,
+          "word": "बनता "
+        },
+        {
+          "startTime": 97858,
+          "endTime": 98610,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 98610,
+      "endTime": 100940,
+      "text": "थोड़ा रेशम लगता है",
+      "words": [
+        {
+          "startTime": 98610,
+          "endTime": 99214,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 99214,
+          "endTime": 99818,
+          "word": "रेशम "
+        },
+        {
+          "startTime": 99818,
+          "endTime": 100422,
+          "word": "लगता "
+        },
+        {
+          "startTime": 100422,
+          "endTime": 100940,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 100940,
+      "endTime": 103120,
+      "text": "थोड़ा शीशा लगता है",
+      "words": [
+        {
+          "startTime": 100940,
+          "endTime": 101505,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 101505,
+          "endTime": 102070,
+          "word": "शीशा "
+        },
+        {
+          "startTime": 102070,
+          "endTime": 102635,
+          "word": "लगता "
+        },
+        {
+          "startTime": 102635,
+          "endTime": 103120,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 103120,
+      "endTime": 105810,
+      "text": "हीरे-मोती जड़ते हैं",
+      "words": [
+        {
+          "startTime": 103120,
+          "endTime": 104385,
+          "word": "हीरे-मोती "
+        },
+        {
+          "startTime": 104385,
+          "endTime": 105123,
+          "word": "जड़ते "
+        },
+        {
+          "startTime": 105123,
+          "endTime": 105810,
+          "word": "हैं"
+        }
+      ]
+    },
+    {
+      "time": 105810,
+      "endTime": 108360,
+      "text": "थोड़ा सोना लगता है",
+      "words": [
+        {
+          "startTime": 105810,
+          "endTime": 106471,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 106471,
+          "endTime": 107132,
+          "word": "सोना "
+        },
+        {
+          "startTime": 107132,
+          "endTime": 107793,
+          "word": "लगता "
+        },
+        {
+          "startTime": 107793,
+          "endTime": 108360,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 108360,
+      "endTime": 113060,
+      "text": "ऐसा गोरा बदन तब बनता है",
+      "words": [
+        {
+          "startTime": 108360,
+          "endTime": 109143,
+          "word": "ऐसा "
+        },
+        {
+          "startTime": 109143,
+          "endTime": 109986,
+          "word": "गोरा "
+        },
+        {
+          "startTime": 109986,
+          "endTime": 110769,
+          "word": "बदन "
+        },
+        {
+          "startTime": 110769,
+          "endTime": 111492,
+          "word": "तब "
+        },
+        {
+          "startTime": 111492,
+          "endTime": 112335,
+          "word": "बनता "
+        },
+        {
+          "startTime": 112335,
+          "endTime": 113060,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 113060,
+      "endTime": 115150,
+      "text": "थोड़ा रेशम लगता है",
+      "words": [
+        {
+          "startTime": 113060,
+          "endTime": 113601,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 113601,
+          "endTime": 114142,
+          "word": "रेशम "
+        },
+        {
+          "startTime": 114142,
+          "endTime": 114683,
+          "word": "लगता "
+        },
+        {
+          "startTime": 114683,
+          "endTime": 115150,
+          "word": "है"
+        }
+      ]
+    },
+    {
+      "time": 115150,
+      "endTime": 120150,
+      "text": "थोड़ा शीशा लगता है",
+      "words": [
+        {
+          "startTime": 115150,
+          "endTime": 116446,
+          "word": "थोड़ा "
+        },
+        {
+          "startTime": 116446,
+          "endTime": 117742,
+          "word": "शीशा "
+        },
+        {
+          "startTime": 117742,
+          "endTime": 119038,
+          "word": "लगता "
+        },
+        {
+          "startTime": 119038,
+          "endTime": 120150,
+          "word": "है"
+        }
+      ]
+    }
+  ]
+}
