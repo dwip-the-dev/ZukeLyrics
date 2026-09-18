@@ -1,0 +1,211 @@
+{
+  "videoId": "mpEhKQteA3o",
+  "title": "Outro",
+  "artist": "M83",
+  "duration": 248,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"01:41.070\" end=\"01:50.740\" ttm:agent=\"v1\">\n        <span begin=\"01:41.070\" end=\"01:42.451\">I&apos;m <\/span>\n        <span begin=\"01:42.451\" end=\"01:43.832\">the <\/span>\n        <span begin=\"01:43.832\" end=\"01:45.319\">king <\/span>\n        <span begin=\"01:45.319\" end=\"01:46.594\">of <\/span>\n        <span begin=\"01:46.594\" end=\"01:47.869\">my <\/span>\n        <span begin=\"01:47.869\" end=\"01:49.250\">own <\/span>\n        <span begin=\"01:49.250\" end=\"01:50.740\">land<\/span>\n      <\/p>\n      <p begin=\"01:50.740\" end=\"02:03.010\" ttm:agent=\"v1\">\n        <span begin=\"01:50.740\" end=\"01:52.661\">Facing <\/span>\n        <span begin=\"01:52.661\" end=\"01:54.730\">tempests <\/span>\n        <span begin=\"01:54.730\" end=\"01:55.616\">of <\/span>\n        <span begin=\"01:55.616\" end=\"01:57.094\">dust, <\/span>\n        <span begin=\"01:57.094\" end=\"01:58.128\">I&apos;ll <\/span>\n        <span begin=\"01:58.128\" end=\"01:59.236\">fight <\/span>\n        <span begin=\"01:59.236\" end=\"02:01.083\">until <\/span>\n        <span begin=\"02:01.083\" end=\"02:02.043\">the <\/span>\n        <span begin=\"02:02.043\" end=\"02:03.010\">end<\/span>\n      <\/p>\n      <p begin=\"02:03.010\" end=\"02:17.300\" ttm:agent=\"v1\">\n        <span begin=\"02:03.010\" end=\"02:06.367\">Creatures <\/span>\n        <span begin=\"02:06.367\" end=\"02:07.400\">of <\/span>\n        <span begin=\"02:07.400\" end=\"02:08.433\">my <\/span>\n        <span begin=\"02:08.433\" end=\"02:10.326\">dreams, <\/span>\n        <span begin=\"02:10.326\" end=\"02:11.617\">raise <\/span>\n        <span begin=\"02:11.617\" end=\"02:12.650\">up <\/span>\n        <span begin=\"02:12.650\" end=\"02:13.769\">and <\/span>\n        <span begin=\"02:13.769\" end=\"02:15.060\">dance <\/span>\n        <span begin=\"02:15.060\" end=\"02:16.265\">with <\/span>\n        <span begin=\"02:16.265\" end=\"02:17.300\">me<\/span>\n      <\/p>\n      <p begin=\"02:17.300\" end=\"02:20.760\" ttm:agent=\"v1\">\n        <span begin=\"02:17.300\" end=\"02:18.013\">Now <\/span>\n        <span begin=\"02:18.013\" end=\"02:18.726\">and <\/span>\n        <span begin=\"02:18.726\" end=\"02:20.760\">forever<\/span>\n      <\/p>\n      <p begin=\"02:20.760\" end=\"02:25.760\" ttm:agent=\"v1\">\n        <span begin=\"02:20.760\" end=\"02:22.345\">I&apos;m <\/span>\n        <span begin=\"02:22.345\" end=\"02:24.052\">your <\/span>\n        <span begin=\"02:24.052\" end=\"02:25.760\">king<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 101070,
+      "endTime": 110740,
+      "text": "I'm the king of my own land",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101070,
+          "endTime": 102451,
+          "word": "I'm "
+        },
+        {
+          "startTime": 102451,
+          "endTime": 103832,
+          "word": "the "
+        },
+        {
+          "startTime": 103832,
+          "endTime": 105319,
+          "word": "king "
+        },
+        {
+          "startTime": 105319,
+          "endTime": 106594,
+          "word": "of "
+        },
+        {
+          "startTime": 106594,
+          "endTime": 107869,
+          "word": "my "
+        },
+        {
+          "startTime": 107869,
+          "endTime": 109250,
+          "word": "own "
+        },
+        {
+          "startTime": 109250,
+          "endTime": 110740,
+          "word": "land"
+        }
+      ]
+    },
+    {
+      "time": 110740,
+      "endTime": 123010,
+      "text": "Facing tempests of dust, I'll fight until the end",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 110740,
+          "endTime": 112661,
+          "word": "Facing "
+        },
+        {
+          "startTime": 112661,
+          "endTime": 114730,
+          "word": "tempests "
+        },
+        {
+          "startTime": 114730,
+          "endTime": 115616,
+          "word": "of "
+        },
+        {
+          "startTime": 115616,
+          "endTime": 117094,
+          "word": "dust, "
+        },
+        {
+          "startTime": 117094,
+          "endTime": 118128,
+          "word": "I'll "
+        },
+        {
+          "startTime": 118128,
+          "endTime": 119236,
+          "word": "fight "
+        },
+        {
+          "startTime": 119236,
+          "endTime": 121083,
+          "word": "until "
+        },
+        {
+          "startTime": 121083,
+          "endTime": 122043,
+          "word": "the "
+        },
+        {
+          "startTime": 122043,
+          "endTime": 123010,
+          "word": "end"
+        }
+      ]
+    },
+    {
+      "time": 123010,
+      "endTime": 137300,
+      "text": "Creatures of my dreams, raise up and dance with me",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 123010,
+          "endTime": 126367,
+          "word": "Creatures "
+        },
+        {
+          "startTime": 126367,
+          "endTime": 127400,
+          "word": "of "
+        },
+        {
+          "startTime": 127400,
+          "endTime": 128433,
+          "word": "my "
+        },
+        {
+          "startTime": 128433,
+          "endTime": 130326,
+          "word": "dreams, "
+        },
+        {
+          "startTime": 130326,
+          "endTime": 131617,
+          "word": "raise "
+        },
+        {
+          "startTime": 131617,
+          "endTime": 132650,
+          "word": "up "
+        },
+        {
+          "startTime": 132650,
+          "endTime": 133769,
+          "word": "and "
+        },
+        {
+          "startTime": 133769,
+          "endTime": 135060,
+          "word": "dance "
+        },
+        {
+          "startTime": 135060,
+          "endTime": 136265,
+          "word": "with "
+        },
+        {
+          "startTime": 136265,
+          "endTime": 137300,
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "time": 137300,
+      "endTime": 140760,
+      "text": "Now and forever",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 137300,
+          "endTime": 138013,
+          "word": "Now "
+        },
+        {
+          "startTime": 138013,
+          "endTime": 138726,
+          "word": "and "
+        },
+        {
+          "startTime": 138726,
+          "endTime": 140760,
+          "word": "forever"
+        }
+      ]
+    },
+    {
+      "time": 140760,
+      "endTime": 145760,
+      "text": "I'm your king",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 140760,
+          "endTime": 142345,
+          "word": "I'm "
+        },
+        {
+          "startTime": 142345,
+          "endTime": 144052,
+          "word": "your "
+        },
+        {
+          "startTime": 144052,
+          "endTime": 145760,
+          "word": "king"
+        }
+      ]
+    }
+  ]
+}
