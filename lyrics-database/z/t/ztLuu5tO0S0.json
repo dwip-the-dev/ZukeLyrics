@@ -1,0 +1,78 @@
+{
+  "videoId": "ztLuu5tO0S0",
+  "title": "Another Wave from You",
+  "artist": "M83",
+  "duration": 114,
+  "source": "LrcLib",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"01:30.000\" end=\"01:35.000\">\n        <span begin=\"01:30.000\" end=\"01:30.325\">I <\/span>\n        <span begin=\"01:30.325\" end=\"01:30.768\">think <\/span>\n        <span begin=\"01:30.768\" end=\"01:31.093\">I <\/span>\n        <span begin=\"01:31.093\" end=\"01:31.477\">saw <\/span>\n        <span begin=\"01:31.477\" end=\"01:31.861\">you <\/span>\n        <span begin=\"01:31.861\" end=\"01:32.304\">there <\/span>\n        <span begin=\"01:32.304\" end=\"01:32.836\">... <\/span>\n        <span begin=\"01:32.836\" end=\"01:33.279\">think <\/span>\n        <span begin=\"01:33.279\" end=\"01:33.604\">I <\/span>\n        <span begin=\"01:33.604\" end=\"01:33.988\">saw <\/span>\n        <span begin=\"01:33.988\" end=\"01:34.372\">you <\/span>\n        <span begin=\"01:34.372\" end=\"01:35.000\">there.<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 90000,
+      "endTime": 95000,
+      "text": "I think I saw you there ... think I saw you there.",
+      "words": [
+        {
+          "startTime": 90000,
+          "endTime": 90325,
+          "word": "I "
+        },
+        {
+          "startTime": 90325,
+          "endTime": 90768,
+          "word": "think "
+        },
+        {
+          "startTime": 90768,
+          "endTime": 91093,
+          "word": "I "
+        },
+        {
+          "startTime": 91093,
+          "endTime": 91477,
+          "word": "saw "
+        },
+        {
+          "startTime": 91477,
+          "endTime": 91861,
+          "word": "you "
+        },
+        {
+          "startTime": 91861,
+          "endTime": 92304,
+          "word": "there "
+        },
+        {
+          "startTime": 92304,
+          "endTime": 92836,
+          "word": "... "
+        },
+        {
+          "startTime": 92836,
+          "endTime": 93279,
+          "word": "think "
+        },
+        {
+          "startTime": 93279,
+          "endTime": 93604,
+          "word": "I "
+        },
+        {
+          "startTime": 93604,
+          "endTime": 93988,
+          "word": "saw "
+        },
+        {
+          "startTime": 93988,
+          "endTime": 94372,
+          "word": "you "
+        },
+        {
+          "startTime": 94372,
+          "endTime": 95000,
+          "word": "there."
+        }
+      ]
+    }
+  ]
+}
