@@ -1,0 +1,894 @@
+{
+  "videoId": "K8v_DaCcORQ",
+  "title": "Midnight City",
+  "artist": "M83",
+  "duration": 244,
+  "source": "BetterLyrics",
+  "syncedType": "word",
+  "rawTtml": "<tt xmlns=\"http:\/\/www.w3.org\/ns\/ttml\" xmlns:ttm=\"http:\/\/www.w3.org\/ns\/ttml#metadata\">\n  <body>\n    <div>\n      <p begin=\"00:37.650\" end=\"00:41.191\" ttm:agent=\"v1\">\n        <span begin=\"00:37.654\" end=\"00:38.321\">Waitin‘<\/span>\n        <span begin=\"00:38.321\" end=\"00:38.587\">in<\/span>\n        <span begin=\"00:38.587\" end=\"00:38.905\">a<\/span>\n        <span begin=\"00:38.905\" end=\"00:41.191\">car<\/span>\n      <\/p>\n      <p begin=\"00:42.200\" end=\"00:46.334\" ttm:agent=\"v1\">\n        <span begin=\"00:42.204\" end=\"00:42.820\">Waitin‘<\/span>\n        <span begin=\"00:42.820\" end=\"00:43.137\">for<\/span>\n        <span begin=\"00:43.137\" end=\"00:43.455\">a<\/span>\n        <span begin=\"00:43.455\" end=\"00:44.252\">ride<\/span>\n        <span begin=\"00:44.252\" end=\"00:44.404\">in<\/span>\n        <span begin=\"00:44.404\" end=\"00:44.588\">the<\/span>\n        <span begin=\"00:44.588\" end=\"00:46.334\">dark<\/span>\n      <\/p>\n      <p begin=\"00:46.550\" end=\"00:50.604\" ttm:agent=\"v1\">\n        <span begin=\"00:46.551\" end=\"00:46.868\">At<\/span>\n        <span begin=\"00:46.868\" end=\"00:47.167\">night,<\/span>\n        <span begin=\"00:47.167\" end=\"00:47.449\">the<\/span>\n        <span begin=\"00:47.449\" end=\"00:48.017\">city<\/span>\n        <span begin=\"00:48.017\" end=\"00:50.604\">grows<\/span>\n      <\/p>\n      <p begin=\"00:51.440\" end=\"00:55.300\" ttm:agent=\"v1\">\n        <span begin=\"00:51.446\" end=\"00:51.747\">Look<\/span>\n        <span begin=\"00:51.747\" end=\"00:52.014\">and<\/span>\n        <span begin=\"00:52.014\" end=\"00:52.328\">see<\/span>\n        <span begin=\"00:52.328\" end=\"00:52.614\">her<\/span>\n        <span begin=\"00:52.614\" end=\"00:53.696\">eyes,<\/span>\n        <span begin=\"00:53.696\" end=\"00:54.296\">they<\/span>\n        <span begin=\"00:54.296\" end=\"00:55.300\">glow<\/span>\n      <\/p>\n      <p begin=\"01:14.240\" end=\"01:17.726\" ttm:agent=\"v1\">\n        <span begin=\"01:14.249\" end=\"01:14.849\">Waitin‘<\/span>\n        <span begin=\"01:14.849\" end=\"01:15.182\">in<\/span>\n        <span begin=\"01:15.182\" end=\"01:15.465\">a<\/span>\n        <span begin=\"01:15.465\" end=\"01:17.726\">car<\/span>\n      <\/p>\n      <p begin=\"01:18.780\" end=\"01:22.714\" ttm:agent=\"v1\">\n        <span begin=\"01:18.781\" end=\"01:19.440\">Waitin‘<\/span>\n        <span begin=\"01:19.440\" end=\"01:19.741\">for<\/span>\n        <span begin=\"01:19.741\" end=\"01:20.024\">a<\/span>\n        <span begin=\"01:20.024\" end=\"01:20.776\">ride<\/span>\n        <span begin=\"01:20.776\" end=\"01:21.024\">in<\/span>\n        <span begin=\"01:21.024\" end=\"01:21.242\">the<\/span>\n        <span begin=\"01:21.242\" end=\"01:22.714\">dark<\/span>\n      <\/p>\n      <p begin=\"01:23.290\" end=\"01:26.735\" ttm:agent=\"v1\">\n        <span begin=\"01:23.297\" end=\"01:24.047\">Drinkin‘<\/span>\n        <span begin=\"01:24.047\" end=\"01:24.313\">in<\/span>\n        <span begin=\"01:24.313\" end=\"01:24.615\">the<\/span>\n        <span begin=\"01:24.615\" end=\"01:26.735\">lights<\/span>\n      <\/p>\n      <p begin=\"01:27.730\" end=\"01:32.116\" ttm:agent=\"v1\">\n        <span begin=\"01:27.730\" end=\"01:28.797\">Followin‘<\/span>\n        <span begin=\"01:28.797\" end=\"01:29.146\">the<\/span>\n        <span begin=\"01:29.146\" end=\"01:30.829\">neon<\/span>\n        <span begin=\"01:30.829\" end=\"01:32.116\">signs<\/span>\n      <\/p>\n      <p begin=\"01:32.480\" end=\"01:36.146\" ttm:agent=\"v1\">\n        <span begin=\"01:32.481\" end=\"01:33.198\">Waitin‘<\/span>\n        <span begin=\"01:33.198\" end=\"01:33.515\">for<\/span>\n        <span begin=\"01:33.515\" end=\"01:33.782\">a<\/span>\n        <span begin=\"01:33.782\" end=\"01:36.146\">word<\/span>\n      <\/p>\n      <p begin=\"01:37.000\" end=\"01:40.884\" ttm:agent=\"v1\">\n        <span begin=\"01:37.007\" end=\"01:37.721\">Lookin‘<\/span>\n        <span begin=\"01:37.721\" end=\"01:37.991\">at<\/span>\n        <span begin=\"01:37.991\" end=\"01:38.308\">the<\/span>\n        <span begin=\"01:38.308\" end=\"01:39.423\">milky<\/span>\n        <span begin=\"01:39.423\" end=\"01:40.884\">skyline<\/span>\n      <\/p>\n      <p begin=\"01:41.370\" end=\"01:45.503\" ttm:agent=\"v1\">\n        <span begin=\"01:41.377\" end=\"01:41.609\">The<\/span>\n        <span begin=\"01:41.609\" end=\"01:42.377\">city<\/span>\n        <span begin=\"01:42.377\" end=\"01:42.660\">is<\/span>\n        <span begin=\"01:42.660\" end=\"01:42.892\">my<\/span>\n        <span begin=\"01:42.892\" end=\"01:45.503\">church<\/span>\n      <\/p>\n      <p begin=\"01:41.370\" end=\"01:45.676\" role=\"x-bg\">\n        <span begin=\"01:43.157\" end=\"01:43.439\">(The<\/span>\n        <span begin=\"01:43.439\" end=\"01:43.991\">city<\/span>\n        <span begin=\"01:43.991\" end=\"01:44.274\">is<\/span>\n        <span begin=\"01:44.274\" end=\"01:44.573\">my<\/span>\n        <span begin=\"01:44.573\" end=\"01:45.676\">church)<\/span>\n      <\/p>\n      <p begin=\"01:45.980\" end=\"01:50.039\" ttm:agent=\"v1\">\n        <span begin=\"01:45.984\" end=\"01:46.301\">It<\/span>\n        <span begin=\"01:46.301\" end=\"01:46.568\">wraps<\/span>\n        <span begin=\"01:46.568\" end=\"01:46.902\">me<\/span>\n        <span begin=\"01:46.902\" end=\"01:47.152\">in<\/span>\n        <span begin=\"01:47.152\" end=\"01:47.416\">its<\/span>\n        <span begin=\"01:47.416\" end=\"01:48.619\">blinding<\/span>\n        <span begin=\"01:48.619\" end=\"01:50.039\">twilight<\/span>\n      <\/p>\n      <p begin=\"02:18.250\" end=\"02:22.018\" ttm:agent=\"v1\">\n        <span begin=\"02:18.253\" end=\"02:18.834\">Waitin‘<\/span>\n        <span begin=\"02:18.834\" end=\"02:19.120\">in<\/span>\n        <span begin=\"02:19.120\" end=\"02:19.453\">a<\/span>\n        <span begin=\"02:19.453\" end=\"02:22.018\">car<\/span>\n      <\/p>\n      <p begin=\"02:22.780\" end=\"02:26.876\" ttm:agent=\"v1\">\n        <span begin=\"02:22.780\" end=\"02:23.428\">Waitin‘<\/span>\n        <span begin=\"02:23.428\" end=\"02:23.711\">for<\/span>\n        <span begin=\"02:23.711\" end=\"02:24.012\">a<\/span>\n        <span begin=\"02:24.012\" end=\"02:24.847\">ride<\/span>\n        <span begin=\"02:24.847\" end=\"02:25.015\">in<\/span>\n        <span begin=\"02:25.015\" end=\"02:25.196\">the<\/span>\n        <span begin=\"02:25.196\" end=\"02:26.876\">dark<\/span>\n      <\/p>\n      <p begin=\"02:27.380\" end=\"02:31.119\" ttm:agent=\"v1\">\n        <span begin=\"02:27.386\" end=\"02:27.970\">Waitin‘<\/span>\n        <span begin=\"02:27.970\" end=\"02:28.319\">in<\/span>\n        <span begin=\"02:28.319\" end=\"02:28.586\">a<\/span>\n        <span begin=\"02:28.586\" end=\"02:31.119\">car<\/span>\n      <\/p>\n      <p begin=\"02:27.380\" end=\"02:33.323\" role=\"x-bg\">\n        <span begin=\"02:29.110\" end=\"02:29.710\">(Waitin&apos;<\/span>\n        <span begin=\"02:29.710\" end=\"02:30.027\">in<\/span>\n        <span begin=\"02:30.027\" end=\"02:30.326\">a<\/span>\n        <span begin=\"02:30.326\" end=\"02:33.323\">car)<\/span>\n      <\/p>\n      <p begin=\"02:31.930\" end=\"02:35.989\" ttm:agent=\"v1\">\n        <span begin=\"02:31.933\" end=\"02:32.565\">Waitin‘<\/span>\n        <span begin=\"02:32.565\" end=\"02:32.866\">for<\/span>\n        <span begin=\"02:32.866\" end=\"02:33.165\">a<\/span>\n        <span begin=\"02:33.165\" end=\"02:33.965\">ride<\/span>\n        <span begin=\"02:33.965\" end=\"02:34.215\">in<\/span>\n        <span begin=\"02:34.215\" end=\"02:34.317\">the<\/span>\n        <span begin=\"02:34.317\" end=\"02:35.989\">dark<\/span>\n      <\/p>\n      <p begin=\"02:36.540\" end=\"02:40.254\" ttm:agent=\"v1\">\n        <span begin=\"02:36.543\" end=\"02:37.123\">Waitin‘<\/span>\n        <span begin=\"02:37.123\" end=\"02:37.488\">in<\/span>\n        <span begin=\"02:37.488\" end=\"02:37.774\">a<\/span>\n        <span begin=\"02:37.774\" end=\"02:40.254\">car<\/span>\n      <\/p>\n      <p begin=\"02:41.050\" end=\"02:44.969\" ttm:agent=\"v1\">\n        <span begin=\"02:41.059\" end=\"02:41.710\">Waitin‘<\/span>\n        <span begin=\"02:41.710\" end=\"02:41.993\">for<\/span>\n        <span begin=\"02:41.993\" end=\"02:42.310\">a<\/span>\n        <span begin=\"02:42.310\" end=\"02:43.027\">ride<\/span>\n        <span begin=\"02:43.027\" end=\"02:43.268\">in<\/span>\n        <span begin=\"02:43.268\" end=\"02:43.511\">the<\/span>\n        <span begin=\"02:43.511\" end=\"02:44.969\">dark<\/span>\n      <\/p>\n      <p begin=\"02:45.680\" end=\"02:49.370\" ttm:agent=\"v1\">\n        <span begin=\"02:45.687\" end=\"02:46.287\">Waitin‘<\/span>\n        <span begin=\"02:46.287\" end=\"02:46.586\">in<\/span>\n        <span begin=\"02:46.586\" end=\"02:46.903\">a<\/span>\n        <span begin=\"02:46.903\" end=\"02:49.370\">car<\/span>\n      <\/p>\n      <p begin=\"02:45.680\" end=\"02:49.486\" role=\"x-bg\">\n        <span begin=\"02:47.398\" end=\"02:48.014\">(Waitin&apos;<\/span>\n        <span begin=\"02:48.014\" end=\"02:48.281\">in<\/span>\n        <span begin=\"02:48.281\" end=\"02:48.596\">a<\/span>\n        <span begin=\"02:48.596\" end=\"02:49.486\">car)<\/span>\n      <\/p>\n      <p begin=\"02:50.230\" end=\"02:54.010\" ttm:agent=\"v1\">\n        <span begin=\"02:50.234\" end=\"02:50.853\">Waitin‘<\/span>\n        <span begin=\"02:50.853\" end=\"02:51.151\">for<\/span>\n        <span begin=\"02:51.151\" end=\"02:51.469\">a<\/span>\n        <span begin=\"02:51.469\" end=\"02:52.186\">ride<\/span>\n        <span begin=\"02:52.186\" end=\"02:52.402\">in<\/span>\n        <span begin=\"02:52.402\" end=\"02:52.551\">the<\/span>\n        <span begin=\"02:52.551\" end=\"02:54.010\">dark<\/span>\n      <\/p>\n      <p begin=\"02:54.790\" end=\"02:58.662\" ttm:agent=\"v1\">\n        <span begin=\"02:54.795\" end=\"02:55.446\">Waitin‘<\/span>\n        <span begin=\"02:55.446\" end=\"02:55.728\">in<\/span>\n        <span begin=\"02:55.728\" end=\"02:56.046\">a<\/span>\n        <span begin=\"02:56.046\" end=\"02:58.662\">car<\/span>\n      <\/p>\n      <p begin=\"02:54.790\" end=\"02:58.767\" role=\"x-bg\">\n        <span begin=\"02:56.617\" end=\"02:57.151\">(Waitin&apos;<\/span>\n        <span begin=\"02:57.151\" end=\"02:57.465\">in<\/span>\n        <span begin=\"02:57.465\" end=\"02:57.767\">a<\/span>\n        <span begin=\"02:57.767\" end=\"02:58.767\">car)<\/span>\n      <\/p>\n      <p begin=\"02:59.330\" end=\"03:03.126\" ttm:agent=\"v1\">\n        <span begin=\"02:59.337\" end=\"02:59.921\">Waitin‘<\/span>\n        <span begin=\"02:59.921\" end=\"03:00.270\">for<\/span>\n        <span begin=\"03:00.270\" end=\"03:00.622\">a<\/span>\n        <span begin=\"03:00.622\" end=\"03:01.337\">ride<\/span>\n        <span begin=\"03:01.337\" end=\"03:01.556\">in<\/span>\n        <span begin=\"03:01.556\" end=\"03:01.689\">the<\/span>\n        <span begin=\"03:01.689\" end=\"03:03.126\">dark<\/span>\n      <\/p>\n    <\/div>\n  <\/body>\n<\/tt>",
+  "lines": [
+    {
+      "time": 37650,
+      "endTime": 41191,
+      "text": "Waitin‘ in a car",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 37654,
+          "endTime": 38321,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 38321,
+          "endTime": 38587,
+          "word": "in"
+        },
+        {
+          "startTime": 38587,
+          "endTime": 38905,
+          "word": "a"
+        },
+        {
+          "startTime": 38905,
+          "endTime": 41191,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 42200,
+      "endTime": 46334,
+      "text": "Waitin‘ for a ride in the dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 42204,
+          "endTime": 42820,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 42820,
+          "endTime": 43137,
+          "word": "for"
+        },
+        {
+          "startTime": 43137,
+          "endTime": 43455,
+          "word": "a"
+        },
+        {
+          "startTime": 43455,
+          "endTime": 44252,
+          "word": "ride"
+        },
+        {
+          "startTime": 44252,
+          "endTime": 44404,
+          "word": "in"
+        },
+        {
+          "startTime": 44404,
+          "endTime": 44588,
+          "word": "the"
+        },
+        {
+          "startTime": 44588,
+          "endTime": 46334,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 46550,
+      "endTime": 50604,
+      "text": "At night, the city grows",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 46551,
+          "endTime": 46868,
+          "word": "At"
+        },
+        {
+          "startTime": 46868,
+          "endTime": 47167,
+          "word": "night,"
+        },
+        {
+          "startTime": 47167,
+          "endTime": 47449,
+          "word": "the"
+        },
+        {
+          "startTime": 47449,
+          "endTime": 48017,
+          "word": "city"
+        },
+        {
+          "startTime": 48017,
+          "endTime": 50604,
+          "word": "grows"
+        }
+      ]
+    },
+    {
+      "time": 51440,
+      "endTime": 55300,
+      "text": "Look and see her eyes, they glow",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 51446,
+          "endTime": 51747,
+          "word": "Look"
+        },
+        {
+          "startTime": 51747,
+          "endTime": 52014,
+          "word": "and"
+        },
+        {
+          "startTime": 52014,
+          "endTime": 52328,
+          "word": "see"
+        },
+        {
+          "startTime": 52328,
+          "endTime": 52614,
+          "word": "her"
+        },
+        {
+          "startTime": 52614,
+          "endTime": 53696,
+          "word": "eyes,"
+        },
+        {
+          "startTime": 53696,
+          "endTime": 54296,
+          "word": "they"
+        },
+        {
+          "startTime": 54296,
+          "endTime": 55300,
+          "word": "glow"
+        }
+      ]
+    },
+    {
+      "time": 74240,
+      "endTime": 77726,
+      "text": "Waitin‘ in a car",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 74249,
+          "endTime": 74849,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 74849,
+          "endTime": 75182,
+          "word": "in"
+        },
+        {
+          "startTime": 75182,
+          "endTime": 75465,
+          "word": "a"
+        },
+        {
+          "startTime": 75465,
+          "endTime": 77726,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 78780,
+      "endTime": 82714,
+      "text": "Waitin‘ for a ride in the dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 78781,
+          "endTime": 79440,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 79440,
+          "endTime": 79741,
+          "word": "for"
+        },
+        {
+          "startTime": 79741,
+          "endTime": 80024,
+          "word": "a"
+        },
+        {
+          "startTime": 80024,
+          "endTime": 80776,
+          "word": "ride"
+        },
+        {
+          "startTime": 80776,
+          "endTime": 81024,
+          "word": "in"
+        },
+        {
+          "startTime": 81024,
+          "endTime": 81242,
+          "word": "the"
+        },
+        {
+          "startTime": 81242,
+          "endTime": 82714,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 83290,
+      "endTime": 86735,
+      "text": "Drinkin‘ in the lights",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 83297,
+          "endTime": 84047,
+          "word": "Drinkin‘"
+        },
+        {
+          "startTime": 84047,
+          "endTime": 84313,
+          "word": "in"
+        },
+        {
+          "startTime": 84313,
+          "endTime": 84615,
+          "word": "the"
+        },
+        {
+          "startTime": 84615,
+          "endTime": 86735,
+          "word": "lights"
+        }
+      ]
+    },
+    {
+      "time": 87730,
+      "endTime": 92116,
+      "text": "Followin‘ the neon signs",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 87730,
+          "endTime": 88797,
+          "word": "Followin‘"
+        },
+        {
+          "startTime": 88797,
+          "endTime": 89146,
+          "word": "the"
+        },
+        {
+          "startTime": 89146,
+          "endTime": 90829,
+          "word": "neon"
+        },
+        {
+          "startTime": 90829,
+          "endTime": 92116,
+          "word": "signs"
+        }
+      ]
+    },
+    {
+      "time": 92480,
+      "endTime": 96146,
+      "text": "Waitin‘ for a word",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 92481,
+          "endTime": 93198,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 93198,
+          "endTime": 93515,
+          "word": "for"
+        },
+        {
+          "startTime": 93515,
+          "endTime": 93782,
+          "word": "a"
+        },
+        {
+          "startTime": 93782,
+          "endTime": 96146,
+          "word": "word"
+        }
+      ]
+    },
+    {
+      "time": 97000,
+      "endTime": 100884,
+      "text": "Lookin‘ at the milky skyline",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 97007,
+          "endTime": 97721,
+          "word": "Lookin‘"
+        },
+        {
+          "startTime": 97721,
+          "endTime": 97991,
+          "word": "at"
+        },
+        {
+          "startTime": 97991,
+          "endTime": 98308,
+          "word": "the"
+        },
+        {
+          "startTime": 98308,
+          "endTime": 99423,
+          "word": "milky"
+        },
+        {
+          "startTime": 99423,
+          "endTime": 100884,
+          "word": "skyline"
+        }
+      ]
+    },
+    {
+      "time": 101370,
+      "endTime": 105503,
+      "text": "The city is my church",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 101377,
+          "endTime": 101609,
+          "word": "The"
+        },
+        {
+          "startTime": 101609,
+          "endTime": 102377,
+          "word": "city"
+        },
+        {
+          "startTime": 102377,
+          "endTime": 102660,
+          "word": "is"
+        },
+        {
+          "startTime": 102660,
+          "endTime": 102892,
+          "word": "my"
+        },
+        {
+          "startTime": 102892,
+          "endTime": 105503,
+          "word": "church"
+        }
+      ]
+    },
+    {
+      "time": 101370,
+      "endTime": 105676,
+      "text": "(The city is my church)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 103157,
+          "endTime": 103439,
+          "word": "(The"
+        },
+        {
+          "startTime": 103439,
+          "endTime": 103991,
+          "word": "city"
+        },
+        {
+          "startTime": 103991,
+          "endTime": 104274,
+          "word": "is"
+        },
+        {
+          "startTime": 104274,
+          "endTime": 104573,
+          "word": "my"
+        },
+        {
+          "startTime": 104573,
+          "endTime": 105676,
+          "word": "church)"
+        }
+      ]
+    },
+    {
+      "time": 105980,
+      "endTime": 110039,
+      "text": "It wraps me in its blinding twilight",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 105984,
+          "endTime": 106301,
+          "word": "It"
+        },
+        {
+          "startTime": 106301,
+          "endTime": 106568,
+          "word": "wraps"
+        },
+        {
+          "startTime": 106568,
+          "endTime": 106902,
+          "word": "me"
+        },
+        {
+          "startTime": 106902,
+          "endTime": 107152,
+          "word": "in"
+        },
+        {
+          "startTime": 107152,
+          "endTime": 107416,
+          "word": "its"
+        },
+        {
+          "startTime": 107416,
+          "endTime": 108619,
+          "word": "blinding"
+        },
+        {
+          "startTime": 108619,
+          "endTime": 110039,
+          "word": "twilight"
+        }
+      ]
+    },
+    {
+      "time": 138250,
+      "endTime": 142018,
+      "text": "Waitin‘ in a car",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 138253,
+          "endTime": 138834,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 138834,
+          "endTime": 139120,
+          "word": "in"
+        },
+        {
+          "startTime": 139120,
+          "endTime": 139453,
+          "word": "a"
+        },
+        {
+          "startTime": 139453,
+          "endTime": 142018,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 142780,
+      "endTime": 146876,
+      "text": "Waitin‘ for a ride in the dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 142780,
+          "endTime": 143428,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 143428,
+          "endTime": 143711,
+          "word": "for"
+        },
+        {
+          "startTime": 143711,
+          "endTime": 144012,
+          "word": "a"
+        },
+        {
+          "startTime": 144012,
+          "endTime": 144847,
+          "word": "ride"
+        },
+        {
+          "startTime": 144847,
+          "endTime": 145015,
+          "word": "in"
+        },
+        {
+          "startTime": 145015,
+          "endTime": 145196,
+          "word": "the"
+        },
+        {
+          "startTime": 145196,
+          "endTime": 146876,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 147380,
+      "endTime": 151119,
+      "text": "Waitin‘ in a car",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 147386,
+          "endTime": 147970,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 147970,
+          "endTime": 148319,
+          "word": "in"
+        },
+        {
+          "startTime": 148319,
+          "endTime": 148586,
+          "word": "a"
+        },
+        {
+          "startTime": 148586,
+          "endTime": 151119,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 147380,
+      "endTime": 153323,
+      "text": "(Waitin' in a car)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 149110,
+          "endTime": 149710,
+          "word": "(Waitin'"
+        },
+        {
+          "startTime": 149710,
+          "endTime": 150027,
+          "word": "in"
+        },
+        {
+          "startTime": 150027,
+          "endTime": 150326,
+          "word": "a"
+        },
+        {
+          "startTime": 150326,
+          "endTime": 153323,
+          "word": "car)"
+        }
+      ]
+    },
+    {
+      "time": 151930,
+      "endTime": 155989,
+      "text": "Waitin‘ for a ride in the dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 151933,
+          "endTime": 152565,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 152565,
+          "endTime": 152866,
+          "word": "for"
+        },
+        {
+          "startTime": 152866,
+          "endTime": 153165,
+          "word": "a"
+        },
+        {
+          "startTime": 153165,
+          "endTime": 153965,
+          "word": "ride"
+        },
+        {
+          "startTime": 153965,
+          "endTime": 154215,
+          "word": "in"
+        },
+        {
+          "startTime": 154215,
+          "endTime": 154317,
+          "word": "the"
+        },
+        {
+          "startTime": 154317,
+          "endTime": 155989,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 156540,
+      "endTime": 160254,
+      "text": "Waitin‘ in a car",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 156543,
+          "endTime": 157123,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 157123,
+          "endTime": 157488,
+          "word": "in"
+        },
+        {
+          "startTime": 157488,
+          "endTime": 157774,
+          "word": "a"
+        },
+        {
+          "startTime": 157774,
+          "endTime": 160254,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 161050,
+      "endTime": 164969,
+      "text": "Waitin‘ for a ride in the dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 161059,
+          "endTime": 161710,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 161710,
+          "endTime": 161993,
+          "word": "for"
+        },
+        {
+          "startTime": 161993,
+          "endTime": 162310,
+          "word": "a"
+        },
+        {
+          "startTime": 162310,
+          "endTime": 163027,
+          "word": "ride"
+        },
+        {
+          "startTime": 163027,
+          "endTime": 163268,
+          "word": "in"
+        },
+        {
+          "startTime": 163268,
+          "endTime": 163511,
+          "word": "the"
+        },
+        {
+          "startTime": 163511,
+          "endTime": 164969,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 165680,
+      "endTime": 169370,
+      "text": "Waitin‘ in a car",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 165687,
+          "endTime": 166287,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 166287,
+          "endTime": 166586,
+          "word": "in"
+        },
+        {
+          "startTime": 166586,
+          "endTime": 166903,
+          "word": "a"
+        },
+        {
+          "startTime": 166903,
+          "endTime": 169370,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 165680,
+      "endTime": 169486,
+      "text": "(Waitin' in a car)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 167398,
+          "endTime": 168014,
+          "word": "(Waitin'"
+        },
+        {
+          "startTime": 168014,
+          "endTime": 168281,
+          "word": "in"
+        },
+        {
+          "startTime": 168281,
+          "endTime": 168596,
+          "word": "a"
+        },
+        {
+          "startTime": 168596,
+          "endTime": 169486,
+          "word": "car)"
+        }
+      ]
+    },
+    {
+      "time": 170230,
+      "endTime": 174010,
+      "text": "Waitin‘ for a ride in the dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 170234,
+          "endTime": 170853,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 170853,
+          "endTime": 171151,
+          "word": "for"
+        },
+        {
+          "startTime": 171151,
+          "endTime": 171469,
+          "word": "a"
+        },
+        {
+          "startTime": 171469,
+          "endTime": 172186,
+          "word": "ride"
+        },
+        {
+          "startTime": 172186,
+          "endTime": 172402,
+          "word": "in"
+        },
+        {
+          "startTime": 172402,
+          "endTime": 172551,
+          "word": "the"
+        },
+        {
+          "startTime": 172551,
+          "endTime": 174010,
+          "word": "dark"
+        }
+      ]
+    },
+    {
+      "time": 174790,
+      "endTime": 178662,
+      "text": "Waitin‘ in a car",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 174795,
+          "endTime": 175446,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 175446,
+          "endTime": 175728,
+          "word": "in"
+        },
+        {
+          "startTime": 175728,
+          "endTime": 176046,
+          "word": "a"
+        },
+        {
+          "startTime": 176046,
+          "endTime": 178662,
+          "word": "car"
+        }
+      ]
+    },
+    {
+      "time": 174790,
+      "endTime": 178767,
+      "text": "(Waitin' in a car)",
+      "isBackground": true,
+      "words": [
+        {
+          "startTime": 176617,
+          "endTime": 177151,
+          "word": "(Waitin'"
+        },
+        {
+          "startTime": 177151,
+          "endTime": 177465,
+          "word": "in"
+        },
+        {
+          "startTime": 177465,
+          "endTime": 177767,
+          "word": "a"
+        },
+        {
+          "startTime": 177767,
+          "endTime": 178767,
+          "word": "car)"
+        }
+      ]
+    },
+    {
+      "time": 179330,
+      "endTime": 183126,
+      "text": "Waitin‘ for a ride in the dark",
+      "agent": "v1",
+      "words": [
+        {
+          "startTime": 179337,
+          "endTime": 179921,
+          "word": "Waitin‘"
+        },
+        {
+          "startTime": 179921,
+          "endTime": 180270,
+          "word": "for"
+        },
+        {
+          "startTime": 180270,
+          "endTime": 180622,
+          "word": "a"
+        },
+        {
+          "startTime": 180622,
+          "endTime": 181337,
+          "word": "ride"
+        },
+        {
+          "startTime": 181337,
+          "endTime": 181556,
+          "word": "in"
+        },
+        {
+          "startTime": 181556,
+          "endTime": 181689,
+          "word": "the"
+        },
+        {
+          "startTime": 181689,
+          "endTime": 183126,
+          "word": "dark"
+        }
+      ]
+    }
+  ]
+}
